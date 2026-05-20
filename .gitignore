@@ -1,0 +1,18 @@
+# 原始 PDF 文件（体积过大，约 620MB）
+京剧剧本/
+
+# macOS 系统文件
+.DS_Store
+**/.DS_Store
+
+# Office 临时文件
+~$*.docx
+~$*.xlsx
+~$*.pptx
+
+# Python 缓存
+__pycache__/
+*.pyc
+
+# 处理脚本临时文件
+outputs/

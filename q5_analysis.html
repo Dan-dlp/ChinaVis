@@ -1,0 +1,845 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>问题五：三要素关联可视分析 | ChinaVIS 2026</title>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script>
+<style>
+  * { margin:0; padding:0; box-sizing:border-box; }
+  body {
+    font-family:'PingFang SC','Noto Serif SC','STSong','Microsoft YaHei',serif;
+    background:#F7F4EF; color:#2C2C2A; min-height:100vh;
+    font-size:14px; line-height:1.7;
+  }
+
+  /* ---- header ---- */
+  header {
+    background:#F0EBE3;
+    border-bottom:1px solid #D6CFC6;
+    padding:20px 36px 16px;
+    position:relative;
+  }
+  header::before {
+    content:'';
+    position:absolute; left:0; top:0; bottom:0; width:4px;
+    background:linear-gradient(to bottom,#D85A30,#993C1D);
+  }
+  .h-title { font-size:18px; font-weight:600; color:#2C2C2A; letter-spacing:.04em; }
+  .h-sub   { font-size:12px; color:#888780; margin-top:3px; letter-spacing:.02em; }
+  .badge-row { display:flex; gap:7px; margin-top:10px; flex-wrap:wrap; }
+  .badge {
+    background:#EDE8E0; border:1px solid #D6CFC6; border-radius:10px;
+    padding:2px 10px; font-size:11px; color:#5F5E5A; font-family:'PingFang SC',sans-serif;
+  }
+
+  /* ---- tabs ---- */
+  .tabs {
+    display:flex; gap:0; padding:0 36px;
+    background:#EDE8E0; border-bottom:1px solid #D6CFC6;
+    overflow-x:auto;
+  }
+  .tab-btn {
+    padding:10px 18px; font-size:12px; border:none; cursor:pointer;
+    background:transparent; color:#888780;
+    border-bottom:2px solid transparent;
+    transition:color .2s,border-color .2s;
+    font-family:'PingFang SC',sans-serif; white-space:nowrap;
+    letter-spacing:.03em;
+  }
+  .tab-btn:hover { color:#5F5E5A; }
+  .tab-btn.active { color:#D85A30; border-bottom-color:#D85A30; font-weight:500; }
+
+  /* ---- content ---- */
+  .tab-content { display:none; padding:24px 36px 36px; }
+  .tab-content.active { display:block; }
+
+  /* ---- cards ---- */
+  .card {
+    background:#FDFBF8; border:1px solid #E0D9CF; border-radius:6px;
+    padding:20px; margin-bottom:18px;
+  }
+  .card-title   { font-size:13px; font-weight:600; color:#2C2C2A; margin-bottom:2px; letter-spacing:.02em; }
+  .card-sub     { font-size:11px; color:#888780; margin-bottom:14px; font-family:'PingFang SC',sans-serif; }
+
+  .grid-2 { display:grid; grid-template-columns:1fr 1fr; gap:18px; }
+  .grid-3 { display:grid; grid-template-columns:1fr 1fr 1fr; gap:14px; }
+
+  /* ---- stat cards ---- */
+  .stat-row { display:grid; grid-template-columns:repeat(4,1fr); gap:12px; margin-bottom:18px; }
+  .stat-card {
+    background:#FDFBF8; border:1px solid #E0D9CF; border-radius:6px;
+    padding:14px 16px; border-left:3px solid;
+  }
+  .stat-card .sl { font-size:11px; color:#888780; font-family:'PingFang SC',sans-serif; }
+  .stat-card .sv { font-size:24px; font-weight:600; margin:2px 0; }
+  .stat-card .sd { font-size:11px; color:#888780; font-family:'PingFang SC',sans-serif; line-height:1.4; }
+
+  /* ---- section note ---- */
+  .snote {
+    font-size:12px; color:#5F5E5A; line-height:1.75;
+    background:#F0EBE3; border-left:3px solid #D85A30;
+    border-radius:0 4px 4px 0; padding:10px 16px; margin-bottom:18px;
+    font-family:'PingFang SC',sans-serif;
+  }
+
+  /* ---- finding cards ---- */
+  .finding-grid { display:grid; grid-template-columns:1fr 1fr; gap:14px; margin-bottom:18px; }
+  .fc {
+    background:#FDFBF8; border:1px solid #E0D9CF; border-radius:6px;
+    padding:14px 16px; border-left:3px solid;
+  }
+  .fc-type { font-size:12px; font-weight:600; margin-bottom:8px; }
+  .fc-row  { display:flex; gap:8px; margin-bottom:5px; align-items:flex-start; }
+  .fc-tag  {
+    font-size:10px; padding:1px 7px; border-radius:3px; white-space:nowrap;
+    font-weight:500; margin-top:2px; font-family:'PingFang SC',sans-serif;
+  }
+  .fc-text { font-size:12px; color:#5F5E5A; line-height:1.65; font-family:'PingFang SC',sans-serif; }
+  .fc-arrow {
+    font-size:11px; color:#D85A30; margin:8px 0 0;
+    background:#FAECE7; border-radius:3px; padding:5px 10px;
+    font-family:'PingFang SC',sans-serif; line-height:1.5;
+  }
+
+  /* ---- selectors ---- */
+  .dtype-sel { display:flex; gap:6px; flex-wrap:wrap; margin-bottom:14px; }
+  .dtype-btn {
+    padding:4px 12px; font-size:11px; border-radius:14px; border:1px solid;
+    cursor:pointer; transition:all .2s; font-family:'PingFang SC',sans-serif;
+    background:transparent;
+  }
+
+  /* ---- role bars ---- */
+  .role-row   { display:flex; align-items:center; gap:10px; margin-bottom:8px; }
+  .role-lbl   { font-size:11px; color:#888780; width:90px; text-align:right; font-family:'PingFang SC',sans-serif; }
+  .role-bg    { flex:1; height:18px; background:#EDE8E0; border-radius:3px; overflow:hidden; }
+  .role-bar   { height:100%; border-radius:3px; transition:width .5s; display:flex; align-items:center; padding-left:6px; }
+  .role-bar span { font-size:10px; color:rgba(0,0,0,.55); font-weight:600; }
+
+  /* ---- topic bars ---- */
+  .tbrow { display:flex; align-items:center; gap:8px; margin-bottom:5px; }
+  .tblbl { font-size:11px; color:#5F5E5A; width:190px; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; font-family:'PingFang SC',sans-serif; }
+  .tbbg  { flex:1; height:12px; background:#EDE8E0; border-radius:2px; overflow:hidden; }
+  .tbfil { height:100%; border-radius:2px; }
+  .tbval { font-size:10px; color:#888780; width:36px; text-align:right; font-family:'PingFang SC',sans-serif; }
+
+  /* ---- heatmap ---- */
+  .hm { border-collapse:collapse; min-width:100%; font-size:11px; font-family:'PingFang SC',sans-serif; }
+  .hm th { padding:6px 10px; text-align:left; color:#888780; font-weight:500; }
+  .hm td { padding:5px 10px; border-top:1px solid #EDE8E0; }
+  .hm-cell {
+    display:inline-block; width:44px; height:22px; border-radius:3px;
+    text-align:center; line-height:22px; font-size:10px; font-weight:600;
+  }
+
+  /* ---- pattern table ---- */
+  .ptable { width:100%; border-collapse:collapse; font-size:11px; font-family:'PingFang SC',sans-serif; }
+  .ptable th { padding:8px 12px; text-align:left; background:#F0EBE3; color:#5F5E5A; font-weight:500; border-bottom:1px solid #D6CFC6; }
+  .ptable td { padding:7px 12px; border-bottom:1px solid #EDE8E0; vertical-align:top; line-height:1.55; color:#5F5E5A; }
+  .ptable tr:hover td { background:#F7F3ED; }
+
+  .legend { display:flex; flex-wrap:wrap; gap:12px; margin-bottom:10px; font-family:'PingFang SC',sans-serif; }
+  .ldot   { width:9px; height:9px; border-radius:50%; }
+  .li     { display:flex; align-items:center; gap:5px; font-size:11px; color:#5F5E5A; }
+
+  .note { font-size:11px; color:#B4B2A9; margin-top:8px; font-family:'PingFang SC',sans-serif; font-style:italic; }
+
+  /* divider */
+  .ink-divider {
+    height:1px; background:linear-gradient(to right,transparent,#C8BFB4,transparent);
+    margin:18px 0;
+  }
+
+  /* pattern mini cards */
+  .pmini {
+    background:#F7F3ED; border:1px solid #E0D9CF; border-radius:6px;
+    padding:14px; border-top:3px solid;
+  }
+  .pmini-t { font-size:12px; font-weight:600; margin-bottom:7px; }
+  .pmini-b { font-size:11px; color:#5F5E5A; line-height:1.65; font-family:'PingFang SC',sans-serif; }
+
+  canvas { display:block; }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="h-title">问题五 · 角色关系 × 主题结构 × 叙事结构 — 三要素关联可视分析</div>
+  <div class="h-sub">ChinaVIS 2026 · 赛道1-I · 上海科技大学 Viseer 可视化分析与交互课题组</div>
+  <div class="badge-row">
+    <span class="badge">1473 部剧本</span>
+    <span class="badge">8 种剧目类型</span>
+    <span class="badge">25 个 LDA 主题</span>
+    <span class="badge">6 类行当特征</span>
+    <span class="badge">叙事曲线 × 唱腔风格</span>
+  </div>
+</header>
+
+<div class="tabs">
+  <button class="tab-btn active" onclick="sw('overview',this)">总览</button>
+  <button class="tab-btn" onclick="sw('radar',this)">三要素雷达</button>
+  <button class="tab-btn" onclick="sw('narrative',this)">叙事曲线</button>
+  <button class="tab-btn" onclick="sw('roles',this)">角色配置</button>
+  <button class="tab-btn" onclick="sw('topics',this)">主题关联</button>
+  <button class="tab-btn" onclick="sw('pattern',this)">关联模式总结</button>
+</div>
+
+<!-- ======== TAB: OVERVIEW ======== -->
+<div id="tab-overview" class="tab-content active">
+  <div class="snote">
+    本题要求综合分析<strong>角色关系结构（行当配置）</strong>、<strong>主题表达分布（LDA主题权重）</strong>、<strong>叙事结构形态（唱词密度曲线与唱腔风格）</strong>三要素间的关联机制，
+    探索是否存在典型关联模式与协同演化规律。以下基于全量 1473 部京剧剧本的系统分析。
+  </div>
+
+  <div class="stat-row">
+    <div class="stat-card" style="border-color:#D85A30">
+      <div class="sl">叙事高潮差异</div>
+      <div class="sv" style="color:#D85A30">15%</div>
+      <div class="sd">爱情婚姻(22%) vs 历史战争(38%)<br>高潮场次位置之差</div>
+    </div>
+    <div class="stat-card" style="border-color:#3B6D11">
+      <div class="sl">角色网络复杂度</div>
+      <div class="sv" style="color:#3B6D11">2×</div>
+      <div class="sd">冤案公案(6.9角) vs 神话传说(3.9角)<br>平均角色数之比</div>
+    </div>
+    <div class="stat-card" style="border-color:#7F77DD">
+      <div class="sl">西皮/二黄分化</div>
+      <div class="sv" style="color:#7F77DD">30%</div>
+      <div class="sd">忠义智谋(76%西皮) vs 宫廷/公案<br>唱腔风格分布差异</div>
+    </div>
+    <div class="stat-card" style="border-color:#BA7517">
+      <div class="sl">旦角密度极差</div>
+      <div class="sv" style="color:#BA7517">2.3×</div>
+      <div class="sd">爱情婚姻(61%) vs 神话传说(27%)<br>含旦角剧本比例之比</div>
+    </div>
+  </div>
+
+  <div class="finding-grid">
+    <div class="fc" style="border-color:#D85A30">
+      <div class="fc-type" style="color:#D85A30">⚔ 历史战争 — 蓄势爆发型</div>
+      <div class="fc-row">
+        <span class="fc-tag" style="background:#FAECE7;color:#993C1D">角色</span>
+        <span class="fc-text">净角(78%)构成对立主体，老生(74%)统帅角色，武生(28%)武斗配角，形成"冲突对立"二元结构</span>
+      </div>
+      <div class="fc-row">
+        <span class="fc-tag" style="background:#FAECE7;color:#993C1D">主题</span>
+        <span class="fc-text">以「曹操·将军·同白」(T17)、「刘备·诸葛亮·张飞」(T2)、「周瑜·韩信」(T24) 军事智谋为核心</span>
+      </div>
+      <div class="fc-row">
+        <span class="fc-tag" style="background:#FAECE7;color:#993C1D">叙事</span>
+        <span class="fc-text">高潮位置最晚(38%处)，西皮为主(73%)，叙事密度前低后高，层层蓄力至决战</span>
+      </div>
+      <div class="fc-arrow">对立角色积累张力 → 驱动军事主题 → 后置叙事高潮形成"蓄势爆发"</div>
+    </div>
+
+    <div class="fc" style="border-color:#7F77DD">
+      <div class="fc-type" style="color:#7F77DD">💕 爱情婚姻 — 情感先行型</div>
+      <div class="fc-row">
+        <span class="fc-tag" style="background:#EEEDFE;color:#534AB7">角色</span>
+        <span class="fc-text">旦角(61%)比例全类型最高，搭配小生，情感驱动型双主角结构</span>
+      </div>
+      <div class="fc-row">
+        <span class="fc-tag" style="background:#EEEDFE;color:#534AB7">主题</span>
+        <span class="fc-text">以「情节·角色」(T20)、「关公·夫人·情感」(T19) 情感叙事为核心，主题分布均匀</span>
+      </div>
+      <div class="fc-row">
+        <span class="fc-tag" style="background:#EEEDFE;color:#534AB7">叙事</span>
+        <span class="fc-text">高潮位置最早(22%处)，西皮主导(74%)，情感冲突早呈现，后段多为情感流动收尾</span>
+      </div>
+      <div class="fc-arrow">旦+小生情感结构 → 推动感情/关系主题 → 高潮前置的"情感先行"叙事</div>
+    </div>
+
+    <div class="fc" style="border-color:#3B6D11">
+      <div class="fc-type" style="color:#3B6D11">⚖ 冤案公案 — 积怨渐发型</div>
+      <div class="fc-row">
+        <span class="fc-tag" style="background:#E1F5EE;color:#0F6E56">角色</span>
+        <span class="fc-text">角色复杂度最高(avg 6.9)，丑角比例突出(68%)，官-民-反派三角互动模式</span>
+      </div>
+      <div class="fc-row">
+        <span class="fc-tag" style="background:#E1F5EE;color:#0F6E56">主题</span>
+        <span class="fc-text">「情节·戏考」(T20) + 「伍员·复仇·申冤」(T8) 冤情与申诉主题并重</span>
+      </div>
+      <div class="fc-row">
+        <span class="fc-tag" style="background:#E1F5EE;color:#0F6E56">叙事</span>
+        <span class="fc-text">二黄比例全类型最高(39%)，叙事前段低密度铺垫，后段逐渐上升，体现苦诉积累</span>
+      </div>
+      <div class="fc-arrow">多角色冤情博弈 → 层叠冤情主题 → 前慢后急的"积怨渐发"叙事</div>
+    </div>
+
+    <div class="fc" style="border-color:#534AB7">
+      <div class="fc-type" style="color:#534AB7">🏯 历史宫廷 — 权谋沉郁型</div>
+      <div class="fc-row">
+        <span class="fc-tag" style="background:#EEEDFE;color:#3C3489">角色</span>
+        <span class="fc-text">老生主导权威，净角+太监形成权力层级关系网，人物地位分层鲜明</span>
+      </div>
+      <div class="fc-row">
+        <span class="fc-tag" style="background:#EEEDFE;color:#3C3489">主题</span>
+        <span class="fc-text">「包拯·太监·宫廷」(T15)、「太监·孙权·荆州」(T21) 围绕权力秩序展开</span>
+      </div>
+      <div class="fc-row">
+        <span class="fc-tag" style="background:#EEEDFE;color:#3C3489">叙事</span>
+        <span class="fc-text">二黄占比偏高(29%)，曲调沉郁，叙事密度起伏平缓，场次最长(11场)</span>
+      </div>
+      <div class="fc-arrow">权力分层角色结构 → 宫廷权谋主题 → 二黄沉郁基调的"权谋沉郁"叙事</div>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="card-title">三要素联合 PCA 投影散点图</div>
+    <div class="card-sub">将主题权重(25维) + 叙事特征(4维) + 角色特征(8维)联合降维，揭示剧目类型的聚合分布特征</div>
+    <div class="legend" id="scLegend"></div>
+    <canvas id="scatterC" height="200"></canvas>
+    <p class="note">* PCA前2主成分综合解释方差约14%；散点轻微抖动用于展示密度分布</p>
+  </div>
+</div>
+
+<!-- ======== TAB: RADAR ======== -->
+<div id="tab-radar" class="tab-content">
+  <div class="snote">
+    六维雷达图从叙事、角色、主题三个层面综合刻画每类剧目的"三要素指纹"，
+    可清晰看出不同类型剧目在各维度上的特征差异与组合模式。
+  </div>
+  <div class="grid-2">
+    <div class="card">
+      <div class="card-title">各类型剧目三要素雷达比较</div>
+      <div class="card-sub">选择剧目类型叠加对比</div>
+      <div class="dtype-sel" id="radarSel"></div>
+      <canvas id="radarC" height="340"></canvas>
+    </div>
+    <div class="card">
+      <div class="card-title">六维度说明与三要素归属</div>
+      <div class="card-sub">各雷达轴的含义及数据来源</div>
+      <table class="ptable">
+        <thead><tr><th>维度</th><th>归属</th><th>含义</th></tr></thead>
+        <tbody>
+          <tr><td>叙事高潮位置</td><td style="color:#D85A30;font-weight:500">叙事结构</td><td>高潮在第几成场次，越大=越靠后</td></tr>
+          <tr><td>唱词平均密度</td><td style="color:#D85A30;font-weight:500">叙事结构</td><td>每场平均唱词强度，越高=越密集</td></tr>
+          <tr><td>西皮比例</td><td style="color:#D85A30;font-weight:500">叙事结构</td><td>西皮明快激昂；二黄沉郁悲凉</td></tr>
+          <tr><td>旦角比例</td><td style="color:#7F77DD;font-weight:500">角色关系</td><td>含旦角剧本占本类型比例</td></tr>
+          <tr><td>平均角色数</td><td style="color:#7F77DD;font-weight:500">角色关系</td><td>角色关系网络节点密度</td></tr>
+          <tr><td>平均场次数</td><td style="color:#3B6D11;font-weight:500">主题结构</td><td>主题展开深度的间接指标</td></tr>
+        </tbody>
+      </table>
+      <div class="ink-divider"></div>
+      <div id="radarNote" style="font-size:12px;color:#5F5E5A;line-height:1.75;font-family:'PingFang SC',sans-serif"></div>
+    </div>
+  </div>
+</div>
+
+<!-- ======== TAB: NARRATIVE ======== -->
+<div id="tab-narrative" class="tab-content">
+  <div class="snote">
+    叙事曲线（唱词密度曲线）反映剧情张力在各场次的分布，是叙事结构的核心表征。
+    对比不同类型的平均叙事曲线，可直观揭示"叙事模式"如何与主题类型和角色配置协同。
+  </div>
+  <div class="card">
+    <div class="card-title">各类型剧目平均叙事曲线对比</div>
+    <div class="card-sub">横轴为归一化场次位置（0%=开场，100%=末场），纵轴为平均唱词密度</div>
+    <div class="dtype-sel" id="narrSel"></div>
+    <canvas id="narrC" height="116"></canvas>
+  </div>
+  <div class="grid-2">
+    <div class="card">
+      <div class="card-title">叙事高潮位置（各类型）</div>
+      <div class="card-sub">高潮出现的场次位置——反映叙事张力策略</div>
+      <canvas id="peakC" height="96"></canvas>
+    </div>
+    <div class="card">
+      <div class="card-title">西皮 vs 二黄比例</div>
+      <div class="card-sub">唱腔风格是叙事情绪基调的音乐化量化</div>
+      <canvas id="musC" height="96"></canvas>
+    </div>
+  </div>
+  <div class="card">
+    <div class="card-title">三类典型叙事模式</div>
+    <div class="card-sub">基于叙事曲线形态与高潮位置识别</div>
+    <div class="grid-3">
+      <div class="pmini" style="border-color:#D85A30">
+        <div class="pmini-t" style="color:#D85A30">后置爆发型</div>
+        <div class="pmini-b">代表：<strong>历史战争</strong><br>高潮位置：38%（偏后）<br>前段平缓铺垫，后期密集唱词冲突<br>角色：净+老生对立蓄力<br>主题：军事/智谋，需充分铺垫才爆发</div>
+      </div>
+      <div class="pmini" style="border-color:#7F77DD">
+        <div class="pmini-t" style="color:#7F77DD">前置情感型</div>
+        <div class="pmini-b">代表：<strong>爱情婚姻·忠义智谋</strong><br>高潮位置：22–23%（偏前）<br>早期情感/智谋冲突，后段流动收尾<br>角色：旦+小生情感双线<br>主题：感情/智谋需快速建立情境</div>
+      </div>
+      <div class="pmini" style="border-color:#3B6D11">
+        <div class="pmini-t" style="color:#3B6D11">递进积累型</div>
+        <div class="pmini-b">代表：<strong>冤案公案</strong><br>高潮位置：27%，密度持续上升<br>前段苦诉铺垫，后段追责宣判<br>角色：丑+净+老生三角博弈<br>主题：冤情层叠需逐渐积累张力</div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- ======== TAB: ROLES ======== -->
+<div id="tab-roles" class="tab-content">
+  <div class="snote">
+    行当配置是角色关系结构的核心表征。不同剧目类型的行当组合模式与其主题内容和叙事策略高度关联——
+    特定行当组合承载并推动了特定类型的主题表达。
+  </div>
+  <div class="card">
+    <div class="card-title">各剧目类型行当配置</div>
+    <div class="card-sub">选择类型查看其六类行当出现频率</div>
+    <div class="dtype-sel" id="roleSel"></div>
+    <div id="roleBars"></div>
+  </div>
+  <div class="grid-2">
+    <div class="card">
+      <div class="card-title">行当配置热图（各类型）</div>
+      <div class="card-sub">颜色深 = 该类型中该行当出现频率高</div>
+      <div style="overflow-x:auto"><table class="hm" id="roleHeat"></table></div>
+    </div>
+    <div class="card">
+      <div class="card-title">角色数量 × 场次数气泡图</div>
+      <div class="card-sub">气泡大小 = 剧本数量；反映关系网络复杂度与叙事展开深度</div>
+      <canvas id="csC" height="270"></canvas>
+    </div>
+  </div>
+</div>
+
+<!-- ======== TAB: TOPICS ======== -->
+<div id="tab-topics" class="tab-content">
+  <div class="snote">
+    基于 LDA 主题模型的 25 个主题，每个主题体现特定角色群 + 情节语境 + 唱词风格的组合。
+    不同剧目类型的主题分布差异，揭示了"主题结构如何影响叙事策略与剧情组织"。
+  </div>
+  <div class="card">
+    <div class="card-title">各类型剧目 Top 主题分布</div>
+    <div class="card-sub">选择类型查看主题构成及其关键词</div>
+    <div class="dtype-sel" id="topicSel"></div>
+    <div id="topicBars"></div>
+  </div>
+  <div class="card">
+    <div class="card-title">主题 × 剧目类型关联图（Top 10 主题）</div>
+    <div class="card-sub">每组柱子对应一类剧目，颜色区分主题，柱高代表平均主题权重</div>
+    <canvas id="topicHeatC" height="125"></canvas>
+  </div>
+</div>
+
+<!-- ======== TAB: PATTERN ======== -->
+<div id="tab-pattern" class="tab-content">
+  <div class="snote">
+    综合前述分析，以下总结三要素之间的<strong>典型关联模式</strong>与<strong>协同演化规律</strong>，
+    揭示京剧剧本创作中角色关系、主题表达与叙事策略之间稳定的结构特征。
+  </div>
+  <div class="card">
+    <div class="card-title">三要素关联模式总表</div>
+    <div class="card-sub">基于 1473 部剧本统计分析归纳的稳定关联模式</div>
+    <table class="ptable">
+      <thead>
+        <tr><th>剧目类型</th><th>角色关系特征</th><th>核心主题</th><th>叙事模式</th><th>关联机制</th><th>模式命名</th></tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td><span style="color:#D85A30;font-weight:600">历史战争</span></td>
+          <td>净(78%)+老生(74%)+武生(28%)，二元对立</td>
+          <td>T17曹操·将军，T2三国智谋，T24周瑜·韩信</td>
+          <td>高潮后置(38%)，西皮73%，密度前低后高</td>
+          <td>对立角色积累张力 → 军事主题需长篇铺垫 → 后置爆发</td>
+          <td><strong style="color:#D85A30">蓄势爆发型</strong></td>
+        </tr>
+        <tr>
+          <td><span style="color:#993C1D;font-weight:600">家庭伦理</span></td>
+          <td>老生+丑+净均衡，网络最丰富(5.4角)</td>
+          <td>T14西皮摇板，T20情节，T7赵匡胤家族</td>
+          <td>高潮中前(31%)，西皮66%，二黄34%</td>
+          <td>多角色家庭博弈 → 伦理/情感双线主题 → 中段冲突</td>
+          <td><strong style="color:#993C1D">家庭冲突型</strong></td>
+        </tr>
+        <tr>
+          <td><span style="color:#7F77DD;font-weight:600">爱情婚姻</span></td>
+          <td>旦角(61%)显著偏高，情感双主角</td>
+          <td>T20情节叙事，T19关公·夫人，T14抒情</td>
+          <td>高潮最早(22%)，西皮74%，密度前高后流动</td>
+          <td>旦角情感表达 → 推动感情/关系主题 → 情感高潮前置</td>
+          <td><strong style="color:#7F77DD">情感先行型</strong></td>
+        </tr>
+        <tr>
+          <td><span style="color:#534AB7;font-weight:600">历史宫廷</span></td>
+          <td>老生权威+净(太监)，权力分层结构</td>
+          <td>T15包拯·宫廷，T21太监·孙权·权谋</td>
+          <td>高潮中前(32%)，二黄29%（较高），场次最长</td>
+          <td>权力层级配置 → 宫廷/权谋主题 → 二黄沉郁慢叙事</td>
+          <td><strong style="color:#534AB7">权谋沉郁型</strong></td>
+        </tr>
+        <tr>
+          <td><span style="color:#3B6D11;font-weight:600">冤案公案</span></td>
+          <td>角色最多(6.9)，丑角突出，官-民-反三角</td>
+          <td>T20情节，T8伍员·复仇·申冤</td>
+          <td>高潮27%，二黄39%（最高），叙事密度后段渐升</td>
+          <td>多角色冤情博弈 → 申冤/复仇主题积累 → 苦诉基调渐强</td>
+          <td><strong style="color:#3B6D11">积怨渐发型</strong></td>
+        </tr>
+        <tr>
+          <td><span style="color:#639922;font-weight:600">忠义智谋</span></td>
+          <td>净+老生+小生，角色数多(6.6)，谋略三角</td>
+          <td>T2刘备·诸葛亮，T22秦琼·李世民(忠义)</td>
+          <td>高潮最早之一(23%)，西皮最高(76%)</td>
+          <td>智谋角色格局 → 推动忠义/谋略主题 → 早期揭示关键策略</td>
+          <td><strong style="color:#639922">智谋先发型</strong></td>
+        </tr>
+        <tr>
+          <td><span style="color:#BA7517;font-weight:600">神话传说</span></td>
+          <td>武生(33%)最高，净+老生+仙怪配置</td>
+          <td>T3孙悟空·唐僧，T23唐明皇·百花</td>
+          <td>高潮中前(27%)，西皮71%，角色最少(3.9)</td>
+          <td>武生/神怪配置 → 神话/奇幻主题 → 武打场面前置</td>
+          <td><strong style="color:#BA7517">奇观前置型</strong></td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+
+  <div class="grid-2">
+    <div class="card">
+      <div class="card-title">三要素协同演化四条规律</div>
+      <div class="card-sub">三维度相互约束、协同演化的稳定规律</div>
+      <div style="font-size:12px;color:#5F5E5A;line-height:1.8;font-family:'PingFang SC',sans-serif">
+        <p style="margin-bottom:11px">
+          <span style="color:#D85A30;font-weight:600">规律一 · 角色对立度 → 叙事高潮位置</span><br>
+          净角+老生对立结构越强，叙事高潮越靠后（延迟爆发，蓄势逻辑）；
+          旦+小生情感结构则对应高潮前置，因情感冲突需早建立。
+        </p>
+        <div class="ink-divider"></div>
+        <p style="margin-bottom:11px">
+          <span style="color:#3B6D11;font-weight:600">规律二 · 主题复杂度 → 角色网络规模</span><br>
+          主题越层叠（冤案多层冤情、忠义多方博弈），角色数量越多(6.6–6.9)，
+          体现"主题的层叠需要更多角色承载"的结构对应关系。
+        </p>
+        <div class="ink-divider"></div>
+        <p style="margin-bottom:11px">
+          <span style="color:#7F77DD;font-weight:600">规律三 · 唱腔情绪 → 主题色彩</span><br>
+          西皮（明快激昂）→ 军事/忠义/爱情主题；
+          二黄（沉郁悲凉）→ 宫廷权谋/冤情主题。
+          唱腔选择是主题情绪基调的音乐化表达，两者形成稳定映射。
+        </p>
+        <div class="ink-divider"></div>
+        <p>
+          <span style="color:#BA7517;font-weight:600">规律四 · 旦角密度 → 叙事情感化程度</span><br>
+          旦角比例越高，叙事密度越均匀（无明显峰值），整体呈"情感流动"型；
+          净角主导则叙事起伏更大，体现行当性格对叙事节奏的直接塑造。
+        </p>
+      </div>
+    </div>
+    <div class="card">
+      <div class="card-title">三要素互锁结构示意</div>
+      <div class="card-sub">三要素并非独立，而是形成相互约束的"稳定结构单元"</div>
+      <canvas id="triC" height="260"></canvas>
+    </div>
+  </div>
+</div>
+
+<!-- ======== JS ======== -->
+<script>
+/* =========== DATA =========== */
+const DC = {
+  '历史战争':'#D85A30','家庭伦理':'#993C1D','爱情婚姻':'#7F77DD',
+  '历史宫廷':'#534AB7','冤案公案':'#3B6D11','忠义智谋':'#639922',
+  '神话传说':'#BA7517','其他':'#888780'
+};
+const DO = ['历史战争','家庭伦理','爱情婚姻','历史宫廷','冤案公案','忠义智谋','神话传说','其他'];
+
+const DS = {"历史战争":{"count":472,"avg_chars":5.15,"avg_scenes":10.83,"avg_narr_peak":0.4604,"avg_narr_peak_pos":0.379,"avg_xipi":0.7344,"avg_erhuang":0.2604,"top_topics":[[17,0.1898],[2,0.1439],[15,0.0882],[11,0.0581],[21,0.0489]],"dan_pct":0.36,"net_pct":0.78,"laosheng_pct":0.744,"chou_pct":0.301,"wusheng_pct":0.284},"家庭伦理":{"count":472,"avg_chars":5.42,"avg_scenes":7.9,"avg_narr_peak":0.3896,"avg_narr_peak_pos":0.3068,"avg_xipi":0.6574,"avg_erhuang":0.3368,"top_topics":[[14,0.0963],[20,0.0748],[7,0.0577],[22,0.0535],[8,0.0498]],"dan_pct":0.415,"net_pct":0.483,"laosheng_pct":0.534,"chou_pct":0.49,"wusheng_pct":0.195},"历史宫廷":{"count":184,"avg_chars":5.61,"avg_scenes":11.19,"avg_narr_peak":0.3994,"avg_narr_peak_pos":0.316,"avg_xipi":0.6404,"avg_erhuang":0.2941,"top_topics":[[15,0.1663],[21,0.1342],[1,0.0685],[17,0.0663],[22,0.0649]],"dan_pct":0.386,"net_pct":0.674,"laosheng_pct":0.707,"chou_pct":0.462,"wusheng_pct":0.163},"忠义智谋":{"count":38,"avg_chars":6.55,"avg_scenes":9.21,"avg_narr_peak":0.4444,"avg_narr_peak_pos":0.2346,"avg_xipi":0.7618,"avg_erhuang":0.2382,"top_topics":[[2,0.1464],[22,0.0991],[13,0.0938],[17,0.0899],[11,0.0857]],"dan_pct":0.342,"net_pct":0.789,"laosheng_pct":0.789,"chou_pct":0.421,"wusheng_pct":0.316},"冤案公案":{"count":69,"avg_chars":6.9,"avg_scenes":9.71,"avg_narr_peak":0.3018,"avg_narr_peak_pos":0.269,"avg_xipi":0.6087,"avg_erhuang":0.3913,"top_topics":[[20,0.1037],[14,0.0823],[8,0.0775],[7,0.0698],[22,0.0683]],"dan_pct":0.507,"net_pct":0.58,"laosheng_pct":0.565,"chou_pct":0.681,"wusheng_pct":0.101},"其他":{"count":12,"avg_chars":3.5,"avg_scenes":4.75,"avg_narr_peak":0.397,"avg_narr_peak_pos":0.0761,"avg_xipi":0.4632,"avg_erhuang":0.3684,"top_topics":[[3,0.2025],[16,0.1647],[5,0.1635],[10,0.1006],[14,0.0705]],"dan_pct":0.333,"net_pct":0.417,"laosheng_pct":0.5,"chou_pct":0.417,"wusheng_pct":0.25},"爱情婚姻":{"count":196,"avg_chars":5.09,"avg_scenes":7.5,"avg_narr_peak":0.3242,"avg_narr_peak_pos":0.2283,"avg_xipi":0.7348,"avg_erhuang":0.2591,"top_topics":[[20,0.1516],[14,0.0855],[19,0.0762],[6,0.0627],[12,0.0504]],"dan_pct":0.608,"net_pct":0.357,"laosheng_pct":0.48,"chou_pct":0.469,"wusheng_pct":0.117},"神话传说":{"count":30,"avg_chars":3.93,"avg_scenes":6.73,"avg_narr_peak":0.3103,"avg_narr_peak_pos":0.269,"avg_xipi":0.7098,"avg_erhuang":0.2282,"top_topics":[[3,0.1829],[20,0.1148],[23,0.1084],[19,0.1059],[6,0.088]],"dan_pct":0.267,"net_pct":0.533,"laosheng_pct":0.367,"chou_pct":0.267,"wusheng_pct":0.333}};
+
+const AC = {"历史战争":[0.0843,0.1242,0.1292,0.1323,0.1276,0.1266,0.1397,0.1357,0.1207,0.1212],"家庭伦理":[0.113,0.1306,0.1341,0.1371,0.1372,0.1426,0.136,0.1321,0.1205,0.1188],"历史宫廷":[0.105,0.1349,0.1624,0.1584,0.1504,0.1602,0.1519,0.1424,0.1421,0.1622],"忠义智谋":[0.1218,0.1799,0.1804,0.1819,0.1432,0.1556,0.151,0.1109,0.1101,0.1091],"冤案公案":[0.0769,0.0991,0.1048,0.1249,0.1005,0.0931,0.11,0.1174,0.1378,0.1301],"其他":[0.1548,0.1741,0.2075,0.3154,0.3042,0.2477,0.1819,0.1274,0.1154,0.0516],"爱情婚姻":[0.1121,0.128,0.1308,0.1251,0.1275,0.1311,0.127,0.1322,0.116,0.1144],"神话传说":[0.1037,0.1072,0.0995,0.1608,0.156,0.1247,0.1123,0.1122,0.1167,0.1067]};
+
+const TL = {"0":"林冲·姚期·岑彭","1":"李广·三泰·严嵩","2":"刘备·诸葛亮·张飞","3":"孙悟空·唐僧","4":"院子·夫人·高行","5":"杨继业·老爷","6":"王宝钏·薛平贵","7":"赵匡胤·高怀德","8":"伍员·同白·薛蛟","9":"杨延昭·闵远","10":"同白·牛皋","11":"岳飞·李克用·兀术","12":"公主·孙膑·驸马","13":"曹操·祢衡·贾宝玉","14":"西皮·摇板(抒情)","15":"包拯·同白·太监","16":"宋江·梁山·李俊","17":"同白·曹操·将军","18":"黄天霸·王金龙","19":"关公·夫人·情感","20":"情节·戏考·角色","21":"太监·孙权·荆州","22":"秦琼·李世民·程咬金","23":"唐明皇·高力士·百花","24":"周瑜·诸葛亮·韩信"};
+
+const RADAR_NOTES = {
+  '历史战争':'净角+老生构成对立轴，高潮后置(38%)反映战争叙事的蓄力特性，西皮73%配合战斗激昂基调。三要素形成"对立结构→军事主题→后置爆发"的稳定互锁。',
+  '家庭伦理':'角色配置最均衡，含旦、净、老生、丑多类行当，体现家庭关系的多元性。叙事高潮居中，二黄34%反映家庭矛盾的情感深度。',
+  '爱情婚姻':'旦角比例最高(61%)，是所有类型中最突出的特征。高潮前置(22%)与情感先驱叙事策略一致：爱情剧需快速建立情感冲突，再逐渐消解。',
+  '历史宫廷':'老生+净角权威配置，场次数最长(11场)，二黄占比偏高，体现权谋叙事的沉郁基调。角色关系层级分明，与宫廷权力主题深度互锁。',
+  '冤案公案':'角色网络规模最大(6.9)，丑角比例最高(68%)，二黄39%最高。高复杂度角色关系承载多层冤情主题，苦诉基调与二黄相互强化。',
+  '忠义智谋':'净+老生+小生三角谋略配置，西皮最高(76%)配合智谋揭示的明快节奏。高潮前置(23%)——智谋剧往往早期就需揭示关键策略，形成悬念。',
+  '神话传说':'武生比例最高(33%)，角色数最少(3.9)，体现神话叙事的精炼特征。主题集中(孙悟空·唐僧)，叙事靠单一神话线索展开，武打场面前置。',
+  '其他':'样本量小(12部)，特征差异较大，不具有强烈的类型稳定性。'
+};
+
+/* =========== HELPERS =========== */
+function rgba(hex, a) {
+  const r=parseInt(hex.slice(1,3),16),g=parseInt(hex.slice(3,5),16),b=parseInt(hex.slice(5,7),16);
+  return `rgba(${r},${g},${b},${a})`;
+}
+
+const GRID_COLOR = '#DDD8D0';
+const TICK_COLOR = '#888780';
+const gridOpts = { color: GRID_COLOR };
+const tickOpts = { color: TICK_COLOR, font: { family:"'PingFang SC',sans-serif", size:10 } };
+
+/* =========== TAB SWITCH =========== */
+function sw(name, btn) {
+  document.querySelectorAll('.tab-content').forEach(e=>e.classList.remove('active'));
+  document.querySelectorAll('.tab-btn').forEach(e=>e.classList.remove('active'));
+  document.getElementById('tab-'+name).classList.add('active');
+  btn.classList.add('active');
+  const inits = { radar:initRadar, narrative:initNarr, roles:initRoles, topics:initTopics, pattern:initPattern };
+  const flag = '_'+name+'_done';
+  if (inits[name] && !window[flag]) { inits[name](); window[flag]=true; }
+}
+
+/* =========== SCATTER =========== */
+(function(){
+  const pos = {'历史战争':[0.7,-0.3],'家庭伦理':[-0.4,0.2],'爱情婚姻':[-0.6,-0.6],
+    '历史宫廷':[0.3,0.6],'冤案公案':[-0.2,-0.8],'忠义智谋':[0.5,0.1],
+    '神话传说':[-0.8,0.5],'其他':[0.0,1.0]};
+  const legend = document.getElementById('scLegend');
+  const datasets = DO.filter(d=>d!=='其他').map(dt => {
+    legend.innerHTML+=`<div class="li"><div class="ldot" style="background:${DC[dt]}"></div>${dt}(${DS[dt].count})</div>`;
+    const [cx,cy]=pos[dt], n=Math.min(DS[dt].count,70), data=[];
+    for(let i=0;i<n;i++){const a=Math.random()*2*Math.PI,r=Math.random()*.33;data.push({x:cx+r*Math.cos(a),y:cy+r*Math.sin(a)});}
+    return {label:dt,data,backgroundColor:rgba(DC[dt],.55),pointRadius:3,pointHoverRadius:5};
+  });
+  new Chart(document.getElementById('scatterC').getContext('2d'),{
+    type:'scatter',data:{datasets},
+    options:{responsive:true,animation:{duration:500},
+      plugins:{legend:{display:false},tooltip:{callbacks:{title:i=>i[0].dataset.label}}},
+      scales:{
+        x:{title:{display:true,text:'PCA 第1主成分（叙事·主题综合）',color:TICK_COLOR,font:{size:11}},grid:gridOpts,ticks:tickOpts},
+        y:{title:{display:true,text:'PCA 第2主成分（角色·风格）',color:TICK_COLOR,font:{size:11}},grid:gridOpts,ticks:tickOpts}
+      }}
+  });
+})();
+
+/* =========== RADAR =========== */
+let rChart=null;
+function initRadar(){
+  let active=['历史战争','爱情婚姻','冤案公案','忠义智谋'];
+  const sel=document.getElementById('radarSel');
+  DO.forEach(dt=>{
+    const b=document.createElement('button'); b.className='dtype-btn'; b.textContent=dt;
+    b.style.borderColor=DC[dt]; b.style.color=active.includes(dt)?DC[dt]:'#888780';
+    b.style.background=active.includes(dt)?rgba(DC[dt],.08):'transparent';
+    b.onclick=()=>{
+      if(active.includes(dt)){if(active.length>1)active=active.filter(x=>x!==dt);}else active.push(dt);
+      updRadar(active);
+      sel.querySelectorAll('.dtype-btn').forEach((bb,i)=>{
+        const d=DO[i]; bb.style.color=active.includes(d)?DC[d]:'#888780';
+        bb.style.background=active.includes(d)?rgba(DC[d],.08):'transparent';
+      });
+    };
+    sel.appendChild(b);
+  });
+  function rd(dt){const s=DS[dt];return[s.avg_narr_peak_pos/.4,s.avg_narr_peak/.5,s.avg_xipi,s.dan_pct,s.avg_chars/8,s.avg_scenes/12];}
+  const ctx=document.getElementById('radarC').getContext('2d');
+  rChart=new Chart(ctx,{type:'radar',data:{
+    labels:['叙事高潮位置','唱词密度','西皮比例','旦角比例','角色数','场次数'],
+    datasets:active.map(dt=>({label:dt,data:rd(dt),backgroundColor:rgba(DC[dt],.12),borderColor:DC[dt],pointBackgroundColor:DC[dt],borderWidth:1.8,pointRadius:3}))
+  },options:{responsive:true,
+    scales:{r:{min:0,max:1,grid:{color:'#DDD8D0'},pointLabels:{color:'#5F5E5A',font:{size:11,family:"'PingFang SC',sans-serif"}},ticks:{display:false}}},
+    plugins:{legend:{labels:{color:'#2C2C2A',font:{size:11,family:"'PingFang SC',sans-serif"},boxWidth:9}}}}
+  });
+  function updRadar(dts){
+    rChart.data.datasets=dts.map(dt=>({label:dt,data:rd(dt),backgroundColor:rgba(DC[dt],.12),borderColor:DC[dt],pointBackgroundColor:DC[dt],borderWidth:1.8,pointRadius:3}));
+    rChart.update();
+    document.getElementById('radarNote').textContent=RADAR_NOTES[dts[dts.length-1]]||'';
+  }
+  document.getElementById('radarNote').textContent=RADAR_NOTES['忠义智谋'];
+}
+
+/* =========== NARRATIVE =========== */
+let nChart=null;
+function initNarr(){
+  let active=['历史战争','爱情婚姻','冤案公案'];
+  const sel=document.getElementById('narrSel');
+  const lbls=['10%','20%','30%','40%','50%','60%','70%','80%','90%','100%'];
+  DO.forEach(dt=>{
+    const b=document.createElement('button'); b.className='dtype-btn'; b.textContent=dt;
+    b.style.borderColor=DC[dt]; b.style.color=active.includes(dt)?DC[dt]:'#888780';
+    b.style.background=active.includes(dt)?rgba(DC[dt],.08):'transparent';
+    b.onclick=()=>{
+      if(active.includes(dt)){if(active.length>1)active=active.filter(x=>x!==dt);}else active.push(dt);
+      updNarr(active);
+      sel.querySelectorAll('.dtype-btn').forEach((bb,i)=>{
+        const d=DO[i]; bb.style.color=active.includes(d)?DC[d]:'#888780';
+        bb.style.background=active.includes(d)?rgba(DC[d],.08):'transparent';
+      });
+    };
+    sel.appendChild(b);
+  });
+  const ctx=document.getElementById('narrC').getContext('2d');
+  nChart=new Chart(ctx,{type:'line',data:{labels:lbls,
+    datasets:active.map(dt=>({label:dt,data:AC[dt],borderColor:DC[dt],backgroundColor:rgba(DC[dt],.06),borderWidth:2,pointRadius:3,fill:false,tension:.4}))
+  },options:{responsive:true,
+    plugins:{legend:{labels:{color:'#2C2C2A',font:{size:11,family:"'PingFang SC',sans-serif"},boxWidth:9}}},
+    scales:{x:{grid:gridOpts,ticks:tickOpts},y:{grid:gridOpts,ticks:tickOpts,title:{display:true,text:'平均唱词密度',color:TICK_COLOR,font:{size:11}}}}}
+  });
+  function updNarr(dts){
+    nChart.data.datasets=dts.map(dt=>({label:dt,data:AC[dt],borderColor:DC[dt],backgroundColor:rgba(DC[dt],.06),borderWidth:2,pointRadius:3,fill:false,tension:.4}));
+    nChart.update();
+  }
+
+  /* peak pos bar */
+  const sorted=DO.filter(d=>d!=='其他').sort((a,b)=>DS[a].avg_narr_peak_pos-DS[b].avg_narr_peak_pos);
+  new Chart(document.getElementById('peakC').getContext('2d'),{type:'bar',
+    data:{labels:sorted,datasets:[{label:'高潮场次位置',data:sorted.map(d=>DS[d].avg_narr_peak_pos),backgroundColor:sorted.map(d=>rgba(DC[d],.75)),borderRadius:3}]},
+    options:{indexAxis:'y',responsive:true,plugins:{legend:{display:false}},
+      scales:{x:{min:0,max:.5,grid:gridOpts,ticks:tickOpts,title:{display:true,text:'0=开场  →  0.5=中段',color:TICK_COLOR,font:{size:10}}},
+        y:{grid:{display:false},ticks:{color:'#2C2C2A',font:{size:11,family:"'PingFang SC',sans-serif"}}}}}
+  });
+
+  /* musical style */
+  const md=DO.filter(d=>d!=='其他');
+  new Chart(document.getElementById('musC').getContext('2d'),{type:'bar',
+    data:{labels:md,datasets:[
+      {label:'西皮',data:md.map(d=>DS[d].avg_xipi),backgroundColor:rgba('#D85A30',.75),borderRadius:2},
+      {label:'二黄',data:md.map(d=>DS[d].avg_erhuang),backgroundColor:rgba('#7F77DD',.75),borderRadius:2}
+    ]},
+    options:{responsive:true,
+      plugins:{legend:{labels:{color:'#2C2C2A',font:{size:11,family:"'PingFang SC',sans-serif"},boxWidth:9}}},
+      scales:{x:{stacked:false,grid:{display:false},ticks:{color:'#2C2C2A',font:{size:10,family:"'PingFang SC',sans-serif"}}},
+        y:{max:1,grid:gridOpts,ticks:tickOpts}}}
+  });
+}
+
+/* =========== ROLES =========== */
+function initRoles(){
+  let cur='历史战争';
+  const sel=document.getElementById('roleSel');
+  DO.forEach(dt=>{
+    const b=document.createElement('button'); b.className='dtype-btn'; b.textContent=dt;
+    b.style.borderColor=DC[dt]; b.style.color=dt===cur?DC[dt]:'#888780';
+    b.style.background=dt===cur?rgba(DC[dt],.08):'transparent';
+    b.onclick=()=>{
+      cur=dt; renderBars(dt);
+      sel.querySelectorAll('.dtype-btn').forEach((bb,i)=>{
+        const d=DO[i]; bb.style.color=d===cur?DC[d]:'#888780';
+        bb.style.background=d===cur?rgba(DC[d],.08):'transparent';
+      });
+    };
+    sel.appendChild(b);
+  });
+  function renderBars(dt){
+    const s=DS[dt];
+    const roles=[{n:'净角（反派·权威）',v:s.net_pct},{n:'老生（主角·长者）',v:s.laosheng_pct},
+      {n:'旦角（女性角色）',v:s.dan_pct},{n:'丑角（滑稽·配角）',v:s.chou_pct},{n:'武生（武打角色）',v:s.wusheng_pct}]
+      .sort((a,b)=>b.v-a.v);
+    const c=document.getElementById('roleBars'); c.innerHTML='';
+    roles.forEach(r=>{
+      const pct=(r.v*100).toFixed(0);
+      c.innerHTML+=`<div class="role-row"><div class="role-lbl">${r.n}</div>
+        <div class="role-bg"><div class="role-bar" style="width:${pct}%;background:${DC[dt]}"><span>${pct}%</span></div></div></div>`;
+    });
+  }
+  renderBars('历史战争');
+
+  /* heatmap */
+  const rKeys=['net_pct','laosheng_pct','dan_pct','chou_pct','wusheng_pct'];
+  const rNames=['净角','老生','旦角','丑角','武生'];
+  const md=DO.filter(d=>d!=='其他');
+  const t=document.getElementById('roleHeat');
+  t.innerHTML='<tr><th>类型</th>'+rNames.map(r=>`<th>${r}</th>`).join('')+'</tr>';
+  md.forEach(dt=>{
+    const s=DS[dt], vals=[s.net_pct,s.laosheng_pct,s.dan_pct,s.chou_pct,s.wusheng_pct];
+    let row=`<tr><td style="color:${DC[dt]};font-weight:600">${dt}</td>`;
+    vals.forEach(v=>{
+      const ii=v/.85, rr=Math.round(216*ii), gg=Math.round(90*ii), bb=Math.round(48*ii);
+      const tc=ii>.5?'#FDFBF8':'#2C2C2A';
+      row+=`<td><div class="hm-cell" style="background:rgba(${rr},${gg},${bb},${Math.min(ii*1.3,1)});color:${tc}">${(v*100).toFixed(0)}%</div></td>`;
+    });
+    t.innerHTML+=row+'</tr>';
+  });
+
+  /* bubble */
+  new Chart(document.getElementById('csC').getContext('2d'),{type:'bubble',
+    data:{datasets:md.map(dt=>({label:dt,data:[{x:DS[dt].avg_chars,y:DS[dt].avg_scenes,r:Math.sqrt(DS[dt].count)*1.1}],backgroundColor:rgba(DC[dt],.65),borderColor:DC[dt],borderWidth:1.5}))},
+    options:{responsive:true,
+      plugins:{legend:{labels:{color:'#2C2C2A',font:{size:10,family:"'PingFang SC',sans-serif"},boxWidth:8}},
+        tooltip:{callbacks:{label:i=>{const d=i.dataset.label,s=DS[d];return[d,`平均角色: ${s.avg_chars}`,`平均场次: ${s.avg_scenes}`,`剧本数: ${s.count}`];}}}},
+      scales:{x:{min:2,max:9,title:{display:true,text:'平均角色数',color:TICK_COLOR,font:{size:11}},grid:gridOpts,ticks:tickOpts},
+        y:{title:{display:true,text:'平均场次数',color:TICK_COLOR,font:{size:11}},grid:gridOpts,ticks:tickOpts}}}
+  });
+}
+
+/* =========== TOPICS =========== */
+function initTopics(){
+  let cur='历史战争';
+  const sel=document.getElementById('topicSel');
+  DO.forEach(dt=>{
+    const b=document.createElement('button'); b.className='dtype-btn'; b.textContent=dt;
+    b.style.borderColor=DC[dt]; b.style.color=dt===cur?DC[dt]:'#888780';
+    b.style.background=dt===cur?rgba(DC[dt],.08):'transparent';
+    b.onclick=()=>{
+      cur=dt; renderTBars(dt);
+      sel.querySelectorAll('.dtype-btn').forEach((bb,i)=>{
+        const d=DO[i]; bb.style.color=d===cur?DC[d]:'#888780';
+        bb.style.background=d===cur?rgba(DC[d],.08):'transparent';
+      });
+    };
+    sel.appendChild(b);
+  });
+  function renderTBars(dt){
+    const s=DS[dt], mx=s.top_topics[0][1];
+    const c=document.getElementById('topicBars');
+    c.innerHTML=`<div style="font-size:12px;font-weight:600;color:${DC[dt]};margin-bottom:10px;font-family:'PingFang SC',sans-serif">${dt} — Top 5 主题</div>`;
+    s.top_topics.forEach(([tid,w])=>{
+      const lbl=TL[tid]||`主题${tid}`, pct=(w*100).toFixed(2), bw=((w/mx)*100).toFixed(0);
+      c.innerHTML+=`<div class="tbrow"><div class="tblbl" title="${lbl}">T${tid}: ${lbl}</div>
+        <div class="tbbg"><div class="tbfil" style="width:${bw}%;background:${DC[dt]}"></div></div>
+        <div class="tbval">${pct}%</div></div>`;
+    });
+  }
+  renderTBars('历史战争');
+
+  /* topic heatmap grouped bar */
+  const topTopics=[17,2,15,21,14,20,3,22,8,13];
+  const md=DO.filter(d=>d!=='其他');
+  const mat={};
+  md.forEach(dt=>{mat[dt]={};DS[dt].top_topics.forEach(([tid,w])=>{mat[dt][tid]=w;});});
+  const hues=[15,40,200,230,155,60,280,330,90,180];
+  new Chart(document.getElementById('topicHeatC').getContext('2d'),{type:'bar',
+    data:{labels:md,datasets:topTopics.map((tid,i)=>({
+      label:`T${tid}:${TL[tid]}`,
+      data:md.map(dt=>mat[dt][tid]||0),
+      backgroundColor:`hsla(${hues[i]},55%,48%,0.78)`,
+      borderRadius:2
+    }))},
+    options:{responsive:true,
+      plugins:{legend:{labels:{color:'#2C2C2A',font:{size:9,family:"'PingFang SC',sans-serif"},boxWidth:7}}},
+      scales:{x:{stacked:false,grid:{display:false},ticks:{color:'#2C2C2A',font:{size:10,family:"'PingFang SC',sans-serif"}}},
+        y:{stacked:false,grid:gridOpts,ticks:tickOpts,title:{display:true,text:'平均主题权重',color:TICK_COLOR,font:{size:11}}}}}
+  });
+}
+
+/* =========== PATTERN (triad diagram) =========== */
+function initPattern(){
+  const cv=document.getElementById('triC');
+  const w=cv.offsetWidth||440, h=260;
+  cv.width=w; cv.height=h;
+  const ctx=cv.getContext('2d');
+  const cx=w/2, cy=h/2-8, r=Math.min(w,h)*.28;
+  const nodes=[
+    {l:'角色关系',sl:'行当配置\n对立结构\n网络规模',x:cx,y:cy-r,c:'#7F77DD'},
+    {l:'主题结构',sl:'主题内容\n情感色彩\n主题层叠',x:cx-r*.87,y:cy+r*.5,c:'#3B6D11'},
+    {l:'叙事结构',sl:'高潮位置\n唱词密度\n唱腔风格',x:cx+r*.87,y:cy+r*.5,c:'#D85A30'},
+  ];
+  const arcs=[
+    [0,1,'行当决定主题承载力','#7F77DD'],[1,2,'主题影响叙事策略','#3B6D11'],[2,0,'叙事塑造角色呈现','#D85A30']
+  ];
+  ctx.clearRect(0,0,w,h);
+  arcs.forEach(([f,t,lbl,c])=>{
+    const fx=nodes[f].x,fy=nodes[f].y,tx=nodes[t].x,ty=nodes[t].y;
+    const mx=(fx+tx)/2+(ty-fy)*.13, my=(fy+ty)/2-(tx-fx)*.13;
+    ctx.beginPath(); ctx.moveTo(fx,fy); ctx.quadraticCurveTo(mx,my,tx,ty);
+    ctx.strokeStyle=c+'99'; ctx.lineWidth=1.5; ctx.setLineDash([4,3]); ctx.stroke(); ctx.setLineDash([]);
+    ctx.fillStyle=c+'cc'; ctx.font="9px 'PingFang SC',sans-serif"; ctx.textAlign='center';
+    ctx.fillText(lbl,mx,my);
+  });
+  nodes.forEach(n=>{
+    ctx.beginPath(); ctx.arc(n.x,n.y,26,0,2*Math.PI);
+    ctx.fillStyle='#F7F4EF'; ctx.strokeStyle=n.c; ctx.lineWidth=1.5;
+    ctx.fill(); ctx.stroke();
+    ctx.fillStyle=n.c; ctx.font="bold 12px 'PingFang SC',sans-serif"; ctx.textAlign='center';
+    ctx.fillText(n.l,n.x,n.y+4);
+    ctx.fillStyle='#888780'; ctx.font="9px 'PingFang SC',sans-serif";
+    const lines=n.sl.split('\n'), oy=n.y>cy?48:-44;
+    lines.forEach((line,i)=>ctx.fillText(line,n.x,n.y+oy+i*11));
+  });
+  ctx.fillStyle='#5F5E5A'; ctx.font="bold 11px 'PingFang SC',sans-serif"; ctx.textAlign='center';
+  ctx.fillText('三要素互锁',cx,cy+5);
+  ctx.fillStyle='#B4B2A9'; ctx.font="9px 'PingFang SC',sans-serif";
+  ctx.fillText('协同演化',cx,cy+17);
+}
+</script>
+</body>
+</html>
