@@ -211,7 +211,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -282,7 +292,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "想那黄土岗劫去生辰纲之事，乃是小霸王周通所做。你我一同去至他家，捉拿\n他到案便了。"
+          "text": "想那黄土岗劫去生辰纲之事，乃是小霸王周通所做。你我一同去至他家，捉拿"
+        },
+        {
+          "character": "朱仝",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "他到案便了。"
         },
         {
           "character": "雷横",
@@ -319,7 +336,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.8,
+        0.2,
+        0.8889,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -352,14 +379,56 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "奴家周玉楼。我哥哥周通。不幸父母早亡，只有我兄妹二人。怎奈哥哥不行正\n道，结交些匪人。终日在外边妄作非为，将奴的终身大事一概不提。思想起来，\n好不烦闷人也！"
+          "text": "奴家周玉楼。我哥哥周通。不幸父母早亡，只有我兄妹二人。怎奈哥哥不行正"
+        },
+        {
+          "character": "周玉楼",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "道，结交些匪人。终日在外边妄作非为，将奴的终身大事一概不提。思想起来，"
+        },
+        {
+          "character": "周玉楼",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "好不烦闷人也！"
         },
         {
           "character": "周玉楼",
           "line_type": "西皮原板",
           "musical_style": "西皮原板",
           "style_family": "西皮",
-          "text": "周玉楼在绣房自思自想，\n思想起终身事好不心伤。\n留下了我兄妹同度时光。\n他在那桃花山曾做大王。\n闲无事我只得刺绣鸳鸯。"
+          "text": "周玉楼在绣房自思自想，"
+        },
+        {
+          "character": "周玉楼",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "思想起终身事好不心伤。"
+        },
+        {
+          "character": "周玉楼",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "留下了我兄妹同度时光。"
+        },
+        {
+          "character": "周玉楼",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "他在那桃花山曾做大王。"
+        },
+        {
+          "character": "周玉楼",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "闲无事我只得刺绣鸳鸯。"
         },
         {
           "character": null,
@@ -436,7 +505,14 @@
           "line_type": "同白",
           "musical_style": null,
           "style_family": null,
-          "text": "来此已是。\n周大爷可在里面？"
+          "text": "来此已是。"
+        },
+        {
+          "character": "朱仝、雷横",
+          "line_type": "同白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "周大爷可在里面？"
         },
         {
           "character": "周玉楼",
@@ -450,14 +526,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "待我看来。\n原来是二位公差。到此何事？"
+          "text": "待我看来。"
+        },
+        {
+          "character": "周通",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "原来是二位公差。到此何事？"
         },
         {
           "character": "朱仝",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "啊，周大爷，只因黄土岗劫却生辰纲之事犯了，我弟兄二人前来请你同我们去\n到县衙走走。"
+          "text": "啊，周大爷，只因黄土岗劫却生辰纲之事犯了，我弟兄二人前来请你同我们去"
+        },
+        {
+          "character": "朱仝",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "到县衙走走。"
         },
         {
           "character": "周通",
@@ -471,14 +561,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "周大爷说哪里话来。自古道好汉做事好汉当，我家县太爷终日追捕，我弟兄二\n人万难推诿。要请周大爷同我们走上一趟。"
+          "text": "周大爷说哪里话来。自古道好汉做事好汉当，我家县太爷终日追捕，我弟兄二"
+        },
+        {
+          "character": "朱仝",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "人万难推诿。要请周大爷同我们走上一趟。"
         },
         {
           "character": "周通",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "既然如此，俺就同你走走。待我到家中交代。\n啊妹子，你替我暂且陪伴你嫂嫂，愚兄遭了官司，要到县衙去走走。正是："
+          "text": "既然如此，俺就同你走走。待我到家中交代。"
+        },
+        {
+          "character": "周通",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "啊妹子，你替我暂且陪伴你嫂嫂，愚兄遭了官司，要到县衙去走走。正是："
         },
         {
           "character": "周通",
@@ -506,7 +610,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "我哥哥到县衙去了，把这位新人交给我啦。待我掀开盖头，看看长得好不好。\n哎呀慢着，待我先看看她的脚小不小。"
+          "text": "我哥哥到县衙去了，把这位新人交给我啦。待我掀开盖头，看看长得好不好。"
+        },
+        {
+          "character": "周玉楼",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "哎呀慢着，待我先看看她的脚小不小。"
         },
         {
           "character": null,
@@ -520,7 +631,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "哎呀我的妈呀，怎么这么大的两只脚呀，想必是我哥哥只顾看她的容貌啦，没\n有顾得看她的脚。待我看看她的模样如何。"
+          "text": "哎呀我的妈呀，怎么这么大的两只脚呀，想必是我哥哥只顾看她的容貌啦，没"
+        },
+        {
+          "character": "周玉楼",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "有顾得看她的脚。待我看看她的模样如何。"
         },
         {
           "character": null,
@@ -534,7 +652,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "喝，好富态，真胖呀！想我哥哥，今日既到县中，一定今晚上是不回来的了。\n我不免就陪伴新人替我哥哥做一位新郎就完了吗。待我将他的珠冠他解下。"
+          "text": "喝，好富态，真胖呀！想我哥哥，今日既到县中，一定今晚上是不回来的了。"
+        },
+        {
+          "character": "周玉楼",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我不免就陪伴新人替我哥哥做一位新郎就完了吗。待我将他的珠冠他解下。"
         },
         {
           "character": null,
@@ -548,7 +673,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "呀，你是何人竟敢男扮女装来到我家。快快说出实情便罢，如若不然，定要你\n的性命。"
+          "text": "呀，你是何人竟敢男扮女装来到我家。快快说出实情便罢，如若不然，定要你"
+        },
+        {
+          "character": "周玉楼",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "的性命。"
         },
         {
           "character": null,
@@ -576,7 +708,14 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "走向前来忙跪定，\n望小姐开放天地恩。"
+          "text": "走向前来忙跪定，"
+        },
+        {
+          "character": "卞机",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "望小姐开放天地恩。"
         },
         {
           "character": "卞机",
@@ -590,10 +729,31 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "听一言好叫我双眉紧皱，\n在绣房气坏了我周玉楼。\n因何故到此间细说根由。"
+          "text": "听一言好叫我双眉紧皱，"
         },
         {
-          "character": "你男扮女到此时机关泄漏、卞机",
+          "character": "周玉楼",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "在绣房气坏了我周玉楼。"
+        },
+        {
+          "character": "周玉楼",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "因何故到此间细说根由。"
+        },
+        {
+          "character": "周玉楼",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "你男扮女到此时机关泄漏"
+        },
+        {
+          "character": "卞机",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -611,7 +771,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "小姐容禀：小生卞机，乃湖广湘乡人氏。甲午科举人。只因要赴京求名，来至\n此地，缺少盘费，在渡仙桥卖些字画。此地有一周……"
+          "text": "小姐容禀：小生卞机，乃湖广湘乡人氏。甲午科举人。只因要赴京求名，来至"
+        },
+        {
+          "character": "卞机",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "此地，缺少盘费，在渡仙桥卖些字画。此地有一周……"
         },
         {
           "character": "周玉楼",
@@ -625,7 +792,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "不是周，是刘员外，有一小姐，在花田会上招婿，要与小生婚姻。谁知他家中\n院子办事不妥，误将周通请到他家中。是他有一丫鬟名叫春兰，请我男扮女装\n到他家中与小姐相传。不料你兄长竟带了多少庄丁就糊里糊涂将我抢回来了。\n望求小姐开恩，放我走了出去，我是感恩不尽的了。"
+          "text": "不是周，是刘员外，有一小姐，在花田会上招婿，要与小生婚姻。谁知他家中"
+        },
+        {
+          "character": "卞机",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "院子办事不妥，误将周通请到他家中。是他有一丫鬟名叫春兰，请我男扮女装"
+        },
+        {
+          "character": "卞机",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "到他家中与小姐相传。不料你兄长竟带了多少庄丁就糊里糊涂将我抢回来了。"
+        },
+        {
+          "character": "卞机",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "望求小姐开恩，放我走了出去，我是感恩不尽的了。"
         },
         {
           "character": "周玉楼",
@@ -646,14 +834,63 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "哎呀且住！听他之言，原来是一位举人公子。今日我要是将他放了，他乃是一\n男子，在我的绣房中半日，倘若被人知道，我的声名岂不就坏在他的名下？这\n可怎么好呢？我看此人相貌堂堂，日后定必富贵。我的终身就许配于他，岂不\n甚好。但是这件事我怎好同他开口？我不免用言语打动于他，看他怎样回答于\n我。\n我说你叫我放你，却也容易，但是你既是一个男子，来在我绣房之中，我将你\n放走，这我声名岂不是有些难保吗？你要替我也想想。"
+          "text": "哎呀且住！听他之言，原来是一位举人公子。今日我要是将他放了，他乃是一"
+        },
+        {
+          "character": "周玉楼",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "男子，在我的绣房中半日，倘若被人知道，我的声名岂不就坏在他的名下？这"
+        },
+        {
+          "character": "周玉楼",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "可怎么好呢？我看此人相貌堂堂，日后定必富贵。我的终身就许配于他，岂不"
+        },
+        {
+          "character": "周玉楼",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "甚好。但是这件事我怎好同他开口？我不免用言语打动于他，看他怎样回答于"
+        },
+        {
+          "character": "周玉楼",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我。"
+        },
+        {
+          "character": "周玉楼",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我说你叫我放你，却也容易，但是你既是一个男子，来在我绣房之中，我将你"
+        },
+        {
+          "character": "周玉楼",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "放走，这我声名岂不是有些难保吗？你要替我也想想。"
         },
         {
           "character": "卞机",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "我想想。\n呀，小姐，你放我走了吧。"
+          "text": "我想想。"
+        },
+        {
+          "character": "卞机",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "呀，小姐，你放我走了吧。"
         },
         {
           "character": "周玉楼",
@@ -758,7 +995,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "多谢小姐。现有绢帕一幅，就赠与小姐以做定礼，待小生进京得了功名再来完\n亲。"
+          "text": "多谢小姐。现有绢帕一幅，就赠与小姐以做定礼，待小生进京得了功名再来完"
+        },
+        {
+          "character": "卞机",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "亲。"
         },
         {
           "character": null,
@@ -821,7 +1065,14 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "萍水相逢成连理，\n恰似海誓与山盟。"
+          "text": "萍水相逢成连理，"
+        },
+        {
+          "character": "卞机",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "恰似海誓与山盟。"
         },
         {
           "character": "卞机",
@@ -835,7 +1086,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "慢着，天气尚早，况且你这个样子，如何能走？叫人看见，不男不女，是什么\n样儿？你暂且在此少待，我把我哥哥的衣帽等件，拿来你换上再走。"
+          "text": "慢着，天气尚早，况且你这个样子，如何能走？叫人看见，不男不女，是什么"
+        },
+        {
+          "character": "周玉楼",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "样儿？你暂且在此少待，我把我哥哥的衣帽等件，拿来你换上再走。"
         },
         {
           "character": "卞机",
@@ -849,7 +1107,14 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "多蒙小姐甚周到，\n卸去钗环换巾袍。"
+          "text": "多蒙小姐甚周到，"
+        },
+        {
+          "character": "卞机",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "卸去钗环换巾袍。"
         },
         {
           "character": null,
@@ -907,7 +1172,17 @@
           "西皮原板",
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.091,
+        0.1771,
+        0.8021,
+        0.0208,
+        0.5158,
+        5,
+        0.1771,
+        0.0
+      ]
     },
     {
       "scene_index": 4,
@@ -987,14 +1262,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "方才家院言道：那小霸王周通竟将我女儿抢了去了。二位要设法，救吾的女儿\n要紧。"
+          "text": "方才家院言道：那小霸王周通竟将我女儿抢了去了。二位要设法，救吾的女儿"
+        },
+        {
+          "character": "刘得明",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "要紧。"
         },
         {
           "character": "朱仝",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "那周通现已押在监牢，他家中无人，待我等命人前去将你的小姐接回你家中便\n了。"
+          "text": "那周通现已押在监牢，他家中无人，待我等命人前去将你的小姐接回你家中便"
+        },
+        {
+          "character": "朱仝",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "了。"
         },
         {
           "character": "刘得明",
@@ -1047,7 +1336,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.9091,
+        0.0909,
+        0.8,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 5,
@@ -1133,7 +1432,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "你碰着了没有？\n他走啦，待我回房去吧。"
+          "text": "你碰着了没有？"
+        },
+        {
+          "character": "周玉楼",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "他走啦，待我回房去吧。"
         },
         {
           "character": null,
@@ -1193,7 +1499,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.7778,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 6,
@@ -1218,7 +1534,14 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "急急忙忙回家转，\n见了安人把话言。"
+          "text": "急急忙忙回家转，"
+        },
+        {
+          "character": "刘得明",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "见了安人把话言。"
         },
         {
           "character": null,
@@ -1260,7 +1583,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "你我的女儿现在家中。\n春兰，女儿，你们快来！"
+          "text": "你我的女儿现在家中。"
+        },
+        {
+          "character": "刘夫人",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "春兰，女儿，你们快来！"
         },
         {
           "character": null,
@@ -1288,7 +1618,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "这件事我倒晓得。只因周通要娶小姐，是我去打了卞先生，叫他男扮女装来到\n我们这里与小姐相传。不料周通竟带人来抢亲。大家都逃去了，只剩下卞先生\n一个人在房里。想必就是被他们抢了去了。"
+          "text": "这件事我倒晓得。只因周通要娶小姐，是我去打了卞先生，叫他男扮女装来到"
+        },
+        {
+          "character": "春兰",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我们这里与小姐相传。不料周通竟带人来抢亲。大家都逃去了，只剩下卞先生"
+        },
+        {
+          "character": "春兰",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "一个人在房里。想必就是被他们抢了去了。"
         },
         {
           "character": "刘得明",
@@ -1337,7 +1681,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "看将起来，这轿中一定是卞先生了。\n来，快请卞先生下轿。"
+          "text": "看将起来，这轿中一定是卞先生了。"
+        },
+        {
+          "character": "刘得明",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来，快请卞先生下轿。"
         },
         {
           "character": "院子",
@@ -1365,7 +1716,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "哦喝是了！想他乃是一位书生，这女子打扮如何成其体统？\n来，将衣帽靴子送入轿内，请先生在轿中更了衣服，再下轿便了。"
+          "text": "哦喝是了！想他乃是一位书生，这女子打扮如何成其体统？"
+        },
+        {
+          "character": "刘得明",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来，将衣帽靴子送入轿内，请先生在轿中更了衣服，再下轿便了。"
         },
         {
           "character": null,
@@ -1393,7 +1751,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "啊卞先生，既是读书之人。私自扮做妇人的模样，来到小女的闺中，未免有些\n欠通吧。"
+          "text": "啊卞先生，既是读书之人。私自扮做妇人的模样，来到小女的闺中，未免有些"
+        },
+        {
+          "character": "刘得明",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "欠通吧。"
         },
         {
           "character": "周玉楼",
@@ -1421,7 +1786,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "告便。\n哎呀且住，想我今日到此以错就错。他今日叫我与他女儿成亲我如何办得了？\n我也不管他这些那些，糊里糊涂入了洞房再讲。\n既然如此，小生遵命。"
+          "text": "告便。"
+        },
+        {
+          "character": "周玉楼",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "哎呀且住，想我今日到此以错就错。他今日叫我与他女儿成亲我如何办得了？"
+        },
+        {
+          "character": "周玉楼",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我也不管他这些那些，糊里糊涂入了洞房再讲。"
+        },
+        {
+          "character": "周玉楼",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "既然如此，小生遵命。"
         },
         {
           "character": "刘得明",
@@ -1529,7 +1915,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.037,
+        0.0526,
+        0.9211,
+        0.0263,
+        0.6757,
+        5,
+        0.0526,
+        0.0
+      ]
     },
     {
       "scene_index": 7,
@@ -1559,14 +1955,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "你看这人并不是卞郎，但不知他是何人。我看他举动一切，不像是个男子，好\n像女人的模样。"
+          "text": "你看这人并不是卞郎，但不知他是何人。我看他举动一切，不像是个男子，好"
+        },
+        {
+          "character": "刘月英",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "像女人的模样。"
         },
         {
           "character": "春兰",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "小姐，你先去慢慢盘问于他，他若是一男子，你就叫我来，咱们再打主意。他\n若是一女子，那就但凭小姐。我在楼下等候便了！"
+          "text": "小姐，你先去慢慢盘问于他，他若是一男子，你就叫我来，咱们再打主意。他"
+        },
+        {
+          "character": "春兰",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "若是一女子，那就但凭小姐。我在楼下等候便了！"
         },
         {
           "character": "刘月英",
@@ -1601,7 +2011,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "我想这世间之上，只有新郎先向新人说话的，哪有新人先向新郎说话的道理！\n未免有些欠通。"
+          "text": "我想这世间之上，只有新郎先向新人说话的，哪有新人先向新郎说话的道理！"
+        },
+        {
+          "character": "周玉楼",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "未免有些欠通。"
         },
         {
           "character": "刘月英",
@@ -1615,7 +2032,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "你住了！你既是千金小姐，就该知道三从四德。我今方入洞房你就是这样催着\n我睡觉吧，上床吧，真真毫无道理。"
+          "text": "你住了！你既是千金小姐，就该知道三从四德。我今方入洞房你就是这样催着"
+        },
+        {
+          "character": "周玉楼",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我睡觉吧，上床吧，真真毫无道理。"
         },
         {
           "character": null,
@@ -1657,7 +2081,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "你还送过他银两？如此我倒要谢谢你。\n周玉楼"
+          "text": "你还送过他银两？如此我倒要谢谢你。"
+        },
+        {
+          "character": "刘月英",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "周玉楼"
         }
       ],
       "interactions": [
@@ -1690,7 +2121,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.7222,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 8,
@@ -1819,7 +2260,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 9,
@@ -1875,7 +2326,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        1.0,
+        0.6667,
+        0.3333,
+        0.0,
+        0.0,
+        1,
+        0.6667,
+        0.0
+      ]
     },
     {
       "scene_index": 10,
@@ -1915,7 +2376,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 11,
@@ -2023,7 +2494,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 12,
@@ -2077,7 +2558,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 13,
@@ -2468,7 +2959,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.026,
+        0.025,
+        0.975,
+        0.0,
+        0.9487,
+        4,
+        0.025,
+        0.0
+      ]
     },
     {
       "scene_index": 14,
@@ -2698,7 +3199,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.8667,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 15,
@@ -3483,7 +3994,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.9867,
+        8,
+        0.0,
+        0.0
+      ]
     }
   ]
 }

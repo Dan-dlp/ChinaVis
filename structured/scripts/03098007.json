@@ -110,7 +110,35 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "下官、严震直。燕王驾下为臣，官拜尚书之职。只因我主放走建文帝，有吏部\n程济保护，逃出皇城，不知去向。昨日探马报道，离城十里之外，有一白云观，\n来了一僧一道，相貌不俗，决非等闲之辈。今奉王命，带领长随前去捉拿。\n如果是他君臣二人，斩草除根，以免后患。\n来！"
+          "text": "下官、严震直。燕王驾下为臣，官拜尚书之职。只因我主放走建文帝，有吏部"
+        },
+        {
+          "character": "严震直",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "程济保护，逃出皇城，不知去向。昨日探马报道，离城十里之外，有一白云观，"
+        },
+        {
+          "character": "严震直",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来了一僧一道，相貌不俗，决非等闲之辈。今奉王命，带领长随前去捉拿。"
+        },
+        {
+          "character": "严震直",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "如果是他君臣二人，斩草除根，以免后患。"
+        },
+        {
+          "character": "严震直",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来！"
         },
         {
           "character": "四青袍、二差役",
@@ -160,7 +188,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.1,
+        0.8,
+        0.1,
+        0.3333,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -186,21 +224,49 @@
           "line_type": "四平调",
           "musical_style": "四平调",
           "style_family": "四平调",
-          "text": "乾坤混乱干戈动，\n何日才得定太平。"
-        },
-        {
-          "character": "建文帝",
-          "line_type": "白",
-          "musical_style": null,
-          "style_family": null,
-          "text": "我、建文帝。自从逃出皇城，君臣暂在白云观隐身，观院却还僻静，倒也清闲。\n今日忽然眼跳心惊，不知主何先兆，令人好难解也！"
+          "text": "乾坤混乱干戈动，"
         },
         {
           "character": "建文帝",
           "line_type": "四平调",
           "musical_style": "四平调",
           "style_family": "四平调",
-          "text": "为什么心惊肉又跳？\n行不安来坐不牢。\n吉凶祸福难猜着。"
+          "text": "何日才得定太平。"
+        },
+        {
+          "character": "建文帝",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我、建文帝。自从逃出皇城，君臣暂在白云观隐身，观院却还僻静，倒也清闲。"
+        },
+        {
+          "character": "建文帝",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "今日忽然眼跳心惊，不知主何先兆，令人好难解也！"
+        },
+        {
+          "character": "建文帝",
+          "line_type": "四平调",
+          "musical_style": "四平调",
+          "style_family": "四平调",
+          "text": "为什么心惊肉又跳？"
+        },
+        {
+          "character": "建文帝",
+          "line_type": "四平调",
+          "musical_style": "四平调",
+          "style_family": "四平调",
+          "text": "行不安来坐不牢。"
+        },
+        {
+          "character": "建文帝",
+          "line_type": "四平调",
+          "musical_style": "四平调",
+          "style_family": "四平调",
+          "text": "吉凶祸福难猜着。"
         },
         {
           "character": null,
@@ -284,31 +350,94 @@
           "line_type": "四平调",
           "musical_style": "四平调",
           "style_family": "四平调",
-          "text": "你平白无故起波涛，\n苦害忠良为哪条？\n难逃骂名万古标！"
+          "text": "你平白无故起波涛，"
         },
         {
-          "character": "天理昭彰循环报、严震直",
+          "character": "建文帝",
+          "line_type": "四平调",
+          "musical_style": "四平调",
+          "style_family": "四平调",
+          "text": "苦害忠良为哪条？"
+        },
+        {
+          "character": "建文帝",
+          "line_type": "四平调",
+          "musical_style": "四平调",
+          "style_family": "四平调",
+          "text": "难逃骂名万古标！"
+        },
+        {
+          "character": "建文帝",
+          "line_type": "四平调",
+          "musical_style": "四平调",
+          "style_family": "四平调",
+          "text": "天理昭彰循环报"
+        },
+        {
+          "character": "严震直",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
           "text": "呸！"
         },
         {
-          "character": "天理昭彰循环报、严震直",
+          "character": "严震直",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "天理昭彰循环报"
+        },
+        {
+          "character": "严震直",
           "line_type": "四平调",
           "musical_style": "四平调",
           "style_family": "四平调",
-          "text": "今奉旨意出皇朝，\n海角天涯捕亡逃。\n却又何必絮叨叨？"
+          "text": "今奉旨意出皇朝，"
         },
         {
-          "character": "天理昭彰循环报、严震直",
+          "character": "严震直",
+          "line_type": "四平调",
+          "musical_style": "四平调",
+          "style_family": "四平调",
+          "text": "海角天涯捕亡逃。"
+        },
+        {
+          "character": "严震直",
+          "line_type": "四平调",
+          "musical_style": "四平调",
+          "style_family": "四平调",
+          "text": "却又何必絮叨叨？"
+        },
+        {
+          "character": "严震直",
+          "line_type": "四平调",
+          "musical_style": "四平调",
+          "style_family": "四平调",
+          "text": "天理昭彰循环报"
+        },
+        {
+          "character": "严震直",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
           "text": "来呀！铁链手扭打上囚牢！"
         },
         {
-          "character": "这是你自作自受大限到、四青袍、二差役",
+          "character": "严震直",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "这是你自作自受大限到"
+        },
+        {
+          "character": "严震直",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "四青袍"
+        },
+        {
+          "character": "二差役",
           "line_type": "同白",
           "musical_style": null,
           "style_family": null,
@@ -357,7 +486,17 @@
         "musical_styles": [
           "四平调"
         ]
-      }
+      },
+      "scene_feature": [
+        0.077,
+        0.4333,
+        0.5667,
+        0.0,
+        0.3793,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -385,21 +524,70 @@
           "line_type": "四平调",
           "musical_style": "四平调",
           "style_family": "四平调",
-          "text": "昨奉师命送故交，\n一路凄凉落叶飘。\n朝东暮西奔波劳。"
-        },
-        {
-          "character": "程济",
-          "line_type": "白",
-          "musical_style": null,
-          "style_family": null,
-          "text": "程济。昨奉师命，护送故交，畅谈彻夜。今朝洒泪而别。想大师定在观中悬望。\n不免急急赶回便了。"
+          "text": "昨奉师命送故交，"
         },
         {
           "character": "程济",
           "line_type": "四平调",
           "musical_style": "四平调",
           "style_family": "四平调",
-          "text": "回复师命忙就道，\n怕的是大师愁闷心焦。\n为何此时身发躁？\n遍体生津似水浇。\n猛抬头见面前岔事一条。"
+          "text": "一路凄凉落叶飘。"
+        },
+        {
+          "character": "程济",
+          "line_type": "四平调",
+          "musical_style": "四平调",
+          "style_family": "四平调",
+          "text": "朝东暮西奔波劳。"
+        },
+        {
+          "character": "程济",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "程济。昨奉师命，护送故交，畅谈彻夜。今朝洒泪而别。想大师定在观中悬望。"
+        },
+        {
+          "character": "程济",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "不免急急赶回便了。"
+        },
+        {
+          "character": "程济",
+          "line_type": "四平调",
+          "musical_style": "四平调",
+          "style_family": "四平调",
+          "text": "回复师命忙就道，"
+        },
+        {
+          "character": "程济",
+          "line_type": "四平调",
+          "musical_style": "四平调",
+          "style_family": "四平调",
+          "text": "怕的是大师愁闷心焦。"
+        },
+        {
+          "character": "程济",
+          "line_type": "四平调",
+          "musical_style": "四平调",
+          "style_family": "四平调",
+          "text": "为何此时身发躁？"
+        },
+        {
+          "character": "程济",
+          "line_type": "四平调",
+          "musical_style": "四平调",
+          "style_family": "四平调",
+          "text": "遍体生津似水浇。"
+        },
+        {
+          "character": "程济",
+          "line_type": "四平调",
+          "musical_style": "四平调",
+          "style_family": "四平调",
+          "text": "猛抬头见面前岔事一条。"
         },
         {
           "character": "程济",
@@ -420,7 +608,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "有请大师！有请大师！有请大师！\n啊，大师不见，想是在观外游玩，待我寻找。"
+          "text": "有请大师！有请大师！有请大师！"
+        },
+        {
+          "character": "程济",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "啊，大师不见，想是在观外游玩，待我寻找。"
         },
         {
           "character": null,
@@ -441,7 +636,28 @@
           "line_type": "四平调",
           "musical_style": "四平调",
           "style_family": "四平调",
-          "text": "为什么叫不应来寻不着，\n难道说这半山出了妖魔？\n大师踪迹难捉摸。\n费思索解不出其故为何。"
+          "text": "为什么叫不应来寻不着，"
+        },
+        {
+          "character": "程济",
+          "line_type": "四平调",
+          "musical_style": "四平调",
+          "style_family": "四平调",
+          "text": "难道说这半山出了妖魔？"
+        },
+        {
+          "character": "程济",
+          "line_type": "四平调",
+          "musical_style": "四平调",
+          "style_family": "四平调",
+          "text": "大师踪迹难捉摸。"
+        },
+        {
+          "character": "程济",
+          "line_type": "四平调",
+          "musical_style": "四平调",
+          "style_family": "四平调",
+          "text": "费思索解不出其故为何。"
         },
         {
           "character": null,
@@ -478,7 +694,17 @@
         "musical_styles": [
           "四平调"
         ]
-      }
+      },
+      "scene_feature": [
+        0.2,
+        0.5714,
+        0.381,
+        0.0476,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 4,
@@ -522,7 +748,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "你我奉了严尚书之命，捉拿建文皇帝。皇帝拿获了，中途路上，严爷又想起什\n么老道程济来啦，又命你我二次捉拿。咱们观中走走！"
+          "text": "你我奉了严尚书之命，捉拿建文皇帝。皇帝拿获了，中途路上，严爷又想起什"
+        },
+        {
+          "character": "差役甲",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "么老道程济来啦，又命你我二次捉拿。咱们观中走走！"
         },
         {
           "character": "差役乙",
@@ -557,7 +790,14 @@
           "line_type": "同白",
           "musical_style": null,
           "style_family": null,
-          "text": "老道程济！老道程济！\n这边不见，那边寻找。"
+          "text": "老道程济！老道程济！"
+        },
+        {
+          "character": "二差役",
+          "line_type": "同白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "这边不见，那边寻找。"
         },
         {
           "character": null,
@@ -645,7 +885,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.8,
+        0.2,
+        0.6429,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 5,
@@ -666,7 +916,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "哎呀，愧煞我也！适才听差役言道，建文帝被他们拿住；中途路上，又想起我\n程济，故此前来捉拿。想我对天发下誓愿：永保大师无事；今日被他们拿去，\n有何脸面去见去世的先帝也！"
+          "text": "哎呀，愧煞我也！适才听差役言道，建文帝被他们拿住；中途路上，又想起我"
+        },
+        {
+          "character": "程济",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "程济，故此前来捉拿。想我对天发下誓愿：永保大师无事；今日被他们拿去，"
+        },
+        {
+          "character": "程济",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "有何脸面去见去世的先帝也！"
         },
         {
           "character": "程济",
@@ -687,7 +951,21 @@
           "line_type": "二黄原板",
           "musical_style": "二黄原板",
           "style_family": "二黄",
-          "text": "好容易死中求活把君保，\n十六载的功劳一旦抛。\n枉在人间逞英豪？"
+          "text": "好容易死中求活把君保，"
+        },
+        {
+          "character": "程济",
+          "line_type": "二黄原板",
+          "musical_style": "二黄原板",
+          "style_family": "二黄",
+          "text": "十六载的功劳一旦抛。"
+        },
+        {
+          "character": "程济",
+          "line_type": "二黄原板",
+          "musical_style": "二黄原板",
+          "style_family": "二黄",
+          "text": "枉在人间逞英豪？"
         },
         {
           "character": "程济",
@@ -708,7 +986,14 @@
           "line_type": "二黄散板",
           "musical_style": "二黄散板",
           "style_family": "二黄",
-          "text": "踉跄就道，\n要救大师出笼牢。"
+          "text": "踉跄就道，"
+        },
+        {
+          "character": "程济",
+          "line_type": "二黄散板",
+          "musical_style": "二黄散板",
+          "style_family": "二黄",
+          "text": "要救大师出笼牢。"
         },
         {
           "character": null,
@@ -731,7 +1016,17 @@
           "二黄导板",
           "二黄散板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.6364,
+        0.3636,
+        0.0,
+        0.0,
+        1,
+        0.0,
+        0.6364
+      ]
     },
     {
       "scene_index": 6,
@@ -826,7 +1121,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "想是程济赶来。我不寻他，他倒来赶我。\n人役们！"
+          "text": "想是程济赶来。我不寻他，他倒来赶我。"
+        },
+        {
+          "character": "严震直",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "人役们！"
         },
         {
           "character": "四青袍、二差役",
@@ -868,7 +1170,14 @@
           "line_type": "二黄摇板",
           "musical_style": "二黄摇板",
           "style_family": "二黄",
-          "text": "疾走不觉路途远，\n奔得我两腿疼痛汗不干。"
+          "text": "疾走不觉路途远，"
+        },
+        {
+          "character": "程济",
+          "line_type": "二黄摇板",
+          "musical_style": "二黄摇板",
+          "style_family": "二黄",
+          "text": "奔得我两腿疼痛汗不干。"
         },
         {
           "character": "程济",
@@ -903,7 +1212,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "我想燕王为了建文帝，花费多少兵马钱粮，不曾拿获。如今被严老先生所擒，\n必得千金赏、万户侯，岂不可贺呀？"
+          "text": "我想燕王为了建文帝，花费多少兵马钱粮，不曾拿获。如今被严老先生所擒，"
+        },
+        {
+          "character": "程济",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "必得千金赏、万户侯，岂不可贺呀？"
         },
         {
           "character": "严震直",
@@ -931,7 +1247,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "严震直啊，老匹夫！想你我当日一殿为臣，俱食朝廷的俸禄，同受皇家的深恩。\n不幸圣上失和，骨肉生变，为臣者理应秉定忠心，纠正朝纲才是。如今你不\n能替主分忧，反将主献与仇家，严震直啊老匹夫！你死在九泉，有何脸面去见\n那太祖高皇噢！"
+          "text": "严震直啊，老匹夫！想你我当日一殿为臣，俱食朝廷的俸禄，同受皇家的深恩。"
+        },
+        {
+          "character": "程济",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "不幸圣上失和，骨肉生变，为臣者理应秉定忠心，纠正朝纲才是。如今你不"
+        },
+        {
+          "character": "程济",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "能替主分忧，反将主献与仇家，严震直啊老匹夫！你死在九泉，有何脸面去见"
+        },
+        {
+          "character": "程济",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "那太祖高皇噢！"
         },
         {
           "character": "严震直",
@@ -945,7 +1282,42 @@
           "line_type": "二黄摇板",
           "musical_style": "二黄摇板",
           "style_family": "二黄",
-          "text": "你也曾食过他的俸禄在朝廊，\n你也曾封妻荫子门楣光。\n岂可事仇把旧主伤？\n全不念君王赐字授金章。\n岂不怕留骂名万古传扬？\n讲节操怎能比苏武牧羊？"
+          "text": "你也曾食过他的俸禄在朝廊，"
+        },
+        {
+          "character": "程济",
+          "line_type": "二黄摇板",
+          "musical_style": "二黄摇板",
+          "style_family": "二黄",
+          "text": "你也曾封妻荫子门楣光。"
+        },
+        {
+          "character": "程济",
+          "line_type": "二黄摇板",
+          "musical_style": "二黄摇板",
+          "style_family": "二黄",
+          "text": "岂可事仇把旧主伤？"
+        },
+        {
+          "character": "程济",
+          "line_type": "二黄摇板",
+          "musical_style": "二黄摇板",
+          "style_family": "二黄",
+          "text": "全不念君王赐字授金章。"
+        },
+        {
+          "character": "程济",
+          "line_type": "二黄摇板",
+          "musical_style": "二黄摇板",
+          "style_family": "二黄",
+          "text": "岂不怕留骂名万古传扬？"
+        },
+        {
+          "character": "程济",
+          "line_type": "二黄摇板",
+          "musical_style": "二黄摇板",
+          "style_family": "二黄",
+          "text": "讲节操怎能比苏武牧羊？"
         },
         {
           "character": "程济",
@@ -962,7 +1334,42 @@
           "text": "你焉能禄位功名永久长？"
         },
         {
-          "character": "自古来忠臣相标榜、全不念身受恩重如山样、到如今媚新主大义全忘、谄媚人直同那鹦鹉学唱、这行为衣冠中禽兽一样、建文帝",
+          "character": "程济",
+          "line_type": "二黄摇板",
+          "musical_style": "二黄摇板",
+          "style_family": "二黄",
+          "text": "自古来忠臣相标榜"
+        },
+        {
+          "character": "程济",
+          "line_type": "二黄摇板",
+          "musical_style": "二黄摇板",
+          "style_family": "二黄",
+          "text": "全不念身受恩重如山样"
+        },
+        {
+          "character": "程济",
+          "line_type": "二黄摇板",
+          "musical_style": "二黄摇板",
+          "style_family": "二黄",
+          "text": "到如今媚新主大义全忘"
+        },
+        {
+          "character": "程济",
+          "line_type": "二黄摇板",
+          "musical_style": "二黄摇板",
+          "style_family": "二黄",
+          "text": "谄媚人直同那鹦鹉学唱"
+        },
+        {
+          "character": "程济",
+          "line_type": "二黄摇板",
+          "musical_style": "二黄摇板",
+          "style_family": "二黄",
+          "text": "这行为衣冠中禽兽一样"
+        },
+        {
+          "character": "建文帝",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -973,7 +1380,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "哎呀且住！那旁囚车里面，乃是我主大师，我赶到此间，原为略尽君臣之义，\n不免向前相劝一番便了！"
+          "text": "哎呀且住！那旁囚车里面，乃是我主大师，我赶到此间，原为略尽君臣之义，"
+        },
+        {
+          "character": "程济",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "不免向前相劝一番便了！"
         },
         {
           "character": "程济",
@@ -1029,7 +1443,84 @@
           "line_type": "二黄慢板",
           "musical_style": "二黄慢板",
           "style_family": "二黄",
-          "text": "哪有个帝王身上囚槛？\n难指望一统太平年。\n可怜主也曾把民安；\n可怜主失却了锦绣江山；\n可怜主穿只有补衲僧衫；\n可怜主皈佛教了却尘缘。\n落一个自怨自艾、自劝自慰、隐居深山。\n系缧绁好一似罪犯当官。\n倘不幸晴天霹雷、我主有险、微臣束手、心如箭攒。\n但愿主一路上清吉平安；\n但愿主得生路乐享田园。\n我程济死九泉也难心甘。"
+          "text": "哪有个帝王身上囚槛？"
+        },
+        {
+          "character": "程济",
+          "line_type": "二黄慢板",
+          "musical_style": "二黄慢板",
+          "style_family": "二黄",
+          "text": "难指望一统太平年。"
+        },
+        {
+          "character": "程济",
+          "line_type": "二黄慢板",
+          "musical_style": "二黄慢板",
+          "style_family": "二黄",
+          "text": "可怜主也曾把民安；"
+        },
+        {
+          "character": "程济",
+          "line_type": "二黄慢板",
+          "musical_style": "二黄慢板",
+          "style_family": "二黄",
+          "text": "可怜主失却了锦绣江山；"
+        },
+        {
+          "character": "程济",
+          "line_type": "二黄慢板",
+          "musical_style": "二黄慢板",
+          "style_family": "二黄",
+          "text": "可怜主穿只有补衲僧衫；"
+        },
+        {
+          "character": "程济",
+          "line_type": "二黄慢板",
+          "musical_style": "二黄慢板",
+          "style_family": "二黄",
+          "text": "可怜主皈佛教了却尘缘。"
+        },
+        {
+          "character": "程济",
+          "line_type": "二黄慢板",
+          "musical_style": "二黄慢板",
+          "style_family": "二黄",
+          "text": "落一个自怨自艾、自劝自慰、隐居深山。"
+        },
+        {
+          "character": "程济",
+          "line_type": "二黄慢板",
+          "musical_style": "二黄慢板",
+          "style_family": "二黄",
+          "text": "系缧绁好一似罪犯当官。"
+        },
+        {
+          "character": "程济",
+          "line_type": "二黄慢板",
+          "musical_style": "二黄慢板",
+          "style_family": "二黄",
+          "text": "倘不幸晴天霹雷、我主有险、微臣束手、心如箭攒。"
+        },
+        {
+          "character": "程济",
+          "line_type": "二黄慢板",
+          "musical_style": "二黄慢板",
+          "style_family": "二黄",
+          "text": "但愿主一路上清吉平安；"
+        },
+        {
+          "character": "程济",
+          "line_type": "二黄慢板",
+          "musical_style": "二黄慢板",
+          "style_family": "二黄",
+          "text": "但愿主得生路乐享田园。"
+        },
+        {
+          "character": "程济",
+          "line_type": "二黄慢板",
+          "musical_style": "二黄慢板",
+          "style_family": "二黄",
+          "text": "我程济死九泉也难心甘。"
         },
         {
           "character": "程济",
@@ -1092,7 +1583,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "听见什么？想这样的差事，你我还当它干什么？谁不是建文帝的臣子，哪个不\n是他的子民？吃他的粮饷长大的，还要拿他请功受赏，天理何在？良心何存？"
+          "text": "听见什么？想这样的差事，你我还当它干什么？谁不是建文帝的臣子，哪个不"
+        },
+        {
+          "character": "差役甲",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "是他的子民？吃他的粮饷长大的，还要拿他请功受赏，天理何在？良心何存？"
         },
         {
           "character": "四青袍、二差役",
@@ -1162,14 +1660,35 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "且住！看他君臣二人哭得可怜。人役们俱已离叛，我还有何脸面生在人世？也\n罢！不免拜谢老王爵禄之恩，寻个自尽了吧！"
+          "text": "且住！看他君臣二人哭得可怜。人役们俱已离叛，我还有何脸面生在人世？也"
+        },
+        {
+          "character": "严震直",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "罢！不免拜谢老王爵禄之恩，寻个自尽了吧！"
         },
         {
           "character": "严震直",
           "line_type": "二黄摇板",
           "musical_style": "二黄摇板",
           "style_family": "二黄",
-          "text": "跌跪尘埃珠泪滚，\n吃什么爵禄报什么恩？\n子孙万代落骂名。"
+          "text": "跌跪尘埃珠泪滚，"
+        },
+        {
+          "character": "严震直",
+          "line_type": "二黄摇板",
+          "musical_style": "二黄摇板",
+          "style_family": "二黄",
+          "text": "吃什么爵禄报什么恩？"
+        },
+        {
+          "character": "严震直",
+          "line_type": "二黄摇板",
+          "musical_style": "二黄摇板",
+          "style_family": "二黄",
+          "text": "子孙万代落骂名。"
         },
         {
           "character": "严震直",
@@ -1218,14 +1737,28 @@
           "line_type": "二黄摇板",
           "musical_style": "二黄摇板",
           "style_family": "二黄",
-          "text": "一见尚书丧了命，\n你为小王轻了生。"
+          "text": "一见尚书丧了命，"
+        },
+        {
+          "character": "建文帝",
+          "line_type": "二黄摇板",
+          "musical_style": "二黄摇板",
+          "style_family": "二黄",
+          "text": "你为小王轻了生。"
         },
         {
           "character": "程济",
           "line_type": "二黄摇板",
           "musical_style": "二黄摇板",
           "style_family": "二黄",
-          "text": "谁叫你背主求荣图侥幸，\n报应循环天鉴明。"
+          "text": "谁叫你背主求荣图侥幸，"
+        },
+        {
+          "character": "程济",
+          "line_type": "二黄摇板",
+          "musical_style": "二黄摇板",
+          "style_family": "二黄",
+          "text": "报应循环天鉴明。"
         },
         {
           "character": "程济",
@@ -1253,7 +1786,14 @@
           "line_type": "同唱",
           "musical_style": null,
           "style_family": null,
-          "text": "闯破玉笼飞彩凤，\n挣开金锁走蛟龙。"
+          "text": "闯破玉笼飞彩凤，"
+        },
+        {
+          "character": "建文帝、程济",
+          "line_type": "同唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "挣开金锁走蛟龙。"
         },
         {
           "character": "程济",
@@ -1350,7 +1890,17 @@
           "二黄慢板",
           "二黄摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.135,
+        0.42,
+        0.58,
+        0.0,
+        0.5051,
+        9,
+        0.0,
+        0.36
+      ]
     }
   ]
 }

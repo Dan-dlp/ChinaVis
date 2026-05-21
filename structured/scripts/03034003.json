@@ -109,7 +109,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "我，贾勇。就是这淮阴人氏。好武不精，本领平常，无非是充好汉，创光棍，\n欺软怕硬，在好汉堆儿里充数儿就是啦。这时候又该往练武场去啦，就此走走。"
+          "text": "我，贾勇。就是这淮阴人氏。好武不精，本领平常，无非是充好汉，创光棍，"
+        },
+        {
+          "character": "贾勇",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "欺软怕硬，在好汉堆儿里充数儿就是啦。这时候又该往练武场去啦，就此走走。"
         },
         {
           "character": null,
@@ -167,7 +174,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.1429,
+        0.8571,
+        0.0,
+        0.5,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -197,21 +214,56 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "英雄落魄不逢时，\n满腹经纶有谁知！\n在穷途也只得佯装呆痴。"
-        },
-        {
-          "character": "韩信",
-          "line_type": "白",
-          "musical_style": null,
-          "style_family": null,
-          "text": "俺，韩信。淮阴人氏。只因暴秦无道，使我国破家亡，因而一家至此。寄食南\n昌亭长家中。亭长虽然仗义，怎奈他妻浅见，不识豪杰，屡有逐客之意。因此\n离了他家。韩信哪韩信，只恐你今生已矣！"
+          "text": "英雄落魄不逢时，"
         },
         {
           "character": "韩信",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "寄食岂是长久策，\n无计谋食受饥饿。"
+          "text": "满腹经纶有谁知！"
+        },
+        {
+          "character": "韩信",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "在穷途也只得佯装呆痴。"
+        },
+        {
+          "character": "韩信",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "俺，韩信。淮阴人氏。只因暴秦无道，使我国破家亡，因而一家至此。寄食南"
+        },
+        {
+          "character": "韩信",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "昌亭长家中。亭长虽然仗义，怎奈他妻浅见，不识豪杰，屡有逐客之意。因此"
+        },
+        {
+          "character": "韩信",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "离了他家。韩信哪韩信，只恐你今生已矣！"
+        },
+        {
+          "character": "韩信",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "寄食岂是长久策，"
+        },
+        {
+          "character": "韩信",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "无计谋食受饥饿。"
         },
         {
           "character": null,
@@ -239,7 +291,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "众位，你们瞧韩信这小子，身跨宝剑，倒仿佛是个武术家似的，待我赶罗赶罗\n他。\n韩信，你身带宝剑，敢给我一下子吗？"
+          "text": "众位，你们瞧韩信这小子，身跨宝剑，倒仿佛是个武术家似的，待我赶罗赶罗"
+        },
+        {
+          "character": "贾勇",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "他。"
+        },
+        {
+          "character": "贾勇",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "韩信，你身带宝剑，敢给我一下子吗？"
         },
         {
           "character": "韩信",
@@ -355,7 +421,17 @@
         "singing_ratio": 0.182,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.182,
+        0.2857,
+        0.6667,
+        0.0476,
+        0.3,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -393,14 +469,56 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "老身吴氏。久以漂洗为生，故人皆称我“漂母”。真名实姓反无人知晓。膝下\n无有儿女，丈夫去世，抛下老身一人。上无片瓦，下午立锥。且喜身体粗健，\n每日在这淮阴城外洗衣为生，倒也清闲自在。每日清晨，同村中贫苦夫人，结\n伴前去漂洗。看今日天气晴和，不免收拾衣衫，前去洗濯一番便了。"
+          "text": "老身吴氏。久以漂洗为生，故人皆称我“漂母”。真名实姓反无人知晓。膝下"
+        },
+        {
+          "character": "漂母",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "无有儿女，丈夫去世，抛下老身一人。上无片瓦，下午立锥。且喜身体粗健，"
+        },
+        {
+          "character": "漂母",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "每日在这淮阴城外洗衣为生，倒也清闲自在。每日清晨，同村中贫苦夫人，结"
+        },
+        {
+          "character": "漂母",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "伴前去漂洗。看今日天气晴和，不免收拾衣衫，前去洗濯一番便了。"
         },
         {
           "character": "漂母",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "叹孤身苦奔忙无依无靠，\n可怜我终日里漂洗在城壕。\n寸草不生少禾苗。\n那时节有何人葬埋在荒郊！"
+          "text": "叹孤身苦奔忙无依无靠，"
+        },
+        {
+          "character": "漂母",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "可怜我终日里漂洗在城壕。"
+        },
+        {
+          "character": "漂母",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "寸草不生少禾苗。"
+        },
+        {
+          "character": "漂母",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "那时节有何人葬埋在荒郊！"
         },
         {
           "character": null,
@@ -491,21 +609,63 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "二位说哪里话来，想你二人有公婆照顾，有丈夫倚靠，挣来漂洗之钱，自己零\n用；老身孤苦伶仃，无倚无靠，每日用度，全仗自己劳力，哪有无故不去漂洗\n之理？"
+          "text": "二位说哪里话来，想你二人有公婆照顾，有丈夫倚靠，挣来漂洗之钱，自己零"
+        },
+        {
+          "character": "漂母",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "用；老身孤苦伶仃，无倚无靠，每日用度，全仗自己劳力，哪有无故不去漂洗"
+        },
+        {
+          "character": "漂母",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "之理？"
         },
         {
           "character": "村妇甲",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "大娘，你说什么，我们有公婆照顾？依我说，还是您一个人无拘无束好。想我\n那公婆年已老迈，早晚还要服侍他们，若不是往家里挣钱，我拿婆婆早就不叫\n我去洗啦。"
+          "text": "大娘，你说什么，我们有公婆照顾？依我说，还是您一个人无拘无束好。想我"
+        },
+        {
+          "character": "村妇甲",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "那公婆年已老迈，早晚还要服侍他们，若不是往家里挣钱，我拿婆婆早就不叫"
+        },
+        {
+          "character": "村妇甲",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我去洗啦。"
         },
         {
           "character": "村妇乙",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "要说有丈夫有倚靠，我拿丈夫喝两盅儿酒，动不动就发脾气，开口骂，举手打，\n说什么：振作夫纲。耐心忍受，还则罢了；稍一反抗，乡里中就落个“不贤”\n之名。就是我挣的钱，也大半供他喝酒啦。"
+          "text": "要说有丈夫有倚靠，我拿丈夫喝两盅儿酒，动不动就发脾气，开口骂，举手打，"
+        },
+        {
+          "character": "村妇乙",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "说什么：振作夫纲。耐心忍受，还则罢了；稍一反抗，乡里中就落个“不贤”"
+        },
+        {
+          "character": "村妇乙",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "之名。就是我挣的钱，也大半供他喝酒啦。"
         },
         {
           "character": "漂母",
@@ -519,7 +679,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "你二人说此话情理固顺，\n怎奈这尘世中礼数约人。"
+          "text": "你二人说此话情理固顺，"
+        },
+        {
+          "character": "漂母",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "怎奈这尘世中礼数约人。"
         },
         {
           "character": "漂母",
@@ -576,7 +743,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.2121,
+        0.697,
+        0.0909,
+        0.4062,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 4,
@@ -609,21 +786,63 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "英雄困顿负壮志，\n垂钓充饥且耐时。"
-        },
-        {
-          "character": "韩信",
-          "line_type": "白",
-          "musical_style": null,
-          "style_family": null,
-          "text": "天哪，天！想俺韩信乃堂堂男子，落落丈夫，只落得这般光景，咳，困煞英雄\n也！"
+          "text": "英雄困顿负壮志，"
         },
         {
           "character": "韩信",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "恨天公作事无分晓，\n说什么贫和富命里相招？\n我好似风中絮浪里萍飘。\n到老来竟落得万载名标。\n到何日遇明主才放光豪？"
+          "text": "垂钓充饥且耐时。"
+        },
+        {
+          "character": "韩信",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "天哪，天！想俺韩信乃堂堂男子，落落丈夫，只落得这般光景，咳，困煞英雄"
+        },
+        {
+          "character": "韩信",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "也！"
+        },
+        {
+          "character": "韩信",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "恨天公作事无分晓，"
+        },
+        {
+          "character": "韩信",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "说什么贫和富命里相招？"
+        },
+        {
+          "character": "韩信",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我好似风中絮浪里萍飘。"
+        },
+        {
+          "character": "韩信",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "到老来竟落得万载名标。"
+        },
+        {
+          "character": "韩信",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "到何日遇明主才放光豪？"
         },
         {
           "character": null,
@@ -651,10 +870,24 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "年迈身衰靠苍天。\n沉沉碧水养红莲。"
+          "text": "年迈身衰靠苍天。"
         },
         {
-          "character": "眼望河边离不远、村妇甲",
+          "character": "漂母",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "沉沉碧水养红莲。"
+        },
+        {
+          "character": "漂母",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "眼望河边离不远"
+        },
+        {
+          "character": "村妇甲",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -686,14 +919,35 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "饥饿难忍心志迷，\n抬头不辨路东西。\n填于沟壑有谁知！"
+          "text": "饥饿难忍心志迷，"
+        },
+        {
+          "character": "韩信",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "抬头不辨路东西。"
+        },
+        {
+          "character": "韩信",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "填于沟壑有谁知！"
         },
         {
           "character": "韩信",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "咳！只望钓得几尾鱼儿，换取饭食也好充饥；怎奈天寒水浅，鱼不上钩，好生\n晦气。一路行来，腹饥难忍，叫我哪里去讨？"
+          "text": "咳！只望钓得几尾鱼儿，换取饭食也好充饥；怎奈天寒水浅，鱼不上钩，好生"
+        },
+        {
+          "character": "韩信",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "晦气。一路行来，腹饥难忍，叫我哪里去讨？"
         },
         {
           "character": null,
@@ -707,7 +961,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "唔呼呀！那旁有一老妈妈，待俺上前哀告于她，倘若肯赐一饭，也未可知。\n老妈妈在上，小生有礼！"
+          "text": "唔呼呀！那旁有一老妈妈，待俺上前哀告于她，倘若肯赐一饭，也未可知。"
+        },
+        {
+          "character": "韩信",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "老妈妈在上，小生有礼！"
         },
         {
           "character": "漂母",
@@ -784,10 +1045,31 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "一碗饭不过是随时方便，\n我看他不像个无为少年。\n大丈夫不逢时难免今天。"
+          "text": "一碗饭不过是随时方便，"
         },
         {
-          "character": "昔日里伍子胥沿街讨饭、韩信",
+          "character": "漂母",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我看他不像个无为少年。"
+        },
+        {
+          "character": "漂母",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "大丈夫不逢时难免今天。"
+        },
+        {
+          "character": "漂母",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "昔日里伍子胥沿街讨饭"
+        },
+        {
+          "character": "韩信",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -798,84 +1080,196 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "些许小事，何足挂齿。你且少待。\n哎呀且住！看这相公，相貌不凡，为何落在乞讨之中？待我仔细问他一番便了！"
+          "text": "些许小事，何足挂齿。你且少待。"
+        },
+        {
+          "character": "漂母",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "哎呀且住！看这相公，相貌不凡，为何落在乞讨之中？待我仔细问他一番便了！"
         },
         {
           "character": "漂母",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "大相公进前来我有话论，\n你听我把言语细说分明：\n我看你不似讨饭人。"
+          "text": "大相公进前来我有话论，"
         },
         {
-          "character": "我看你相貌非凡品、韩信",
+          "character": "漂母",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "你听我把言语细说分明："
+        },
+        {
+          "character": "漂母",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我看你不似讨饭人。"
+        },
+        {
+          "character": "漂母",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我看你相貌非凡品"
+        },
+        {
+          "character": "韩信",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
           "text": "妈妈容禀！"
         },
         {
-          "character": "我看你相貌非凡品、韩信",
+          "character": "韩信",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我看你相貌非凡品"
+        },
+        {
+          "character": "韩信",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "说什么相貌非凡品，\n讲什么不似讨饭人。\n到如今似飘萍流转无根。"
+          "text": "说什么相貌非凡品，"
         },
         {
-          "character": "我本是名人后性情明正、漂母",
+          "character": "韩信",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "讲什么不似讨饭人。"
+        },
+        {
+          "character": "韩信",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "到如今似飘萍流转无根。"
+        },
+        {
+          "character": "韩信",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我本是名人后性情明正"
+        },
+        {
+          "character": "漂母",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
           "text": "呀！"
         },
         {
-          "character": "我本是名人后性情明正、漂母",
-          "line_type": "唱",
+          "character": "漂母",
+          "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "听他言果然是名门之后，\n再问你名和姓家住何村？"
-        },
-        {
-          "character": "韩信",
-          "line_type": "唱",
-          "musical_style": null,
-          "style_family": null,
-          "text": "我本姓韩单名信，\n家门不远住淮阴。"
+          "text": "我本是名人后性情明正"
         },
         {
           "character": "漂母",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "既有家该回转父母孝敬，\n为什么常在外流落飘零？"
-        },
-        {
-          "character": "韩信",
-          "line_type": "唱",
-          "musical_style": null,
-          "style_family": null,
-          "text": "可怜我父和母早年丧命，\n并无有妻和子独自一人。"
+          "text": "听他言果然是名门之后，"
         },
         {
           "character": "漂母",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "看起来你就该读书上进，\n不读书去从军也好安身。"
+          "text": "再问你名和姓家住何村？"
         },
         {
           "character": "韩信",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "文章好武艺精难疗贫困，\n我只得暂忍耐再奔前程。"
+          "text": "我本姓韩单名信，"
+        },
+        {
+          "character": "韩信",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "家门不远住淮阴。"
+        },
+        {
+          "character": "漂母",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "既有家该回转父母孝敬，"
+        },
+        {
+          "character": "漂母",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "为什么常在外流落飘零？"
+        },
+        {
+          "character": "韩信",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "可怜我父和母早年丧命，"
+        },
+        {
+          "character": "韩信",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "并无有妻和子独自一人。"
+        },
+        {
+          "character": "漂母",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "看起来你就该读书上进，"
+        },
+        {
+          "character": "漂母",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "不读书去从军也好安身。"
+        },
+        {
+          "character": "韩信",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "文章好武艺精难疗贫困，"
+        },
+        {
+          "character": "韩信",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我只得暂忍耐再奔前程。"
         },
         {
           "character": "漂母",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "原来如此。老身虽然贫寒，一饭尚能周济，我每日在此漂洗，你饥饿之时，只\n管前来一饱。"
+          "text": "原来如此。老身虽然贫寒，一饭尚能周济，我每日在此漂洗，你饥饿之时，只"
+        },
+        {
+          "character": "漂母",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "管前来一饱。"
         },
         {
           "character": "韩信",
@@ -889,24 +1283,157 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "多蒙妈妈救孤贫，\n周济一餐值千金。\n答报今日再造恩。"
+          "text": "多蒙妈妈救孤贫，"
         },
         {
-          "character": "小生日后鹏程奋、漂母",
-          "line_type": "白",
-          "musical_style": null,
-          "style_family": null,
-          "text": "相公此言差矣！想人生在世，必须要轰轰烈烈作些惊天动地之事，落得美名，\n流传后世，不枉生男儿七尺之躯。想你堂堂男子，青年丈夫，每日三餐，不能\n自给，甘受这饥寒之苦，岂不令人可怜？是我见你青年落魄，故以饭食相赠。\n相公你来看，老身花甲之年，还能活上几载？岂望汝报？老身还有一言相劝，\n你且听了！"
-        },
-        {
-          "character": "小生日后鹏程奋、漂母",
+          "character": "韩信",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "相公听我说一遍，\n有辈古人听根源：\n十二岁陪伴在君前。\n每日垂钓在河边。\n八十二岁运转时来奠定周朝八百年。\n盼望明主来访你只怕是难上又加难。\n你若是不听也枉然。"
+          "text": "周济一餐值千金。"
         },
         {
-          "character": "甘罗秦朝为官宦、你要学周朝姜吕望、他耐等文王把贤访、你在河边来垂钓、这是老身良言劝、韩信",
+          "character": "韩信",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "答报今日再造恩。"
+        },
+        {
+          "character": "韩信",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "小生日后鹏程奋"
+        },
+        {
+          "character": "漂母",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "相公此言差矣！想人生在世，必须要轰轰烈烈作些惊天动地之事，落得美名，"
+        },
+        {
+          "character": "漂母",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "流传后世，不枉生男儿七尺之躯。想你堂堂男子，青年丈夫，每日三餐，不能"
+        },
+        {
+          "character": "漂母",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "自给，甘受这饥寒之苦，岂不令人可怜？是我见你青年落魄，故以饭食相赠。"
+        },
+        {
+          "character": "漂母",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "相公你来看，老身花甲之年，还能活上几载？岂望汝报？老身还有一言相劝，"
+        },
+        {
+          "character": "漂母",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "你且听了！"
+        },
+        {
+          "character": "漂母",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "小生日后鹏程奋"
+        },
+        {
+          "character": "漂母",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "相公听我说一遍，"
+        },
+        {
+          "character": "漂母",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "有辈古人听根源："
+        },
+        {
+          "character": "漂母",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "十二岁陪伴在君前。"
+        },
+        {
+          "character": "漂母",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "每日垂钓在河边。"
+        },
+        {
+          "character": "漂母",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "八十二岁运转时来奠定周朝八百年。"
+        },
+        {
+          "character": "漂母",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "盼望明主来访你只怕是难上又加难。"
+        },
+        {
+          "character": "漂母",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "你若是不听也枉然。"
+        },
+        {
+          "character": "漂母",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "甘罗秦朝为官宦"
+        },
+        {
+          "character": "漂母",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "你要学周朝姜吕望"
+        },
+        {
+          "character": "漂母",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "他耐等文王把贤访"
+        },
+        {
+          "character": "漂母",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "你在河边来垂钓"
+        },
+        {
+          "character": "漂母",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "这是老身良言劝"
+        },
+        {
+          "character": "韩信",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -931,7 +1458,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "此言差矣！你乃堂堂男子，青年丈夫，倘若从军战死沙场，也落得个名标青史，\n万古流芳。有道是："
+          "text": "此言差矣！你乃堂堂男子，青年丈夫，倘若从军战死沙场，也落得个名标青史，"
+        },
+        {
+          "character": "漂母",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "万古流芳。有道是："
         },
         {
           "character": "漂母",
@@ -952,7 +1486,21 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "多谢妈妈良言劝，\n韩信自愿到军前。\n一饭之恩记心间。"
+          "text": "多谢妈妈良言劝，"
+        },
+        {
+          "character": "韩信",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "韩信自愿到军前。"
+        },
+        {
+          "character": "韩信",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "一饭之恩记心间。"
         },
         {
           "character": null,
@@ -997,7 +1545,17 @@
         "singing_ratio": 0.265,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.265,
+        0.58,
+        0.4,
+        0.02,
+        0.3131,
+        3,
+        0.0,
+        0.0
+      ]
     }
   ]
 }

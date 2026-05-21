@@ -157,7 +157,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "俺兄弟二人在这华山脚下打家劫舍。看今日天气清和，正好下山抢掠。\n众喽兵，带马下山！"
+          "text": "俺兄弟二人在这华山脚下打家劫舍。看今日天气清和，正好下山抢掠。"
+        },
+        {
+          "character": "张广",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "众喽兵，带马下山！"
         },
         {
           "character": "四喽兵",
@@ -198,7 +205,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.8571,
+        0.1429,
+        0.6667,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -222,7 +239,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "花香难起马蹄尘。\n想必贼人下山林。"
+          "text": "花香难起马蹄尘。"
+        },
+        {
+          "character": "赵员外",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "想必贼人下山林。"
         },
         {
           "character": null,
@@ -257,14 +281,35 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "大哥，他言道是烧香还愿的，并无金银。你看这一女子十分美貌，将她抢上山\n去，岂不是好？"
+          "text": "大哥，他言道是烧香还愿的，并无金银。你看这一女子十分美貌，将她抢上山"
+        },
+        {
+          "character": "周进",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "去，岂不是好？"
         },
         {
           "character": "张广",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "就依贤弟。\n呔！那一老头儿，你既然无有金银，就将这女子与俺留下；如若不然，要了尔\n的狗命！"
+          "text": "就依贤弟。"
+        },
+        {
+          "character": "张广",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "呔！那一老头儿，你既然无有金银，就将这女子与俺留下；如若不然，要了尔"
+        },
+        {
+          "character": "张广",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "的狗命！"
         },
         {
           "character": "赵员外",
@@ -334,7 +379,17 @@
         "singing_ratio": 0.125,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.125,
+        0.1667,
+        0.8333,
+        0.0,
+        0.6364,
+        5,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -394,21 +449,42 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "贤弟不要争论。将此女子寄在庙内，再去抢掠，若有绝色女子，你我一人一个；\n若无女子，你我谁也不要。"
+          "text": "贤弟不要争论。将此女子寄在庙内，再去抢掠，若有绝色女子，你我一人一个；"
+        },
+        {
+          "character": "张广",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "若无女子，你我谁也不要。"
         },
         {
           "character": "周进",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "好好好！\n老道，将此女子寄在你的庙内，不可放走了她！"
+          "text": "好好好！"
+        },
+        {
+          "character": "周进",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "老道，将此女子寄在你的庙内，不可放走了她！"
         },
         {
           "character": "褚元",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "二位大王，这庙内乃清净所在，焉能容留女子？况且房屋又少，诸多不便。还\n是请二位大王将她带到旁处去吧！"
+          "text": "二位大王，这庙内乃清净所在，焉能容留女子？况且房屋又少，诸多不便。还"
+        },
+        {
+          "character": "褚元",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "是请二位大王将她带到旁处去吧！"
         },
         {
           "character": "周进",
@@ -457,14 +533,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "小姐，这些强盗十分厉害，我若惹他，一来放火烧庙，二来性命难保。暂在后\n面歇息，待贫道慢慢设法搭救于你。"
+          "text": "小姐，这些强盗十分厉害，我若惹他，一来放火烧庙，二来性命难保。暂在后"
+        },
+        {
+          "character": "褚元",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "面歇息，待贫道慢慢设法搭救于你。"
         },
         {
           "character": "赵京娘",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "全凭道长。\n唉，爹娘啊！"
+          "text": "全凭道长。"
+        },
+        {
+          "character": "赵京娘",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "唉，爹娘啊！"
         },
         {
           "character": null,
@@ -522,7 +612,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.9474,
+        0.0526,
+        0.6667,
+        5,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 4,
@@ -544,14 +644,35 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "投亲不遇心悔恨，\n抬头只见日西沉。\n浑身战抖汗淋淋。"
+          "text": "投亲不遇心悔恨，"
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "抬头只见日西沉。"
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "浑身战抖汗淋淋。"
         },
         {
           "character": "赵匡胤",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "俺，赵匡胤。去到首阳山投亲，不想外祖母早已迁移。行至此处，浑身疼痛，\n冷汗淋淋，不知是何缘故，不免在此石阶之上歇息歇息再走。"
+          "text": "俺，赵匡胤。去到首阳山投亲，不想外祖母早已迁移。行至此处，浑身疼痛，"
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "冷汗淋淋，不知是何缘故，不免在此石阶之上歇息歇息再走。"
         },
         {
           "character": null,
@@ -565,7 +686,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "唉！这伙强盗抢来这一女子，藏在我的庙中，是她苦苦哀求于我，叫我搭救于\n她。若不设法搭救，她就要死在我的庙内，这便如何是好？"
+          "text": "唉！这伙强盗抢来这一女子，藏在我的庙中，是她苦苦哀求于我，叫我搭救于"
+        },
+        {
+          "character": "褚元",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "她。若不设法搭救，她就要死在我的庙内，这便如何是好？"
         },
         {
           "character": null,
@@ -586,7 +714,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "忽听有人将我唤，\n只见道长在面前。"
+          "text": "忽听有人将我唤，"
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "只见道长在面前。"
         },
         {
           "character": "褚元",
@@ -685,7 +820,17 @@
         "singing_ratio": 0.154,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.154,
+        0.2632,
+        0.7368,
+        0.0,
+        0.5556,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 5,
@@ -712,7 +857,28 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "心恨强盗忒大胆，\n擅抢民女理不端。\n不知何日转家园。\n拜求佛祖保平安。"
+          "text": "心恨强盗忒大胆，"
+        },
+        {
+          "character": "赵京娘",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "擅抢民女理不端。"
+        },
+        {
+          "character": "赵京娘",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "不知何日转家园。"
+        },
+        {
+          "character": "赵京娘",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "拜求佛祖保平安。"
         },
         {
           "character": "赵京娘",
@@ -736,7 +902,14 @@
           "text": "散步闲游到殿前。"
         },
         {
-          "character": "耳旁听得哭声喊、赵京娘",
+          "character": "赵匡胤",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "耳旁听得哭声喊"
+        },
+        {
+          "character": "赵京娘",
           "line_type": "哭",
           "musical_style": null,
           "style_family": null,
@@ -761,7 +934,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "且住！想这庙内哪里来的女子？待我问过老道。\n禇道长快来！"
+          "text": "且住！想这庙内哪里来的女子？待我问过老道。"
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "禇道长快来！"
         },
         {
           "character": null,
@@ -789,7 +969,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "壮士有所不知，这女子名叫赵京娘，父女进香，被强人抢到庙中，命小道藏在\n空房里面。若是将她放走，强人回来，放火烧庙，我的性命难保！"
+          "text": "壮士有所不知，这女子名叫赵京娘，父女进香，被强人抢到庙中，命小道藏在"
+        },
+        {
+          "character": "褚元",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "空房里面。若是将她放走，强人回来，放火烧庙，我的性命难保！"
         },
         {
           "character": "赵匡胤",
@@ -817,7 +1004,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "不是，不是，不是！待我唤她前来。\n啊小姐，这一壮士搭救于你，快快出来相见。"
+          "text": "不是，不是，不是！待我唤她前来。"
+        },
+        {
+          "character": "褚元",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "啊小姐，这一壮士搭救于你，快快出来相见。"
         },
         {
           "character": "赵京娘",
@@ -852,7 +1046,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "小姐之事，俺已尽知。俺情愿将你救出，你看今晚月朗星明，快些随俺逃走，\n有俺保护，料然无事。"
+          "text": "小姐之事，俺已尽知。俺情愿将你救出，你看今晚月朗星明，快些随俺逃走，"
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "有俺保护，料然无事。"
         },
         {
           "character": null,
@@ -880,7 +1081,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "你不要背地沉吟。俺对你实说了吧：俺乃东京人氏，姓赵，名匡胤，字玄郎。\n我父金殿都指挥赵宏殷，只因俺在东京杀死御勾栏数十名，故尔闯祸，逃出门\n外。俺一生专管不平之事。今见小姐有此大难，焉能袖手旁观？有道是：男女\n之嫌，焉有不知？俺赵某做事，唯天可表！"
+          "text": "你不要背地沉吟。俺对你实说了吧：俺乃东京人氏，姓赵，名匡胤，字玄郎。"
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我父金殿都指挥赵宏殷，只因俺在东京杀死御勾栏数十名，故尔闯祸，逃出门"
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "外。俺一生专管不平之事。今见小姐有此大难，焉能袖手旁观？有道是：男女"
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "之嫌，焉有不知？俺赵某做事，唯天可表！"
         },
         {
           "character": "赵京娘",
@@ -915,10 +1137,31 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "恩公请上奴拜定，\n见义勇为救奴身。\n奴家感德不忘恩。"
+          "text": "恩公请上奴拜定，"
         },
         {
-          "character": "多谢道长来指引、褚元",
+          "character": "赵京娘",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "见义勇为救奴身。"
+        },
+        {
+          "character": "赵京娘",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "奴家感德不忘恩。"
+        },
+        {
+          "character": "赵京娘",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "多谢道长来指引"
+        },
+        {
+          "character": "褚元",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -943,7 +1186,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "黑夜逃走要谨慎，\n披星戴月奔途程。"
+          "text": "黑夜逃走要谨慎，"
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "披星戴月奔途程。"
         },
         {
           "character": null,
@@ -957,7 +1207,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "赵小姐逃出天罗境，\n强人到此把话云。"
+          "text": "赵小姐逃出天罗境，"
+        },
+        {
+          "character": "褚元",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "强人到此把话云。"
         },
         {
           "character": null,
@@ -1054,7 +1311,17 @@
         "singing_ratio": 0.138,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.138,
+        0.32,
+        0.68,
+        0.0,
+        0.5918,
+        5,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 6,
@@ -1078,7 +1345,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "多蒙恩公施恻隐，\n来生结草报君恩。"
+          "text": "多蒙恩公施恻隐，"
+        },
+        {
+          "character": "赵京娘",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来生结草报君恩。"
         },
         {
           "character": "赵匡胤",
@@ -1099,7 +1373,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "想是贼人到来临。\n且看赵某将贼擒。"
+          "text": "想是贼人到来临。"
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "且看赵某将贼擒。"
         },
         {
           "character": null,
@@ -1207,7 +1488,17 @@
         "singing_ratio": 0.4,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.4,
+        0.5385,
+        0.4615,
+        0.0,
+        0.5833,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 7,
@@ -1231,10 +1522,24 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "员外还愿把香降，\n至今不见转还乡。"
+          "text": "员外还愿把香降，"
         },
         {
-          "character": "将身且坐草堂上、赵员外",
+          "character": "赵夫人",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "至今不见转还乡。"
+        },
+        {
+          "character": "赵夫人",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "将身且坐草堂上"
+        },
+        {
+          "character": "赵员外",
           "line_type": "内白",
           "musical_style": null,
           "style_family": null,
@@ -1259,7 +1564,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "急急忙忙回家往，\n见了安人说端详。"
+          "text": "急急忙忙回家往，"
+        },
+        {
+          "character": "赵员外",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "见了安人说端详。"
         },
         {
           "character": "赵员外",
@@ -1294,7 +1606,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "听说女儿被贼抢，\n好似钢刀刺胸膛。"
+          "text": "听说女儿被贼抢，"
+        },
+        {
+          "character": "赵夫人",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "好似钢刀刺胸膛。"
         },
         {
           "character": "赵夫人",
@@ -1311,7 +1630,14 @@
           "text": "平白无辜遭祸殃。"
         },
         {
-          "character": "只说还愿把香降、赵员外",
+          "character": "赵夫人",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "只说还愿把香降"
+        },
+        {
+          "character": "赵员外",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -1360,7 +1686,17 @@
         "singing_ratio": 0.3,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.3,
+        0.5789,
+        0.4211,
+        0.0,
+        0.5,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 8,
@@ -1388,45 +1724,150 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "此时才算放了心。\n举家团聚谢大恩。"
-        },
-        {
-          "character": "脱离龙潭家门进、赵匡胤",
-          "line_type": "唱",
-          "musical_style": null,
-          "style_family": null,
-          "text": "劝小姐且把那宽心放定，\n俺匡胤抱不平不望报恩。"
+          "text": "此时才算放了心。"
         },
         {
           "character": "赵京娘",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "坐至在马鞍鞒双目观定，\n只见他英雄像、貌非凡，奴起了爱慕之心。\n忽然一计想在心。"
+          "text": "举家团聚谢大恩。"
         },
         {
-          "character": "奴这里低下头暗自思忖、奴这里假意儿乘骑不稳、赵匡胤",
+          "character": "赵京娘",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "望小姐要谨慎多多留心。\n一路上道路崎岖，你的马快，我的步慢，马上步下，各自当心，你要保重多留\n神。"
-        },
-        {
-          "character": "跌下了马鞍鞒必有伤损、赵京娘",
-          "line_type": "唱",
-          "musical_style": null,
-          "style_family": null,
-          "text": "趁此时奴有心将他挑定，\n看他知情不知情。"
+          "text": "脱离龙潭家门进"
         },
         {
           "character": "赵匡胤",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "小姐且用目观定，\n你看那西北乾天起乌云、霎时大雨要降临。\n去到哪里把身存？"
+          "text": "劝小姐且把那宽心放定，"
         },
         {
-          "character": "行到此前不着店、后不着村、赵京娘",
+          "character": "赵匡胤",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "俺匡胤抱不平不望报恩。"
+        },
+        {
+          "character": "赵京娘",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "坐至在马鞍鞒双目观定，"
+        },
+        {
+          "character": "赵京娘",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "只见他英雄像、貌非凡，奴起了爱慕之心。"
+        },
+        {
+          "character": "赵京娘",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "忽然一计想在心。"
+        },
+        {
+          "character": "赵京娘",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "奴这里低下头暗自思忖"
+        },
+        {
+          "character": "赵京娘",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "奴这里假意儿乘骑不稳"
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "望小姐要谨慎多多留心。"
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "一路上道路崎岖，你的马快，我的步慢，马上步下，各自当心，你要保重多留"
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "神。"
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "跌下了马鞍鞒必有伤损"
+        },
+        {
+          "character": "赵京娘",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "趁此时奴有心将他挑定，"
+        },
+        {
+          "character": "赵京娘",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "看他知情不知情。"
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "小姐且用目观定，"
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "你看那西北乾天起乌云、霎时大雨要降临。"
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "去到哪里把身存？"
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "行到此前不着店"
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "后不着村"
+        },
+        {
+          "character": "赵京娘",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
@@ -1444,7 +1885,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "转瞬之间乌云滚，\n来至亭外，下了能行，暂避身形。"
+          "text": "转瞬之间乌云滚，"
+        },
+        {
+          "character": "赵京娘",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来至亭外，下了能行，暂避身形。"
         },
         {
           "character": null,
@@ -1486,7 +1934,21 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "平白无辜遭危困，\n多蒙公子脱灾星。\n千里迢迢送奴行。"
+          "text": "平白无辜遭危困，"
+        },
+        {
+          "character": "赵京娘",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "多蒙公子脱灾星。"
+        },
+        {
+          "character": "赵京娘",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "千里迢迢送奴行。"
         },
         {
           "character": null,
@@ -1521,7 +1983,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "俺匡胤平生侠义性，\n萍水相逢抱不平。"
+          "text": "俺匡胤平生侠义性，"
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "萍水相逢抱不平。"
         },
         {
           "character": null,
@@ -1577,21 +2046,49 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "想奴系深闺弱女，随父进香而回，被陷贼人之手。幸蒙公子搭救，千里迢迢，\n送奴还乡，此恩此德，没齿难忘。倘蒙公子不弃，愿执箕帚，不知公子尊意可\n否？"
-        },
-        {
-          "character": "赵匡胤",
-          "line_type": "白",
-          "musical_style": null,
-          "style_family": null,
-          "text": "小姐，禁声哪禁声！想俺与你萍水相逢，挺身相救，不过伸其大义；岂似那些\n盗匪之辈，先存苟且之念？不经之言，休要出口！"
+          "text": "想奴系深闺弱女，随父进香而回，被陷贼人之手。幸蒙公子搭救，千里迢迢，"
         },
         {
           "character": "赵京娘",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "公子休得见怪。奴非淫贱之女，弱体余生，皆为公子所赐。此身之外，别无答\n报。但得妾婢之身服侍公子，死也暝目。"
+          "text": "送奴还乡，此恩此德，没齿难忘。倘蒙公子不弃，愿执箕帚，不知公子尊意可"
+        },
+        {
+          "character": "赵京娘",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "否？"
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "小姐，禁声哪禁声！想俺与你萍水相逢，挺身相救，不过伸其大义；岂似那些"
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "盗匪之辈，先存苟且之念？不经之言，休要出口！"
+        },
+        {
+          "character": "赵京娘",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "公子休得见怪。奴非淫贱之女，弱体余生，皆为公子所赐。此身之外，别无答"
+        },
+        {
+          "character": "赵京娘",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "报。但得妾婢之身服侍公子，死也暝目。"
         },
         {
           "character": null,
@@ -1605,14 +2102,35 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "住了！俺因你误遭贼人之手，故尔不辞跋涉，相送回乡。谁想你出此不经之言！\n俺匡胤平生正直无私，若有邪念，天神共见！你若邪心不退，俺便辞你而去，\n休怪匡胤有始无终！"
+          "text": "住了！俺因你误遭贼人之手，故尔不辞跋涉，相送回乡。谁想你出此不经之言！"
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "俺匡胤平生正直无私，若有邪念，天神共见！你若邪心不退，俺便辞你而去，"
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "休怪匡胤有始无终！"
         },
         {
           "character": "赵京娘",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "公子息怒，奴言冒犯，并非邪念。若不嫌弃，情愿结为仁义兄妹，料无推辞的\n了。"
+          "text": "公子息怒，奴言冒犯，并非邪念。若不嫌弃，情愿结为仁义兄妹，料无推辞的"
+        },
+        {
+          "character": "赵京娘",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "了。"
         },
         {
           "character": "赵匡胤",
@@ -1697,7 +2215,17 @@
         "singing_ratio": 0.5,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.5,
+        0.6207,
+        0.3793,
+        0.0,
+        0.4737,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 9,
@@ -1749,7 +2277,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "唉！自从女儿被强人抢去，不知生死存亡。也曾命人四路打听，至今杳无音信，\n想必凶多吉少。"
+          "text": "唉！自从女儿被强人抢去，不知生死存亡。也曾命人四路打听，至今杳无音信，"
+        },
+        {
+          "character": "赵员外",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "想必凶多吉少。"
         },
         {
           "character": "赵夫人",
@@ -1763,7 +2298,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "骂声强盗心忒狠，\n擅枪民女乱胡行。"
+          "text": "骂声强盗心忒狠，"
+        },
+        {
+          "character": "赵夫人",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "擅枪民女乱胡行。"
         },
         {
           "character": "赵夫人",
@@ -1791,14 +2333,28 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "星夜离了蒲州郡，\n心猿意马奔前程。"
+          "text": "星夜离了蒲州郡，"
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "心猿意马奔前程。"
         },
         {
           "character": "赵京娘",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "手挽丝缰用目睁，\n只见来到我家门。"
+          "text": "手挽丝缰用目睁，"
+        },
+        {
+          "character": "赵京娘",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "只见来到我家门。"
         },
         {
           "character": "赵京娘",
@@ -1861,7 +2417,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "见双亲不由儿珠泪滚滚，\n今日里脱虎口转回家门。"
+          "text": "见双亲不由儿珠泪滚滚，"
+        },
+        {
+          "character": "赵京娘",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "今日里脱虎口转回家门。"
         },
         {
           "character": "赵员外",
@@ -1945,7 +2508,14 @@
           "line_type": "同白",
           "musical_style": null,
           "style_family": null,
-          "text": "多蒙恩公救出小女，使我一家团聚。此恩此德，怎生答报？恩公请上，受我夫\n妻一拜！"
+          "text": "多蒙恩公救出小女，使我一家团聚。此恩此德，怎生答报？恩公请上，受我夫"
+        },
+        {
+          "character": "赵员外、赵夫人",
+          "line_type": "同白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "妻一拜！"
         },
         {
           "character": null,
@@ -1973,7 +2543,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "恩公满身灰尘。\n家院，带领恩公后面沐浴更衣！\n赵匡胤 （白"
+          "text": "恩公满身灰尘。"
+        },
+        {
+          "character": "赵员外",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "家院，带领恩公后面沐浴更衣！"
+        },
+        {
+          "character": "赵员外",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "赵匡胤 （白"
         }
       ],
       "interactions": [
@@ -2049,7 +2633,17 @@
         "singing_ratio": 0.157,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.157,
+        0.4474,
+        0.5526,
+        0.0,
+        0.5946,
+        5,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 10,
@@ -2142,7 +2736,17 @@
         "singing_ratio": 0.2,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.2,
+        0.3333,
+        0.6667,
+        0.0,
+        0.8,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 11,
@@ -2239,7 +2843,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 12,
@@ -2462,7 +3076,17 @@
         "singing_ratio": 0.188,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.188,
+        0.2222,
+        0.7778,
+        0.0,
+        0.8235,
+        5,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 13,
@@ -2674,7 +3298,17 @@
         "singing_ratio": 0.385,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.385,
+        0.4444,
+        0.5556,
+        0.0,
+        0.5294,
+        2,
+        0.0,
+        0.0
+      ]
     }
   ]
 }

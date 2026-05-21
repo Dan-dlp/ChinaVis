@@ -231,7 +231,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "俺，张翼德。奉了军师将令，夺取南郡。\n众将官！"
+          "text": "俺，张翼德。奉了军师将令，夺取南郡。"
+        },
+        {
+          "character": "张飞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "众将官！"
         },
         {
           "character": "四上手",
@@ -274,7 +281,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.6667,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -295,7 +312,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "俺，赵云。奉了师爷之令，恐怕翼德此去，放走陈矫；叫我前去帮助捉拿陈矫，\n以取南郡兵符印信。\n众将官，就此前往。"
+          "text": "俺，赵云。奉了师爷之令，恐怕翼德此去，放走陈矫；叫我前去帮助捉拿陈矫，"
+        },
+        {
+          "character": "赵云",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "以取南郡兵符印信。"
+        },
+        {
+          "character": "赵云",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "众将官，就此前往。"
         },
         {
           "character": null,
@@ -314,7 +345,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -426,7 +467,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "依某之见，莫若将兵马暂退东吴，等候都督病体痊愈，再与曹兵交战，也还不\n迟。"
+          "text": "依某之见，莫若将兵马暂退东吴，等候都督病体痊愈，再与曹兵交战，也还不"
+        },
+        {
+          "character": "甘宁",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "迟。"
         },
         {
           "character": "陈武、丁奉、蒋钦",
@@ -447,7 +495,14 @@
           "line_type": "同白",
           "musical_style": null,
           "style_family": null,
-          "text": "好。\n有请鲁大夫。"
+          "text": "好。"
+        },
+        {
+          "character": "陈武、丁奉、蒋钦",
+          "line_type": "同白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "有请鲁大夫。"
         },
         {
           "character": "鲁肃",
@@ -482,7 +537,14 @@
           "line_type": "同白",
           "musical_style": null,
           "style_family": null,
-          "text": "今有牛金，终日在营门叫骂，周都督身得重病，我等亦不敢出阵。适才我等计\n议，不如将兵马退回东吴，等待都督箭伤痊愈，再来征剿。特请大夫商议此事。"
+          "text": "今有牛金，终日在营门叫骂，周都督身得重病，我等亦不敢出阵。适才我等计"
+        },
+        {
+          "character": "陈武、丁奉、甘宁、蒋钦",
+          "line_type": "同白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "议，不如将兵马退回东吴，等待都督箭伤痊愈，再来征剿。特请大夫商议此事。"
         },
         {
           "character": "鲁肃",
@@ -496,7 +558,35 @@
           "line_type": "西皮原板",
           "musical_style": "西皮原板",
           "style_family": "西皮",
-          "text": "列位休要纷纷论，\n听我鲁肃说分明：\n不料暗中箭雕翎。\n不能出兵会敌人。\n只怕公瑾不依从。"
+          "text": "列位休要纷纷论，"
+        },
+        {
+          "character": "鲁肃",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "听我鲁肃说分明："
+        },
+        {
+          "character": "鲁肃",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "不料暗中箭雕翎。"
+        },
+        {
+          "character": "鲁肃",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "不能出兵会敌人。"
+        },
+        {
+          "character": "鲁肃",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "只怕公瑾不依从。"
         },
         {
           "character": "鲁肃",
@@ -506,7 +596,49 @@
           "text": "为今之计，你我一同进账，观看都督病势，再作计较。"
         },
         {
-          "character": "周都督做事太好胜、今日病势甚实重、若想退兵把气忍、陈武、丁奉、甘宁、蒋钦",
+          "character": "鲁肃",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "周都督做事太好胜"
+        },
+        {
+          "character": "鲁肃",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "今日病势甚实重"
+        },
+        {
+          "character": "鲁肃",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "若想退兵把气忍"
+        },
+        {
+          "character": "鲁肃",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "陈武"
+        },
+        {
+          "character": "鲁肃",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "丁奉"
+        },
+        {
+          "character": "鲁肃",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "甘宁"
+        },
+        {
+          "character": "蒋钦",
           "line_type": "同白",
           "musical_style": null,
           "style_family": null,
@@ -578,7 +710,17 @@
         "musical_styles": [
           "西皮原板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.1316,
+        0.7368,
+        0.1316,
+        0.5405,
+        8,
+        0.1316,
+        0.0
+      ]
     },
     {
       "scene_index": 4,
@@ -607,7 +749,21 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "昨日阵前大交兵，\n谁知暗中箭雕翎。\n且听探马报军情。"
+          "text": "昨日阵前大交兵，"
+        },
+        {
+          "character": "周瑜",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "谁知暗中箭雕翎。"
+        },
+        {
+          "character": "周瑜",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "且听探马报军情。"
         },
         {
           "character": null,
@@ -677,7 +833,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "大夫休要瞒我，此必是曹兵前来骂阵。\n众位将军，既是曹军前来骂阵。你等为何不来通报？"
+          "text": "大夫休要瞒我，此必是曹兵前来骂阵。"
+        },
+        {
+          "character": "周瑜",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "众位将军，既是曹军前来骂阵。你等为何不来通报？"
         },
         {
           "character": "陈武、丁奉、甘宁、蒋钦",
@@ -691,14 +854,35 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "适才我等计议，都督既然抱病，不如将人马暂退东吴，待等都督病愈，再动干\n戈，也还不迟。"
+          "text": "适才我等计议，都督既然抱病，不如将人马暂退东吴，待等都督病愈，再动干"
+        },
+        {
+          "character": "鲁肃",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "戈，也还不迟。"
         },
         {
           "character": "周瑜",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "大夫说哪里话来。想我周瑜，深受吴侯厚恩，粉身碎骨，理所当然。岂得为瑜\n一身而误国家大事？想那南郡，指日即可到手，若将兵马退回，岂不妄费国家\n钱粮？"
+          "text": "大夫说哪里话来。想我周瑜，深受吴侯厚恩，粉身碎骨，理所当然。岂得为瑜"
+        },
+        {
+          "character": "周瑜",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "一身而误国家大事？想那南郡，指日即可到手，若将兵马退回，岂不妄费国家"
+        },
+        {
+          "character": "周瑜",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "钱粮？"
         },
         {
           "character": "鲁肃",
@@ -712,21 +896,70 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "自古大将临阵，若得身死战场，以虎皮裹尸回还，方为大丈夫。子敬，你好糊\n涂也！"
+          "text": "自古大将临阵，若得身死战场，以虎皮裹尸回还，方为大丈夫。子敬，你好糊"
+        },
+        {
+          "character": "周瑜",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "涂也！"
         },
         {
           "character": "周瑜",
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "自古豪杰岂惜命，\n军务大事要担承。\n我指日定得南郡城。"
+          "text": "自古豪杰岂惜命，"
         },
         {
-          "character": "纵然曹兵甚英勇、鲁肃",
+          "character": "周瑜",
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "都督休要太好胜，\n箭疮一发命难存。\n我鲁肃怕的是诸葛孔明。\n叫人笑我太无能。"
+          "text": "军务大事要担承。"
+        },
+        {
+          "character": "周瑜",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "我指日定得南郡城。"
+        },
+        {
+          "character": "周瑜",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "纵然曹兵甚英勇"
+        },
+        {
+          "character": "鲁肃",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "都督休要太好胜，"
+        },
+        {
+          "character": "鲁肃",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "箭疮一发命难存。"
+        },
+        {
+          "character": "鲁肃",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "我鲁肃怕的是诸葛孔明。"
+        },
+        {
+          "character": "鲁肃",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "叫人笑我太无能。"
         },
         {
           "character": null,
@@ -761,10 +994,24 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "胆大牛金太逞胜，\n猛虎怎能让犬行。"
+          "text": "胆大牛金太逞胜，"
         },
         {
-          "character": "人来带过马能行、鲁肃",
+          "character": "周瑜",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "猛虎怎能让犬行。"
+        },
+        {
+          "character": "周瑜",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "人来带过马能行"
+        },
+        {
+          "character": "鲁肃",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -827,7 +1074,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.2,
+        0.4167,
+        0.5833,
+        0.0,
+        0.5429,
+        5,
+        0.4167,
+        0.0
+      ]
     },
     {
       "scene_index": 5,
@@ -855,14 +1112,49 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "吾，曹仁。奉了丞相之命，镇守南郡。昨日周郎小儿，中了暗箭，回营染病。\n是俺命牛金在吴营之外百般叫骂，那周郎闻知，定必气死。今日不免我亲自前\n去叫骂。\n众将官，杀奔吴营。"
+          "text": "吾，曹仁。奉了丞相之命，镇守南郡。昨日周郎小儿，中了暗箭，回营染病。"
+        },
+        {
+          "character": "曹仁",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "是俺命牛金在吴营之外百般叫骂，那周郎闻知，定必气死。今日不免我亲自前"
+        },
+        {
+          "character": "曹仁",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "去叫骂。"
+        },
+        {
+          "character": "曹仁",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "众将官，杀奔吴营。"
         },
         {
           "character": "曹仁",
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "三军催动人和马，\n一来一往动杀法。\n谁敢出营会会咱！"
+          "text": "三军催动人和马，"
+        },
+        {
+          "character": "曹仁",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "一来一往动杀法。"
+        },
+        {
+          "character": "曹仁",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "谁敢出营会会咱！"
         }
       ],
       "interactions": [
@@ -886,7 +1178,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.375,
+        0.5,
+        0.125,
+        0.0,
+        1,
+        0.375,
+        0.0
+      ]
     },
     {
       "scene_index": 6,
@@ -959,7 +1261,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "你等哪里知道，前日在两军阵前，虽然暗中冷箭，并未射着身体。是我将舌尖\n咬破，假装受伤吐血之势，狼狈而回。今日在阵前，那曹仁看我身带重伤，破\n口大骂；他看我此番受辱而回，一气这箭伤必发，我就此将计就计，假装气死，\n满营将士挂孝举哀，那曹仁定必前来劫寨，我将人马埋伏营外，曹仁可擒也。"
+          "text": "你等哪里知道，前日在两军阵前，虽然暗中冷箭，并未射着身体。是我将舌尖"
+        },
+        {
+          "character": "周瑜",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "咬破，假装受伤吐血之势，狼狈而回。今日在阵前，那曹仁看我身带重伤，破"
+        },
+        {
+          "character": "周瑜",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "口大骂；他看我此番受辱而回，一气这箭伤必发，我就此将计就计，假装气死，"
+        },
+        {
+          "character": "周瑜",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "满营将士挂孝举哀，那曹仁定必前来劫寨，我将人马埋伏营外，曹仁可擒也。"
         },
         {
           "character": "鲁肃",
@@ -973,7 +1296,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "“死生有命。富贵在天”。这有何妨？众位将军与大夫，就此哭起来便了。吓，\n大夫哭吓，众位将军哭吓！"
+          "text": "“死生有命。富贵在天”。这有何妨？众位将军与大夫，就此哭起来便了。吓，"
+        },
+        {
+          "character": "周瑜",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "大夫哭吓，众位将军哭吓！"
         },
         {
           "character": "鲁肃",
@@ -1043,10 +1373,73 @@
           "line_type": "反西皮摇板",
           "musical_style": "反西皮摇板",
           "style_family": "西皮",
-          "text": "想当年我与你结交亲近，\n你荐我为参谋同领雄兵。\n在赤壁烧曹兵大显威名。\n东西征南北剿立下功勋。\n不料你中冷箭命赴幽冥。\n我的周都督吓……"
+          "text": "想当年我与你结交亲近，"
         },
         {
-          "character": "虽年少用机谋人人猜定、可怜你为国家心血用尽、到今日带大兵攻取南郡、此时间哭得我咽喉哽哽、周瑜",
+          "character": "鲁肃",
+          "line_type": "反西皮摇板",
+          "musical_style": "反西皮摇板",
+          "style_family": "西皮",
+          "text": "你荐我为参谋同领雄兵。"
+        },
+        {
+          "character": "鲁肃",
+          "line_type": "反西皮摇板",
+          "musical_style": "反西皮摇板",
+          "style_family": "西皮",
+          "text": "在赤壁烧曹兵大显威名。"
+        },
+        {
+          "character": "鲁肃",
+          "line_type": "反西皮摇板",
+          "musical_style": "反西皮摇板",
+          "style_family": "西皮",
+          "text": "东西征南北剿立下功勋。"
+        },
+        {
+          "character": "鲁肃",
+          "line_type": "反西皮摇板",
+          "musical_style": "反西皮摇板",
+          "style_family": "西皮",
+          "text": "不料你中冷箭命赴幽冥。"
+        },
+        {
+          "character": "鲁肃",
+          "line_type": "反西皮摇板",
+          "musical_style": "反西皮摇板",
+          "style_family": "西皮",
+          "text": "我的周都督吓……"
+        },
+        {
+          "character": "鲁肃",
+          "line_type": "反西皮摇板",
+          "musical_style": "反西皮摇板",
+          "style_family": "西皮",
+          "text": "虽年少用机谋人人猜定"
+        },
+        {
+          "character": "鲁肃",
+          "line_type": "反西皮摇板",
+          "musical_style": "反西皮摇板",
+          "style_family": "西皮",
+          "text": "可怜你为国家心血用尽"
+        },
+        {
+          "character": "鲁肃",
+          "line_type": "反西皮摇板",
+          "musical_style": "反西皮摇板",
+          "style_family": "西皮",
+          "text": "到今日带大兵攻取南郡"
+        },
+        {
+          "character": "鲁肃",
+          "line_type": "反西皮摇板",
+          "musical_style": "反西皮摇板",
+          "style_family": "西皮",
+          "text": "此时间哭得我咽喉哽哽"
+        },
+        {
+          "character": "周瑜",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -1092,7 +1485,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "“阴阳天理，百无禁忌”。\n来，传守营将校进帐。"
+          "text": "“阴阳天理，百无禁忌”。"
+        },
+        {
+          "character": "周瑜",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来，传守营将校进帐。"
         },
         {
           "character": "陈武、丁奉、甘宁、蒋钦",
@@ -1127,7 +1527,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "罢了。我命你二人去到南郡诈降曹仁，就说我今日在阵前被他大骂一番，怒冲\n箭伤，疮口崩裂，一气而死。现在满营将士正在挂孝成丧，特来禀报。那厮定\n必前来劫营。倘若功成之后，必有重赏。"
+          "text": "罢了。我命你二人去到南郡诈降曹仁，就说我今日在阵前被他大骂一番，怒冲"
+        },
+        {
+          "character": "周瑜",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "箭伤，疮口崩裂，一气而死。现在满营将士正在挂孝成丧，特来禀报。那厮定"
+        },
+        {
+          "character": "周瑜",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "必前来劫营。倘若功成之后，必有重赏。"
         },
         {
           "character": "二小校",
@@ -1176,14 +1590,35 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "鲁大夫替我传令，吩咐营中大小将官饱餐战饭，黄昏时候埋伏在大营前后，曹\n兵到来，奋勇杀出。不得有误！"
+          "text": "鲁大夫替我传令，吩咐营中大小将官饱餐战饭，黄昏时候埋伏在大营前后，曹"
+        },
+        {
+          "character": "周瑜",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "兵到来，奋勇杀出。不得有误！"
         },
         {
           "character": "鲁肃",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "遵命。\n下面听者：满营大小将官饱餐战饭，黄昏时候埋伏在大营前后，曹兵到来，奋\n勇杀出。不得有误。传令已毕。"
+          "text": "遵命。"
+        },
+        {
+          "character": "鲁肃",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "下面听者：满营大小将官饱餐战饭，黄昏时候埋伏在大营前后，曹兵到来，奋"
+        },
+        {
+          "character": "鲁肃",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "勇杀出。不得有误。传令已毕。"
         },
         {
           "character": "周瑜",
@@ -1197,7 +1632,14 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "此一番诈降计安排定，\n今夜晚取南郡定杀曹仁。"
+          "text": "此一番诈降计安排定，"
+        },
+        {
+          "character": "周瑜",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "今夜晚取南郡定杀曹仁。"
         },
         {
           "character": null,
@@ -1250,7 +1692,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.034,
+        0.2545,
+        0.7091,
+        0.0364,
+        0.5185,
+        5,
+        0.2364,
+        0.0
+      ]
     },
     {
       "scene_index": 7,
@@ -1282,7 +1734,14 @@
           "line_type": "西皮快板",
           "musical_style": "西皮快板",
           "style_family": "西皮",
-          "text": "不分昼夜起战征。\n且听探马报军情。"
+          "text": "不分昼夜起战征。"
+        },
+        {
+          "character": "曹仁",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "且听探马报军情。"
         },
         {
           "character": null,
@@ -1345,7 +1804,21 @@
           "line_type": "同白",
           "musical_style": null,
           "style_family": null,
-          "text": "启元帅：我家都督今日在阵前被元帅辱骂一番，回得营去，怒发冲冠，箭疮崩\n裂，吐血身死。营中将士，挂孝举哀，纷纷无主。我等观其形状，大事难成，\n故而前来禀报。"
+          "text": "启元帅：我家都督今日在阵前被元帅辱骂一番，回得营去，怒发冲冠，箭疮崩"
+        },
+        {
+          "character": "二小校",
+          "line_type": "同白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "裂，吐血身死。营中将士，挂孝举哀，纷纷无主。我等观其形状，大事难成，"
+        },
+        {
+          "character": "二小校",
+          "line_type": "同白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "故而前来禀报。"
         },
         {
           "character": "曹仁",
@@ -1366,7 +1839,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "好。\n牛金将他等带在帐外，功成之后必有升赏。"
+          "text": "好。"
+        },
+        {
+          "character": "曹仁",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "牛金将他等带在帐外，功成之后必有升赏。"
         },
         {
           "character": "二小校",
@@ -1436,7 +1916,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "今有东吴小校前来投降，言道周郎在阵前被我辱骂，怒气回营，箭疮崩裂而亡。\n某意欲趁此机会今晚带兵劫杀吴营，得了周郎首级，去到丞相台前请功。不\n知参谋意下如何？"
+          "text": "今有东吴小校前来投降，言道周郎在阵前被我辱骂，怒气回营，箭疮崩裂而亡。"
+        },
+        {
+          "character": "曹仁",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "某意欲趁此机会今晚带兵劫杀吴营，得了周郎首级，去到丞相台前请功。不"
+        },
+        {
+          "character": "曹仁",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "知参谋意下如何？"
         },
         {
           "character": "陈矫",
@@ -1534,7 +2028,17 @@
           "西皮快板",
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.048,
+        0.1,
+        0.8333,
+        0.0667,
+        0.6897,
+        5,
+        0.1,
+        0.0
+      ]
     },
     {
       "scene_index": 8,
@@ -1610,7 +2114,14 @@
           "line_type": "同白",
           "musical_style": null,
           "style_family": null,
-          "text": "曹仁哪里走！\n（陈武、丁奉、甘宁、蒋钦、曹仁、牛金、四曹将同起打。曹仁、四龙套、四大铠、四上手、四曹将、牛金"
+          "text": "曹仁哪里走！"
+        },
+        {
+          "character": "陈武、丁奉、甘宁、蒋钦",
+          "line_type": "同白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "（陈武、丁奉、甘宁、蒋钦、曹仁、牛金、四曹将同起打。曹仁、四龙套、四大铠、四上手、四曹将、牛金"
         }
       ],
       "interactions": [
@@ -1640,7 +2151,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.6667,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 9,
@@ -1696,7 +2217,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "原来元帅得胜而回。黑夜之间望乞恕罪！\n来，开城。"
+          "text": "原来元帅得胜而回。黑夜之间望乞恕罪！"
+        },
+        {
+          "character": "陈矫",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来，开城。"
         },
         {
           "character": null,
@@ -1710,7 +2238,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "吓，看这人马，不像我国之兵。为何慌慌张张一拥而入？想是中了周郎之计。\n待我带了兵符印信，投奔樊城，再做道理！"
+          "text": "吓，看这人马，不像我国之兵。为何慌慌张张一拥而入？想是中了周郎之计。"
+        },
+        {
+          "character": "陈矫",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "待我带了兵符印信，投奔樊城，再做道理！"
         },
         {
           "character": null,
@@ -1724,7 +2259,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "你是何人？\n来，与我绑了！"
+          "text": "你是何人？"
+        },
+        {
+          "character": "赵云",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来，与我绑了！"
         },
         {
           "character": null,
@@ -1906,14 +2448,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "此地岂是争功之所？翼德听令：命你带领三千人马，去至樊城；如遇夏侯惇，\n不可莽撞。附耳上来……"
+          "text": "此地岂是争功之所？翼德听令：命你带领三千人马，去至樊城；如遇夏侯惇，"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "不可莽撞。附耳上来……"
         },
         {
           "character": "张飞",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "咋咋、咋咋、咋。\n来，带马！"
+          "text": "咋咋、咋咋、咋。"
+        },
+        {
+          "character": "张飞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来，带马！"
         },
         {
           "character": null,
@@ -1948,14 +2504,35 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "子龙听令：就命你镇守南郡，须要小心。山人保定主公樊城去也。\n来，带马。"
+          "text": "子龙听令：就命你镇守南郡，须要小心。山人保定主公樊城去也。"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来，带马。"
         },
         {
           "character": "刘备",
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "军师八卦算得准，\n果然得了南郡城。\n大事全凭卧龙先生。"
+          "text": "军师八卦算得准，"
+        },
+        {
+          "character": "刘备",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "果然得了南郡城。"
+        },
+        {
+          "character": "刘备",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "大事全凭卧龙先生。"
         },
         {
           "character": null,
@@ -2044,7 +2621,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.031,
+        0.075,
+        0.925,
+        0.0,
+        0.7692,
+        8,
+        0.075,
+        0.0
+      ]
     },
     {
       "scene_index": 10,
@@ -2227,7 +2814,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        5,
+        0.0,
+        0.0
+      ]
     }
   ]
 }

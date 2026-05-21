@@ -112,7 +112,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "我，赵大的便是，在这定远县东大洼居住。不幸父母双亡，是我夫妻二人，烧\n窑度日。这些日子，买卖不好，不免将老婆唤出，做些个盆子罐子，烧烧，好\n到集镇上去卖。\n老婆哪里？"
+          "text": "我，赵大的便是，在这定远县东大洼居住。不幸父母双亡，是我夫妻二人，烧"
+        },
+        {
+          "character": "赵大",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "窑度日。这些日子，买卖不好，不免将老婆唤出，做些个盆子罐子，烧烧，好"
+        },
+        {
+          "character": "赵大",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "到集镇上去卖。"
+        },
+        {
+          "character": "赵大",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "老婆哪里？"
         },
         {
           "character": null,
@@ -140,7 +161,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "我说这些日子，无有什么生意，叫你出来，咱们做点活儿，我好到集镇上去，\n卖钱使用。"
+          "text": "我说这些日子，无有什么生意，叫你出来，咱们做点活儿，我好到集镇上去，"
+        },
+        {
+          "character": "赵大",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "卖钱使用。"
         },
         {
           "character": "赵妻",
@@ -154,7 +182,14 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "夫妻二人把后窑进，\n取点柴火烧瓦盆。"
+          "text": "夫妻二人把后窑进，"
+        },
+        {
+          "character": "赵大",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "取点柴火烧瓦盆。"
         },
         {
           "character": null,
@@ -186,7 +221,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.2,
+        0.1667,
+        0.6667,
+        0.1667,
+        0.3636,
+        2,
+        0.1667,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -207,28 +252,70 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "一日离家一日深，\n好似孤雁宿寒林。"
-        },
-        {
-          "character": "刘世昌",
-          "line_type": "白",
-          "musical_style": null,
-          "style_family": null,
-          "text": "卑人，刘世昌，乃四川华阳人氏。前奉母命，进京贩卖绸缎，是我主仆二人，\n讨清帐目，转回家园。刘升，带路。"
-        },
-        {
-          "character": "刘世昌",
-          "line_type": "西皮原板",
-          "musical_style": "西皮原板",
-          "style_family": "西皮",
-          "text": "自从那年离乡井，\n思会双亲常挂在心。\n讨清帐目转回家门。\n晓行夜宿马不留停。"
+          "text": "一日离家一日深，"
         },
         {
           "character": "刘世昌",
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "倾盆大雨洒淋淋。\n寻找旅店把身存。"
+          "text": "好似孤雁宿寒林。"
+        },
+        {
+          "character": "刘世昌",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "卑人，刘世昌，乃四川华阳人氏。前奉母命，进京贩卖绸缎，是我主仆二人，"
+        },
+        {
+          "character": "刘世昌",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "讨清帐目，转回家园。刘升，带路。"
+        },
+        {
+          "character": "刘世昌",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "自从那年离乡井，"
+        },
+        {
+          "character": "刘世昌",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "思会双亲常挂在心。"
+        },
+        {
+          "character": "刘世昌",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "讨清帐目转回家门。"
+        },
+        {
+          "character": "刘世昌",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "晓行夜宿马不留停。"
+        },
+        {
+          "character": "刘世昌",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "倾盆大雨洒淋淋。"
+        },
+        {
+          "character": "刘世昌",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "寻找旅店把身存。"
         },
         {
           "character": null,
@@ -250,7 +337,17 @@
           "西皮原板",
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        1.0,
+        0.8,
+        0.2,
+        0.0,
+        0.0,
+        1,
+        0.8,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -273,7 +370,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 4,
@@ -299,7 +406,14 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "急急忙忙往前奔，\n不觉来到一窑门。"
+          "text": "急急忙忙往前奔，"
+        },
+        {
+          "character": "刘世昌",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "不觉来到一窑门。"
         },
         {
           "character": "刘世昌",
@@ -313,7 +427,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "这我会。\n我说有人么，走出一个来！"
+          "text": "这我会。"
+        },
+        {
+          "character": "刘升",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我说有人么，走出一个来！"
         },
         {
           "character": null,
@@ -474,7 +595,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "得啦，得啦，哪用过？咱们都不是外人，我也没有什么好吃的，也不过粗菜粗\n饭而已，等我与你烫酒去。"
+          "text": "得啦，得啦，哪用过？咱们都不是外人，我也没有什么好吃的，也不过粗菜粗"
+        },
+        {
+          "character": "赵大",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "饭而已，等我与你烫酒去。"
         },
         {
           "character": "刘世昌",
@@ -488,7 +616,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "慢着，我看这位客人，他行李里头，沉甸甸的，八成银子不少。我想我烧窑一\n辈子，也发不了财，不免将他害死，这银子都是我的啦。就是这个主意，老婆\n这来。"
+          "text": "慢着，我看这位客人，他行李里头，沉甸甸的，八成银子不少。我想我烧窑一"
+        },
+        {
+          "character": "赵大",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "辈子，也发不了财，不免将他害死，这银子都是我的啦。就是这个主意，老婆"
+        },
+        {
+          "character": "赵大",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "这来。"
         },
         {
           "character": null,
@@ -523,7 +665,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "刚才来了二位客人，是一主一仆，乃是卖绸缎的大客商，他行李里头，全是银\n子，我想把他害了，这银子都是咱们的啦！"
+          "text": "刚才来了二位客人，是一主一仆，乃是卖绸缎的大客商，他行李里头，全是银"
+        },
+        {
+          "character": "赵大",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "子，我想把他害了，这银子都是咱们的啦！"
         },
         {
           "character": "赵妻",
@@ -551,7 +700,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "他们没有吃饭呐，你与他安排点酒饭，我把酒里头，与他下上点耗子药，他们\n吃了，不到一个时辰，管保他就跷缏子。"
+          "text": "他们没有吃饭呐，你与他安排点酒饭，我把酒里头，与他下上点耗子药，他们"
+        },
+        {
+          "character": "赵大",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "吃了，不到一个时辰，管保他就跷缏子。"
         },
         {
           "character": "赵妻",
@@ -586,10 +742,45 @@
           "line_type": "西皮原板",
           "musical_style": "西皮原板",
           "style_family": "西皮",
-          "text": "好一个赵大哥多慷慨，\n一霎时酒饭摆上来。\n借宿一霄理不该。\n昏昏沉沉倒卧在土台。"
+          "text": "好一个赵大哥多慷慨，"
         },
         {
-          "character": "初次相逢承恩爱、明日里定要多谢拜、赵大",
+          "character": "刘世昌",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "一霎时酒饭摆上来。"
+        },
+        {
+          "character": "刘世昌",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "借宿一霄理不该。"
+        },
+        {
+          "character": "刘世昌",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "昏昏沉沉倒卧在土台。"
+        },
+        {
+          "character": "刘世昌",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "初次相逢承恩爱"
+        },
+        {
+          "character": "刘世昌",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "明日里定要多谢拜"
+        },
+        {
+          "character": "赵大",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -614,7 +805,35 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "一霎时心中似火烧。\n中了赵大计笼牢。\n奴才一命赴阴曹。\n爹娘吓！\n一命定然赴阴曹！"
+          "text": "一霎时心中似火烧。"
+        },
+        {
+          "character": "刘世昌",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "中了赵大计笼牢。"
+        },
+        {
+          "character": "刘世昌",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "奴才一命赴阴曹。"
+        },
+        {
+          "character": "刘世昌",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "爹娘吓！"
+        },
+        {
+          "character": "刘世昌",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "一命定然赴阴曹！"
         },
         {
           "character": null,
@@ -635,7 +854,21 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "我心中好似刀来穿。\n中了他娘的巧机关！\n我的妈妈呀！"
+          "text": "我心中好似刀来穿。"
+        },
+        {
+          "character": "刘升",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "中了他娘的巧机关！"
+        },
+        {
+          "character": "刘升",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "我的妈妈呀！"
         },
         {
           "character": null,
@@ -649,7 +882,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "天亮了，咱们去看看。没有什么动静，光景是死啦。待我开开门，\n喝，两人死了一对。"
+          "text": "天亮了，咱们去看看。没有什么动静，光景是死啦。待我开开门，"
+        },
+        {
+          "character": "赵大",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "喝，两人死了一对。"
         },
         {
           "character": "赵妻",
@@ -663,7 +903,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "不好，不好，倘若被人看见，那不是白做了活儿啦吗？有啦，有啦，咱们把他\n二人尸首，剁成肉酱，和在泥里，烧成了盆子，就是神仙也不能找寻着！"
+          "text": "不好，不好，倘若被人看见，那不是白做了活儿啦吗？有啦，有啦，咱们把他"
+        },
+        {
+          "character": "赵大",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "二人尸首，剁成肉酱，和在泥里，烧成了盆子，就是神仙也不能找寻着！"
         },
         {
           "character": "赵妻",
@@ -769,7 +1016,17 @@
           "西皮导板",
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.062,
+        0.2466,
+        0.7397,
+        0.0137,
+        0.6389,
+        4,
+        0.2466,
+        0.0
+      ]
     },
     {
       "scene_index": 5,
@@ -802,7 +1059,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.5,
+        0.5,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     }
   ]
 }

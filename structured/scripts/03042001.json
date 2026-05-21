@@ -324,7 +324,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.3077,
+        0.6923,
+        0.0,
+        1.0,
+        6,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -383,14 +393,14 @@
           "text": "旗开胜，谗臣扫荡。"
         },
         {
-          "character": null,
+          "character": "伍员",
           "line_type": "念",
           "musical_style": null,
           "style_family": null,
           "text": "昔年斗宝在临潼，四海俱尊盟辅公。弃走樊城吴国奔，转瞬不觉白头翁。"
         },
         {
-          "character": null,
+          "character": "伍员",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -478,7 +488,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "众位将军，俺伍员今借大兵，非夺楚之社稷，实报满门冤仇。此番兵发楚国，\n休要搅扰黎民，必须人人奋勇，个个争先，听我令下。"
+          "text": "众位将军，俺伍员今借大兵，非夺楚之社稷，实报满门冤仇。此番兵发楚国，"
+        },
+        {
+          "character": "伍员",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "休要搅扰黎民，必须人人奋勇，个个争先，听我令下。"
         },
         {
           "character": "刘展雄、焦休欣、姜立、石豹",
@@ -492,7 +509,42 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "臣尽忠子尽孝皆是恩养，\n昔孟母曾三迁教子名扬。\n也不是周朝的伐纣武王。\n费无极使毒计胜似虎狼。\n众将官要协力奋勇争强。\n摆香案祭山川祈祷神将——"
+          "text": "臣尽忠子尽孝皆是恩养，"
+        },
+        {
+          "character": "伍员",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "昔孟母曾三迁教子名扬。"
+        },
+        {
+          "character": "伍员",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "也不是周朝的伐纣武王。"
+        },
+        {
+          "character": "伍员",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "费无极使毒计胜似虎狼。"
+        },
+        {
+          "character": "伍员",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "众将官要协力奋勇争强。"
+        },
+        {
+          "character": "伍员",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "摆香案祭山川祈祷神将——"
         },
         {
           "character": null,
@@ -506,7 +558,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "祝告山川社稷，旗纛尊神：本帅伍子胥，今借吴兵伐楚，但愿此去旗开得胜，\n马到成功！"
+          "text": "祝告山川社稷，旗纛尊神：本帅伍子胥，今借吴兵伐楚，但愿此去旗开得胜，"
+        },
+        {
+          "character": "伍员",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "马到成功！"
         },
         {
           "character": "伍员",
@@ -591,7 +650,17 @@
         "singing_ratio": 0.077,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.077,
+        0.3182,
+        0.6818,
+        0.0,
+        0.5238,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -629,7 +698,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "某，卞庄。楚国为臣。奉命镇守昭关。每逢三、六、九日，操兵演将，以防变\n乱。\n众将官！"
+          "text": "某，卞庄。楚国为臣。奉命镇守昭关。每逢三、六、九日，操兵演将，以防变"
+        },
+        {
+          "character": "卞庄",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "乱。"
+        },
+        {
+          "character": "卞庄",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "众将官！"
         },
         {
           "character": "四蓝龙套、四校刀手",
@@ -713,7 +796,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "胆大伍员，竟敢前来送死！\n众将免操，候某披挂，同去捉拿子胥。掩门！"
+          "text": "胆大伍员，竟敢前来送死！"
+        },
+        {
+          "character": "卞庄",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "众将免操，候某披挂，同去捉拿子胥。掩门！"
         },
         {
           "character": "四蓝龙套、四校刀手",
@@ -762,7 +852,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0588,
+        0.8824,
+        0.0588,
+        0.625,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 4,
@@ -822,7 +922,35 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "记得当年弃楚樊，\n投吴阻隔在昭关。\n七日七夜两鬓斑。\n他充伍员我过关。\n未进楚国泪不干。"
+          "text": "记得当年弃楚樊，"
+        },
+        {
+          "character": "伍员",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "投吴阻隔在昭关。"
+        },
+        {
+          "character": "伍员",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "七日七夜两鬓斑。"
+        },
+        {
+          "character": "伍员",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "他充伍员我过关。"
+        },
+        {
+          "character": "伍员",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "未进楚国泪不干。"
         },
         {
           "character": "伍员",
@@ -836,10 +964,80 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "报仇雪恨方心安。\n平阳扎营造战饭！"
+          "text": "报仇雪恨方心安。"
         },
         {
-          "character": "东皋公仁慈救某难、皇甫先生巧装扮、落难英雄今复返、一家冤魂谅不散、刘展雄、焦休欣、姜立、石豹、四白龙套、四上手",
+          "character": "伍员",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "平阳扎营造战饭！"
+        },
+        {
+          "character": "伍员",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "东皋公仁慈救某难"
+        },
+        {
+          "character": "伍员",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "皇甫先生巧装扮"
+        },
+        {
+          "character": "伍员",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "落难英雄今复返"
+        },
+        {
+          "character": "伍员",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "一家冤魂谅不散"
+        },
+        {
+          "character": "伍员",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "刘展雄"
+        },
+        {
+          "character": "伍员",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "焦休欣"
+        },
+        {
+          "character": "伍员",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "姜立"
+        },
+        {
+          "character": "伍员",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "石豹"
+        },
+        {
+          "character": "伍员",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "四白龙套"
+        },
+        {
+          "character": "四上手",
           "line_type": "同白",
           "musical_style": null,
           "style_family": null,
@@ -871,7 +1069,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "为兄昔年弃楚离樊，前往吴国借兵，行至此地，昭关阻拦。多感东皋公、皇甫\n纳设计救我出关。兵临楚境，当去酬谢。"
+          "text": "为兄昔年弃楚离樊，前往吴国借兵，行至此地，昭关阻拦。多感东皋公、皇甫"
+        },
+        {
+          "character": "伍员",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "纳设计救我出关。兵临楚境，当去酬谢。"
         },
         {
           "character": "刘展雄",
@@ -927,7 +1132,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "我想此关，前者乃是米男窪镇守。如今不知守将何人，知我行军疲倦，为此趁\n时杀来。\n众将官！"
+          "text": "我想此关，前者乃是米男窪镇守。如今不知守将何人，知我行军疲倦，为此趁"
+        },
+        {
+          "character": "伍员",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "时杀来。"
+        },
+        {
+          "character": "伍员",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "众将官！"
         },
         {
           "character": "刘展雄、焦休欣、姜立、石豹、四白龙套、四上手",
@@ -948,7 +1167,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "且慢！三哥今伐楚邦，未见一阵，元帅就要出马，岂不失了我军锐气？让俺刘\n展雄抢个头功，亦好长驱进发。"
+          "text": "且慢！三哥今伐楚邦，未见一阵，元帅就要出马，岂不失了我军锐气？让俺刘"
+        },
+        {
+          "character": "刘展雄",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "展雄抢个头功，亦好长驱进发。"
         },
         {
           "character": "伍员",
@@ -1064,7 +1290,17 @@
         "singing_ratio": 0.077,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.077,
+        0.4,
+        0.6,
+        0.0,
+        0.4773,
+        7,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 5,
@@ -1135,7 +1371,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 6,
@@ -1220,7 +1466,21 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "论奇才武封侯文当拜相，\n忠于国孝于亲男儿自强。\n也只好入深山捉虎擒狼。"
+          "text": "论奇才武封侯文当拜相，"
+        },
+        {
+          "character": "伍辛",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "忠于国孝于亲男儿自强。"
+        },
+        {
+          "character": "伍辛",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "也只好入深山捉虎擒狼。"
         },
         {
           "character": null,
@@ -1249,7 +1509,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.4,
+        0.4,
+        0.2,
+        0.4444,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 7,
@@ -1286,7 +1556,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "老夫，费无极。官居上大夫。平王晏驾，太子赵王接位。自从害死伍氏全家，\n楚国大事，归我执掌。正是："
+          "text": "老夫，费无极。官居上大夫。平王晏驾，太子赵王接位。自从害死伍氏全家，"
+        },
+        {
+          "character": "费无极",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "楚国大事，归我执掌。正是："
         },
         {
           "character": "费无极",
@@ -1314,7 +1591,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "启相爷：伍子胥借来吴国兵将，要报父母冤仇。昭关已破，卞庄阵亡。特禀丞\n相知道。"
+          "text": "启相爷：伍子胥借来吴国兵将，要报父母冤仇。昭关已破，卞庄阵亡。特禀丞"
+        },
+        {
+          "character": "探子",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "相知道。"
         },
         {
           "character": "费无极",
@@ -1342,7 +1626,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "哎呀且住！想那伍员全家被老夫所害。此番借兵前来，岂能与我干休？闻得飞\n天山有一飞北达，他子飞天豹，英勇无敌。待我奏知幼主，备定礼物，聘请他\n父子挡住子胥兵马不进楚邦，叫他空来一场。\n来！"
+          "text": "哎呀且住！想那伍员全家被老夫所害。此番借兵前来，岂能与我干休？闻得飞"
+        },
+        {
+          "character": "费无极",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "天山有一飞北达，他子飞天豹，英勇无敌。待我奏知幼主，备定礼物，聘请他"
+        },
+        {
+          "character": "费无极",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "父子挡住子胥兵马不进楚邦，叫他空来一场。"
+        },
+        {
+          "character": "费无极",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来！"
         },
         {
           "character": "四青袍",
@@ -1401,7 +1706,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0588,
+        0.7647,
+        0.1765,
+        0.4375,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 8,
@@ -1425,10 +1740,31 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "严父威名霸山岗，\n聚义胜似称帝王。\n行围射猎捉虎狼。"
+          "text": "严父威名霸山岗，"
         },
         {
-          "character": "随带喽兵麾下将、四喽兵",
+          "character": "伍辛",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "聚义胜似称帝王。"
+        },
+        {
+          "character": "伍辛",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "行围射猎捉虎狼。"
+        },
+        {
+          "character": "伍辛",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "随带喽兵麾下将"
+        },
+        {
+          "character": "四喽兵",
           "line_type": "同白",
           "musical_style": null,
           "style_family": null,
@@ -1460,7 +1796,21 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "行围射猎把心散，\n无边风景在深山。\n不及渔樵心内安。"
+          "text": "行围射猎把心散，"
+        },
+        {
+          "character": "伍辛",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "无边风景在深山。"
+        },
+        {
+          "character": "伍辛",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "不及渔樵心内安。"
         },
         {
           "character": null,
@@ -1488,7 +1838,21 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "松林走兽真大胆，\n敢到围场把食餐。\n孤雁无巢落沙滩。"
+          "text": "松林走兽真大胆，"
+        },
+        {
+          "character": "伍辛",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "敢到围场把食餐。"
+        },
+        {
+          "character": "伍辛",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "孤雁无巢落沙滩。"
         },
         {
           "character": "伍辛",
@@ -1502,7 +1866,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "哪吒降龙到海岸，\n俺今伏虎入山峦。"
+          "text": "哪吒降龙到海岸，"
+        },
+        {
+          "character": "伍辛",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "俺今伏虎入山峦。"
         },
         {
           "character": null,
@@ -1516,7 +1887,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "你出深山该遭难，\n俺惯在龙头把角扳。"
+          "text": "你出深山该遭难，"
+        },
+        {
+          "character": "伍辛",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "俺惯在龙头把角扳。"
         },
         {
           "character": null,
@@ -1596,7 +1974,17 @@
         "singing_ratio": 0.25,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.25,
+        0.5769,
+        0.4231,
+        0.0,
+        0.36,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 9,
@@ -1634,7 +2022,35 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "老夫，姓伍名通字子达，乃伍奢之义子。大哥伍尚，三弟伍员。只为平王父纳\n子妻，义父谏奏，费无极进谗，害我全家。弟媳贾氏尽节。三弟将子寄托齐邦\n鲍目哺养，他弃了樊城。是我将侄儿伍辛抱回。伯侄避难，来到天目山。喜有\n喽兵立我为主，改名飞北达。侄儿改名天豹，今年一十八岁。我已传他武艺，\n且候机会，再将冤仇说明。正是："
+          "text": "老夫，姓伍名通字子达，乃伍奢之义子。大哥伍尚，三弟伍员。只为平王父纳"
+        },
+        {
+          "character": "伍通",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "子妻，义父谏奏，费无极进谗，害我全家。弟媳贾氏尽节。三弟将子寄托齐邦"
+        },
+        {
+          "character": "伍通",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "鲍目哺养，他弃了樊城。是我将侄儿伍辛抱回。伯侄避难，来到天目山。喜有"
+        },
+        {
+          "character": "伍通",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "喽兵立我为主，改名飞北达。侄儿改名天豹，今年一十八岁。我已传他武艺，"
+        },
+        {
+          "character": "伍通",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "且候机会，再将冤仇说明。正是："
         },
         {
           "character": "伍通",
@@ -1718,7 +2134,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "适才孩儿回山，路上有人言道：伍盟辅借了吴国兵马，要来灭楚，不久要打从\n山下经过。"
+          "text": "适才孩儿回山，路上有人言道：伍盟辅借了吴国兵马，要来灭楚，不久要打从"
+        },
+        {
+          "character": "伍辛",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "山下经过。"
         },
         {
           "character": "伍通",
@@ -1746,10 +2169,31 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "闻听三弟兵马到，\n假意吃惊暗泪抛。\n无极奸贼命难逃。"
+          "text": "闻听三弟兵马到，"
         },
         {
-          "character": "恨煞平王去世早、伍辛",
+          "character": "伍通",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "假意吃惊暗泪抛。"
+        },
+        {
+          "character": "伍通",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "无极奸贼命难逃。"
+        },
+        {
+          "character": "伍通",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "恨煞平王去世早"
+        },
+        {
+          "character": "伍辛",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -1781,10 +2225,31 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "临潼会上曾斗宝，\n势压各国众英豪。\n枪尖一举人难逃。"
+          "text": "临潼会上曾斗宝，"
         },
         {
-          "character": "斩将擒王如削草、伍辛",
+          "character": "伍通",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "势压各国众英豪。"
+        },
+        {
+          "character": "伍通",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "枪尖一举人难逃。"
+        },
+        {
+          "character": "伍通",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "斩将擒王如削草"
+        },
+        {
+          "character": "伍辛",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -1837,7 +2302,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "正是此人，他在红雀山前打劫珠宝，刀劈苟于，鞭打姜驿，生擒石傅，人人害\n怕，个个担惊。"
+          "text": "正是此人，他在红雀山前打劫珠宝，刀劈苟于，鞭打姜驿，生擒石傅，人人害"
+        },
+        {
+          "character": "伍通",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "怕，个个担惊。"
         },
         {
           "character": "伍辛",
@@ -1851,7 +2323,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "鲁国有一秋胡，乃舌辩之士，指望顺说展雄归降。被他大喊一声，吓得秋胡滚\n落马鞍，倒卧疆场。"
+          "text": "鲁国有一秋胡，乃舌辩之士，指望顺说展雄归降。被他大喊一声，吓得秋胡滚"
+        },
+        {
+          "character": "伍通",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "落马鞍，倒卧疆场。"
         },
         {
           "character": "伍辛",
@@ -1879,7 +2358,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "二人对阵，子胥爱展雄乃是好汉，当面不好使他出丑，只杀得金乌西坠，玉兔\n东升。子胥将他引至红雀山后，一鞭将展雄打下马来！"
+          "text": "二人对阵，子胥爱展雄乃是好汉，当面不好使他出丑，只杀得金乌西坠，玉兔"
+        },
+        {
+          "character": "伍通",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "东升。子胥将他引至红雀山后，一鞭将展雄打下马来！"
         },
         {
           "character": "伍辛",
@@ -1900,7 +2386,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "强中自有强中手，\n武艺高出他一头。"
+          "text": "强中自有强中手，"
+        },
+        {
+          "character": "伍通",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "武艺高出他一头。"
         },
         {
           "character": "伍辛",
@@ -1928,7 +2421,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "他言道：秦穆公要灭各路诸侯，计设临潼会，殿前立一铜鼎，有能举起者，称\n为盟辅，佩剑挂印。"
+          "text": "他言道：秦穆公要灭各路诸侯，计设临潼会，殿前立一铜鼎，有能举起者，称"
+        },
+        {
+          "character": "伍通",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "为盟辅，佩剑挂印。"
         },
         {
           "character": "伍辛",
@@ -1942,7 +2442,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "天下英雄，谁不想佩剑挂印？齐到铜鼎面前。子胥一怒，拳打卞庄，脚踢朱龙，\n力举铜鼎，压倒诸侯，佩剑挂印，俱称他“盟辅将军”！"
+          "text": "天下英雄，谁不想佩剑挂印？齐到铜鼎面前。子胥一怒，拳打卞庄，脚踢朱龙，"
+        },
+        {
+          "character": "伍通",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "力举铜鼎，压倒诸侯，佩剑挂印，俱称他“盟辅将军”！"
         },
         {
           "character": "伍辛",
@@ -1956,7 +2463,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "因他在临潼会上为媒，秦、楚割了衣襟，楚国世子米建与秦国无祥公主两下结\n了婚姻。平王差一臣子往秦国迎亲。那臣子是个误国奸贼，他与米建世子不睦，\n将金顶轿改换银顶轿，无祥女改换马昭仪，那昏王父纳子妻，败坏人伦了。"
+          "text": "因他在临潼会上为媒，秦、楚割了衣襟，楚国世子米建与秦国无祥公主两下结"
+        },
+        {
+          "character": "伍通",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "了婚姻。平王差一臣子往秦国迎亲。那臣子是个误国奸贼，他与米建世子不睦，"
+        },
+        {
+          "character": "伍通",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "将金顶轿改换银顶轿，无祥女改换马昭仪，那昏王父纳子妻，败坏人伦了。"
         },
         {
           "character": "伍辛",
@@ -1970,7 +2491,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "子胥之父谏奏，满门斩首；又命大将武城黑去至樊城捉拿子胥。子胥有一义兄，\n拖了伍氏之子，逃往外乡，子胥之妻贾氏尽节一死了。"
+          "text": "子胥之父谏奏，满门斩首；又命大将武城黑去至樊城捉拿子胥。子胥有一义兄，"
+        },
+        {
+          "character": "伍通",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "拖了伍氏之子，逃往外乡，子胥之妻贾氏尽节一死了。"
         },
         {
           "character": "伍辛",
@@ -2083,7 +2611,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.1507,
+        0.8082,
+        0.0411,
+        0.5972,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 10,
@@ -2222,7 +2760,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 11,
@@ -2448,7 +2996,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.9,
+        0.1,
+        0.8947,
+        6,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 12,
@@ -2698,7 +3256,17 @@
         "singing_ratio": 0.091,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.091,
+        0.0833,
+        0.875,
+        0.0417,
+        0.8261,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 13,
@@ -3106,7 +3674,17 @@
         "singing_ratio": 0.135,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.135,
+        0.1951,
+        0.8049,
+        0.0,
+        0.825,
+        6,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 14,
@@ -3488,7 +4066,17 @@
         "singing_ratio": 0.16,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.16,
+        0.2941,
+        0.7059,
+        0.0,
+        0.697,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 15,
@@ -4013,7 +4601,17 @@
         "singing_ratio": 0.043,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.043,
+        0.1754,
+        0.7719,
+        0.0526,
+        0.7679,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 16,
@@ -4410,7 +5008,17 @@
         "musical_styles": [
           "西皮二六"
         ]
-      }
+      },
+      "scene_feature": [
+        0.393,
+        0.3871,
+        0.6129,
+        0.0,
+        0.7667,
+        7,
+        0.0323,
+        0.0
+      ]
     }
   ]
 }

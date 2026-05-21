@@ -225,7 +225,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "太宰征战北海，大获全胜，收了降将袁福通。今日大宰班师还朝，你我两厢伺\n候！"
+          "text": "太宰征战北海，大获全胜，收了降将袁福通。今日大宰班师还朝，你我两厢伺"
+        },
+        {
+          "character": "邓忠",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "候！"
         },
         {
           "character": "陶容、张节、辛环",
@@ -316,7 +323,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "老夫，太宰闻！老夫奉天子命诏，带领人马，征战北海一十五载。昨日一战，\n生擒袁福通，好言相劝，情愿归降，愿献上降书顺表年年进贡，岁岁来朝。\n众将官！传降将袁福通进帐！"
+          "text": "老夫，太宰闻！老夫奉天子命诏，带领人马，征战北海一十五载。昨日一战，"
+        },
+        {
+          "character": "闻仲",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "生擒袁福通，好言相劝，情愿归降，愿献上降书顺表年年进贡，岁岁来朝。"
+        },
+        {
+          "character": "闻仲",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "众将官！传降将袁福通进帐！"
         },
         {
           "character": "中军",
@@ -407,7 +428,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "打罢得胜鼓，班师还朝！\n（起牌子。吉利、余庆同下，带麒瞵同上。闻仲下高台。邓忠、陶容、张节、辛环、吉利、余庆同下，闻仲"
+          "text": "打罢得胜鼓，班师还朝！"
+        },
+        {
+          "character": "闻仲",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "（起牌子。吉利、余庆同下，带麒瞵同上。闻仲下高台。邓忠、陶容、张节、辛环、吉利、余庆同下，闻仲"
         }
       ],
       "interactions": [
@@ -474,7 +502,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.9643,
+        0.0357,
+        0.7778,
+        10,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -514,7 +552,21 @@
           "line_type": "同白",
           "musical_style": null,
           "style_family": null,
-          "text": "闻太师来也！\n（闻仲、邓忠、陶容、张节、辛环、吉利、余庆、中军、八大铠、二旗牌、四小马夫、八飞虎旗同上，下场\n斜门。）"
+          "text": "闻太师来也！"
+        },
+        {
+          "character": "二报子",
+          "line_type": "同白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "（闻仲、邓忠、陶容、张节、辛环、吉利、余庆、中军、八大铠、二旗牌、四小马夫、八飞虎旗同上，下场"
+        },
+        {
+          "character": "二报子",
+          "line_type": "同白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "斜门。）"
         },
         {
           "character": "闻仲",
@@ -619,24 +671,80 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "唉呀且住！我想东伯侯姜恒楚乃是皇亲国戚，南伯侯鄂祟禹乃世代忠良，为何\n谋反？定是圣上有负诸侯也！若不安抚他们，必然引起天下大乱。老夫暂不还\n朝，将人马发至东南两处，以解此危！\n众将官！人马暂不还朝，前队改为后队；向东南进发！"
+          "text": "唉呀且住！我想东伯侯姜恒楚乃是皇亲国戚，南伯侯鄂祟禹乃世代忠良，为何"
+        },
+        {
+          "character": "闻仲",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "谋反？定是圣上有负诸侯也！若不安抚他们，必然引起天下大乱。老夫暂不还"
+        },
+        {
+          "character": "闻仲",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "朝，将人马发至东南两处，以解此危！"
+        },
+        {
+          "character": "闻仲",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "众将官！人马暂不还朝，前队改为后队；向东南进发！"
         },
         {
           "character": "闻仲",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "正欲班师转回朝，\n不想东南起风云。\n（八大铠、二旗牌、中军、四小马夫反领同下。邓忠、陶容、张节、辛环、吉利、余庆、闻仲同走反圆场，\n闻梦云上，见闻仲，大推磨。）"
+          "text": "正欲班师转回朝，"
         },
         {
-          "character": "拨转麒麟催前进、闻梦云",
+          "character": "闻仲",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "不想东南起风云。"
+        },
+        {
+          "character": "闻仲",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "（八大铠、二旗牌、中军、四小马夫反领同下。邓忠、陶容、张节、辛环、吉利、余庆、闻仲同走反圆场，"
+        },
+        {
+          "character": "闻仲",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "闻梦云上，见闻仲，大推磨。）"
+        },
+        {
+          "character": "闻仲",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "拨转麒麟催前进"
+        },
+        {
+          "character": "闻梦云",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
           "text": "爹爹慢走！"
         },
         {
-          "character": "拨转麒麟催前进、闻梦云",
+          "character": "闻梦云",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "拨转麒麟催前进"
+        },
+        {
+          "character": "闻梦云",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
@@ -664,7 +772,14 @@
           "text": "开言问声小梦云。"
         },
         {
-          "character": "不在朝歌伴王驾、闻梦云",
+          "character": "闻仲",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "不在朝歌伴王驾"
+        },
+        {
+          "character": "闻梦云",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
@@ -689,7 +804,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "爹爹有所不知，只因冀州侯苏护进来一女名唤妲己，自从她进得朝来与费仲尤\n浑狼狈为奸，造炮烙修鹿台，诸多罪孽俱在她一人身上所起！"
+          "text": "爹爹有所不知，只因冀州侯苏护进来一女名唤妲己，自从她进得朝来与费仲尤"
+        },
+        {
+          "character": "闻梦云",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "浑狼狈为奸，造炮烙修鹿台，诸多罪孽俱在她一人身上所起！"
         },
         {
           "character": "闻仲",
@@ -727,7 +849,14 @@
           "text": "文武保本君不听。"
         },
         {
-          "character": "最可叹姜国母挖目烙手身已死、闻仲",
+          "character": "闻梦云",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "最可叹姜国母挖目烙手身已死"
+        },
+        {
+          "character": "闻仲",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -738,7 +867,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "只因妲己要夺正宫国母之位，与费仲、尤浑定下一计，命刺客埋伏粉宫楼前，\n刺王杀驾，被殿前武土拿获。刺客言道，他与后宫姜国母乃是内亲，奉了姜国\n母之命刺王杀驾。怒恼圣上，将姜国母挖目烙手而死。"
+          "text": "只因妲己要夺正宫国母之位，与费仲、尤浑定下一计，命刺客埋伏粉宫楼前，"
+        },
+        {
+          "character": "闻梦云",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "刺王杀驾，被殿前武土拿获。刺客言道，他与后宫姜国母乃是内亲，奉了姜国"
+        },
+        {
+          "character": "闻梦云",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "母之命刺王杀驾。怒恼圣上，将姜国母挖目烙手而死。"
         },
         {
           "character": "闻仲",
@@ -787,10 +930,31 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "方弼、方相反五门。\n梅伯炮烙丧残生。"
+          "text": "方弼、方相反五门。"
         },
         {
-          "character": "殷郊殷洪无踪影、最可叹比干丞相剖心死、闻仲",
+          "character": "闻梦云",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "梅伯炮烙丧残生。"
+        },
+        {
+          "character": "闻梦云",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "殷郊殷洪无踪影"
+        },
+        {
+          "character": "闻梦云",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "最可叹比干丞相剖心死"
+        },
+        {
+          "character": "闻仲",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -815,7 +979,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "七孔玲珑心。那胡喜媚言道满朝文武俱是心血，唯有比干丞相是七孔玲珑心，\n圣上将比干丞相唤上鹿台，与他借心一片，那比干丞相就剖心一死！"
+          "text": "七孔玲珑心。那胡喜媚言道满朝文武俱是心血，唯有比干丞相是七孔玲珑心，"
+        },
+        {
+          "character": "闻梦云",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "圣上将比干丞相唤上鹿台，与他借心一片，那比干丞相就剖心一死！"
         },
         {
           "character": "闻仲",
@@ -864,42 +1035,140 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "商容碰死在龙廷。\n搬请爹爹回朝门。"
+          "text": "商容碰死在龙廷。"
         },
         {
-          "character": "成王与朝臣把计定、闻仲",
+          "character": "闻梦云",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "搬请爹爹回朝门。"
+        },
+        {
+          "character": "闻梦云",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "成王与朝臣把计定"
+        },
+        {
+          "character": "闻仲",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
           "text": "反了啊反了！"
         },
         {
-          "character": "成王与朝臣把计定、闻仲",
-          "line_type": "唱",
+          "character": "闻仲",
+          "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "闻言犹如雷轰头顶，\n冷水浇头怀抱冰。\n有谁知出妲己扰乱朝廷。\n最可叹商容、梅伯、姜后、比干，一个一个一个一个丧残生！\n锦绣江山化灰尘，泪双淋，痛煞人！"
-        },
-        {
-          "character": "实指望征北海商汤安定、造炮烙，修虿盆、只剩下老闻仲白发苍苍发如银、闻梦云",
-          "line_type": "唱",
-          "musical_style": null,
-          "style_family": null,
-          "text": "爹爹痛哭有何用，\n不如班师回朝门。"
+          "text": "成王与朝臣把计定"
         },
         {
           "character": "闻仲",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "娇儿一言来提醒，\n险些误了大事情！"
+          "text": "闻言犹如雷轰头顶，"
+        },
+        {
+          "character": "闻仲",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "冷水浇头怀抱冰。"
+        },
+        {
+          "character": "闻仲",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "有谁知出妲己扰乱朝廷。"
+        },
+        {
+          "character": "闻仲",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "最可叹商容、梅伯、姜后、比干，一个一个一个一个丧残生！"
+        },
+        {
+          "character": "闻仲",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "锦绣江山化灰尘，泪双淋，痛煞人！"
+        },
+        {
+          "character": "闻仲",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "实指望征北海商汤安定"
+        },
+        {
+          "character": "闻仲",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "造炮烙，修虿盆"
+        },
+        {
+          "character": "闻仲",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "只剩下老闻仲白发苍苍发如银"
+        },
+        {
+          "character": "闻梦云",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "爹爹痛哭有何用，"
+        },
+        {
+          "character": "闻梦云",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "不如班师回朝门。"
+        },
+        {
+          "character": "闻仲",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "娇儿一言来提醒，"
+        },
+        {
+          "character": "闻仲",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "险些误了大事情！"
         },
         {
           "character": "闻仲",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "且住！朝纲大乱，妲己与费仲、尤浑狼狈为奸，若不还朝重整朝纲，势必引起\n天下大乱。\n邓忠、陶容，听令！"
+          "text": "且住！朝纲大乱，妲己与费仲、尤浑狼狈为奸，若不还朝重整朝纲，势必引起"
+        },
+        {
+          "character": "闻仲",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "天下大乱。"
+        },
+        {
+          "character": "闻仲",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "邓忠、陶容，听令！"
         },
         {
           "character": "邓忠、陶容",
@@ -955,7 +1224,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "众将官！大队人马班师回朝！\n（八大铠、二旗牌、中军、四小马夫、邓忠、陶容、张节、辛环、同过场，同下。闻梦云随下。吉利、余庆、"
+          "text": "众将官！大队人马班师回朝！"
+        },
+        {
+          "character": "闻仲",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "（八大铠、二旗牌、中军、四小马夫、邓忠、陶容、张节、辛环、同过场，同下。闻梦云随下。吉利、余庆、"
         }
       ],
       "interactions": [
@@ -1022,7 +1298,17 @@
         "singing_ratio": 0.125,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.125,
+        0.3523,
+        0.6477,
+        0.0,
+        0.5057,
+        8,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -1202,7 +1488,28 @@
           "line_type": "同白",
           "musical_style": null,
           "style_family": null,
-          "text": "太宰请！\n（闻仲看，闻梦云、邓忠、陶容、张节、辛环、吉利、余庆、中军、八大铠、二旗牌、四小马夫、八飞虎旗\n同下，闻仲、四文官、四武官、费仲、尤恽同进城下。开二幕。纣王上，归坐，闻仲、四文官、四武官、费\n仲、尤恽同挖门进。）"
+          "text": "太宰请！"
+        },
+        {
+          "character": "费仲、尤浑",
+          "line_type": "同白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "（闻仲看，闻梦云、邓忠、陶容、张节、辛环、吉利、余庆、中军、八大铠、二旗牌、四小马夫、八飞虎旗"
+        },
+        {
+          "character": "费仲、尤浑",
+          "line_type": "同白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "同下，闻仲、四文官、四武官、费仲、尤恽同进城下。开二幕。纣王上，归坐，闻仲、四文官、四武官、费"
+        },
+        {
+          "character": "费仲、尤浑",
+          "line_type": "同白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "仲、尤恽同挖门进。）"
         },
         {
           "character": "闻仲",
@@ -1237,14 +1544,35 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "老太宰征战北海一十五载，怎样战胜七十二路诸侯，得胜还朝，奏于孤王龙耳\n细听。"
+          "text": "老太宰征战北海一十五载，怎样战胜七十二路诸侯，得胜还朝，奏于孤王龙耳"
+        },
+        {
+          "character": "纣王",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "细听。"
         },
         {
           "character": "闻仲",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "老臣奉旨征战北海，与那七十二路诸侯交了数战，生擒首将袁福通，是他言道\n情愿年年进贡岁岁来朝，立下降书顺表，老臣命他原镇北海，因此老臣班师回\n朝。"
+          "text": "老臣奉旨征战北海，与那七十二路诸侯交了数战，生擒首将袁福通，是他言道"
+        },
+        {
+          "character": "闻仲",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "情愿年年进贡岁岁来朝，立下降书顺表，老臣命他原镇北海，因此老臣班师回"
+        },
+        {
+          "character": "闻仲",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "朝。"
         },
         {
           "character": null,
@@ -1258,7 +1586,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "老太宰得胜还朝莫大之功，明日光禄寺大摆御宴与太宰贺功。\n内侍，退班！"
+          "text": "老太宰得胜还朝莫大之功，明日光禄寺大摆御宴与太宰贺功。"
+        },
+        {
+          "character": "纣王",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "内侍，退班！"
         },
         {
           "character": "闻仲",
@@ -1279,7 +1614,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "臣在北海，探马飞报：言说万岁与妲己娘娘每日饮酒取乐，不理朝政，百官相\n劝万岁不听，可有此事？"
+          "text": "臣在北海，探马飞报：言说万岁与妲己娘娘每日饮酒取乐，不理朝政，百官相"
+        },
+        {
+          "character": "闻仲",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "劝万岁不听，可有此事？"
         },
         {
           "character": "纣王",
@@ -1293,7 +1635,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "万岁酒醉，听信妲己之言，残害忠良乱杀百姓。军民怨声载道，各路诸侯造反，\n岂不是害民误国，怎说无事呢？"
+          "text": "万岁酒醉，听信妲己之言，残害忠良乱杀百姓。军民怨声载道，各路诸侯造反，"
+        },
+        {
+          "character": "闻仲",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "岂不是害民误国，怎说无事呢？"
         },
         {
           "character": "纣王",
@@ -1314,7 +1663,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "姜国母派人刺王杀驾，理当一死。比干剖腹挖心实为娘娘治病，梅伯立目视君\n就该炮烙处死，怎说他三人无罪呢？"
+          "text": "姜国母派人刺王杀驾，理当一死。比干剖腹挖心实为娘娘治病，梅伯立目视君"
+        },
+        {
+          "character": "纣王",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "就该炮烙处死，怎说他三人无罪呢？"
         },
         {
           "character": "闻仲",
@@ -1335,7 +1691,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "万岁甚是狡辩，老臣在北海之时，听得朝中之事甚为担忧，现有条陈十道奏与\n万岁。"
+          "text": "万岁甚是狡辩，老臣在北海之时，听得朝中之事甚为担忧，现有条陈十道奏与"
+        },
+        {
+          "character": "闻仲",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "万岁。"
         },
         {
           "character": "纣王",
@@ -1363,21 +1726,175 @@
           "line_type": "二黄汉调",
           "musical_style": "二黄汉调",
           "style_family": "二黄",
-          "text": "老臣我征北海一十五春，\n为成汤南征北战昼夜沙场须发白如银！\n不料想生内忧灾难更深！\n普天下臣民们义愤反朝廷。\n人非圣贤知过改过就是有道的明君。\n二废炮烙谏官尽忠心；\n四毁酒池与肉林；\n六斩奸佞费仲、尤浑；\n八遣使臣招安各路叛军；\n十纳忠言天下归心。\n愿商汤风调雨顺、国泰民安、万民欢乐、五谷丰登。"
+          "text": "老臣我征北海一十五春，"
         },
         {
-          "character": "实指望平外患万民欢庆、有多少忠良臣无辜丧命、闻仲我忧国忧民呈上陈十策、一拆鹿台民心顺、三填虿盆宫患除尽、五贬妲己打入冷宫院、七开粮仓救济百姓、九进贤纳士任免公正、呈十策望君速恩准、纣王",
+          "character": "闻仲",
+          "line_type": "二黄汉调",
+          "musical_style": "二黄汉调",
+          "style_family": "二黄",
+          "text": "为成汤南征北战昼夜沙场须发白如银！"
+        },
+        {
+          "character": "闻仲",
+          "line_type": "二黄汉调",
+          "musical_style": "二黄汉调",
+          "style_family": "二黄",
+          "text": "不料想生内忧灾难更深！"
+        },
+        {
+          "character": "闻仲",
+          "line_type": "二黄汉调",
+          "musical_style": "二黄汉调",
+          "style_family": "二黄",
+          "text": "普天下臣民们义愤反朝廷。"
+        },
+        {
+          "character": "闻仲",
+          "line_type": "二黄汉调",
+          "musical_style": "二黄汉调",
+          "style_family": "二黄",
+          "text": "人非圣贤知过改过就是有道的明君。"
+        },
+        {
+          "character": "闻仲",
+          "line_type": "二黄汉调",
+          "musical_style": "二黄汉调",
+          "style_family": "二黄",
+          "text": "二废炮烙谏官尽忠心；"
+        },
+        {
+          "character": "闻仲",
+          "line_type": "二黄汉调",
+          "musical_style": "二黄汉调",
+          "style_family": "二黄",
+          "text": "四毁酒池与肉林；"
+        },
+        {
+          "character": "闻仲",
+          "line_type": "二黄汉调",
+          "musical_style": "二黄汉调",
+          "style_family": "二黄",
+          "text": "六斩奸佞费仲、尤浑；"
+        },
+        {
+          "character": "闻仲",
+          "line_type": "二黄汉调",
+          "musical_style": "二黄汉调",
+          "style_family": "二黄",
+          "text": "八遣使臣招安各路叛军；"
+        },
+        {
+          "character": "闻仲",
+          "line_type": "二黄汉调",
+          "musical_style": "二黄汉调",
+          "style_family": "二黄",
+          "text": "十纳忠言天下归心。"
+        },
+        {
+          "character": "闻仲",
+          "line_type": "二黄汉调",
+          "musical_style": "二黄汉调",
+          "style_family": "二黄",
+          "text": "愿商汤风调雨顺、国泰民安、万民欢乐、五谷丰登。"
+        },
+        {
+          "character": "闻仲",
+          "line_type": "二黄汉调",
+          "musical_style": "二黄汉调",
+          "style_family": "二黄",
+          "text": "实指望平外患万民欢庆"
+        },
+        {
+          "character": "闻仲",
+          "line_type": "二黄汉调",
+          "musical_style": "二黄汉调",
+          "style_family": "二黄",
+          "text": "有多少忠良臣无辜丧命"
+        },
+        {
+          "character": "闻仲",
+          "line_type": "二黄汉调",
+          "musical_style": "二黄汉调",
+          "style_family": "二黄",
+          "text": "闻仲我忧国忧民呈上陈十策"
+        },
+        {
+          "character": "闻仲",
+          "line_type": "二黄汉调",
+          "musical_style": "二黄汉调",
+          "style_family": "二黄",
+          "text": "一拆鹿台民心顺"
+        },
+        {
+          "character": "闻仲",
+          "line_type": "二黄汉调",
+          "musical_style": "二黄汉调",
+          "style_family": "二黄",
+          "text": "三填虿盆宫患除尽"
+        },
+        {
+          "character": "闻仲",
+          "line_type": "二黄汉调",
+          "musical_style": "二黄汉调",
+          "style_family": "二黄",
+          "text": "五贬妲己打入冷宫院"
+        },
+        {
+          "character": "闻仲",
+          "line_type": "二黄汉调",
+          "musical_style": "二黄汉调",
+          "style_family": "二黄",
+          "text": "七开粮仓救济百姓"
+        },
+        {
+          "character": "闻仲",
+          "line_type": "二黄汉调",
+          "musical_style": "二黄汉调",
+          "style_family": "二黄",
+          "text": "九进贤纳士任免公正"
+        },
+        {
+          "character": "闻仲",
+          "line_type": "二黄汉调",
+          "musical_style": "二黄汉调",
+          "style_family": "二黄",
+          "text": "呈十策望君速恩准"
+        },
+        {
+          "character": "纣王",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "这个！啊，太宰，鹿台工程浩大，耗费钱粮甚多，一时拆毁孤心难舍。妲己娘\n娘甚是贤德与孤情深意厚，将她贬去，孤心实难割舍！费仲、尤浑有功于国斩\n他作甚？除此三件，那七道条陈孤王准奏，太宰你看如何？"
+          "text": "这个！啊，太宰，鹿台工程浩大，耗费钱粮甚多，一时拆毁孤心难舍。妲己娘"
+        },
+        {
+          "character": "纣王",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "娘甚是贤德与孤情深意厚，将她贬去，孤心实难割舍！费仲、尤浑有功于国斩"
+        },
+        {
+          "character": "纣王",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "他作甚？除此三件，那七道条陈孤王准奏，太宰你看如何？"
         },
         {
           "character": "闻仲",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "万岁！此三道条陈干系重大务必实行，如若不然，各路诸侯造反，天下臣民不\n服，商汤江山一旦休矣，那万岁悔之晚矣！"
+          "text": "万岁！此三道条陈干系重大务必实行，如若不然，各路诸侯造反，天下臣民不"
+        },
+        {
+          "character": "闻仲",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "服，商汤江山一旦休矣，那万岁悔之晚矣！"
         },
         {
           "character": "纣王",
@@ -1475,7 +1992,14 @@
           "line_type": "二黄散板",
           "musical_style": "二黄散板",
           "style_family": "二黄",
-          "text": "二贼说话欠思忖，\n胆敢妄言来伤人。"
+          "text": "二贼说话欠思忖，"
+        },
+        {
+          "character": "闻仲",
+          "line_type": "二黄散板",
+          "musical_style": "二黄散板",
+          "style_family": "二黄",
+          "text": "胆敢妄言来伤人。"
         },
         {
           "character": "闻仲",
@@ -1545,7 +2069,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "啊，太宰，孤王有意将他二人暂且押在天牢，孤王思之再行发落，不为迟晚。\n太宰请回府歇息去吧！"
+          "text": "啊，太宰，孤王有意将他二人暂且押在天牢，孤王思之再行发落，不为迟晚。"
+        },
+        {
+          "character": "纣王",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "太宰请回府歇息去吧！"
         },
         {
           "character": "闻仲",
@@ -1580,7 +2111,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "太宰说话欠思忖，\n敢在金殿欺寡人。"
+          "text": "太宰说话欠思忖，"
+        },
+        {
+          "character": "纣王",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "敢在金殿欺寡人。"
         },
         {
           "character": "纣王",
@@ -1604,7 +2142,21 @@
           "text": "不由老夫动无名。"
         },
         {
-          "character": "怒气不息闯宫廷、四文官、四武官",
+          "character": "闻仲",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "怒气不息闯宫廷"
+        },
+        {
+          "character": "闻仲",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "四文官"
+        },
+        {
+          "character": "四武官",
           "line_type": "同唱",
           "musical_style": null,
           "style_family": null,
@@ -1657,7 +2209,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "哎呀太宰呀！万岁听信妲己之言，传贾氏夫人摘星楼陪宴，妲己挑动纣王调戏\n贾氏大人——"
+          "text": "哎呀太宰呀！万岁听信妲己之言，传贾氏夫人摘星楼陪宴，妲己挑动纣王调戏"
+        },
+        {
+          "character": "文官甲",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "贾氏大人——"
         },
         {
           "character": "四文官",
@@ -1671,7 +2230,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "万岁听信妲己之言，道贾氏夫人藐视圣上，万岁下旨抄斩成王满门，黄飞虎忍\n无可忍携带家小反出五关去了！"
+          "text": "万岁听信妲己之言，道贾氏夫人藐视圣上，万岁下旨抄斩成王满门，黄飞虎忍"
+        },
+        {
+          "character": "武官甲",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "无可忍携带家小反出五关去了！"
         },
         {
           "character": "四武官",
@@ -1787,7 +2353,17 @@
           "二黄",
           "二黄散板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.06,
+        0.2589,
+        0.7411,
+        0.0,
+        0.5586,
+        12,
+        0.0,
+        0.2054
+      ]
     },
     {
       "scene_index": 4,
@@ -2626,7 +3202,17 @@
           "西皮散板",
           "西皮流水板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.214,
+        0.2692,
+        0.7308,
+        0.0,
+        0.7532,
+        6,
+        0.2692,
+        0.0
+      ]
     }
   ]
 }

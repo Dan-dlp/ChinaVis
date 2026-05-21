@@ -122,21 +122,49 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "告职归得重病已有一载，\n只为那梅氏子常挂心怀。"
-        },
-        {
-          "character": "倪守谦",
-          "line_type": "白",
-          "musical_style": null,
-          "style_family": null,
-          "text": "老夫倪守谦。为官太守，妻已早亡，续弦梅氏，所生一子尚幼，前妻长子善继，\n不习正道。老夫年迈，告职归林，身得重病，只恐难久人世，我若死后，长\n子必然霸占家财，梅氏、次子必受欺害，这便怎么处？哦，有了。"
+          "text": "告职归得重病已有一载，"
         },
         {
           "character": "倪守谦",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "我这里在病房暗暗思想，\n忽然间有一计想在胸膛。"
+          "text": "只为那梅氏子常挂心怀。"
+        },
+        {
+          "character": "倪守谦",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "老夫倪守谦。为官太守，妻已早亡，续弦梅氏，所生一子尚幼，前妻长子善继，"
+        },
+        {
+          "character": "倪守谦",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "不习正道。老夫年迈，告职归林，身得重病，只恐难久人世，我若死后，长"
+        },
+        {
+          "character": "倪守谦",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "子必然霸占家财，梅氏、次子必受欺害，这便怎么处？哦，有了。"
+        },
+        {
+          "character": "倪守谦",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我这里在病房暗暗思想，"
+        },
+        {
+          "character": "倪守谦",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "忽然间有一计想在胸膛。"
         },
         {
           "character": null,
@@ -157,7 +185,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "家院，将此画送与裱匠裱成，将此张吩咐工人，裱在画的夹层之中，切莫对别\n人言明。快去，立时就要。"
+          "text": "家院，将此画送与裱匠裱成，将此张吩咐工人，裱在画的夹层之中，切莫对别"
+        },
+        {
+          "character": "倪守谦",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "人言明。快去，立时就要。"
         },
         {
           "character": null,
@@ -270,7 +305,17 @@
         "singing_ratio": 0.222,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.222,
+        0.2778,
+        0.6667,
+        0.0556,
+        0.3529,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -298,7 +343,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "我乃倪善继，爹爹倪守谦，身有重病，他若一死，这家财全都是我的了。天气\n不早，不免赌场上走走。"
+          "text": "我乃倪善继，爹爹倪守谦，身有重病，他若一死，这家财全都是我的了。天气"
+        },
+        {
+          "character": "倪善继",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "不早，不免赌场上走走。"
         },
         {
           "character": null,
@@ -317,7 +369,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.6667,
+        0.3333,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -344,14 +406,56 @@
           "line_type": "西皮原板",
           "musical_style": "西皮原板",
           "style_family": "西皮",
-          "text": "我老爷告职回身有重恙，\n怕的是年衰迈难免无常。\n也免得我母子受尽凄凉。"
+          "text": "我老爷告职回身有重恙，"
+        },
+        {
+          "character": "梅氏",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "怕的是年衰迈难免无常。"
+        },
+        {
+          "character": "梅氏",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "也免得我母子受尽凄凉。"
         },
         {
           "character": "梅氏",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "奴家梅氏。配夫倪守谦，身为太守，年已花甲，告职回家，身得重病。我想他\n已年迈，恐有不测，我儿年幼，不能知事。前子善继，不习正道，常有恶言相\n待，若是老爷去世，他必然吞谋家财，我母子何以为靠？不免将老爷请出，议\n论后事。\n有请老爷。"
+          "text": "奴家梅氏。配夫倪守谦，身为太守，年已花甲，告职回家，身得重病。我想他"
+        },
+        {
+          "character": "梅氏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "已年迈，恐有不测，我儿年幼，不能知事。前子善继，不习正道，常有恶言相"
+        },
+        {
+          "character": "梅氏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "待，若是老爷去世，他必然吞谋家财，我母子何以为靠？不免将老爷请出，议"
+        },
+        {
+          "character": "梅氏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "论后事。"
+        },
+        {
+          "character": "梅氏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "有请老爷。"
         },
         {
           "character": null,
@@ -365,7 +469,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "正在卧床睡刚醒，\n夫人请我为何情？"
+          "text": "正在卧床睡刚醒，"
+        },
+        {
+          "character": "倪守谦",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "夫人请我为何情？"
         },
         {
           "character": "倪守谦",
@@ -463,14 +574,49 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "咳，我自有道理。我这里有此行乐图一张，你带在身旁，若是我死之后，那善\n继将家财平分与你便罢，若是他欺心吞谋，你千万要忍耐，随他如何，你必须\n私访清官，将此图呈上，当堂去告，你母子必有好处。我的言语，你要紧记。\n夫人吓！"
+          "text": "咳，我自有道理。我这里有此行乐图一张，你带在身旁，若是我死之后，那善"
+        },
+        {
+          "character": "倪守谦",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "继将家财平分与你便罢，若是他欺心吞谋，你千万要忍耐，随他如何，你必须"
+        },
+        {
+          "character": "倪守谦",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "私访清官，将此图呈上，当堂去告，你母子必有好处。我的言语，你要紧记。"
+        },
+        {
+          "character": "倪守谦",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "夫人吓！"
         },
         {
           "character": "倪守谦",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "我已吩咐须紧记，\n霎时一阵心血迷。\n大限到顾不得妻分子离。"
+          "text": "我已吩咐须紧记，"
+        },
+        {
+          "character": "倪守谦",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "霎时一阵心血迷。"
+        },
+        {
+          "character": "倪守谦",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "大限到顾不得妻分子离。"
         },
         {
           "character": null,
@@ -484,7 +630,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "一见老爷归了西，\n万般苦处好惨凄。"
+          "text": "一见老爷归了西，"
+        },
+        {
+          "character": "梅氏",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "万般苦处好惨凄。"
         },
         {
           "character": null,
@@ -617,7 +770,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "这我有法子。\n倪忠快来。"
+          "text": "这我有法子。"
+        },
+        {
+          "character": "倪善继",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "倪忠快来。"
         },
         {
           "character": null,
@@ -638,7 +798,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "你这么大年纪，还做得了什么事，你快到东村，那里有三间草房，几亩荒地，\n你到那里去罢。"
+          "text": "你这么大年纪，还做得了什么事，你快到东村，那里有三间草房，几亩荒地，"
+        },
+        {
+          "character": "倪善继",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "你到那里去罢。"
         },
         {
           "character": null,
@@ -724,7 +891,17 @@
         "musical_styles": [
           "西皮原板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.138,
+        0.2292,
+        0.7708,
+        0.0,
+        0.4894,
+        8,
+        0.0625,
+        0.0
+      ]
     },
     {
       "scene_index": 4,
@@ -757,7 +934,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 5,
@@ -782,7 +969,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "老东西已死，今已断七，这家财的事，至今尚未料理。\n家院快来。"
+          "text": "老东西已死，今已断七，这家财的事，至今尚未料理。"
+        },
+        {
+          "character": "倪善继",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "家院快来。"
         },
         {
           "character": null,
@@ -887,7 +1081,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "是。\n有请二夫人、二少爷。"
+          "text": "是。"
+        },
+        {
+          "character": "院子",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "有请二夫人、二少爷。"
         },
         {
           "character": null,
@@ -985,7 +1186,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "这是先人吩咐，现有证凭遗嘱，列位高邻的见证，现有田契、草房单据在此，\n你与我走。"
+          "text": "这是先人吩咐，现有证凭遗嘱，列位高邻的见证，现有田契、草房单据在此，"
+        },
+        {
+          "character": "倪善继",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "你与我走。"
         },
         {
           "character": "梅氏",
@@ -999,7 +1207,21 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "大儿做事心肠狠，\n母子如何度残生。\n去往东村走一程。"
+          "text": "大儿做事心肠狠，"
+        },
+        {
+          "character": "梅氏",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "母子如何度残生。"
+        },
+        {
+          "character": "梅氏",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "去往东村走一程。"
         },
         {
           "character": null,
@@ -1064,7 +1286,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0909,
+        0.8788,
+        0.0303,
+        0.7188,
+        5,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 6,
@@ -1086,7 +1318,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "眼见日落天色晚，\n只见草屋泪不干。"
+          "text": "眼见日落天色晚，"
+        },
+        {
+          "character": "梅氏",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "只见草屋泪不干。"
         },
         {
           "character": null,
@@ -1177,7 +1416,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "儿吓。你父留下画图一张，言道：若遇清官，拿此图去告，你我母子定有好处，\n随我来。"
+          "text": "儿吓。你父留下画图一张，言道：若遇清官，拿此图去告，你我母子定有好处，"
+        },
+        {
+          "character": "梅氏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "随我来。"
         },
         {
           "character": null,
@@ -1206,7 +1452,17 @@
         "singing_ratio": 0.091,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.091,
+        0.1538,
+        0.8462,
+        0.0,
+        0.6667,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 7,
@@ -1227,21 +1483,49 @@
           "line_type": "西皮原板",
           "musical_style": "西皮原板",
           "style_family": "西皮",
-          "text": "为县令与黎民判断冤情。\n报君恩尊慈孝不负明君。\n勤劳秉正牧良民。"
+          "text": "为县令与黎民判断冤情。"
+        },
+        {
+          "character": "滕大尹",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "报君恩尊慈孝不负明君。"
+        },
+        {
+          "character": "滕大尹",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "勤劳秉正牧良民。"
         },
         {
           "character": "滕大尹",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "下官滕大尹，蒙圣恩放我县令，今日拈香之日。\n左右，开道。"
+          "text": "下官滕大尹，蒙圣恩放我县令，今日拈香之日。"
+        },
+        {
+          "character": "滕大尹",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "左右，开道。"
         },
         {
           "character": "滕大尹",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "人来开道往前进，\n一柱清香拜神灵。"
+          "text": "人来开道往前进，"
+        },
+        {
+          "character": "滕大尹",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "一柱清香拜神灵。"
         },
         {
           "character": null,
@@ -1262,7 +1546,17 @@
         "musical_styles": [
           "西皮原板"
         ]
-      }
+      },
+      "scene_feature": [
+        1.0,
+        0.7143,
+        0.2857,
+        0.0,
+        0.0,
+        1,
+        0.4286,
+        0.0
+      ]
     },
     {
       "scene_index": 8,
@@ -1327,7 +1621,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "大大清官。\n闲人站开，太爷来了。"
+          "text": "大大清官。"
+        },
+        {
+          "character": "地保",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "闲人站开，太爷来了。"
         },
         {
           "character": null,
@@ -1341,7 +1642,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "太爷来了，待我请出母亲。\n孩儿有请母亲。"
+          "text": "太爷来了，待我请出母亲。"
+        },
+        {
+          "character": "倪善述",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "孩儿有请母亲。"
         },
         {
           "character": null,
@@ -1405,7 +1713,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.7273,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 9,
@@ -1466,7 +1784,14 @@
           "line_type": "同白",
           "musical_style": null,
           "style_family": null,
-          "text": "是。\n这个女子，老爷传见。"
+          "text": "是。"
+        },
+        {
+          "character": "二公差",
+          "line_type": "同白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "这个女子，老爷传见。"
         },
         {
           "character": null,
@@ -1501,7 +1826,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "原来是一位夫人，随在轿后。\n左右，打道回衙。"
+          "text": "原来是一位夫人，随在轿后。"
+        },
+        {
+          "character": "滕大尹",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "左右，打道回衙。"
         },
         {
           "character": null,
@@ -1550,10 +1882,45 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "不幸老爷把命丧，\n大儿谋产心不良。\n留下行乐图一张。\n太爷与我做主张。"
+          "text": "不幸老爷把命丧，"
         },
         {
-          "character": "儿夫在世对我讲、若遇清官对他讲、滕大尹",
+          "character": "梅氏",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "大儿谋产心不良。"
+        },
+        {
+          "character": "梅氏",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "留下行乐图一张。"
+        },
+        {
+          "character": "梅氏",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "太爷与我做主张。"
+        },
+        {
+          "character": "梅氏",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "儿夫在世对我讲"
+        },
+        {
+          "character": "梅氏",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "若遇清官对他讲"
+        },
+        {
+          "character": "滕大尹",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -1620,7 +1987,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "先人去世，留下遗嘱，叫我分给他东村田，三件草房，现有众邻人的见证，太\n爷可以问他们。"
+          "text": "先人去世，留下遗嘱，叫我分给他东村田，三件草房，现有众邻人的见证，太"
+        },
+        {
+          "character": "倪善继",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "爷可以问他们。"
         },
         {
           "character": "梅氏",
@@ -1733,7 +2107,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.1667,
+        0.8333,
+        0.0,
+        0.6571,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 10,
@@ -1785,7 +2169,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "且住，适才梅氏状告大儿善继谋产，那梅氏言道：倪太守留下此画与她，日后\n若遇清官，定能断出，想此画也不知是何意也。"
+          "text": "且住，适才梅氏状告大儿善继谋产，那梅氏言道：倪太守留下此画与她，日后"
+        },
+        {
+          "character": "滕大尹",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "若遇清官，定能断出，想此画也不知是何意也。"
         },
         {
           "character": null,
@@ -1799,14 +2190,42 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "有本官在书房前思后想，\n那梅氏告大儿谋产一桩。\n梅氏女非刁妇叫我难详。"
+          "text": "有本官在书房前思后想，"
+        },
+        {
+          "character": "滕大尹",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "那梅氏告大儿谋产一桩。"
+        },
+        {
+          "character": "滕大尹",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "梅氏女非刁妇叫我难详。"
         },
         {
           "character": "滕大尹",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "那善继并无谎言，梅氏亦非刁妇也。看此图上面，乃倪太守自画行乐之图，他\n右手抱婴儿，左手指地，面带笑容，这算何意？老先生吓，老先生，你这是何\n苦吓！"
+          "text": "那善继并无谎言，梅氏亦非刁妇也。看此图上面，乃倪太守自画行乐之图，他"
+        },
+        {
+          "character": "滕大尹",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "右手抱婴儿，左手指地，面带笑容，这算何意？老先生吓，老先生，你这是何"
+        },
+        {
+          "character": "滕大尹",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "苦吓！"
         },
         {
           "character": null,
@@ -1820,7 +2239,21 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "倪太守你本是官居黄堂，\n因何故这家财无有主张。\n又怎能将画图付与妻房？"
+          "text": "倪太守你本是官居黄堂，"
+        },
+        {
+          "character": "滕大尹",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "因何故这家财无有主张。"
+        },
+        {
+          "character": "滕大尹",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "又怎能将画图付与妻房？"
         },
         {
           "character": "滕大尹",
@@ -1841,10 +2274,38 @@
           "line_type": "二黄摇板",
           "musical_style": "二黄摇板",
           "style_family": "二黄",
-          "text": "谯楼已打三更响，\n思前想后无主张。\n（滕大尹取画。〖小过门〗。丑丫鬟暗上，捧茶盘，滕大尹左右看画，丑丫鬟偷看，滕大尹转身，丑丫鬟将\n茶盘翻倒。）"
+          "text": "谯楼已打三更响，"
         },
         {
-          "character": "我这里取此图仔细观望、滕大尹",
+          "character": "滕大尹",
+          "line_type": "二黄摇板",
+          "musical_style": "二黄摇板",
+          "style_family": "二黄",
+          "text": "思前想后无主张。"
+        },
+        {
+          "character": "滕大尹",
+          "line_type": "二黄摇板",
+          "musical_style": "二黄摇板",
+          "style_family": "二黄",
+          "text": "（滕大尹取画。〖小过门〗。丑丫鬟暗上，捧茶盘，滕大尹左右看画，丑丫鬟偷看，滕大尹转身，丑丫鬟将"
+        },
+        {
+          "character": "滕大尹",
+          "line_type": "二黄摇板",
+          "musical_style": "二黄摇板",
+          "style_family": "二黄",
+          "text": "茶盘翻倒。）"
+        },
+        {
+          "character": "滕大尹",
+          "line_type": "二黄摇板",
+          "musical_style": "二黄摇板",
+          "style_family": "二黄",
+          "text": "我这里取此图仔细观望"
+        },
+        {
+          "character": "滕大尹",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -1869,14 +2330,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "唗！大胆贱人，做事莽撞。\n家院，看家法伺候。"
+          "text": "唗！大胆贱人，做事莽撞。"
+        },
+        {
+          "character": "滕大尹",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "家院，看家法伺候。"
         },
         {
           "character": "丑丫鬟",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "老爷不要生气，小丫鬟偷看老爷手中的画，撞翻了茶，将画弄湿了，待小丫鬟\n拿去洗洗就是了。"
+          "text": "老爷不要生气，小丫鬟偷看老爷手中的画，撞翻了茶，将画弄湿了，待小丫鬟"
+        },
+        {
+          "character": "丑丫鬟",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "拿去洗洗就是了。"
         },
         {
           "character": "滕大尹",
@@ -1911,7 +2386,35 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "“太守倪守谦，因年迈告职归林，先妻早亡，留下长子善继，行为不正，次妻\n梅氏，所生一子，取名善述，尚幼。我病将危，恐我死后，大儿吞谋家产，梅\n氏母子，后身难度，故将金银藏在酒坛与花缸之内，埋藏内厅东西廊下。恐大\n儿知道，又恐妇弱难抗，故将遗嘱藏于画中，若有清官，以公将此财产断与梅\n氏母子，以昭大公。事毕谢银五百两，倪守谦具。”"
+          "text": "“太守倪守谦，因年迈告职归林，先妻早亡，留下长子善继，行为不正，次妻"
+        },
+        {
+          "character": "滕大尹",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "梅氏，所生一子，取名善述，尚幼。我病将危，恐我死后，大儿吞谋家产，梅"
+        },
+        {
+          "character": "滕大尹",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "氏母子，后身难度，故将金银藏在酒坛与花缸之内，埋藏内厅东西廊下。恐大"
+        },
+        {
+          "character": "滕大尹",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "儿知道，又恐妇弱难抗，故将遗嘱藏于画中，若有清官，以公将此财产断与梅"
+        },
+        {
+          "character": "滕大尹",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "氏母子，以昭大公。事毕谢银五百两，倪守谦具。”"
         },
         {
           "character": "滕大尹",
@@ -1946,7 +2449,21 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "看罢此画喜洋洋，\n有此机谋在画中藏。\n管叫那倪善继如梦黄粱。"
+          "text": "看罢此画喜洋洋，"
+        },
+        {
+          "character": "滕大尹",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "有此机谋在画中藏。"
+        },
+        {
+          "character": "滕大尹",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "管叫那倪善继如梦黄粱。"
         },
         {
           "character": null,
@@ -1981,7 +2498,17 @@
         "musical_styles": [
           "二黄摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.357,
+        0.4054,
+        0.5946,
+        0.0,
+        0.0833,
+        3,
+        0.0,
+        0.1351
+      ]
     },
     {
       "scene_index": 11,
@@ -2531,7 +3058,17 @@
         "singing_ratio": 0.175,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.175,
+        0.2727,
+        0.7273,
+        0.0,
+        0.6481,
+        5,
+        0.0,
+        0.0
+      ]
     }
   ]
 }

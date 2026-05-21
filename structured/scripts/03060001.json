@@ -256,14 +256,35 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "本帅、高行周。奉命捉拿归德节度使史彦超，因此统兵前来。昨日远探报到，\n此处离归德不远，必须倍道而行，攻其不备。\n怀德、怀亮，吩咐大小三军，拔营起寨，速速趱行！"
+          "text": "本帅、高行周。奉命捉拿归德节度使史彦超，因此统兵前来。昨日远探报到，"
+        },
+        {
+          "character": "高行周",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "此处离归德不远，必须倍道而行，攻其不备。"
+        },
+        {
+          "character": "高行周",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "怀德、怀亮，吩咐大小三军，拔营起寨，速速趱行！"
         },
         {
           "character": "高怀德、高怀亮",
           "line_type": "同白",
           "musical_style": null,
           "style_family": null,
-          "text": "啊！\n众将官，拔营起寨，速速趱行！"
+          "text": "啊！"
+        },
+        {
+          "character": "高怀德、高怀亮",
+          "line_type": "同白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "众将官，拔营起寨，速速趱行！"
         },
         {
           "character": "众人",
@@ -328,7 +349,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.05,
+        0.9,
+        0.05,
+        0.7895,
+        9,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -371,7 +402,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "公子，想那二老爷现在归德，统兵镇守。你我主仆投奔那里，一来报信，二来\n也好让二老爷作一准备。"
+          "text": "公子，想那二老爷现在归德，统兵镇守。你我主仆投奔那里，一来报信，二来"
+        },
+        {
+          "character": "李崇矩",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "也好让二老爷作一准备。"
         },
         {
           "character": "史耀先",
@@ -422,7 +460,17 @@
         "singing_ratio": 0.5,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.5,
+        0.5,
+        0.5,
+        0.0,
+        0.5714,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -469,7 +517,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "本镇、史彦超。北汉为臣，官拜归德节度。兄长弘肇，在朝奉君。只因边邻不\n靖，日日操演兵将，以防不测。这几日本镇心惊肉跳，不知为了何事？"
+          "text": "本镇、史彦超。北汉为臣，官拜归德节度。兄长弘肇，在朝奉君。只因边邻不"
+        },
+        {
+          "character": "史彦超",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "靖，日日操演兵将，以防不测。这几日本镇心惊肉跳，不知为了何事？"
         },
         {
           "character": null,
@@ -483,7 +538,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "啊，帅字旗无风自动，其中必有军情。\n站堂军，伺候了！"
+          "text": "啊，帅字旗无风自动，其中必有军情。"
+        },
+        {
+          "character": "史彦超",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "站堂军，伺候了！"
         },
         {
           "character": "四龙套",
@@ -588,7 +650,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "哎呀二老爷呀！只因我家大老爷奏本谏君，那后主非但不听，反将大老爷与太\n夫人一家老幼同斩市曹！"
+          "text": "哎呀二老爷呀！只因我家大老爷奏本谏君，那后主非但不听，反将大老爷与太"
+        },
+        {
+          "character": "李崇矩",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "夫人一家老幼同斩市曹！"
         },
         {
           "character": "史彦超",
@@ -630,21 +699,49 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "只气得史彦超咬碎银牙。\n可叹我一家人命染黄沙。"
+          "text": "只气得史彦超咬碎银牙。"
         },
         {
-          "character": "回头来便把那昏王叫骂、李崇矩",
+          "character": "史彦超",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "可叹我一家人命染黄沙。"
+        },
+        {
+          "character": "史彦超",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "回头来便把那昏王叫骂"
+        },
+        {
+          "character": "李崇矩",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
           "text": "二老爷呀！"
         },
         {
-          "character": "回头来便把那昏王叫骂、李崇矩",
+          "character": "李崇矩",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "回头来便把那昏王叫骂"
+        },
+        {
+          "character": "李崇矩",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "这件事虽是那后主作差，\n内有个苏逢吉暗把计发。"
+          "text": "这件事虽是那后主作差，"
+        },
+        {
+          "character": "李崇矩",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "内有个苏逢吉暗把计发。"
         },
         {
           "character": "史彦超",
@@ -658,10 +755,31 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "苏逢吉老奸贼真真胆大，\n有什么冤与仇要害全家？\n快请夫人说根芽。"
+          "text": "苏逢吉老奸贼真真胆大，"
         },
         {
-          "character": "手拉娇儿大堂下、中军",
+          "character": "史彦超",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "有什么冤与仇要害全家？"
+        },
+        {
+          "character": "史彦超",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "快请夫人说根芽。"
+        },
+        {
+          "character": "史彦超",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "手拉娇儿大堂下"
+        },
+        {
+          "character": "中军",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -679,7 +797,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "每日里在后堂香烧佛念，\n但愿得吾老爷禄位高迁。"
+          "text": "每日里在后堂香烧佛念，"
+        },
+        {
+          "character": "史夫人",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "但愿得吾老爷禄位高迁。"
         },
         {
           "character": "史夫人",
@@ -693,21 +818,98 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "为什么皱双眉泪洒胸前？\n尊老爷呼唤我所为哪般？"
+          "text": "为什么皱双眉泪洒胸前？"
         },
         {
-          "character": "小丫鬟报一信二堂来见、走向前道万福躬身下站、史彦超",
+          "character": "史夫人",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "夫人有所不知情，\n下官言来听分明：\n逢吉老贼把计生。\n连累了年迈的娘亲命归阴。\n幸喜逃出这条根。"
+          "text": "尊老爷呼唤我所为哪般？"
         },
         {
-          "character": "长兄金殿去奏本、昏王传旨将全家斩、我一家无故遭毒狠、史夫人",
+          "character": "史夫人",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "老爷不必两泪淋，\n就该发兵报冤情。"
+          "text": "小丫鬟报一信二堂来见"
+        },
+        {
+          "character": "史夫人",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "走向前道万福躬身下站"
+        },
+        {
+          "character": "史彦超",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "夫人有所不知情，"
+        },
+        {
+          "character": "史彦超",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "下官言来听分明："
+        },
+        {
+          "character": "史彦超",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "逢吉老贼把计生。"
+        },
+        {
+          "character": "史彦超",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "连累了年迈的娘亲命归阴。"
+        },
+        {
+          "character": "史彦超",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "幸喜逃出这条根。"
+        },
+        {
+          "character": "史彦超",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "长兄金殿去奏本"
+        },
+        {
+          "character": "史彦超",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "昏王传旨将全家斩"
+        },
+        {
+          "character": "史彦超",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我一家无故遭毒狠"
+        },
+        {
+          "character": "史夫人",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "老爷不必两泪淋，"
+        },
+        {
+          "character": "史夫人",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "就该发兵报冤情。"
         },
         {
           "character": "史彦超",
@@ -721,7 +923,21 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "听一言来心猛省，\n大丈夫不如女钗裙！\n夫人且把二堂进！"
+          "text": "听一言来心猛省，"
+        },
+        {
+          "character": "史彦超",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "大丈夫不如女钗裙！"
+        },
+        {
+          "character": "史彦超",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "夫人且把二堂进！"
         },
         {
           "character": null,
@@ -742,7 +958,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "拿我令箭到各营。\n就说是爷要兴人马！"
+          "text": "拿我令箭到各营。"
+        },
+        {
+          "character": "史彦超",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "就说是爷要兴人马！"
         },
         {
           "character": "中军",
@@ -852,7 +1075,17 @@
         "singing_ratio": 0.12,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.12,
+        0.5397,
+        0.4444,
+        0.0159,
+        0.3548,
+        7,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 4,
@@ -924,7 +1157,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 5,
@@ -972,7 +1215,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.6667,
+        0.3333,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 6,
@@ -1182,7 +1435,17 @@
         "singing_ratio": 0.143,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.143,
+        0.1111,
+        0.6667,
+        0.2222,
+        0.7059,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 7,
@@ -1224,7 +1487,17 @@
         "singing_ratio": 0.667,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.667,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 8,
@@ -1414,7 +1687,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        5,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 9,
@@ -1440,10 +1723,31 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "老爷出兵无音信，\n倒叫妾身挂在心。\n但听家院报分明。"
+          "text": "老爷出兵无音信，"
         },
         {
-          "character": "手拉姣儿二堂进、李崇矩",
+          "character": "史夫人",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "倒叫妾身挂在心。"
+        },
+        {
+          "character": "史夫人",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "但听家院报分明。"
+        },
+        {
+          "character": "史夫人",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "手拉姣儿二堂进"
+        },
+        {
+          "character": "李崇矩",
           "line_type": "内白",
           "musical_style": null,
           "style_family": null,
@@ -1461,7 +1765,21 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "适才府前得一信，\n行周领兵诈开城。\n再与夫人说分明。"
+          "text": "适才府前得一信，"
+        },
+        {
+          "character": "李崇矩",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "行周领兵诈开城。"
+        },
+        {
+          "character": "李崇矩",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "再与夫人说分明。"
         },
         {
           "character": "李崇矩",
@@ -1471,7 +1789,14 @@
           "text": "哎呀夫人，大事不好了！"
         },
         {
-          "character": "迈步且把二堂进、史夫人",
+          "character": "李崇矩",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "迈步且把二堂进"
+        },
+        {
+          "character": "史夫人",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -1496,7 +1821,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "听一言来胆战惊，\n奸贼杀奔帅府门。"
+          "text": "听一言来胆战惊，"
+        },
+        {
+          "character": "史夫人",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "奸贼杀奔帅府门。"
         },
         {
           "character": null,
@@ -1556,7 +1888,17 @@
         "singing_ratio": 0.25,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.25,
+        0.5294,
+        0.4706,
+        0.0,
+        0.375,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 10,
@@ -1579,7 +1921,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 11,
@@ -1602,7 +1954,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 12,
@@ -1636,7 +1998,28 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "可叹我史彦超、忠直耿耿为国一片心，恨昏王，信奸佞，连累了白发老娘、一\n家大小受典刑，我好不伤情！\n因此上为报仇才动刀兵。\n俺这里勒战马疆场来进！"
+          "text": "可叹我史彦超、忠直耿耿为国一片心，恨昏王，信奸佞，连累了白发老娘、一"
+        },
+        {
+          "character": "史彦超",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "家大小受典刑，我好不伤情！"
+        },
+        {
+          "character": "史彦超",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "因此上为报仇才动刀兵。"
+        },
+        {
+          "character": "史彦超",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "俺这里勒战马疆场来进！"
         },
         {
           "character": null,
@@ -1762,7 +2145,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "无名小将休夸口，\n比一比谁胜与谁能？"
+          "text": "无名小将休夸口，"
+        },
+        {
+          "character": "史彦超",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "比一比谁胜与谁能？"
         },
         {
           "character": null,
@@ -1776,7 +2166,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "催坐骑在阵前用目观定：\n眼见得旌旗招展、杀气腾腾、尘埃滚滚、战鼓齐鸣、见二将好似天神。"
+          "text": "催坐骑在阵前用目观定："
+        },
+        {
+          "character": "史彦超",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "眼见得旌旗招展、杀气腾腾、尘埃滚滚、战鼓齐鸣、见二将好似天神。"
         },
         {
           "character": null,
@@ -1804,7 +2201,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "勒马停蹄来观定，\n两员将打扮得盔缨璨烂铠甲鲜明。"
+          "text": "勒马停蹄来观定，"
+        },
+        {
+          "character": "史彦超",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "两员将打扮得盔缨璨烂铠甲鲜明。"
         },
         {
           "character": "王皇、刘闵",
@@ -1818,14 +2222,42 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "金枪一抖管叫你命丧残生！\n（史彦超、王皇、刘闵同起打。王皇、刘闵同败下。四龙套、八大刀手、高怀德、高怀亮、王皇、刘闵、高\n行周同上。）"
+          "text": "金枪一抖管叫你命丧残生！"
         },
         {
           "character": "史彦超",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "霎时陷入迷魂阵，\n四面俱是汉营兵。\n左冲右挡无处奔！"
+          "text": "（史彦超、王皇、刘闵同起打。王皇、刘闵同败下。四龙套、八大刀手、高怀德、高怀亮、王皇、刘闵、高"
+        },
+        {
+          "character": "史彦超",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "行周同上。）"
+        },
+        {
+          "character": "史彦超",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "霎时陷入迷魂阵，"
+        },
+        {
+          "character": "史彦超",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "四面俱是汉营兵。"
+        },
+        {
+          "character": "史彦超",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "左冲右挡无处奔！"
         },
         {
           "character": null,
@@ -1921,7 +2353,17 @@
         "singing_ratio": 0.76,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.76,
+        0.8378,
+        0.1622,
+        0.0,
+        0.5556,
+        8,
+        0.0,
+        0.0
+      ]
     }
   ]
 }

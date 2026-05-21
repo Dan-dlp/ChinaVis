@@ -251,7 +251,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "孤，靠山王杨林。可恨响马程咬金等，两次打劫皇杠，被孤拿获，发交历城监\n禁；不想那些贼人，竟敢劫牢反狱。想那捕快秦琼，武艺高强，若非暗助他们，\n怎能逃走。不免发下牌票，命王周去至历城，提解秦琼到此，严加拷问。\n来！"
+          "text": "孤，靠山王杨林。可恨响马程咬金等，两次打劫皇杠，被孤拿获，发交历城监"
+        },
+        {
+          "character": "杨林",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "禁；不想那些贼人，竟敢劫牢反狱。想那捕快秦琼，武艺高强，若非暗助他们，"
+        },
+        {
+          "character": "杨林",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "怎能逃走。不免发下牌票，命王周去至历城，提解秦琼到此，严加拷问。"
+        },
+        {
+          "character": "杨林",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来！"
         },
         {
           "character": "中军",
@@ -384,7 +405,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0588,
+        0.7647,
+        0.1765,
+        0.4375,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -527,7 +558,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "哦，原来为此。\n差官请至馆驿待茶。"
+          "text": "哦，原来为此。"
+        },
+        {
+          "character": "县令",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "差官请至馆驿待茶。"
         },
         {
           "character": "王周、县令",
@@ -620,7 +658,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.9524,
+        0.0476,
+        0.75,
+        6,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -644,7 +692,21 @@
           "line_type": "西皮原板",
           "musical_style": "西皮原板",
           "style_family": "西皮",
-          "text": "我儿秦琼多贤孝，\n广结宾朋义气高。\n不枉我教子受辛劳。"
+          "text": "我儿秦琼多贤孝，"
+        },
+        {
+          "character": "秦母",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "广结宾朋义气高。"
+        },
+        {
+          "character": "秦母",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "不枉我教子受辛劳。"
         },
         {
           "character": null,
@@ -658,7 +720,21 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "天色未明公差到，\n唤去儿夫有蹊跷。\n左思右想心内焦。"
+          "text": "天色未明公差到，"
+        },
+        {
+          "character": "秦妻",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "唤去儿夫有蹊跷。"
+        },
+        {
+          "character": "秦妻",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "左思右想心内焦。"
         },
         {
           "character": "秦妻",
@@ -668,7 +744,14 @@
           "text": "婆母万福。"
         },
         {
-          "character": "此事教人难意料、秦母",
+          "character": "秦妻",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "此事教人难意料"
+        },
+        {
+          "character": "秦母",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -707,7 +790,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "啊，婆母，今日天色未明，公差到此，将我丈夫唤进衙去，至今未归，不知为\n了何事？"
+          "text": "啊，婆母，今日天色未明，公差到此，将我丈夫唤进衙去，至今未归，不知为"
+        },
+        {
+          "character": "秦妻",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "了何事？"
         },
         {
           "character": "秦母",
@@ -756,7 +846,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "只因靠山王杨林，有公文到来，将我秦二哥上了刑具，马上就解往登州。你婆\n媳二人快到十里长亭瞧瞧去吧！"
+          "text": "只因靠山王杨林，有公文到来，将我秦二哥上了刑具，马上就解往登州。你婆"
+        },
+        {
+          "character": "樊虎",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "媳二人快到十里长亭瞧瞧去吧！"
         },
         {
           "character": null,
@@ -805,7 +902,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "哎呀，媳妇啊！你丈夫上了刑具，解往登州，我们速速赶至十里长亭相见一面\n吧！"
+          "text": "哎呀，媳妇啊！你丈夫上了刑具，解往登州，我们速速赶至十里长亭相见一面"
+        },
+        {
+          "character": "秦母",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "吧！"
         },
         {
           "character": "秦妻",
@@ -862,7 +966,17 @@
           "西皮原板",
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.111,
+        0.2143,
+        0.75,
+        0.0357,
+        0.5926,
+        4,
+        0.2143,
+        0.0
+      ]
     },
     {
       "scene_index": 4,
@@ -887,14 +1001,35 @@
           "line_type": "西皮原板",
           "musical_style": "西皮原板",
           "style_family": "西皮",
-          "text": "不由秦琼怒气冲。\n侠肠义胆论英雄。\n历城县内捉拿我秦琼。"
+          "text": "不由秦琼怒气冲。"
+        },
+        {
+          "character": "秦琼",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "侠肠义胆论英雄。"
+        },
+        {
+          "character": "秦琼",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "历城县内捉拿我秦琼。"
         },
         {
           "character": "秦琼",
           "line_type": "西皮流水板",
           "musical_style": "西皮流水板",
           "style_family": "西皮",
-          "text": "舍不得妻和子泪洒前胸。\n实难舍邻居们仁义宾朋。"
+          "text": "舍不得妻和子泪洒前胸。"
+        },
+        {
+          "character": "秦琼",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "实难舍邻居们仁义宾朋。"
         },
         {
           "character": "秦琼",
@@ -915,7 +1050,21 @@
           "line_type": "西皮散板",
           "musical_style": "西皮散板",
           "style_family": "西皮",
-          "text": "顾不得年纪迈把崎岖路上，\n皆因是为娘的爱子情长。\n眼望着长亭悲声放——"
+          "text": "顾不得年纪迈把崎岖路上，"
+        },
+        {
+          "character": "秦母",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "皆因是为娘的爱子情长。"
+        },
+        {
+          "character": "秦母",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "眼望着长亭悲声放——"
         },
         {
           "character": "秦妻",
@@ -950,10 +1099,38 @@
           "line_type": "西皮散板",
           "musical_style": "西皮散板",
           "style_family": "西皮",
-          "text": "抬头只见儿的娘。\n此去恐难还故乡。\n权当是未生儿一场！"
+          "text": "抬头只见儿的娘。"
         },
         {
-          "character": "不想灾祸从天降、老娘亲休将儿盼望、秦母",
+          "character": "秦琼",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "此去恐难还故乡。"
+        },
+        {
+          "character": "秦琼",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "权当是未生儿一场！"
+        },
+        {
+          "character": "秦琼",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "不想灾祸从天降"
+        },
+        {
+          "character": "秦琼",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "老娘亲休将儿盼望"
+        },
+        {
+          "character": "秦母",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -964,7 +1141,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "母亲哪！靠山王捉拿孩儿，一定是为了群雄劫牢反狱，大反山东之故。儿今此\n去，凶吉不保，望母亲静养身体，休要挂念你这苦命的孩儿呀！"
+          "text": "母亲哪！靠山王捉拿孩儿，一定是为了群雄劫牢反狱，大反山东之故。儿今此"
+        },
+        {
+          "character": "秦琼",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "去，凶吉不保，望母亲静养身体，休要挂念你这苦命的孩儿呀！"
         },
         {
           "character": "秦妻",
@@ -978,7 +1162,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "妻呀！事已至此，我纵有千言万语，一时焉能说得尽！我今此去，只恐有死无\n生，望你在母亲面前，多多孝敬，管教我儿长大成人，也好接续香烟。倘得生\n还，一家还有相逢之日！\n母亲请上，孩儿这里叩别了！"
+          "text": "妻呀！事已至此，我纵有千言万语，一时焉能说得尽！我今此去，只恐有死无"
+        },
+        {
+          "character": "秦琼",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "生，望你在母亲面前，多多孝敬，管教我儿长大成人，也好接续香烟。倘得生"
+        },
+        {
+          "character": "秦琼",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "还，一家还有相逢之日！"
+        },
+        {
+          "character": "秦琼",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "母亲请上，孩儿这里叩别了！"
         },
         {
           "character": "秦琼",
@@ -1088,7 +1293,17 @@
           "西皮散板",
           "西皮流水"
         ]
-      }
+      },
+      "scene_feature": [
+        0.636,
+        0.7273,
+        0.2727,
+        0.0,
+        0.4375,
+        3,
+        0.6061,
+        0.0
+      ]
     },
     {
       "scene_index": 5,
@@ -1116,7 +1331,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "只因秦二哥，被靠山王杨林解往登州；是俺奉了三哥将令，去往登州路上，搭\n救于他。看天时不早，甩开大步走遭也。"
+          "text": "只因秦二哥，被靠山王杨林解往登州；是俺奉了三哥将令，去往登州路上，搭"
+        },
+        {
+          "character": "史大奈",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "救于他。看天时不早，甩开大步走遭也。"
         },
         {
           "character": "史大奈",
@@ -1130,7 +1352,21 @@
           "line_type": "西皮流水板",
           "musical_style": "西皮流水板",
           "style_family": "西皮",
-          "text": "豪杰独自下山来。\n徐三哥妙计巧安排。\n不分昼夜到此来。"
+          "text": "豪杰独自下山来。"
+        },
+        {
+          "character": "史大奈",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "徐三哥妙计巧安排。"
+        },
+        {
+          "character": "史大奈",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "不分昼夜到此来。"
         },
         {
           "character": "史大奈",
@@ -1159,7 +1395,17 @@
           "西皮摇板",
           "西皮流水"
         ]
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.625,
+        0.25,
+        0.125,
+        0.0,
+        1,
+        0.625,
+        0.0
+      ]
     },
     {
       "scene_index": 6,
@@ -1191,14 +1437,35 @@
           "line_type": "西皮原板",
           "musical_style": "西皮原板",
           "style_family": "西皮",
-          "text": "不由秦琼怒气冲。\n侠肠义胆论英雄。\n历城县内捉拿我秦琼。"
+          "text": "不由秦琼怒气冲。"
+        },
+        {
+          "character": "秦琼",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "侠肠义胆论英雄。"
+        },
+        {
+          "character": "秦琼",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "历城县内捉拿我秦琼。"
         },
         {
           "character": "秦琼",
           "line_type": "西皮流水板",
           "musical_style": "西皮流水板",
           "style_family": "西皮",
-          "text": "舍不得妻和子泪洒前胸。\n实难舍邻居们仁义宾朋。"
+          "text": "舍不得妻和子泪洒前胸。"
+        },
+        {
+          "character": "秦琼",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "实难舍邻居们仁义宾朋。"
         },
         {
           "character": "秦琼",
@@ -1219,7 +1486,21 @@
           "line_type": "西皮散板",
           "musical_style": "西皮散板",
           "style_family": "西皮",
-          "text": "顾不得年纪迈把崎岖路上，\n皆因是为娘的爱子情长。\n眼望着长亭悲声放——"
+          "text": "顾不得年纪迈把崎岖路上，"
+        },
+        {
+          "character": "秦母",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "皆因是为娘的爱子情长。"
+        },
+        {
+          "character": "秦母",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "眼望着长亭悲声放——"
         },
         {
           "character": "秦妻",
@@ -1254,10 +1535,38 @@
           "line_type": "西皮散板",
           "musical_style": "西皮散板",
           "style_family": "西皮",
-          "text": "抬头只见儿的娘。\n此去恐难还故乡。\n权当是未生儿一场！"
+          "text": "抬头只见儿的娘。"
         },
         {
-          "character": "不想灾祸从天降、老娘亲休将儿盼望、秦母",
+          "character": "秦琼",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "此去恐难还故乡。"
+        },
+        {
+          "character": "秦琼",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "权当是未生儿一场！"
+        },
+        {
+          "character": "秦琼",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "不想灾祸从天降"
+        },
+        {
+          "character": "秦琼",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "老娘亲休将儿盼望"
+        },
+        {
+          "character": "秦母",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -1268,7 +1577,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "母亲哪！靠山王捉拿孩儿，一定是为了群雄劫牢反狱，大反山东之故。儿今此\n去，凶吉不保，望母亲静养身体，休要挂念你这苦命的孩儿呀！"
+          "text": "母亲哪！靠山王捉拿孩儿，一定是为了群雄劫牢反狱，大反山东之故。儿今此"
+        },
+        {
+          "character": "秦琼",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "去，凶吉不保，望母亲静养身体，休要挂念你这苦命的孩儿呀！"
         },
         {
           "character": "秦妻",
@@ -1282,7 +1598,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "妻呀！事已至此，我纵有千言万语，一时焉能说得尽！我今此去，只恐有死无\n生，望你在母亲面前，多多孝敬，管教我儿长大成人，也好接续香烟。倘得生\n还，一家还有相逢之日！\n母亲请上，孩儿这里叩别了！"
+          "text": "妻呀！事已至此，我纵有千言万语，一时焉能说得尽！我今此去，只恐有死无"
+        },
+        {
+          "character": "秦琼",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "生，望你在母亲面前，多多孝敬，管教我儿长大成人，也好接续香烟。倘得生"
+        },
+        {
+          "character": "秦琼",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "还，一家还有相逢之日！"
+        },
+        {
+          "character": "秦琼",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "母亲请上，孩儿这里叩别了！"
         },
         {
           "character": "秦琼",
@@ -1380,7 +1717,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "只因秦二哥，被靠山王杨林解往登州；是俺奉了三哥将令，去往登州路上，搭\n救于他。看天时不早，甩开大步走遭也。"
+          "text": "只因秦二哥，被靠山王杨林解往登州；是俺奉了三哥将令，去往登州路上，搭"
+        },
+        {
+          "character": "史大奈",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "救于他。看天时不早，甩开大步走遭也。"
         },
         {
           "character": "史大奈",
@@ -1394,7 +1738,21 @@
           "line_type": "西皮流水板",
           "musical_style": "西皮流水板",
           "style_family": "西皮",
-          "text": "豪杰独自下山来。\n徐三哥妙计巧安排。\n不分昼夜到此来。"
+          "text": "豪杰独自下山来。"
+        },
+        {
+          "character": "史大奈",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "徐三哥妙计巧安排。"
+        },
+        {
+          "character": "史大奈",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "不分昼夜到此来。"
         },
         {
           "character": "史大奈",
@@ -1422,10 +1780,38 @@
           "line_type": "西皮流水板",
           "musical_style": "西皮流水板",
           "style_family": "西皮",
-          "text": "历城县内上了桎，⑶\n儿行千里母担忧。\n望求差爷把店投。⑷"
+          "text": "历城县内上了桎，⑶"
         },
         {
-          "character": "眼看日落西山后、樊虎、连明",
+          "character": "秦琼",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "儿行千里母担忧。"
+        },
+        {
+          "character": "秦琼",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "望求差爷把店投。⑷"
+        },
+        {
+          "character": "秦琼",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "眼看日落西山后"
+        },
+        {
+          "character": "秦琼",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "樊虎"
+        },
+        {
+          "character": "连明",
           "line_type": "同白",
           "musical_style": null,
           "style_family": null,
@@ -1443,7 +1829,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "是啦。\n店家，店家！"
+          "text": "是啦。"
+        },
+        {
+          "character": "樊虎",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "店家，店家！"
         },
         {
           "character": null,
@@ -1569,7 +1962,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "且住，秦二哥在前面走，俺在后面赶，赶至此处，因何不见？来此已是三家店。\n想是二哥住在此店，待俺也投宿了罢。\n店家，店家，呔！店家！"
+          "text": "且住，秦二哥在前面走，俺在后面赶，赶至此处，因何不见？来此已是三家店。"
+        },
+        {
+          "character": "史大奈",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "想是二哥住在此店，待俺也投宿了罢。"
+        },
+        {
+          "character": "史大奈",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "店家，店家，呔！店家！"
         },
         {
           "character": null,
@@ -1709,7 +2116,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "哼，他倒会讲话呀！\n那一汉子，我看你面黄肌瘦，莫非有病么？"
+          "text": "哼，他倒会讲话呀！"
+        },
+        {
+          "character": "史大奈",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "那一汉子，我看你面黄肌瘦，莫非有病么？"
         },
         {
           "character": "秦琼",
@@ -1723,7 +2137,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "俺不为你的病，还不来呢。这有膏药两张，丸药一包，将膏药贴在前心一张，\n后心一张。再将这丸药，一更天吃下，二更天发燥，到了三更，就要动手动脚\n的了。"
+          "text": "俺不为你的病，还不来呢。这有膏药两张，丸药一包，将膏药贴在前心一张，"
+        },
+        {
+          "character": "史大奈",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "后心一张。再将这丸药，一更天吃下，二更天发燥，到了三更，就要动手动脚"
+        },
+        {
+          "character": "史大奈",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "的了。"
         },
         {
           "character": "秦琼",
@@ -1786,7 +2214,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "咦！这个混帐东西，他倒耍起俺来了。待我吓他一吓。\n你近前来！"
+          "text": "咦！这个混帐东西，他倒耍起俺来了。待我吓他一吓。"
+        },
+        {
+          "character": "史大奈",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "你近前来！"
         },
         {
           "character": null,
@@ -1821,7 +2256,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "将你的肚皮剥开，把肝、肺、肠、肚，取了出来，用凉水洗把洗把，再装进里\n面，用药针缝上，就好了。"
+          "text": "将你的肚皮剥开，把肝、肺、肠、肚，取了出来，用凉水洗把洗把，再装进里"
+        },
+        {
+          "character": "史大奈",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "面，用药针缝上，就好了。"
         },
         {
           "character": "店家",
@@ -1849,7 +2291,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "去你娘的！\n俺在哪里歇息？"
+          "text": "去你娘的！"
+        },
+        {
+          "character": "史大奈",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "俺在哪里歇息？"
         },
         {
           "character": "店家",
@@ -1877,7 +2326,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "店家！今晚三更时分，若有风吹草动，你不要出来；你若出来，我就是这一刀……\n要了你的狗命！"
+          "text": "店家！今晚三更时分，若有风吹草动，你不要出来；你若出来，我就是这一刀……"
+        },
+        {
+          "character": "史大奈",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "要了你的狗命！"
         },
         {
           "character": null,
@@ -1919,7 +2375,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "随我来。\n这屋里。"
+          "text": "随我来。"
+        },
+        {
+          "character": "店家",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "这屋里。"
         },
         {
           "character": null,
@@ -1940,7 +2403,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "那我可担待不起。我倒有个主意，这么办，把他两条腿、一只手，捆在一块儿，\n吊起来，他还跑得了吗？这还有个名堂儿——"
+          "text": "那我可担待不起。我倒有个主意，这么办，把他两条腿、一只手，捆在一块儿，"
+        },
+        {
+          "character": "店家",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "吊起来，他还跑得了吗？这还有个名堂儿——"
         },
         {
           "character": "王周",
@@ -1975,7 +2445,14 @@
           "line_type": "二黄散板",
           "musical_style": "二黄散板",
           "style_family": "二黄",
-          "text": "凤凰单翼忙吊起，\n谅他插翅也难飞。"
+          "text": "凤凰单翼忙吊起，"
+        },
+        {
+          "character": "王周",
+          "line_type": "二黄散板",
+          "musical_style": "二黄散板",
+          "style_family": "二黄",
+          "text": "谅他插翅也难飞。"
         },
         {
           "character": "店家",
@@ -2017,7 +2494,35 @@
           "line_type": "二黄慢板",
           "musical_style": "二黄慢板",
           "style_family": "二黄",
-          "text": "在店中吊上竿威风难展，\n想起了众家兄弟结义金兰。\n人在难中有苦难言。\n咬金、俊达、金甲、童环。\n燕山罗成相见难！"
+          "text": "在店中吊上竿威风难展，"
+        },
+        {
+          "character": "秦琼",
+          "line_type": "二黄慢板",
+          "musical_style": "二黄慢板",
+          "style_family": "二黄",
+          "text": "想起了众家兄弟结义金兰。"
+        },
+        {
+          "character": "秦琼",
+          "line_type": "二黄慢板",
+          "musical_style": "二黄慢板",
+          "style_family": "二黄",
+          "text": "人在难中有苦难言。"
+        },
+        {
+          "character": "秦琼",
+          "line_type": "二黄慢板",
+          "musical_style": "二黄慢板",
+          "style_family": "二黄",
+          "text": "咬金、俊达、金甲、童环。"
+        },
+        {
+          "character": "秦琼",
+          "line_type": "二黄慢板",
+          "musical_style": "二黄慢板",
+          "style_family": "二黄",
+          "text": "燕山罗成相见难！"
         },
         {
           "character": "秦琼",
@@ -2045,21 +2550,56 @@
           "line_type": "二黄散板",
           "musical_style": "二黄散板",
           "style_family": "二黄",
-          "text": "听他言来心内惊，\n为何暗地道罗成？\n罗成是你什么人？"
-        },
-        {
-          "character": "走向前来将他问、秦琼",
-          "line_type": "二黄散板",
-          "musical_style": "二黄散板",
-          "style_family": "二黄",
-          "text": "差官不必将我问，\n我与罗成姑表亲。"
+          "text": "听他言来心内惊，"
         },
         {
           "character": "王周",
           "line_type": "二黄散板",
           "musical_style": "二黄散板",
           "style_family": "二黄",
-          "text": "听他言来才知情，\n原来是我罗门的姑表亲。"
+          "text": "为何暗地道罗成？"
+        },
+        {
+          "character": "王周",
+          "line_type": "二黄散板",
+          "musical_style": "二黄散板",
+          "style_family": "二黄",
+          "text": "罗成是你什么人？"
+        },
+        {
+          "character": "王周",
+          "line_type": "二黄散板",
+          "musical_style": "二黄散板",
+          "style_family": "二黄",
+          "text": "走向前来将他问"
+        },
+        {
+          "character": "秦琼",
+          "line_type": "二黄散板",
+          "musical_style": "二黄散板",
+          "style_family": "二黄",
+          "text": "差官不必将我问，"
+        },
+        {
+          "character": "秦琼",
+          "line_type": "二黄散板",
+          "musical_style": "二黄散板",
+          "style_family": "二黄",
+          "text": "我与罗成姑表亲。"
+        },
+        {
+          "character": "王周",
+          "line_type": "二黄散板",
+          "musical_style": "二黄散板",
+          "style_family": "二黄",
+          "text": "听他言来才知情，"
+        },
+        {
+          "character": "王周",
+          "line_type": "二黄散板",
+          "musical_style": "二黄散板",
+          "style_family": "二黄",
+          "text": "原来是我罗门的姑表亲。"
         },
         {
           "character": null,
@@ -2080,14 +2620,28 @@
           "line_type": "二黄散板",
           "musical_style": "二黄散板",
           "style_family": "二黄",
-          "text": "二哥不必将弟问，\n罗周就是小弟的名。"
+          "text": "二哥不必将弟问，"
+        },
+        {
+          "character": "王周",
+          "line_type": "二黄散板",
+          "musical_style": "二黄散板",
+          "style_family": "二黄",
+          "text": "罗周就是小弟的名。"
         },
         {
           "character": "秦琼",
           "line_type": "二黄散板",
           "musical_style": "二黄散板",
           "style_family": "二黄",
-          "text": "不该不该大不该，\n不该将兄吊起来！"
+          "text": "不该不该大不该，"
+        },
+        {
+          "character": "秦琼",
+          "line_type": "二黄散板",
+          "musical_style": "二黄散板",
+          "style_family": "二黄",
+          "text": "不该将兄吊起来！"
         },
         {
           "character": "王周",
@@ -2101,7 +2655,14 @@
           "line_type": "二黄散板",
           "musical_style": "二黄散板",
           "style_family": "二黄",
-          "text": "你不知来我不怪，\n弟兄对坐叙开怀。"
+          "text": "你不知来我不怪，"
+        },
+        {
+          "character": "秦琼",
+          "line_type": "二黄散板",
+          "musical_style": "二黄散板",
+          "style_family": "二黄",
+          "text": "弟兄对坐叙开怀。"
         },
         {
           "character": null,
@@ -2248,7 +2809,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "这倒使得。\n罗贤弟见过史贤弟。"
+          "text": "这倒使得。"
+        },
+        {
+          "character": "秦琼",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "罗贤弟见过史贤弟。"
         },
         {
           "character": "王周",
@@ -2353,7 +2921,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "两膀疼痛，难以提笔。\nh"
+          "text": "两膀疼痛，难以提笔。"
+        },
+        {
+          "character": "秦琼",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "h"
         }
       ],
       "interactions": [
@@ -2456,7 +3031,17 @@
           "西皮摇板",
           "西皮流水板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.097,
+        0.3,
+        0.6895,
+        0.0105,
+        0.6614,
+        9,
+        0.1579,
+        0.1211
+      ]
     },
     {
       "scene_index": 7,
@@ -2482,7 +3067,7 @@
           "text": "（魏征、徐勣、尤俊达、单雄信、齐国远、王伯党、谢映登、罗成同上。）"
         },
         {
-          "character": null,
+          "character": "罗成",
           "line_type": "同白",
           "musical_style": null,
           "style_family": null,
@@ -2828,7 +3413,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0625,
+        0.9062,
+        0.0312,
+        0.7742,
+        10,
+        0.0312,
+        0.0
+      ]
     },
     {
       "scene_index": 8,
@@ -3196,7 +3791,17 @@
           "二黄散板",
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.214,
+        0.3056,
+        0.6389,
+        0.0556,
+        0.6857,
+        3,
+        0.0278,
+        0.2778
+      ]
     },
     {
       "scene_index": 9,
@@ -3473,7 +4078,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.85,
+        6,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 10,
@@ -4156,7 +4771,17 @@
           "二黄导板",
           "二黄散板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.102,
+        0.1791,
+        0.806,
+        0.0149,
+        0.8636,
+        7,
+        0.0,
+        0.1791
+      ]
     },
     {
       "scene_index": 11,
@@ -4431,7 +5056,17 @@
           "西皮快板",
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.222,
+        0.3333,
+        0.625,
+        0.0417,
+        0.6522,
+        4,
+        0.3333,
+        0.0
+      ]
     },
     {
       "scene_index": 12,
@@ -4454,7 +5089,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 13,
@@ -4561,7 +5206,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.8333,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 14,
@@ -4801,7 +5456,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.8235,
+        6,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 15,
@@ -4945,7 +5610,17 @@
         "musical_styles": [
           "西皮流水板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.1,
+        0.1,
+        0.9,
+        0.0,
+        0.8889,
+        5,
+        0.1,
+        0.0
+      ]
     }
   ]
 }

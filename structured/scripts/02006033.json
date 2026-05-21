@@ -90,7 +90,28 @@
           "line_type": "念",
           "musical_style": null,
           "style_family": null,
-          "text": "自家名唤爰爰，修炼道气完全。也会餐霞吸露，也会拜斗谈元。\n才得人形略似，便从二窟乔迁。今日是非寂寞，喜遇二位英贤。\n一位夫人白骨，一位黄袍大仙。二人神通广大，仗他一点道元。\n略略显些灵验，顷刻盖造幡轩。特邀黄袍神圣，同去受享祭筵。"
+          "text": "自家名唤爰爰，修炼道气完全。也会餐霞吸露，也会拜斗谈元。"
+        },
+        {
+          "character": "爰爰道人",
+          "line_type": "念",
+          "musical_style": null,
+          "style_family": null,
+          "text": "才得人形略似，便从二窟乔迁。今日是非寂寞，喜遇二位英贤。"
+        },
+        {
+          "character": "爰爰道人",
+          "line_type": "念",
+          "musical_style": null,
+          "style_family": null,
+          "text": "一位夫人白骨，一位黄袍大仙。二人神通广大，仗他一点道元。"
+        },
+        {
+          "character": "爰爰道人",
+          "line_type": "念",
+          "musical_style": null,
+          "style_family": null,
+          "text": "略略显些灵验，顷刻盖造幡轩。特邀黄袍神圣，同去受享祭筵。"
         },
         {
           "character": "爰爰道人",
@@ -146,14 +167,35 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "俺，黄袍大仙是也。\n爰爰道人，某听你言：福庇这安乐镇，居民受某许多德泽，并无一些祭敬，是\n何意思？想是你都侵食了。"
+          "text": "俺，黄袍大仙是也。"
         },
         {
           "character": "爰爰道人",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "这怎么敢？爰爰偷嘴，不过小意思。怎敢大弄神通，欺瞒大王？今日庙宇完工，\n众乡民备着猪羊果品，彩亭鼓乐，迎送进庙。特来请大王赴会。"
+          "text": "爰爰道人，某听你言：福庇这安乐镇，居民受某许多德泽，并无一些祭敬，是"
+        },
+        {
+          "character": "爰爰道人",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "何意思？想是你都侵食了。"
+        },
+        {
+          "character": "爰爰道人",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "这怎么敢？爰爰偷嘴，不过小意思。怎敢大弄神通，欺瞒大王？今日庙宇完工，"
+        },
+        {
+          "character": "爰爰道人",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "众乡民备着猪羊果品，彩亭鼓乐，迎送进庙。特来请大王赴会。"
         },
         {
           "character": "黄袍大仙",
@@ -253,7 +295,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.7368,
+        0.2632,
+        0.4444,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -279,7 +331,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "众乡亲，不得听信妖人之言。倘官府知道，祸连一方，不是玩的。请早休息，\n各务生理。"
+          "text": "众乡亲，不得听信妖人之言。倘官府知道，祸连一方，不是玩的。请早休息，"
+        },
+        {
+          "character": "闻仁",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "各务生理。"
         },
         {
           "character": "众乡民",
@@ -307,7 +366,21 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "尊声列位听吾言，\n三教本是正宗传。\n抛去本业不安全。"
+          "text": "尊声列位听吾言，"
+        },
+        {
+          "character": "闻仁",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "三教本是正宗传。"
+        },
+        {
+          "character": "闻仁",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "抛去本业不安全。"
         },
         {
           "character": "闻仁",
@@ -321,10 +394,38 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "王章三尺垂邦宪，\n妖道旁门乱胡言。\n即速归正莫迟延。"
+          "text": "王章三尺垂邦宪，"
         },
         {
-          "character": "愚民若被狂言煽、料尔皈依难比佛、爰爰道人",
+          "character": "闻仁",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "妖道旁门乱胡言。"
+        },
+        {
+          "character": "闻仁",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "即速归正莫迟延。"
+        },
+        {
+          "character": "闻仁",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "愚民若被狂言煽"
+        },
+        {
+          "character": "闻仁",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "料尔皈依难比佛"
+        },
+        {
+          "character": "爰爰道人",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -342,7 +443,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "替天行道我不信，\n蛊惑众人是真情。"
+          "text": "替天行道我不信，"
+        },
+        {
+          "character": "闻仁",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "蛊惑众人是真情。"
         },
         {
           "character": "爰爰道人",
@@ -356,7 +464,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "神圣威灵原有惑，\n讲甚王法与阴愆。"
+          "text": "神圣威灵原有惑，"
+        },
+        {
+          "character": "闻仁",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "讲甚王法与阴愆。"
         },
         {
           "character": "爰爰道人",
@@ -384,14 +499,28 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "正要前去当面讲，\n昌黎曾祭又何妨！"
+          "text": "正要前去当面讲，"
+        },
+        {
+          "character": "闻仁",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "昌黎曾祭又何妨！"
         },
         {
           "character": "闻仁",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "你是何处木鬼山魈，敢来俺镇上兴妖作怪？你如今若能降下一阵风雪，我信你\n是位正神。"
+          "text": "你是何处木鬼山魈，敢来俺镇上兴妖作怪？你如今若能降下一阵风雪，我信你"
+        },
+        {
+          "character": "闻仁",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "是位正神。"
         },
         {
           "character": "爰爰道人",
@@ -510,7 +639,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "不是张道陵，倒是一位有识之士。张道陵降魔要符咒，相公降魔只动口。可不\n道："
+          "text": "不是张道陵，倒是一位有识之士。张道陵降魔要符咒，相公降魔只动口。可不"
+        },
+        {
+          "character": "乡民甲",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "道："
         },
         {
           "character": "乡民甲",
@@ -585,7 +721,17 @@
         "singing_ratio": 0.107,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.107,
+        0.3111,
+        0.6667,
+        0.0222,
+        0.5455,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -607,14 +753,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "我正在作难，偏偏我的黄袍祖宗，你方才哪里去了？为何不似往日显圣了？弄\n我出这场大丑。"
+          "text": "我正在作难，偏偏我的黄袍祖宗，你方才哪里去了？为何不似往日显圣了？弄"
+        },
+        {
+          "character": "爰爰道人",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我出这场大丑。"
         },
         {
           "character": "黄袍大仙",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "大丑？你这小丑，你不知道往日显圣，只好吓那班村夫俗子。闻生是个正人，\n他乃文曲星降凡，魁光射斗，我怎么近得他？"
+          "text": "大丑？你这小丑，你不知道往日显圣，只好吓那班村夫俗子。闻生是个正人，"
+        },
+        {
+          "character": "黄袍大仙",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "他乃文曲星降凡，魁光射斗，我怎么近得他？"
         },
         {
           "character": "爰爰道人",
@@ -699,7 +859,17 @@
         "singing_ratio": 0.125,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.125,
+        0.25,
+        0.75,
+        0.0,
+        0.6364,
+        2,
+        0.0,
+        0.0
+      ]
     }
   ]
 }

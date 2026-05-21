@@ -392,7 +392,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "我，少傧相的便是。今天是六月十七，明天是十八，乃是个好日子，娶媳妇的\n多，我们当傧相的可就忙了。我不免请出我爸爸跟他商量商量。\n爸爸有请。"
+          "text": "我，少傧相的便是。今天是六月十七，明天是十八，乃是个好日子，娶媳妇的"
+        },
+        {
+          "character": "少傧相",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "多，我们当傧相的可就忙了。我不免请出我爸爸跟他商量商量。"
+        },
+        {
+          "character": "少傧相",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "爸爸有请。"
         },
         {
           "character": null,
@@ -448,7 +462,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "怎么着，明天就十八了。不是你提，我倒真忘了。明天是个好日子，咱们爷俩\n可够忙的。"
+          "text": "怎么着，明天就十八了。不是你提，我倒真忘了。明天是个好日子，咱们爷俩"
+        },
+        {
+          "character": "老傧相",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "可够忙的。"
         },
         {
           "character": "少傧相",
@@ -490,7 +511,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "这四处的事情，就够咱们忙的。赵家不要提，单说周家和薛家，那都是有钱的\n财主！"
+          "text": "这四处的事情，就够咱们忙的。赵家不要提，单说周家和薛家，那都是有钱的"
+        },
+        {
+          "character": "老傧相",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "财主！"
         },
         {
           "character": "少傧相",
@@ -539,14 +567,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "您想啊！多大的喜事我没有给人张罗过？怎么这会单让我上赵家那么穷的人家\n去呀？您这不是势利眼吗？"
+          "text": "您想啊！多大的喜事我没有给人张罗过？怎么这会单让我上赵家那么穷的人家"
+        },
+        {
+          "character": "少傧相",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "去呀？您这不是势利眼吗？"
         },
         {
           "character": "老傧相",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "得了别说了！好孩子！你也够势利眼的。他家穷也得给咱们钱，富也得给咱们\n钱。这话又说回来了：要没有我这个老势利眼，哪儿有你这个小势利眼哪！"
+          "text": "得了别说了！好孩子！你也够势利眼的。他家穷也得给咱们钱，富也得给咱们"
+        },
+        {
+          "character": "老傧相",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "钱。这话又说回来了：要没有我这个老势利眼，哪儿有你这个小势利眼哪！"
         },
         {
           "character": "少傧相",
@@ -560,7 +602,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "别抬杠了！不论谁上谁家去吧！想法子把钱赚到家才成！明天你还是上赵家去\n吧！"
+          "text": "别抬杠了！不论谁上谁家去吧！想法子把钱赚到家才成！明天你还是上赵家去"
+        },
+        {
+          "character": "老傧相",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "吧！"
         },
         {
           "character": "少傧相",
@@ -618,7 +667,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.9429,
+        0.0571,
+        0.7647,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -655,24 +714,66 @@
           "line_type": "二黄散板",
           "musical_style": "二黄散板",
           "style_family": "二黄",
-          "text": "这几日为小姐出阁期到，\n阖府中上与下昼夜奔劳。"
-        },
-        {
-          "character": "薛良",
-          "line_type": "白",
-          "musical_style": null,
-          "style_family": null,
-          "text": "我薛良，在薛府为奴，老夫人性情不好，明日乃是我家小姐于归之期，老夫人\n要与小姐绣个锁麟囊，以祝小姐早生贵子。老夫人命我挑选花样，前日绣了一\n个，不称小姐心意，老夫人命我去换，近日才得绣好，不免呈与小姐观看，不\n知可称小姐心意啊！"
+          "text": "这几日为小姐出阁期到，"
         },
         {
           "character": "薛良",
           "line_type": "二黄散板",
           "musical_style": "二黄散板",
           "style_family": "二黄",
-          "text": "这也是娇养儿天生性傲，\n全不念老娘亲生养劬劳；"
+          "text": "阖府中上与下昼夜奔劳。"
         },
         {
-          "character": "为一个锁麟囊东颠西跑、胡婆",
+          "character": "薛良",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我薛良，在薛府为奴，老夫人性情不好，明日乃是我家小姐于归之期，老夫人"
+        },
+        {
+          "character": "薛良",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "要与小姐绣个锁麟囊，以祝小姐早生贵子。老夫人命我挑选花样，前日绣了一"
+        },
+        {
+          "character": "薛良",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "个，不称小姐心意，老夫人命我去换，近日才得绣好，不免呈与小姐观看，不"
+        },
+        {
+          "character": "薛良",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "知可称小姐心意啊！"
+        },
+        {
+          "character": "薛良",
+          "line_type": "二黄散板",
+          "musical_style": "二黄散板",
+          "style_family": "二黄",
+          "text": "这也是娇养儿天生性傲，"
+        },
+        {
+          "character": "薛良",
+          "line_type": "二黄散板",
+          "musical_style": "二黄散板",
+          "style_family": "二黄",
+          "text": "全不念老娘亲生养劬劳；"
+        },
+        {
+          "character": "薛良",
+          "line_type": "二黄散板",
+          "musical_style": "二黄散板",
+          "style_family": "二黄",
+          "text": "为一个锁麟囊东颠西跑"
+        },
+        {
+          "character": "胡婆",
           "line_type": "内白",
           "musical_style": null,
           "style_family": null,
@@ -704,7 +805,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "老管家，老夫人叫我们准备嫁妆，咱们小姐老嫌不好，叫我们去换；我们这是\n给她换来了，你看小姐这是什么脾气呀？这也不好，那也不好！"
+          "text": "老管家，老夫人叫我们准备嫁妆，咱们小姐老嫌不好，叫我们去换；我们这是"
+        },
+        {
+          "character": "胡婆",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "给她换来了，你看小姐这是什么脾气呀？这也不好，那也不好！"
         },
         {
           "character": "薛良",
@@ -795,7 +903,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "您就别发愁啦，进去得啦。别发愁啦，跟我进来——啊，梅香这个丫头往哪里\n去啦？"
+          "text": "您就别发愁啦，进去得啦。别发愁啦，跟我进来——啊，梅香这个丫头往哪里"
+        },
+        {
+          "character": "胡婆",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "去啦？"
         },
         {
           "character": "薛良",
@@ -844,7 +959,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "你们在这儿嚷什么呀？你不知道小姐刚消了气，老夫人在那儿睡晌觉！要是吵\n了老夫人，咱们都要挨说啦。喂，你们的东西都换齐了吗？"
+          "text": "你们在这儿嚷什么呀？你不知道小姐刚消了气，老夫人在那儿睡晌觉！要是吵"
+        },
+        {
+          "character": "梅香",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "了老夫人，咱们都要挨说啦。喂，你们的东西都换齐了吗？"
         },
         {
           "character": "薛良、王青、薛顺、胡婆",
@@ -1040,7 +1162,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "莲、瓣、用……我说小姐，您说的太细致，我记不清楚，干脆您到前庭，亲自\n告诉他们来吧。"
+          "text": "莲、瓣、用……我说小姐，您说的太细致，我记不清楚，干脆您到前庭，亲自"
+        },
+        {
+          "character": "梅香",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "告诉他们来吧。"
         },
         {
           "character": "薛湘灵",
@@ -1082,7 +1211,21 @@
           "line_type": "四平调",
           "musical_style": "四平调",
           "style_family": "四平调",
-          "text": "怕流水年华春去渺，\n一样心情百样娇。\n如意珠儿手未操，啊，手未操。"
+          "text": "怕流水年华春去渺，"
+        },
+        {
+          "character": "薛湘灵",
+          "line_type": "四平调",
+          "musical_style": "四平调",
+          "style_family": "四平调",
+          "text": "一样心情百样娇。"
+        },
+        {
+          "character": "薛湘灵",
+          "line_type": "四平调",
+          "musical_style": "四平调",
+          "style_family": "四平调",
+          "text": "如意珠儿手未操，啊，手未操。"
         },
         {
           "character": "薛湘灵",
@@ -1092,11 +1235,25 @@
           "text": "这花衫儿样儿不好，要配那鸳鸯戏水的样儿，越发的不中看了，真真令人生气！"
         },
         {
-          "character": "非是我心情多骄傲、梅香",
+          "character": "薛湘灵",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "我说小姐，您嫌这花裳花样不好呀，不要紧的，我去把朱妈妈找来，叫她给做\n一件，您说好不好呀？"
+          "text": "非是我心情多骄傲"
+        },
+        {
+          "character": "梅香",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我说小姐，您嫌这花裳花样不好呀，不要紧的，我去把朱妈妈找来，叫她给做"
+        },
+        {
+          "character": "梅香",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "一件，您说好不好呀？"
         },
         {
           "character": "薛湘灵",
@@ -1110,7 +1267,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "那么我去找去。\n王青你把这花鞋交给我，你把朱妈妈找来，就说小姐找她做衣裳哪。"
+          "text": "那么我去找去。"
+        },
+        {
+          "character": "梅香",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "王青你把这花鞋交给我，你把朱妈妈找来，就说小姐找她做衣裳哪。"
         },
         {
           "character": "王青",
@@ -1131,7 +1295,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "快着去。\n我说薛顺哪，你们东西换了没有哇？"
+          "text": "快着去。"
+        },
+        {
+          "character": "梅香",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我说薛顺哪，你们东西换了没有哇？"
         },
         {
           "character": "薛顺",
@@ -1159,7 +1330,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "小姐，您瞧这块手绢好不好哇？您瞧吧，够多么漂亮。\n唉，我知道啦，小姐嫌这块手绢太花哨啦吧？不要紧的，我再叫他给您换一块\n去。\n啊，薛顺，小姐喜欢素净的，再拿回去换一块吧。"
+          "text": "小姐，您瞧这块手绢好不好哇？您瞧吧，够多么漂亮。"
+        },
+        {
+          "character": "梅香",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "唉，我知道啦，小姐嫌这块手绢太花哨啦吧？不要紧的，我再叫他给您换一块"
+        },
+        {
+          "character": "梅香",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "去。"
+        },
+        {
+          "character": "梅香",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "啊，薛顺，小姐喜欢素净的，再拿回去换一块吧。"
         },
         {
           "character": "薛顺",
@@ -1222,7 +1414,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "对啦，您去吧，您又不是外人。\n小姐，胡妈妈来啦！"
+          "text": "对啦，您去吧，您又不是外人。"
+        },
+        {
+          "character": "梅香",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "小姐，胡妈妈来啦！"
         },
         {
           "character": "胡婆",
@@ -1243,7 +1442,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "又吉祥，又好看，您中意吗？中意啦，那么我就给您放在这儿啦，小姐，您要\n中意的话，我就到下边歇着去啦？"
+          "text": "又吉祥，又好看，您中意吗？中意啦，那么我就给您放在这儿啦，小姐，您要"
+        },
+        {
+          "character": "胡婆",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "中意的话，我就到下边歇着去啦？"
         },
         {
           "character": "薛湘灵",
@@ -1341,7 +1547,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "我说小姐，东西我都给您摆好啦，您自己来瞧吧。小姐，您看这花样好不好？\n您再瞧瞧这对花瓶还是富贵白头哪。小姐您瞧，小姐，您再瞧瞧这个锁麟囊，\n好不好呀？"
+          "text": "我说小姐，东西我都给您摆好啦，您自己来瞧吧。小姐，您看这花样好不好？"
+        },
+        {
+          "character": "梅香",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "您再瞧瞧这对花瓶还是富贵白头哪。小姐您瞧，小姐，您再瞧瞧这个锁麟囊，"
+        },
+        {
+          "character": "梅香",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "好不好呀？"
         },
         {
           "character": null,
@@ -1355,10 +1575,38 @@
           "line_type": "四平调",
           "musical_style": "四平调",
           "style_family": "四平调",
-          "text": "仔细观瞧，自己选挑，\n锁麟囊上彩云飘。\n是麒麟为何生双角？\n好似青牛与野麃。"
+          "text": "仔细观瞧，自己选挑，"
         },
         {
-          "character": "是何人将囊来买到、梅香",
+          "character": "薛湘灵",
+          "line_type": "四平调",
+          "musical_style": "四平调",
+          "style_family": "四平调",
+          "text": "锁麟囊上彩云飘。"
+        },
+        {
+          "character": "薛湘灵",
+          "line_type": "四平调",
+          "musical_style": "四平调",
+          "style_family": "四平调",
+          "text": "是麒麟为何生双角？"
+        },
+        {
+          "character": "薛湘灵",
+          "line_type": "四平调",
+          "musical_style": "四平调",
+          "style_family": "四平调",
+          "text": "好似青牛与野麃。"
+        },
+        {
+          "character": "薛湘灵",
+          "line_type": "四平调",
+          "musical_style": "四平调",
+          "style_family": "四平调",
+          "text": "是何人将囊来买到"
+        },
+        {
+          "character": "梅香",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -1383,7 +1631,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "我知道啦。\n老大爷，您拿回去再换换吧！"
+          "text": "我知道啦。"
+        },
+        {
+          "character": "梅香",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "老大爷，您拿回去再换换吧！"
         },
         {
           "character": "薛良",
@@ -1411,7 +1666,14 @@
           "line_type": "二黄散板",
           "musical_style": "二黄散板",
           "style_family": "二黄",
-          "text": "闻一言不由我珠泪双掉，\n为什么不称心又把头摇？"
+          "text": "闻一言不由我珠泪双掉，"
+        },
+        {
+          "character": "薛良",
+          "line_type": "二黄散板",
+          "musical_style": "二黄散板",
+          "style_family": "二黄",
+          "text": "为什么不称心又把头摇？"
         },
         {
           "character": null,
@@ -1495,7 +1757,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "罢了，一旁坐下。\n唗，大胆薛良，你乃是我家三世老奴，必知小姐的性情，怎么换来换去，花样\n总是不好，惹得你家小姐生气，其情可恼。还不与我再去换来！"
+          "text": "罢了，一旁坐下。"
+        },
+        {
+          "character": "薛夫人",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "唗，大胆薛良，你乃是我家三世老奴，必知小姐的性情，怎么换来换去，花样"
+        },
+        {
+          "character": "薛夫人",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "总是不好，惹得你家小姐生气，其情可恼。还不与我再去换来！"
         },
         {
           "character": "薛良",
@@ -1579,7 +1855,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "好女儿，乖女儿，明日吉期到了，为娘与你绣了个锁麟囊，以祝早生贵子呀。\n啊！你为何不语？再要不言不语，为娘我就要生气了！"
+          "text": "好女儿，乖女儿，明日吉期到了，为娘与你绣了个锁麟囊，以祝早生贵子呀。"
+        },
+        {
+          "character": "薛夫人",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "啊！你为何不语？再要不言不语，为娘我就要生气了！"
         },
         {
           "character": null,
@@ -1621,7 +1904,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "好女儿，乖女儿，为了出嫁之事，羞得你这般光景，你自己不肯明言，好好好。\n梅香！"
+          "text": "好女儿，乖女儿，为了出嫁之事，羞得你这般光景，你自己不肯明言，好好好。"
+        },
+        {
+          "character": "薛夫人",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "梅香！"
         },
         {
           "character": "梅香",
@@ -1670,14 +1960,28 @@
           "line_type": "四平调",
           "musical_style": "四平调",
           "style_family": "四平调",
-          "text": "仔细观瞧，仔细观瞧；\n随心所欲，自己选挑。"
+          "text": "仔细观瞧，仔细观瞧；"
+        },
+        {
+          "character": "薛夫人",
+          "line_type": "四平调",
+          "musical_style": "四平调",
+          "style_family": "四平调",
+          "text": "随心所欲，自己选挑。"
         },
         {
           "character": "薛夫人",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "啊女儿，这是夜明珠，乃无价之宝，是我们家传之物，喏喏喏，我与你装在这\n麟囊之内，你还有什么不称心的么？"
+          "text": "啊女儿，这是夜明珠，乃无价之宝，是我们家传之物，喏喏喏，我与你装在这"
+        },
+        {
+          "character": "薛夫人",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "麟囊之内，你还有什么不称心的么？"
         },
         {
           "character": "薛湘灵",
@@ -1698,7 +2002,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "不是这样讲，我们本地的乡风，女子出嫁，必有这锁麟囊，多装珠宝，祝你麟\n儿早降之意呀。来来来这是赤金链儿——来，也与我儿装在里面。"
+          "text": "不是这样讲，我们本地的乡风，女子出嫁，必有这锁麟囊，多装珠宝，祝你麟"
+        },
+        {
+          "character": "薛夫人",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "儿早降之意呀。来来来这是赤金链儿——来，也与我儿装在里面。"
         },
         {
           "character": "梅香",
@@ -1864,7 +2175,17 @@
           "二黄散板",
           "四平调"
         ]
-      }
+      },
+      "scene_feature": [
+        0.048,
+        0.1379,
+        0.8621,
+        0.0,
+        0.6936,
+        9,
+        0.0,
+        0.0632
+      ]
     },
     {
       "scene_index": 3,
@@ -1886,7 +2207,35 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "唉！想我赵禄寒，家道中落，半世清贫，明日乃是我女儿新婚之期，卢家送来\n聘礼，倒也去的。是我外出借贷，分文未曾借到，我只好急速回家，与我那女\n儿说明便了。到了自家门首。且住！见了我那女儿，她若问我妆奁之事，我是\n何言答对！这，这，这便如何是好……哎，我若不回去，我那女儿一定要盼望\n与我；还是叫门的是！"
+          "text": "唉！想我赵禄寒，家道中落，半世清贫，明日乃是我女儿新婚之期，卢家送来"
+        },
+        {
+          "character": "赵禄寒",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "聘礼，倒也去的。是我外出借贷，分文未曾借到，我只好急速回家，与我那女"
+        },
+        {
+          "character": "赵禄寒",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "儿说明便了。到了自家门首。且住！见了我那女儿，她若问我妆奁之事，我是"
+        },
+        {
+          "character": "赵禄寒",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "何言答对！这，这，这便如何是好……哎，我若不回去，我那女儿一定要盼望"
+        },
+        {
+          "character": "赵禄寒",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "与我；还是叫门的是！"
         },
         {
           "character": null,
@@ -1900,7 +2249,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "女儿开门来。\n嗳！想我虽然贫穷，怎么竟连自己的女儿都不敢高声叫了么？\n女儿开门来！"
+          "text": "女儿开门来。"
+        },
+        {
+          "character": "赵禄寒",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "嗳！想我虽然贫穷，怎么竟连自己的女儿都不敢高声叫了么？"
+        },
+        {
+          "character": "赵禄寒",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "女儿开门来！"
         },
         {
           "character": "赵守贞",
@@ -1921,7 +2284,14 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "薄命人岂敢怨穷居陋巷，\n为出聘累我父终日奔忙；"
+          "text": "薄命人岂敢怨穷居陋巷，"
+        },
+        {
+          "character": "赵守贞",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "为出聘累我父终日奔忙；"
         },
         {
           "character": null,
@@ -1984,14 +2354,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "明日就是我儿新婚之期，看你婆家送来的聘礼，倒也去得，只是我家如今贫寒，\n妆奁一无所有；为父四处借贷，又未借到，岂不是对不起你了！"
+          "text": "明日就是我儿新婚之期，看你婆家送来的聘礼，倒也去得，只是我家如今贫寒，"
+        },
+        {
+          "character": "赵禄寒",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "妆奁一无所有；为父四处借贷，又未借到，岂不是对不起你了！"
         },
         {
           "character": "赵守贞",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "爹爹说哪里话来！想这催妆之物，俱是敷衍俗人眼目的东西，难道一无所有，\n女儿就不登花轿了么。"
+          "text": "爹爹说哪里话来！想这催妆之物，俱是敷衍俗人眼目的东西，难道一无所有，"
+        },
+        {
+          "character": "赵守贞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "女儿就不登花轿了么。"
         },
         {
           "character": "赵禄寒",
@@ -2023,7 +2407,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.154,
+        0.1429,
+        0.8571,
+        0.0,
+        0.4,
+        2,
+        0.1429,
+        0.0
+      ]
     },
     {
       "scene_index": 4,
@@ -2227,7 +2621,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 5,
@@ -2250,7 +2654,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 6,
@@ -3154,7 +3568,17 @@
           "西皮流水",
           "西皮流水板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.053,
+        0.11,
+        0.89,
+        0.0,
+        0.8889,
+        7,
+        0.1,
+        0.0
+      ]
     },
     {
       "scene_index": 7,
@@ -3194,7 +3618,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 8,
@@ -3437,7 +3871,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.048,
+        0.0476,
+        0.9524,
+        0.0,
+        1.0,
+        5,
+        0.0476,
+        0.0
+      ]
     },
     {
       "scene_index": 9,
@@ -3663,7 +4107,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.9583,
+        0.0417,
+        0.9565,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 10,
@@ -3917,7 +4371,17 @@
           "西皮摇板",
           "西皮散板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.211,
+        0.2727,
+        0.6818,
+        0.0455,
+        0.8095,
+        4,
+        0.2727,
+        0.0
+      ]
     },
     {
       "scene_index": 11,
@@ -4111,7 +4575,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.133,
+        0.125,
+        0.875,
+        0.0,
+        0.9333,
+        6,
+        0.125,
+        0.0
+      ]
     },
     {
       "scene_index": 12,
@@ -4206,7 +4680,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.333,
+        0.3333,
+        0.6667,
+        0.0,
+        0.4,
+        2,
+        0.3333,
+        0.0
+      ]
     },
     {
       "scene_index": 13,
@@ -4299,7 +4783,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.7143,
+        0.2857,
+        1.0,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 14,
@@ -4339,7 +4833,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 15,
@@ -4374,42 +4878,42 @@
           "text": "（长丝头。薛湘灵贫装上。）"
         },
         {
-          "character": null,
+          "character": "薛湘灵贫装",
           "line_type": "西皮散板",
           "musical_style": "西皮散板",
           "style_family": "西皮",
           "text": "一霎时又来到一个世界，"
         },
         {
-          "character": null,
+          "character": "薛湘灵贫装",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
           "text": "梅香、院公！"
         },
         {
-          "character": null,
+          "character": "薛湘灵贫装",
           "line_type": "西皮散板",
           "musical_style": "西皮散板",
           "style_family": "西皮",
           "text": "叫梅香唤院公为何不来？"
         },
         {
-          "character": null,
+          "character": "薛湘灵贫装",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
           "text": "官人，我饿了哇！"
         },
         {
-          "character": null,
+          "character": "薛湘灵贫装",
           "line_type": "西皮散板",
           "musical_style": "西皮散板",
           "style_family": "西皮",
           "text": "腹内饥唤郎君他他也不在，"
         },
         {
-          "character": null,
+          "character": "薛湘灵贫装",
           "line_type": "西皮散板",
           "musical_style": "西皮散板",
           "style_family": "西皮",
@@ -7462,7 +7966,17 @@
           "西皮散板",
           "西皮流水"
         ]
-      }
+      },
+      "scene_feature": [
+        0.066,
+        0.1048,
+        0.8832,
+        0.012,
+        0.9129,
+        19,
+        0.0778,
+        0.0269
+      ]
     }
   ]
 }

@@ -256,21 +256,56 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "读兵书十数年忠肝义胆，\n到如今才信得军令如山。\n见父帅方免了提心胆悬。"
-        },
-        {
-          "character": "戚勇",
-          "line_type": "白",
-          "musical_style": null,
-          "style_family": null,
-          "text": "俺戚勇。奉父帅之命，调四镇军官速赶县辕，抵挡贼寇徐海。且喜各镇兵将俱\n已起程，飞马回报便了。"
+          "text": "读兵书十数年忠肝义胆，"
         },
         {
           "character": "戚勇",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "恨水贼学黄巾陆地滋蔓，\n兵将少缺缝多元戎为难。\n方不负簪缨家食禄为官。"
+          "text": "到如今才信得军令如山。"
+        },
+        {
+          "character": "戚勇",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "见父帅方免了提心胆悬。"
+        },
+        {
+          "character": "戚勇",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "俺戚勇。奉父帅之命，调四镇军官速赶县辕，抵挡贼寇徐海。且喜各镇兵将俱"
+        },
+        {
+          "character": "戚勇",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "已起程，飞马回报便了。"
+        },
+        {
+          "character": "戚勇",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "恨水贼学黄巾陆地滋蔓，"
+        },
+        {
+          "character": "戚勇",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "兵将少缺缝多元戎为难。"
+        },
+        {
+          "character": "戚勇",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "方不负簪缨家食禄为官。"
         },
         {
           "character": null,
@@ -289,7 +324,17 @@
         "singing_ratio": 1.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        1.0,
+        0.75,
+        0.25,
+        0.0,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -424,7 +469,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.4,
+        0.6,
+        0.0,
+        1.0,
+        5,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -471,7 +526,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "本督戚继光。海寇猖獗，衷心惭愧。各镇调齐，升堂调遣。\n戚勇，传令各镇进见！"
+          "text": "本督戚继光。海寇猖獗，衷心惭愧。各镇调齐，升堂调遣。"
+        },
+        {
+          "character": "戚继光",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "戚勇，传令各镇进见！"
         },
         {
           "character": "戚勇",
@@ -492,7 +554,14 @@
           "line_type": "同白",
           "musical_style": null,
           "style_family": null,
-          "text": "报，各镇告进！\n大将军在上，末将等参见。"
+          "text": "报，各镇告进！"
+        },
+        {
+          "character": "刘显、俞大猷、卢镗、孙文炳",
+          "line_type": "同白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "大将军在上，末将等参见。"
         },
         {
           "character": "戚继光",
@@ -534,7 +603,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "末将因小将军前去，无有文凭，不敢妄动。恐其中有假，因此致书各镇，俱是\n真情。"
+          "text": "末将因小将军前去，无有文凭，不敢妄动。恐其中有假，因此致书各镇，俱是"
+        },
+        {
+          "character": "孙文炳",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "真情。"
         },
         {
           "character": "戚继光",
@@ -555,14 +631,35 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "戚勇乃本督亲生之子，世袭男爵，军务紧急，你竟敢畏缩不前？岂可致书于别\n人，按兵不举，违误军机？本应按军令施行，念在同寅之份，暂且解任，静候\n圣旨。去罢！"
+          "text": "戚勇乃本督亲生之子，世袭男爵，军务紧急，你竟敢畏缩不前？岂可致书于别"
+        },
+        {
+          "character": "戚继光",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "人，按兵不举，违误军机？本应按军令施行，念在同寅之份，暂且解任，静候"
+        },
+        {
+          "character": "戚继光",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "圣旨。去罢！"
         },
         {
           "character": "孙文炳",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "是。\n哈哈，可恼啊，可恼！"
+          "text": "是。"
+        },
+        {
+          "character": "孙文炳",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "哈哈，可恼啊，可恼！"
         },
         {
           "character": null,
@@ -576,7 +673,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "禀大将军：叶宗满暗袭处州。鄞县海太爷去顺说徐海，被留贼营，今徐海同叶\n宗满领贼众十万来袭宁波。特此报知！"
+          "text": "禀大将军：叶宗满暗袭处州。鄞县海太爷去顺说徐海，被留贼营，今徐海同叶"
+        },
+        {
+          "character": "报子",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "宗满领贼众十万来袭宁波。特此报知！"
         },
         {
           "character": "戚继光",
@@ -604,14 +708,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "啊，叶宗满何许人物，竟能取了处州？海瑞为何这等冒失，竟敢孤身前去说贼？\n忠却忠矣，智则不智。可惜！可惜！"
+          "text": "啊，叶宗满何许人物，竟能取了处州？海瑞为何这等冒失，竟敢孤身前去说贼？"
+        },
+        {
+          "character": "戚继光",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "忠却忠矣，智则不智。可惜！可惜！"
         },
         {
           "character": "刘显、俞大猷、卢镗",
           "line_type": "同白",
           "musical_style": null,
           "style_family": null,
-          "text": "海瑞死与不死，元帅何必言他。今徐海、叶宗满发贼兵十数万来围宁波，如何\n捕剿，请令定夺。"
+          "text": "海瑞死与不死，元帅何必言他。今徐海、叶宗满发贼兵十数万来围宁波，如何"
+        },
+        {
+          "character": "刘显、俞大猷、卢镗",
+          "line_type": "同白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "捕剿，请令定夺。"
         },
         {
           "character": "戚继光",
@@ -653,7 +771,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "禀大将军：宗礼奉命祭海弹压地面，送钦差回京。中途接迎夫人，护送回衙，\n特此报知。"
+          "text": "禀大将军：宗礼奉命祭海弹压地面，送钦差回京。中途接迎夫人，护送回衙，"
+        },
+        {
+          "character": "宗礼",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "特此报知。"
         },
         {
           "character": "戚继光",
@@ -765,7 +890,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "此时不能细谈。\n儿呀，拜见你义父！"
+          "text": "此时不能细谈。"
+        },
+        {
+          "character": "周氏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "儿呀，拜见你义父！"
         },
         {
           "character": "秦氏、汪彩霞",
@@ -981,7 +1113,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0164,
+        0.9508,
+        0.0328,
+        0.7,
+        12,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 4,
@@ -1059,7 +1201,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 5,
@@ -1154,7 +1306,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "不必追赶！海瑞现在吾营，孤家回去劝他归降，以成大事。\n叶将军，领了大兵，镇住海口，以防戚继光攻击。"
+          "text": "不必追赶！海瑞现在吾营，孤家回去劝他归降，以成大事。"
+        },
+        {
+          "character": "徐海",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "叶将军，领了大兵，镇住海口，以防戚继光攻击。"
         },
         {
           "character": "叶宗满",
@@ -1206,7 +1365,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.9,
+        5,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 6,
@@ -1234,7 +1403,21 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "只见这海岸旁红尘滚滚，\n旌旗号血腥气喊杀连声。\n众将官齐催马前往接应！"
+          "text": "只见这海岸旁红尘滚滚，"
+        },
+        {
+          "character": "戚继光",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "旌旗号血腥气喊杀连声。"
+        },
+        {
+          "character": "戚继光",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "众将官齐催马前往接应！"
         },
         {
           "character": "戚继光",
@@ -1276,14 +1459,35 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "唗，好孽子！水寇猖獗，出没难测，幸得天谴其来，正好扫除干净。你竟敢畏\n缩退回，要你何用？"
+          "text": "唗，好孽子！水寇猖獗，出没难测，幸得天谴其来，正好扫除干净。你竟敢畏"
+        },
+        {
+          "character": "戚继光",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "缩退回，要你何用？"
         },
         {
           "character": "戚继光",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "为父我蒙圣恩执掌帅印，\n恨不能片刻间便将贼平！\n你竟敢在前敌惧死违令？"
+          "text": "为父我蒙圣恩执掌帅印，"
+        },
+        {
+          "character": "戚继光",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "恨不能片刻间便将贼平！"
+        },
+        {
+          "character": "戚继光",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "你竟敢在前敌惧死违令？"
         },
         {
           "character": "戚继光",
@@ -1318,7 +1522,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "军需紧急之际，难以容情，列位失机，国法何辞？本帅念在敌军在旁，暂留一\n线之情，请起听令！"
+          "text": "军需紧急之际，难以容情，列位失机，国法何辞？本帅念在敌军在旁，暂留一"
+        },
+        {
+          "character": "戚继光",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "线之情，请起听令！"
         },
         {
           "character": "俞大猷、刘显、卢镗、宗礼",
@@ -1332,7 +1543,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "众将官，本帅言出似箭，令下如山，你等须努力向前，剿袭贼寇！无论大小将\n官，再有回首而退者，以戚勇示之！"
+          "text": "众将官，本帅言出似箭，令下如山，你等须努力向前，剿袭贼寇！无论大小将"
+        },
+        {
+          "character": "戚继光",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "官，再有回首而退者，以戚勇示之！"
         },
         {
           "character": null,
@@ -1374,14 +1592,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "唗，好逆贼！\n李兴与我擒住！"
+          "text": "唗，好逆贼！"
+        },
+        {
+          "character": "戚继光",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "李兴与我擒住！"
         },
         {
           "character": "李兴",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "得令。\n呔，叶宗满你可认得我么？"
+          "text": "得令。"
+        },
+        {
+          "character": "李兴",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "呔，叶宗满你可认得我么？"
         },
         {
           "character": "叶宗满",
@@ -1395,7 +1627,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "呸，老子如今不做贼了，招棍罢！\n（李兴、叶宗满同杀起，刘显、俞大猷、卢镗、宗礼同接杀，四倭将、四上手、四大铠同开打，叶宗满、八\n倭兵、八倭将同败下。）"
+          "text": "呸，老子如今不做贼了，招棍罢！"
+        },
+        {
+          "character": "李兴",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "（李兴、叶宗满同杀起，刘显、俞大猷、卢镗、宗礼同接杀，四倭将、四上手、四大铠同开打，叶宗满、八"
+        },
+        {
+          "character": "李兴",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "倭兵、八倭将同败下。）"
         },
         {
           "character": "戚继光",
@@ -1499,7 +1745,17 @@
         "singing_ratio": 0.048,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.048,
+        0.2162,
+        0.7838,
+        0.0,
+        0.5278,
+        5,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 7,
@@ -1525,10 +1781,31 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "自海上入节堂心神不定，\n但愿得大将军得胜回城！\n夫荣贵子贤孝共享升平。"
+          "text": "自海上入节堂心神不定，"
         },
         {
-          "character": "再叙谈别后话许多风景、戚继光",
+          "character": "周氏",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "但愿得大将军得胜回城！"
+        },
+        {
+          "character": "周氏",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "夫荣贵子贤孝共享升平。"
+        },
+        {
+          "character": "周氏",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "再叙谈别后话许多风景"
+        },
+        {
+          "character": "戚继光",
           "line_type": "内白",
           "musical_style": null,
           "style_family": null,
@@ -1546,7 +1823,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "虽然是为国家军务要紧，\n回辕门只觉得到底寒心。"
+          "text": "虽然是为国家军务要紧，"
+        },
+        {
+          "character": "戚继光",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "回辕门只觉得到底寒心。"
         },
         {
           "character": "周氏",
@@ -1658,7 +1942,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "这是你沽名誉有心而行，\n细思想老无才实是可恨！"
+          "text": "这是你沽名誉有心而行，"
+        },
+        {
+          "character": "周氏",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "细思想老无才实是可恨！"
         },
         {
           "character": "周氏",
@@ -1693,7 +1984,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "家事小国事大忠正为本，\n望夫人休悲伤保重要紧！"
+          "text": "家事小国事大忠正为本，"
+        },
+        {
+          "character": "戚继光",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "望夫人休悲伤保重要紧！"
         },
         {
           "character": "戚继光",
@@ -1703,32 +2001,67 @@
           "text": "夫人哪！"
         },
         {
-          "character": "我并非斩儿子钓誉沽名、周氏",
+          "character": "戚继光",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我并非斩儿子钓誉沽名"
+        },
+        {
+          "character": "周氏",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
           "text": "老无才呀！"
         },
         {
-          "character": "我并非斩儿子钓誉沽名、周氏",
+          "character": "周氏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我并非斩儿子钓誉沽名"
+        },
+        {
+          "character": "周氏",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
           "text": "你安心做绝户刻薄寡恩。"
         },
         {
-          "character": "我并非斩儿子钓誉沽名、周氏",
+          "character": "周氏",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我并非斩儿子钓誉沽名"
+        },
+        {
+          "character": "周氏",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "老无才，我且问你，满营众将岂无可用之人，何必偏要戚勇去挡头阵？就是你\n有心将他置于死地！有道是虎毒不吃子，你可狠不狠？"
+          "text": "老无才，我且问你，满营众将岂无可用之人，何必偏要戚勇去挡头阵？就是你"
+        },
+        {
+          "character": "周氏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "有心将他置于死地！有道是虎毒不吃子，你可狠不狠？"
         },
         {
           "character": "戚继光",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "夫人差矣！戚勇乃世袭男爵，况且自幼晓畅军机，国家有事之际，正当出力报\n效。临阵退缩，败后不能背城借一，不斩不足鼓励将士。请夫人三思！"
+          "text": "夫人差矣！戚勇乃世袭男爵，况且自幼晓畅军机，国家有事之际，正当出力报"
+        },
+        {
+          "character": "戚继光",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "效。临阵退缩，败后不能背城借一，不斩不足鼓励将士。请夫人三思！"
         },
         {
           "character": "周氏",
@@ -1742,7 +2075,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "虎毒狠不吃子何况人性，\n从今后你休想纳妾继子孙！"
+          "text": "虎毒狠不吃子何况人性，"
+        },
+        {
+          "character": "周氏",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "从今后你休想纳妾继子孙！"
         },
         {
           "character": "周氏",
@@ -1759,18 +2099,46 @@
           "text": "你休想续香烟过继螟蛉。"
         },
         {
-          "character": "陪着你做绝户有甚要紧、戚继光",
+          "character": "周氏",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "陪着你做绝户有甚要紧"
+        },
+        {
+          "character": "戚继光",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
           "text": "唉，夫人哪！"
         },
         {
-          "character": "陪着你做绝户有甚要紧、戚继光",
+          "character": "戚继光",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "陪着你做绝户有甚要紧"
+        },
+        {
+          "character": "戚继光",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "我今日受皇封官居一品，\n哪有个不纳妾图续子孙？\n望夫人恕此事不必争论！"
+          "text": "我今日受皇封官居一品，"
+        },
+        {
+          "character": "戚继光",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "哪有个不纳妾图续子孙？"
+        },
+        {
+          "character": "戚继光",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "望夫人恕此事不必争论！"
         },
         {
           "character": "周氏",
@@ -1798,7 +2166,21 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "既是你图纳妾假申军令，\n你与我有什么夫妻之情？\n怒冲冲与老无才拚了性命！"
+          "text": "既是你图纳妾假申军令，"
+        },
+        {
+          "character": "周氏",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "你与我有什么夫妻之情？"
+        },
+        {
+          "character": "周氏",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "怒冲冲与老无才拚了性命！"
         },
         {
           "character": null,
@@ -1854,7 +2236,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "且松手休失了夫妻情份！\n我岂肯为纳妾误斩亲生。"
+          "text": "且松手休失了夫妻情份！"
+        },
+        {
+          "character": "戚继光",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我岂肯为纳妾误斩亲生。"
         },
         {
           "character": null,
@@ -1868,7 +2257,14 @@
           "line_type": "同唱",
           "musical_style": null,
           "style_family": null,
-          "text": "后房中二小姐啼哭自尽，\n急忙忙到前堂报与夫人。"
+          "text": "后房中二小姐啼哭自尽，"
+        },
+        {
+          "character": "二丫鬟",
+          "line_type": "同唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "急忙忙到前堂报与夫人。"
         },
         {
           "character": "二丫鬟",
@@ -1903,14 +2299,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "这还得了！老东西且小心点，候我去看了女儿，再来与你说话。\n啊儿啊！"
+          "text": "这还得了！老东西且小心点，候我去看了女儿，再来与你说话。"
+        },
+        {
+          "character": "周氏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "啊儿啊！"
         },
         {
           "character": "周氏",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "可惜了英勇儿为国命尽！\n我暂到后房去看女儿身。"
+          "text": "可惜了英勇儿为国命尽！"
+        },
+        {
+          "character": "周氏",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我暂到后房去看女儿身。"
         },
         {
           "character": null,
@@ -1931,21 +2341,49 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "也是我一时错本不该应，\n临阵上斩戚勇难以问心。"
-        },
-        {
-          "character": "戚继光",
-          "line_type": "白",
-          "musical_style": null,
-          "style_family": null,
-          "text": "看来都是我之错过，难怪夫人动怒。如今她的什么女儿要寻自尽，不知却为何\n事？我进内帮着夫人劝解劝解，以表我的诚心，或可买得夫人心转，也未可知。\n就是这个主意。我去也！"
+          "text": "也是我一时错本不该应，"
         },
         {
           "character": "戚继光",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "欲买她心意转进内问讯，\n把义女且认做自己亲生。"
+          "text": "临阵上斩戚勇难以问心。"
+        },
+        {
+          "character": "戚继光",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "看来都是我之错过，难怪夫人动怒。如今她的什么女儿要寻自尽，不知却为何"
+        },
+        {
+          "character": "戚继光",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "事？我进内帮着夫人劝解劝解，以表我的诚心，或可买得夫人心转，也未可知。"
+        },
+        {
+          "character": "戚继光",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "就是这个主意。我去也！"
+        },
+        {
+          "character": "戚继光",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "欲买她心意转进内问讯，"
+        },
+        {
+          "character": "戚继光",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "把义女且认做自己亲生。"
         },
         {
           "character": null,
@@ -1995,7 +2433,17 @@
         "musical_styles": [
           "西皮导板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.125,
+        0.45,
+        0.55,
+        0.0,
+        0.3671,
+        4,
+        0.0125,
+        0.0
+      ]
     },
     {
       "scene_index": 8,
@@ -2017,7 +2465,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "好一个徐大王义气深远，\n收金银竟许我夫妻团圆。"
+          "text": "好一个徐大王义气深远，"
+        },
+        {
+          "character": "冯三元",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "收金银竟许我夫妻团圆。"
         },
         {
           "character": null,
@@ -2066,7 +2521,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "汪小姐，汪小姐，哪里去了？哪里去了？\n哎呀冯公子，汪小姐不见了！"
+          "text": "汪小姐，汪小姐，哪里去了？哪里去了？"
+        },
+        {
+          "character": "倭头目",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "哎呀冯公子，汪小姐不见了！"
         },
         {
           "character": "冯三元",
@@ -2094,21 +2556,42 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "我表妹因何故寻觅不见？\n好叫人心如醉珠泪连连。"
+          "text": "我表妹因何故寻觅不见？"
+        },
+        {
+          "character": "冯三元",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "好叫人心如醉珠泪连连。"
         },
         {
           "character": "冯三元",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "且住，汪小姐为何不见？\n唗！你这强盗，统同作弊，将她隐藏，该当何罪？"
+          "text": "且住，汪小姐为何不见？"
+        },
+        {
+          "character": "冯三元",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "唗！你这强盗，统同作弊，将她隐藏，该当何罪？"
         },
         {
           "character": "倭头目",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "唗，冯三元，你休出口伤人！汪彩霞本在孤燕岛居住，此时我寻找不见。莫非\n我家公主接到金鳌岛去了，也未可知？你何得无礼，口出乱言！"
+          "text": "唗，冯三元，你休出口伤人！汪彩霞本在孤燕岛居住，此时我寻找不见。莫非"
+        },
+        {
+          "character": "倭头目",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我家公主接到金鳌岛去了，也未可知？你何得无礼，口出乱言！"
         },
         {
           "character": "冯三元",
@@ -2122,7 +2605,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "这倒使得。\n梢公，转船往金鳌岛去者！"
+          "text": "这倒使得。"
+        },
+        {
+          "character": "倭头目",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "梢公，转船往金鳌岛去者！"
         },
         {
           "character": "冯三元",
@@ -2136,7 +2626,28 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "正所谓仗义气情重一点，\n送金银入海岛辛苦万千。\n但愿得金鳌岛相逢如愿！\n谢海神作合我夫妻重圆。"
+          "text": "正所谓仗义气情重一点，"
+        },
+        {
+          "character": "冯三元",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "送金银入海岛辛苦万千。"
+        },
+        {
+          "character": "冯三元",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "但愿得金鳌岛相逢如愿！"
+        },
+        {
+          "character": "冯三元",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "谢海神作合我夫妻重圆。"
         },
         {
           "character": null,
@@ -2165,7 +2676,17 @@
         "singing_ratio": 0.143,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.143,
+        0.3462,
+        0.6538,
+        0.0,
+        0.48,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 9,
@@ -2877,7 +3398,17 @@
         "singing_ratio": 0.082,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.082,
+        0.1899,
+        0.8101,
+        0.0,
+        0.7564,
+        7,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 10,
@@ -3366,7 +3897,17 @@
         "singing_ratio": 0.1,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.1,
+        0.1429,
+        0.8367,
+        0.0204,
+        0.7708,
+        7,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 11,
@@ -3427,7 +3968,17 @@
         "singing_ratio": 1.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        1.0,
+        0.6667,
+        0.3333,
+        0.0,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 12,
@@ -4294,7 +4845,17 @@
         "singing_ratio": 0.053,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.053,
+        0.1136,
+        0.8409,
+        0.0455,
+        0.8621,
+        10,
+        0.0,
+        0.0
+      ]
     }
   ]
 }

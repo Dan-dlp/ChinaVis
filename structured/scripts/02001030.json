@@ -143,17 +143,52 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "昨日阵前失了机，\n孤王险些命归西。\n回朝加封把名题。"
+          "text": "昨日阵前失了机，"
+        },
+        {
+          "character": "楚庄王",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "孤王险些命归西。"
+        },
+        {
+          "character": "楚庄王",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "回朝加封把名题。"
         },
         {
           "character": "楚庄王",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "孤，楚庄王熊羽。昨日与魏奇交战，不曾提防那贼暗射一箭，伤孤王左膀，险\n些伤了性命，多亏众将救回关来。可叹乡老保楚多年，一旦丧命甚是可伤。那\n魏奇十分骁勇，孤王要报一箭之仇，怎奈无有良将出马，好烦闷人也。"
+          "text": "孤，楚庄王熊羽。昨日与魏奇交战，不曾提防那贼暗射一箭，伤孤王左膀，险"
         },
         {
-          "character": "可叹乡老丧险地、公子侧",
+          "character": "楚庄王",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "些伤了性命，多亏众将救回关来。可叹乡老保楚多年，一旦丧命甚是可伤。那"
+        },
+        {
+          "character": "楚庄王",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "魏奇十分骁勇，孤王要报一箭之仇，怎奈无有良将出马，好烦闷人也。"
+        },
+        {
+          "character": "楚庄王",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "可叹乡老丧险地"
+        },
+        {
+          "character": "公子侧",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -171,7 +206,21 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "孤王败阵乱心意，\n忘记小将养由基。\n调取小将赴戎机。"
+          "text": "孤王败阵乱心意，"
+        },
+        {
+          "character": "楚庄王",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "忘记小将养由基。"
+        },
+        {
+          "character": "楚庄王",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "调取小将赴戎机。"
         },
         {
           "character": null,
@@ -185,7 +234,21 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "黄罗宝帐领旨意，\n披星戴月转回归。\n宣调神箭养由基。"
+          "text": "黄罗宝帐领旨意，"
+        },
+        {
+          "character": "公子侧",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "披星戴月转回归。"
+        },
+        {
+          "character": "公子侧",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "宣调神箭养由基。"
         },
         {
           "character": null,
@@ -214,7 +277,17 @@
         "singing_ratio": 0.5,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.5,
+        0.6,
+        0.4,
+        0.0,
+        0.2143,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -235,14 +308,49 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "两军阵前兵对垒，\n庄王焉敢逞雄威。\n某一箭将他魂魄追。\n不灭庄王誓不回。"
+          "text": "两军阵前兵对垒，"
+        },
+        {
+          "character": "魏奇",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "庄王焉敢逞雄威。"
+        },
+        {
+          "character": "魏奇",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "某一箭将他魂魄追。"
+        },
+        {
+          "character": "魏奇",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "不灭庄王誓不回。"
         },
         {
           "character": "魏奇",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "某，晋国大司马魏奇。昨日与楚庄王交战，被某射了一箭，败进关去，不知他\n生死存亡，累次詈阵，他只闭门不出来。\n众将官！"
+          "text": "某，晋国大司马魏奇。昨日与楚庄王交战，被某射了一箭，败进关去，不知他"
+        },
+        {
+          "character": "魏奇",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "生死存亡，累次詈阵，他只闭门不出来。"
+        },
+        {
+          "character": "魏奇",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "众将官！"
         },
         {
           "character": null,
@@ -263,7 +371,28 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "各个争先莫后退，\n鞍前马后紧相随。\n本帅独骑闯重围。\n落个美名万古垂。"
+          "text": "各个争先莫后退，"
+        },
+        {
+          "character": "魏奇",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "鞍前马后紧相随。"
+        },
+        {
+          "character": "魏奇",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "本帅独骑闯重围。"
+        },
+        {
+          "character": "魏奇",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "落个美名万古垂。"
         },
         {
           "character": "魏奇",
@@ -297,7 +426,17 @@
         "singing_ratio": 0.5,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.5,
+        0.6429,
+        0.3571,
+        0.0,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -341,7 +480,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "俺，养由基，乃宛阳人士。熟读战策，颇晓兵机，效命于庄王，为车左将军之\n职。只因斗越椒父子谋反，是俺一箭射死越椒，列国闻名。只今大王亲征晋国，\n命俺与苏从护理国政。正是："
+          "text": "俺，养由基，乃宛阳人士。熟读战策，颇晓兵机，效命于庄王，为车左将军之"
+        },
+        {
+          "character": "养由基",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "职。只因斗越椒父子谋反，是俺一箭射死越椒，列国闻名。只今大王亲征晋国，"
+        },
+        {
+          "character": "养由基",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "命俺与苏从护理国政。正是："
         },
         {
           "character": "养由基",
@@ -404,7 +557,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "香案供奉。\n将军保主征战晋国，受尽勤劳，不知大王因何被难？"
+          "text": "香案供奉。"
+        },
+        {
+          "character": "养由基",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "将军保主征战晋国，受尽勤劳，不知大王因何被难？"
         },
         {
           "character": "公子侧",
@@ -505,7 +665,17 @@
         "singing_ratio": 0.214,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.214,
+        0.2273,
+        0.6364,
+        0.1364,
+        0.619,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 4,
@@ -529,7 +699,21 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "寡人已把旨意下，\n朝得孤王两眼花。\n灭却魏奇保邦家。"
+          "text": "寡人已把旨意下，"
+        },
+        {
+          "character": "楚庄王",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "朝得孤王两眼花。"
+        },
+        {
+          "character": "楚庄王",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "灭却魏奇保邦家。"
         },
         {
           "character": null,
@@ -592,7 +776,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "领旨。\n大王有旨：宣养由基进帐。"
+          "text": "领旨。"
+        },
+        {
+          "character": "公子侧",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "大王有旨：宣养由基进帐。"
         },
         {
           "character": "养由基",
@@ -697,7 +888,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "原来有此仙丹，卿家真忠臣也。\n来，将此药调和，待孤即刻服下。"
+          "text": "原来有此仙丹，卿家真忠臣也。"
+        },
+        {
+          "character": "楚庄王",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来，将此药调和，待孤即刻服下。"
         },
         {
           "character": null,
@@ -711,7 +909,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "妙哉呀，妙哉！真仙丹也。\n啊，养卿。"
+          "text": "妙哉呀，妙哉！真仙丹也。"
+        },
+        {
+          "character": "楚庄王",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "啊，养卿。"
         },
         {
           "character": "养由基",
@@ -781,7 +986,21 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "为王忙把旨传下，\n大小三军听根芽：\n准备战场动杀法。"
+          "text": "为王忙把旨传下，"
+        },
+        {
+          "character": "楚庄王",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "大小三军听根芽："
+        },
+        {
+          "character": "楚庄王",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "准备战场动杀法。"
         },
         {
           "character": null,
@@ -825,7 +1044,17 @@
         "singing_ratio": 0.033,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.033,
+        0.15,
+        0.8,
+        0.05,
+        0.6923,
+        5,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 5,
@@ -1253,7 +1482,17 @@
         "singing_ratio": 0.281,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.281,
+        0.3415,
+        0.6585,
+        0.0,
+        0.675,
+        6,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 6,
@@ -1276,7 +1515,21 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "两国交锋动刀枪，\n龙争虎斗各逞强。\n点齐人马破荣阳。"
+          "text": "两国交锋动刀枪，"
+        },
+        {
+          "character": "晋成公",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "龙争虎斗各逞强。"
+        },
+        {
+          "character": "晋成公",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "点齐人马破荣阳。"
         },
         {
           "character": null,
@@ -1297,7 +1550,21 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "闻听探马报一信，\n司马魏奇命归西。\n白玉阶前奏主听。"
+          "text": "闻听探马报一信，"
+        },
+        {
+          "character": "荀林甫",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "司马魏奇命归西。"
+        },
+        {
+          "character": "荀林甫",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "白玉阶前奏主听。"
         },
         {
           "character": "荀林甫",
@@ -1307,7 +1574,14 @@
           "text": "臣，荀林甫见驾。大王千岁！"
         },
         {
-          "character": "迈步且把宝帐进、晋成公",
+          "character": "荀林甫",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "迈步且把宝帐进"
+        },
+        {
+          "character": "晋成公",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -1374,14 +1648,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "依臣之见，差一人去到蔡、宋、陈、郑四国，借来兵将。五国相合攻打楚庄，\n何愁不胜！"
+          "text": "依臣之见，差一人去到蔡、宋、陈、郑四国，借来兵将。五国相合攻打楚庄，"
+        },
+        {
+          "character": "荀林甫",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "何愁不胜！"
         },
         {
           "character": "晋成公",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "卿家言之有理，孤王修书，搬请四国人马前来助战，就命卿家挂帅，共灭庄王\n便了。"
+          "text": "卿家言之有理，孤王修书，搬请四国人马前来助战，就命卿家挂帅，共灭庄王"
+        },
+        {
+          "character": "晋成公",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "便了。"
         },
         {
           "character": "荀林甫",
@@ -1402,7 +1690,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "孤王退帐修书信，\n邀请四国退楚兵。"
+          "text": "孤王退帐修书信，"
+        },
+        {
+          "character": "晋成公",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "邀请四国退楚兵。"
         },
         {
           "character": null,
@@ -1431,7 +1726,17 @@
         "singing_ratio": 0.133,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.133,
+        0.32,
+        0.68,
+        0.0,
+        0.5833,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 7,
@@ -1456,7 +1761,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "某，郑国将军公子坚是也。今有晋国前来借兵，共灭楚庄。\n众将官，催军。"
+          "text": "某，郑国将军公子坚是也。今有晋国前来借兵，共灭楚庄。"
+        },
+        {
+          "character": "公子坚",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "众将官，催军。"
         },
         {
           "character": null,
@@ -1470,7 +1782,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "某，陈国大将公子都是也。晋国成公前来借兵伐楚。\n众将官，催军。"
+          "text": "某，陈国大将公子都是也。晋国成公前来借兵伐楚。"
+        },
+        {
+          "character": "公子都",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "众将官，催军。"
         },
         {
           "character": null,
@@ -1484,7 +1803,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "某，蔡国大元帅曹良臣是也。只因晋国相邀，颁兵相助。\n众儿郎，往晋国去者！"
+          "text": "某，蔡国大元帅曹良臣是也。只因晋国相邀，颁兵相助。"
+        },
+        {
+          "character": "曹良臣",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "众儿郎，往晋国去者！"
         },
         {
           "character": null,
@@ -1498,7 +1824,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "某，宋国大将魏子敬是也。晋国相邀。\n巴图鲁，催军。"
+          "text": "某，宋国大将魏子敬是也。晋国相邀。"
+        },
+        {
+          "character": "魏子敬",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "巴图鲁，催军。"
         },
         {
           "character": null,
@@ -1548,7 +1881,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.5,
+        5,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 8,
@@ -1846,7 +2189,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "今日与楚兵交战必须人人奋勇，各个争先。成功之日，自有升赏。若是畏刀惧\n剑，定按军法。杀上前去！"
+          "text": "今日与楚兵交战必须人人奋勇，各个争先。成功之日，自有升赏。若是畏刀惧"
+        },
+        {
+          "character": "荀林甫",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "剑，定按军法。杀上前去！"
         },
         {
           "character": null,
@@ -1912,7 +2262,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.9688,
+        0.0312,
+        0.8065,
+        9,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 9,
@@ -1935,7 +2295,56 @@
           "line_type": "西皮正板",
           "musical_style": "西皮正板",
           "style_family": "西皮",
-          "text": "两下争杀动刀兵。\n二来亏了众公卿。\n杀得主帅胆战惊；\n杀得血水似雨霖；\n杀得尸横马难行。\n要把晋国一扫平。\n停兵三日再发兵。\n想是哪国又动兵。"
+          "text": "两下争杀动刀兵。"
+        },
+        {
+          "character": "楚庄王",
+          "line_type": "西皮正板",
+          "musical_style": "西皮正板",
+          "style_family": "西皮",
+          "text": "二来亏了众公卿。"
+        },
+        {
+          "character": "楚庄王",
+          "line_type": "西皮正板",
+          "musical_style": "西皮正板",
+          "style_family": "西皮",
+          "text": "杀得主帅胆战惊；"
+        },
+        {
+          "character": "楚庄王",
+          "line_type": "西皮正板",
+          "musical_style": "西皮正板",
+          "style_family": "西皮",
+          "text": "杀得血水似雨霖；"
+        },
+        {
+          "character": "楚庄王",
+          "line_type": "西皮正板",
+          "musical_style": "西皮正板",
+          "style_family": "西皮",
+          "text": "杀得尸横马难行。"
+        },
+        {
+          "character": "楚庄王",
+          "line_type": "西皮正板",
+          "musical_style": "西皮正板",
+          "style_family": "西皮",
+          "text": "要把晋国一扫平。"
+        },
+        {
+          "character": "楚庄王",
+          "line_type": "西皮正板",
+          "musical_style": "西皮正板",
+          "style_family": "西皮",
+          "text": "停兵三日再发兵。"
+        },
+        {
+          "character": "楚庄王",
+          "line_type": "西皮正板",
+          "musical_style": "西皮正板",
+          "style_family": "西皮",
+          "text": "想是哪国又动兵。"
         },
         {
           "character": null,
@@ -1949,7 +2358,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "适才探马报一信，\n五国一齐发了兵。"
+          "text": "适才探马报一信，"
+        },
+        {
+          "character": "公子侧",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "五国一齐发了兵。"
         },
         {
           "character": "公子侧",
@@ -1977,14 +2393,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "郑、陈理应相助，蔡、宋二邦与晋国有仇，为何一同发兵？\n宣养由基进帐。"
+          "text": "郑、陈理应相助，蔡、宋二邦与晋国有仇，为何一同发兵？"
+        },
+        {
+          "character": "楚庄王",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "宣养由基进帐。"
         },
         {
           "character": "公子侧",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "领旨。\n大王有旨：宣养由基进帐。"
+          "text": "领旨。"
+        },
+        {
+          "character": "公子侧",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "大王有旨：宣养由基进帐。"
         },
         {
           "character": null,
@@ -2075,7 +2505,17 @@
         "musical_styles": [
           "西皮正板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.174,
+        0.4545,
+        0.5,
+        0.0455,
+        0.381,
+        3,
+        0.3636,
+        0.0
+      ]
     },
     {
       "scene_index": 10,
@@ -2281,7 +2721,17 @@
         "singing_ratio": 0.133,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.133,
+        0.1333,
+        0.8667,
+        0.0,
+        0.8571,
+        4,
+        0.0,
+        0.0
+      ]
     }
   ]
 }

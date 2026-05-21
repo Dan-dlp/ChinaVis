@@ -247,7 +247,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "本帅薛仁贵。蒙圣恩挂我为帅，奉旨征讨摩天岭。日前与那贼交过一战，谁知\n那贼，用滚木擂石打下，不是本帅回马甚急，险遭不测。\n中军！"
+          "text": "本帅薛仁贵。蒙圣恩挂我为帅，奉旨征讨摩天岭。日前与那贼交过一战，谁知"
+        },
+        {
+          "character": "薛仁贵",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "那贼，用滚木擂石打下，不是本帅回马甚急，险遭不测。"
+        },
+        {
+          "character": "薛仁贵",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "中军！"
         },
         {
           "character": null,
@@ -345,10 +359,52 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "弟兄双双拜神明。\n可叹众将都耽心。\n字字行行写得清：\n又得擎天柱二根。"
+          "text": "弟兄双双拜神明。"
         },
         {
-          "character": "奉旨攻打摩天岭、天书现出踪迹影、卖弓能取摩天岭、四唐将",
+          "character": "薛仁贵",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "可叹众将都耽心。"
+        },
+        {
+          "character": "薛仁贵",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "字字行行写得清："
+        },
+        {
+          "character": "薛仁贵",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "又得擎天柱二根。"
+        },
+        {
+          "character": "薛仁贵",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "奉旨攻打摩天岭"
+        },
+        {
+          "character": "薛仁贵",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "天书现出踪迹影"
+        },
+        {
+          "character": "薛仁贵",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "卖弓能取摩天岭"
+        },
+        {
+          "character": "四唐将",
           "line_type": "同白",
           "musical_style": null,
           "style_family": null,
@@ -394,7 +450,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "圣母之言，岂有虚妄。\n来，看衣更换。"
+          "text": "圣母之言，岂有虚妄。"
+        },
+        {
+          "character": "薛仁贵",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来，看衣更换。"
         },
         {
           "character": null,
@@ -466,7 +529,17 @@
           "西皮导板",
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.045,
+        0.2353,
+        0.5882,
+        0.1765,
+        0.5455,
+        7,
+        0.2353,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -487,21 +560,42 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "我今奉了总爷命，\n叫我推弓上山林。"
-        },
-        {
-          "character": "毛子贞",
-          "line_type": "白",
-          "musical_style": null,
-          "style_family": null,
-          "text": "老汉毛子贞。奉了总爷之命，叫我造弓四十把，昨日成功，今日齐备，推上山\n去，就此趱行。"
+          "text": "我今奉了总爷命，"
         },
         {
           "character": "毛子贞",
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "年迈无子绝后裔，\n每日推弓费心机。"
+          "text": "叫我推弓上山林。"
+        },
+        {
+          "character": "毛子贞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "老汉毛子贞。奉了总爷之命，叫我造弓四十把，昨日成功，今日齐备，推上山"
+        },
+        {
+          "character": "毛子贞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "去，就此趱行。"
+        },
+        {
+          "character": "毛子贞",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "年迈无子绝后裔，"
+        },
+        {
+          "character": "毛子贞",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "每日推弓费心机。"
         },
         {
           "character": null,
@@ -522,7 +616,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        1.0,
+        0.6667,
+        0.3333,
+        0.0,
+        0.0,
+        1,
+        0.6667,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -547,24 +651,80 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "圣母之言必有应，\n叫我扮作卖弓人。"
-        },
-        {
-          "character": "薛仁贵",
-          "line_type": "白",
-          "musical_style": null,
-          "style_family": null,
-          "text": "俺薛仁贵。只因摩天岭难攻，拜看天书，圣母娘娘叫我扮作卖弓之人，混上贼\n的山寨。天色尚早，不免洒开大步，就此走啊。"
+          "text": "圣母之言必有应，"
         },
         {
           "character": "薛仁贵",
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "日前带兵探山境，\n滚木擂石打三军。\n为国亡家丧了身。\n独自前来探贼兵。"
+          "text": "叫我扮作卖弓人。"
         },
         {
-          "character": "可叹姜兄丧了命、因此本帅心怀恨、洒开大步往前行、毛子贞",
+          "character": "薛仁贵",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "俺薛仁贵。只因摩天岭难攻，拜看天书，圣母娘娘叫我扮作卖弓之人，混上贼"
+        },
+        {
+          "character": "薛仁贵",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "的山寨。天色尚早，不免洒开大步，就此走啊。"
+        },
+        {
+          "character": "薛仁贵",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "日前带兵探山境，"
+        },
+        {
+          "character": "薛仁贵",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "滚木擂石打三军。"
+        },
+        {
+          "character": "薛仁贵",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "为国亡家丧了身。"
+        },
+        {
+          "character": "薛仁贵",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "独自前来探贼兵。"
+        },
+        {
+          "character": "薛仁贵",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "可叹姜兄丧了命"
+        },
+        {
+          "character": "薛仁贵",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "因此本帅心怀恨"
+        },
+        {
+          "character": "薛仁贵",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "洒开大步往前行"
+        },
+        {
+          "character": "毛子贞",
           "line_type": "内白",
           "musical_style": null,
           "style_family": null,
@@ -589,7 +749,14 @@
           "line_type": "西皮慢板",
           "musical_style": "西皮慢板",
           "style_family": "西皮",
-          "text": "行过一程又一程，\n歇息歇息养精神。"
+          "text": "行过一程又一程，"
+        },
+        {
+          "character": "毛子贞",
+          "line_type": "西皮慢板",
+          "musical_style": "西皮慢板",
+          "style_family": "西皮",
+          "text": "歇息歇息养精神。"
         },
         {
           "character": "薛仁贵",
@@ -617,14 +784,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "老汉毛子贞，生长在这摩天岭上，做生意度日。奉了总爷将令，叫我监造宝雕\n弓四十把。昨日成功，今日齐备，我是送弓上山的，并不是奸细。"
+          "text": "老汉毛子贞，生长在这摩天岭上，做生意度日。奉了总爷将令，叫我监造宝雕"
+        },
+        {
+          "character": "毛子贞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "弓四十把。昨日成功，今日齐备，我是送弓上山的，并不是奸细。"
         },
         {
           "character": "薛仁贵",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "老人家你生长在这山上，做生意度日。他山上兵有多少，将有几员，你总是知\n道的。"
+          "text": "老人家你生长在这山上，做生意度日。他山上兵有多少，将有几员，你总是知"
+        },
+        {
+          "character": "薛仁贵",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "道的。"
         },
         {
           "character": "毛子贞",
@@ -645,14 +826,56 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "这半山头有二位总爷，一名周文，一名周武，乃是弟兄二人。再上去二十五里，\n乃是大寨，内有五员大将：一个叫作胡卢大王；一个叫做红烂漫，乃是高建\n王的女婿，手使一口大刀，如同板门一般，有万夫不当之勇；还有一员大将名\n叫猩猩胆，使的斗大的铜锤，飞在空中，能取上将之首级；还有二位大将，一\n个叫做亚李驮金，一个叫做亚李驮银。爷爷，这都是小人的句句真情。"
+          "text": "这半山头有二位总爷，一名周文，一名周武，乃是弟兄二人。再上去二十五里，"
+        },
+        {
+          "character": "毛子贞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "乃是大寨，内有五员大将：一个叫作胡卢大王；一个叫做红烂漫，乃是高建"
+        },
+        {
+          "character": "毛子贞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "王的女婿，手使一口大刀，如同板门一般，有万夫不当之勇；还有一员大将名"
+        },
+        {
+          "character": "毛子贞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "叫猩猩胆，使的斗大的铜锤，飞在空中，能取上将之首级；还有二位大将，一"
+        },
+        {
+          "character": "毛子贞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "个叫做亚李驮金，一个叫做亚李驮银。爷爷，这都是小人的句句真情。"
         },
         {
           "character": "薛仁贵",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "少待。\n且住。圣母之言，莫非应在此人身上？哦哦，我自有道理。\n老人家推此重车上山，肚内岂不饥饿么？"
+          "text": "少待。"
+        },
+        {
+          "character": "薛仁贵",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "且住。圣母之言，莫非应在此人身上？哦哦，我自有道理。"
+        },
+        {
+          "character": "薛仁贵",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "老人家推此重车上山，肚内岂不饥饿么？"
         },
         {
           "character": "毛子贞",
@@ -701,7 +924,14 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "为国忠良忠心耿，\n食君俸禄报君恩。"
+          "text": "为国忠良忠心耿，"
+        },
+        {
+          "character": "薛仁贵",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "食君俸禄报君恩。"
         },
         {
           "character": null,
@@ -734,7 +964,17 @@
           "西皮慢板",
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.167,
+        0.359,
+        0.641,
+        0.0,
+        0.4211,
+        2,
+        0.359,
+        0.0
+      ]
     },
     {
       "scene_index": 4,
@@ -786,7 +1026,14 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "一步来在山林境，\n见了总爷说分明。"
+          "text": "一步来在山林境，"
+        },
+        {
+          "character": "薛仁贵",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "见了总爷说分明。"
         },
         {
           "character": "二下手",
@@ -884,7 +1131,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "啊。\n参见二位总爷。"
+          "text": "啊。"
+        },
+        {
+          "character": "薛仁贵",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "参见二位总爷。"
         },
         {
           "character": "周文、周武",
@@ -975,7 +1229,14 @@
           "line_type": "同白",
           "musical_style": null,
           "style_family": null,
-          "text": "一十、二十、三十、四十一把弓。\n启总爷：多了一把弓。"
+          "text": "一十、二十、三十、四十一把弓。"
+        },
+        {
+          "character": "二下手",
+          "line_type": "同白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "启总爷：多了一把弓。"
         },
         {
           "character": "周文、周武",
@@ -1024,7 +1285,21 @@
           "line_type": "西皮快板",
           "musical_style": "西皮快板",
           "style_family": "西皮",
-          "text": "随机应变把话答，\n铁胎宝弓手内拿。\n满满搭上珠丝扣。"
+          "text": "随机应变把话答，"
+        },
+        {
+          "character": "薛仁贵",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "铁胎宝弓手内拿。"
+        },
+        {
+          "character": "薛仁贵",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "满满搭上珠丝扣。"
         },
         {
           "character": null,
@@ -1073,7 +1348,21 @@
           "line_type": "西皮快板",
           "musical_style": "西皮快板",
           "style_family": "西皮",
-          "text": "手拿一把青铜刀，\n不由担惊心内焦。\n我的性命也难逃。"
+          "text": "手拿一把青铜刀，"
+        },
+        {
+          "character": "薛仁贵",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "不由担惊心内焦。"
+        },
+        {
+          "character": "薛仁贵",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "我的性命也难逃。"
         },
         {
           "character": null,
@@ -1094,7 +1383,21 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "毛礼耍刀果真好，\n不由本镇喜眉梢。\n收了毛礼灭大朝。"
+          "text": "毛礼耍刀果真好，"
+        },
+        {
+          "character": "周文",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "不由本镇喜眉梢。"
+        },
+        {
+          "character": "周文",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "收了毛礼灭大朝。"
         },
         {
           "character": "周文",
@@ -1104,7 +1407,14 @@
           "text": "好刀！"
         },
         {
-          "character": "见了大王把本道、薛仁贵",
+          "character": "周文",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "见了大王把本道"
+        },
+        {
+          "character": "薛仁贵",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -1143,7 +1453,14 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "逆贼不解其中意，\n非是我今扮黎民。"
+          "text": "逆贼不解其中意，"
+        },
+        {
+          "character": "薛仁贵",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "非是我今扮黎民。"
         },
         {
           "character": null,
@@ -1164,7 +1481,21 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "戟法比刀还较高，\n落地梅花是英豪。\n雪见太阳自化消！"
+          "text": "戟法比刀还较高，"
+        },
+        {
+          "character": "周武",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "落地梅花是英豪。"
+        },
+        {
+          "character": "周武",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "雪见太阳自化消！"
         },
         {
           "character": "周武",
@@ -1174,7 +1505,14 @@
           "text": "来。"
         },
         {
-          "character": "若是唐朝兴兵到、二下手",
+          "character": "周武",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "若是唐朝兴兵到"
+        },
+        {
+          "character": "二下手",
           "line_type": "同白",
           "musical_style": null,
           "style_family": null,
@@ -1290,7 +1628,14 @@
           "line_type": "同白",
           "musical_style": null,
           "style_family": null,
-          "text": "休得推辞。\n看衣更换。"
+          "text": "休得推辞。"
+        },
+        {
+          "character": "周文、周武",
+          "line_type": "同白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "看衣更换。"
         },
         {
           "character": null,
@@ -1325,7 +1670,14 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "要学桃园三结义，\n莫学庞涓与孙膑。"
+          "text": "要学桃园三结义，"
+        },
+        {
+          "character": "薛仁贵",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "莫学庞涓与孙膑。"
         },
         {
           "character": "周文",
@@ -1339,28 +1691,84 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "贤弟枪法真个好，\n不由愚兄喜眉梢。\n官封总镇灭大朝。"
+          "text": "贤弟枪法真个好，"
         },
         {
-          "character": "到明日见大王把本保、周武",
+          "character": "周文",
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "三国有个周公瑾，\n七岁学法九岁能。\n贤弟比他强十分。"
+          "text": "不由愚兄喜眉梢。"
         },
         {
-          "character": "一十二岁把兵领、薛仁贵",
+          "character": "周文",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "官封总镇灭大朝。"
+        },
+        {
+          "character": "周文",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "到明日见大王把本保"
+        },
+        {
+          "character": "周武",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "三国有个周公瑾，"
+        },
+        {
+          "character": "周武",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "七岁学法九岁能。"
+        },
+        {
+          "character": "周武",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "贤弟比他强十分。"
+        },
+        {
+          "character": "周武",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "一十二岁把兵领"
+        },
+        {
+          "character": "薛仁贵",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
           "text": "二位兄长啊！"
         },
         {
-          "character": "一十二岁把兵领、薛仁贵",
+          "character": "薛仁贵",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "一十二岁把兵领"
+        },
+        {
+          "character": "薛仁贵",
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "二兄长有仁义开怀畅饮，\n有日里立大功不忘此恩。"
+          "text": "二兄长有仁义开怀畅饮，"
+        },
+        {
+          "character": "薛仁贵",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "有日里立大功不忘此恩。"
         },
         {
           "character": null,
@@ -1416,7 +1824,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "啊，方才三弟说道：“周青看茶来，本帅止渴”。待我唤醒兄长。\n啊，兄长醒来！"
+          "text": "啊，方才三弟说道：“周青看茶来，本帅止渴”。待我唤醒兄长。"
+        },
+        {
+          "character": "周武",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "啊，兄长醒来！"
         },
         {
           "character": "周文",
@@ -1430,7 +1845,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "兄长可曾听见三弟之言，说什么“周青看茶来，本帅止渴”。我想那周青乃大\n朝一员大将。莫非薛仁贵装扮前来，待俺拔剑将他杀了！"
+          "text": "兄长可曾听见三弟之言，说什么“周青看茶来，本帅止渴”。我想那周青乃大"
+        },
+        {
+          "character": "周武",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "朝一员大将。莫非薛仁贵装扮前来，待俺拔剑将他杀了！"
         },
         {
           "character": "周文",
@@ -1451,7 +1873,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "乃是大朝人氏。只因那年漂洋流落高珠，被大王强留在这山上，终非了结。你\n我趁此机会，归顺大朝，岂不两全其美？"
+          "text": "乃是大朝人氏。只因那年漂洋流落高珠，被大王强留在这山上，终非了结。你"
+        },
+        {
+          "character": "周文",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我趁此机会，归顺大朝，岂不两全其美？"
         },
         {
           "character": "周武",
@@ -1482,7 +1911,21 @@
           "text": "身无力量难施行。"
         },
         {
-          "character": "猛然睁开昏花眼、周文、周武",
+          "character": "薛仁贵",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "猛然睁开昏花眼"
+        },
+        {
+          "character": "薛仁贵",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "周文"
+        },
+        {
+          "character": "周武",
           "line_type": "同白",
           "musical_style": null,
           "style_family": null,
@@ -1507,7 +1950,14 @@
           "line_type": "同白",
           "musical_style": null,
           "style_family": null,
-          "text": "元帅不要害怕，我弟兄二人，也是大朝人氏，只因那年流落高珠，还要元帅提\n拔一二。"
+          "text": "元帅不要害怕，我弟兄二人，也是大朝人氏，只因那年流落高珠，还要元帅提"
+        },
+        {
+          "character": "周文、周武",
+          "line_type": "同白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "拔一二。"
         },
         {
           "character": "薛仁贵",
@@ -1535,7 +1985,14 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "二位兄长受一礼，\n保你二人封王侯。"
+          "text": "二位兄长受一礼，"
+        },
+        {
+          "character": "薛仁贵",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "保你二人封王侯。"
         },
         {
           "character": null,
@@ -1644,7 +2101,17 @@
           "西皮快板",
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.156,
+        0.3258,
+        0.6515,
+        0.0227,
+        0.6489,
+        7,
+        0.3258,
+        0.0
+      ]
     },
     {
       "scene_index": 5,
@@ -1674,7 +2141,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "俺，薛元帅麾下，中军陈唐是也。只因元帅前去探山，未见回营，只得在此伺\n候。"
+          "text": "俺，薛元帅麾下，中军陈唐是也。只因元帅前去探山，未见回营，只得在此伺"
+        },
+        {
+          "character": "中军",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "候。"
         },
         {
           "character": "薛仁贵",
@@ -1836,7 +2310,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.8667,
+        0.1333,
+        0.8571,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 6,
@@ -1931,7 +2415,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.6,
+        0.4,
+        0.5,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 7,
@@ -2026,7 +2520,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "大王升帐，在此伺候。\n（猩猩胆、亚李驮金、亚李驮银同允，分站两边。四青袍、四下手引胡卢大王同上。〖风入松〗。胡卢大王\n上高台。）"
+          "text": "大王升帐，在此伺候。"
+        },
+        {
+          "character": "红烂漫",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "（猩猩胆、亚李驮金、亚李驮银同允，分站两边。四青袍、四下手引胡卢大王同上。〖风入松〗。胡卢大王"
+        },
+        {
+          "character": "红烂漫",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "上高台。）"
         },
         {
           "character": "红烂漫、猩猩胆、亚李驮金、亚李驮银",
@@ -2061,7 +2569,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "某，胡卢大王，保守摩天岭。三日一小操，五日一大操。今乃演操之期。\n来！"
+          "text": "某，胡卢大王，保守摩天岭。三日一小操，五日一大操。今乃演操之期。"
+        },
+        {
+          "character": "胡卢大王",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来！"
         }
       ],
       "interactions": [
@@ -2128,7 +2643,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.7222,
+        0.2778,
+        0.7059,
+        7,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 8,
@@ -2304,7 +2829,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        5,
+        0.0,
+        0.0
+      ]
     }
   ]
 }

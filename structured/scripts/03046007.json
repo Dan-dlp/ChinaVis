@@ -105,7 +105,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "孤、乾德王赵。可恨欧阳方，将孤诓下河东七载，内无粮草，外无救兵。也曾\n命黄信四路打探，未见回报。"
+          "text": "孤、乾德王赵。可恨欧阳方，将孤诓下河东七载，内无粮草，外无救兵。也曾"
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "命黄信四路打探，未见回报。"
         },
         {
           "character": "黄信",
@@ -203,7 +210,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "且住！适才黄信报道：罗家山发来一哨人马，昨日鞭坠白龙，今日马踏御营。\n若是我国人马，就不该马踏御营；若是他国人马，就不该鞭坠白龙。此事叫孤\n好难解也！"
+          "text": "且住！适才黄信报道：罗家山发来一哨人马，昨日鞭坠白龙，今日马踏御营。"
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "若是我国人马，就不该马踏御营；若是他国人马，就不该鞭坠白龙。此事叫孤"
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "好难解也！"
         },
         {
           "character": null,
@@ -359,7 +380,17 @@
         "musical_styles": [
           "二黄原板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0556,
+        0.8333,
+        0.1111,
+        0.5294,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -396,7 +427,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -505,7 +546,17 @@
           "二黄原板",
           "二黄散板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.5,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 4,
@@ -528,7 +579,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 5,
@@ -621,7 +682,17 @@
           "二黄原板",
           "二黄散板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.3333,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 6,
@@ -644,7 +715,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 7,
@@ -673,7 +754,7 @@
           "text": "赵匡胤 （唢呐二黄散板）人困马乏难交战，"
         },
         {
-          "character": null,
+          "character": "赵匡胤",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -708,7 +789,7 @@
           "text": "呼延赞 （唢呐二黄散板）梦儿里只见我父到，"
         },
         {
-          "character": null,
+          "character": "呼延赞",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -771,7 +852,14 @@
           "text": "想必是孤国中发来救兵。"
         },
         {
-          "character": "猛然间睁开了丹凤眼、呼延赞",
+          "character": "赵匡胤",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "猛然间睁开了丹凤眼"
+        },
+        {
+          "character": "呼延赞",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -782,52 +870,129 @@
           "line_type": "西皮快板",
           "musical_style": "西皮快板",
           "style_family": "西皮",
-          "text": "又只见小将跪至在马前。\n诓孤下马难上难。"
-        },
-        {
-          "character": "在马上擒王擒不住、呼延赞",
-          "line_type": "西皮快板",
-          "musical_style": "西皮快板",
-          "style_family": "西皮",
-          "text": "万岁爷不必心害怕，\n呼延赞保你坐中华。"
+          "text": "又只见小将跪至在马前。"
         },
         {
           "character": "赵匡胤",
           "line_type": "西皮快板",
           "musical_style": "西皮快板",
           "style_family": "西皮",
-          "text": "你若是保孤坐中华，\n何不对天把誓发？"
+          "text": "诓孤下马难上难。"
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "在马上擒王擒不住"
         },
         {
           "character": "呼延赞",
           "line_type": "西皮快板",
           "musical_style": "西皮快板",
           "style_family": "西皮",
-          "text": "万岁爷命我把誓发，\n日月三光照着咱。\n死在千军万马踏！"
+          "text": "万岁爷不必心害怕，"
         },
         {
-          "character": "呼延赞保主有假意、赵匡胤",
+          "character": "呼延赞",
           "line_type": "西皮快板",
           "musical_style": "西皮快板",
           "style_family": "西皮",
-          "text": "一见小将把誓发，\n不由孤王笑哈哈。"
+          "text": "呼延赞保你坐中华。"
         },
         {
-          "character": "呼延赞保主有假意、赵匡胤",
+          "character": "赵匡胤",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "你若是保孤坐中华，"
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "何不对天把誓发？"
+        },
+        {
+          "character": "呼延赞",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "万岁爷命我把誓发，"
+        },
+        {
+          "character": "呼延赞",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "日月三光照着咱。"
+        },
+        {
+          "character": "呼延赞",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "死在千军万马踏！"
+        },
+        {
+          "character": "呼延赞",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "呼延赞保主有假意"
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "一见小将把誓发，"
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "不由孤王笑哈哈。"
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "呼延赞保主有假意"
+        },
+        {
+          "character": "赵匡胤",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
           "text": "罢！"
         },
         {
-          "character": "呼延赞保主有假意、赵匡胤",
+          "character": "赵匡胤",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "呼延赞保主有假意"
+        },
+        {
+          "character": "赵匡胤",
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
           "text": "金棍挑起小冤家。"
         },
         {
-          "character": "左思右想不下马、呼延赞",
+          "character": "赵匡胤",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "左思右想不下马"
+        },
+        {
+          "character": "呼延赞",
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
@@ -908,7 +1073,21 @@
           "line_type": "西皮快板",
           "musical_style": "西皮快板",
           "style_family": "西皮",
-          "text": "喜哈哈来笑呵呵，\n孤王收了活阎罗。\n哪怕胡儿动干戈！"
+          "text": "喜哈哈来笑呵呵，"
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "孤王收了活阎罗。"
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "哪怕胡儿动干戈！"
         },
         {
           "character": null,
@@ -943,7 +1122,17 @@
           "西皮快板",
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.867,
+        0.8788,
+        0.1212,
+        0.0,
+        0.4375,
+        2,
+        0.8788,
+        0.0
+      ]
     }
   ]
 }

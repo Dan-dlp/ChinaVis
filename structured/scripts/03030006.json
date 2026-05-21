@@ -276,14 +276,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "某、韩昌。北国为臣。与宋室争战数载，干戈不宁。元帅出兵，不见回营。\n巴图鲁！"
+          "text": "某、韩昌。北国为臣。与宋室争战数载，干戈不宁。元帅出兵，不见回营。"
+        },
+        {
+          "character": "韩昌",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "巴图鲁！"
         },
         {
           "character": "四番兵",
           "line_type": "同白",
           "musical_style": null,
           "style_family": null,
-          "text": "啊！\n韩昌 伺候了！"
+          "text": "啊！"
+        },
+        {
+          "character": "四番兵",
+          "line_type": "同白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "韩昌 伺候了！"
         },
         {
           "character": "四番兵",
@@ -311,7 +325,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "哎呀驸马呀！杨家兵将，甚是骁勇。谢苗、张猛死于阵前，眼见宋兵已到。驸\n马快定良策迎敌才是！"
+          "text": "哎呀驸马呀！杨家兵将，甚是骁勇。谢苗、张猛死于阵前，眼见宋兵已到。驸"
+        },
+        {
+          "character": "耶律休哥",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "马快定良策迎敌才是！"
         },
         {
           "character": "韩昌",
@@ -325,7 +346,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "待某帐下问来。\n呔，下面听者：眼看宋朝兵马要踏我营，有胆量出战者，上帐讨令！"
+          "text": "待某帐下问来。"
+        },
+        {
+          "character": "耶律休哥",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "呔，下面听者：眼看宋朝兵马要踏我营，有胆量出战者，上帐讨令！"
         },
         {
           "character": "耶律古",
@@ -367,7 +395,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "某、耶律古。随元帅征战杨家，命某看守大营。适才我军大败而回，元帅传令\n下来，有人敢敌杨家兵将，进帐讨令！\n报！耶律古告进！驸马、元帅在上，末将打躬！"
+          "text": "某、耶律古。随元帅征战杨家，命某看守大营。适才我军大败而回，元帅传令"
+        },
+        {
+          "character": "耶律古",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "下来，有人敢敌杨家兵将，进帐讨令！"
+        },
+        {
+          "character": "耶律古",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "报！耶律古告进！驸马、元帅在上，末将打躬！"
         },
         {
           "character": "耶律休哥、韩昌",
@@ -444,7 +486,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "得令！\n巴图鲁，迎敌去者！"
+          "text": "得令！"
+        },
+        {
+          "character": "耶律古",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "巴图鲁，迎敌去者！"
         },
         {
           "character": "四番兵",
@@ -597,7 +646,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.027,
+        0.9189,
+        0.0541,
+        0.6389,
+        8,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -695,7 +754,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -792,7 +861,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "言之有理。\n巴图鲁！"
+          "text": "言之有理。"
+        },
+        {
+          "character": "韩昌",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "巴图鲁！"
         },
         {
           "character": "四番兵",
@@ -850,7 +926,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.9091,
+        5,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 4,
@@ -874,21 +960,49 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "蛾眉难展暗自叹，\n来时有路去时难。"
-        },
-        {
-          "character": "碧莲公主",
-          "line_type": "白",
-          "musical_style": null,
-          "style_family": null,
-          "text": "咱家、碧莲公主。配夫木易光。因保我妹妹来到宋营，捉拿杨八郎。两军阵前\n遇见宋营女将孟金榜，言说木易光是她丈夫杨四郎。可恨驸马与我一十二载的\n夫妻，并未露出一言。驸马呀驸马！你早说实话，我也就不出战了！"
+          "text": "蛾眉难展暗自叹，"
         },
         {
           "character": "碧莲公主",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "胸中忧愁悔已晚，\n思母想夫泪不干。"
+          "text": "来时有路去时难。"
+        },
+        {
+          "character": "碧莲公主",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "咱家、碧莲公主。配夫木易光。因保我妹妹来到宋营，捉拿杨八郎。两军阵前"
+        },
+        {
+          "character": "碧莲公主",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "遇见宋营女将孟金榜，言说木易光是她丈夫杨四郎。可恨驸马与我一十二载的"
+        },
+        {
+          "character": "碧莲公主",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "夫妻，并未露出一言。驸马呀驸马！你早说实话，我也就不出战了！"
+        },
+        {
+          "character": "碧莲公主",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "胸中忧愁悔已晚，"
+        },
+        {
+          "character": "碧莲公主",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "思母想夫泪不干。"
         },
         {
           "character": null,
@@ -937,24 +1051,73 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "自叹红颜多悽惨，\n奴在宋营夫在番。\n思想起来心不安。"
+          "text": "自叹红颜多悽惨，"
         },
         {
-          "character": "母后年迈不能见、孟金榜",
+          "character": "碧莲公主",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "奴在宋营夫在番。"
+        },
+        {
+          "character": "碧莲公主",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "思想起来心不安。"
+        },
+        {
+          "character": "碧莲公主",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "母后年迈不能见"
+        },
+        {
+          "character": "孟金榜",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
           "text": "贤妹呀！"
         },
         {
-          "character": "母后年迈不能见、孟金榜",
+          "character": "孟金榜",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "母后年迈不能见"
+        },
+        {
+          "character": "孟金榜",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "养育之恩当思念，\n女生外向怎比男？\n夫妻同保宋江山。"
+          "text": "养育之恩当思念，"
         },
         {
-          "character": "但愿两国停征战、碧莲公主",
+          "character": "孟金榜",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "女生外向怎比男？"
+        },
+        {
+          "character": "孟金榜",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "夫妻同保宋江山。"
+        },
+        {
+          "character": "孟金榜",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "但愿两国停征战"
+        },
+        {
+          "character": "碧莲公主",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -986,7 +1149,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "那日在两军阵前，你说驸马木易光，是你丈夫杨四郎，我国兵将谁没听见，他\n们要报与我母后知道，我母后一定要他父子的性命。"
+          "text": "那日在两军阵前，你说驸马木易光，是你丈夫杨四郎，我国兵将谁没听见，他"
+        },
+        {
+          "character": "碧莲公主",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "们要报与我母后知道，我母后一定要他父子的性命。"
         },
         {
           "character": "孟金榜",
@@ -1057,7 +1227,17 @@
         "singing_ratio": 0.353,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.353,
+        0.5,
+        0.5,
+        0.0,
+        0.4848,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 5,
@@ -1164,7 +1344,17 @@
         "singing_ratio": 1.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        1.0,
+        1.0,
+        0.0,
+        0.0,
+        0.8571,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 6,
@@ -1190,7 +1380,28 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "大限已满天注载，\n英雄怒目泪满腮。\n匹配公主甚和谐。\n夫妻父子两分开。"
+          "text": "大限已满天注载，"
+        },
+        {
+          "character": "杨延辉",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "英雄怒目泪满腮。"
+        },
+        {
+          "character": "杨延辉",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "匹配公主甚和谐。"
+        },
+        {
+          "character": "杨延辉",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "夫妻父子两分开。"
         },
         {
           "character": "杨延辉",
@@ -1207,14 +1418,56 @@
           "text": "可怜姣儿遭祸灾。"
         },
         {
-          "character": "隐姓埋名十二载、所生二子接后代、四郎一死无妨碍、宗祥",
+          "character": "杨延辉",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "隐姓埋名十二载"
+        },
+        {
+          "character": "杨延辉",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "所生二子接后代"
+        },
+        {
+          "character": "杨延辉",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "四郎一死无妨碍"
+        },
+        {
+          "character": "宗祥",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
           "text": "爹爹呀！"
         },
         {
-          "character": "隐姓埋名十二载、所生二子接后代、四郎一死无妨碍、宗祥",
+          "character": "宗祥",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "隐姓埋名十二载"
+        },
+        {
+          "character": "宗祥",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "所生二子接后代"
+        },
+        {
+          "character": "宗祥",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "四郎一死无妨碍"
+        },
+        {
+          "character": "宗祥",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
@@ -1246,21 +1499,49 @@
           "line_type": "同白",
           "musical_style": null,
           "style_family": null,
-          "text": "哎呀爹爹呀，你既是宋朝杨家将，就该对儿说明。到今天连累孩儿也受这一刀\n之苦！"
+          "text": "哎呀爹爹呀，你既是宋朝杨家将，就该对儿说明。到今天连累孩儿也受这一刀"
+        },
+        {
+          "character": "宗祥、宗瑞",
+          "line_type": "同白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "之苦！"
         },
         {
           "character": "杨延辉",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "儿呀，为父本欲说明；因你兄弟年幼，恐怕泄露消息。不料你母亲在两军阵前，\n遇见你大娘孟金榜，她说出为父是南朝杨延辉，被探子报与太后，这才连累\n你二人也受一刀之苦哇！"
+          "text": "儿呀，为父本欲说明；因你兄弟年幼，恐怕泄露消息。不料你母亲在两军阵前，"
+        },
+        {
+          "character": "杨延辉",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "遇见你大娘孟金榜，她说出为父是南朝杨延辉，被探子报与太后，这才连累"
+        },
+        {
+          "character": "杨延辉",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "你二人也受一刀之苦哇！"
         },
         {
           "character": "杨延辉",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "父死子丧真凄惨，\n咫尺如隔万重山。"
+          "text": "父死子丧真凄惨，"
+        },
+        {
+          "character": "杨延辉",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "咫尺如隔万重山。"
         },
         {
           "character": "杨延辉",
@@ -1312,7 +1593,17 @@
         "singing_ratio": 0.571,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.571,
+        0.6154,
+        0.3846,
+        0.0,
+        0.24,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 7,
@@ -1343,7 +1634,28 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "令出如山掌兵权，\n奉王旨意扫狼烟。\n众家儿郎各争先。\n大宋一统太平年。"
+          "text": "令出如山掌兵权，"
+        },
+        {
+          "character": "佘太君",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "奉王旨意扫狼烟。"
+        },
+        {
+          "character": "佘太君",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "众家儿郎各争先。"
+        },
+        {
+          "character": "佘太君",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "大宋一统太平年。"
         },
         {
           "character": null,
@@ -1399,14 +1711,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "启禀太君：媳妇来此，还有驸马同一双儿女都在番邦，媳妇有心回去与我母后\n说明，好与他父子同归宋营，共侍婆母。"
+          "text": "启禀太君：媳妇来此，还有驸马同一双儿女都在番邦，媳妇有心回去与我母后"
+        },
+        {
+          "character": "碧莲公主",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "说明，好与他父子同归宋营，共侍婆母。"
         },
         {
           "character": "佘太君",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "哈哈哈！不必说这些谎话。你若回去见了你家母后，岂能容你夫妻父子同归宋\n营？你就在此陪伴为婆吧！"
+          "text": "哈哈哈！不必说这些谎话。你若回去见了你家母后，岂能容你夫妻父子同归宋"
+        },
+        {
+          "character": "佘太君",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "营？你就在此陪伴为婆吧！"
         },
         {
           "character": "碧莲",
@@ -1420,7 +1746,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "我儿在你母后驾前并无差错，纵然知道他姓杨，决不忍伤他父子的性命，你不\n要挂念。"
+          "text": "我儿在你母后驾前并无差错，纵然知道他姓杨，决不忍伤他父子的性命，你不"
+        },
+        {
+          "character": "佘太君",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "要挂念。"
         },
         {
           "character": "碧莲公主、青莲公主",
@@ -1434,7 +1767,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "为娘奉旨扫北，幸喜团圆。你母后若能将你二人的儿女送过营来，我定然表奏\n圣上，免动干戈，大兵就回转汴梁了。"
+          "text": "为娘奉旨扫北，幸喜团圆。你母后若能将你二人的儿女送过营来，我定然表奏"
+        },
+        {
+          "character": "佘太君",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "圣上，免动干戈，大兵就回转汴梁了。"
         },
         {
           "character": "碧莲公主、青莲公主",
@@ -1497,7 +1837,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "哎呀婆母啊！媳妇临行之时，母后言道：如能擒了驸马，母女相会；若是降了\n宋营，定将我一双儿女绑至城楼问斩。今日绑的一定是我的儿女了。喂呀！"
+          "text": "哎呀婆母啊！媳妇临行之时，母后言道：如能擒了驸马，母女相会；若是降了"
+        },
+        {
+          "character": "青莲公主",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "宋营，定将我一双儿女绑至城楼问斩。今日绑的一定是我的儿女了。喂呀！"
         },
         {
           "character": null,
@@ -1525,7 +1872,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "不错。怎奈满营将官与我那四郎孩儿并不认识。也罢！叫八郎悄悄前去看个明\n白。\n来，请你八将军。"
+          "text": "不错。怎奈满营将官与我那四郎孩儿并不认识。也罢！叫八郎悄悄前去看个明"
+        },
+        {
+          "character": "佘太君",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "白。"
+        },
+        {
+          "character": "佘太君",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来，请你八将军。"
         },
         {
           "character": "四女兵",
@@ -1546,7 +1907,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "母子相逢遂人愿，\n常怀儿女心意悬。"
+          "text": "母子相逢遂人愿，"
+        },
+        {
+          "character": "杨延顺",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "常怀儿女心意悬。"
         },
         {
           "character": "杨延顺",
@@ -1588,7 +1956,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "怕的四哥身有险，\n空负埋名一十二年。"
+          "text": "怕的四哥身有险，"
+        },
+        {
+          "character": "杨延顺",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "空负埋名一十二年。"
         },
         {
           "character": null,
@@ -1616,10 +1991,31 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "宋营萧邦路不远，\n姐妹何必带愁颜？\n你夫妻儿女得团圆。"
+          "text": "宋营萧邦路不远，"
         },
         {
-          "character": "两国息兵不争战、杨延顺",
+          "character": "佘太君",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "姐妹何必带愁颜？"
+        },
+        {
+          "character": "佘太君",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "你夫妻儿女得团圆。"
+        },
+        {
+          "character": "佘太君",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "两国息兵不争战"
+        },
+        {
+          "character": "杨延顺",
           "line_type": "内白",
           "musical_style": null,
           "style_family": null,
@@ -1644,7 +2040,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "适才悄悄去观看，\n见了母亲说一番。"
+          "text": "适才悄悄去观看，"
+        },
+        {
+          "character": "杨延顺",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "见了母亲说一番。"
         },
         {
           "character": "杨延顺",
@@ -1686,7 +2089,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "十二载未见姣儿面，\n连年征战哪得闲。"
+          "text": "十二载未见姣儿面，"
+        },
+        {
+          "character": "佘太君",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "连年征战哪得闲。"
         },
         {
           "character": "佘太君",
@@ -1703,7 +2113,14 @@
           "text": "风扫梨花实可怜！"
         },
         {
-          "character": "延辉好比失群雁、碧莲公主",
+          "character": "佘太君",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "延辉好比失群雁"
+        },
+        {
+          "character": "碧莲公主",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
@@ -1742,7 +2159,14 @@
           "line_type": "同白",
           "musical_style": null,
           "style_family": null,
-          "text": "哎呀婆母哇！我母后将驸马与两双儿女，绑在城楼，大谅有死无生，望求婆母\n搭救！"
+          "text": "哎呀婆母哇！我母后将驸马与两双儿女，绑在城楼，大谅有死无生，望求婆母"
+        },
+        {
+          "character": "碧莲公主、青莲公主",
+          "line_type": "同白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "搭救！"
         },
         {
           "character": null,
@@ -1756,7 +2180,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "这有何难？\n八郎、孟金榜、蔡秀英听令。"
+          "text": "这有何难？"
+        },
+        {
+          "character": "佘太君",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "八郎、孟金榜、蔡秀英听令。"
         },
         {
           "character": "杨延顺、孟金榜、蔡秀英",
@@ -1798,7 +2229,14 @@
           "line_type": "同白",
           "musical_style": null,
           "style_family": null,
-          "text": "哎呀婆母哇！兴兵打破城池，恐救不了一家的性命，只怕我母后命丧乱军之中，\n如何使得！"
+          "text": "哎呀婆母哇！兴兵打破城池，恐救不了一家的性命，只怕我母后命丧乱军之中，"
+        },
+        {
+          "character": "碧莲公主、青莲公主",
+          "line_type": "同白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "如何使得！"
         },
         {
           "character": "佘太君",
@@ -1812,14 +2250,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "母亲哪！此事皆因孩儿所起，也难怪太后要斩我四哥父子与我一双儿女，待孩\n儿去到城下，向太后苦苦哀告，太后饶恕了他等性命也未可知。"
+          "text": "母亲哪！此事皆因孩儿所起，也难怪太后要斩我四哥父子与我一双儿女，待孩"
+        },
+        {
+          "character": "杨延顺",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "儿去到城下，向太后苦苦哀告，太后饶恕了他等性命也未可知。"
         },
         {
           "character": "佘太君",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "这是我儿一片好心，只是萧太后恨你入骨，你此番前去，恐怕连儿的性命也难\n保全了！"
+          "text": "这是我儿一片好心，只是萧太后恨你入骨，你此番前去，恐怕连儿的性命也难"
+        },
+        {
+          "character": "佘太君",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "保全了！"
         },
         {
           "character": "杨延顺",
@@ -1861,7 +2313,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "儿呀，你母后绑的是女婿、外孙儿女，是我的孩儿、孙女、孙儿；为娘绑的是\n我儿媳、她的女儿。将你二人绑在将台之上，太后见了，就是铁石之人，也不\n忍斩他们了。"
+          "text": "儿呀，你母后绑的是女婿、外孙儿女，是我的孩儿、孙女、孙儿；为娘绑的是"
+        },
+        {
+          "character": "佘太君",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我儿媳、她的女儿。将你二人绑在将台之上，太后见了，就是铁石之人，也不"
+        },
+        {
+          "character": "佘太君",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "忍斩他们了。"
         },
         {
           "character": "碧莲公主、青莲公主",
@@ -1917,7 +2383,28 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "边庭屡次遭战乱，\n你母为人太凶残。\n反绑我儿孙站城边。\n自有妙计救生还。"
+          "text": "边庭屡次遭战乱，"
+        },
+        {
+          "character": "佘太君",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "你母为人太凶残。"
+        },
+        {
+          "character": "佘太君",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "反绑我儿孙站城边。"
+        },
+        {
+          "character": "佘太君",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "自有妙计救生还。"
         },
         {
           "character": null,
@@ -2041,7 +2528,17 @@
         "singing_ratio": 0.194,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.194,
+        0.33,
+        0.67,
+        0.0,
+        0.6061,
+        12,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 8,
@@ -3134,7 +3631,17 @@
         "singing_ratio": 0.37,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.37,
+        0.4862,
+        0.5138,
+        0.0,
+        0.5648,
+        13,
+        0.0,
+        0.0
+      ]
     }
   ]
 }

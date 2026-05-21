@@ -73,7 +73,7 @@
       ],
       "lines": [
         {
-          "character": null,
+          "character": "红娘",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -301,7 +301,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "没有吓，吓，张先生开门，开门㖸！呀，看他二人竟自闭门进去，撇了我红娘\n在外，正是独立谁为伴，慢自支离恨咬牙。𠲔，想他二人呵——"
+          "text": "没有吓，吓，张先生开门，开门㖸！呀，看他二人竟自闭门进去，撇了我红娘"
+        },
+        {
+          "character": "红娘",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "在外，正是独立谁为伴，慢自支离恨咬牙。𠲔，想他二人呵——"
         },
         {
           "character": null,
@@ -665,7 +672,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.9655,
+        0.0345,
+        0.8571,
+        3,
+        0.0,
+        0.0
+      ]
     }
   ]
 }

@@ -312,7 +312,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -340,21 +350,42 @@
           "line_type": "西皮散板",
           "musical_style": "西皮散板",
           "style_family": "西皮",
-          "text": "适才离却酒馆门，\n要往景阳岗上行。"
-        },
-        {
-          "character": "武松",
-          "line_type": "白",
-          "musical_style": null,
-          "style_family": null,
-          "text": "俺，武松。离却柴府，寻找哥哥。适才酒馆吃了一回酒，酒家对我言道：“景\n阳岗出了猛虎，拦路伤人。”趁天色尚早，就此闯过岗去。"
+          "text": "适才离却酒馆门，"
         },
         {
           "character": "武松",
           "line_type": "西皮散板",
           "musical_style": "西皮散板",
           "style_family": "西皮",
-          "text": "甩开大步往前闯，\n寻找哥哥走一场。"
+          "text": "要往景阳岗上行。"
+        },
+        {
+          "character": "武松",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "俺，武松。离却柴府，寻找哥哥。适才酒馆吃了一回酒，酒家对我言道：“景"
+        },
+        {
+          "character": "武松",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "阳岗出了猛虎，拦路伤人。”趁天色尚早，就此闯过岗去。"
+        },
+        {
+          "character": "武松",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "甩开大步往前闯，"
+        },
+        {
+          "character": "武松",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "寻找哥哥走一场。"
         },
         {
           "character": null,
@@ -376,7 +407,17 @@
         "musical_styles": [
           "西皮散板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.5714,
+        0.4286,
+        0.0,
+        0.0,
+        1,
+        0.5714,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -399,7 +440,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 4,
@@ -576,7 +627,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.75,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 5,
@@ -599,7 +660,21 @@
           "line_type": "二黄摇板",
           "musical_style": "二黄摇板",
           "style_family": "二黄",
-          "text": "一日离家一日深，\n好似孤雁宿寒林。\n土兵带路往家奔——"
+          "text": "一日离家一日深，"
+        },
+        {
+          "character": "武松",
+          "line_type": "二黄摇板",
+          "musical_style": "二黄摇板",
+          "style_family": "二黄",
+          "text": "好似孤雁宿寒林。"
+        },
+        {
+          "character": "武松",
+          "line_type": "二黄摇板",
+          "musical_style": "二黄摇板",
+          "style_family": "二黄",
+          "text": "土兵带路往家奔——"
         },
         {
           "character": null,
@@ -1005,7 +1080,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "喂呀大郎啊！\n（潘金莲拂袖下。武松望潘金莲下，气忿，搓手，关门，坐下，望灵牌，望潘金莲房间，凝想，点头，料兄\n长之死定有缘故。）"
+          "text": "喂呀大郎啊！"
+        },
+        {
+          "character": "潘金莲",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "（潘金莲拂袖下。武松望潘金莲下，气忿，搓手，关门，坐下，望灵牌，望潘金莲房间，凝想，点头，料兄"
+        },
+        {
+          "character": "潘金莲",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "长之死定有缘故。）"
         },
         {
           "character": "武松",
@@ -1040,7 +1129,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "来此已是。\n二爷开门来！"
+          "text": "来此已是。"
+        },
+        {
+          "character": "土兵",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "二爷开门来！"
         },
         {
           "character": null,
@@ -1179,7 +1275,17 @@
         "musical_styles": [
           "二黄摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.059,
+        0.1186,
+        0.8475,
+        0.0339,
+        0.5862,
+        3,
+        0.0,
+        0.0678
+      ]
     },
     {
       "scene_index": 6,
@@ -1207,7 +1313,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "老身王婆。与西门大官人定下一计，用砒霜将武大毒死。闻听武二回得家来。\n这小子可不是好惹的，我不免寻个地方躲避躲避便了。"
+          "text": "老身王婆。与西门大官人定下一计，用砒霜将武大毒死。闻听武二回得家来。"
+        },
+        {
+          "character": "王婆",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "这小子可不是好惹的，我不免寻个地方躲避躲避便了。"
         },
         {
           "character": null,
@@ -1508,7 +1621,21 @@
           "line_type": "四平调",
           "musical_style": "四平调",
           "style_family": "四平调",
-          "text": "细说原因、细说原因：\n害死令兄命归阴。\n银两、骸骨作凭证。"
+          "text": "细说原因、细说原因："
+        },
+        {
+          "character": "何九叔",
+          "line_type": "四平调",
+          "musical_style": "四平调",
+          "style_family": "四平调",
+          "text": "害死令兄命归阴。"
+        },
+        {
+          "character": "何九叔",
+          "line_type": "四平调",
+          "musical_style": "四平调",
+          "style_family": "四平调",
+          "text": "银两、骸骨作凭证。"
         },
         {
           "character": null,
@@ -2180,7 +2307,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "列位，俺武松有孝服在身，不能奉陪，你们自斟自饮。\n土兵！斟酒抱盅伺候！"
+          "text": "列位，俺武松有孝服在身，不能奉陪，你们自斟自饮。"
+        },
+        {
+          "character": "武松",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "土兵！斟酒抱盅伺候！"
         },
         {
           "character": "郓哥、张大公、何九叔",
@@ -2425,7 +2559,17 @@
         "musical_styles": [
           "四平调"
         ]
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.042,
+        0.8824,
+        0.0756,
+        0.7458,
+        10,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 7,
@@ -3200,7 +3344,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.942,
+        0.058,
+        0.7647,
+        7,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 8,
@@ -3261,7 +3415,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 9,
@@ -3696,7 +3860,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0244,
+        0.9268,
+        0.0488,
+        0.75,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 10,
@@ -5029,7 +5203,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0217,
+        0.971,
+        0.0072,
+        0.8832,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 11,
@@ -5096,7 +5280,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 12,
@@ -5264,7 +5458,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.9167,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 13,
@@ -5359,7 +5563,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.2,
+        0.6,
+        0.2,
+        0.5,
+        2,
+        0.2,
+        0.0
+      ]
     },
     {
       "scene_index": 14,
@@ -5647,7 +5861,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.043,
+        0.04,
+        0.92,
+        0.04,
+        0.8333,
+        3,
+        0.04,
+        0.0
+      ]
     },
     {
       "scene_index": 15,
@@ -6359,7 +6583,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0152,
+        0.9545,
+        0.0303,
+        0.7846,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 16,
@@ -7115,7 +7349,17 @@
         "musical_styles": [
           "西皮散板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.05,
+        0.0909,
+        0.9091,
+        0.0,
+        0.6,
+        5,
+        0.0909,
+        0.0
+      ]
     },
     {
       "scene_index": 17,
@@ -8120,7 +8364,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.01,
+        0.0099,
+        0.9505,
+        0.0396,
+        0.86,
+        4,
+        0.0099,
+        0.0
+      ]
     },
     {
       "scene_index": 18,
@@ -8435,7 +8689,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.8571,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 19,
@@ -8996,7 +9260,17 @@
         "musical_styles": [
           "西皮散板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.077,
+        0.0943,
+        0.9057,
+        0.0,
+        0.7692,
+        5,
+        0.0943,
+        0.0
+      ]
     },
     {
       "scene_index": 20,
@@ -9216,7 +9490,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.875,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 21,
@@ -9354,7 +9638,17 @@
           "西皮摇板",
           "西皮散板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.333,
+        0.2857,
+        0.5714,
+        0.1429,
+        0.5,
+        4,
+        0.2857,
+        0.0
+      ]
     },
     {
       "scene_index": 22,
@@ -9604,7 +9898,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.6667,
+        0.3333,
+        0.9,
+        6,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 23,
@@ -9705,7 +10009,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.8333,
+        0.1667,
+        0.6,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 24,
@@ -9759,7 +10073,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.5,
+        0.5,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 25,
@@ -9913,7 +10237,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.8889,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 26,
@@ -10487,7 +10821,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0233,
+        0.814,
+        0.1628,
+        0.7857,
+        5,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 27,
@@ -10680,7 +11024,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.9286,
+        0.0714,
+        0.5385,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 28,
@@ -10722,7 +11076,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        1.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1,
+        1.0,
+        0.0
+      ]
     },
     {
       "scene_index": 29,
@@ -10794,7 +11158,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 30,
@@ -10975,7 +11349,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.9167,
+        4,
+        0.0,
+        0.0
+      ]
     }
   ]
 }

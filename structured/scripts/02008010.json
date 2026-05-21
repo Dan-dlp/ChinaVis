@@ -153,7 +153,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "在下王君可。父亲王俊，当日在朝拜中郎大将，不幸早丧，因此隐住林下。想\n俺一身武艺，无有引荐，不能出头。正是："
+          "text": "在下王君可。父亲王俊，当日在朝拜中郎大将，不幸早丧，因此隐住林下。想"
+        },
+        {
+          "character": "王君可",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "俺一身武艺，无有引荐，不能出头。正是："
         },
         {
           "character": "王君可",
@@ -167,7 +174,21 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "豪杰生平时未来，\n乌云遮住栋梁才。\n走尽天涯无处栽。"
+          "text": "豪杰生平时未来，"
+        },
+        {
+          "character": "王君可",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "乌云遮住栋梁才。"
+        },
+        {
+          "character": "王君可",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "走尽天涯无处栽。"
         },
         {
           "character": null,
@@ -185,7 +206,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.5,
+        0.25,
+        0.25,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -213,7 +244,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "吾乃土地是也。今有杨国贞有数载难处，不免使动神虎，将她君臣冲散。\n猛虎何在？"
+          "text": "吾乃土地是也。今有杨国贞有数载难处，不免使动神虎，将她君臣冲散。"
+        },
+        {
+          "character": "土地",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "猛虎何在？"
         },
         {
           "character": null,
@@ -254,7 +292,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.6,
+        0.4,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -277,28 +325,63 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "我好比出林鸟又招弹打，\n到如今四路逃奔走天涯。"
+          "text": "我好比出林鸟又招弹打，"
+        },
+        {
+          "character": "杨国贞",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "到如今四路逃奔走天涯。"
         },
         {
           "character": "李广",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "耳边厢又听得风声响亮，\n想必是有大虫跑下山岗。"
+          "text": "耳边厢又听得风声响亮，"
+        },
+        {
+          "character": "李广",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "想必是有大虫跑下山岗。"
         },
         {
           "character": "杨国贞",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "将军，将军！\n不好了！"
+          "text": "将军，将军！"
+        },
+        {
+          "character": "杨国贞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "不好了！"
         },
         {
           "character": "杨国贞",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "中途路失散了李广将，\n好似钢刀刺胸膛。\n凭天由命在何方。"
+          "text": "中途路失散了李广将，"
+        },
+        {
+          "character": "杨国贞",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "好似钢刀刺胸膛。"
+        },
+        {
+          "character": "杨国贞",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "凭天由命在何方。"
         },
         {
           "character": null,
@@ -312,14 +395,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "娘娘，国母！\n哎呀！"
+          "text": "娘娘，国母！"
+        },
+        {
+          "character": "李广",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "哎呀！"
         },
         {
           "character": "李广",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "中途路失散了龙国后，\n好似钢刀刺咽喉。"
+          "text": "中途路失散了龙国后，"
+        },
+        {
+          "character": "李广",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "好似钢刀刺咽喉。"
         },
         {
           "character": null,
@@ -333,21 +430,56 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "喂呀，方才有人讲到，捉拿金盔金甲李广，这便怎么处？\n也罢！不免将盔铠放在此处罢。\n哎，国母啊！"
-        },
-        {
-          "character": "李广",
-          "line_type": "唱",
-          "musical_style": null,
-          "style_family": null,
-          "text": "李广卸甲两泪汪，\n中途路上失皇娘。\n准备人马破庆阳。"
+          "text": "喂呀，方才有人讲到，捉拿金盔金甲李广，这便怎么处？"
         },
         {
           "character": "李广",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "奉命侯李广题。\n国母吓！"
+          "text": "也罢！不免将盔铠放在此处罢。"
+        },
+        {
+          "character": "李广",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "哎，国母啊！"
+        },
+        {
+          "character": "李广",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "李广卸甲两泪汪，"
+        },
+        {
+          "character": "李广",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "中途路上失皇娘。"
+        },
+        {
+          "character": "李广",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "准备人马破庆阳。"
+        },
+        {
+          "character": "李广",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "奉命侯李广题。"
+        },
+        {
+          "character": "李广",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "国母吓！"
         },
         {
           "character": null,
@@ -375,7 +507,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "奉命侯李广题。\n原来是李大人卸甲逃走。俺不免收了，后来也有出头之日也。"
+          "text": "奉命侯李广题。"
+        },
+        {
+          "character": "王君可",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "原来是李大人卸甲逃走。俺不免收了，后来也有出头之日也。"
         },
         {
           "character": null,
@@ -408,7 +547,17 @@
         "singing_ratio": 0.333,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.333,
+        0.48,
+        0.48,
+        0.04,
+        0.1667,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 4,
@@ -437,7 +586,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "吾女娲娘娘是也。今有杨国贞，身怀后朝阙龙，来在吾神殿前，须要护拥。\n众神将，各显神威。"
+          "text": "吾女娲娘娘是也。今有杨国贞，身怀后朝阙龙，来在吾神殿前，须要护拥。"
+        },
+        {
+          "character": "女娲",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "众神将，各显神威。"
         },
         {
           "character": null,
@@ -451,21 +607,49 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "天涯行走无处奔，\n腹内疼痛路难行。"
-        },
-        {
-          "character": "杨国贞",
-          "line_type": "白",
-          "musical_style": null,
-          "style_family": null,
-          "text": "来此已是女娲庙，待我进去歇息再走。\n哎呀娘娘吓！"
+          "text": "天涯行走无处奔，"
         },
         {
           "character": "杨国贞",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "杨国贞双膝跪埃尘，\n娘娘菩萨显威灵。\n满炉焚香谢上神。"
+          "text": "腹内疼痛路难行。"
+        },
+        {
+          "character": "杨国贞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来此已是女娲庙，待我进去歇息再走。"
+        },
+        {
+          "character": "杨国贞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "哎呀娘娘吓！"
+        },
+        {
+          "character": "杨国贞",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "杨国贞双膝跪埃尘，"
+        },
+        {
+          "character": "杨国贞",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "娘娘菩萨显威灵。"
+        },
+        {
+          "character": "杨国贞",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "满炉焚香谢上神。"
         },
         {
           "character": "杨国贞",
@@ -479,7 +663,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "腹内疼痛为何情？\n十月怀胎要降生。"
+          "text": "腹内疼痛为何情？"
+        },
+        {
+          "character": "杨国贞",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "十月怀胎要降生。"
         },
         {
           "character": null,
@@ -539,7 +730,17 @@
         "singing_ratio": 0.667,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.667,
+        0.5294,
+        0.4118,
+        0.0588,
+        0.0625,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 5,
@@ -579,7 +780,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.5,
+        0.5,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 6,
@@ -601,14 +812,35 @@
           "line_type": "念",
           "musical_style": null,
           "style_family": null,
-          "text": "绣花绣鸳鸯，风吹菊花香。三月桃花放，九月菊花黄。\n一般根在土，各自等时光。"
+          "text": "绣花绣鸳鸯，风吹菊花香。三月桃花放，九月菊花黄。"
+        },
+        {
+          "character": "刘玉英",
+          "line_type": "念",
+          "musical_style": null,
+          "style_family": null,
+          "text": "一般根在土，各自等时光。"
         },
         {
           "character": "刘玉英",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "奴家刘玉英。爹爹刘百万。家产有百万之富，单生奴家一人。每日绣楼习学针\n黹，今日闷闷不乐，不免去到花园散闷。\n丫鬟，带路花园。"
+          "text": "奴家刘玉英。爹爹刘百万。家产有百万之富，单生奴家一人。每日绣楼习学针"
+        },
+        {
+          "character": "刘玉英",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "黹，今日闷闷不乐，不免去到花园散闷。"
+        },
+        {
+          "character": "刘玉英",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "丫鬟，带路花园。"
         },
         {
           "character": "四丫鬟",
@@ -622,7 +854,21 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "一寸光阴一寸金，\n寸金难买寸光阴。\n失却光阴哪里寻。"
+          "text": "一寸光阴一寸金，"
+        },
+        {
+          "character": "刘玉英",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "寸金难买寸光阴。"
+        },
+        {
+          "character": "刘玉英",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "失却光阴哪里寻。"
         },
         {
           "character": null,
@@ -685,7 +931,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "叫丫鬟带路回绣房，\n神思恍忽为哪桩？"
+          "text": "叫丫鬟带路回绣房，"
+        },
+        {
+          "character": "刘玉英",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "神思恍忽为哪桩？"
         },
         {
           "character": null,
@@ -715,7 +968,17 @@
         "singing_ratio": 0.429,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.429,
+        0.3889,
+        0.5,
+        0.1111,
+        0.3529,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 7,
@@ -844,7 +1107,17 @@
         "singing_ratio": 0.444,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.444,
+        0.4444,
+        0.3333,
+        0.2222,
+        1.0,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 8,
@@ -870,7 +1143,21 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "我适才花园遭不幸，\n猛然狂风扑淋身。\n浑身麻木为何情？"
+          "text": "我适才花园遭不幸，"
+        },
+        {
+          "character": "刘玉英",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "猛然狂风扑淋身。"
+        },
+        {
+          "character": "刘玉英",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "浑身麻木为何情？"
         },
         {
           "character": null,
@@ -989,7 +1276,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "我这里翻身打一变，\n变个书生降下凡。"
+          "text": "我这里翻身打一变，"
+        },
+        {
+          "character": "公子",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "变个书生降下凡。"
         },
         {
           "character": "公子",
@@ -1003,7 +1297,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "将身且把绣房进，\n床上睡的女佳人。"
+          "text": "将身且把绣房进，"
+        },
+        {
+          "character": "公子",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "床上睡的女佳人。"
         },
         {
           "character": "公子",
@@ -1157,14 +1458,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "爹娘有所不知，自从那日花园游玩，猛然见一黑风扑来，女儿一时昏迷。之后\n每日有一书生来到绣房，儿就甚事不知了。"
+          "text": "爹娘有所不知，自从那日花园游玩，猛然见一黑风扑来，女儿一时昏迷。之后"
+        },
+        {
+          "character": "刘玉英",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "每日有一书生来到绣房，儿就甚事不知了。"
         },
         {
           "character": "刘员外",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "吓，这就奇怪了。吓，是了。想是吾儿被仙人扑身。我自有道理。\n刘来过来。"
+          "text": "吓，这就奇怪了。吓，是了。想是吾儿被仙人扑身。我自有道理。"
+        },
+        {
+          "character": "刘员外",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "刘来过来。"
         },
         {
           "character": null,
@@ -1353,7 +1668,17 @@
         "singing_ratio": 0.159,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.159,
+        0.2321,
+        0.6429,
+        0.125,
+        0.7636,
+        7,
+        0.0,
+        0.0
+      ]
     }
   ]
 }

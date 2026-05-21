@@ -88,14 +88,42 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "我、贾宝玉。自从那日与林妹妹，偷看《会真记》，她笑我是个银样镴枪头。\n我一怒之下，大病一月有余，未出“怡红院”大门一步。想她独坐潇湘，定是\n一样的愁损人也！"
+          "text": "我、贾宝玉。自从那日与林妹妹，偷看《会真记》，她笑我是个银样镴枪头。"
+        },
+        {
+          "character": "贾宝玉",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我一怒之下，大病一月有余，未出“怡红院”大门一步。想她独坐潇湘，定是"
+        },
+        {
+          "character": "贾宝玉",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "一样的愁损人也！"
         },
         {
           "character": "贾宝玉",
           "line_type": "西皮原板",
           "musical_style": "西皮原板",
           "style_family": "西皮",
-          "text": "病回春去感纷如，\n室近潇湘人迹疏。\n何时重见黛眉舒？"
+          "text": "病回春去感纷如，"
+        },
+        {
+          "character": "贾宝玉",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "室近潇湘人迹疏。"
+        },
+        {
+          "character": "贾宝玉",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "何时重见黛眉舒？"
         },
         {
           "character": "贾宝玉",
@@ -109,7 +137,21 @@
           "line_type": "西皮原板",
           "musical_style": "西皮原板",
           "style_family": "西皮",
-          "text": "步出怡红日已哺，\n移将花影过庭除。\n不见潇湘心辘辘。"
+          "text": "步出怡红日已哺，"
+        },
+        {
+          "character": "贾宝玉",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "移将花影过庭除。"
+        },
+        {
+          "character": "贾宝玉",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "不见潇湘心辘辘。"
         },
         {
           "character": null,
@@ -129,7 +171,17 @@
         "musical_styles": [
           "西皮原板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.5833,
+        0.3333,
+        0.0833,
+        0.0,
+        1,
+        0.5,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -166,14 +218,77 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "我、林黛玉。生不逢辰，命途多舛。自从双亲见背，寄居舅氏家中，镇日与宝\n玉哥哥晤言一室，十分相得。那日沁芳桥前，桃花树下，我二人偷看《会真记》，\n宝玉言道，他是一个“多愁多病的身”，我就是那“倾国倾城貌”。是我\n一时羞愤，假意要去告诉舅父、舅母。走到“梨香院”前，恰值那伶官等在内\n演习戏文，偶尔听得几句道：“原来是姹紫嫣红开遍，似这般都付与断井颓垣，\n良辰美景奈何天，赏心乐事谁家院？”又道是：“只为你如花美眷，似水流\n年。”情词悱恻，感慨良深，一直记在心头，不曾忘记。这几日宝玉哥哥他又\n病了，我这满腔心事，更向谁言？思想起来，好不伤感人也！"
+          "text": "我、林黛玉。生不逢辰，命途多舛。自从双亲见背，寄居舅氏家中，镇日与宝"
+        },
+        {
+          "character": "林黛玉",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "玉哥哥晤言一室，十分相得。那日沁芳桥前，桃花树下，我二人偷看《会真记》，"
+        },
+        {
+          "character": "林黛玉",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "宝玉言道，他是一个“多愁多病的身”，我就是那“倾国倾城貌”。是我"
+        },
+        {
+          "character": "林黛玉",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "一时羞愤，假意要去告诉舅父、舅母。走到“梨香院”前，恰值那伶官等在内"
+        },
+        {
+          "character": "林黛玉",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "演习戏文，偶尔听得几句道：“原来是姹紫嫣红开遍，似这般都付与断井颓垣，"
+        },
+        {
+          "character": "林黛玉",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "良辰美景奈何天，赏心乐事谁家院？”又道是：“只为你如花美眷，似水流"
+        },
+        {
+          "character": "林黛玉",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "年。”情词悱恻，感慨良深，一直记在心头，不曾忘记。这几日宝玉哥哥他又"
+        },
+        {
+          "character": "林黛玉",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "病了，我这满腔心事，更向谁言？思想起来，好不伤感人也！"
         },
         {
           "character": "林黛玉",
           "line_type": "二黄慢板",
           "musical_style": "二黄慢板",
           "style_family": "二黄",
-          "text": "西厢记牡丹亭潇湘写照，\n似有意若无意怎不魂消！\n怎奈这困人天燕姤莺撩。"
+          "text": "西厢记牡丹亭潇湘写照，"
+        },
+        {
+          "character": "林黛玉",
+          "line_type": "二黄慢板",
+          "musical_style": "二黄慢板",
+          "style_family": "二黄",
+          "text": "似有意若无意怎不魂消！"
+        },
+        {
+          "character": "林黛玉",
+          "line_type": "二黄慢板",
+          "musical_style": "二黄慢板",
+          "style_family": "二黄",
+          "text": "怎奈这困人天燕姤莺撩。"
         },
         {
           "character": "林黛玉",
@@ -229,7 +344,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "姑娘琴音缭乱，必然又有什么心事。待我来将她打断。\n姑娘，明日乃是饯花之期，姑娘你该休养休养才是呀！"
+          "text": "姑娘琴音缭乱，必然又有什么心事。待我来将她打断。"
+        },
+        {
+          "character": "紫鹃",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "姑娘，明日乃是饯花之期，姑娘你该休养休养才是呀！"
         },
         {
           "character": null,
@@ -292,7 +414,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "咳，似水流年，今果如此，杜丽娘有词伤春，我岂得无词寄兴，待我来题诗一\n首！"
+          "text": "咳，似水流年，今果如此，杜丽娘有词伤春，我岂得无词寄兴，待我来题诗一"
+        },
+        {
+          "character": "林黛玉",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "首！"
         },
         {
           "character": null,
@@ -306,7 +435,21 @@
           "line_type": "西皮原板",
           "musical_style": "西皮原板",
           "style_family": "西皮",
-          "text": "侬今制就送春词，\n望春归兮是何时！\n未死春蚕忍断丝！"
+          "text": "侬今制就送春词，"
+        },
+        {
+          "character": "林黛玉",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "望春归兮是何时！"
+        },
+        {
+          "character": "林黛玉",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "未死春蚕忍断丝！"
         },
         {
           "character": null,
@@ -390,7 +533,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "鹦鹉传呼，想是宝二爷来啦，待我进去看来。\n啊二爷，姑娘现在酣睡，你有话，等她起来再说吧。"
+          "text": "鹦鹉传呼，想是宝二爷来啦，待我进去看来。"
+        },
+        {
+          "character": "紫鹃",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "啊二爷，姑娘现在酣睡，你有话，等她起来再说吧。"
         },
         {
           "character": null,
@@ -558,7 +708,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "如今是新兴头，听了村话来，也说给我听，看了混账书，也拿我取笑，我倒做\n了替爷们解闷的了。我去告诉舅父、舅母，评评此理。"
+          "text": "如今是新兴头，听了村话来，也说给我听，看了混账书，也拿我取笑，我倒做"
+        },
+        {
+          "character": "林黛玉",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "了替爷们解闷的了。我去告诉舅父、舅母，评评此理。"
         },
         {
           "character": null,
@@ -572,7 +729,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "好妹妹，不要如此，我再说这样话，教我嘴上长个疔疮，烂了舌头，一辈子不\n能说话。"
+          "text": "好妹妹，不要如此，我再说这样话，教我嘴上长个疔疮，烂了舌头，一辈子不"
+        },
+        {
+          "character": "贾宝玉",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "能说话。"
         },
         {
           "character": null,
@@ -586,7 +750,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "咳，这是何苦？无缘无故地，又来跟姑娘生气。袭人刚来找你，叫你快去换衣\n裳，老爷叫你去哪。"
+          "text": "咳，这是何苦？无缘无故地，又来跟姑娘生气。袭人刚来找你，叫你快去换衣"
+        },
+        {
+          "character": "紫鹃",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "裳，老爷叫你去哪。"
         },
         {
           "character": "贾宝玉",
@@ -614,7 +785,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "我要走了。紫鹃，你好好伺候姑娘，我去去就来，好与你家姑娘陪礼，免得她\n又要生气。\n咳，这是哪里说起！"
+          "text": "我要走了。紫鹃，你好好伺候姑娘，我去去就来，好与你家姑娘陪礼，免得她"
+        },
+        {
+          "character": "贾宝玉",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "又要生气。"
+        },
+        {
+          "character": "贾宝玉",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "咳，这是哪里说起！"
         },
         {
           "character": null,
@@ -719,7 +904,14 @@
           "line_type": "西皮原板",
           "musical_style": "西皮原板",
           "style_family": "西皮",
-          "text": "苦衷情无处诉留证无人。\n待明朝收拾起瘗玉埋春。"
+          "text": "苦衷情无处诉留证无人。"
+        },
+        {
+          "character": "林黛玉",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "待明朝收拾起瘗玉埋春。"
         },
         {
           "character": "林黛玉",
@@ -782,7 +974,17 @@
           "西皮原板",
           "西皮导板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.064,
+        0.1351,
+        0.8378,
+        0.027,
+        0.589,
+        3,
+        0.0811,
+        0.0405
+      ]
     }
   ]
 }

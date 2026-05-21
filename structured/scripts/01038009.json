@@ -174,7 +174,35 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "某，鲁国吴起。以在鲁定王驾前为臣，进贡与齐邦。可恨钟无盐，暗用诡计，\n道某有顺齐伐鲁之心。鲁定王此时大怒，将我一双爹娘斩首。某家带领人马，\n反到盖国山，自立为王，召集英雄，以报父母冤仇。只因魏王有书前来，接某\n家前去赴会。正合吾意。\n众将，人马撤至教场。"
+          "text": "某，鲁国吴起。以在鲁定王驾前为臣，进贡与齐邦。可恨钟无盐，暗用诡计，"
+        },
+        {
+          "character": "吴起",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "道某有顺齐伐鲁之心。鲁定王此时大怒，将我一双爹娘斩首。某家带领人马，"
+        },
+        {
+          "character": "吴起",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "反到盖国山，自立为王，召集英雄，以报父母冤仇。只因魏王有书前来，接某"
+        },
+        {
+          "character": "吴起",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "家前去赴会。正合吾意。"
+        },
+        {
+          "character": "吴起",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "众将，人马撤至教场。"
         },
         {
           "character": null,
@@ -251,7 +279,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0909,
+        0.8182,
+        0.0909,
+        0.2,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -294,7 +332,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "某家正为此事。两队人马合为一处。\n众将官，人马合为一队，兵发魏邦！"
+          "text": "某家正为此事。两队人马合为一处。"
+        },
+        {
+          "character": "吴起",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "众将官，人马合为一队，兵发魏邦！"
         },
         {
           "character": null,
@@ -322,7 +367,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.75,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -361,7 +416,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "孤，魏灵公。只因齐邦为上，我国为下，年年进贡，每岁出朝，并无一礼回答。\n是孤心怀不忿，为此特请众位王爷到来，共伐齐邦。也曾命人前去相请，未\n见到来。\n来，伺候了。"
+          "text": "孤，魏灵公。只因齐邦为上，我国为下，年年进贡，每岁出朝，并无一礼回答。"
+        },
+        {
+          "character": "魏灵公",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "是孤心怀不忿，为此特请众位王爷到来，共伐齐邦。也曾命人前去相请，未"
+        },
+        {
+          "character": "魏灵公",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "见到来。"
+        },
+        {
+          "character": "魏灵公",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来，伺候了。"
         },
         {
           "character": null,
@@ -452,21 +528,49 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "众位王爷有所不知，只因齐景公收了钟无盐，压定我们一十一国，每年进贡，\n并无一礼回答。是孤心怀不忿，特请众位王爷到来，共伐齐邦。不知众位王爷\n意下如何？"
-        },
-        {
-          "character": "吴起",
-          "line_type": "白",
-          "musical_style": null,
-          "style_family": null,
-          "text": "魏王何不下书一封，请他君臣前来，定下湘江大会。酒席筵前，一股擒拿，岂\n不是好？"
+          "text": "众位王爷有所不知，只因齐景公收了钟无盐，压定我们一十一国，每年进贡，"
         },
         {
           "character": "魏灵公",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "此计甚好。\n来，浓墨伺候！"
+          "text": "并无一礼回答。是孤心怀不忿，特请众位王爷到来，共伐齐邦。不知众位王爷"
+        },
+        {
+          "character": "魏灵公",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "意下如何？"
+        },
+        {
+          "character": "吴起",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "魏王何不下书一封，请他君臣前来，定下湘江大会。酒席筵前，一股擒拿，岂"
+        },
+        {
+          "character": "吴起",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "不是好？"
+        },
+        {
+          "character": "魏灵公",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "此计甚好。"
+        },
+        {
+          "character": "魏灵公",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来，浓墨伺候！"
         },
         {
           "character": null,
@@ -560,7 +664,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0333,
+        0.8333,
+        0.1333,
+        0.5862,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 4,
@@ -590,7 +704,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "下官晏平仲。昨日魏王有书到来，候主登殿启奏便了。香烟蔼蔼，圣驾临朝，\n待我朝房伺候。"
+          "text": "下官晏平仲。昨日魏王有书到来，候主登殿启奏便了。香烟蔼蔼，圣驾临朝，"
+        },
+        {
+          "character": "晏婴",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "待我朝房伺候。"
         },
         {
           "character": null,
@@ -660,7 +781,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "孤，齐景公在位。今当早朝。\n卿家上殿，有何本奏？"
+          "text": "孤，齐景公在位。今当早朝。"
+        },
+        {
+          "character": "齐景公",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "卿家上殿，有何本奏？"
         },
         {
           "character": "晏婴",
@@ -709,7 +837,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "领旨。\n主公有旨：宣钟国母上殿。"
+          "text": "领旨。"
+        },
+        {
+          "character": "晏婴",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "主公有旨：宣钟国母上殿。"
         },
         {
           "character": "钟无盐",
@@ -772,7 +907,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "梓童有所不知，昨日魏王有书前来，请孤前去赴会。特宣梓童商议，孤王还是\n去如不去？"
+          "text": "梓童有所不知，昨日魏王有书前来，请孤前去赴会。特宣梓童商议，孤王还是"
+        },
+        {
+          "character": "齐景公",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "去如不去？"
         },
         {
           "character": "钟无盐",
@@ -793,7 +935,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "领旨。\n看香案伺候。"
+          "text": "领旨。"
+        },
+        {
+          "character": "钟无盐",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "看香案伺候。"
         },
         {
           "character": null,
@@ -814,7 +963,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "神圣在上，弟子钟无盐，保主赴会，有凶降凶，有吉降吉。单单测测，测见测，\n单见单，行人一去不回还。"
+          "text": "神圣在上，弟子钟无盐，保主赴会，有凶降凶，有吉降吉。单单测测，测见测，"
+        },
+        {
+          "character": "钟无盐",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "单见单，行人一去不回还。"
         },
         {
           "character": null,
@@ -828,7 +984,14 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "八卦上面查吉凶，\n湘江会上箭射龙。"
+          "text": "八卦上面查吉凶，"
+        },
+        {
+          "character": "钟无盐",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "湘江会上箭射龙。"
         },
         {
           "character": "齐景公",
@@ -912,7 +1075,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.032,
+        0.0714,
+        0.8333,
+        0.0952,
+        0.6341,
+        3,
+        0.0476,
+        0.0
+      ]
     },
     {
       "scene_index": 5,
@@ -1077,7 +1250,42 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "人马来往桑园径，\n此去尤恐有伤损。\n田论、关素贞听分明：\n一半人马随后跟。\n你保大王回御营。\n湘江会上显奇能。"
+          "text": "人马来往桑园径，"
+        },
+        {
+          "character": "钟无盐",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "此去尤恐有伤损。"
+        },
+        {
+          "character": "钟无盐",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "田论、关素贞听分明："
+        },
+        {
+          "character": "钟无盐",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "一半人马随后跟。"
+        },
+        {
+          "character": "钟无盐",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "你保大王回御营。"
+        },
+        {
+          "character": "钟无盐",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "湘江会上显奇能。"
         },
         {
           "character": null,
@@ -1142,7 +1350,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.053,
+        0.25,
+        0.5,
+        0.25,
+        0.7391,
+        7,
+        0.25,
+        0.0
+      ]
     },
     {
       "scene_index": 6,
@@ -2174,7 +2392,17 @@
           "西皮快板",
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.019,
+        0.1026,
+        0.8889,
+        0.0085,
+        0.8707,
+        10,
+        0.094,
+        0.0
+      ]
     },
     {
       "scene_index": 7,
@@ -2276,7 +2504,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 8,
@@ -2360,7 +2598,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        3,
+        0.0,
+        0.0
+      ]
     }
   ]
 }

@@ -123,7 +123,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "吾乃西天如来是也。今因维摩居士在毘耶离大城中现身有病。意欲命诸大弟子\n们前去问疾，藉谈妙法。\n文殊师利上站！"
+          "text": "吾乃西天如来是也。今因维摩居士在毘耶离大城中现身有病。意欲命诸大弟子"
+        },
+        {
+          "character": "如来",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "们前去问疾，藉谈妙法。"
+        },
+        {
+          "character": "如来",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "文殊师利上站！"
         },
         {
           "character": "文殊师利",
@@ -158,7 +172,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "看他们此去，必闻妙法。我不免再命天女前去散花，以验结习。\n伽蓝上站！"
+          "text": "看他们此去，必闻妙法。我不免再命天女前去散花，以验结习。"
+        },
+        {
+          "character": "如来",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "伽蓝上站！"
         },
         {
           "character": "伽蓝",
@@ -243,7 +264,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0625,
+        0.8125,
+        0.125,
+        0.5333,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -267,7 +298,21 @@
           "line_type": "二黄慢板",
           "musical_style": "二黄慢板",
           "style_family": "二黄",
-          "text": "悟妙道好一似春梦乍醒，\n猛然醒又入梦长夜冥冥；\n到无梦与无醒方见性灵。"
+          "text": "悟妙道好一似春梦乍醒，"
+        },
+        {
+          "character": "天女",
+          "line_type": "二黄慢板",
+          "musical_style": "二黄慢板",
+          "style_family": "二黄",
+          "text": "猛然醒又入梦长夜冥冥；"
+        },
+        {
+          "character": "天女",
+          "line_type": "二黄慢板",
+          "musical_style": "二黄慢板",
+          "style_family": "二黄",
+          "text": "到无梦与无醒方见性灵。"
         },
         {
           "character": null,
@@ -288,7 +333,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "吾乃天女是也。在这众香国中，拈花见性。每逢诸天菩萨、众大弟子等谈经说\n法之时，我便将花片散落其身，藉验结习，为我佛广宣妙谛，普种善根。正是："
+          "text": "吾乃天女是也。在这众香国中，拈花见性。每逢诸天菩萨、众大弟子等谈经说"
+        },
+        {
+          "character": "天女",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "法之时，我便将花片散落其身，藉验结习，为我佛广宣妙谛，普种善根。正是："
         },
         {
           "character": "天女",
@@ -400,7 +452,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "如来有旨，命我散花。待我即刻前去。\n啊，花奴何在？"
+          "text": "如来有旨，命我散花。待我即刻前去。"
+        },
+        {
+          "character": "天女",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "啊，花奴何在？"
         },
         {
           "character": "八侍女",
@@ -533,7 +592,17 @@
           "二黄慢板",
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.1,
+        0.1333,
+        0.7,
+        0.1667,
+        0.5517,
+        4,
+        0.0333,
+        0.1
+      ]
     },
     {
       "scene_index": 3,
@@ -554,14 +623,28 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "散花法旨传宣罢，\n回转灵山礼释迦。"
+          "text": "散花法旨传宣罢，"
+        },
+        {
+          "character": "伽蓝",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "回转灵山礼释迦。"
         },
         {
           "character": "伽蓝",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "吾乃伽蓝是也。遵奉佛旨，命天女前去散花。传旨已毕，不免回转灵山，启知\n我佛者。正是："
+          "text": "吾乃伽蓝是也。遵奉佛旨，命天女前去散花。传旨已毕，不免回转灵山，启知"
+        },
+        {
+          "character": "伽蓝",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我佛者。正是："
         },
         {
           "character": "伽蓝",
@@ -582,7 +665,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        1.0,
+        0.4,
+        0.4,
+        0.2,
+        0.0,
+        1,
+        0.4,
+        0.0
+      ]
     },
     {
       "scene_index": 4,
@@ -610,7 +703,14 @@
           "line_type": "西皮慢板",
           "musical_style": "西皮慢板",
           "style_family": "西皮",
-          "text": "离却了众香国遍历大千；\n一霎时来到了毕钵岩前。"
+          "text": "离却了众香国遍历大千；"
+        },
+        {
+          "character": "天女",
+          "line_type": "西皮慢板",
+          "musical_style": "西皮慢板",
+          "style_family": "西皮",
+          "text": "一霎时来到了毕钵岩前。"
         },
         {
           "character": "天女",
@@ -624,14 +724,49 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "天女是也。遵奉佛旨，去到净名室中散花。乘风驭气而来，也不知经过多少微\n尘世界。看旭日腾辉，瑶空散彩，毕钵山头好一派风景也！"
+          "text": "天女是也。遵奉佛旨，去到净名室中散花。乘风驭气而来，也不知经过多少微"
+        },
+        {
+          "character": "天女",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "尘世界。看旭日腾辉，瑶空散彩，毕钵山头好一派风景也！"
         },
         {
           "character": "天女",
           "line_type": "西皮二六板",
           "musical_style": "西皮二六板",
           "style_family": "西皮",
-          "text": "云外的须弥山色空四显，\n毕钵岩下觉岸无边。\n迦陵仙鸟舞翩跹。\n又见那入海的蛟螭在那浪中潜。\n青山一发普陀岩。"
+          "text": "云外的须弥山色空四显，"
+        },
+        {
+          "character": "天女",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "毕钵岩下觉岸无边。"
+        },
+        {
+          "character": "天女",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "迦陵仙鸟舞翩跹。"
+        },
+        {
+          "character": "天女",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "又见那入海的蛟螭在那浪中潜。"
+        },
+        {
+          "character": "天女",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "青山一发普陀岩。"
         },
         {
           "character": "天女",
@@ -661,7 +796,17 @@
           "西皮慢板",
           "西皮流水"
         ]
-      }
+      },
+      "scene_feature": [
+        1.0,
+        0.6667,
+        0.25,
+        0.0833,
+        0.0,
+        1,
+        0.6667,
+        0.0
+      ]
     },
     {
       "scene_index": 5,
@@ -682,14 +827,28 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "宝树金莲花采遍，\n法云护我下西天。"
+          "text": "宝树金莲花采遍，"
+        },
+        {
+          "character": "花奴",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "法云护我下西天。"
         },
         {
           "character": "花奴",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "我，花奴是也。遵奉佛旨，随同天女去到毘耶离大城、维摩居士室中散花。看\n天女已向前行，我只得急忙跟随者！"
+          "text": "我，花奴是也。遵奉佛旨，随同天女去到毘耶离大城、维摩居士室中散花。看"
+        },
+        {
+          "character": "花奴",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "天女已向前行，我只得急忙跟随者！"
         },
         {
           "character": "花奴",
@@ -711,7 +870,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.5,
+        0.6,
+        0.4,
+        0.0,
+        0.0,
+        1,
+        0.6,
+        0.0
+      ]
     },
     {
       "scene_index": 6,
@@ -766,7 +935,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "你看长者病了这些日子，他还要天天在禅榻上打坐，我们把这屋子给他收拾收\n拾罢。"
+          "text": "你看长者病了这些日子，他还要天天在禅榻上打坐，我们把这屋子给他收拾收"
+        },
+        {
+          "character": "沙弥甲",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "拾罢。"
         },
         {
           "character": "沙弥乙",
@@ -815,7 +991,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "咦，我想和尚哪能够真成了佛。要真是什么事也不办，那有多难过，我可不打\n坐，我办不了。"
+          "text": "咦，我想和尚哪能够真成了佛。要真是什么事也不办，那有多难过，我可不打"
+        },
+        {
+          "character": "沙弥乙",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "坐，我办不了。"
         },
         {
           "character": "沙弥甲",
@@ -829,7 +1012,35 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "巧啦，我还正想出这个门儿哪。我时常心里想着受苦的人有的是：有老来受苦\n的，也有中年受苦的，再不然，十来岁上就受苦。谁像我们做和尚的，在那娘\n肚子里头就苦出来了。就拿我说吧，我从小就多病，我那母亲有爱子之心，就\n请了个算命的先生来，把我的生日八字，左这么一推，右那么一算，算来算去，\n那先生简直的活见了鬼啦！"
+          "text": "巧啦，我还正想出这个门儿哪。我时常心里想着受苦的人有的是：有老来受苦"
+        },
+        {
+          "character": "沙弥乙",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "的，也有中年受苦的，再不然，十来岁上就受苦。谁像我们做和尚的，在那娘"
+        },
+        {
+          "character": "沙弥乙",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "肚子里头就苦出来了。就拿我说吧，我从小就多病，我那母亲有爱子之心，就"
+        },
+        {
+          "character": "沙弥乙",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "请了个算命的先生来，把我的生日八字，左这么一推，右那么一算，算来算去，"
+        },
+        {
+          "character": "沙弥乙",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "那先生简直的活见了鬼啦！"
         },
         {
           "character": "沙弥甲",
@@ -843,14 +1054,42 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "你听我说呀：先生他说，令郎的八字，混杂得很，非得改名换姓，才养活得大。\n说什么命犯孤魔，三六九岁实在难过。我那爹娘，听了这些话，吓得就起了\n个念头，赶紧送我到空门削发，烧香奉佛，才做了和尚。当了这么些年，我埋\n怨也来不及喽，简直的难过得厉害。"
+          "text": "你听我说呀：先生他说，令郎的八字，混杂得很，非得改名换姓，才养活得大。"
+        },
+        {
+          "character": "沙弥乙",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "说什么命犯孤魔，三六九岁实在难过。我那爹娘，听了这些话，吓得就起了"
+        },
+        {
+          "character": "沙弥乙",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "个念头，赶紧送我到空门削发，烧香奉佛，才做了和尚。当了这么些年，我埋"
+        },
+        {
+          "character": "沙弥乙",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "怨也来不及喽，简直的难过得厉害。"
         },
         {
           "character": "沙弥甲",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "师弟。这有什么难过。当初我来的时候，也是这个样儿，如今既出了家，就说\n不得啦！"
+          "text": "师弟。这有什么难过。当初我来的时候，也是这个样儿，如今既出了家，就说"
+        },
+        {
+          "character": "沙弥甲",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "不得啦！"
         },
         {
           "character": "沙弥乙",
@@ -871,14 +1110,49 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "他说：“徒弟，出家人可有许多难处。”我就说：“老师父，徒弟愿意来出家，\n我想这出家，不过是看经念佛，说说道法，有什么难处！”师父说：“你哪\n里知道，做和尚香醪美酒全无分，红粉佳人不许瞧；雪夜孤眠寒悄悄，霜天削\n发冷萧萧。要受尽万难千魔，要经过多少苦楚的。”是我再三的恳求，师父才\n把我收了徒弟。唉！那时候，我哪儿知道出家会真有这么些个难处呢！"
+          "text": "他说：“徒弟，出家人可有许多难处。”我就说：“老师父，徒弟愿意来出家，"
+        },
+        {
+          "character": "沙弥乙",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我想这出家，不过是看经念佛，说说道法，有什么难处！”师父说：“你哪"
+        },
+        {
+          "character": "沙弥乙",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "里知道，做和尚香醪美酒全无分，红粉佳人不许瞧；雪夜孤眠寒悄悄，霜天削"
+        },
+        {
+          "character": "沙弥乙",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "发冷萧萧。要受尽万难千魔，要经过多少苦楚的。”是我再三的恳求，师父才"
+        },
+        {
+          "character": "沙弥乙",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "把我收了徒弟。唉！那时候，我哪儿知道出家会真有这么些个难处呢！"
         },
         {
           "character": "沙弥甲",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "师弟，你不知道，出家人必须苦修苦练。像你这样儿整天价在庙里头鬼混，怎\n么能懂得佛门的奥妙呢！闲话少说，快点儿收拾收拾罢！"
+          "text": "师弟，你不知道，出家人必须苦修苦练。像你这样儿整天价在庙里头鬼混，怎"
+        },
+        {
+          "character": "沙弥甲",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "么能懂得佛门的奥妙呢！闲话少说，快点儿收拾收拾罢！"
         },
         {
           "character": "沙弥甲、沙弥乙",
@@ -934,7 +1208,35 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "俺，净名居士维摩诘。在这毘耶离城中居住。虽为白衣，奉持沙门清净律行，\n供养无量诸佛，深植善本，八大法门。意欲将无量方便，晓益众生，以此方便，\n现身得病。我想世尊大慈大悲，必然怜悯于我。因此将这屋中一切诸物，尽\n行除去，等候诸菩萨前来问病，也好与他们共谈妙法，同证菩提。\n尔等暂且退下。"
+          "text": "俺，净名居士维摩诘。在这毘耶离城中居住。虽为白衣，奉持沙门清净律行，"
+        },
+        {
+          "character": "维摩诘",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "供养无量诸佛，深植善本，八大法门。意欲将无量方便，晓益众生，以此方便，"
+        },
+        {
+          "character": "维摩诘",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "现身得病。我想世尊大慈大悲，必然怜悯于我。因此将这屋中一切诸物，尽"
+        },
+        {
+          "character": "维摩诘",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "行除去，等候诸菩萨前来问病，也好与他们共谈妙法，同证菩提。"
+        },
+        {
+          "character": "维摩诘",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "尔等暂且退下。"
         },
         {
           "character": null,
@@ -990,14 +1292,35 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "居士若来；已更不来，若去，已更不去。来者无所从来，去者无所从去。所可\n见者，更不可见。且问居士病体怎么样了？世尊殷勤致问。居士此病，因何而\n起？"
+          "text": "居士若来；已更不来，若去，已更不去。来者无所从来，去者无所从去。所可"
+        },
+        {
+          "character": "文殊师利",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "见者，更不可见。且问居士病体怎么样了？世尊殷勤致问。居士此病，因何而"
+        },
+        {
+          "character": "文殊师利",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "起？"
         },
         {
           "character": "维摩诘",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "从痴爱则我病生，因为一切众生病了，故而我也得病；倘若一切众生不病，我\n的病么，也就好了。"
+          "text": "从痴爱则我病生，因为一切众生病了，故而我也得病；倘若一切众生不病，我"
+        },
+        {
+          "character": "维摩诘",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "的病么，也就好了。"
         },
         {
           "character": "文殊师利",
@@ -1011,7 +1334,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "唉！文殊师利菩萨，哪知道因为众生，故入生死，有生死则有病疾。倘若众生\n不病，则菩萨亦无有病。譬如长者惟有一子，其子得病，父母亦病；若子病愈，\n父母亦愈。菩萨之于众生，爱之如子，众生病则菩萨病；众生病愈，菩萨亦\n愈。菩萨的病，都是因为大悲而起的。"
+          "text": "唉！文殊师利菩萨，哪知道因为众生，故入生死，有生死则有病疾。倘若众生"
+        },
+        {
+          "character": "维摩诘",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "不病，则菩萨亦无有病。譬如长者惟有一子，其子得病，父母亦病；若子病愈，"
+        },
+        {
+          "character": "维摩诘",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "父母亦愈。菩萨之于众生，爱之如子，众生病则菩萨病；众生病愈，菩萨亦"
+        },
+        {
+          "character": "维摩诘",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "愈。菩萨的病，都是因为大悲而起的。"
         },
         {
           "character": "文殊师利",
@@ -1352,7 +1696,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0125,
+        0.9,
+        0.0875,
+        0.6203,
+        9,
+        0.0,
+        0.0
+      ]
     }
   ]
 }

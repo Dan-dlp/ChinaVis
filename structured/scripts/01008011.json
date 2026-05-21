@@ -111,7 +111,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "奴家白氏金莲，许配胡能手为妻。吃亦不得吃，穿也没得穿，外头欠了不少的\n帐，天天有人上门要账。他怎么老不死，等他死了我就好。"
+          "text": "奴家白氏金莲，许配胡能手为妻。吃亦不得吃，穿也没得穿，外头欠了不少的"
+        },
+        {
+          "character": "白金莲",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "帐，天天有人上门要账。他怎么老不死，等他死了我就好。"
         },
         {
           "character": null,
@@ -181,7 +188,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "慢走不送。\n你们看看，有人前来要账，他睡到这个，还不起来。\n我说你该起来罢！"
+          "text": "慢走不送。"
+        },
+        {
+          "character": "白金莲",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "你们看看，有人前来要账，他睡到这个，还不起来。"
+        },
+        {
+          "character": "白金莲",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我说你该起来罢！"
         },
         {
           "character": null,
@@ -195,7 +216,14 @@
           "line_type": "数板",
           "musical_style": null,
           "style_family": null,
-          "text": "家住安徽石碑街，讨个老婆会卖乖。前门开的裁缝铺，后门又把窑子开。这个\n买卖不发财，只是活该真活该。"
+          "text": "家住安徽石碑街，讨个老婆会卖乖。前门开的裁缝铺，后门又把窑子开。这个"
+        },
+        {
+          "character": "胡能手",
+          "line_type": "数板",
+          "musical_style": null,
+          "style_family": null,
+          "text": "买卖不发财，只是活该真活该。"
         },
         {
           "character": "胡能手",
@@ -370,7 +398,21 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "我今低头来暗想，\n可恨父母做事差。\n为什么叫我学裁缝？"
+          "text": "我今低头来暗想，"
+        },
+        {
+          "character": "胡能手",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "可恨父母做事差。"
+        },
+        {
+          "character": "胡能手",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "为什么叫我学裁缝？"
         },
         {
           "character": null,
@@ -421,7 +463,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.1282,
+        0.8462,
+        0.0256,
+        0.7632,
+        4,
+        0.0769,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -447,21 +499,56 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "酒不醉人人自醉，\n色不迷人人自迷。"
-        },
-        {
-          "character": "贾有礼",
-          "line_type": "白",
-          "musical_style": null,
-          "style_family": null,
-          "text": "我，贾有礼。在四马路口开了一个绸缎铺。只因胡能手，欠我一匹湖绉的钱，\n老不还我。他的老婆，生来不错。不免待我前去。胡能手在家，我只说要钱；\n倘若他不在家，我与他老婆眉来眼去，如若此事成功，这乃是我父母的阴功、\n祖上的德行也。"
+          "text": "酒不醉人人自醉，"
         },
         {
           "character": "贾有礼",
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "三步当做两步走，\n一步来到他家门。"
+          "text": "色不迷人人自迷。"
+        },
+        {
+          "character": "贾有礼",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我，贾有礼。在四马路口开了一个绸缎铺。只因胡能手，欠我一匹湖绉的钱，"
+        },
+        {
+          "character": "贾有礼",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "老不还我。他的老婆，生来不错。不免待我前去。胡能手在家，我只说要钱；"
+        },
+        {
+          "character": "贾有礼",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "倘若他不在家，我与他老婆眉来眼去，如若此事成功，这乃是我父母的阴功、"
+        },
+        {
+          "character": "贾有礼",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "祖上的德行也。"
+        },
+        {
+          "character": "贾有礼",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "三步当做两步走，"
+        },
+        {
+          "character": "贾有礼",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "一步来到他家门。"
         },
         {
           "character": "贾有礼",
@@ -482,7 +569,14 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "忽听门外有人声，\n待我开门看分明。"
+          "text": "忽听门外有人声，"
+        },
+        {
+          "character": "白金莲",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "待我开门看分明。"
         },
         {
           "character": "白金莲",
@@ -503,7 +597,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "原来是贾大爷。我丈夫不在家，你不要上门要账。我丈夫说，过了二十五、六，\n一准送来。你慢走吓，我不送你了。"
+          "text": "原来是贾大爷。我丈夫不在家，你不要上门要账。我丈夫说，过了二十五、六，"
+        },
+        {
+          "character": "白金莲",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "一准送来。你慢走吓，我不送你了。"
         },
         {
           "character": "贾有礼",
@@ -552,7 +653,14 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "自从大爷出门后，\n天天打骂我难做人。"
+          "text": "自从大爷出门后，"
+        },
+        {
+          "character": "白金莲",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "天天打骂我难做人。"
         },
         {
           "character": null,
@@ -671,14 +779,35 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "放开大步往前进，\n不觉来到自家门。"
+          "text": "放开大步往前进，"
+        },
+        {
+          "character": "胡能手",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "不觉来到自家门。"
         },
         {
           "character": "胡能手",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "张老爷待我老子真真好，请我吃了大碗酒大块的肉，还把我一吊钱。我要回家\n了。你们看看，青天白日把门关上，成什么样儿，待我来叫门。\n老婆开门，老婆开门！"
+          "text": "张老爷待我老子真真好，请我吃了大碗酒大块的肉，还把我一吊钱。我要回家"
+        },
+        {
+          "character": "胡能手",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "了。你们看看，青天白日把门关上，成什么样儿，待我来叫门。"
+        },
+        {
+          "character": "胡能手",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "老婆开门，老婆开门！"
         },
         {
           "character": null,
@@ -762,7 +891,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "老婆，张老爷待老子真真好。袍子套子做好了，他请我吃了大碗的酒、大块的\n肉，还把我一吊钱。"
+          "text": "老婆，张老爷待老子真真好。袍子套子做好了，他请我吃了大碗的酒、大块的"
+        },
+        {
+          "character": "胡能手",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "肉，还把我一吊钱。"
         },
         {
           "character": "白金莲",
@@ -853,7 +989,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "你睡吧，睡好，我与你盖上，好好的睡。\n嘿，你快出来吧！"
+          "text": "你睡吧，睡好，我与你盖上，好好的睡。"
+        },
+        {
+          "character": "白金莲",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "嘿，你快出来吧！"
         },
         {
           "character": null,
@@ -916,7 +1059,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "好吓，你只管回去，我今晚把他害死，明日只说你叫我把他死的，看你往哪里\n跑？"
+          "text": "好吓，你只管回去，我今晚把他害死，明日只说你叫我把他死的，看你往哪里"
+        },
+        {
+          "character": "白金莲",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "跑？"
         },
         {
           "character": "贾有礼",
@@ -1007,7 +1157,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "害个把人，算不了什么，待我假意哭起来。\n哎呀我的夫吓，夫吓！"
+          "text": "害个把人，算不了什么，待我假意哭起来。"
+        },
+        {
+          "character": "白金莲",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "哎呀我的夫吓，夫吓！"
         },
         {
           "character": null,
@@ -1063,7 +1220,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "待我去。\n我说阴阳先生可在家么？"
+          "text": "待我去。"
+        },
+        {
+          "character": "乡邻甲",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我说阴阳先生可在家么？"
         },
         {
           "character": null,
@@ -1203,7 +1367,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "好厉害的时辰。大嫂子你听着：他这人心是直的，欢喜戴高帽子的，走的是竹\n节运，脾气毛松松的，后来有两子送终。你拿去盖在面上，我要去了。"
+          "text": "好厉害的时辰。大嫂子你听着：他这人心是直的，欢喜戴高帽子的，走的是竹"
+        },
+        {
+          "character": "阴阳先生",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "节运，脾气毛松松的，后来有两子送终。你拿去盖在面上，我要去了。"
         },
         {
           "character": null,
@@ -1285,7 +1456,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.055,
+        0.1034,
+        0.8879,
+        0.0086,
+        0.7652,
+        6,
+        0.1034,
+        0.0
+      ]
     }
   ]
 }

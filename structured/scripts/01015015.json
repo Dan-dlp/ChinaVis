@@ -137,7 +137,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "请了。你我奉了军师将令，带了人马，在江边埋伏，不许周瑜过江。你听喊杀\n连天，想必周瑜来也。\n众将官，埋伏者。"
+          "text": "请了。你我奉了军师将令，带了人马，在江边埋伏，不许周瑜过江。你听喊杀"
+        },
+        {
+          "character": "刘封",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "连天，想必周瑜来也。"
+        },
+        {
+          "character": "刘封",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "众将官，埋伏者。"
         },
         {
           "character": null,
@@ -166,7 +180,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.6,
+        0.4,
+        0.5,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -220,7 +244,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "想吾周瑜，几番用计，俱被孔明解破。孔明吓，孔明，你道吾不能取川，俺定\n要夺取西川与你看看！\n众将官，人马撤回江边船上去者。"
+          "text": "想吾周瑜，几番用计，俱被孔明解破。孔明吓，孔明，你道吾不能取川，俺定"
+        },
+        {
+          "character": "周瑜",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "要夺取西川与你看看！"
+        },
+        {
+          "character": "周瑜",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "众将官，人马撤回江边船上去者。"
         },
         {
           "character": null,
@@ -241,7 +279,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "啊呀，你看孔明这贼，使人挡住我的去路。\n众将官，一齐上船。"
+          "text": "啊呀，你看孔明这贼，使人挡住我的去路。"
+        },
+        {
+          "character": "周瑜",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "众将官，一齐上船。"
         },
         {
           "character": "刘封、糜竺",
@@ -276,7 +321,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "众将军请了。军师将令，不放他回去。你我就在江边埋伏。\n来，埋伏者。"
+          "text": "众将军请了。军师将令，不放他回去。你我就在江边埋伏。"
+        },
+        {
+          "character": "张飞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来，埋伏者。"
         },
         {
           "character": null,
@@ -316,7 +368,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.143,
+        0.1538,
+        0.8462,
+        0.0,
+        0.4167,
+        4,
+        0.1538,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -345,7 +407,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "啊呀，俺本当转回南徐，可恨孔明挡住去路，不容俺回都，这便怎处？\n众将官，前面是什么地方？"
+          "text": "啊呀，俺本当转回南徐，可恨孔明挡住去路，不容俺回都，这便怎处？"
+        },
+        {
+          "character": "周瑜",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "众将官，前面是什么地方？"
         },
         {
           "character": "众人",
@@ -387,10 +456,31 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "屡次兴兵龙虎斗，\n损兵折将面含羞。\n枉费徒劳统貔貅。"
+          "text": "屡次兴兵龙虎斗，"
         },
         {
-          "character": "诸葛计策真不透、甘宁",
+          "character": "周瑜",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "损兵折将面含羞。"
+        },
+        {
+          "character": "周瑜",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "枉费徒劳统貔貅。"
+        },
+        {
+          "character": "周瑜",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "诸葛计策真不透"
+        },
+        {
+          "character": "甘宁",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -401,7 +491,49 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "将书呈上，待我拆看：\n“汉军师中郎将诸葛亮，致书于东吴都督周公瑾先生麾下。亮自柴桑一别，至\n今念念不忘。闻足下欲取西川，亮窃以为不可。益州民强地险，刘璋软弱，足\n以自守。今劳师远征，转运万里，欲收全功，管乐不能定其功，孙武不能善其\n后。曹操失利于赤壁，志岂须臾忘报仇哉。今足下兴兵远征，倘曹操乘虚而至，\n江南齑粉矣。亮不忍坐视，特此告知，幸垂临焉。”\n啊呀，气死我也！"
+          "text": "将书呈上，待我拆看："
+        },
+        {
+          "character": "周瑜",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "“汉军师中郎将诸葛亮，致书于东吴都督周公瑾先生麾下。亮自柴桑一别，至"
+        },
+        {
+          "character": "周瑜",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "今念念不忘。闻足下欲取西川，亮窃以为不可。益州民强地险，刘璋软弱，足"
+        },
+        {
+          "character": "周瑜",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "以自守。今劳师远征，转运万里，欲收全功，管乐不能定其功，孙武不能善其"
+        },
+        {
+          "character": "周瑜",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "后。曹操失利于赤壁，志岂须臾忘报仇哉。今足下兴兵远征，倘曹操乘虚而至，"
+        },
+        {
+          "character": "周瑜",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "江南齑粉矣。亮不忍坐视，特此告知，幸垂临焉。”"
+        },
+        {
+          "character": "周瑜",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "啊呀，气死我也！"
         },
         {
           "character": "周瑜",
@@ -422,10 +554,24 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "鲜血不住顺口流。\n这封书好一似神鬼钩。"
+          "text": "鲜血不住顺口流。"
         },
         {
-          "character": "大骂孔明诡计有、四将",
+          "character": "周瑜",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "这封书好一似神鬼钩。"
+        },
+        {
+          "character": "周瑜",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "大骂孔明诡计有"
+        },
+        {
+          "character": "四将",
           "line_type": "同白",
           "musical_style": null,
           "style_family": null,
@@ -436,7 +582,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "众位将军，我周瑜今番性命休矣。吾这里寄书回见吴侯，说周瑜不能生回，可\n将兵权印玺付与鲁肃执掌，众将协力报效，自有封妻荫子之日，共成大业。敢\n烦甘将军，与吾带书叩见吴侯。"
+          "text": "众位将军，我周瑜今番性命休矣。吾这里寄书回见吴侯，说周瑜不能生回，可"
+        },
+        {
+          "character": "周瑜",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "将兵权印玺付与鲁肃执掌，众将协力报效，自有封妻荫子之日，共成大业。敢"
+        },
+        {
+          "character": "周瑜",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "烦甘将军，与吾带书叩见吴侯。"
         },
         {
           "character": "甘宁",
@@ -464,14 +624,63 @@
           "line_type": "西皮原板",
           "musical_style": "西皮原板",
           "style_family": "西皮",
-          "text": "诚惶诚恐奉吴侯：\n空食爵禄数十秋。\n鲁肃可以统貔貅。\n周瑜顿首手书叩。\n甘宁转达奉龙楼。"
+          "text": "诚惶诚恐奉吴侯："
         },
         {
-          "character": "为臣光宠不长久、倘若为臣死之后、甘宁",
+          "character": "周瑜",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "空食爵禄数十秋。"
+        },
+        {
+          "character": "周瑜",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "鲁肃可以统貔貅。"
+        },
+        {
+          "character": "周瑜",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "周瑜顿首手书叩。"
+        },
+        {
+          "character": "周瑜",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "甘宁转达奉龙楼。"
+        },
+        {
+          "character": "周瑜",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "为臣光宠不长久"
+        },
+        {
+          "character": "周瑜",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "倘若为臣死之后"
+        },
+        {
+          "character": "甘宁",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "辞别都督出帐口，\n披星戴月不停留。"
+          "text": "辞别都督出帐口，"
+        },
+        {
+          "character": "甘宁",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "披星戴月不停留。"
         },
         {
           "character": null,
@@ -534,14 +743,35 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "咳，列位将军，想吾料难逃生。吾死之后，你们拿住孔明，将他碎尸万段。吾\n在九泉之下，也感众位将军之恩。"
+          "text": "咳，列位将军，想吾料难逃生。吾死之后，你们拿住孔明，将他碎尸万段。吾"
+        },
+        {
+          "character": "周瑜",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "在九泉之下，也感众位将军之恩。"
         },
         {
           "character": "周瑜",
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "对着众将双叩首，\n拿住孔明报冤仇。\n拜叩主恩谢吴侯。"
+          "text": "对着众将双叩首，"
+        },
+        {
+          "character": "周瑜",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "拿住孔明报冤仇。"
+        },
+        {
+          "character": "周瑜",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "拜叩主恩谢吴侯。"
         },
         {
           "character": null,
@@ -604,7 +834,14 @@
           "line_type": "同白",
           "musical_style": null,
           "style_family": null,
-          "text": "有理，请。\n众将官，紧守营门。"
+          "text": "有理，请。"
+        },
+        {
+          "character": "四将",
+          "line_type": "同白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "众将官，紧守营门。"
         },
         {
           "character": null,
@@ -662,7 +899,17 @@
           "西皮导板",
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.182,
+        0.463,
+        0.537,
+        0.0,
+        0.3208,
+        5,
+        0.3704,
+        0.0
+      ]
     },
     {
       "scene_index": 4,
@@ -700,7 +947,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "栏江排下千丝网，\n何愁鱼儿不上钩。"
+          "text": "栏江排下千丝网，"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "何愁鱼儿不上钩。"
         },
         {
           "character": "诸葛亮",
@@ -714,14 +968,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "先生请坐。吓，先生阴阳，能夺周郎诡计，调遣诸将，四路埋伏，不知胜负，\n先生又命人下书，是何缘故？"
+          "text": "先生请坐。吓，先生阴阳，能夺周郎诡计，调遣诸将，四路埋伏，不知胜负，"
+        },
+        {
+          "character": "刘备",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "先生又命人下书，是何缘故？"
         },
         {
           "character": "诸葛亮",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "主公不知：昨晚山人，仰观天象，见将星堕落西地。周郎必去世矣。山人方才\n这封书，正是阎王邀帖。"
+          "text": "主公不知：昨晚山人，仰观天象，见将星堕落西地。周郎必去世矣。山人方才"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "这封书，正是阎王邀帖。"
         },
         {
           "character": "刘备",
@@ -756,7 +1024,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "禀上主公、军师，末将奉命下书于周郎，瑜见此书，呕血而亡。特来启禀主公\n军师知道。"
+          "text": "禀上主公、军师，末将奉命下书于周郎，瑜见此书，呕血而亡。特来启禀主公"
+        },
+        {
+          "character": "报子",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "军师知道。"
         },
         {
           "character": "诸葛亮",
@@ -819,7 +1094,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "主公不晓，亮观天象，将星聚于东方。吾此番要到吴营，假意吊孝为由，往东\n方去访贤士，扶保主公。"
+          "text": "主公不晓，亮观天象，将星聚于东方。吾此番要到吴营，假意吊孝为由，往东"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "方去访贤士，扶保主公。"
         },
         {
           "character": "刘备",
@@ -833,7 +1115,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "不妨。周郎在世，亮都不惧，他今已死，又何患乎？山人从巴邱而过，带赵云\n前走，料然无事。"
+          "text": "不妨。周郎在世，亮都不惧，他今已死，又何患乎？山人从巴邱而过，带赵云"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "前走，料然无事。"
         },
         {
           "character": "刘备",
@@ -847,14 +1136,56 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "先生休得自逞强，\n东吴人儿似虎狼。\n怕的失机难提防。"
+          "text": "先生休得自逞强，"
         },
         {
-          "character": "你今去把吴营闯、诸葛亮",
+          "character": "刘备",
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "主公但把宽心放，\n山人言来听端详：\n自有妙计暗提防。\n哪怕东吴百万郎。"
+          "text": "东吴人儿似虎狼。"
+        },
+        {
+          "character": "刘备",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "怕的失机难提防。"
+        },
+        {
+          "character": "刘备",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "你今去把吴营闯"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "主公但把宽心放，"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "山人言来听端详："
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "自有妙计暗提防。"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "哪怕东吴百万郎。"
         },
         {
           "character": null,
@@ -905,7 +1236,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.15,
+        0.3143,
+        0.6286,
+        0.0571,
+        0.5588,
+        3,
+        0.2571,
+        0.0
+      ]
     },
     {
       "scene_index": 5,
@@ -928,7 +1269,14 @@
           "line_type": "同唱",
           "musical_style": null,
           "style_family": null,
-          "text": "被围巴邱待旨降，\n满营将官俱挂丧。"
+          "text": "被围巴邱待旨降，"
+        },
+        {
+          "character": "四将",
+          "line_type": "同唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "满营将官俱挂丧。"
         },
         {
           "character": "将甲",
@@ -1006,7 +1354,17 @@
         "singing_ratio": 0.125,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.125,
+        0.2857,
+        0.7143,
+        0.0,
+        0.8333,
+        3,
+        0.0,
+        0.0
+      ]
     }
   ]
 }

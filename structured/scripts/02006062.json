@@ -99,14 +99,35 @@
           "line_type": "念",
           "musical_style": null,
           "style_family": null,
-          "text": "纤云弄巧，飞星传恨，银汉秋光暗度。金风玉露一相逢，便胜却人间无数。\n柔肠似水，佳期如梦，遥指鹊桥前路。两情若是久长时，又岂在朝朝暮暮。"
+          "text": "纤云弄巧，飞星传恨，银汉秋光暗度。金风玉露一相逢，便胜却人间无数。"
+        },
+        {
+          "character": "织女",
+          "line_type": "念",
+          "musical_style": null,
+          "style_family": null,
+          "text": "柔肠似水，佳期如梦，遥指鹊桥前路。两情若是久长时，又岂在朝朝暮暮。"
         },
         {
           "character": "织女",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "我乃天孙织女是也。蒙上帝谕旨，与牛郎结为天上夫妇。年年七夕，渡河相见。\n今乃下界天宝十载，七月七夕。你看银河无浪，喜鹊将填，不免暂撤机丝，\n整妆而待。"
+          "text": "我乃天孙织女是也。蒙上帝谕旨，与牛郎结为天上夫妇。年年七夕，渡河相见。"
+        },
+        {
+          "character": "织女",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "今乃下界天宝十载，七月七夕。你看银河无浪，喜鹊将填，不免暂撤机丝，"
+        },
+        {
+          "character": "织女",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "整妆而待。"
         },
         {
           "character": null,
@@ -253,7 +274,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.8462,
+        0.1538,
+        0.6667,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -389,7 +420,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "妾思牛郎织女，虽则七夕一度，却是地久天长。只恐陛下与妾的恩情，不能够\n似他们长远。"
+          "text": "妾思牛郎织女，虽则七夕一度，却是地久天长。只恐陛下与妾的恩情，不能够"
+        },
+        {
+          "character": "杨玉环",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "似他们长远。"
         },
         {
           "character": "李隆基",
@@ -689,7 +727,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.8571,
+        0.1429,
+        0.7778,
+        4,
+        0.0,
+        0.0
+      ]
     }
   ]
 }

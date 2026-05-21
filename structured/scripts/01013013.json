@@ -159,7 +159,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "我，骆宏勋。只因求取功名，来在都门，已有几载，怎奈机缘不遇，终日奔忙。\n老母现在山东，是我意欲回家探望。"
+          "text": "我，骆宏勋。只因求取功名，来在都门，已有几载，怎奈机缘不遇，终日奔忙。"
+        },
+        {
+          "character": "骆宏勋",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "老母现在山东，是我意欲回家探望。"
         },
         {
           "character": null,
@@ -201,7 +208,14 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "叫人来与爷忙带马，\n披星戴月转回家。"
+          "text": "叫人来与爷忙带马，"
+        },
+        {
+          "character": "骆宏勋",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "披星戴月转回家。"
         },
         {
           "character": null,
@@ -232,7 +246,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.2,
+        0.3,
+        0.6,
+        0.1,
+        0.4444,
+        2,
+        0.2,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -267,7 +291,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "俺，巴杰。祖居酸枣岭下，自幼好习拳棒，今日闲暇无事。\n庄丁们！庄外操练一番。"
+          "text": "俺，巴杰。祖居酸枣岭下，自幼好习拳棒，今日闲暇无事。"
+        },
+        {
+          "character": "巴杰",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "庄丁们！庄外操练一番。"
         },
         {
           "character": null,
@@ -314,7 +345,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.1667,
+        0.6667,
+        0.1667,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -373,7 +414,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "公子有所不知，小人名叫董元，奉了我家寨主花镇芳之命，沿途开了店房等候\n骆公子，不料竟自遇着了。"
+          "text": "公子有所不知，小人名叫董元，奉了我家寨主花镇芳之命，沿途开了店房等候"
+        },
+        {
+          "character": "董元",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "骆公子，不料竟自遇着了。"
         },
         {
           "character": "骆宏勋",
@@ -401,7 +449,14 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "老丈与我把路带，\n直奔花家寨上来。"
+          "text": "老丈与我把路带，"
+        },
+        {
+          "character": "骆宏勋",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "直奔花家寨上来。"
         },
         {
           "character": null,
@@ -464,7 +519,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "起过了。\n想那骆公子，乃是我的仇人到了。我岂肯放他过去。\n众庄丁！赶上前去。"
+          "text": "起过了。"
+        },
+        {
+          "character": "巴杰",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "想那骆公子，乃是我的仇人到了。我岂肯放他过去。"
+        },
+        {
+          "character": "巴杰",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "众庄丁！赶上前去。"
         },
         {
           "character": null,
@@ -516,7 +585,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.1,
+        0.85,
+        0.05,
+        0.7368,
+        4,
+        0.1,
+        0.0
+      ]
     },
     {
       "scene_index": 4,
@@ -620,7 +699,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 5,
@@ -685,7 +774,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 6,
@@ -709,7 +808,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "巴杰被我刺死，看那面定是他母亲赶来了，这便怎么处？\n那边有两个农人，不免借他二人衣帽穿戴，混他一时再作道理。\n二位请了。二位衣帽借我等一用，以救我二人性命。我等感恩非浅。"
+          "text": "巴杰被我刺死，看那面定是他母亲赶来了，这便怎么处？"
+        },
+        {
+          "character": "骆宏勋",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "那边有两个农人，不免借他二人衣帽穿戴，混他一时再作道理。"
+        },
+        {
+          "character": "骆宏勋",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "二位请了。二位衣帽借我等一用，以救我二人性命。我等感恩非浅。"
         },
         {
           "character": "二农夫",
@@ -799,7 +912,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.7143,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 7,
@@ -831,7 +954,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "在下胡理。只因我哥哥胡琏与骆宏勋同窗学艺，曾叫我到京都保护于他，是我\n晚去明来足足两月，到也平安无事。这几天天气不好，这店中也没有什么客人。\n今日天气晴和，不免将招牌挂上，倘有倒运的前来，也未可知。\n我说有住店的这儿来呀！"
+          "text": "在下胡理。只因我哥哥胡琏与骆宏勋同窗学艺，曾叫我到京都保护于他，是我"
+        },
+        {
+          "character": "胡理",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "晚去明来足足两月，到也平安无事。这几天天气不好，这店中也没有什么客人。"
+        },
+        {
+          "character": "胡理",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "今日天气晴和，不免将招牌挂上，倘有倒运的前来，也未可知。"
+        },
+        {
+          "character": "胡理",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我说有住店的这儿来呀！"
         },
         {
           "character": null,
@@ -915,7 +1059,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "包子到。我说客人，若有金银财宝，交给我，有了差错，我管包赔。要是不交\n给我，倘有失落，我可不管。"
+          "text": "包子到。我说客人，若有金银财宝，交给我，有了差错，我管包赔。要是不交"
+        },
+        {
+          "character": "胡理",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "给我，倘有失落，我可不管。"
         },
         {
           "character": "骆宏勋",
@@ -1062,14 +1213,35 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "想俺骆宏勋，实指望回家探母，不料行至酸枣岭，偶遇巴杰，是我二人言语不\n合，争斗起来，我一时失手，竟将他一剑刺死。思想起来，好不烦闷也！"
+          "text": "想俺骆宏勋，实指望回家探母，不料行至酸枣岭，偶遇巴杰，是我二人言语不"
+        },
+        {
+          "character": "骆宏勋",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "合，争斗起来，我一时失手，竟将他一剑刺死。思想起来，好不烦闷也！"
         },
         {
           "character": "骆宏勋",
           "line_type": "二黄摇板",
           "musical_style": "二黄摇板",
           "style_family": "二黄",
-          "text": "独坐在招商店自思自叹，\n思想起老娘亲珠泪涟涟。\n又谁知酸枣岭又起祸端。"
+          "text": "独坐在招商店自思自叹，"
+        },
+        {
+          "character": "骆宏勋",
+          "line_type": "二黄摇板",
+          "musical_style": "二黄摇板",
+          "style_family": "二黄",
+          "text": "思想起老娘亲珠泪涟涟。"
+        },
+        {
+          "character": "骆宏勋",
+          "line_type": "二黄摇板",
+          "musical_style": "二黄摇板",
+          "style_family": "二黄",
+          "text": "又谁知酸枣岭又起祸端。"
         },
         {
           "character": null,
@@ -1083,7 +1255,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "且住，闹了半天，敢莫是骆公子以了。不知为了何事，待我向前叫门，问个明\n白便了。\n我说客人，与我开门来。"
+          "text": "且住，闹了半天，敢莫是骆公子以了。不知为了何事，待我向前叫门，问个明"
+        },
+        {
+          "character": "胡理",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "白便了。"
+        },
+        {
+          "character": "胡理",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我说客人，与我开门来。"
         },
         {
           "character": null,
@@ -1139,7 +1325,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "待我掌灯去。\n请问尊驾敢是骆公子么？"
+          "text": "待我掌灯去。"
+        },
+        {
+          "character": "胡理",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "请问尊驾敢是骆公子么？"
         },
         {
           "character": "骆宏勋",
@@ -1223,7 +1416,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "在哪里？\n啊贤弟。"
+          "text": "在哪里？"
+        },
+        {
+          "character": "胡琏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "啊贤弟。"
         },
         {
           "character": "骆宏勋",
@@ -1244,7 +1444,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "大哥有所不知，只因我主仆二人要回山东探母，不料行至酸枣岭，偶遇巴杰，\n是我二人言语不合，动起手来，不想我一时失手，一剑将他刺死，因此逃奔到\n此。"
+          "text": "大哥有所不知，只因我主仆二人要回山东探母，不料行至酸枣岭，偶遇巴杰，"
+        },
+        {
+          "character": "骆宏勋",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "是我二人言语不合，动起手来，不想我一时失手，一剑将他刺死，因此逃奔到"
+        },
+        {
+          "character": "骆宏勋",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "此。"
         },
         {
           "character": "胡琏",
@@ -1279,7 +1493,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "来此已是。待我叫门。\n呔，开门来！"
+          "text": "来此已是。待我叫门。"
+        },
+        {
+          "character": "马金定",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "呔，开门来！"
         },
         {
           "character": "胡理",
@@ -1321,7 +1542,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "兄弟，是你不知道，只因骆宏勋路过酸枣岭，与我儿子巴杰打起来啦，也不知\n道他怎么就把我儿子刺死啦。嫂子特来找他，与我儿子报仇。"
+          "text": "兄弟，是你不知道，只因骆宏勋路过酸枣岭，与我儿子巴杰打起来啦，也不知"
+        },
+        {
+          "character": "马金定",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "道他怎么就把我儿子刺死啦。嫂子特来找他，与我儿子报仇。"
         },
         {
           "character": "胡理",
@@ -1517,7 +1745,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "此地离花家寨不远，你我在店房用了酒饭，一同去往花家寨，大家寻一妙策便\n了。"
+          "text": "此地离花家寨不远，你我在店房用了酒饭，一同去往花家寨，大家寻一妙策便"
+        },
+        {
+          "character": "胡琏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "了。"
         },
         {
           "character": "骆宏勋",
@@ -1605,7 +1840,17 @@
         "musical_styles": [
           "二黄摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0385,
+        0.9519,
+        0.0096,
+        0.7573,
+        5,
+        0.0,
+        0.0288
+      ]
     }
   ]
 }

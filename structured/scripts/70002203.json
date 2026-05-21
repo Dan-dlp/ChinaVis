@@ -184,7 +184,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "小生魏虎。就在此处开了一座书馆，上学的学生不少。今日天时不早，怎么还\n不见来上学呀？\n童儿。"
+          "text": "小生魏虎。就在此处开了一座书馆，上学的学生不少。今日天时不早，怎么还"
+        },
+        {
+          "character": "魏虎",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "不见来上学呀？"
+        },
+        {
+          "character": "魏虎",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "童儿。"
         },
         {
           "character": "书童",
@@ -296,7 +310,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "在下秦官保。我父秦灿，乃当朝首相。我爸爸给我找了个教书匠，我瞧他有点\n儿蒙事。有了，今儿个拿他开开心。\n小子，我叫你买的那个玩意儿买来没有哇？"
+          "text": "在下秦官保。我父秦灿，乃当朝首相。我爸爸给我找了个教书匠，我瞧他有点"
+        },
+        {
+          "character": "秦官保",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "儿蒙事。有了，今儿个拿他开开心。"
+        },
+        {
+          "character": "秦官保",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "小子，我叫你买的那个玩意儿买来没有哇？"
         },
         {
           "character": "小院子",
@@ -1101,7 +1129,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "就……老师，您多上点儿，哪个上三句的？这不成三条腿了。再说回家我爸爸\n一问，我怎么说呀，我？"
+          "text": "就……老师，您多上点儿，哪个上三句的？这不成三条腿了。再说回家我爸爸"
+        },
+        {
+          "character": "秦官保",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "一问，我怎么说呀，我？"
         },
         {
           "character": "魏虎",
@@ -1430,7 +1465,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "你这是拿我玩笑。今天不打你，惯你的下次。\n搬板凳去。"
+          "text": "你这是拿我玩笑。今天不打你，惯你的下次。"
+        },
+        {
+          "character": "魏虎",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "搬板凳去。"
         },
         {
           "character": null,
@@ -1598,7 +1640,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "看秦官保责打先生，你我速速赶上前去便了。\n（冲头。沉香、秋儿同下，二学生同溜下。乱锤。魏虎上，藏起。秦官保追上，寻找。回头朝上场门找，沉\n香、秋儿同追上，沉香用砚台打秦官保头部，秦官保躺地下死。）"
+          "text": "看秦官保责打先生，你我速速赶上前去便了。"
+        },
+        {
+          "character": "沉香",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "（冲头。沉香、秋儿同下，二学生同溜下。乱锤。魏虎上，藏起。秦官保追上，寻找。回头朝上场门找，沉"
+        },
+        {
+          "character": "沉香",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "香、秋儿同追上，沉香用砚台打秦官保头部，秦官保躺地下死。）"
         },
         {
           "character": "沉香",
@@ -1775,7 +1831,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.988,
+        0.012,
+        0.7333,
+        8,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -5130,7 +5196,17 @@
           "二黄慢板",
           "二黄散板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.088,
+        0.1483,
+        0.8488,
+        0.0029,
+        0.7434,
+        4,
+        0.0,
+        0.1395
+      ]
     },
     {
       "scene_index": 3,
@@ -5636,7 +5712,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0244,
+        0.9512,
+        0.0244,
+        0.65,
+        4,
+        0.0,
+        0.0
+      ]
     }
   ]
 }

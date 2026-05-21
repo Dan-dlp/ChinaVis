@@ -253,7 +253,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "老夫，窦天章。大明嘉靖为臣，蒙圣恩放我江浙巡按，一路上代理民词，恩赐\n上方宝剑，先斩后奏，此去江南衣锦还乡，借此探望女儿窦娥。\n中军！"
+          "text": "老夫，窦天章。大明嘉靖为臣，蒙圣恩放我江浙巡按，一路上代理民词，恩赐"
+        },
+        {
+          "character": "窦天章",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "上方宝剑，先斩后奏，此去江南衣锦还乡，借此探望女儿窦娥。"
+        },
+        {
+          "character": "窦天章",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "中军！"
         },
         {
           "character": "中军",
@@ -303,7 +317,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.125,
+        0.75,
+        0.125,
+        0.4286,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -328,17 +352,52 @@
           "line_type": "西皮原板",
           "musical_style": "西皮原板",
           "style_family": "西皮",
-          "text": "幼年间父早丧秉承母训，\n每日里对寒窗苦读书文。\n慰高堂与娘子光耀门庭。"
+          "text": "幼年间父早丧秉承母训，"
+        },
+        {
+          "character": "蔡昌宗",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "每日里对寒窗苦读书文。"
+        },
+        {
+          "character": "蔡昌宗",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "慰高堂与娘子光耀门庭。"
         },
         {
           "character": "蔡昌宗",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "小生，蔡昌宗。不幸爹爹早年亡故，老母吴氏。我妻窦氏，倒也贤惠，今乃大\n比之年，理应进京赴试，只有老母在堂，不敢远离，不免请出母亲商议此事。\n啊，娘子，搀扶母亲出堂来呀。"
+          "text": "小生，蔡昌宗。不幸爹爹早年亡故，老母吴氏。我妻窦氏，倒也贤惠，今乃大"
         },
         {
-          "character": "愿今科乡榜上功名有分、窦娥",
+          "character": "蔡昌宗",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "比之年，理应进京赴试，只有老母在堂，不敢远离，不免请出母亲商议此事。"
+        },
+        {
+          "character": "蔡昌宗",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "啊，娘子，搀扶母亲出堂来呀。"
+        },
+        {
+          "character": "蔡昌宗",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "愿今科乡榜上功名有分"
+        },
+        {
+          "character": "窦娥",
           "line_type": "内白",
           "musical_style": null,
           "style_family": null,
@@ -370,7 +429,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "娘子。\n母亲孩儿拜揖。"
+          "text": "娘子。"
+        },
+        {
+          "character": "蔡昌宗",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "母亲孩儿拜揖。"
         },
         {
           "character": "蔡母",
@@ -447,7 +513,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "大相公意欲上京求取功名，他一人前去，我放心不下，命你子驴儿伴同前去，\n我也就放心了。"
+          "text": "大相公意欲上京求取功名，他一人前去，我放心不下，命你子驴儿伴同前去，"
+        },
+        {
+          "character": "蔡母",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我也就放心了。"
         },
         {
           "character": "张母",
@@ -550,7 +623,17 @@
         "musical_styles": [
           "西皮原板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.053,
+        0.1034,
+        0.7241,
+        0.1724,
+        0.6429,
+        4,
+        0.1034,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -587,7 +670,56 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "我张驴儿。从幼小我爸爸就死了，我妈在蔡府佣工，我在那儿帮闲，每日在外\n头是吃喝嫖赌无所不为。我妈哪，也管不了我，可是我妈也不作正经事，我亦\n老大不小啦，她也不给我说一个媳妇。我们这儿的少奶奶名叫窦娥，嘿，长得\n是别提多好看了，只要她跟我说一句话，真教我三魂渺渺，四肢无力，五鸡子\n六兽，我七窍全塌啦，我……哎呀！也不知怎么啦，我瞧见她我心里就痒痒的\n抓挠。我就想这个蔡相公也是个人，我也是个人，他就会有那样的艳福，我怎\n么就没那造化哪！我老想把书呆子害死，把窦娥算计到我手里头，可又没有好\n主意，等我妈回来，我问问她有什么好主意没有。"
+          "text": "我张驴儿。从幼小我爸爸就死了，我妈在蔡府佣工，我在那儿帮闲，每日在外"
+        },
+        {
+          "character": "驴儿",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "头是吃喝嫖赌无所不为。我妈哪，也管不了我，可是我妈也不作正经事，我亦"
+        },
+        {
+          "character": "驴儿",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "老大不小啦，她也不给我说一个媳妇。我们这儿的少奶奶名叫窦娥，嘿，长得"
+        },
+        {
+          "character": "驴儿",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "是别提多好看了，只要她跟我说一句话，真教我三魂渺渺，四肢无力，五鸡子"
+        },
+        {
+          "character": "驴儿",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "六兽，我七窍全塌啦，我……哎呀！也不知怎么啦，我瞧见她我心里就痒痒的"
+        },
+        {
+          "character": "驴儿",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "抓挠。我就想这个蔡相公也是个人，我也是个人，他就会有那样的艳福，我怎"
+        },
+        {
+          "character": "驴儿",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "么就没那造化哪！我老想把书呆子害死，把窦娥算计到我手里头，可又没有好"
+        },
+        {
+          "character": "驴儿",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "主意，等我妈回来，我问问她有什么好主意没有。"
         },
         {
           "character": null,
@@ -601,7 +733,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "驴儿！这孩子也不知在家没有。\n喝，在家哪，你回来啦！"
+          "text": "驴儿！这孩子也不知在家没有。"
+        },
+        {
+          "character": "张母",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "喝，在家哪，你回来啦！"
         },
         {
           "character": "张驴儿",
@@ -804,7 +943,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "明儿我跟他搭着伴一块走，头路有道淮河，我把他请下马来，抽不冷子我把他\n推到河里头，回来您给她们送个信，就说他失足落水而死，老夫人一着急亦得\n眼猴；我再算计窦娥，何愁不归我呀。"
+          "text": "明儿我跟他搭着伴一块走，头路有道淮河，我把他请下马来，抽不冷子我把他"
+        },
+        {
+          "character": "张驴儿",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "推到河里头，回来您给她们送个信，就说他失足落水而死，老夫人一着急亦得"
+        },
+        {
+          "character": "张驴儿",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "眼猴；我再算计窦娥，何愁不归我呀。"
         },
         {
           "character": "张母",
@@ -907,7 +1060,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.9434,
+        0.0566,
+        0.7692,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 4,
@@ -930,10 +1093,24 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "求取功名京都进，\n哪怕戴月与披星。"
+          "text": "求取功名京都进，"
         },
         {
-          "character": "但愿此去名有份、张驴儿",
+          "character": "蔡昌宗",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "哪怕戴月与披星。"
+        },
+        {
+          "character": "蔡昌宗",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "但愿此去名有份"
+        },
+        {
+          "character": "张驴儿",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -958,7 +1135,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "相公，两条腿跟着四条腿儿走，哪能快得了。您瞧天多热呀，咱们下牲口河边\n凉快会儿怎么样？"
+          "text": "相公，两条腿跟着四条腿儿走，哪能快得了。您瞧天多热呀，咱们下牲口河边"
+        },
+        {
+          "character": "张驴儿",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "凉快会儿怎么样？"
         },
         {
           "character": "蔡昌宗",
@@ -1035,7 +1219,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "呦，我把你这书呆子，你还有心肠瞧鱼哪你！这下把你送回老家啦。得了，人\n是害了，回家呀给她们送个信去，那老梆子一着急一定活不了，慢慢再算计他\n媳妇。\n这还有他一匹牲口，我把它卖了，当路费，做赌本，回去送信去。正是："
+          "text": "呦，我把你这书呆子，你还有心肠瞧鱼哪你！这下把你送回老家啦。得了，人"
+        },
+        {
+          "character": "张驴儿",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "是害了，回家呀给她们送个信去，那老梆子一着急一定活不了，慢慢再算计他"
+        },
+        {
+          "character": "张驴儿",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "媳妇。"
+        },
+        {
+          "character": "张驴儿",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "这还有他一匹牲口，我把它卖了，当路费，做赌本，回去送信去。正是："
         },
         {
           "character": "张驴儿",
@@ -1080,7 +1285,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.167,
+        0.1905,
+        0.7619,
+        0.0476,
+        0.45,
+        2,
+        0.1905,
+        0.0
+      ]
     },
     {
       "scene_index": 5,
@@ -1105,7 +1320,21 @@
           "line_type": "西皮原板",
           "musical_style": "西皮原板",
           "style_family": "西皮",
-          "text": "我官人一心要扬名显姓，\n因此上跨征鞍千里长行。\n盼夫君得中了及早回程。"
+          "text": "我官人一心要扬名显姓，"
+        },
+        {
+          "character": "窦娥",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "因此上跨征鞍千里长行。"
+        },
+        {
+          "character": "窦娥",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "盼夫君得中了及早回程。"
         },
         {
           "character": null,
@@ -1287,7 +1516,14 @@
           "line_type": "西皮散板",
           "musical_style": "西皮散板",
           "style_family": "西皮",
-          "text": "怎不教人痛伤情。\n哭一声，昌宗儿啊，小姣儿啊……我的儿呀。"
+          "text": "怎不教人痛伤情。"
+        },
+        {
+          "character": "蔡母",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "哭一声，昌宗儿啊，小姣儿啊……我的儿呀。"
         },
         {
           "character": null,
@@ -1301,7 +1537,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "哈哈，这一下可好啦，小的哪是死啦，这个老梆子一听说他儿子死啦，急得也\n吐了血啦，我看她八成也活不了几天啦。哎，我说窦娥呀窦娥，再过两天，你\n呀就是我的儿媳妇啦，我就是你的婆婆啦。"
+          "text": "哈哈，这一下可好啦，小的哪是死啦，这个老梆子一听说他儿子死啦，急得也"
+        },
+        {
+          "character": "张母",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "吐了血啦，我看她八成也活不了几天啦。哎，我说窦娥呀窦娥，再过两天，你"
+        },
+        {
+          "character": "张母",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "呀就是我的儿媳妇啦，我就是你的婆婆啦。"
         },
         {
           "character": "窦娥",
@@ -1329,7 +1579,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "哎，是啦。\n我的妈呀，吓了我一跳，我当是让她听见了哪！这个老梆子要吃羊肚汤，可说\n我给她往哪找去呀，这可怎么办哪？\n我说驴儿！"
+          "text": "哎，是啦。"
+        },
+        {
+          "character": "张母",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我的妈呀，吓了我一跳，我当是让她听见了哪！这个老梆子要吃羊肚汤，可说"
+        },
+        {
+          "character": "张母",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我给她往哪找去呀，这可怎么办哪？"
+        },
+        {
+          "character": "张母",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我说驴儿！"
         },
         {
           "character": null,
@@ -1364,7 +1635,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "干什么？那个老梆子一听说她儿子死啦，急得吐了血啦。她教我给她买羊肚汤\n去，你说我上哪给她买去呀？"
+          "text": "干什么？那个老梆子一听说她儿子死啦，急得吐了血啦。她教我给她买羊肚汤"
+        },
+        {
+          "character": "张母",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "去，你说我上哪给她买去呀？"
         },
         {
           "character": "张驴儿",
@@ -1406,7 +1684,49 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "我慢不了。\n这可是我的好机会到啦！这老梆子病了，想吃羊肚汤，趁这节骨眼儿我在羊肚\n汤里头给她搁点毒药，把这老梆子给药死，剩下窦娥一个人，那她还跑得出我\n的手心去吗！可是这毒药我哪里买去呀？这可怎么办哪？——哎哟，我想起来\n啦，我们这儿有个卖耗子药的卢掌柜的，我去找他买包耗子药。毒得死耗子，\n就能药得死人，对，买耗子药去——哎呀，来到啦。\n我说，卢掌柜的！"
+          "text": "我慢不了。"
+        },
+        {
+          "character": "张驴儿",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "这可是我的好机会到啦！这老梆子病了，想吃羊肚汤，趁这节骨眼儿我在羊肚"
+        },
+        {
+          "character": "张驴儿",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "汤里头给她搁点毒药，把这老梆子给药死，剩下窦娥一个人，那她还跑得出我"
+        },
+        {
+          "character": "张驴儿",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "的手心去吗！可是这毒药我哪里买去呀？这可怎么办哪？——哎哟，我想起来"
+        },
+        {
+          "character": "张驴儿",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "啦，我们这儿有个卖耗子药的卢掌柜的，我去找他买包耗子药。毒得死耗子，"
+        },
+        {
+          "character": "张驴儿",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "就能药得死人，对，买耗子药去——哎呀，来到啦。"
+        },
+        {
+          "character": "张驴儿",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我说，卢掌柜的！"
         },
         {
           "character": null,
@@ -1665,7 +1985,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "得，这个药是有啦，回头给她搁在羊肚汤里，这老梆子一吃准死没活呀，哎哟\n慢着，——这事还不能让我妈知道，要是让我妈知道，她一端羊肚汤的时候，\n脸上一带象儿那可不得了，对，不能告诉她。正是："
+          "text": "得，这个药是有啦，回头给她搁在羊肚汤里，这老梆子一吃准死没活呀，哎哟"
+        },
+        {
+          "character": "张驴儿",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "慢着，——这事还不能让我妈知道，要是让我妈知道，她一端羊肚汤的时候，"
+        },
+        {
+          "character": "张驴儿",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "脸上一带象儿那可不得了，对，不能告诉她。正是："
         },
         {
           "character": "张驴儿",
@@ -1735,7 +2069,17 @@
           "西皮导板",
           "西皮散板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.033,
+        0.1758,
+        0.7912,
+        0.033,
+        0.7,
+        5,
+        0.0989,
+        0.0
+      ]
     },
     {
       "scene_index": 6,
@@ -1762,10 +2106,52 @@
           "line_type": "二黄三眼",
           "musical_style": "二黄三眼",
           "style_family": "二黄",
-          "text": "叹夫君遭不幸早年命丧，\n且喜有昌宗儿侍奉身旁。\n不料想在淮河一命身亡！\n倒教我年迈人凄凄凉凉好不惨伤。"
+          "text": "叹夫君遭不幸早年命丧，"
         },
         {
-          "character": "实指望我的儿题名榜上、撇下了我婆媳无有仰仗、叫媳妇搀为婆床榻来上、窦娥",
+          "character": "蔡母",
+          "line_type": "二黄三眼",
+          "musical_style": "二黄三眼",
+          "style_family": "二黄",
+          "text": "且喜有昌宗儿侍奉身旁。"
+        },
+        {
+          "character": "蔡母",
+          "line_type": "二黄三眼",
+          "musical_style": "二黄三眼",
+          "style_family": "二黄",
+          "text": "不料想在淮河一命身亡！"
+        },
+        {
+          "character": "蔡母",
+          "line_type": "二黄三眼",
+          "musical_style": "二黄三眼",
+          "style_family": "二黄",
+          "text": "倒教我年迈人凄凄凉凉好不惨伤。"
+        },
+        {
+          "character": "蔡母",
+          "line_type": "二黄三眼",
+          "musical_style": "二黄三眼",
+          "style_family": "二黄",
+          "text": "实指望我的儿题名榜上"
+        },
+        {
+          "character": "蔡母",
+          "line_type": "二黄三眼",
+          "musical_style": "二黄三眼",
+          "style_family": "二黄",
+          "text": "撇下了我婆媳无有仰仗"
+        },
+        {
+          "character": "蔡母",
+          "line_type": "二黄三眼",
+          "musical_style": "二黄三眼",
+          "style_family": "二黄",
+          "text": "叫媳妇搀为婆床榻来上"
+        },
+        {
+          "character": "窦娥",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -1783,7 +2169,14 @@
           "line_type": "二黄摇板",
           "musical_style": "二黄摇板",
           "style_family": "二黄",
-          "text": "婆婆且莫悲声放，\n保重身体免忧伤。"
+          "text": "婆婆且莫悲声放，"
+        },
+        {
+          "character": "窦娥",
+          "line_type": "二黄摇板",
+          "musical_style": "二黄摇板",
+          "style_family": "二黄",
+          "text": "保重身体免忧伤。"
         },
         {
           "character": "窦娥",
@@ -2133,7 +2526,17 @@
           "二黄三眼",
           "二黄摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.053,
+        0.3077,
+        0.641,
+        0.0513,
+        0.6053,
+        4,
+        0.0,
+        0.2564
+      ]
     },
     {
       "scene_index": 7,
@@ -2730,7 +3133,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.9839,
+        0.0161,
+        0.9672,
+        6,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 8,
@@ -2802,7 +3215,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 9,
@@ -2980,7 +3403,17 @@
           "二黄原板",
           "二黄导板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.154,
+        0.2143,
+        0.7857,
+        0.0,
+        0.8462,
+        4,
+        0.0,
+        0.2143
+      ]
     },
     {
       "scene_index": 10,
@@ -3657,7 +4090,17 @@
           "二黄慢板",
           "二黄散板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.224,
+        0.2692,
+        0.7308,
+        0.0,
+        0.8052,
+        3,
+        0.0,
+        0.2308
+      ]
     },
     {
       "scene_index": 11,
@@ -4317,7 +4760,17 @@
           "二黄慢板",
           "二黄散板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.111,
+        0.1613,
+        0.8065,
+        0.0323,
+        0.7869,
+        12,
+        0.0,
+        0.1613
+      ]
     }
   ]
 }

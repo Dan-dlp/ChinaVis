@@ -372,14 +372,42 @@
           "line_type": "西皮散板",
           "musical_style": "西皮散板",
           "style_family": "西皮",
-          "text": "军机战策某精通，\n三韬六略在腹中。"
+          "text": "军机战策某精通，"
+        },
+        {
+          "character": "乐毅",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "三韬六略在腹中。"
         },
         {
           "character": "乐毅",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "俺，乐毅。乃赵国人也，先祖乐羊，师以领授。某自幼熟读兵书，深通战策。\n前者，投奔齐王，可恨伊立，嫉贤妒能，将某责打四十军棍，赶出不用。闻得\n燕昭王，高筑黄金台，招贤纳士。俺此番前去投效，若蒙重用，必然灭却齐邦，\n以报此仇！看，前面已是燕国都城，就此马上加鞭。"
+          "text": "俺，乐毅。乃赵国人也，先祖乐羊，师以领授。某自幼熟读兵书，深通战策。"
+        },
+        {
+          "character": "乐毅",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "前者，投奔齐王，可恨伊立，嫉贤妒能，将某责打四十军棍，赶出不用。闻得"
+        },
+        {
+          "character": "乐毅",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "燕昭王，高筑黄金台，招贤纳士。俺此番前去投效，若蒙重用，必然灭却齐邦，"
+        },
+        {
+          "character": "乐毅",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "以报此仇！看，前面已是燕国都城，就此马上加鞭。"
         },
         {
           "character": "乐毅",
@@ -401,7 +429,17 @@
         "musical_styles": [
           "西皮散板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.5,
+        0.375,
+        0.625,
+        0.0,
+        0.0,
+        1,
+        0.375,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -532,7 +570,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "领旨。\n大王有旨，乐毅上殿。"
+          "text": "领旨。"
+        },
+        {
+          "character": "大臣甲",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "大王有旨，乐毅上殿。"
         },
         {
           "character": "乐毅",
@@ -588,7 +633,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "草民乃赵国人氏，先祖乐羊。草民幼读兵书，深通战策。闻得大王招贤纳士，\n特来投效。"
+          "text": "草民乃赵国人氏，先祖乐羊。草民幼读兵书，深通战策。闻得大王招贤纳士，"
+        },
+        {
+          "character": "乐毅",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "特来投效。"
         },
         {
           "character": "燕昭王",
@@ -602,7 +654,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "想那齐邦，地旷人众，士卒习战。又有渔盐之富，未可攻也。大王欲报先君之\n仇，必须联络列国人马，方可破之。想那赵国，乃我国近邻，赵合则韩必从。\n孟尝君在位，方恨齐王，意无不从。那秦国嫉齐之强盛，又恐天下诸侯背秦事\n齐，亦无不从。若得此四国人马，兵合一处，破那齐邦岂不是易如反掌？"
+          "text": "想那齐邦，地旷人众，士卒习战。又有渔盐之富，未可攻也。大王欲报先君之"
+        },
+        {
+          "character": "乐毅",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "仇，必须联络列国人马，方可破之。想那赵国，乃我国近邻，赵合则韩必从。"
+        },
+        {
+          "character": "乐毅",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "孟尝君在位，方恨齐王，意无不从。那秦国嫉齐之强盛，又恐天下诸侯背秦事"
+        },
+        {
+          "character": "乐毅",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "齐，亦无不从。若得此四国人马，兵合一处，破那齐邦岂不是易如反掌？"
         },
         {
           "character": "燕昭王",
@@ -714,7 +787,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0286,
+        0.9143,
+        0.0571,
+        0.7647,
+        6,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -766,7 +849,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "薛成。\n将军请了。"
+          "text": "薛成。"
+        },
+        {
+          "character": "薛成",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "将军请了。"
         },
         {
           "character": "徐胜",
@@ -954,7 +1044,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.913,
+        0.087,
+        0.8182,
+        5,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 4,
@@ -993,7 +1093,35 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "咱家，伊立。我乃西凉下国的人氏，自幼净身进宫，伺候狼主，甚是得宠。只\n因我国缺少齐邦三载的贡奉，是我国狼主将邹娘娘与咱家献与齐邦。齐王见喜，\n封邹娘娘以为西宫下院。齐王见咱双手能写梅花篆字，因此封咱卷帘的御史\n之职，这且不言。今有满朝文武在议事厅前等候咱家议论国事。\n孩子们！"
+          "text": "咱家，伊立。我乃西凉下国的人氏，自幼净身进宫，伺候狼主，甚是得宠。只"
+        },
+        {
+          "character": "伊立",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "因我国缺少齐邦三载的贡奉，是我国狼主将邹娘娘与咱家献与齐邦。齐王见喜，"
+        },
+        {
+          "character": "伊立",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "封邹娘娘以为西宫下院。齐王见咱双手能写梅花篆字，因此封咱卷帘的御史"
+        },
+        {
+          "character": "伊立",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "之职，这且不言。今有满朝文武在议事厅前等候咱家议论国事。"
+        },
+        {
+          "character": "伊立",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "孩子们！"
         },
         {
           "character": "四校尉",
@@ -1126,7 +1254,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "是。\n急报告进，参见公公。"
+          "text": "是。"
+        },
+        {
+          "character": "探子",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "急报告进，参见公公。"
         },
         {
           "character": "伊立",
@@ -1189,7 +1324,35 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "哈哈！好一个大胆的乐毅呀！前番投奔我国，是咱家不重用于你。责打四十军\n棍，赶出境地。哎！怎么着？投奔燕邦，金台拜帅，带领人马要前来伐齐？哈\n哈……孩儿啊！孩儿啊！有你伊公公在朝，谅尔又反得了哪儿喀吗？哎哟！慢\n着！想我家大王每日贪恋酒色，不理朝政，嘿嘿！可也是嘚儿枉然哪！哦呵！\n有啦！想东宫殿下颇有韬略，不免去至东宫，与殿下商议发兵退敌之策。"
+          "text": "哈哈！好一个大胆的乐毅呀！前番投奔我国，是咱家不重用于你。责打四十军"
+        },
+        {
+          "character": "伊立",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "棍，赶出境地。哎！怎么着？投奔燕邦，金台拜帅，带领人马要前来伐齐？哈"
+        },
+        {
+          "character": "伊立",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "哈……孩儿啊！孩儿啊！有你伊公公在朝，谅尔又反得了哪儿喀吗？哎哟！慢"
+        },
+        {
+          "character": "伊立",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "着！想我家大王每日贪恋酒色，不理朝政，嘿嘿！可也是嘚儿枉然哪！哦呵！"
+        },
+        {
+          "character": "伊立",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "有啦！想东宫殿下颇有韬略，不免去至东宫，与殿下商议发兵退敌之策。"
         },
         {
           "character": "孩子们、四校尉",
@@ -1269,7 +1432,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.027,
+        0.9189,
+        0.0541,
+        0.6111,
+        5,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 5,
@@ -1299,7 +1472,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "小王田法章，只因西凉国进来邹妃、伊立，父王见喜，将邹妃封为西宫下院。\n父王每日贪恋酒色，不理朝政。眼看齐国祸不远矣！正是："
+          "text": "小王田法章，只因西凉国进来邹妃、伊立，父王见喜，将邹妃封为西宫下院。"
+        },
+        {
+          "character": "田法章",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "父王每日贪恋酒色，不理朝政。眼看齐国祸不远矣！正是："
         },
         {
           "character": "田法章",
@@ -1383,14 +1563,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "是。\n伊立进宫啊！"
+          "text": "是。"
+        },
+        {
+          "character": "内侍",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "伊立进宫啊！"
         },
         {
           "character": "伊立",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "是。\n参见小千岁！"
+          "text": "是。"
+        },
+        {
+          "character": "伊立",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "参见小千岁！"
         },
         {
           "character": "田法章",
@@ -1432,7 +1626,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "千岁有所不知，今有乐毅投奔燕邦，金台拜帅。带领人马，前来伐齐。奴婢特\n地前来，与殿下商议发兵退敌之策。"
+          "text": "千岁有所不知，今有乐毅投奔燕邦，金台拜帅。带领人马，前来伐齐。奴婢特"
+        },
+        {
+          "character": "伊立",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "地前来，与殿下商议发兵退敌之策。"
         },
         {
           "character": "田法章",
@@ -1495,7 +1696,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "哈哈！好一个大胆的田法章啊！发兵不发兵，任凭与你，怎么着？一脚将咱家\n踢出了宫门！哈哈……是喽，你仗着你是守阙之龙，还把咱家卷帘的御史放在\n你的心上吗？哦呵！有啦！我不免去至西宫搬弄是非，正是："
+          "text": "哈哈！好一个大胆的田法章啊！发兵不发兵，任凭与你，怎么着？一脚将咱家"
+        },
+        {
+          "character": "伊立",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "踢出了宫门！哈哈……是喽，你仗着你是守阙之龙，还把咱家卷帘的御史放在"
+        },
+        {
+          "character": "伊立",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "你的心上吗？哦呵！有啦！我不免去至西宫搬弄是非，正是："
         },
         {
           "character": "伊立",
@@ -1569,7 +1784,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0263,
+        0.8684,
+        0.1053,
+        0.6757,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 6,
@@ -1618,7 +1843,21 @@
           "line_type": "二黄散板",
           "musical_style": "二黄散板",
           "style_family": "二黄",
-          "text": "田法章小奴才其情可恼，\n他把我卷帘的御史不放在心梢。\n望娘娘救奴婢性命一条。"
+          "text": "田法章小奴才其情可恼，"
+        },
+        {
+          "character": "伊立",
+          "line_type": "二黄散板",
+          "musical_style": "二黄散板",
+          "style_family": "二黄",
+          "text": "他把我卷帘的御史不放在心梢。"
+        },
+        {
+          "character": "伊立",
+          "line_type": "二黄散板",
+          "musical_style": "二黄散板",
+          "style_family": "二黄",
+          "text": "望娘娘救奴婢性命一条。"
         },
         {
           "character": "伊立",
@@ -1628,7 +1867,14 @@
           "text": "参见娘娘，"
         },
         {
-          "character": "进宫去见娘娘双膝跪倒、邹妃",
+          "character": "伊立",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "进宫去见娘娘双膝跪倒"
+        },
+        {
+          "character": "邹妃",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -1667,7 +1913,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "娘娘有所不知，只因乐毅投奔燕邦，金台拜帅。带领人马，前来伐齐。奴婢去\n至东宫，与殿下商议发兵退敌之策。发兵不发兵，还则罢了，他在背地里，言\n讲娘娘几句谗语，嘿嘿！奴婢我实实地不敢启奏。"
+          "text": "娘娘有所不知，只因乐毅投奔燕邦，金台拜帅。带领人马，前来伐齐。奴婢去"
+        },
+        {
+          "character": "伊立",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "至东宫，与殿下商议发兵退敌之策。发兵不发兵，还则罢了，他在背地里，言"
+        },
+        {
+          "character": "伊立",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "讲娘娘几句谗语，嘿嘿！奴婢我实实地不敢启奏。"
         },
         {
           "character": "邹妃",
@@ -1688,17 +1948,52 @@
           "line_type": "二黄散板",
           "musical_style": "二黄散板",
           "style_family": "二黄",
-          "text": "田法章说出话无有人道，\n把娘娘比妲己不差分毫。\n要把娘娘万剐千刀！"
+          "text": "田法章说出话无有人道，"
         },
         {
-          "character": "有一日田法章身躬大宝、邹妃",
+          "character": "伊立",
           "line_type": "二黄散板",
           "musical_style": "二黄散板",
           "style_family": "二黄",
-          "text": "听一言来怒冲起，\n大胆奴才乱胡为！"
+          "text": "把娘娘比妲己不差分毫。"
         },
         {
-          "character": "有一日田法章身躬大宝、邹妃",
+          "character": "伊立",
+          "line_type": "二黄散板",
+          "musical_style": "二黄散板",
+          "style_family": "二黄",
+          "text": "要把娘娘万剐千刀！"
+        },
+        {
+          "character": "伊立",
+          "line_type": "二黄散板",
+          "musical_style": "二黄散板",
+          "style_family": "二黄",
+          "text": "有一日田法章身躬大宝"
+        },
+        {
+          "character": "邹妃",
+          "line_type": "二黄散板",
+          "musical_style": "二黄散板",
+          "style_family": "二黄",
+          "text": "听一言来怒冲起，"
+        },
+        {
+          "character": "邹妃",
+          "line_type": "二黄散板",
+          "musical_style": "二黄散板",
+          "style_family": "二黄",
+          "text": "大胆奴才乱胡为！"
+        },
+        {
+          "character": "邹妃",
+          "line_type": "二黄散板",
+          "musical_style": "二黄散板",
+          "style_family": "二黄",
+          "text": "有一日田法章身躬大宝"
+        },
+        {
+          "character": "邹妃",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -1758,7 +2053,14 @@
           "line_type": "二黄摇板",
           "musical_style": "二黄摇板",
           "style_family": "二黄",
-          "text": "内侍摆驾后宫进，\n梓童免礼且平身。"
+          "text": "内侍摆驾后宫进，"
+        },
+        {
+          "character": "齐湣王",
+          "line_type": "二黄摇板",
+          "musical_style": "二黄摇板",
+          "style_family": "二黄",
+          "text": "梓童免礼且平身。"
         },
         {
           "character": "邹妃",
@@ -1898,7 +2200,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "好！\n娥云过来。"
+          "text": "好！"
+        },
+        {
+          "character": "齐湣王",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "娥云过来。"
         },
         {
           "character": "娥云",
@@ -1999,7 +2308,17 @@
           "二黄摇板",
           "二黄散板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.05,
+        0.2105,
+        0.7544,
+        0.0351,
+        0.6786,
+        6,
+        0.0,
+        0.2105
+      ]
     },
     {
       "scene_index": 7,
@@ -2117,7 +2436,17 @@
         "musical_styles": [
           "二黄摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.167,
+        0.2857,
+        0.7143,
+        0.0,
+        0.6667,
+        3,
+        0.0,
+        0.2857
+      ]
     },
     {
       "scene_index": 8,
@@ -2163,7 +2492,21 @@
           "line_type": "二黄散板",
           "musical_style": "二黄散板",
           "style_family": "二黄",
-          "text": "田法章小奴才其情可恼，\n他把我卷帘的御史不放在心梢。\n望娘娘救奴婢性命一条。"
+          "text": "田法章小奴才其情可恼，"
+        },
+        {
+          "character": "伊立",
+          "line_type": "二黄散板",
+          "musical_style": "二黄散板",
+          "style_family": "二黄",
+          "text": "他把我卷帘的御史不放在心梢。"
+        },
+        {
+          "character": "伊立",
+          "line_type": "二黄散板",
+          "musical_style": "二黄散板",
+          "style_family": "二黄",
+          "text": "望娘娘救奴婢性命一条。"
         },
         {
           "character": "伊立",
@@ -2173,7 +2516,14 @@
           "text": "参见娘娘，"
         },
         {
-          "character": "进宫去见娘娘双膝跪倒、邹妃",
+          "character": "伊立",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "进宫去见娘娘双膝跪倒"
+        },
+        {
+          "character": "邹妃",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -2212,7 +2562,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "娘娘有所不知，只因乐毅投奔燕邦，金台拜帅。带领人马，前来伐齐。奴婢去\n至东宫，与殿下商议发兵退敌之策。发兵不发兵，还则罢了，他在背地里，言\n讲娘娘几句谗语，嘿嘿！奴婢我实实地不敢启奏。"
+          "text": "娘娘有所不知，只因乐毅投奔燕邦，金台拜帅。带领人马，前来伐齐。奴婢去"
+        },
+        {
+          "character": "伊立",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "至东宫，与殿下商议发兵退敌之策。发兵不发兵，还则罢了，他在背地里，言"
+        },
+        {
+          "character": "伊立",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "讲娘娘几句谗语，嘿嘿！奴婢我实实地不敢启奏。"
         },
         {
           "character": "邹妃",
@@ -2233,17 +2597,52 @@
           "line_type": "二黄散板",
           "musical_style": "二黄散板",
           "style_family": "二黄",
-          "text": "田法章说出话无有人道，\n把娘娘比妲己不差分毫。\n要把娘娘万剐千刀！"
+          "text": "田法章说出话无有人道，"
         },
         {
-          "character": "有一日田法章身躬大宝、邹妃",
+          "character": "伊立",
           "line_type": "二黄散板",
           "musical_style": "二黄散板",
           "style_family": "二黄",
-          "text": "听一言来怒冲起，\n大胆奴才乱胡为！"
+          "text": "把娘娘比妲己不差分毫。"
         },
         {
-          "character": "有一日田法章身躬大宝、邹妃",
+          "character": "伊立",
+          "line_type": "二黄散板",
+          "musical_style": "二黄散板",
+          "style_family": "二黄",
+          "text": "要把娘娘万剐千刀！"
+        },
+        {
+          "character": "伊立",
+          "line_type": "二黄散板",
+          "musical_style": "二黄散板",
+          "style_family": "二黄",
+          "text": "有一日田法章身躬大宝"
+        },
+        {
+          "character": "邹妃",
+          "line_type": "二黄散板",
+          "musical_style": "二黄散板",
+          "style_family": "二黄",
+          "text": "听一言来怒冲起，"
+        },
+        {
+          "character": "邹妃",
+          "line_type": "二黄散板",
+          "musical_style": "二黄散板",
+          "style_family": "二黄",
+          "text": "大胆奴才乱胡为！"
+        },
+        {
+          "character": "邹妃",
+          "line_type": "二黄散板",
+          "musical_style": "二黄散板",
+          "style_family": "二黄",
+          "text": "有一日田法章身躬大宝"
+        },
+        {
+          "character": "邹妃",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -2350,7 +2749,17 @@
         "musical_styles": [
           "二黄摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.074,
+        0.3333,
+        0.6,
+        0.0667,
+        0.4828,
+        3,
+        0.0,
+        0.3333
+      ]
     },
     {
       "scene_index": 9,
@@ -2371,7 +2780,7 @@
           "text": "（齐湣王、太监同上。）"
         },
         {
-          "character": null,
+          "character": "太监",
           "line_type": "二黄摇板",
           "musical_style": "二黄摇板",
           "style_family": "二黄",
@@ -2522,7 +2931,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "好！\n娥云过来。"
+          "text": "好！"
+        },
+        {
+          "character": "齐湣王",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "娥云过来。"
         },
         {
           "character": "娥云",
@@ -2623,7 +3039,17 @@
           "二黄摇板",
           "二黄散板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.048,
+        0.0,
+        1.0,
+        0.0,
+        0.9583,
+        5,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 10,
@@ -2663,7 +3089,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 11,
@@ -2916,7 +3352,17 @@
           "二黄摇板",
           "二黄散板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.087,
+        0.125,
+        0.875,
+        0.0,
+        0.913,
+        3,
+        0.0,
+        0.125
+      ]
     },
     {
       "scene_index": 12,
@@ -3233,7 +3679,17 @@
         "musical_styles": [
           "二黄散板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0323,
+        0.9677,
+        0.0,
+        0.8333,
+        4,
+        0.0,
+        0.0323
+      ]
     },
     {
       "scene_index": 13,
@@ -3618,7 +4074,17 @@
           "二黄原板",
           "二黄散板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.027,
+        0.0513,
+        0.9487,
+        0.0,
+        0.9474,
+        5,
+        0.0,
+        0.0513
+      ]
     },
     {
       "scene_index": 14,
@@ -4860,7 +5326,17 @@
           "二黄导板",
           "二黄散板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.052,
+        0.0966,
+        0.9034,
+        0.0,
+        0.8542,
+        6,
+        0.0,
+        0.0966
+      ]
     },
     {
       "scene_index": 15,
@@ -8518,7 +8994,17 @@
           "二黄散板",
           "二黄碰板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.002,
+        0.0081,
+        0.9898,
+        0.002,
+        0.9796,
+        6,
+        0.0,
+        0.0081
+      ]
     },
     {
       "scene_index": 16,
@@ -8849,7 +9335,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.9655,
+        0.0345,
+        0.9286,
+        8,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 17,
@@ -9044,7 +9540,17 @@
           "二黄原板",
           "二黄散板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.333,
+        0.4118,
+        0.5882,
+        0.0,
+        0.8125,
+        4,
+        0.0,
+        0.4118
+      ]
     },
     {
       "scene_index": 18,
@@ -9275,7 +9781,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.1,
+        0.1364,
+        0.8636,
+        0.0,
+        0.9048,
+        3,
+        0.1364,
+        0.0
+      ]
     },
     {
       "scene_index": 19,
@@ -9347,7 +9863,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 20,
@@ -9560,7 +10086,17 @@
         "musical_styles": [
           "二黄散板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.125,
+        0.1667,
+        0.8333,
+        0.0,
+        0.8235,
+        4,
+        0.0,
+        0.1667
+      ]
     },
     {
       "scene_index": 21,
@@ -9600,7 +10136,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 22,
@@ -9678,7 +10224,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.5,
+        0.4,
+        0.6,
+        0.0,
+        0.0,
+        1,
+        0.4,
+        0.0
+      ]
     },
     {
       "scene_index": 23,
@@ -9872,7 +10428,17 @@
         "musical_styles": [
           "西皮散板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.1765,
+        0.8235,
+        0.0,
+        0.6875,
+        3,
+        0.1765,
+        0.0
+      ]
     },
     {
       "scene_index": 24,
@@ -11295,7 +11861,17 @@
           "西皮散板",
           "西皮流水"
         ]
-      }
+      },
+      "scene_feature": [
+        0.056,
+        0.0914,
+        0.8817,
+        0.0269,
+        0.9297,
+        4,
+        0.0806,
+        0.0
+      ]
     },
     {
       "scene_index": 25,
@@ -11375,7 +11951,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.8,
+        0.2,
+        0.75,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 26,
@@ -11692,7 +12278,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.036,
+        0.0357,
+        0.9643,
+        0.0,
+        0.9259,
+        5,
+        0.0357,
+        0.0
+      ]
     },
     {
       "scene_index": 27,
@@ -12351,7 +12947,17 @@
           "西皮散板",
           "西皮流水"
         ]
-      }
+      },
+      "scene_feature": [
+        0.052,
+        0.1212,
+        0.8333,
+        0.0455,
+        0.8615,
+        7,
+        0.1212,
+        0.0
+      ]
     },
     {
       "scene_index": 28,
@@ -12914,7 +13520,17 @@
           "西皮摇板",
           "西皮散板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.019,
+        0.0536,
+        0.9464,
+        0.0,
+        0.9091,
+        7,
+        0.0536,
+        0.0
+      ]
     },
     {
       "scene_index": 29,
@@ -13012,7 +13628,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.75,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 30,
@@ -13438,7 +14064,17 @@
         "musical_styles": [
           "西皮散板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.079,
+        0.1395,
+        0.814,
+        0.0465,
+        0.8571,
+        5,
+        0.1163,
+        0.0
+      ]
     },
     {
       "scene_index": 31,
@@ -14027,7 +14663,17 @@
           "西皮摇板",
           "西皮散板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.017,
+        0.0635,
+        0.9206,
+        0.0159,
+        0.9032,
+        6,
+        0.0635,
+        0.0
+      ]
     }
   ]
 }

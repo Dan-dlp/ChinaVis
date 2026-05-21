@@ -776,7 +776,17 @@
         "singing_ratio": 0.019,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.019,
+        0.1077,
+        0.8615,
+        0.0308,
+        0.8281,
+        5,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -837,7 +847,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.5,
+        0.5,
+        0.0,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -863,7 +883,14 @@
           "line_type": "同唱",
           "musical_style": null,
           "style_family": null,
-          "text": "绿林之中无对手，\n遇到贪官断不留。"
+          "text": "绿林之中无对手，"
+        },
+        {
+          "character": "杜清、李佩、杜明、常太、郝世洪",
+          "line_type": "同唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "遇到贪官断不留。"
         },
         {
           "character": "杜清",
@@ -898,7 +925,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "郝世洪。\n众位贤弟，你我在张家口作得买卖。一路而来，周济贫民，花费干净。如今要\n寻找你我旧日朋友，作些买卖才好。"
+          "text": "郝世洪。"
+        },
+        {
+          "character": "郝世洪",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "众位贤弟，你我在张家口作得买卖。一路而来，周济贫民，花费干净。如今要"
+        },
+        {
+          "character": "郝世洪",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "寻找你我旧日朋友，作些买卖才好。"
         },
         {
           "character": "李佩",
@@ -982,7 +1023,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "只因李七侯李七叔父，在三河县彭公处作了健丁，要拿武文华圆案，有书请俺\n师父前来相助，不想俺师父染病在床，不能前去，故命小侄至此，不想遇着众\n家叔父。"
+          "text": "只因李七侯李七叔父，在三河县彭公处作了健丁，要拿武文华圆案，有书请俺"
+        },
+        {
+          "character": "万君兆",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "师父前来相助，不想俺师父染病在床，不能前去，故命小侄至此，不想遇着众"
+        },
+        {
+          "character": "万君兆",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "家叔父。"
         },
         {
           "character": "郝世洪",
@@ -1095,7 +1150,17 @@
         "singing_ratio": 0.15,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.15,
+        0.2143,
+        0.7857,
+        0.0,
+        0.7037,
+        9,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 4,
@@ -1121,7 +1186,14 @@
           "line_type": "同唱",
           "musical_style": null,
           "style_family": null,
-          "text": "七侯之言吩咐定，\n大家静候等信音。"
+          "text": "七侯之言吩咐定，"
+        },
+        {
+          "character": "左中信、谢珍、黑雄、李俊、武万年",
+          "line_type": "同唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "大家静候等信音。"
         },
         {
           "character": "左中信",
@@ -1177,7 +1249,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "众位贤弟，只为李七贤弟，同定黄三哥，往河间府，会那窦尔墩去了，叫我修\n书去往梧桐庄，聘请张茂龙，前来捉拿武文华，来人回道随即有人到此。"
+          "text": "众位贤弟，只为李七贤弟，同定黄三哥，往河间府，会那窦尔墩去了，叫我修"
+        },
+        {
+          "character": "左中信",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "书去往梧桐庄，聘请张茂龙，前来捉拿武文华，来人回道随即有人到此。"
         },
         {
           "character": "谢珍、黑雄、李俊、武万年",
@@ -1205,7 +1284,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "吓，众位英雄请了，我乃兴隆店小二便是。今有梧桐庄张爷命人到此，又有许\n多英雄在小店等候众位英雄，有大事相商，请众位速速前去。"
+          "text": "吓，众位英雄请了，我乃兴隆店小二便是。今有梧桐庄张爷命人到此，又有许"
+        },
+        {
+          "character": "店小二",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "多英雄在小店等候众位英雄，有大事相商，请众位速速前去。"
         },
         {
           "character": "左中信",
@@ -1247,7 +1333,14 @@
           "line_type": "同唱",
           "musical_style": null,
           "style_family": null,
-          "text": "只为忠臣秉忠正，\n要捉为害作恶人。"
+          "text": "只为忠臣秉忠正，"
+        },
+        {
+          "character": "谢珍、黑雄、李俊、武万年",
+          "line_type": "同唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "要捉为害作恶人。"
         },
         {
           "character": null,
@@ -1306,7 +1399,17 @@
         "singing_ratio": 0.067,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.067,
+        0.1905,
+        0.7619,
+        0.0476,
+        0.7,
+        8,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 5,
@@ -1329,7 +1432,42 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "只为拿左青龙结下仇恨，\n武文华为讲情起下祸根。\n又谁知天有眼又把官升。\n在衙内为心腹作了健丁。\n修书信梧桐庄去请能人。\n那时节拜上苍答报神灵。"
+          "text": "只为拿左青龙结下仇恨，"
+        },
+        {
+          "character": "彭朋",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "武文华为讲情起下祸根。"
+        },
+        {
+          "character": "彭朋",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "又谁知天有眼又把官升。"
+        },
+        {
+          "character": "彭朋",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "在衙内为心腹作了健丁。"
+        },
+        {
+          "character": "彭朋",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "修书信梧桐庄去请能人。"
+        },
+        {
+          "character": "彭朋",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "那时节拜上苍答报神灵。"
         },
         {
           "character": null,
@@ -1434,7 +1572,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "小人万君兆。因李七侯有书邀家师张茂龙前来，帮同县尊捉拿武文华，因家师\n有病，故命小人来此，以效犬马之劳。"
+          "text": "小人万君兆。因李七侯有书邀家师张茂龙前来，帮同县尊捉拿武文华，因家师"
+        },
+        {
+          "character": "万君兆",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "有病，故命小人来此，以效犬马之劳。"
         },
         {
           "character": "彭朋",
@@ -1455,7 +1600,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "拜别了县尊爷忙出衙境，\n到店中见众位细说其情。"
+          "text": "拜别了县尊爷忙出衙境，"
+        },
+        {
+          "character": "万君兆",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "到店中见众位细说其情。"
         },
         {
           "character": null,
@@ -1504,7 +1656,17 @@
         "singing_ratio": 0.125,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.125,
+        0.36,
+        0.6,
+        0.04,
+        0.625,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 6,
@@ -1530,7 +1692,14 @@
           "line_type": "同唱",
           "musical_style": null,
           "style_family": null,
-          "text": "七侯之言吩咐定，\n大家静候等信音。"
+          "text": "七侯之言吩咐定，"
+        },
+        {
+          "character": "左中信、谢珍、黑雄、李俊、武万年",
+          "line_type": "同唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "大家静候等信音。"
         },
         {
           "character": "左中信",
@@ -1586,7 +1755,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "众位贤弟，只为李七贤弟，同定黄三哥，往河间府，会那窦尔墩去了，叫我修\n书去往梧桐庄，聘请张茂龙，前来捉拿武文华，来人回道随即有人到此。"
+          "text": "众位贤弟，只为李七贤弟，同定黄三哥，往河间府，会那窦尔墩去了，叫我修"
+        },
+        {
+          "character": "左中信",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "书去往梧桐庄，聘请张茂龙，前来捉拿武文华，来人回道随即有人到此。"
         },
         {
           "character": "谢珍、黑雄、李俊、武万年",
@@ -1614,7 +1790,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "吓，众位英雄请了，我乃兴隆店小二便是。今有梧桐庄张爷命人到此，又有许\n多英雄在小店等候众位英雄，有大事相商，请众位速速前去。"
+          "text": "吓，众位英雄请了，我乃兴隆店小二便是。今有梧桐庄张爷命人到此，又有许"
+        },
+        {
+          "character": "店小二",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "多英雄在小店等候众位英雄，有大事相商，请众位速速前去。"
         },
         {
           "character": "左中信",
@@ -1656,7 +1839,14 @@
           "line_type": "同唱",
           "musical_style": null,
           "style_family": null,
-          "text": "只为忠臣秉忠正，\n要捉为害作恶人。"
+          "text": "只为忠臣秉忠正，"
+        },
+        {
+          "character": "谢珍、黑雄、李俊、武万年",
+          "line_type": "同唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "要捉为害作恶人。"
         },
         {
           "character": null,
@@ -1695,7 +1885,17 @@
         "singing_ratio": 0.182,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.182,
+        0.1905,
+        0.7619,
+        0.0476,
+        0.7,
+        8,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 7,
@@ -1736,7 +1936,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "俺，武文华。只为妹丈左青龙与彭朋结下仇恨，是我进京，亲走门路，将他坏\n任。谁知他收了李七侯，以为心腹，是俺日夜放心不下，又命人前去探听，未\n见回来。\n伺候了。"
+          "text": "俺，武文华。只为妹丈左青龙与彭朋结下仇恨，是我进京，亲走门路，将他坏"
+        },
+        {
+          "character": "武文华",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "任。谁知他收了李七侯，以为心腹，是俺日夜放心不下，又命人前去探听，未"
+        },
+        {
+          "character": "武文华",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "见回来。"
+        },
+        {
+          "character": "武文华",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "伺候了。"
         },
         {
           "character": null,
@@ -1792,7 +2013,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "吓哈，吓哈，哇呀呀！\n命你再去探听消息，即速回来，禀我知道。"
+          "text": "吓哈，吓哈，哇呀呀！"
+        },
+        {
+          "character": "武文华",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "命你再去探听消息，即速回来，禀我知道。"
         },
         {
           "character": null,
@@ -1806,7 +2034,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "且住！我想这赃官彭朋，官复原任，岂肯与我干休？\n来，拿了俺的名帖，去到前庄邀请那马氏弟兄到此，就提道俺有机密大事，共\n同相商。\n来，有请夫人、小姐出堂。"
+          "text": "且住！我想这赃官彭朋，官复原任，岂肯与我干休？"
+        },
+        {
+          "character": "武文华",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来，拿了俺的名帖，去到前庄邀请那马氏弟兄到此，就提道俺有机密大事，共"
+        },
+        {
+          "character": "武文华",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "同相商。"
+        },
+        {
+          "character": "武文华",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来，有请夫人、小姐出堂。"
         },
         {
           "character": "众家人",
@@ -1841,7 +2090,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "吓，贤妹。\n吓，夫人。\n请坐。"
+          "text": "吓，贤妹。"
+        },
+        {
+          "character": "武文华",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "吓，夫人。"
+        },
+        {
+          "character": "武文华",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "请坐。"
         },
         {
           "character": "蔡玉梅、武秀英",
@@ -1855,21 +2118,42 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "只因彭朋狗赃官，如今官复原职，必有官兵前来捕剿。后宅无人，夫人、贤妹，\n好生照应。"
-        },
-        {
-          "character": "蔡玉梅、武秀英",
-          "line_type": "同白",
-          "musical_style": null,
-          "style_family": null,
-          "text": "（相公）（兄长）但放宽心，就是彭朋有人前来暗算，我二人保守后宅，料无\n妨碍。"
+          "text": "只因彭朋狗赃官，如今官复原职，必有官兵前来捕剿。后宅无人，夫人、贤妹，"
         },
         {
           "character": "武文华",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "全仗夫人、贤妹。也曾命人去到前庄邀请马家弟兄，等他们到来，一同商议此\n事。这般时候，怎么还不见到来？"
+          "text": "好生照应。"
+        },
+        {
+          "character": "蔡玉梅、武秀英",
+          "line_type": "同白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "（相公）（兄长）但放宽心，就是彭朋有人前来暗算，我二人保守后宅，料无"
+        },
+        {
+          "character": "蔡玉梅、武秀英",
+          "line_type": "同白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "妨碍。"
+        },
+        {
+          "character": "武文华",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "全仗夫人、贤妹。也曾命人去到前庄邀请马家弟兄，等他们到来，一同商议此"
+        },
+        {
+          "character": "武文华",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "事。这般时候，怎么还不见到来？"
         },
         {
           "character": null,
@@ -1981,7 +2265,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "哦呵呵，列位英雄，只为赃官彭朋，与我作对，如今他官复原职，我想他岂肯\n与你我干休，早晚必有人前来拿我。请众位贤弟到此，一来饮酒，二来大家商\n议此事。"
+          "text": "哦呵呵，列位英雄，只为赃官彭朋，与我作对，如今他官复原职，我想他岂肯"
+        },
+        {
+          "character": "武文华",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "与你我干休，早晚必有人前来拿我。请众位贤弟到此，一来饮酒，二来大家商"
+        },
+        {
+          "character": "武文华",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "议此事。"
         },
         {
           "character": "四英雄",
@@ -2055,7 +2353,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0213,
+        0.9149,
+        0.0638,
+        0.5652,
+        7,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 8,
@@ -2134,7 +2442,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 9,
@@ -2202,7 +2520,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.6667,
+        0.3333,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 10,
@@ -2612,7 +2940,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.9565,
+        0.0435,
+        0.9778,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 11,
@@ -2692,7 +3030,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.6667,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 12,
@@ -2815,7 +3163,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 13,
@@ -2969,7 +3327,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        5,
+        0.0,
+        0.0
+      ]
     }
   ]
 }

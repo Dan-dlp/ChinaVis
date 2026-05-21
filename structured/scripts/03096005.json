@@ -180,7 +180,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "某、汉室关。奉命镇守荆州一带等处，某与军师打赌，夺取长沙。\n军士们！"
+          "text": "某、汉室关。奉命镇守荆州一带等处，某与军师打赌，夺取长沙。"
+        },
+        {
+          "character": "关羽",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "军士们！"
         },
         {
           "character": "四绿龙套",
@@ -215,10 +222,45 @@
           "line_type": "西皮原板",
           "musical_style": "西皮原板",
           "style_family": "西皮",
-          "text": "运筹帷幄坐将台。\n大小儿郎逞雄才。\n哪把长沙挂心怀。"
+          "text": "运筹帷幄坐将台。"
         },
         {
-          "character": "旌旗不住空中摆、某家出世英名在、吩咐三军把马带、四绿龙套",
+          "character": "关羽",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "大小儿郎逞雄才。"
+        },
+        {
+          "character": "关羽",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "哪把长沙挂心怀。"
+        },
+        {
+          "character": "关羽",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "旌旗不住空中摆"
+        },
+        {
+          "character": "关羽",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "某家出世英名在"
+        },
+        {
+          "character": "关羽",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "吩咐三军把马带"
+        },
+        {
+          "character": "四绿龙套",
           "line_type": "同白",
           "musical_style": null,
           "style_family": null,
@@ -263,7 +305,17 @@
           "西皮导板",
           "西皮散板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.333,
+        0.5625,
+        0.375,
+        0.0625,
+        0.4,
+        2,
+        0.5,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -379,7 +431,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "本帅，韩玄。奉我主之命，镇守长沙。今有桃园弟兄前来夺取长沙，不免传黄、\n魏二将进帐，议论迎敌之计。\n来！"
+          "text": "本帅，韩玄。奉我主之命，镇守长沙。今有桃园弟兄前来夺取长沙，不免传黄、"
+        },
+        {
+          "character": "韩玄",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "魏二将进帐，议论迎敌之计。"
+        },
+        {
+          "character": "韩玄",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来！"
         },
         {
           "character": "四文堂",
@@ -526,7 +592,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "且慢！老将军，我想关羽出世以来，过五关、斩六将，何等威风，人人皆知。\n诚恐老将军前去，不是他人对手。"
+          "text": "且慢！老将军，我想关羽出世以来，过五关、斩六将，何等威风，人人皆知。"
+        },
+        {
+          "character": "魏延",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "诚恐老将军前去，不是他人对手。"
         },
         {
           "character": "黄忠",
@@ -547,49 +620,210 @@
           "line_type": "西皮二六板",
           "musical_style": "西皮二六板",
           "style_family": "西皮",
-          "text": "魏将军把话错来讲，\n某家言来听端详：\n独战秦兵逞刚强。\n岂不知强中自有强中强。"
+          "text": "魏将军把话错来讲，"
         },
         {
-          "character": "赵国廉颇七旬上、你道关羽是好将、魏延",
+          "character": "黄忠",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "某家言来听端详："
+        },
+        {
+          "character": "黄忠",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "独战秦兵逞刚强。"
+        },
+        {
+          "character": "黄忠",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "岂不知强中自有强中强。"
+        },
+        {
+          "character": "黄忠",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "赵国廉颇七旬上"
+        },
+        {
+          "character": "黄忠",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "你道关羽是好将"
+        },
+        {
+          "character": "魏延",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
           "text": "老将军！"
         },
         {
-          "character": "赵国廉颇七旬上、你道关羽是好将、魏延",
+          "character": "魏延",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "赵国廉颇七旬上"
+        },
+        {
+          "character": "魏延",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "你道关羽是好将"
+        },
+        {
+          "character": "魏延",
           "line_type": "西皮流水板",
           "musical_style": "西皮流水板",
           "style_family": "西皮",
-          "text": "老将军说话不思量，\n某家言来听端详：\n千里路上保皇娘。\n擂鼓三通斩蔡阳。\n诚恐难胜关云长。"
+          "text": "老将军说话不思量，"
         },
         {
-          "character": "关羽生来是好将、过五关曾斩六员将、将军去到阵头上、韩玄",
+          "character": "魏延",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "某家言来听端详："
+        },
+        {
+          "character": "魏延",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "千里路上保皇娘。"
+        },
+        {
+          "character": "魏延",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "擂鼓三通斩蔡阳。"
+        },
+        {
+          "character": "魏延",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "诚恐难胜关云长。"
+        },
+        {
+          "character": "魏延",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "关羽生来是好将"
+        },
+        {
+          "character": "魏延",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "过五关曾斩六员将"
+        },
+        {
+          "character": "魏延",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "将军去到阵头上"
+        },
+        {
+          "character": "韩玄",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
           "text": "将军！"
         },
         {
-          "character": "关羽生来是好将、过五关曾斩六员将、将军去到阵头上、韩玄",
+          "character": "韩玄",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "关羽生来是好将"
+        },
+        {
+          "character": "韩玄",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "过五关曾斩六员将"
+        },
+        {
+          "character": "韩玄",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "将军去到阵头上"
+        },
+        {
+          "character": "韩玄",
           "line_type": "西皮散板",
           "musical_style": "西皮散板",
           "style_family": "西皮",
-          "text": "魏将军说话少志量，\n黄忠近前听端详：\n命你大战关云长。"
+          "text": "魏将军说话少志量，"
         },
         {
-          "character": "我今与你一支令、黄忠",
+          "character": "韩玄",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "黄忠近前听端详："
+        },
+        {
+          "character": "韩玄",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "命你大战关云长。"
+        },
+        {
+          "character": "韩玄",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "我今与你一支令"
+        },
+        {
+          "character": "黄忠",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
           "text": "得令！"
         },
         {
-          "character": "我今与你一支令、黄忠",
+          "character": "黄忠",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我今与你一支令"
+        },
+        {
+          "character": "黄忠",
           "line_type": "西皮散板",
           "musical_style": "西皮散板",
           "style_family": "西皮",
-          "text": "黄忠得令下宝帐，\n背转身来自思量。\n大将难免阵头亡。"
+          "text": "黄忠得令下宝帐，"
+        },
+        {
+          "character": "黄忠",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "背转身来自思量。"
+        },
+        {
+          "character": "黄忠",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "大将难免阵头亡。"
         },
         {
           "character": null,
@@ -617,21 +851,56 @@
           "line_type": "西皮散板",
           "musical_style": "西皮散板",
           "style_family": "西皮",
-          "text": "黄忠得令出宝帐，\n开言叫声魏文长：\n命你四路去催粮。"
+          "text": "黄忠得令出宝帐，"
         },
         {
-          "character": "我今与你一支令、魏延",
+          "character": "韩玄",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "开言叫声魏文长："
+        },
+        {
+          "character": "韩玄",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "命你四路去催粮。"
+        },
+        {
+          "character": "韩玄",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "我今与你一支令"
+        },
+        {
+          "character": "魏延",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
           "text": "得令！"
         },
         {
-          "character": "我今与你一支令、魏延",
+          "character": "魏延",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我今与你一支令"
+        },
+        {
+          "character": "魏延",
           "line_type": "西皮散板",
           "musical_style": "西皮散板",
           "style_family": "西皮",
-          "text": "元帅将令往下降，\n命某四路去催粮。"
+          "text": "元帅将令往下降，"
+        },
+        {
+          "character": "魏延",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "命某四路去催粮。"
         },
         {
           "character": null,
@@ -645,7 +914,14 @@
           "line_type": "西皮散板",
           "musical_style": "西皮散板",
           "style_family": "西皮",
-          "text": "黄忠、魏延出宝帐，\n且听探马报端详。"
+          "text": "黄忠、魏延出宝帐，"
+        },
+        {
+          "character": "韩玄",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "且听探马报端详。"
         },
         {
           "character": "韩玄",
@@ -728,7 +1004,17 @@
           "西皮散板",
           "西皮流水"
         ]
-      }
+      },
+      "scene_feature": [
+        0.088,
+        0.4079,
+        0.5132,
+        0.0789,
+        0.4267,
+        7,
+        0.3947,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -796,24 +1082,213 @@
           "line_type": "西皮慢二六板",
           "musical_style": "西皮慢二六板",
           "style_family": "西皮",
-          "text": "黄忠老将听端详：\n当今皇叔四海扬。\n大吼一声断桥梁。\n长坂坡前救小王。\n神机妙算腹内藏。\n颜良、文丑在某的青龙刀下丧无常。\n擂鼓三通斩蔡阳。\n免得一命刀下亡。"
+          "text": "黄忠老将听端详："
         },
         {
-          "character": "某大哥堂堂帝王相、某三弟翼德猛勇将、四弟子龙不可挡、三请军师诸葛亮、我弟兄曾破黄巾兵百万、过五关斩过六员将、黄忠早把长沙让、黄忠",
+          "character": "关羽",
+          "line_type": "西皮慢二六板",
+          "musical_style": "西皮慢二六板",
+          "style_family": "西皮",
+          "text": "当今皇叔四海扬。"
+        },
+        {
+          "character": "关羽",
+          "line_type": "西皮慢二六板",
+          "musical_style": "西皮慢二六板",
+          "style_family": "西皮",
+          "text": "大吼一声断桥梁。"
+        },
+        {
+          "character": "关羽",
+          "line_type": "西皮慢二六板",
+          "musical_style": "西皮慢二六板",
+          "style_family": "西皮",
+          "text": "长坂坡前救小王。"
+        },
+        {
+          "character": "关羽",
+          "line_type": "西皮慢二六板",
+          "musical_style": "西皮慢二六板",
+          "style_family": "西皮",
+          "text": "神机妙算腹内藏。"
+        },
+        {
+          "character": "关羽",
+          "line_type": "西皮慢二六板",
+          "musical_style": "西皮慢二六板",
+          "style_family": "西皮",
+          "text": "颜良、文丑在某的青龙刀下丧无常。"
+        },
+        {
+          "character": "关羽",
+          "line_type": "西皮慢二六板",
+          "musical_style": "西皮慢二六板",
+          "style_family": "西皮",
+          "text": "擂鼓三通斩蔡阳。"
+        },
+        {
+          "character": "关羽",
+          "line_type": "西皮慢二六板",
+          "musical_style": "西皮慢二六板",
+          "style_family": "西皮",
+          "text": "免得一命刀下亡。"
+        },
+        {
+          "character": "关羽",
+          "line_type": "西皮慢二六板",
+          "musical_style": "西皮慢二六板",
+          "style_family": "西皮",
+          "text": "某大哥堂堂帝王相"
+        },
+        {
+          "character": "关羽",
+          "line_type": "西皮慢二六板",
+          "musical_style": "西皮慢二六板",
+          "style_family": "西皮",
+          "text": "某三弟翼德猛勇将"
+        },
+        {
+          "character": "关羽",
+          "line_type": "西皮慢二六板",
+          "musical_style": "西皮慢二六板",
+          "style_family": "西皮",
+          "text": "四弟子龙不可挡"
+        },
+        {
+          "character": "关羽",
+          "line_type": "西皮慢二六板",
+          "musical_style": "西皮慢二六板",
+          "style_family": "西皮",
+          "text": "三请军师诸葛亮"
+        },
+        {
+          "character": "关羽",
+          "line_type": "西皮慢二六板",
+          "musical_style": "西皮慢二六板",
+          "style_family": "西皮",
+          "text": "我弟兄曾破黄巾兵百万"
+        },
+        {
+          "character": "关羽",
+          "line_type": "西皮慢二六板",
+          "musical_style": "西皮慢二六板",
+          "style_family": "西皮",
+          "text": "过五关斩过六员将"
+        },
+        {
+          "character": "关羽",
+          "line_type": "西皮慢二六板",
+          "musical_style": "西皮慢二六板",
+          "style_family": "西皮",
+          "text": "黄忠早把长沙让"
+        },
+        {
+          "character": "黄忠",
           "line_type": "西皮散板",
           "musical_style": "西皮散板",
           "style_family": "西皮",
           "text": "听罢言来用目望，"
         },
         {
-          "character": "某大哥堂堂帝王相、某三弟翼德猛勇将、四弟子龙不可挡、三请军师诸葛亮、我弟兄曾破黄巾兵百万、过五关斩过六员将、黄忠早把长沙让、黄忠",
+          "character": "黄忠",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "某大哥堂堂帝王相"
+        },
+        {
+          "character": "黄忠",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "某三弟翼德猛勇将"
+        },
+        {
+          "character": "黄忠",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "四弟子龙不可挡"
+        },
+        {
+          "character": "黄忠",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "三请军师诸葛亮"
+        },
+        {
+          "character": "黄忠",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "我弟兄曾破黄巾兵百万"
+        },
+        {
+          "character": "黄忠",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "过五关斩过六员将"
+        },
+        {
+          "character": "黄忠",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "黄忠早把长沙让"
+        },
+        {
+          "character": "黄忠",
           "line_type": "西皮快板",
           "musical_style": "西皮快板",
           "style_family": "西皮",
-          "text": "关羽果然不寻常：\n身穿铠甲放毫光。\n关羽听某说端详：\n除非日出在西方。"
+          "text": "关羽果然不寻常："
         },
         {
-          "character": "头戴金盔明又亮、开言有语把话讲、要取长沙休妄想、关羽",
+          "character": "黄忠",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "身穿铠甲放毫光。"
+        },
+        {
+          "character": "黄忠",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "关羽听某说端详："
+        },
+        {
+          "character": "黄忠",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "除非日出在西方。"
+        },
+        {
+          "character": "黄忠",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "头戴金盔明又亮"
+        },
+        {
+          "character": "黄忠",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "开言有语把话讲"
+        },
+        {
+          "character": "黄忠",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "要取长沙休妄想"
+        },
+        {
+          "character": "关羽",
           "line_type": "西皮散板",
           "musical_style": "西皮散板",
           "style_family": "西皮",
@@ -941,7 +1416,17 @@
           "西皮快板",
           "西皮散板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.214,
+        0.75,
+        0.25,
+        0.0,
+        0.2326,
+        3,
+        0.75,
+        0.0
+      ]
     },
     {
       "scene_index": 4,
@@ -1029,10 +1514,24 @@
           "line_type": "西皮快板",
           "musical_style": "西皮快板",
           "style_family": "西皮",
-          "text": "黄忠老将听根苗：\n凌烟阁上美名标。"
+          "text": "黄忠老将听根苗："
         },
         {
-          "character": "你若擒得关羽到、黄忠",
+          "character": "韩玄",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "凌烟阁上美名标。"
+        },
+        {
+          "character": "韩玄",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "你若擒得关羽到"
+        },
+        {
+          "character": "黄忠",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -1050,14 +1549,28 @@
           "line_type": "西皮散板",
           "musical_style": "西皮散板",
           "style_family": "西皮",
-          "text": "元帅将令往下降，\n出得宝帐自思量。"
+          "text": "元帅将令往下降，"
+        },
+        {
+          "character": "黄忠",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "出得宝帐自思量。"
         },
         {
           "character": "黄忠",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "且住！想某在两军阵前，被关羽打下马来，不忍杀害于我。想俺这百步穿杨，\n百发百中，明日去到阵前，只射盔樱，不射咽喉，以报阵前不杀之恩也！"
+          "text": "且住！想某在两军阵前，被关羽打下马来，不忍杀害于我。想俺这百步穿杨，"
+        },
+        {
+          "character": "黄忠",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "百发百中，明日去到阵前，只射盔樱，不射咽喉，以报阵前不杀之恩也！"
         },
         {
           "character": null,
@@ -1071,10 +1584,24 @@
           "line_type": "西皮散板",
           "musical_style": "西皮散板",
           "style_family": "西皮",
-          "text": "百步穿杨射得准，\n显显某家手段精。"
+          "text": "百步穿杨射得准，"
         },
         {
-          "character": "人来带过马能行、红龙套甲",
+          "character": "黄忠",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "显显某家手段精。"
+        },
+        {
+          "character": "黄忠",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "人来带过马能行"
+        },
+        {
+          "character": "红龙套甲",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -1126,7 +1653,17 @@
           "西皮快板",
           "西皮散板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.25,
+        0.4762,
+        0.4762,
+        0.0476,
+        0.45,
+        3,
+        0.4762,
+        0.0
+      ]
     },
     {
       "scene_index": 5,
@@ -1288,7 +1825,17 @@
           "西皮散板",
           "西皮流水"
         ]
-      }
+      },
+      "scene_feature": [
+        0.2,
+        0.3333,
+        0.6667,
+        0.0,
+        0.6364,
+        3,
+        0.3333,
+        0.0
+      ]
     },
     {
       "scene_index": 6,
@@ -1677,7 +2224,17 @@
           "西皮摇板",
           "西皮散板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.462,
+        0.4667,
+        0.5333,
+        0.0,
+        0.7931,
+        6,
+        0.4667,
+        0.0
+      ]
     },
     {
       "scene_index": 7,
@@ -1700,10 +2257,24 @@
           "line_type": "西皮流水板",
           "musical_style": "西皮流水板",
           "style_family": "西皮",
-          "text": "某家奉了元帅令，\n押运粮草转回营。"
+          "text": "某家奉了元帅令，"
         },
         {
-          "character": "三军与爷往前进、四车夫",
+          "character": "魏延",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "押运粮草转回营。"
+        },
+        {
+          "character": "魏延",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "三军与爷往前进"
+        },
+        {
+          "character": "四车夫",
           "line_type": "同白",
           "musical_style": null,
           "style_family": null,
@@ -1728,7 +2299,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "俺、魏延。奉了元帅将令，押运粮草，军前应用。粮草催齐，回营交令。\n军士们！"
+          "text": "俺、魏延。奉了元帅将令，押运粮草，军前应用。粮草催齐，回营交令。"
+        },
+        {
+          "character": "魏延",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "军士们！"
         },
         {
           "character": "四车夫",
@@ -1782,7 +2360,17 @@
           "西皮散板",
           "西皮流水板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.333,
+        0.4,
+        0.6,
+        0.0,
+        0.5556,
+        2,
+        0.4,
+        0.0
+      ]
     },
     {
       "scene_index": 8,
@@ -1809,14 +2397,42 @@
           "line_type": "西皮原板",
           "musical_style": "西皮原板",
           "style_family": "西皮",
-          "text": "不由得豪杰泪双流。\n一时大意计不周。\n蒙他不斩把情留。\n韩元帅不容——"
+          "text": "不由得豪杰泪双流。"
+        },
+        {
+          "character": "黄忠",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "一时大意计不周。"
+        },
+        {
+          "character": "黄忠",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "蒙他不斩把情留。"
+        },
+        {
+          "character": "黄忠",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "韩元帅不容——"
         },
         {
           "character": "黄忠",
           "line_type": "西皮快板",
           "musical_style": "西皮快板",
           "style_family": "西皮",
-          "text": "某开口，\n推出辕门要斩人头。"
+          "text": "某开口，"
+        },
+        {
+          "character": "黄忠",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "推出辕门要斩人头。"
         },
         {
           "character": "黄忠",
@@ -1837,7 +2453,14 @@
           "line_type": "西皮散板",
           "musical_style": "西皮散板",
           "style_family": "西皮",
-          "text": "来在法场用目瞅，\n老将军醒来问从头。"
+          "text": "来在法场用目瞅，"
+        },
+        {
+          "character": "魏延",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "老将军醒来问从头。"
         },
         {
           "character": "魏延",
@@ -1872,38 +2495,129 @@
           "line_type": "西皮快板",
           "musical_style": "西皮快板",
           "style_family": "西皮",
-          "text": "将军身犯何罪由，\n快对某家说从头。"
-        },
-        {
-          "character": "黄忠",
-          "line_type": "西皮快板",
-          "musical_style": "西皮快板",
-          "style_family": "西皮",
-          "text": "都只为龙争并虎斗，\n两军阵前计不周。\n蒙他不斩把情留。\n元帅一怒要斩某的头。"
-        },
-        {
-          "character": "误中关羽的拖刀计、箭射盔樱我报他的情谊厚、魏延",
-          "line_type": "西皮快板",
-          "musical_style": "西皮快板",
-          "style_family": "西皮",
-          "text": "老将军不必心担忧，\n末将进帐把情求。"
-        },
-        {
-          "character": "黄忠",
-          "line_type": "西皮快板",
-          "musical_style": "西皮快板",
-          "style_family": "西皮",
-          "text": "你与韩玄把长沙守，\n不可为我结冤仇。"
+          "text": "将军身犯何罪由，"
         },
         {
           "character": "魏延",
           "line_type": "西皮快板",
           "musical_style": "西皮快板",
           "style_family": "西皮",
-          "text": "他若是把人情来准下，\n万般事儿一旦丢；\n定叫老贼一命休。\n你把老将留一留。"
+          "text": "快对某家说从头。"
         },
         {
-          "character": "他若是执意不罢手、开言叫声刀斧手、四刀斧手",
+          "character": "黄忠",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "都只为龙争并虎斗，"
+        },
+        {
+          "character": "黄忠",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "两军阵前计不周。"
+        },
+        {
+          "character": "黄忠",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "蒙他不斩把情留。"
+        },
+        {
+          "character": "黄忠",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "元帅一怒要斩某的头。"
+        },
+        {
+          "character": "黄忠",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "误中关羽的拖刀计"
+        },
+        {
+          "character": "黄忠",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "箭射盔樱我报他的情谊厚"
+        },
+        {
+          "character": "魏延",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "老将军不必心担忧，"
+        },
+        {
+          "character": "魏延",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "末将进帐把情求。"
+        },
+        {
+          "character": "黄忠",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "你与韩玄把长沙守，"
+        },
+        {
+          "character": "黄忠",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "不可为我结冤仇。"
+        },
+        {
+          "character": "魏延",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "他若是把人情来准下，"
+        },
+        {
+          "character": "魏延",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "万般事儿一旦丢；"
+        },
+        {
+          "character": "魏延",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "定叫老贼一命休。"
+        },
+        {
+          "character": "魏延",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "你把老将留一留。"
+        },
+        {
+          "character": "魏延",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "他若是执意不罢手"
+        },
+        {
+          "character": "魏延",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "开言叫声刀斧手"
+        },
+        {
+          "character": "四刀斧手",
           "line_type": "同白",
           "musical_style": null,
           "style_family": null,
@@ -1921,7 +2635,14 @@
           "line_type": "西皮散板",
           "musical_style": "西皮散板",
           "style_family": "西皮",
-          "text": "魏延进帐把情求，\n不知元帅可肯留？"
+          "text": "魏延进帐把情求，"
+        },
+        {
+          "character": "黄忠",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "不知元帅可肯留？"
         },
         {
           "character": null,
@@ -1963,7 +2684,17 @@
           "西皮快板",
           "西皮散板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.9,
+        0.9118,
+        0.0882,
+        0.0,
+        0.2727,
+        3,
+        0.9118,
+        0.0
+      ]
     },
     {
       "scene_index": 9,
@@ -2207,7 +2938,17 @@
           "西皮摇板",
           "西皮散板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.2,
+        0.32,
+        0.68,
+        0.0,
+        0.7083,
+        2,
+        0.32,
+        0.0
+      ]
     },
     {
       "scene_index": 10,
@@ -2236,14 +2977,42 @@
           "line_type": "西皮原板",
           "musical_style": "西皮原板",
           "style_family": "西皮",
-          "text": "不由得豪杰泪双流。\n一时大意计不周。\n蒙他不斩把情留。\n韩元帅不容——"
+          "text": "不由得豪杰泪双流。"
+        },
+        {
+          "character": "黄忠",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "一时大意计不周。"
+        },
+        {
+          "character": "黄忠",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "蒙他不斩把情留。"
+        },
+        {
+          "character": "黄忠",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "韩元帅不容——"
         },
         {
           "character": "黄忠",
           "line_type": "西皮快板",
           "musical_style": "西皮快板",
           "style_family": "西皮",
-          "text": "某开口，\n推出辕门要斩人头。"
+          "text": "某开口，"
+        },
+        {
+          "character": "黄忠",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "推出辕门要斩人头。"
         },
         {
           "character": "黄忠",
@@ -2264,7 +3033,14 @@
           "line_type": "西皮散板",
           "musical_style": "西皮散板",
           "style_family": "西皮",
-          "text": "来在法场用目瞅，\n老将军醒来问从头。"
+          "text": "来在法场用目瞅，"
+        },
+        {
+          "character": "魏延",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "老将军醒来问从头。"
         },
         {
           "character": "魏延",
@@ -2299,38 +3075,129 @@
           "line_type": "西皮快板",
           "musical_style": "西皮快板",
           "style_family": "西皮",
-          "text": "将军身犯何罪由，\n快对某家说从头。"
-        },
-        {
-          "character": "黄忠",
-          "line_type": "西皮快板",
-          "musical_style": "西皮快板",
-          "style_family": "西皮",
-          "text": "都只为龙争并虎斗，\n两军阵前计不周。\n蒙他不斩把情留。\n元帅一怒要斩某的头。"
-        },
-        {
-          "character": "误中关羽的拖刀计、箭射盔樱我报他的情谊厚、魏延",
-          "line_type": "西皮快板",
-          "musical_style": "西皮快板",
-          "style_family": "西皮",
-          "text": "老将军不必心担忧，\n末将进帐把情求。"
-        },
-        {
-          "character": "黄忠",
-          "line_type": "西皮快板",
-          "musical_style": "西皮快板",
-          "style_family": "西皮",
-          "text": "你与韩玄把长沙守，\n不可为我结冤仇。"
+          "text": "将军身犯何罪由，"
         },
         {
           "character": "魏延",
           "line_type": "西皮快板",
           "musical_style": "西皮快板",
           "style_family": "西皮",
-          "text": "他若是把人情来准下，\n万般事儿一旦丢；\n定叫老贼一命休。\n你把老将留一留。"
+          "text": "快对某家说从头。"
         },
         {
-          "character": "他若是执意不罢手、开言叫声刀斧手、四刀斧手",
+          "character": "黄忠",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "都只为龙争并虎斗，"
+        },
+        {
+          "character": "黄忠",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "两军阵前计不周。"
+        },
+        {
+          "character": "黄忠",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "蒙他不斩把情留。"
+        },
+        {
+          "character": "黄忠",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "元帅一怒要斩某的头。"
+        },
+        {
+          "character": "黄忠",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "误中关羽的拖刀计"
+        },
+        {
+          "character": "黄忠",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "箭射盔樱我报他的情谊厚"
+        },
+        {
+          "character": "魏延",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "老将军不必心担忧，"
+        },
+        {
+          "character": "魏延",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "末将进帐把情求。"
+        },
+        {
+          "character": "黄忠",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "你与韩玄把长沙守，"
+        },
+        {
+          "character": "黄忠",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "不可为我结冤仇。"
+        },
+        {
+          "character": "魏延",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "他若是把人情来准下，"
+        },
+        {
+          "character": "魏延",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "万般事儿一旦丢；"
+        },
+        {
+          "character": "魏延",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "定叫老贼一命休。"
+        },
+        {
+          "character": "魏延",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "你把老将留一留。"
+        },
+        {
+          "character": "魏延",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "他若是执意不罢手"
+        },
+        {
+          "character": "魏延",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "开言叫声刀斧手"
+        },
+        {
+          "character": "四刀斧手",
           "line_type": "同白",
           "musical_style": null,
           "style_family": null,
@@ -2348,7 +3215,14 @@
           "line_type": "西皮散板",
           "musical_style": "西皮散板",
           "style_family": "西皮",
-          "text": "魏延进帐把情求，\n不知元帅可肯留？"
+          "text": "魏延进帐把情求，"
+        },
+        {
+          "character": "黄忠",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "不知元帅可肯留？"
         },
         {
           "character": null,
@@ -2404,7 +3278,14 @@
           "line_type": "西皮散板",
           "musical_style": "西皮散板",
           "style_family": "西皮",
-          "text": "来在辕门下青骢，\n见了元帅来求情。"
+          "text": "来在辕门下青骢，"
+        },
+        {
+          "character": "魏延",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "见了元帅来求情。"
         },
         {
           "character": "魏延",
@@ -2516,7 +3397,14 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "放了黄忠还便罢，\n不放黄忠我怒气发！"
+          "text": "放了黄忠还便罢，"
+        },
+        {
+          "character": "魏延",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "不放黄忠我怒气发！"
         },
         {
           "character": "韩玄",
@@ -2530,21 +3418,56 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "骂声魏延真胆大，\n敢在帐前乱军法。\n推出辕门把他杀。"
+          "text": "骂声魏延真胆大，"
         },
         {
-          "character": "快将魏延来拿下、魏延",
+          "character": "韩玄",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "敢在帐前乱军法。"
+        },
+        {
+          "character": "韩玄",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "推出辕门把他杀。"
+        },
+        {
+          "character": "韩玄",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "快将魏延来拿下"
+        },
+        {
+          "character": "魏延",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
           "text": "哇呀呀！"
         },
         {
-          "character": "快将魏延来拿下、魏延",
+          "character": "魏延",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "快将魏延来拿下"
+        },
+        {
+          "character": "魏延",
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "听一言来怒气发，\n不由某家咬钢牙。"
+          "text": "听一言来怒气发，"
+        },
+        {
+          "character": "魏延",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "不由某家咬钢牙。"
         },
         {
           "character": null,
@@ -2579,7 +3502,14 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "魏延去了多时候，\n不见回来我心忧！"
+          "text": "魏延去了多时候，"
+        },
+        {
+          "character": "黄忠",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "不见回来我心忧！"
         },
         {
           "character": null,
@@ -2593,7 +3523,21 @@
           "line_type": "西皮快板",
           "musical_style": "西皮快板",
           "style_family": "西皮",
-          "text": "韩玄做事无来由，\n某家岂肯把他留。\n先杀两旁"
+          "text": "韩玄做事无来由，"
+        },
+        {
+          "character": "魏延",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "某家岂肯把他留。"
+        },
+        {
+          "character": "魏延",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "先杀两旁"
         }
       ],
       "interactions": [
@@ -2620,7 +3564,17 @@
           "西皮快板",
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.243,
+        0.7042,
+        0.2958,
+        0.0,
+        0.4143,
+        4,
+        0.7042,
+        0.0
+      ]
     },
     {
       "scene_index": 11,
@@ -3233,7 +4187,17 @@
           "西皮散板",
           "西皮流水"
         ]
-      }
+      },
+      "scene_feature": [
+        0.321,
+        0.3276,
+        0.6724,
+        0.0,
+        0.9123,
+        7,
+        0.3276,
+        0.0
+      ]
     }
   ]
 }

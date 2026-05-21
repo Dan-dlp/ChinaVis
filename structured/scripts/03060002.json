@@ -87,14 +87,42 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "俺，姓赵名匡胤，字表玄郎。只因酒醉，杀了御乐一十七口，我父修书，命俺\n四路探亲，就此马上加鞭。"
+          "text": "俺，姓赵名匡胤，字表玄郎。只因酒醉，杀了御乐一十七口，我父修书，命俺"
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "四路探亲，就此马上加鞭。"
         },
         {
           "character": "赵匡胤",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "悔不该杀御乐一十七命，\n只落得别爹娘四路探亲。\n走关东和关西无处存身。\n有豪杰催坐骑忙往前行。"
+          "text": "悔不该杀御乐一十七命，"
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "只落得别爹娘四路探亲。"
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "走关东和关西无处存身。"
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "有豪杰催坐骑忙往前行。"
         },
         {
           "character": null,
@@ -113,7 +141,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.5714,
+        0.2857,
+        0.1429,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -155,10 +193,101 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "在仙山我领了师傅之命，\n洒金桥摆卦棚指点前程。\n算人间吉凶事不差毫分。\n霎时间冲霄汉雾气腾腾。\n见翠柏和苍松密密层层。\n见许多名利客车马来行。\n又只见桌案上灰尘寸深。\n等候了赤须龙指点前程。"
+          "text": "在仙山我领了师傅之命，"
         },
         {
-          "character": "招牌上写的是神算苗顺、观东方红光照紫气一阵、黄莺儿不住的枝头站定、金桥下鱼戏水观之不尽、这几天并无有一人来问、将身儿来至在卦棚坐定、赵匡胤",
+          "character": "苗顺",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "洒金桥摆卦棚指点前程。"
+        },
+        {
+          "character": "苗顺",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "算人间吉凶事不差毫分。"
+        },
+        {
+          "character": "苗顺",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "霎时间冲霄汉雾气腾腾。"
+        },
+        {
+          "character": "苗顺",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "见翠柏和苍松密密层层。"
+        },
+        {
+          "character": "苗顺",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "见许多名利客车马来行。"
+        },
+        {
+          "character": "苗顺",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "又只见桌案上灰尘寸深。"
+        },
+        {
+          "character": "苗顺",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "等候了赤须龙指点前程。"
+        },
+        {
+          "character": "苗顺",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "招牌上写的是神算苗顺"
+        },
+        {
+          "character": "苗顺",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "观东方红光照紫气一阵"
+        },
+        {
+          "character": "苗顺",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "黄莺儿不住的枝头站定"
+        },
+        {
+          "character": "苗顺",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "金桥下鱼戏水观之不尽"
+        },
+        {
+          "character": "苗顺",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "这几天并无有一人来问"
+        },
+        {
+          "character": "苗顺",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "将身儿来至在卦棚坐定"
+        },
+        {
+          "character": "赵匡胤",
           "line_type": "内唱",
           "musical_style": null,
           "style_family": null,
@@ -176,7 +305,49 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "时刻间胆战惊如掉三魂。\n招商店好美酒哪饮几瓶？\n奔过了多少个闹市关津。\n走关东奔关西何曾安宁！\n他看的非地理定是天文。\n好比那三国中诸葛孔明。\n算人间吉凶事不差毫分。"
+          "text": "时刻间胆战惊如掉三魂。"
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "招商店好美酒哪饮几瓶？"
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "奔过了多少个闹市关津。"
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "走关东奔关西何曾安宁！"
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "他看的非地理定是天文。"
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "好比那三国中诸葛孔明。"
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "算人间吉凶事不差毫分。"
         },
         {
           "character": null,
@@ -211,63 +382,322 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "你既来算八字休通名姓，\n待山人将八卦细算分明。\n你本是人帝主降下凡尘。\n因此上两条龙一母降生。\n因此上别爹娘四路探亲。"
-        },
-        {
-          "character": "你本是西洛县赵门匡胤、都只为你祖上积有德行、这几年时不济蛟龙遭困、赵匡胤",
-          "line_type": "唱",
-          "musical_style": null,
-          "style_family": null,
-          "text": "都只为时不至特来求问，\n望先生多劳神细算分明。"
+          "text": "你既来算八字休通名姓，"
         },
         {
           "character": "苗顺",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "你不该江湖上结拜异姓，\n你不该嫖素梅走却元真。\n你不该累双亲身受苦刑。"
+          "text": "待山人将八卦细算分明。"
         },
         {
-          "character": "你不该杀御乐一十七命、赵匡胤",
+          "character": "苗顺",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "提起了从前事一言难尽，\n实服你卜吉凶妙算如神。\n再算我前途上可有灾星？"
+          "text": "你本是人帝主降下凡尘。"
         },
         {
-          "character": "过去事悔不及今后改正、苗顺",
+          "character": "苗顺",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "此一去中途路酒要少饮，\n百日内还有那血光灾星。\n二不可三皇庙求雨祈神。\n四不可清幽观结拜赵京。\n六不可黄叶寺惹祸生嗔。\n八不可鱼池内射妖逞能。\n十不可高平关将妹许婚。\n到后来才知我苗顺卦灵。"
+          "text": "因此上两条龙一母降生。"
         },
         {
-          "character": "一不可董家桥自逞本领、三不可华山上下棋争论、五不可宿古庙恐遭迷阵、七不可归故里盘查严紧、九不可上燕京刺杀刘主、我算你十件事件件有准、赵匡胤",
+          "character": "苗顺",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "苗先生他把我未来算定，\n只说得赵玄郎二目圆睁。\n再算我到何日大运亨通？"
+          "text": "因此上别爹娘四路探亲。"
         },
         {
-          "character": "走向前施一礼还要求问、苗顺",
+          "character": "苗顺",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "我算你四十岁才交大运，\n到陈桥戴冕旒南面称尊。"
+          "text": "你本是西洛县赵门匡胤"
+        },
+        {
+          "character": "苗顺",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "都只为你祖上积有德行"
+        },
+        {
+          "character": "苗顺",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "这几年时不济蛟龙遭困"
         },
         {
           "character": "赵匡胤",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "苗先生你说话需要谨慎，\n这件事犯王法不可看轻。\n哪有个荫子孙擅坐朝廷？\n那时节你就是开国元勋。"
+          "text": "都只为时不至特来求问，"
         },
         {
-          "character": "虽则是我祖父为官清正、赵玄郎若还有天子福分、苗顺",
+          "character": "赵匡胤",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "我在那江湖上四路访问，\n只等到八月中相会汴京。"
+          "text": "望先生多劳神细算分明。"
+        },
+        {
+          "character": "苗顺",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "你不该江湖上结拜异姓，"
+        },
+        {
+          "character": "苗顺",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "你不该嫖素梅走却元真。"
+        },
+        {
+          "character": "苗顺",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "你不该累双亲身受苦刑。"
+        },
+        {
+          "character": "苗顺",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "你不该杀御乐一十七命"
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "提起了从前事一言难尽，"
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "实服你卜吉凶妙算如神。"
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "再算我前途上可有灾星？"
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "过去事悔不及今后改正"
+        },
+        {
+          "character": "苗顺",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "此一去中途路酒要少饮，"
+        },
+        {
+          "character": "苗顺",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "百日内还有那血光灾星。"
+        },
+        {
+          "character": "苗顺",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "二不可三皇庙求雨祈神。"
+        },
+        {
+          "character": "苗顺",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "四不可清幽观结拜赵京。"
+        },
+        {
+          "character": "苗顺",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "六不可黄叶寺惹祸生嗔。"
+        },
+        {
+          "character": "苗顺",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "八不可鱼池内射妖逞能。"
+        },
+        {
+          "character": "苗顺",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "十不可高平关将妹许婚。"
+        },
+        {
+          "character": "苗顺",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "到后来才知我苗顺卦灵。"
+        },
+        {
+          "character": "苗顺",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "一不可董家桥自逞本领"
+        },
+        {
+          "character": "苗顺",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "三不可华山上下棋争论"
+        },
+        {
+          "character": "苗顺",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "五不可宿古庙恐遭迷阵"
+        },
+        {
+          "character": "苗顺",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "七不可归故里盘查严紧"
+        },
+        {
+          "character": "苗顺",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "九不可上燕京刺杀刘主"
+        },
+        {
+          "character": "苗顺",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我算你十件事件件有准"
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "苗先生他把我未来算定，"
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "只说得赵玄郎二目圆睁。"
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "再算我到何日大运亨通？"
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "走向前施一礼还要求问"
+        },
+        {
+          "character": "苗顺",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我算你四十岁才交大运，"
+        },
+        {
+          "character": "苗顺",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "到陈桥戴冕旒南面称尊。"
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "苗先生你说话需要谨慎，"
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "这件事犯王法不可看轻。"
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "哪有个荫子孙擅坐朝廷？"
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "那时节你就是开国元勋。"
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "虽则是我祖父为官清正"
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "赵玄郎若还有天子福分"
+        },
+        {
+          "character": "苗顺",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我在那江湖上四路访问，"
+        },
+        {
+          "character": "苗顺",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "只等到八月中相会汴京。"
         },
         {
           "character": "赵匡胤",
@@ -281,7 +711,28 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "洒金桥算八卦半疑半信，\n也不知到后来灵也不灵。\n普天下捉拿我画影图形。\n在他乡落圈套有翅难腾。"
+          "text": "洒金桥算八卦半疑半信，"
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "也不知到后来灵也不灵。"
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "普天下捉拿我画影图形。"
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "在他乡落圈套有翅难腾。"
         },
         {
           "character": null,
@@ -318,7 +769,17 @@
         "singing_ratio": 0.765,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.765,
+        0.9481,
+        0.0519,
+        0.0,
+        0.1842,
+        2,
+        0.0,
+        0.0
+      ]
     }
   ]
 }

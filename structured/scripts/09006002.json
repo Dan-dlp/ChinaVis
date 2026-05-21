@@ -222,7 +222,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -296,7 +306,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "小心伺候。\n（〖冬冬〗，〖小锣打上〗。王四香站左台口，崔德富站右台口。四衙役自上场门同上，分两边站门，胡泰\n来自上场门上，走到前台口，抖袖。）"
+          "text": "小心伺候。"
+        },
+        {
+          "character": "崔德富",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "（〖冬冬〗，〖小锣打上〗。王四香站左台口，崔德富站右台口。四衙役自上场门同上，分两边站门，胡泰"
+        },
+        {
+          "character": "崔德富",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来自上场门上，走到前台口，抖袖。）"
         },
         {
           "character": "胡泰来",
@@ -345,7 +369,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "下官胡泰来。蒙圣恩放我济源县的正堂。到任以来，家家关门，处处闭户，我\n也莫名其妙。这且不言。只因李自成带领百姓起兵要推倒皇上，那还了得！杨\n嗣昌大人，又有军令到来，言说征收人丁赋税，每人出钱一贯，不分男女老少，\n贫富人等。唉！军情紧急，谁能往四乡，谁能催得赋哇？"
+          "text": "下官胡泰来。蒙圣恩放我济源县的正堂。到任以来，家家关门，处处闭户，我"
+        },
+        {
+          "character": "胡泰来",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "也莫名其妙。这且不言。只因李自成带领百姓起兵要推倒皇上，那还了得！杨"
+        },
+        {
+          "character": "胡泰来",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "嗣昌大人，又有军令到来，言说征收人丁赋税，每人出钱一贯，不分男女老少，"
+        },
+        {
+          "character": "胡泰来",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "贫富人等。唉！军情紧急，谁能往四乡，谁能催得赋哇？"
         },
         {
           "character": "王四香、崔德富",
@@ -394,7 +439,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "有军令到来，言说征收人丁赋税，每人出钱一贯，不分男女老幼，贫富人等，\n你们既能往四乡，催得赋，你们两个人办一办好啦！啊？"
+          "text": "有军令到来，言说征收人丁赋税，每人出钱一贯，不分男女老幼，贫富人等，"
+        },
+        {
+          "character": "胡泰来",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "你们既能往四乡，催得赋，你们两个人办一办好啦！啊？"
         },
         {
           "character": "王四香",
@@ -429,7 +481,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "叫王四香。\n你的名字呢——"
+          "text": "叫王四香。"
+        },
+        {
+          "character": "胡泰来",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "你的名字呢——"
         },
         {
           "character": null,
@@ -520,7 +579,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "哼！没用的东西，少在我这儿装佯，我已派人去请钱、李二位绅士，等他们到\n来一定有个办法，知道了吗？"
+          "text": "哼！没用的东西，少在我这儿装佯，我已派人去请钱、李二位绅士，等他们到"
+        },
+        {
+          "character": "胡泰来",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来一定有个办法，知道了吗？"
         },
         {
           "character": null,
@@ -632,7 +698,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "只因杨大人有军令到来，言道征收大丁赋税，每人出钱一贯，不分男女老少，\n贫富人等。军情紧急，把二位绅士请来，帮我想个主意。"
+          "text": "只因杨大人有军令到来，言道征收大丁赋税，每人出钱一贯，不分男女老少，"
+        },
+        {
+          "character": "胡泰来",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "贫富人等。军情紧急，把二位绅士请来，帮我想个主意。"
         },
         {
           "character": "李绅士",
@@ -646,7 +719,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "你说的这套话呀，我打昨个就知道啦，我没主意才把二位请来，你要是这么说，\n这不是废话吗？"
+          "text": "你说的这套话呀，我打昨个就知道啦，我没主意才把二位请来，你要是这么说，"
+        },
+        {
+          "character": "胡泰来",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "这不是废话吗？"
         },
         {
           "character": "李绅士",
@@ -947,7 +1027,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "没什么，没什么！\n王四香、崔德富。"
+          "text": "没什么，没什么！"
+        },
+        {
+          "character": "胡泰来",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "王四香、崔德富。"
         },
         {
           "character": "王四香、崔德富",
@@ -1003,7 +1090,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "这事好办，这地方谁家有钱，谁家没钱，谁家软弱，谁家刁顽，我都知道。回\n头我给你们开张名单，你们照单一办就成了。"
+          "text": "这事好办，这地方谁家有钱，谁家没钱，谁家软弱，谁家刁顽，我都知道。回"
+        },
+        {
+          "character": "钱绅士",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "头我给你们开张名单，你们照单一办就成了。"
         },
         {
           "character": "王四香、崔德富",
@@ -1101,7 +1195,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "咱们俩人哪，一个做好人，一个做坏人，做好人的话要来得松；做坏人的脸要\n绷得紧，这一松一紧，管保马到成功！"
+          "text": "咱们俩人哪，一个做好人，一个做坏人，做好人的话要来得松；做坏人的脸要"
+        },
+        {
+          "character": "崔德富",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "绷得紧，这一松一紧，管保马到成功！"
         },
         {
           "character": "王四香",
@@ -1239,7 +1340,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.9196,
+        0.0804,
+        0.7297,
+        7,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -3294,7 +3405,17 @@
           "西皮摇板",
           "西皮散板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.168,
+        0.1667,
+        0.821,
+        0.0123,
+        0.7267,
+        8,
+        0.1667,
+        0.0
+      ]
     },
     {
       "scene_index": 4,
@@ -3429,7 +3550,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.7778,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 5,
@@ -5718,7 +5849,17 @@
           "西皮摇板",
           "西皮散板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.316,
+        0.3242,
+        0.6648,
+        0.011,
+        0.5138,
+        7,
+        0.3077,
+        0.0
+      ]
     },
     {
       "scene_index": 6,
@@ -6248,7 +6389,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.9375,
+        0.0625,
+        0.7021,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 7,
@@ -7289,7 +7440,17 @@
           "西皮快板",
           "西皮散板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.135,
+        0.1333,
+        0.8667,
+        0.0,
+        0.6404,
+        4,
+        0.1333,
+        0.0
+      ]
     },
     {
       "scene_index": 8,
@@ -8365,7 +8526,17 @@
           "二黄摇板",
           "二黄散板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.658,
+        0.6533,
+        0.3467,
+        0.0,
+        0.3514,
+        4,
+        0.0,
+        0.64
+      ]
     }
   ]
 }

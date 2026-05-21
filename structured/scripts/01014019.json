@@ -253,7 +253,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "我等在这五花洞中，修炼千年，倒也逍遥自在。只是无有真阳，不能即成正果。\n恼恨张杰，倚仗神五雷，每每伤害我等。二位贤弟："
+          "text": "我等在这五花洞中，修炼千年，倒也逍遥自在。只是无有真阳，不能即成正果。"
+        },
+        {
+          "character": "蜈蚣精",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "恼恨张杰，倚仗神五雷，每每伤害我等。二位贤弟："
         },
         {
           "character": "蝎精、壁虎精",
@@ -349,7 +356,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.9286,
+        0.0714,
+        0.9231,
+        8,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -383,7 +400,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "我，武大。妻子潘金莲，夫妻在这清河县内居住。只因年遭荒旱，日子难过，\n要想到阳谷县找我兄弟武二去。不免将老婆唤出，就此前往。\n老婆哪里？"
+          "text": "我，武大。妻子潘金莲，夫妻在这清河县内居住。只因年遭荒旱，日子难过，"
+        },
+        {
+          "character": "武大",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "要想到阳谷县找我兄弟武二去。不免将老婆唤出，就此前往。"
+        },
+        {
+          "character": "武大",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "老婆哪里？"
         },
         {
           "character": "潘金莲",
@@ -523,7 +554,14 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "夫妻一同往前进，\n去到阳谷走一程。"
+          "text": "夫妻一同往前进，"
+        },
+        {
+          "character": "武大",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "去到阳谷走一程。"
         },
         {
           "character": null,
@@ -721,7 +759,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0588,
+        0.8824,
+        0.0588,
+        0.7273,
+        7,
+        0.0588,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -1115,7 +1163,17 @@
           "西皮导板",
           "西皮慢三眼"
         ]
-      }
+      },
+      "scene_feature": [
+        0.222,
+        0.2632,
+        0.7368,
+        0.0,
+        0.8919,
+        5,
+        0.2632,
+        0.0
+      ]
     },
     {
       "scene_index": 4,
@@ -1153,7 +1211,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "本县，阳谷县正堂。自到任以来，官清民顺，今乃放告之期。\n来，放告牌抬出。"
+          "text": "本县，阳谷县正堂。自到任以来，官清民顺，今乃放告之期。"
+        },
+        {
+          "character": "县令",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来，放告牌抬出。"
         },
         {
           "character": null,
@@ -1293,7 +1358,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "对啦，被告。\n我说你叫什么名字？"
+          "text": "对啦，被告。"
+        },
+        {
+          "character": "县令",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我说你叫什么名字？"
         },
         {
           "character": "武大",
@@ -1363,24 +1435,150 @@
           "line_type": "西皮二六板",
           "musical_style": "西皮二六板",
           "style_family": "西皮",
-          "text": "老爷在上容奴禀，\n细听潘氏说分明：\n谁知庙中遇妖精。\n望求老爷断分明。"
+          "text": "老爷在上容奴禀，"
         },
         {
-          "character": "年遭荒旱难度命、夫妻二人把巧计生、行至中途古庙进、到而今真假难凭信、假潘金莲",
+          "character": "潘金莲",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "细听潘氏说分明："
+        },
+        {
+          "character": "潘金莲",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "谁知庙中遇妖精。"
+        },
+        {
+          "character": "潘金莲",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "望求老爷断分明。"
+        },
+        {
+          "character": "潘金莲",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "年遭荒旱难度命"
+        },
+        {
+          "character": "潘金莲",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "夫妻二人把巧计生"
+        },
+        {
+          "character": "潘金莲",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "行至中途古庙进"
+        },
+        {
+          "character": "潘金莲",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "到而今真假难凭信"
+        },
+        {
+          "character": "假潘金莲",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
           "text": "老爷容禀："
         },
         {
-          "character": "年遭荒旱难度命、夫妻二人把巧计生、行至中途古庙进、到而今真假难凭信、假潘金莲",
+          "character": "假潘金莲",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "年遭荒旱难度命"
+        },
+        {
+          "character": "假潘金莲",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "夫妻二人把巧计生"
+        },
+        {
+          "character": "假潘金莲",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "行至中途古庙进"
+        },
+        {
+          "character": "假潘金莲",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "到而今真假难凭信"
+        },
+        {
+          "character": "假潘金莲",
           "line_type": "西皮二六板",
           "musical_style": "西皮二六板",
           "style_family": "西皮",
-          "text": "老爷在上容奴禀，\n细听潘氏说分明：\n夫妻二人把巧计生。\n谁知庙中遇妖精。\n望求老爷断分明。"
+          "text": "老爷在上容奴禀，"
         },
         {
-          "character": "年遭荒旱难度命、行至中途古庙进、到而今真假难凭信、县令",
+          "character": "假潘金莲",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "细听潘氏说分明："
+        },
+        {
+          "character": "假潘金莲",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "夫妻二人把巧计生。"
+        },
+        {
+          "character": "假潘金莲",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "谁知庙中遇妖精。"
+        },
+        {
+          "character": "假潘金莲",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "望求老爷断分明。"
+        },
+        {
+          "character": "假潘金莲",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "年遭荒旱难度命"
+        },
+        {
+          "character": "假潘金莲",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "行至中途古庙进"
+        },
+        {
+          "character": "假潘金莲",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "到而今真假难凭信"
+        },
+        {
+          "character": "县令",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -1493,7 +1691,17 @@
         "musical_styles": [
           "西皮二六"
         ]
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.3077,
+        0.6731,
+        0.0192,
+        0.4902,
+        8,
+        0.3077,
+        0.0
+      ]
     },
     {
       "scene_index": 5,
@@ -1521,7 +1729,21 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "宋天子坐江山人称有道，\n包龙图断阴阳不差分毫。\n赤胆忠心保宋朝。"
+          "text": "宋天子坐江山人称有道，"
+        },
+        {
+          "character": "包拯",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "包龙图断阴阳不差分毫。"
+        },
+        {
+          "character": "包拯",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "赤胆忠心保宋朝。"
         },
         {
           "character": null,
@@ -1619,7 +1841,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "此乃是两真两假。\n胆大妖魔，早早现出原形便罢，如若不然，可知山人神五雷厉害！"
+          "text": "此乃是两真两假。"
+        },
+        {
+          "character": "天师",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "胆大妖魔，早早现出原形便罢，如若不然，可知山人神五雷厉害！"
         },
         {
           "character": "假武大、假潘金莲",
@@ -1675,7 +1904,28 @@
           "line_type": "西皮紧板",
           "musical_style": "西皮紧板",
           "style_family": "西皮",
-          "text": "手挽手儿出衙厅，\n尊一声包相听分明：\n怎挡我七星剑、八卦旗、混元宝盒，风火五雷霆。\n擒住了众妖魔同见当今。"
+          "text": "手挽手儿出衙厅，"
+        },
+        {
+          "character": "天师",
+          "line_type": "西皮紧板",
+          "musical_style": "西皮紧板",
+          "style_family": "西皮",
+          "text": "尊一声包相听分明："
+        },
+        {
+          "character": "天师",
+          "line_type": "西皮紧板",
+          "musical_style": "西皮紧板",
+          "style_family": "西皮",
+          "text": "怎挡我七星剑、八卦旗、混元宝盒，风火五雷霆。"
+        },
+        {
+          "character": "天师",
+          "line_type": "西皮紧板",
+          "musical_style": "西皮紧板",
+          "style_family": "西皮",
+          "text": "擒住了众妖魔同见当今。"
         },
         {
           "character": null,
@@ -1787,7 +2037,17 @@
           "西皮",
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.053,
+        0.2692,
+        0.7308,
+        0.0,
+        0.64,
+        7,
+        0.2692,
+        0.0
+      ]
     },
     {
       "scene_index": 6,
@@ -1823,14 +2083,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "孽畜呀，孽畜，你既在洞中修炼千年，就该修其养性，以成正果。尔不该变化\n人形，扰乱世界。吾奉真人之命，特地前来收服尔等。"
+          "text": "孽畜呀，孽畜，你既在洞中修炼千年，就该修其养性，以成正果。尔不该变化"
+        },
+        {
+          "character": "神将",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "人形，扰乱世界。吾奉真人之命，特地前来收服尔等。"
         },
         {
           "character": "蜈蚣精",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "住了。可恨那张杰，倚仗七星剑、八卦旗、神五雷、混元宝盒，每每伤害我等\n姓命。今日相逢，断难饶你等之命。"
+          "text": "住了。可恨那张杰，倚仗七星剑、八卦旗、神五雷、混元宝盒，每每伤害我等"
+        },
+        {
+          "character": "蜈蚣精",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "姓命。今日相逢，断难饶你等之命。"
         },
         {
           "character": "神将",
@@ -1865,7 +2139,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.6,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 7,
@@ -1887,7 +2171,7 @@
           "text": "神将 （三笑） 哈哈，哈哈，哈哈哈……"
         },
         {
-          "character": null,
+          "character": "神将",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -1909,7 +2193,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0,
+        0.0,
+        0.0
+      ]
     }
   ]
 }

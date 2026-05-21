@@ -140,7 +140,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "山人，徐勣，唐皇驾前为臣。今因护国公已死，是山人要请诸位国公，前去吊\n祭。天到这般时候，为何不见到来？"
+          "text": "山人，徐勣，唐皇驾前为臣。今因护国公已死，是山人要请诸位国公，前去吊"
+        },
+        {
+          "character": "徐勣",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "祭。天到这般时候，为何不见到来？"
         },
         {
           "character": null,
@@ -231,7 +238,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "吓先生，我想张士贵之妹张金定，必然前去吊祭。你我拿她取笑一场，方去了\n我心头之恨。"
+          "text": "吓先生，我想张士贵之妹张金定，必然前去吊祭。你我拿她取笑一场，方去了"
+        },
+        {
+          "character": "程咬金",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我心头之恨。"
         },
         {
           "character": "徐勣",
@@ -305,7 +319,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.9474,
+        0.0526,
+        0.8333,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -398,7 +422,21 @@
           "line_type": "梆子二六板",
           "musical_style": "梆子二六板",
           "style_family": "南梆子",
-          "text": "见灵堂不由我泪流满面，\n止不住泪珠儿打落胸前。\n再叫管家听我言。"
+          "text": "见灵堂不由我泪流满面，"
+        },
+        {
+          "character": "秦夫人",
+          "line_type": "梆子二六板",
+          "musical_style": "梆子二六板",
+          "style_family": "南梆子",
+          "text": "止不住泪珠儿打落胸前。"
+        },
+        {
+          "character": "秦夫人",
+          "line_type": "梆子二六板",
+          "musical_style": "梆子二六板",
+          "style_family": "南梆子",
+          "text": "再叫管家听我言。"
         },
         {
           "character": "秦夫人",
@@ -408,7 +446,14 @@
           "text": "吓管家，如若有人前来吊祭，早禀我知。伺候了。"
         },
         {
-          "character": "叩罢头来身站定、管家",
+          "character": "秦夫人",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "叩罢头来身站定"
+        },
+        {
+          "character": "管家",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -517,7 +562,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "吓众位国公，我想今日，翠花宫张金定这奸妃，必来吊祭。她若到此，全仗众\n位国公之力。"
+          "text": "吓众位国公，我想今日，翠花宫张金定这奸妃，必来吊祭。她若到此，全仗众"
+        },
+        {
+          "character": "秦夫人",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "位国公之力。"
         },
         {
           "character": "程咬金",
@@ -566,7 +618,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "哈哈哈哈哈，别走了，我家娘娘还未摆驾哪，我先出来了。瞒了上了，待我请\n驾。\n有请娘娘。"
+          "text": "哈哈哈哈哈，别走了，我家娘娘还未摆驾哪，我先出来了。瞒了上了，待我请"
+        },
+        {
+          "character": "大太监",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "驾。"
+        },
+        {
+          "character": "大太监",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "有请娘娘。"
         },
         {
           "character": null,
@@ -594,10 +660,52 @@
           "line_type": "梆子慢板",
           "musical_style": "梆子慢板",
           "style_family": "南梆子",
-          "text": "我去到护国公去看分明。\n东挡西杀如今归了阴城。\n因此上去吊祭表表美名。\n又听得内侍报一声。"
+          "text": "我去到护国公去看分明。"
         },
         {
-          "character": "他本是我朝中一员上将、我念他为江山功劳之大、内侍臣摆驾往前来进、大太监",
+          "character": "张金定",
+          "line_type": "梆子慢板",
+          "musical_style": "梆子慢板",
+          "style_family": "南梆子",
+          "text": "东挡西杀如今归了阴城。"
+        },
+        {
+          "character": "张金定",
+          "line_type": "梆子慢板",
+          "musical_style": "梆子慢板",
+          "style_family": "南梆子",
+          "text": "因此上去吊祭表表美名。"
+        },
+        {
+          "character": "张金定",
+          "line_type": "梆子慢板",
+          "musical_style": "梆子慢板",
+          "style_family": "南梆子",
+          "text": "又听得内侍报一声。"
+        },
+        {
+          "character": "张金定",
+          "line_type": "梆子慢板",
+          "musical_style": "梆子慢板",
+          "style_family": "南梆子",
+          "text": "他本是我朝中一员上将"
+        },
+        {
+          "character": "张金定",
+          "line_type": "梆子慢板",
+          "musical_style": "梆子慢板",
+          "style_family": "南梆子",
+          "text": "我念他为江山功劳之大"
+        },
+        {
+          "character": "张金定",
+          "line_type": "梆子慢板",
+          "musical_style": "梆子慢板",
+          "style_family": "南梆子",
+          "text": "内侍臣摆驾往前来进"
+        },
+        {
+          "character": "大太监",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -636,10 +744,45 @@
           "line_type": "梆子二六板",
           "musical_style": "梆子二六板",
           "style_family": "南梆子",
-          "text": "叫张太保驾往前行，\n你听我把话说分明：\n早奏摆驾速回宫。\n吊祭一毕转回程。"
+          "text": "叫张太保驾往前行，"
         },
         {
-          "character": "此去若有别的事、正行用目来观定、大太监",
+          "character": "张金定",
+          "line_type": "梆子二六板",
+          "musical_style": "梆子二六板",
+          "style_family": "南梆子",
+          "text": "你听我把话说分明："
+        },
+        {
+          "character": "张金定",
+          "line_type": "梆子二六板",
+          "musical_style": "梆子二六板",
+          "style_family": "南梆子",
+          "text": "早奏摆驾速回宫。"
+        },
+        {
+          "character": "张金定",
+          "line_type": "梆子二六板",
+          "musical_style": "梆子二六板",
+          "style_family": "南梆子",
+          "text": "吊祭一毕转回程。"
+        },
+        {
+          "character": "张金定",
+          "line_type": "梆子二六板",
+          "musical_style": "梆子二六板",
+          "style_family": "南梆子",
+          "text": "此去若有别的事"
+        },
+        {
+          "character": "张金定",
+          "line_type": "梆子二六板",
+          "musical_style": "梆子二六板",
+          "style_family": "南梆子",
+          "text": "正行用目来观定"
+        },
+        {
+          "character": "大太监",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -825,7 +968,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "晓得了。\n我看看这门外头，连一个人也无有，不像办事的来头。许是我们走错了，快快\n回去。且慢，要是回去，不是白来了。待我上前叫一声。\n呔！里面有人么？滚出一个来！"
+          "text": "晓得了。"
+        },
+        {
+          "character": "大太监",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我看看这门外头，连一个人也无有，不像办事的来头。许是我们走错了，快快"
+        },
+        {
+          "character": "大太监",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "回去。且慢，要是回去，不是白来了。待我上前叫一声。"
+        },
+        {
+          "character": "大太监",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "呔！里面有人么？滚出一个来！"
         },
         {
           "character": "管家",
@@ -1126,7 +1290,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "你再等等，待我去说。\n有请夫人。"
+          "text": "你再等等，待我去说。"
+        },
+        {
+          "character": "管家",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "有请夫人。"
         },
         {
           "character": null,
@@ -1168,14 +1339,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "对她去说：在朝今日害文，明日害武，害来害去，害到这里来了。叫她回去，\n不必吊祭了。"
+          "text": "对她去说：在朝今日害文，明日害武，害来害去，害到这里来了。叫她回去，"
+        },
+        {
+          "character": "秦夫人",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "不必吊祭了。"
         },
         {
           "character": "管家",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "是。\n那小子过来。"
+          "text": "是。"
+        },
+        {
+          "character": "管家",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "那小子过来。"
         },
         {
           "character": "大太监",
@@ -1203,14 +1388,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "我们夫人说了：张金定这个奸妃，今日在朝害文，明日害武，害来害去，又到\n这里来害我们来了。叫她快快回去，不必吊祭了。"
+          "text": "我们夫人说了：张金定这个奸妃，今日在朝害文，明日害武，害来害去，又到"
+        },
+        {
+          "character": "管家",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "这里来害我们来了。叫她快快回去，不必吊祭了。"
         },
         {
           "character": "大太监",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "哈哈，你们好大的架子。\n启奏娘娘：他们说出话来了。"
+          "text": "哈哈，你们好大的架子。"
+        },
+        {
+          "character": "大太监",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "启奏娘娘：他们说出话来了。"
         },
         {
           "character": "张金定",
@@ -1224,7 +1423,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "哈哈，好你个张金定，今日在朝害文，明日在朝害武，害来害去，害在我们头\n上来。快快叫她滚回去，不必吊祭了。"
+          "text": "哈哈，好你个张金定，今日在朝害文，明日在朝害武，害来害去，害在我们头"
+        },
+        {
+          "character": "大太监",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "上来。快快叫她滚回去，不必吊祭了。"
         },
         {
           "character": "张金定",
@@ -1245,7 +1451,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "好一小贱人，说出无情之话。待我回宫，自有道理。\n内侍摆驾回宫。"
+          "text": "好一小贱人，说出无情之话。待我回宫，自有道理。"
+        },
+        {
+          "character": "张金定",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "内侍摆驾回宫。"
         },
         {
           "character": "大太监",
@@ -1294,7 +1507,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "依我说呀，你听听对不对：我们占的大，他们占的小，今日前来吊祭，给他们\n多大面子，他们给脸不要脸，叫见也得，不叫见也得，今日偏要见定了。"
+          "text": "依我说呀，你听听对不对：我们占的大，他们占的小，今日前来吊祭，给他们"
+        },
+        {
+          "character": "大太监",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "多大面子，他们给脸不要脸，叫见也得，不叫见也得，今日偏要见定了。"
         },
         {
           "character": "张金定",
@@ -1308,28 +1528,63 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "是。\n呔！那小子！再给我滚出来吧！"
-        },
-        {
-          "character": "管家",
-          "line_type": "白",
-          "musical_style": null,
-          "style_family": null,
-          "text": "又是什么哪？\n哈哈你这小子，又来做什么？"
+          "text": "是。"
         },
         {
           "character": "大太监",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "对你说，我们张千岁说了：她占的大，你们占的小，今天到你们这里来吊祭，\n给你们多大的面子，怎么叫我们回去？我们千岁，有点难为情，你们给脸不要\n脸，叫见也得见，不叫见也得见，今天见定了。"
+          "text": "呔！那小子！再给我滚出来吧！"
         },
         {
           "character": "管家",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "你们真不要脸。不叫见，快快滚回去，这不是在你们家里，那想说什么就是什\n么，今天一定不叫见。"
+          "text": "又是什么哪？"
+        },
+        {
+          "character": "管家",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "哈哈你这小子，又来做什么？"
+        },
+        {
+          "character": "大太监",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "对你说，我们张千岁说了：她占的大，你们占的小，今天到你们这里来吊祭，"
+        },
+        {
+          "character": "大太监",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "给你们多大的面子，怎么叫我们回去？我们千岁，有点难为情，你们给脸不要"
+        },
+        {
+          "character": "大太监",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "脸，叫见也得见，不叫见也得见，今天见定了。"
+        },
+        {
+          "character": "管家",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "你们真不要脸。不叫见，快快滚回去，这不是在你们家里，那想说什么就是什"
+        },
+        {
+          "character": "管家",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "么，今天一定不叫见。"
         },
         {
           "character": "大太监",
@@ -1378,14 +1633,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "是。\n那小子，我们夫人叫你进去一祭快快地。"
+          "text": "是。"
+        },
+        {
+          "character": "管家",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "那小子，我们夫人叫你进去一祭快快地。"
         },
         {
           "character": "大太监",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "晓得了。\n回禀娘娘：他们说了，叫我们进去一祭。"
+          "text": "晓得了。"
+        },
+        {
+          "character": "大太监",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "回禀娘娘：他们说了，叫我们进去一祭。"
         },
         {
           "character": "张金定",
@@ -1455,7 +1724,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "待我去说。\n呔！那小子出来！"
+          "text": "待我去说。"
+        },
+        {
+          "character": "大太监",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "呔！那小子出来！"
         },
         {
           "character": "管家",
@@ -1497,7 +1773,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "这不得了。\n回禀娘娘：里面有请。"
+          "text": "这不得了。"
+        },
+        {
+          "character": "大太监",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "回禀娘娘：里面有请。"
         },
         {
           "character": "张金定",
@@ -1525,10 +1808,31 @@
           "line_type": "梆子二六板",
           "musical_style": "梆子二六板",
           "style_family": "南梆子",
-          "text": "又听得里面一声请，\n我心明来她不明。"
+          "text": "又听得里面一声请，"
         },
         {
-          "character": "张太保驾往前进、程咬金、尉迟恭",
+          "character": "张金定",
+          "line_type": "梆子二六板",
+          "musical_style": "梆子二六板",
+          "style_family": "南梆子",
+          "text": "我心明来她不明。"
+        },
+        {
+          "character": "张金定",
+          "line_type": "梆子二六板",
+          "musical_style": "梆子二六板",
+          "style_family": "南梆子",
+          "text": "张太保驾往前进"
+        },
+        {
+          "character": "张金定",
+          "line_type": "梆子二六板",
+          "musical_style": "梆子二六板",
+          "style_family": "南梆子",
+          "text": "程咬金"
+        },
+        {
+          "character": "尉迟恭",
           "line_type": "同白",
           "musical_style": null,
           "style_family": null,
@@ -1700,10 +2004,52 @@
           "line_type": "梆子二六板",
           "musical_style": "梆子二六板",
           "style_family": "南梆子",
-          "text": "许多的人为何情？\n叫一声国公在上听：\n你的子孙有了功。\n再叫张太听分明。"
+          "text": "许多的人为何情？"
         },
         {
-          "character": "将身来到灵堂上、你为江山丧了命、叩罢头来身站定、秦夫人",
+          "character": "张金定",
+          "line_type": "梆子二六板",
+          "musical_style": "梆子二六板",
+          "style_family": "南梆子",
+          "text": "叫一声国公在上听："
+        },
+        {
+          "character": "张金定",
+          "line_type": "梆子二六板",
+          "musical_style": "梆子二六板",
+          "style_family": "南梆子",
+          "text": "你的子孙有了功。"
+        },
+        {
+          "character": "张金定",
+          "line_type": "梆子二六板",
+          "musical_style": "梆子二六板",
+          "style_family": "南梆子",
+          "text": "再叫张太听分明。"
+        },
+        {
+          "character": "张金定",
+          "line_type": "梆子二六板",
+          "musical_style": "梆子二六板",
+          "style_family": "南梆子",
+          "text": "将身来到灵堂上"
+        },
+        {
+          "character": "张金定",
+          "line_type": "梆子二六板",
+          "musical_style": "梆子二六板",
+          "style_family": "南梆子",
+          "text": "你为江山丧了命"
+        },
+        {
+          "character": "张金定",
+          "line_type": "梆子二六板",
+          "musical_style": "梆子二六板",
+          "style_family": "南梆子",
+          "text": "叩罢头来身站定"
+        },
+        {
+          "character": "秦夫人",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -1749,7 +2095,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "这个老黑，见见她费了什么？待我前去见驾，我还要调戏她一回。\n臣程咬金见驾，娘娘千岁！"
+          "text": "这个老黑，见见她费了什么？待我前去见驾，我还要调戏她一回。"
+        },
+        {
+          "character": "程咬金",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "臣程咬金见驾，娘娘千岁！"
         },
         {
           "character": "张金定",
@@ -1784,7 +2137,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "待我来见驾。\n老臣见驾。"
+          "text": "待我来见驾。"
+        },
+        {
+          "character": "徐勣",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "老臣见驾。"
         },
         {
           "character": "张金定",
@@ -1963,7 +2323,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.1089,
+        0.8911,
+        0.0,
+        0.7733,
+        9,
+        0.0,
+        0.0
+      ]
     }
   ]
 }

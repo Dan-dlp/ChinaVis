@@ -219,7 +219,35 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "某，信陵君无忌。一生济困扶危，从无难色。近因强秦统兵凌赵，我主虽着晋\n鄙提兵往救，不料被嬴稷遏住，竟止晋鄙毋得前进。我曾几番请令进兵，无奈\n兄王畏秦如虎，执意不肯。昨夜接得平原君来札，道秦军日夜攻打邯郸，胞姐\n亡在旦夕。哎！似此亲谊，岂可置若罔闻。为此侵晨而来，要求兄王发令进兵\n急救也！"
+          "text": "某，信陵君无忌。一生济困扶危，从无难色。近因强秦统兵凌赵，我主虽着晋"
+        },
+        {
+          "character": "信陵君",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "鄙提兵往救，不料被嬴稷遏住，竟止晋鄙毋得前进。我曾几番请令进兵，无奈"
+        },
+        {
+          "character": "信陵君",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "兄王畏秦如虎，执意不肯。昨夜接得平原君来札，道秦军日夜攻打邯郸，胞姐"
+        },
+        {
+          "character": "信陵君",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "亡在旦夕。哎！似此亲谊，岂可置若罔闻。为此侵晨而来，要求兄王发令进兵"
+        },
+        {
+          "character": "信陵君",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "急救也！"
         },
         {
           "character": null,
@@ -367,7 +395,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.6875,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -404,7 +442,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "放眼看花御柳边，\n兴来骑马倦乘船。"
+          "text": "放眼看花御柳边，"
+        },
+        {
+          "character": "魏王",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "兴来骑马倦乘船。"
         },
         {
           "character": null,
@@ -418,7 +463,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "花影树荫丽日鲜，\n波光水潋青山艳。"
+          "text": "花影树荫丽日鲜，"
+        },
+        {
+          "character": "如姬",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "波光水潋青山艳。"
         },
         {
           "character": "如姬",
@@ -460,7 +512,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "寡人魏安厘王在位。前为美人欲报父仇，无人敢入秦邦，喜得我弟无忌，遣其\n门客，即取万俟忠的首级来献。美人的父仇已报，自此对花解颜，使孤朝夕得\n睹名花丽娟，好畅快也！"
+          "text": "寡人魏安厘王在位。前为美人欲报父仇，无人敢入秦邦，喜得我弟无忌，遣其"
+        },
+        {
+          "character": "魏王",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "门客，即取万俟忠的首级来献。美人的父仇已报，自此对花解颜，使孤朝夕得"
+        },
+        {
+          "character": "魏王",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "睹名花丽娟，好畅快也！"
         },
         {
           "character": "如姬",
@@ -530,7 +596,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "公子行事有方，决不轻易冒渎。且待他来，听他有何大事，大王总以弟兄之谊，\n合当原宥。"
+          "text": "公子行事有方，决不轻易冒渎。且待他来，听他有何大事，大王总以弟兄之谊，"
+        },
+        {
+          "character": "如姬",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "合当原宥。"
         },
         {
           "character": "魏王",
@@ -656,7 +729,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "“兵行傍午，不及烦渎。胜所以自附为婚姻者，以公子之高义，能急人之困\n耳。今邯郸旦暮归秦，而魏救不前，岂胜平生所以相托之意乎？令姐忧愁城破，\n日夜悲啼，公子纵不念胜，独不念令姐被秦鱼肉耶？”\n啊！这等看来邯郸竟破在旦夕了。"
+          "text": "“兵行傍午，不及烦渎。胜所以自附为婚姻者，以公子之高义，能急人之困"
+        },
+        {
+          "character": "魏王",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "耳。今邯郸旦暮归秦，而魏救不前，岂胜平生所以相托之意乎？令姐忧愁城破，"
+        },
+        {
+          "character": "魏王",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "日夜悲啼，公子纵不念胜，独不念令姐被秦鱼肉耶？”"
+        },
+        {
+          "character": "魏王",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "啊！这等看来邯郸竟破在旦夕了。"
         },
         {
           "character": "信陵君",
@@ -670,7 +764,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "哎！寡人曾遣新垣衍赴赵，约他尊秦为帝。秦王自必欣然罢兵。偏他君臣骄傲，\n不肯帝秦。今日兵临邯郸，是他自招。欲仗他人之力，以解其危，岂非妄想！"
+          "text": "哎！寡人曾遣新垣衍赴赵，约他尊秦为帝。秦王自必欣然罢兵。偏他君臣骄傲，"
+        },
+        {
+          "character": "魏王",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "不肯帝秦。今日兵临邯郸，是他自招。欲仗他人之力，以解其危，岂非妄想！"
         },
         {
           "character": "信陵君",
@@ -691,7 +792,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "仲连道：秦乃弃礼义而尚首功之国，且他恃强挟诈，屠戮生灵。彼为诸侯，尚\n然如此，倘彼称帝，则益济其虐。魏若甘为其下，只恐将来有烹醢之祸矣。"
+          "text": "仲连道：秦乃弃礼义而尚首功之国，且他恃强挟诈，屠戮生灵。彼为诸侯，尚"
+        },
+        {
+          "character": "信陵君",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "然如此，倘彼称帝，则益济其虐。魏若甘为其下，只恐将来有烹醢之祸矣。"
         },
         {
           "character": "魏王",
@@ -705,7 +813,35 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "岂不闻那嬴秦狼虎心性，\n众诸侯怎蒙耻甘为其臣。\n纣一怒姜侯醢鄂侯被烹。\n想三公岂智力难与纣拼？\n众诸侯也只好听命而行。"
+          "text": "岂不闻那嬴秦狼虎心性，"
+        },
+        {
+          "character": "信陵君",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "众诸侯怎蒙耻甘为其臣。"
+        },
+        {
+          "character": "信陵君",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "纣一怒姜侯醢鄂侯被烹。"
+        },
+        {
+          "character": "信陵君",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "想三公岂智力难与纣拼？"
+        },
+        {
+          "character": "信陵君",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "众诸侯也只好听命而行。"
         },
         {
           "character": "信陵君",
@@ -722,60 +858,284 @@
           "text": "你道伤心不伤心！"
         },
         {
-          "character": "商纣王有三公同心辅政、周文王拘羑里几把命殒、无奈是天子尊孰敢违命、众大臣的俸田、子女，一旦被夺，不敢言论、魏王",
-          "line_type": "白",
-          "musical_style": null,
-          "style_family": null,
-          "text": "哎呀！"
-        },
-        {
-          "character": "商纣王有三公同心辅政、周文王拘羑里几把命殒、无奈是天子尊孰敢违命、众大臣的俸田、子女，一旦被夺，不敢言论、魏王",
+          "character": "信陵君",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "听此言孤好似酒醉方醒，\n何侥幸来了这远见髙人。\n说帝秦定做了釜底游魂。\n说出来寡人我可听则听。\n但其间有繁难孤断不行。"
+          "text": "商纣王有三公同心辅政"
         },
         {
-          "character": "若不是鲁仲连从中作梗、你此来见孤王必有髙论、若易行孤便能如你所请、信陵君",
-          "line_type": "白",
+          "character": "信陵君",
+          "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "如今别无繁难，只求兄王发令，臣去监军，立饬晋鄙进兵，退秦救赵，则全亲\n救邻之义尽矣！"
+          "text": "周文王拘羑里几把命殒"
+        },
+        {
+          "character": "信陵君",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "无奈是天子尊孰敢违命"
+        },
+        {
+          "character": "信陵君",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "众大臣的俸田"
+        },
+        {
+          "character": "信陵君",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "子女，一旦被夺，不敢言论"
         },
         {
           "character": "魏王",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "哎呀呀！秦王亲统大军，闻有百十余万，现在汾水驻扎。王龁、蒙骜皆有万夫\n莫当之勇。即令你三千食客，全行带去监军，能保必胜么？"
+          "text": "哎呀！"
+        },
+        {
+          "character": "魏王",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "商纣王有三公同心辅政"
+        },
+        {
+          "character": "魏王",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "周文王拘羑里几把命殒"
+        },
+        {
+          "character": "魏王",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "无奈是天子尊孰敢违命"
+        },
+        {
+          "character": "魏王",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "众大臣的俸田"
+        },
+        {
+          "character": "魏王",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "子女，一旦被夺，不敢言论"
+        },
+        {
+          "character": "魏王",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "听此言孤好似酒醉方醒，"
+        },
+        {
+          "character": "魏王",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "何侥幸来了这远见髙人。"
+        },
+        {
+          "character": "魏王",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "说帝秦定做了釜底游魂。"
+        },
+        {
+          "character": "魏王",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "说出来寡人我可听则听。"
+        },
+        {
+          "character": "魏王",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "但其间有繁难孤断不行。"
+        },
+        {
+          "character": "魏王",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "若不是鲁仲连从中作梗"
+        },
+        {
+          "character": "魏王",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "你此来见孤王必有髙论"
+        },
+        {
+          "character": "魏王",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "若易行孤便能如你所请"
         },
         {
           "character": "信陵君",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "将在谋而不在勇，兵在精而不在多。且魏赵系唇齿之邦，赵国若亡，则祸必及\n我魏邦，今番若不急解赵危，秦兵一旦临魏，那时欲想协力同谋，恐无及矣！"
+          "text": "如今别无繁难，只求兄王发令，臣去监军，立饬晋鄙进兵，退秦救赵，则全亲"
+        },
+        {
+          "character": "信陵君",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "救邻之义尽矣！"
+        },
+        {
+          "character": "魏王",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "哎呀呀！秦王亲统大军，闻有百十余万，现在汾水驻扎。王龁、蒙骜皆有万夫"
+        },
+        {
+          "character": "魏王",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "莫当之勇。即令你三千食客，全行带去监军，能保必胜么？"
+        },
+        {
+          "character": "信陵君",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "将在谋而不在勇，兵在精而不在多。且魏赵系唇齿之邦，赵国若亡，则祸必及"
+        },
+        {
+          "character": "信陵君",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我魏邦，今番若不急解赵危，秦兵一旦临魏，那时欲想协力同谋，恐无及矣！"
         },
         {
           "character": "信陵君",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "今日里且休提亲情怜悯，\n与赵邦是唇齿应发援兵。\n臣量就强秦兵定临魏城。\n悔无及方信臣前言果灵。\n好和歹叫臣去见个输赢。"
+          "text": "今日里且休提亲情怜悯，"
         },
         {
-          "character": "若坐视那赵邦社稷倾陨、到那时想援救何人来应、望兄王勿犹疑急早发令、魏王",
+          "character": "信陵君",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "与赵邦是唇齿应发援兵。"
+        },
+        {
+          "character": "信陵君",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "臣量就强秦兵定临魏城。"
+        },
+        {
+          "character": "信陵君",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "悔无及方信臣前言果灵。"
+        },
+        {
+          "character": "信陵君",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "好和歹叫臣去见个输赢。"
+        },
+        {
+          "character": "信陵君",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "若坐视那赵邦社稷倾陨"
+        },
+        {
+          "character": "信陵君",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "到那时想援救何人来应"
+        },
+        {
+          "character": "信陵君",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "望兄王勿犹疑急早发令"
+        },
+        {
+          "character": "魏王",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
           "text": "哎！"
         },
         {
-          "character": "若坐视那赵邦社稷倾陨、到那时想援救何人来应、望兄王勿犹疑急早发令、魏王",
+          "character": "魏王",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "若坐视那赵邦社稷倾陨"
+        },
+        {
+          "character": "魏王",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "到那时想援救何人来应"
+        },
+        {
+          "character": "魏王",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "望兄王勿犹疑急早发令"
+        },
+        {
+          "character": "魏王",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "你自顾虚名誉扶危济困，\n却将孤家国事看得太轻。\n要想孤发军令万万不行！"
+          "text": "你自顾虚名誉扶危济困，"
+        },
+        {
+          "character": "魏王",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "却将孤家国事看得太轻。"
+        },
+        {
+          "character": "魏王",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "要想孤发军令万万不行！"
         },
         {
           "character": null,
@@ -817,14 +1177,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "且住！我主既然不肯发兵，我岂可有负平原君。也罢，不免回府束装，独自赴\n赵，直犯秦军，生死以殉胞姐、姐丈之难便了！"
+          "text": "且住！我主既然不肯发兵，我岂可有负平原君。也罢，不免回府束装，独自赴"
+        },
+        {
+          "character": "信陵君",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "赵，直犯秦军，生死以殉胞姐、姐丈之难便了！"
         },
         {
           "character": "信陵君",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "生成义胆与侠性，\n一任他是蛟龙我也要逆批其鳞。"
+          "text": "生成义胆与侠性，"
+        },
+        {
+          "character": "信陵君",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "一任他是蛟龙我也要逆批其鳞。"
         },
         {
           "character": null,
@@ -882,7 +1256,17 @@
         "singing_ratio": 0.077,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.077,
+        0.3762,
+        0.5743,
+        0.0495,
+        0.39,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -911,7 +1295,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "隔在屏风细窃听，\n公子果是侠义人。"
+          "text": "隔在屏风细窃听，"
+        },
+        {
+          "character": "如姬",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "公子果是侠义人。"
         },
         {
           "character": null,
@@ -953,7 +1344,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "我在屏后窃听，信陵君实有赴难之心。但我受其深恩，岂可袖手不理？你可悄\n悄打探，看公子怎样举动，即来报我知道。"
+          "text": "我在屏后窃听，信陵君实有赴难之心。但我受其深恩，岂可袖手不理？你可悄"
+        },
+        {
+          "character": "如姬",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "悄打探，看公子怎样举动，即来报我知道。"
         },
         {
           "character": "颜恩",
@@ -1010,7 +1408,17 @@
         "singing_ratio": 0.1,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.1,
+        0.2308,
+        0.7692,
+        0.0,
+        0.6667,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 4,
@@ -1040,7 +1448,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "在下，夷门监侯嬴。薄游说之空谈，口舌以取卿相。改遁世之初衷，有心而蹈\n人世。风尘既无知我之人，何必又向世道托业？因此隐迹抱关，醉歌沽市。虽\n则生涯落魄，我心甚觉安然也！"
+          "text": "在下，夷门监侯嬴。薄游说之空谈，口舌以取卿相。改遁世之初衷，有心而蹈"
+        },
+        {
+          "character": "侯嬴",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "人世。风尘既无知我之人，何必又向世道托业？因此隐迹抱关，醉歌沽市。虽"
+        },
+        {
+          "character": "侯嬴",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "则生涯落魄，我心甚觉安然也！"
         },
         {
           "character": null,
@@ -1075,14 +1497,42 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "小弟正在屠市经营，闻得信陵君具车直犯秦军，欲殉平原君之难，哥哥独不闻\n耶？"
+          "text": "小弟正在屠市经营，闻得信陵君具车直犯秦军，欲殉平原君之难，哥哥独不闻"
+        },
+        {
+          "character": "朱亥",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "耶？"
         },
         {
           "character": "侯嬴",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "咳！我受公子知遇之恩，他的举动，何尝不刻刻留心。今他求王敕令，命那晋\n鄙发兵救赵，大王坚执不允。他情急无奈，只好自己具车百乘，遍约宾客，直\n犯秦营。可笑三千食客之中，不唯无人能出一奇计，且愿随去者亦不上千人。\n兄弟你想，这些食客，能有谁与人排难解纷。好不令人可悲呀可叹！"
+          "text": "咳！我受公子知遇之恩，他的举动，何尝不刻刻留心。今他求王敕令，命那晋"
+        },
+        {
+          "character": "侯嬴",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "鄙发兵救赵，大王坚执不允。他情急无奈，只好自己具车百乘，遍约宾客，直"
+        },
+        {
+          "character": "侯嬴",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "犯秦营。可笑三千食客之中，不唯无人能出一奇计，且愿随去者亦不上千人。"
+        },
+        {
+          "character": "侯嬴",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "兄弟你想，这些食客，能有谁与人排难解纷。好不令人可悲呀可叹！"
         },
         {
           "character": "朱亥",
@@ -1096,7 +1546,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "公子平时待我甚厚，今奔秦军，欲就死地，见我不去相送，必定深恨于我，前\n来面责。待他来吋，我自有计教他。"
+          "text": "公子平时待我甚厚，今奔秦军，欲就死地，见我不去相送，必定深恨于我，前"
+        },
+        {
+          "character": "侯嬴",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来面责。待他来吋，我自有计教他。"
         },
         {
           "character": "朱亥",
@@ -1117,7 +1574,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "弟累蒙公子下顾，所以不报者，自谓小无所用。今番既有急务，正是俺朱亥效\n命之时也！"
+          "text": "弟累蒙公子下顾，所以不报者，自谓小无所用。今番既有急务，正是俺朱亥效"
+        },
+        {
+          "character": "朱亥",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "命之时也！"
         },
         {
           "character": "侯嬴",
@@ -1131,17 +1595,38 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "凡谋事必得要小心缜密，\n不谨慎诚恐怕反招是非。"
+          "text": "凡谋事必得要小心缜密，"
         },
         {
-          "character": "此一番务须要大展其志、朱亥",
+          "character": "侯嬴",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "不谨慎诚恐怕反招是非。"
+        },
+        {
+          "character": "侯嬴",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "此一番务须要大展其志"
+        },
+        {
+          "character": "朱亥",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
           "text": "哥哥呀！"
         },
         {
-          "character": "此一番务须要大展其志、朱亥",
+          "character": "朱亥",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "此一番务须要大展其志"
+        },
+        {
+          "character": "朱亥",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
@@ -1174,7 +1659,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.1481,
+        0.7778,
+        0.0741,
+        0.4231,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 5,
@@ -1201,14 +1696,49 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "满望兴师去拒敌，\n伤心难把君意回。"
+          "text": "满望兴师去拒敌，"
+        },
+        {
+          "character": "信陵君",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "伤心难把君意回。"
         },
         {
           "character": "信陵君",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "兄王决意不肯出兵，无奈自选门客前去救赵。咳，可笑三千门客愿随者不到千\n人。且那夷门侯先生，自与我交契之后，凡我一举一动，无不来促膝相谈。救\n赵之举，明知我存亡未卜，非但不来面商，连送也不送我一步。嗯！行程虽迫，\n我当亲去别他一别，看他如何对我。\n家将，速往夷门，与侯先生作别去者。"
+          "text": "兄王决意不肯出兵，无奈自选门客前去救赵。咳，可笑三千门客愿随者不到千"
+        },
+        {
+          "character": "信陵君",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "人。且那夷门侯先生，自与我交契之后，凡我一举一动，无不来促膝相谈。救"
+        },
+        {
+          "character": "信陵君",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "赵之举，明知我存亡未卜，非但不来面商，连送也不送我一步。嗯！行程虽迫，"
+        },
+        {
+          "character": "信陵君",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我当亲去别他一别，看他如何对我。"
+        },
+        {
+          "character": "信陵君",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "家将，速往夷门，与侯先生作别去者。"
         },
         {
           "character": "家将",
@@ -1222,14 +1752,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "公子，那侯嬴是“明知山有虎，不向虎山行”。但他是就木之人，既忘恩义，\n还去别他做甚？"
+          "text": "公子，那侯嬴是“明知山有虎，不向虎山行”。但他是就木之人，既忘恩义，"
+        },
+        {
+          "character": "门客甲",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "还去别他做甚？"
         },
         {
           "character": "信陵君",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "无忌何尝有恩于他，侯生断非负义之徒。我料他胸中必有髙见，故要我亲身去\n问。诸公且到前途暂住，我去去就来。"
+          "text": "无忌何尝有恩于他，侯生断非负义之徒。我料他胸中必有髙见，故要我亲身去"
+        },
+        {
+          "character": "信陵君",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "问。诸公且到前途暂住，我去去就来。"
         },
         {
           "character": "八门客",
@@ -1264,7 +1808,21 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "大丈夫视死如含饴，\n门客愿随举义旗。\n何故至交他不同气？"
+          "text": "大丈夫视死如含饴，"
+        },
+        {
+          "character": "信陵君",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "门客愿随举义旗。"
+        },
+        {
+          "character": "信陵君",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "何故至交他不同气？"
         },
         {
           "character": null,
@@ -1411,21 +1969,42 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "公子养客，已有十余年，今日之事，不闻客中出一奇计，而徒与公子犯那强秦\n之锋，直如以肉去投饿虎，何益之有耶？"
-        },
-        {
-          "character": "信陵君",
-          "line_type": "白",
-          "musical_style": null,
-          "style_family": null,
-          "text": "咳！无忌也知此行无益，但我与平原君交厚，义不独生。不知先生有何髙策，\n救此燃眉？"
+          "text": "公子养客，已有十余年，今日之事，不闻客中出一奇计，而徒与公子犯那强秦"
         },
         {
           "character": "侯嬴",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "臣闻，如姬深得大王宠幸。如姬之父，昔年为人所杀，欲报父仇，三年不得其\n人，公子使人斩其首级来献，果有此事否？"
+          "text": "之锋，直如以肉去投饿虎，何益之有耶？"
+        },
+        {
+          "character": "信陵君",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "咳！无忌也知此行无益，但我与平原君交厚，义不独生。不知先生有何髙策，"
+        },
+        {
+          "character": "信陵君",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "救此燃眉？"
+        },
+        {
+          "character": "侯嬴",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "臣闻，如姬深得大王宠幸。如姬之父，昔年为人所杀，欲报父仇，三年不得其"
+        },
+        {
+          "character": "侯嬴",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "人，公子使人斩其首级来献，果有此事否？"
         },
         {
           "character": "信陵君",
@@ -1439,7 +2018,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "如此，臣谅那如姬，甚感君之厚恩，定自有以图报。今晋鄙之兵符，在大王寝\n宫之内，唯如姬方能盗取。公子若肯开口，如姬必从。得此兵符，去夺晋鄙之\n军，定能却秦救赵。此五霸之功也。"
+          "text": "如此，臣谅那如姬，甚感君之厚恩，定自有以图报。今晋鄙之兵符，在大王寝"
+        },
+        {
+          "character": "侯嬴",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "宫之内，唯如姬方能盗取。公子若肯开口，如姬必从。得此兵符，去夺晋鄙之"
+        },
+        {
+          "character": "侯嬴",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "军，定能却秦救赵。此五霸之功也。"
         },
         {
           "character": "信陵君",
@@ -1495,7 +2088,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "可见大才不轻使，\n一言重比山岳齐。"
+          "text": "可见大才不轻使，"
+        },
+        {
+          "character": "信陵君",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "一言重比山岳齐。"
         },
         {
           "character": null,
@@ -1558,7 +2158,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "如姬娘娘为公子救赵为难，十分惦念，着奴婢悄悄到府探听，不想公子竟而起\n身去了。为此飞马赶来，要求公子一言：此行毕竟如何救赵？府中可有什么放\n心不下之事？好去回复娘娘，也好从中尽力。"
+          "text": "如姬娘娘为公子救赵为难，十分惦念，着奴婢悄悄到府探听，不想公子竟而起"
+        },
+        {
+          "character": "颜恩",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "身去了。为此飞马赶来，要求公子一言：此行毕竟如何救赵？府中可有什么放"
+        },
+        {
+          "character": "颜恩",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "心不下之事？好去回复娘娘，也好从中尽力。"
         },
         {
           "character": "信陵君",
@@ -1579,7 +2193,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "我今欲往邺下去代晋鄙之军，奈无虎符可凭。你可即去奏知娘娘，若能盗得虎\n符，是莫大之恩。不知娘娘可能应允？"
+          "text": "我今欲往邺下去代晋鄙之军，奈无虎符可凭。你可即去奏知娘娘，若能盗得虎"
+        },
+        {
+          "character": "信陵君",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "符，是莫大之恩。不知娘娘可能应允？"
         },
         {
           "character": "颜恩",
@@ -1614,7 +2235,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "哎！娘娘受公子的厚恩，常思图报，公子今有此事，她不能不办。纵然犯事，\n娘娘乃是大王的爱妃，打个滚，撒个赖，谅大王也不好意思杀她。"
+          "text": "哎！娘娘受公子的厚恩，常思图报，公子今有此事，她不能不办。纵然犯事，"
+        },
+        {
+          "character": "颜恩",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "娘娘乃是大王的爱妃，打个滚，撒个赖，谅大王也不好意思杀她。"
         },
         {
           "character": "信陵君",
@@ -1670,7 +2298,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "但愿兵符立取至，\n遂我义举破秦兵。"
+          "text": "但愿兵符立取至，"
+        },
+        {
+          "character": "信陵君",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "遂我义举破秦兵。"
         },
         {
           "character": null,
@@ -1744,7 +2379,17 @@
         "singing_ratio": 0.073,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.073,
+        0.1392,
+        0.8481,
+        0.0127,
+        0.6667,
+        7,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 6,
@@ -1773,7 +2418,21 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "黄鹂似知奴心绪，\n呖呖枝头向人啼。\n但愿恩德早报讫！"
+          "text": "黄鹂似知奴心绪，"
+        },
+        {
+          "character": "如姬",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "呖呖枝头向人啼。"
+        },
+        {
+          "character": "如姬",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "但愿恩德早报讫！"
         },
         {
           "character": null,
@@ -1822,14 +2481,35 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "公子也有如此想法，只是非得晋鄙兵权不能成事。无奈兵符在大王卧室之中，\n因而急叫奴婢赶来，求娘娘设法，将兵符盗出，他去赚取兵权。大军到手，破\n秦军易如反掌。娘娘你可能盗得兵符吗？"
+          "text": "公子也有如此想法，只是非得晋鄙兵权不能成事。无奈兵符在大王卧室之中，"
+        },
+        {
+          "character": "颜恩",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "因而急叫奴婢赶来，求娘娘设法，将兵符盗出，他去赚取兵权。大军到手，破"
+        },
+        {
+          "character": "颜恩",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "秦军易如反掌。娘娘你可能盗得兵符吗？"
         },
         {
           "character": "如姬",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "这个！既然公子有命，我便犯那凌迟碎剐之罪，亦所甘心。兵符现在我的宫内，\n待我取来，你飞奔送与公子便了！"
+          "text": "这个！既然公子有命，我便犯那凌迟碎剐之罪，亦所甘心。兵符现在我的宫内，"
+        },
+        {
+          "character": "如姬",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "待我取来，你飞奔送与公子便了！"
         },
         {
           "character": "颜恩",
@@ -1865,7 +2545,17 @@
         "singing_ratio": 0.105,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.105,
+        0.2667,
+        0.7333,
+        0.0,
+        0.5,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 7,
@@ -2430,7 +3120,17 @@
         "singing_ratio": 0.068,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.068,
+        0.193,
+        0.807,
+        0.0,
+        0.6964,
+        5,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 8,
@@ -3297,7 +3997,17 @@
         "singing_ratio": 0.039,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.039,
+        0.1236,
+        0.8652,
+        0.0112,
+        0.7955,
+        8,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 9,
@@ -3956,7 +4666,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.9833,
+        0.0167,
+        0.9492,
+        7,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 10,
@@ -3981,7 +4701,7 @@
           "text": "（蒙骜、胡伤、郑安平、司马错同上。）"
         },
         {
-          "character": null,
+          "character": "司马错",
           "line_type": "同白",
           "musical_style": null,
           "style_family": null,
@@ -4531,7 +5251,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.9024,
+        9,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 11,
@@ -4632,7 +5362,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.6667,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 12,
@@ -4652,7 +5392,7 @@
           "text": "（四龙套、四武士、朱亥、卫庆、信陵君同上。）"
         },
         {
-          "character": null,
+          "character": "信陵君",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -4767,7 +5507,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        4,
+        0.0,
+        0.0
+      ]
     }
   ]
 }

@@ -155,7 +155,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "引导！\n第一柱香，愿风调雨顺，国泰民安。第二柱香，愿秦桧夫妇，百年偕老。第三\n柱香，愿……"
+          "text": "引导！"
+        },
+        {
+          "character": "秦桧",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "第一柱香，愿风调雨顺，国泰民安。第二柱香，愿秦桧夫妇，百年偕老。第三"
+        },
+        {
+          "character": "秦桧",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "柱香，愿……"
         },
         {
           "character": "青袍",
@@ -232,7 +246,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "好奇怪！这诗我与夫人在东窗下做的，何人写在此？\n和尚，这诗何人写的？"
+          "text": "好奇怪！这诗我与夫人在东窗下做的，何人写在此？"
+        },
+        {
+          "character": "秦桧",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "和尚，这诗何人写的？"
         },
         {
           "character": "老和尚",
@@ -281,7 +302,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "是。\n也十一！"
+          "text": "是。"
+        },
+        {
+          "character": "老和尚",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "也十一！"
         },
         {
           "character": "疯僧",
@@ -1191,7 +1219,14 @@
           "line_type": "念",
           "musical_style": null,
           "style_family": null,
-          "text": "“久闻丞相理乾坤，占断朝纲第一人。都领群臣朝北阕，堂中埋没老元勋。\n闭门杀害忠良将，塞上欺君枉万民。贤相一心归正道，路上行人口……”"
+          "text": "“久闻丞相理乾坤，占断朝纲第一人。都领群臣朝北阕，堂中埋没老元勋。"
+        },
+        {
+          "character": "秦桧",
+          "line_type": "念",
+          "musical_style": null,
+          "style_family": null,
+          "text": "闭门杀害忠良将，塞上欺君枉万民。贤相一心归正道，路上行人口……”"
         },
         {
           "character": "秦桧",
@@ -1317,14 +1352,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "讲了半日，想是他肚中饥了。\n和尚，赏他一份斋。"
+          "text": "讲了半日，想是他肚中饥了。"
+        },
+        {
+          "character": "秦桧",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "和尚，赏他一份斋。"
         },
         {
           "character": "老和尚",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "是。\n相爷赏你一份斋。"
+          "text": "是。"
+        },
+        {
+          "character": "老和尚",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "相爷赏你一份斋。"
         },
         {
           "character": "疯僧",
@@ -1863,7 +1912,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "啊呀！倒被这疯僧一番言语，说得毛骨悚然。回去与夫人商议便了。\n打道！"
+          "text": "啊呀！倒被这疯僧一番言语，说得毛骨悚然。回去与夫人商议便了。"
+        },
+        {
+          "character": "秦桧",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "打道！"
         },
         {
           "character": "秦桧",
@@ -1917,7 +1973,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.9731,
+        0.0269,
+        0.827,
+        4,
+        0.0,
+        0.0
+      ]
     }
   ]
 }

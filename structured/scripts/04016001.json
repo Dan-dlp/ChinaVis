@@ -258,14 +258,42 @@
           "line_type": "西皮原板",
           "musical_style": "西皮原板",
           "style_family": "西皮",
-          "text": "汉刘备坐舟中心神不定，\n分明是那东吴又把计生。\n此一番过江去见机而行。"
+          "text": "汉刘备坐舟中心神不定，"
         },
         {
-          "character": "转面来再对四弟论、赵云",
+          "character": "刘备",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "分明是那东吴又把计生。"
+        },
+        {
+          "character": "刘备",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "此一番过江去见机而行。"
+        },
+        {
+          "character": "刘备",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "转面来再对四弟论"
+        },
+        {
+          "character": "赵云",
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "主公且把心放定，\n为臣能挡百万兵。"
+          "text": "主公且把心放定，"
+        },
+        {
+          "character": "赵云",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "为臣能挡百万兵。"
         },
         {
           "character": "船夫",
@@ -370,7 +398,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "此人乃大乔、小乔之父，孙策、周郎之岳丈，颇有见识。先生要孤去拜此人，\n必有关照。四弟，备份厚礼，随我一同拜见乔太尉去者。"
+          "text": "此人乃大乔、小乔之父，孙策、周郎之岳丈，颇有见识。先生要孤去拜此人，"
+        },
+        {
+          "character": "刘备",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "必有关照。四弟，备份厚礼，随我一同拜见乔太尉去者。"
         },
         {
           "character": "赵云",
@@ -425,7 +460,17 @@
           "西皮原板",
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.071,
+        0.2857,
+        0.6667,
+        0.0476,
+        0.65,
+        4,
+        0.2857,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -470,7 +515,35 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "老夫乔玄，字嵩山，乃江东人也。吴侯驾前为臣，官居太尉。夫人姜氏，所生\n二女，长女大乔，配与孙策；次女小乔，许配周郎。这且不言，适才老夫朝罢\n归来，见大街之上，悬灯结彩，众百姓一个个交头接耳，也不知道他们讲些什\n么？\n啊，老院！"
+          "text": "老夫乔玄，字嵩山，乃江东人也。吴侯驾前为臣，官居太尉。夫人姜氏，所生"
+        },
+        {
+          "character": "乔玄",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "二女，长女大乔，配与孙策；次女小乔，许配周郎。这且不言，适才老夫朝罢"
+        },
+        {
+          "character": "乔玄",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "归来，见大街之上，悬灯结彩，众百姓一个个交头接耳，也不知道他们讲些什"
+        },
+        {
+          "character": "乔玄",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "么？"
+        },
+        {
+          "character": "乔玄",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "啊，老院！"
         },
         {
           "character": "乔福",
@@ -512,7 +585,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "适才老夫朝罢而归，见大街之上，悬灯结彩，众百姓一个个交头接耳，也不知\n他们讲些什么？"
+          "text": "适才老夫朝罢而归，见大街之上，悬灯结彩，众百姓一个个交头接耳，也不知"
+        },
+        {
+          "character": "乔玄",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "他们讲些什么？"
         },
         {
           "character": "乔福",
@@ -533,7 +613,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "哎呀呀，此事闹得满城风雨，我东吴人人皆知；况且那刘皇叔已然过江来了，\n现在馆驿居住，老相爷还不曾知道吗？"
+          "text": "哎呀呀，此事闹得满城风雨，我东吴人人皆知；况且那刘皇叔已然过江来了，"
+        },
+        {
+          "character": "乔福",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "现在馆驿居住，老相爷还不曾知道吗？"
         },
         {
           "character": "乔玄",
@@ -575,7 +662,14 @@
           "line_type": "念",
           "musical_style": null,
           "style_family": null,
-          "text": "未参东吴主，先来拜相台。\n来此已是，门上哪位在？"
+          "text": "未参东吴主，先来拜相台。"
+        },
+        {
+          "character": "赵云",
+          "line_type": "念",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来此已是，门上哪位在？"
         },
         {
           "character": "乔福",
@@ -757,14 +851,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "是。\n参见太尉。"
+          "text": "是。"
+        },
+        {
+          "character": "赵云",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "参见太尉。"
         },
         {
           "character": "乔玄",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "罢了。\n皇叔，此位是？"
+          "text": "罢了。"
+        },
+        {
+          "character": "乔玄",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "皇叔，此位是？"
         },
         {
           "character": "刘备",
@@ -876,7 +984,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "哎，多事啊！\n如此当面谢过。"
+          "text": "哎，多事啊！"
+        },
+        {
+          "character": "乔玄",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "如此当面谢过。"
         },
         {
           "character": "刘备",
@@ -953,7 +1068,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "唉，你哪里知道，如今孙刘两家同心破曹，大功尚未成就，今皇叔过江招亲，\n老夫不知，只恐有诈；若果如此，这破曹之事，大有妨碍。"
+          "text": "唉，你哪里知道，如今孙刘两家同心破曹，大功尚未成就，今皇叔过江招亲，"
+        },
+        {
+          "character": "乔玄",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "老夫不知，只恐有诈；若果如此，这破曹之事，大有妨碍。"
         },
         {
           "character": "乔福",
@@ -967,7 +1089,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "嗯，待老夫进宫面见国太，将此事撮合成就，纵然有诈，也叫他无计可施。\n来，吩咐外厢打道进宫！"
+          "text": "嗯，待老夫进宫面见国太，将此事撮合成就，纵然有诈，也叫他无计可施。"
+        },
+        {
+          "character": "乔玄",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来，吩咐外厢打道进宫！"
         },
         {
           "character": "乔福",
@@ -1036,7 +1165,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0127,
+        0.9494,
+        0.038,
+        0.8205,
+        5,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -1091,7 +1230,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "本后吴氏。配夫孙坚，不幸去世。哀家所生二子一女，长子孙策，中年下世；\n次子孙权，执掌江东六郡八十一州；幼女尚香，尚未婚配。正是："
+          "text": "本后吴氏。配夫孙坚，不幸去世。哀家所生二子一女，长子孙策，中年下世；"
+        },
+        {
+          "character": "吴国太",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "次子孙权，执掌江东六郡八十一州；幼女尚香，尚未婚配。正是："
         },
         {
           "character": "吴国太",
@@ -1112,7 +1258,14 @@
           "line_type": "念",
           "musical_style": null,
           "style_family": null,
-          "text": "天上生瑞彩，人间配鸾凰。\n来此已是，待我叩环。"
+          "text": "天上生瑞彩，人间配鸾凰。"
+        },
+        {
+          "character": "乔玄",
+          "line_type": "念",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来此已是，待我叩环。"
         },
         {
           "character": "宫女",
@@ -1133,7 +1286,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "候着。\n启国太：太尉求见。"
+          "text": "候着。"
+        },
+        {
+          "character": "宫女",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "启国太：太尉求见。"
         },
         {
           "character": "吴国太",
@@ -1196,7 +1356,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "谢座。\n恭喜太后，贺喜太后！"
+          "text": "谢座。"
+        },
+        {
+          "character": "乔玄",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "恭喜太后，贺喜太后！"
         },
         {
           "character": "吴国太",
@@ -1252,7 +1419,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "领旨。\n国太有旨，二千岁进宫！"
+          "text": "领旨。"
+        },
+        {
+          "character": "乔玄",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "国太有旨，二千岁进宫！"
         },
         {
           "character": "孙权",
@@ -1364,14 +1538,35 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "母亲既然知道，儿臣不敢隐瞒。只因刘备借去荆州，久讨不还；我与周瑜定下\n美人之计，诓他过江招亲，将他囚死东吴，那荆州岂不唾手而得。"
+          "text": "母亲既然知道，儿臣不敢隐瞒。只因刘备借去荆州，久讨不还；我与周瑜定下"
+        },
+        {
+          "character": "孙权",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "美人之计，诓他过江招亲，将他囚死东吴，那荆州岂不唾手而得。"
         },
         {
           "character": "吴国太",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "我儿此言差矣！儿既为荆州一事，就该递下战书，他那里出兵，你这里调将，\n夺回荆州，岂不扬名天下。怎么将胞妹做为美人之计，纵然夺回荆州，岂不被\n天下人耻笑！似儿这等败坏纲常。寡廉鲜耻，怎不气……煞为娘也！"
+          "text": "我儿此言差矣！儿既为荆州一事，就该递下战书，他那里出兵，你这里调将，"
+        },
+        {
+          "character": "吴国太",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "夺回荆州，岂不扬名天下。怎么将胞妹做为美人之计，纵然夺回荆州，岂不被"
+        },
+        {
+          "character": "吴国太",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "天下人耻笑！似儿这等败坏纲常。寡廉鲜耻，怎不气……煞为娘也！"
         },
         {
           "character": null,
@@ -1434,52 +1629,353 @@
           "line_type": "西皮原板",
           "musical_style": "西皮原板",
           "style_family": "西皮",
-          "text": "霎时间只气得冷汗流。\n为什么将胞妹当做钓钩！"
+          "text": "霎时间只气得冷汗流。"
         },
         {
-          "character": "既为那荆州争疆土、理应当与文武聚议良谋、出兵与他来争斗、孙权",
+          "character": "吴国太",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "为什么将胞妹当做钓钩！"
+        },
+        {
+          "character": "吴国太",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "既为那荆州争疆土"
+        },
+        {
+          "character": "吴国太",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "理应当与文武聚议良谋"
+        },
+        {
+          "character": "吴国太",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "出兵与他来争斗"
+        },
+        {
+          "character": "孙权",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
           "text": "母后！"
         },
         {
-          "character": "既为那荆州争疆土、理应当与文武聚议良谋、出兵与他来争斗、孙权",
+          "character": "孙权",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "既为那荆州争疆土"
+        },
+        {
+          "character": "孙权",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "理应当与文武聚议良谋"
+        },
+        {
+          "character": "孙权",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "出兵与他来争斗"
+        },
+        {
+          "character": "孙权",
           "line_type": "西皮原板",
           "musical_style": "西皮原板",
           "style_family": "西皮",
-          "text": "母亲训教儿当受，\n对面不敢强抬头；\n千方百计为荆州。\n不杀那大耳贼誓不休！"
+          "text": "母亲训教儿当受，"
         },
         {
-          "character": "儿杀刘备心已久、孙权脸上双眉皱、乔玄",
+          "character": "孙权",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "对面不敢强抬头；"
+        },
+        {
+          "character": "孙权",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "千方百计为荆州。"
+        },
+        {
+          "character": "孙权",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "不杀那大耳贼誓不休！"
+        },
+        {
+          "character": "孙权",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "儿杀刘备心已久"
+        },
+        {
+          "character": "孙权",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "孙权脸上双眉皱"
+        },
+        {
+          "character": "乔玄",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
           "text": "千岁！"
         },
         {
-          "character": "儿杀刘备心已久、孙权脸上双眉皱、乔玄",
+          "character": "乔玄",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "儿杀刘备心已久"
+        },
+        {
+          "character": "乔玄",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "孙权脸上双眉皱"
+        },
+        {
+          "character": "乔玄",
           "line_type": "西皮原板",
           "musical_style": "西皮原板",
           "style_family": "西皮",
-          "text": "劝千岁杀字休出口，\n老臣启主说从头：\n汉帝玄孙一脉留。\n他有个二弟"
+          "text": "劝千岁杀字休出口，"
         },
         {
-          "character": "儿杀刘备心已久、孙权脸上双眉皱、乔玄",
+          "character": "乔玄",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "老臣启主说从头："
+        },
+        {
+          "character": "乔玄",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "汉帝玄孙一脉留。"
+        },
+        {
+          "character": "乔玄",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "他有个二弟"
+        },
+        {
+          "character": "乔玄",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "儿杀刘备心已久"
+        },
+        {
+          "character": "乔玄",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "孙权脸上双眉皱"
+        },
+        {
+          "character": "乔玄",
           "line_type": "西皮流水板",
           "musical_style": "西皮流水板",
           "style_family": "西皮",
-          "text": "汉寿亭侯，\n“青龙偃月”神鬼皆愁；\n在古城曾斩过老蔡阳的头。\n丈八蛇矛惯取咽喉。\n虎牢关前战温侯；\n喝断了桥梁水倒流。\n盖世英名贯九州；\n杀得曹兵个个愁。\n这一班虎将哪国有？\n他弟兄闻知怎能肯罢休！\n东吴哪个敢出头！\n将计就计结鸾俦。"
+          "text": "汉寿亭侯，"
         },
         {
-          "character": "儿杀刘备心已久、孙权脸上双眉皱、乔玄",
+          "character": "乔玄",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "“青龙偃月”神鬼皆愁；"
+        },
+        {
+          "character": "乔玄",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "在古城曾斩过老蔡阳的头。"
+        },
+        {
+          "character": "乔玄",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "丈八蛇矛惯取咽喉。"
+        },
+        {
+          "character": "乔玄",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "虎牢关前战温侯；"
+        },
+        {
+          "character": "乔玄",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "喝断了桥梁水倒流。"
+        },
+        {
+          "character": "乔玄",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "盖世英名贯九州；"
+        },
+        {
+          "character": "乔玄",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "杀得曹兵个个愁。"
+        },
+        {
+          "character": "乔玄",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "这一班虎将哪国有？"
+        },
+        {
+          "character": "乔玄",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "他弟兄闻知怎能肯罢休！"
+        },
+        {
+          "character": "乔玄",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "东吴哪个敢出头！"
+        },
+        {
+          "character": "乔玄",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "将计就计结鸾俦。"
+        },
+        {
+          "character": "乔玄",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "儿杀刘备心已久"
+        },
+        {
+          "character": "乔玄",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "孙权脸上双眉皱"
+        },
+        {
+          "character": "乔玄",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
           "text": "啊，太后，想那刘备乃汉室宗亲，可以配得郡主。"
         },
         {
-          "character": "刘备本是靖王后、白马坡前诛文丑、他三弟翼德威风有、鞭打督邮他气冲牛斗、当阳桥前一声吼、他四弟子龙常山将、长坂坡，救阿斗、还有诸葛用计谋、你杀刘备不要紧、若是兴兵来争斗、我扭转回身奏太后、孙权",
+          "character": "乔玄",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "刘备本是靖王后"
+        },
+        {
+          "character": "乔玄",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "白马坡前诛文丑"
+        },
+        {
+          "character": "乔玄",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "他三弟翼德威风有"
+        },
+        {
+          "character": "乔玄",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "鞭打督邮他气冲牛斗"
+        },
+        {
+          "character": "乔玄",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "当阳桥前一声吼"
+        },
+        {
+          "character": "乔玄",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "他四弟子龙常山将"
+        },
+        {
+          "character": "乔玄",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "长坂坡，救阿斗"
+        },
+        {
+          "character": "乔玄",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "还有诸葛用计谋"
+        },
+        {
+          "character": "乔玄",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "你杀刘备不要紧"
+        },
+        {
+          "character": "乔玄",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "若是兴兵来争斗"
+        },
+        {
+          "character": "乔玄",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我扭转回身奏太后"
+        },
+        {
+          "character": "孙权",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -1532,7 +2028,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "儿臣告退。\n嘿！"
+          "text": "儿臣告退。"
+        },
+        {
+          "character": "孙权",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "嘿！"
         },
         {
           "character": null,
@@ -1628,7 +2131,17 @@
           "西皮导板",
           "西皮流水"
         ]
-      }
+      },
+      "scene_feature": [
+        0.036,
+        0.2821,
+        0.6752,
+        0.0427,
+        0.4655,
+        5,
+        0.2735,
+        0.0
+      ]
     },
     {
       "scene_index": 4,
@@ -1651,7 +2164,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "且住！母后传下旨意，明日在甘露寺中面相刘备，倘若相上岂不是弄假成真！\n这……嗯。\n内侍，宣吕范进宫。"
+          "text": "且住！母后传下旨意，明日在甘露寺中面相刘备，倘若相上岂不是弄假成真！"
+        },
+        {
+          "character": "孙权",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "这……嗯。"
+        },
+        {
+          "character": "孙权",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "内侍，宣吕范进宫。"
         },
         {
           "character": "太监",
@@ -1679,7 +2206,14 @@
           "line_type": "念",
           "musical_style": null,
           "style_family": null,
-          "text": "忽听吴侯宣，进宫把驾参。\n吕范见驾，吴侯千岁！"
+          "text": "忽听吴侯宣，进宫把驾参。"
+        },
+        {
+          "character": "吕范",
+          "line_type": "念",
+          "musical_style": null,
+          "style_family": null,
+          "text": "吕范见驾，吴侯千岁！"
         },
         {
           "character": "孙权",
@@ -1700,7 +2234,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "只因国太传下旨意，明日在甘露寺面相刘备，倘若相上，岂不是弄假成真！宣\n你进宫想一良策。"
+          "text": "只因国太传下旨意，明日在甘露寺面相刘备，倘若相上，岂不是弄假成真！宣"
+        },
+        {
+          "character": "孙权",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "你进宫想一良策。"
         },
         {
           "character": "吕范",
@@ -1780,7 +2321,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.7647,
+        0.2353,
+        0.625,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 5,
@@ -1816,7 +2367,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "唉！太后传下旨意，明日要在甘露寺面相皇叔，太后若相他不上，岂不被周郎\n所害；孙刘失和，两败俱伤！这……有了。\n乔福过来。"
+          "text": "唉！太后传下旨意，明日要在甘露寺面相皇叔，太后若相他不上，岂不被周郎"
+        },
+        {
+          "character": "乔玄",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "所害；孙刘失和，两败俱伤！这……有了。"
+        },
+        {
+          "character": "乔玄",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "乔福过来。"
         },
         {
           "character": "乔福",
@@ -1844,7 +2409,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "回来，回来！再叫那赵将军内穿铠甲，外罩袍服，作一个防而不备，备而不防。\n记下了。"
+          "text": "回来，回来！再叫那赵将军内穿铠甲，外罩袍服，作一个防而不备，备而不防。"
+        },
+        {
+          "character": "乔玄",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "记下了。"
         },
         {
           "character": "乔福",
@@ -1900,7 +2472,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.5455,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 6,
@@ -2014,14 +2596,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "是。\n主公唤你进去。"
+          "text": "是。"
+        },
+        {
+          "character": "赵云",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "主公唤你进去。"
         },
         {
           "character": "乔福",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "有劳了。\n乔府管家与皇叔叩头。"
+          "text": "有劳了。"
+        },
+        {
+          "character": "乔福",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "乔府管家与皇叔叩头。"
         },
         {
           "character": "刘备",
@@ -2098,14 +2694,42 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "倒是荆州来的，真大方啊！几句话就是一锭银子。我把那两句话说与皇叔，少\n不得又是一锭。\n啊，皇叔，我家相爷言道：明日席前，命那保驾将军内穿铠甲，外罩袍服，作\n一个防而不备，备而不防。"
+          "text": "倒是荆州来的，真大方啊！几句话就是一锭银子。我把那两句话说与皇叔，少"
+        },
+        {
+          "character": "乔福",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "不得又是一锭。"
+        },
+        {
+          "character": "乔福",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "啊，皇叔，我家相爷言道：明日席前，命那保驾将军内穿铠甲，外罩袍服，作"
+        },
+        {
+          "character": "乔福",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "一个防而不备，备而不防。"
         },
         {
           "character": "刘备",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "多谢太尉关怀。\n四弟，再看赏。"
+          "text": "多谢太尉关怀。"
+        },
+        {
+          "character": "刘备",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "四弟，再看赏。"
         },
         {
           "character": null,
@@ -2181,7 +2805,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.029,
+        0.0,
+        0.9118,
+        0.0882,
+        0.6667,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 7,
@@ -3551,7 +4185,17 @@
           "西皮摇板",
           "西皮散板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.088,
+        0.1275,
+        0.8591,
+        0.0134,
+        0.8446,
+        7,
+        0.1275,
+        0.0
+      ]
     },
     {
       "scene_index": 8,
@@ -3884,7 +4528,17 @@
           "西皮慢板",
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.217,
+        0.2759,
+        0.6552,
+        0.069,
+        0.7143,
+        5,
+        0.2759,
+        0.0
+      ]
     },
     {
       "scene_index": 9,
@@ -3901,28 +4555,28 @@
           "text": "（四军士引张飞同上。）"
         },
         {
-          "character": null,
+          "character": "张飞",
           "line_type": "念",
           "musical_style": null,
           "style_family": null,
           "text": "英雄秉性刚，威名震当阳。汉室无敌将，一声断桥梁。"
         },
         {
-          "character": null,
+          "character": "张飞",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
           "text": "某，姓张名飞字翼德。弟兄桃园结义以来，名扬天下；辅助炎汉，坐镇荆襄。"
         },
         {
-          "character": null,
+          "character": "张飞",
           "line_type": "西皮流水板",
           "musical_style": "西皮流水板",
           "style_family": "西皮",
           "text": "当阳独把曹兵挡，"
         },
         {
-          "character": null,
+          "character": "张飞",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -3962,7 +4616,17 @@
           "西皮摇板",
           "西皮流水"
         ]
-      }
+      },
+      "scene_feature": [
+        1.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1,
+        1.0,
+        0.0
+      ]
     },
     {
       "scene_index": 10,
@@ -4355,7 +5019,17 @@
           "西皮流水",
           "西皮流水板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.171,
+        0.2857,
+        0.7143,
+        0.0,
+        0.7317,
+        2,
+        0.2857,
+        0.0
+      ]
     },
     {
       "scene_index": 11,
@@ -4418,7 +5092,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.25,
+        0.25,
+        0.5,
+        0.0,
+        1,
+        0.25,
+        0.0
+      ]
     },
     {
       "scene_index": 12,
@@ -4949,7 +5633,17 @@
           "西皮摇板",
           "西皮散板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.085,
+        0.1724,
+        0.8103,
+        0.0172,
+        0.7544,
+        4,
+        0.1724,
+        0.0
+      ]
     },
     {
       "scene_index": 13,
@@ -5305,7 +5999,17 @@
           "西皮摇板",
           "西皮散板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.353,
+        0.4054,
+        0.5946,
+        0.0,
+        0.8333,
+        2,
+        0.4054,
+        0.0
+      ]
     },
     {
       "scene_index": 14,
@@ -5480,7 +6184,17 @@
         "musical_styles": [
           "西皮散板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.333,
+        0.3846,
+        0.6154,
+        0.0,
+        0.9167,
+        3,
+        0.3846,
+        0.0
+      ]
     },
     {
       "scene_index": 15,
@@ -5500,14 +6214,14 @@
           "text": "（〖大开门〗。四军士、周瑜同上。）"
         },
         {
-          "character": null,
+          "character": "周瑜",
           "line_type": "念",
           "musical_style": null,
           "style_family": null,
           "text": "黄金印国宝，为将须英豪。休笑青年貌，势压刘与曹。"
         },
         {
-          "character": null,
+          "character": "周瑜",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -5963,7 +6677,17 @@
         "musical_styles": [
           "西皮散板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.042,
+        0.0392,
+        0.9412,
+        0.0196,
+        0.86,
+        4,
+        0.0392,
+        0.0
+      ]
     },
     {
       "scene_index": 16,
@@ -6232,7 +6956,17 @@
         "musical_styles": [
           "西皮散板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.118,
+        0.1364,
+        0.8182,
+        0.0455,
+        0.7143,
+        4,
+        0.1364,
+        0.0
+      ]
     },
     {
       "scene_index": 17,
@@ -6272,7 +7006,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 18,
@@ -6335,7 +7079,17 @@
           "西皮快板",
           "西皮散板"
         ]
-      }
+      },
+      "scene_feature": [
+        1.0,
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        2,
+        1.0,
+        0.0
+      ]
     },
     {
       "scene_index": 19,
@@ -6358,7 +7112,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 20,
@@ -6538,7 +7302,17 @@
           "西皮快板",
           "西皮散板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.2,
+        0.3846,
+        0.6154,
+        0.0,
+        0.75,
+        5,
+        0.3846,
+        0.0
+      ]
     },
     {
       "scene_index": 21,
@@ -6611,7 +7385,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.75,
+        0.25,
+        0.6667,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 22,
@@ -7054,7 +7838,17 @@
           "西皮摇板",
           "西皮散板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.086,
+        0.1026,
+        0.8974,
+        0.0,
+        0.7895,
+        5,
+        0.1026,
+        0.0
+      ]
     },
     {
       "scene_index": 23,
@@ -7199,7 +7993,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.8333,
+        3,
+        0.0,
+        0.0
+      ]
     }
   ]
 }

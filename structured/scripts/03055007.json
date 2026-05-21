@@ -258,7 +258,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -296,14 +306,35 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "孤，大宋天子雍熙在位。自登基以来，风调雨顺，国泰民安。可恨潘洪苦害杨\n家，那杨郡马告下御状，孤命呼必显前去捉拿潘洪，未见到来。\n内侍，展放龙门！"
+          "text": "孤，大宋天子雍熙在位。自登基以来，风调雨顺，国泰民安。可恨潘洪苦害杨"
+        },
+        {
+          "character": "宋太宗",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "家，那杨郡马告下御状，孤命呼必显前去捉拿潘洪，未见到来。"
+        },
+        {
+          "character": "宋太宗",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "内侍，展放龙门！"
         },
         {
           "character": "太太监",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "遵旨。\n展放龙门哪！"
+          "text": "遵旨。"
+        },
+        {
+          "character": "太太监",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "展放龙门哪！"
         },
         {
           "character": null,
@@ -521,7 +552,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.037,
+        0.8519,
+        0.1111,
+        0.6923,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -554,7 +595,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "下官、刘智远。官居西台御史。适才圣旨到来，命下官审问潘、杨两家之事。\n必须按公而断。\n左右，升堂！"
+          "text": "下官、刘智远。官居西台御史。适才圣旨到来，命下官审问潘、杨两家之事。"
+        },
+        {
+          "character": "刘智远",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "必须按公而断。"
+        },
+        {
+          "character": "刘智远",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "左右，升堂！"
         },
         {
           "character": "丑太监",
@@ -673,7 +728,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "后宫潘娘娘言道：只叫太师在，不要太师坏。你要把心眼偏偏，我保你升官换\n纱帽。"
+          "text": "后宫潘娘娘言道：只叫太师在，不要太师坏。你要把心眼偏偏，我保你升官换"
+        },
+        {
+          "character": "丑太监",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "纱帽。"
         },
         {
           "character": "刘智远",
@@ -935,7 +997,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.9302,
+        0.0698,
+        0.8571,
+        6,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 4,
@@ -1021,7 +1093,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.8,
+        0.2,
+        1.0,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 5,
@@ -1106,7 +1188,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.6667,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 6,
@@ -1337,7 +1429,17 @@
         "singing_ratio": 0.118,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.118,
+        0.1111,
+        0.8889,
+        0.0,
+        0.8824,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 7,
@@ -1896,7 +1998,17 @@
         "singing_ratio": 0.123,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.123,
+        0.1774,
+        0.7742,
+        0.0484,
+        0.9016,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 8,
@@ -1969,7 +2081,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "啊二哥，元帅无有差错还则罢了；若有差错，小弟跨马提鞭，杀上午门，与那\n昏王辩理！"
+          "text": "啊二哥，元帅无有差错还则罢了；若有差错，小弟跨马提鞭，杀上午门，与那"
+        },
+        {
+          "character": "焦赞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "昏王辩理！"
         },
         {
           "character": "孟良",
@@ -2053,7 +2172,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "本帅进京，告下御状，圣上将潘洪老贼押在刑部监牢；命本帅原任三关，多加\n俸米钱粮。"
+          "text": "本帅进京，告下御状，圣上将潘洪老贼押在刑部监牢；命本帅原任三关，多加"
+        },
+        {
+          "character": "杨延昭",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "俸米钱粮。"
         },
         {
           "character": "孟良、焦赞",
@@ -2127,7 +2253,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.9565,
+        0.0435,
+        0.8182,
+        5,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 9,
@@ -2153,7 +2289,21 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "实可恨杨郡马行事太短，\n苦苦地告我父所为哪般？\n等内侍他到来细问根源。"
+          "text": "实可恨杨郡马行事太短，"
+        },
+        {
+          "character": "潘妃",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "苦苦地告我父所为哪般？"
+        },
+        {
+          "character": "潘妃",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "等内侍他到来细问根源。"
         },
         {
           "character": null,
@@ -2195,7 +2345,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "听说我父受五刑，\n怎不叫人痛伤情。"
+          "text": "听说我父受五刑，"
+        },
+        {
+          "character": "潘妃",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "怎不叫人痛伤情。"
         },
         {
           "character": null,
@@ -2209,7 +2366,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "内侍摆驾西宫进，\n梓童免礼且平身。"
+          "text": "内侍摆驾西宫进，"
+        },
+        {
+          "character": "宋太宗",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "梓童免礼且平身。"
         },
         {
           "character": "潘妃",
@@ -2230,38 +2394,101 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "妾妃备酒，与万岁同饮。\n内侍，看酒伺候！"
+          "text": "妾妃备酒，与万岁同饮。"
+        },
+        {
+          "character": "潘妃",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "内侍，看酒伺候！"
         },
         {
           "character": "潘妃",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "叫内侍你与我将宴摆定，\n尊一声万岁爷细听分明：\n为什么押监牢去受苦刑？"
+          "text": "叫内侍你与我将宴摆定，"
         },
         {
-          "character": "我的父在朝中忠心秉正、宋太宗",
+          "character": "潘妃",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "梓童不必来动本，\n孤王言来听分明：\n害杨家他有那不忠之心。"
+          "text": "尊一声万岁爷细听分明："
         },
         {
-          "character": "你的父与杨家结下仇恨、潘妃",
+          "character": "潘妃",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "为什么押监牢去受苦刑？"
+        },
+        {
+          "character": "潘妃",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我的父在朝中忠心秉正"
+        },
+        {
+          "character": "宋太宗",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "梓童不必来动本，"
+        },
+        {
+          "character": "宋太宗",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "孤王言来听分明："
+        },
+        {
+          "character": "宋太宗",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "害杨家他有那不忠之心。"
+        },
+        {
+          "character": "宋太宗",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "你的父与杨家结下仇恨"
+        },
+        {
+          "character": "潘妃",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
           "text": "父女之情难救命，"
         },
         {
-          "character": "你的父与杨家结下仇恨、潘妃",
+          "character": "潘妃",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "你的父与杨家结下仇恨"
+        },
+        {
+          "character": "潘妃",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
           "text": "罢！"
         },
         {
-          "character": "你的父与杨家结下仇恨、潘妃",
+          "character": "潘妃",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "你的父与杨家结下仇恨"
+        },
+        {
+          "character": "潘妃",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
@@ -2286,7 +2513,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "梓童不必寻自尽，\n孤王赦他无罪名。"
+          "text": "梓童不必寻自尽，"
+        },
+        {
+          "character": "宋太宗",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "孤王赦他无罪名。"
         },
         {
           "character": "宋太宗",
@@ -2483,7 +2717,17 @@
         "singing_ratio": 0.148,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.148,
+        0.4167,
+        0.5625,
+        0.0208,
+        0.5532,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 10,
@@ -2547,7 +2791,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "多亏娘娘保奏，圣上命我原任雁门，又赐我上方宝剑、紫金宝锁，若有不遵者，\n先斩后奏！"
+          "text": "多亏娘娘保奏，圣上命我原任雁门，又赐我上方宝剑、紫金宝锁，若有不遵者，"
+        },
+        {
+          "character": "潘洪",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "先斩后奏！"
         },
         {
           "character": "贺朝进",
@@ -2568,7 +2819,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "这有何难？太师修书一封，差一心腹之人下到北国韩昌那里，约定八月中秋发\n来人马，先杀杨家，后灭宋室，天下岂不"
+          "text": "这有何难？太师修书一封，差一心腹之人下到北国韩昌那里，约定八月中秋发"
+        },
+        {
+          "character": "贺朝进",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来人马，先杀杨家，后灭宋室，天下岂不"
         }
       ],
       "interactions": [
@@ -2608,7 +2866,17 @@
         "singing_ratio": 0.118,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.118,
+        0.0,
+        0.9,
+        0.1,
+        0.4444,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 11,
@@ -2880,7 +3148,17 @@
         "singing_ratio": 0.13,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.13,
+        0.16,
+        0.84,
+        0.0,
+        0.875,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 12,
@@ -2920,7 +3198,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 13,
@@ -3060,7 +3348,17 @@
         "singing_ratio": 0.111,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.111,
+        0.1,
+        0.7,
+        0.2,
+        0.8889,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 14,
@@ -3083,7 +3381,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 15,
@@ -3106,7 +3414,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 16,
@@ -3478,7 +3796,17 @@
         "singing_ratio": 0.081,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.081,
+        0.0789,
+        0.9211,
+        0.0,
+        0.973,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 17,
@@ -3532,7 +3860,17 @@
         "singing_ratio": 1.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        1.0,
+        0.6667,
+        0.3333,
+        0.0,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 18,
@@ -3666,7 +4004,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 19,
@@ -3815,7 +4163,17 @@
         "singing_ratio": 0.182,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.182,
+        0.2143,
+        0.7857,
+        0.0,
+        0.6923,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 20,
@@ -4250,7 +4608,17 @@
         "singing_ratio": 0.022,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.022,
+        0.0217,
+        0.9783,
+        0.0,
+        0.9556,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 21,
@@ -4912,7 +5280,17 @@
         "singing_ratio": 0.053,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.053,
+        0.0938,
+        0.8906,
+        0.0156,
+        0.7619,
+        6,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 22,
@@ -4935,7 +5313,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 23,
@@ -4967,7 +5355,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "内侍带路金殿进，\n见了叔王说分明。"
+          "text": "内侍带路金殿进，"
+        },
+        {
+          "character": "赵德芳",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "见了叔王说分明。"
         },
         {
           "character": "赵德芳",
@@ -5037,7 +5432,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "启奏叔王：我想寇准虽然官卑职小，看那清官册上面，倒也忠心无二。就该金\n牌调他连夜进京，审问此事。"
+          "text": "启奏叔王：我想寇准虽然官卑职小，看那清官册上面，倒也忠心无二。就该金"
+        },
+        {
+          "character": "赵德芳",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "牌调他连夜进京，审问此事。"
         },
         {
           "character": "宋太宗",
@@ -5128,7 +5530,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "也曾下旨提寇准，\n潘、杨之事可审清。"
+          "text": "也曾下旨提寇准，"
+        },
+        {
+          "character": "宋太宗",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "潘、杨之事可审清。"
         },
         {
           "character": null,
@@ -5198,7 +5607,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "是为臣升堂理事，不想潘洪上得堂来，耀武扬威，不肯屈膝。为臣把他好有一\n比！"
+          "text": "是为臣升堂理事，不想潘洪上得堂来，耀武扬威，不肯屈膝。为臣把他好有一"
+        },
+        {
+          "character": "寇准",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "比！"
         },
         {
           "character": "宋太宗",
@@ -5219,7 +5635,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "倚仗他是皇亲丈，\n藐视我主法王章。"
+          "text": "倚仗他是皇亲丈，"
+        },
+        {
+          "character": "寇准",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "藐视我主法王章。"
         },
         {
           "character": "宋太宗",
@@ -5268,14 +5691,35 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "现有老贼真口状，\n还望叔王作主张。"
+          "text": "现有老贼真口状，"
+        },
+        {
+          "character": "赵德芳",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "还望叔王作主张。"
         },
         {
           "character": "宋太宗",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "一见口供实可恨，\n私通外邦害忠臣。\n不该起下不臣心。"
+          "text": "一见口供实可恨，"
+        },
+        {
+          "character": "宋太宗",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "私通外邦害忠臣。"
+        },
+        {
+          "character": "宋太宗",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "不该起下不臣心。"
         },
         {
           "character": "宋太宗",
@@ -5285,7 +5729,14 @@
           "text": "寇卿，替孤传旨，宣杨郡马上殿！"
         },
         {
-          "character": "掌朝太师多荣幸、寇准",
+          "character": "宋太宗",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "掌朝太师多荣幸"
+        },
+        {
+          "character": "寇准",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -5310,10 +5761,38 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "我杨家秉忠心把国来保，\n东西征南北剿立下功劳。\n潘仁美害得我无有下梢。"
+          "text": "我杨家秉忠心把国来保，"
         },
         {
-          "character": "都只为天齐庙打死潘豹、泪汪汪哭上了金阶御道、宋太宗",
+          "character": "杨延昭",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "东西征南北剿立下功劳。"
+        },
+        {
+          "character": "杨延昭",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "潘仁美害得我无有下梢。"
+        },
+        {
+          "character": "杨延昭",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "都只为天齐庙打死潘豹"
+        },
+        {
+          "character": "杨延昭",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "泪汪汪哭上了金阶御道"
+        },
+        {
+          "character": "宋太宗",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
@@ -5471,7 +5950,21 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "贤爷一言来提醒，\n延昭倒作梦中人。\n回府禀知老娘亲。"
+          "text": "贤爷一言来提醒，"
+        },
+        {
+          "character": "杨延昭",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "延昭倒作梦中人。"
+        },
+        {
+          "character": "杨延昭",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "回府禀知老娘亲。"
         },
         {
           "character": null,
@@ -5583,7 +6076,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "哎呀卿家呀！你看万岁有放老贼之意，命你在朝中打探消息，如有动静，速报\n我知！"
+          "text": "哎呀卿家呀！你看万岁有放老贼之意，命你在朝中打探消息，如有动静，速报"
+        },
+        {
+          "character": "赵德芳",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我知！"
         },
         {
           "character": "寇准",
@@ -5660,7 +6160,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "啊二哥，元帅无有差错还则罢了；若有差错，小弟跨马提鞭，杀上午门，与那\n昏王辩理！"
+          "text": "啊二哥，元帅无有差错还则罢了；若有差错，小弟跨马提鞭，杀上午门，与那"
+        },
+        {
+          "character": "焦赞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "昏王辩理！"
         },
         {
           "character": "孟良",
@@ -5744,7 +6251,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "本帅进京，告下御状，圣上将潘洪老贼押在刑部监牢；命本帅原任三关，多加\n俸米钱粮。"
+          "text": "本帅进京，告下御状，圣上将潘洪老贼押在刑部监牢；命本帅原任三关，多加"
+        },
+        {
+          "character": "杨延昭",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "俸米钱粮。"
         },
         {
           "character": "孟良、焦赞",
@@ -5838,7 +6352,17 @@
         "singing_ratio": 0.029,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.029,
+        0.2034,
+        0.7627,
+        0.0339,
+        0.7607,
+        12,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 24,
@@ -6007,7 +6531,17 @@
         "singing_ratio": 0.2,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.2,
+        0.3077,
+        0.6923,
+        0.0,
+        0.75,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 25,
@@ -6199,7 +6733,17 @@
         "singing_ratio": 0.062,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.062,
+        0.0526,
+        0.7895,
+        0.1579,
+        0.8333,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 26,
@@ -7543,7 +8087,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.9735,
+        7,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 27,
@@ -7704,7 +8258,17 @@
         "musical_styles": [
           "西皮原板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.091,
+        0.2143,
+        0.7857,
+        0.0,
+        0.7692,
+        3,
+        0.0714,
+        0.0
+      ]
     },
     {
       "scene_index": 28,
@@ -7861,7 +8425,17 @@
         "singing_ratio": 0.2,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.2,
+        0.1818,
+        0.8182,
+        0.0,
+        0.9,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 29,
@@ -7997,7 +8571,17 @@
         "singing_ratio": 0.2,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.2,
+        0.25,
+        0.75,
+        0.0,
+        0.7273,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 30,
@@ -8069,7 +8653,17 @@
         "singing_ratio": 0.333,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.333,
+        0.3333,
+        0.6667,
+        0.0,
+        1.0,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 31,
@@ -8161,7 +8755,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.8333,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 32,
@@ -8233,7 +8837,17 @@
         "singing_ratio": 0.333,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.333,
+        0.3333,
+        0.6667,
+        0.0,
+        1.0,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 33,
@@ -8325,7 +8939,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.8333,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 34,
@@ -8932,7 +9556,17 @@
         "musical_styles": [
           "二黄碰板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.061,
+        0.1143,
+        0.8857,
+        0.0,
+        0.942,
+        5,
+        0.0,
+        0.0143
+      ]
     },
     {
       "scene_index": 35,
@@ -9247,7 +9881,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.9565,
+        7,
+        0.0,
+        0.0
+      ]
     }
   ]
 }

@@ -226,7 +226,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.9091,
+        0.0909,
+        0.9,
+        7,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -258,7 +268,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "奴家，秦氏。丈夫施洪海。所生一子，名换福禄，年方七岁。丈夫贸易，一去\n三载，渺无音信回来，是奴家放心不下，今闻青峰山飞坡岛山神庙内神灵显应，\n不免命家院施孝，带了娇儿，前去焚香礼拜，保佑儿夫早早回家。\n院公哪里？"
+          "text": "奴家，秦氏。丈夫施洪海。所生一子，名换福禄，年方七岁。丈夫贸易，一去"
+        },
+        {
+          "character": "秦氏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "三载，渺无音信回来，是奴家放心不下，今闻青峰山飞坡岛山神庙内神灵显应，"
+        },
+        {
+          "character": "秦氏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "不免命家院施孝，带了娇儿，前去焚香礼拜，保佑儿夫早早回家。"
+        },
+        {
+          "character": "秦氏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "院公哪里？"
         },
         {
           "character": null,
@@ -307,21 +338,91 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "命你带了福禄，去往青峰山飞坡岛山神庙中焚香礼拜，必须早去早回，听我吩\n咐。"
+          "text": "命你带了福禄，去往青峰山飞坡岛山神庙中焚香礼拜，必须早去早回，听我吩"
+        },
+        {
+          "character": "秦氏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "咐。"
         },
         {
           "character": "秦氏",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "你东人贸易下江南，\n一去三载不见还。\n必须亲身到神前。\n一家骨肉永团圆。\n山峰道路行走难。"
+          "text": "你东人贸易下江南，"
         },
         {
-          "character": "许下焚香礼拜愿、但愿你东人早回转、主仆此去早回转、家院",
+          "character": "秦氏",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "主母但把心放宽，\n千斤重担老奴担。\n去到山中进香烟。"
+          "text": "一去三载不见还。"
+        },
+        {
+          "character": "秦氏",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "必须亲身到神前。"
+        },
+        {
+          "character": "秦氏",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "一家骨肉永团圆。"
+        },
+        {
+          "character": "秦氏",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "山峰道路行走难。"
+        },
+        {
+          "character": "秦氏",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "许下焚香礼拜愿"
+        },
+        {
+          "character": "秦氏",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "但愿你东人早回转"
+        },
+        {
+          "character": "秦氏",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "主仆此去早回转"
+        },
+        {
+          "character": "家院",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "主母但把心放宽，"
+        },
+        {
+          "character": "家院",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "千斤重担老奴担。"
+        },
+        {
+          "character": "家院",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "去到山中进香烟。"
         },
         {
           "character": null,
@@ -357,7 +458,17 @@
         "singing_ratio": 0.333,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.333,
+        0.5417,
+        0.4167,
+        0.0417,
+        0.2609,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -415,7 +526,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "大哥那天在齐化门鸿庆园吃饭，他说本月十六日，是老祖师的生日，总得回终\n南山与吕祖师父拜寿，要是找他，非上终南山不可。"
+          "text": "大哥那天在齐化门鸿庆园吃饭，他说本月十六日，是老祖师的生日，总得回终"
+        },
+        {
+          "character": "苗庆",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "南山与吕祖师父拜寿，要是找他，非上终南山不可。"
         },
         {
           "character": "缴承光",
@@ -429,7 +547,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "不白走吓。见着小塘，兄弟相会。同在一处。若是遇不见小塘，见了吕主师父，\n跟他老人家多少学点真本事，省得整天满街上瞎闹，好不好。"
+          "text": "不白走吓。见着小塘，兄弟相会。同在一处。若是遇不见小塘，见了吕主师父，"
+        },
+        {
+          "character": "苗庆",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "跟他老人家多少学点真本事，省得整天满街上瞎闹，好不好。"
         },
         {
           "character": "缴承光",
@@ -443,10 +568,24 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "身在江湖安良善，\n弟兄同心灭奸权。"
+          "text": "身在江湖安良善，"
         },
         {
-          "character": "此去若把真人见、苗庆",
+          "character": "缴承光",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "弟兄同心灭奸权。"
+        },
+        {
+          "character": "缴承光",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "此去若把真人见"
+        },
+        {
+          "character": "苗庆",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
@@ -479,7 +618,17 @@
         "singing_ratio": 0.3,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.3,
+        0.4,
+        0.6,
+        0.0,
+        0.6429,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 4,
@@ -508,21 +657,42 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "移星换斗束修炼，\n脱化脊背不朝天。"
-        },
-        {
-          "character": "三太子",
-          "line_type": "白",
-          "musical_style": null,
-          "style_family": null,
-          "text": "吾乃白龙三太子是也。今乃金蛟大王生寿之日，进献童女前去拜寿。\n众小妖，一同前往。"
+          "text": "移星换斗束修炼，"
         },
         {
           "character": "三太子",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "喜得童女来进献，\n方得长生庆寿筵。"
+          "text": "脱化脊背不朝天。"
+        },
+        {
+          "character": "三太子",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "吾乃白龙三太子是也。今乃金蛟大王生寿之日，进献童女前去拜寿。"
+        },
+        {
+          "character": "三太子",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "众小妖，一同前往。"
+        },
+        {
+          "character": "三太子",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "喜得童女来进献，"
+        },
+        {
+          "character": "三太子",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "方得长生庆寿筵。"
         },
         {
           "character": null,
@@ -550,7 +720,35 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "孤，金蛟大王是也。坐镇飞坡岛下，金云洞安身，那五湖四海任吾而行，水面\n精灵，尊我为主。吾有一义妹圣姑姑，前者在三教寺兴妖食人，不想被野道济\n小塘掌心雷下丧命。是我怀恨在心，命人寻访，不知野道游方何处，此仇未报。\n这且不言，今当我生寿之期水面仙子，前来上寿，一同畅饮。怎么还不见到\n来，伺候了。"
+          "text": "孤，金蛟大王是也。坐镇飞坡岛下，金云洞安身，那五湖四海任吾而行，水面"
+        },
+        {
+          "character": "金蛟大王",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "精灵，尊我为主。吾有一义妹圣姑姑，前者在三教寺兴妖食人，不想被野道济"
+        },
+        {
+          "character": "金蛟大王",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "小塘掌心雷下丧命。是我怀恨在心，命人寻访，不知野道游方何处，此仇未报。"
+        },
+        {
+          "character": "金蛟大王",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "这且不言，今当我生寿之期水面仙子，前来上寿，一同畅饮。怎么还不见到"
+        },
+        {
+          "character": "金蛟大王",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来，伺候了。"
         },
         {
           "character": null,
@@ -613,7 +811,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "生受你了。\n众位仙子、仙姑请坐。"
+          "text": "生受你了。"
+        },
+        {
+          "character": "金蛟大王",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "众位仙子、仙姑请坐。"
         },
         {
           "character": "赤云仙姑、青云仙姑、浮云仙姑、鲇鱼姥姥",
@@ -627,14 +832,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "众位仙姑，往年生寿，我必食童男童女。今中生寿，有了童女，没有童男，叫\n孤怎生食用？"
+          "text": "众位仙姑，往年生寿，我必食童男童女。今中生寿，有了童女，没有童男，叫"
+        },
+        {
+          "character": "金蛟大王",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "孤怎生食用？"
         },
         {
           "character": "鲇鱼姥姥",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "大王这件事不难，我们在青峰山山神庙施法惑众，那烧香男女老少成行，若有\n七八岁的童男，用风摄一个来，与大王受用，岂不是好？"
+          "text": "大王这件事不难，我们在青峰山山神庙施法惑众，那烧香男女老少成行，若有"
+        },
+        {
+          "character": "鲇鱼姥姥",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "七八岁的童男，用风摄一个来，与大王受用，岂不是好？"
         },
         {
           "character": "三太子、二水怪",
@@ -648,17 +867,45 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "众位仙姑，想孤有一义妹圣姑姑，前者在三教寺，就被这野道掌心雷下丧命。\n我今恼恨在心，他若来时，管教他尸首化为齑粉也。"
+          "text": "众位仙姑，想孤有一义妹圣姑姑，前者在三教寺，就被这野道掌心雷下丧命。"
+        },
+        {
+          "character": "金蛟大王",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我今恼恨在心，他若来时，管教他尸首化为齑粉也。"
         },
         {
           "character": "金蛟大王",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "怒气冲心恨野道，\n害吾义妹赴阴曹。\n碎尸万段定不饶。"
+          "text": "怒气冲心恨野道，"
         },
         {
-          "character": "眼前若遇小塘到、鲇鱼姥姥",
+          "character": "金蛟大王",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "害吾义妹赴阴曹。"
+        },
+        {
+          "character": "金蛟大王",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "碎尸万段定不饶。"
+        },
+        {
+          "character": "金蛟大王",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "眼前若遇小塘到"
+        },
+        {
+          "character": "鲇鱼姥姥",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -735,7 +982,17 @@
         "singing_ratio": 0.071,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.071,
+        0.2647,
+        0.6765,
+        0.0588,
+        0.4242,
+        6,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 5,
@@ -757,7 +1014,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "忠肝义胆灭奸权。\n只学江湖散淡仙。"
+          "text": "忠肝义胆灭奸权。"
+        },
+        {
+          "character": "济小塘",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "只学江湖散淡仙。"
         },
         {
           "character": null,
@@ -792,14 +1056,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "柳仙。师弟，师尊在山中终日思想，命吾寻你回山，一同早到山中，以免恩师\n挂念。"
+          "text": "柳仙。师弟，师尊在山中终日思想，命吾寻你回山，一同早到山中，以免恩师"
+        },
+        {
+          "character": "柳仙",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "挂念。"
         },
         {
           "character": "济小塘",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "吾本当侍奉师尊，奈何当今失道，奸佞掌权，名山洞府，群妖作乱，苦害生灵，\n吾同几家道友，闯走江湖，未能侍奉师尊。"
+          "text": "吾本当侍奉师尊，奈何当今失道，奸佞掌权，名山洞府，群妖作乱，苦害生灵，"
+        },
+        {
+          "character": "济小塘",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "吾同几家道友，闯走江湖，未能侍奉师尊。"
         },
         {
           "character": "柳仙",
@@ -813,7 +1091,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "一名缴承光，一名苗庆。俱是侠义之人。自从京中大闹严嵩府之后，不知他们\n往哪里去了。"
+          "text": "一名缴承光，一名苗庆。俱是侠义之人。自从京中大闹严嵩府之后，不知他们"
+        },
+        {
+          "character": "济小塘",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "往哪里去了。"
         },
         {
           "character": "柳仙",
@@ -862,7 +1147,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "师兄，看前面老少成行，手捧香纸，去哪里烧香还愿。待你我一同前去，看个\n明白。"
+          "text": "师兄，看前面老少成行，手捧香纸，去哪里烧香还愿。待你我一同前去，看个"
+        },
+        {
+          "character": "济小塘",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "明白。"
         },
         {
           "character": "柳仙",
@@ -913,7 +1205,17 @@
         "singing_ratio": 0.375,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.375,
+        0.3182,
+        0.6818,
+        0.0,
+        0.6667,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 6,
@@ -936,7 +1238,28 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "山路难行道路险，\n只为了愿进香烟。\n保佑主人早回还。\n狂风四起满山川。"
+          "text": "山路难行道路险，"
+        },
+        {
+          "character": "福禄",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "只为了愿进香烟。"
+        },
+        {
+          "character": "福禄",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "保佑主人早回还。"
+        },
+        {
+          "character": "福禄",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "狂风四起满山川。"
         },
         {
           "character": null,
@@ -950,7 +1273,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "吓，你这妖人，把我家小东人，抢到哪里去了，快快还我小东人便罢，如若不\n然我这老命就不要了。"
+          "text": "吓，你这妖人，把我家小东人，抢到哪里去了，快快还我小东人便罢，如若不"
+        },
+        {
+          "character": "家院",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "然我这老命就不要了。"
         },
         {
           "character": "济小塘",
@@ -990,7 +1320,17 @@
         "singing_ratio": 0.25,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.25,
+        0.5714,
+        0.4286,
+        0.0,
+        0.3333,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 7,
@@ -1057,7 +1397,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "大哥那天在齐化门鸿庆园吃饭，他说本月十六日，是老祖师的生日，总得回终\n南山与吕祖师父拜寿，要是找他，非上终南山不可。"
+          "text": "大哥那天在齐化门鸿庆园吃饭，他说本月十六日，是老祖师的生日，总得回终"
+        },
+        {
+          "character": "苗庆",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "南山与吕祖师父拜寿，要是找他，非上终南山不可。"
         },
         {
           "character": "缴承光",
@@ -1071,7 +1418,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "不白走吓。见着小塘，兄弟相会。同在一处。若是遇不见小塘，见了吕主师父，\n跟他老人家多少学点真本事，省得整天满街上瞎闹，好不好。"
+          "text": "不白走吓。见着小塘，兄弟相会。同在一处。若是遇不见小塘，见了吕主师父，"
+        },
+        {
+          "character": "苗庆",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "跟他老人家多少学点真本事，省得整天满街上瞎闹，好不好。"
         },
         {
           "character": "缴承光",
@@ -1085,10 +1439,24 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "身在江湖安良善，\n弟兄同心灭奸权。"
+          "text": "身在江湖安良善，"
         },
         {
-          "character": "此去若把真人见、苗庆",
+          "character": "缴承光",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "弟兄同心灭奸权。"
+        },
+        {
+          "character": "缴承光",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "此去若把真人见"
+        },
+        {
+          "character": "苗庆",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
@@ -1113,21 +1481,42 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "移星换斗束修炼，\n脱化脊背不朝天。"
-        },
-        {
-          "character": "三太子",
-          "line_type": "白",
-          "musical_style": null,
-          "style_family": null,
-          "text": "吾乃白龙三太子是也。今乃金蛟大王生寿之日，进献童女前去拜寿。\n众小妖，一同前往。"
+          "text": "移星换斗束修炼，"
         },
         {
           "character": "三太子",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "喜得童女来进献，\n方得长生庆寿筵。"
+          "text": "脱化脊背不朝天。"
+        },
+        {
+          "character": "三太子",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "吾乃白龙三太子是也。今乃金蛟大王生寿之日，进献童女前去拜寿。"
+        },
+        {
+          "character": "三太子",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "众小妖，一同前往。"
+        },
+        {
+          "character": "三太子",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "喜得童女来进献，"
+        },
+        {
+          "character": "三太子",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "方得长生庆寿筵。"
         },
         {
           "character": null,
@@ -1155,7 +1544,35 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "孤，金蛟大王是也。坐镇飞坡岛下，金云洞安身，那五湖四海任吾而行，水面\n精灵，尊我为主。吾有一义妹圣姑姑，前者在三教寺兴妖食人，不想被野道济\n小塘掌心雷下丧命。是我怀恨在心，命人寻访，不知野道游方何处，此仇未报。\n这且不言，今当我生寿之期水面仙子，前来上寿，一同畅饮。怎么还不见到\n来，伺候了。"
+          "text": "孤，金蛟大王是也。坐镇飞坡岛下，金云洞安身，那五湖四海任吾而行，水面"
+        },
+        {
+          "character": "金蛟大王",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "精灵，尊我为主。吾有一义妹圣姑姑，前者在三教寺兴妖食人，不想被野道济"
+        },
+        {
+          "character": "金蛟大王",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "小塘掌心雷下丧命。是我怀恨在心，命人寻访，不知野道游方何处，此仇未报。"
+        },
+        {
+          "character": "金蛟大王",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "这且不言，今当我生寿之期水面仙子，前来上寿，一同畅饮。怎么还不见到"
+        },
+        {
+          "character": "金蛟大王",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来，伺候了。"
         },
         {
           "character": null,
@@ -1218,7 +1635,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "生受你了。\n众位仙子、仙姑请坐。"
+          "text": "生受你了。"
+        },
+        {
+          "character": "金蛟大王",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "众位仙子、仙姑请坐。"
         },
         {
           "character": "赤云仙姑、青云仙姑、浮云仙姑、鲇鱼姥姥",
@@ -1232,14 +1656,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "众位仙姑，往年生寿，我必食童男童女。今中生寿，有了童女，没有童男，叫\n孤怎生食用？"
+          "text": "众位仙姑，往年生寿，我必食童男童女。今中生寿，有了童女，没有童男，叫"
+        },
+        {
+          "character": "金蛟大王",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "孤怎生食用？"
         },
         {
           "character": "鲇鱼姥姥",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "大王这件事不难，我们在青峰山山神庙施法惑众，那烧香男女老少成行，若有\n七八岁的童男，用风摄一个来，与大王受用，岂不是好？"
+          "text": "大王这件事不难，我们在青峰山山神庙施法惑众，那烧香男女老少成行，若有"
+        },
+        {
+          "character": "鲇鱼姥姥",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "七八岁的童男，用风摄一个来，与大王受用，岂不是好？"
         },
         {
           "character": "三太子、二水怪",
@@ -1253,17 +1691,45 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "众位仙姑，想孤有一义妹圣姑姑，前者在三教寺，就被这野道掌心雷下丧命。\n我今恼恨在心，他若来时，管教他尸首化为齑粉也。"
+          "text": "众位仙姑，想孤有一义妹圣姑姑，前者在三教寺，就被这野道掌心雷下丧命。"
+        },
+        {
+          "character": "金蛟大王",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我今恼恨在心，他若来时，管教他尸首化为齑粉也。"
         },
         {
           "character": "金蛟大王",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "怒气冲心恨野道，\n害吾义妹赴阴曹。\n碎尸万段定不饶。"
+          "text": "怒气冲心恨野道，"
         },
         {
-          "character": "眼前若遇小塘到、鲇鱼姥姥",
+          "character": "金蛟大王",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "害吾义妹赴阴曹。"
+        },
+        {
+          "character": "金蛟大王",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "碎尸万段定不饶。"
+        },
+        {
+          "character": "金蛟大王",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "眼前若遇小塘到"
+        },
+        {
+          "character": "鲇鱼姥姥",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -1340,7 +1806,17 @@
         "singing_ratio": 0.15,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.15,
+        0.3061,
+        0.6531,
+        0.0408,
+        0.5,
+        8,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 8,
@@ -1362,7 +1838,21 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "深滩安排生寿宴，\n得来男童带血餐。\n消遥自在乐安然。"
+          "text": "深滩安排生寿宴，"
+        },
+        {
+          "character": "金蛟大王",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "得来男童带血餐。"
+        },
+        {
+          "character": "金蛟大王",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "消遥自在乐安然。"
         },
         {
           "character": null,
@@ -1390,14 +1880,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "别提了。我们到了山场，就来了一个童男，长的清秀，似那童女，天生一对，\n刚刚到手，来了个野道，名唤济小塘，张手就是一雷，把我击回来了。"
+          "text": "别提了。我们到了山场，就来了一个童男，长的清秀，似那童女，天生一对，"
+        },
+        {
+          "character": "鲇鱼姥姥",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "刚刚到手，来了个野道，名唤济小塘，张手就是一雷，把我击回来了。"
         },
         {
           "character": "金蛟大王",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "众家仙姑仙子，前在三教寺，将俺义妹圣姑姑掌心雷下丧命，俺今正要拿他，\n他自投罗网，但不知他今在哪里？"
+          "text": "众家仙姑仙子，前在三教寺，将俺义妹圣姑姑掌心雷下丧命，俺今正要拿他，"
+        },
+        {
+          "character": "金蛟大王",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "他自投罗网，但不知他今在哪里？"
         },
         {
           "character": "鲇鱼姥姥",
@@ -1440,7 +1944,17 @@
         "singing_ratio": 0.143,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.143,
+        0.2727,
+        0.7273,
+        0.0,
+        0.6,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 9,
@@ -1477,7 +1991,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "不妨。唤五鬼前来擒他便了。\n吾奉混元法旨，五鬼速献。"
+          "text": "不妨。唤五鬼前来擒他便了。"
+        },
+        {
+          "character": "济小塘",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "吾奉混元法旨，五鬼速献。"
         },
         {
           "character": null,
@@ -1552,7 +2073,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.8333,
+        3,
+        0.0,
+        0.0
+      ]
     }
   ]
 }

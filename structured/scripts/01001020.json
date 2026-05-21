@@ -85,14 +85,35 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "在下张文远，今拜宋江门下为徒。我与那阎婆惜眉来眼去，两下苟合。今日闲\n暇无事，不免到乌龙院走走。"
+          "text": "在下张文远，今拜宋江门下为徒。我与那阎婆惜眉来眼去，两下苟合。今日闲"
+        },
+        {
+          "character": "张文远",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "暇无事，不免到乌龙院走走。"
         },
         {
           "character": "张文远",
           "line_type": "二黄平板",
           "musical_style": "二黄平板",
           "style_family": "二黄",
-          "text": "摇摇摆摆摆摆摇，\n摇摇摆摆过小桥。\n叫声大姐快开门。"
+          "text": "摇摇摆摆摆摆摇，"
+        },
+        {
+          "character": "张文远",
+          "line_type": "二黄平板",
+          "musical_style": "二黄平板",
+          "style_family": "二黄",
+          "text": "摇摇摆摆过小桥。"
+        },
+        {
+          "character": "张文远",
+          "line_type": "二黄平板",
+          "musical_style": "二黄平板",
+          "style_family": "二黄",
+          "text": "叫声大姐快开门。"
         },
         {
           "character": "张文远",
@@ -102,7 +123,14 @@
           "text": "大姐开门来！"
         },
         {
-          "character": "一步儿来至在乌龙院、阎惜姣",
+          "character": "张文远",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "一步儿来至在乌龙院"
+        },
+        {
+          "character": "阎惜姣",
           "line_type": "内白",
           "musical_style": null,
           "style_family": null,
@@ -120,7 +148,14 @@
           "line_type": "二黄平板",
           "musical_style": "二黄平板",
           "style_family": "二黄",
-          "text": "忽听得双环响一声，\n不知来的是何人。"
+          "text": "忽听得双环响一声，"
+        },
+        {
+          "character": "阎惜姣",
+          "line_type": "二黄平板",
+          "musical_style": "二黄平板",
+          "style_family": "二黄",
+          "text": "不知来的是何人。"
         },
         {
           "character": null,
@@ -441,7 +476,17 @@
           "二黄",
           "二黄平板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.214,
+        0.2745,
+        0.6667,
+        0.0588,
+        0.8,
+        2,
+        0.0,
+        0.2745
+      ]
     },
     {
       "scene_index": 2,
@@ -479,7 +524,14 @@
           "line_type": "二黄平板",
           "musical_style": "二黄平板",
           "style_family": "二黄",
-          "text": "大老爷打罢了退堂鼓，\n衙前来了宋公明。"
+          "text": "大老爷打罢了退堂鼓，"
+        },
+        {
+          "character": "宋江",
+          "line_type": "二黄平板",
+          "musical_style": "二黄平板",
+          "style_family": "二黄",
+          "text": "衙前来了宋公明。"
         },
         {
           "character": "宋江",
@@ -493,7 +545,21 @@
           "line_type": "二黄平板",
           "musical_style": "二黄平板",
           "style_family": "二黄",
-          "text": "那一日打从在大街上，\n偶遇好汉叫刘唐。\n请我梁山去为王。"
+          "text": "那一日打从在大街上，"
+        },
+        {
+          "character": "宋江",
+          "line_type": "二黄平板",
+          "musical_style": "二黄平板",
+          "style_family": "二黄",
+          "text": "偶遇好汉叫刘唐。"
+        },
+        {
+          "character": "宋江",
+          "line_type": "二黄平板",
+          "musical_style": "二黄平板",
+          "style_family": "二黄",
+          "text": "请我梁山去为王。"
         },
         {
           "character": null,
@@ -521,14 +587,42 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "哎呀，且住。听他们街坊邻舍言道：“前面走的张文远，后面跟随宋公明。师\n徒二人，同走一条道路。”莫非张文远这小奴才，也到乌龙院中走走。嗳，是\n非终朝有，不听自然无。"
+          "text": "哎呀，且住。听他们街坊邻舍言道：“前面走的张文远，后面跟随宋公明。师"
+        },
+        {
+          "character": "宋江",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "徒二人，同走一条道路。”莫非张文远这小奴才，也到乌龙院中走走。嗳，是"
+        },
+        {
+          "character": "宋江",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "非终朝有，不听自然无。"
         },
         {
           "character": "宋江",
           "line_type": "二黄平板",
           "musical_style": "二黄平板",
           "style_family": "二黄",
-          "text": "自古道是非终朝有，\n耳不听来自然无。\n青天白日把门关。"
+          "text": "自古道是非终朝有，"
+        },
+        {
+          "character": "宋江",
+          "line_type": "二黄平板",
+          "musical_style": "二黄平板",
+          "style_family": "二黄",
+          "text": "耳不听来自然无。"
+        },
+        {
+          "character": "宋江",
+          "line_type": "二黄平板",
+          "musical_style": "二黄平板",
+          "style_family": "二黄",
+          "text": "青天白日把门关。"
         },
         {
           "character": "宋江",
@@ -689,14 +783,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "不是啊。宋大爷往日进得院来，扫地挂画。今日进得院来，地也不扫，画也不\n挂。来个朋友，像个什么样儿？"
+          "text": "不是啊。宋大爷往日进得院来，扫地挂画。今日进得院来，地也不扫，画也不"
+        },
+        {
+          "character": "宋江",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "挂。来个朋友，像个什么样儿？"
         },
         {
           "character": "阎惜姣",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "宋大爷，我啊不知道你今天要来。我知道你要来呀，地也扫了，画也挂了。我\n没打算你来。"
+          "text": "宋大爷，我啊不知道你今天要来。我知道你要来呀，地也扫了，画也挂了。我"
+        },
+        {
+          "character": "阎惜姣",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "没打算你来。"
         },
         {
           "character": "宋江",
@@ -717,21 +825,49 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "哎，大姐，这就是你的不是了。宋大爷进得院来，你就该搬个椅儿过来，让你\n宋大爷坐下，才是你的道理。怎么你自己倒先坐下了。轻慢你宋大爷，怠慢你\n宋大爷，真是岂有此理！"
-        },
-        {
-          "character": "阎惜姣",
-          "line_type": "白",
-          "musical_style": null,
-          "style_family": null,
-          "text": "宋大爷，这边有的是凳子，那边有的是椅子，自己不会坐下，难道叫我搂住你，\n抱住你？来来来吃点奶奶吧？"
+          "text": "哎，大姐，这就是你的不是了。宋大爷进得院来，你就该搬个椅儿过来，让你"
         },
         {
           "character": "宋江",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "哎呀呀，这倒不消了。哎呀，是啊。这边有的是凳子，那边有的是椅子，我自\n己不会坐下，难道叫她搂住我，抱住我，自讨无趣？待我自己坐下。"
+          "text": "宋大爷坐下，才是你的道理。怎么你自己倒先坐下了。轻慢你宋大爷，怠慢你"
+        },
+        {
+          "character": "宋江",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "宋大爷，真是岂有此理！"
+        },
+        {
+          "character": "阎惜姣",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "宋大爷，这边有的是凳子，那边有的是椅子，自己不会坐下，难道叫我搂住你，"
+        },
+        {
+          "character": "阎惜姣",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "抱住你？来来来吃点奶奶吧？"
+        },
+        {
+          "character": "宋江",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "哎呀呀，这倒不消了。哎呀，是啊。这边有的是凳子，那边有的是椅子，我自"
+        },
+        {
+          "character": "宋江",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "己不会坐下，难道叫她搂住我，抱住我，自讨无趣？待我自己坐下。"
         },
         {
           "character": null,
@@ -1074,7 +1210,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "宋大爷往日进得院来，你欢天喜地。今日进得院来，面带忧愁，莫非有什么心\n事不成？"
+          "text": "宋大爷往日进得院来，你欢天喜地。今日进得院来，面带忧愁，莫非有什么心"
+        },
+        {
+          "character": "宋江",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "事不成？"
         },
         {
           "character": "阎惜姣",
@@ -1151,7 +1294,21 @@
           "line_type": "二黄平板",
           "musical_style": "二黄平板",
           "style_family": "二黄",
-          "text": "宋公明打坐在乌龙院，\n猜一猜大姐肺腑情。\n莫不是茶饭不随你的口？"
+          "text": "宋公明打坐在乌龙院，"
+        },
+        {
+          "character": "宋江",
+          "line_type": "二黄平板",
+          "musical_style": "二黄平板",
+          "style_family": "二黄",
+          "text": "猜一猜大姐肺腑情。"
+        },
+        {
+          "character": "宋江",
+          "line_type": "二黄平板",
+          "musical_style": "二黄平板",
+          "style_family": "二黄",
+          "text": "莫不是茶饭不随你的口？"
         },
         {
           "character": "阎惜姣",
@@ -1270,7 +1427,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "想那街坊是好街坊，邻居是好邻居。慢说我得罪不着他们，就是得罪他们，还\n要看宋大爷三分金面。不是的。"
+          "text": "想那街坊是好街坊，邻居是好邻居。慢说我得罪不着他们，就是得罪他们，还"
+        },
+        {
+          "character": "阎惜姣",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "要看宋大爷三分金面。不是的。"
         },
         {
           "character": "宋江",
@@ -1466,7 +1630,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "清早起来，头也不梳，脚也不裹。前厅跑到后院，后院跑到厨房。左手拿一盆\n凉水，右手拿住蒜瓣。喝口凉水，咬口蒜瓣……"
+          "text": "清早起来，头也不梳，脚也不裹。前厅跑到后院，后院跑到厨房。左手拿一盆"
+        },
+        {
+          "character": "阎惜姣",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "凉水，右手拿住蒜瓣。喝口凉水，咬口蒜瓣……"
         },
         {
           "character": "宋江",
@@ -1522,10 +1693,31 @@
           "line_type": "二黄平板",
           "musical_style": "二黄平板",
           "style_family": "二黄",
-          "text": "怪不得大姐人谈论，\n道你的言语不中听。\n说出口来你难为人！"
+          "text": "怪不得大姐人谈论，"
         },
         {
-          "character": "话到舌尖留半句、阎惜姣",
+          "character": "宋江",
+          "line_type": "二黄平板",
+          "musical_style": "二黄平板",
+          "style_family": "二黄",
+          "text": "道你的言语不中听。"
+        },
+        {
+          "character": "宋江",
+          "line_type": "二黄平板",
+          "musical_style": "二黄平板",
+          "style_family": "二黄",
+          "text": "说出口来你难为人！"
+        },
+        {
+          "character": "宋江",
+          "line_type": "二黄平板",
+          "musical_style": "二黄平板",
+          "style_family": "二黄",
+          "text": "话到舌尖留半句"
+        },
+        {
+          "character": "阎惜姣",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -1627,7 +1819,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "张文远！张文远！你的心事，我会猜不着！提起那张文远，你看他这个样儿，\n叫我们花钱的老爷们，好不寒心哪！"
+          "text": "张文远！张文远！你的心事，我会猜不着！提起那张文远，你看他这个样儿，"
+        },
+        {
+          "character": "宋江",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "叫我们花钱的老爷们，好不寒心哪！"
         },
         {
           "character": "阎惜姣",
@@ -1648,7 +1847,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "哎呀，他怎么会晓得了？这怎么好？有呢，待我去灌灌米汤。哎呀，我说这个\n宋大爷……"
+          "text": "哎呀，他怎么会晓得了？这怎么好？有呢，待我去灌灌米汤。哎呀，我说这个"
+        },
+        {
+          "character": "阎惜姣",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "宋大爷……"
         },
         {
           "character": "宋江",
@@ -1676,7 +1882,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "哎呀，宋先生……不好，还是宋大爷……，我说宋大爷，我不会吃酒，清早起\n来，吃了几杯早酒，酒言酒语，得罪你了。我跟你闹着玩的。谁晓得你不经玩，\n一玩就炸呢！哎呀，我说宋大爷啊！"
+          "text": "哎呀，宋先生……不好，还是宋大爷……，我说宋大爷，我不会吃酒，清早起"
+        },
+        {
+          "character": "阎惜姣",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来，吃了几杯早酒，酒言酒语，得罪你了。我跟你闹着玩的。谁晓得你不经玩，"
+        },
+        {
+          "character": "阎惜姣",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "一玩就炸呢！哎呀，我说宋大爷啊！"
         },
         {
           "character": "宋江",
@@ -1741,7 +1961,17 @@
           "西皮快板",
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.026,
+        0.1244,
+        0.8756,
+        0.0,
+        0.7552,
+        3,
+        0.0,
+        0.1244
+      ]
     }
   ]
 }

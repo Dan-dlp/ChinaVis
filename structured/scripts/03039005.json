@@ -157,7 +157,42 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "本院、莫豪。爹爹莫怀古。只因我父上京补官，不知为了何事，冒犯严府，在\n蓟州堂上，一命身亡。严府二次又有文书到来，将我母子发往边外充军。多亏\n义仆之子文禄顶名代罪。是我改名白元，跟随方先生江右攻读，已有七载。上\n京赴试，才得平步身荣。蒙圣恩钦放巡按，部院军民两管。因此牌发蓟州，寻\n他一个错处，好与我爹爹报仇。\n门子！"
+          "text": "本院、莫豪。爹爹莫怀古。只因我父上京补官，不知为了何事，冒犯严府，在"
+        },
+        {
+          "character": "莫豪",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "蓟州堂上，一命身亡。严府二次又有文书到来，将我母子发往边外充军。多亏"
+        },
+        {
+          "character": "莫豪",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "义仆之子文禄顶名代罪。是我改名白元，跟随方先生江右攻读，已有七载。上"
+        },
+        {
+          "character": "莫豪",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "京赴试，才得平步身荣。蒙圣恩钦放巡按，部院军民两管。因此牌发蓟州，寻"
+        },
+        {
+          "character": "莫豪",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "他一个错处，好与我爹爹报仇。"
+        },
+        {
+          "character": "莫豪",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "门子！"
         },
         {
           "character": "门子",
@@ -218,7 +253,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0833,
+        0.8333,
+        0.0833,
+        0.3636,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -239,21 +284,91 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "昔日补官上帝邦，\n可恨奸佞起不良。\n悲思常忧泪两行。"
-        },
-        {
-          "character": "莫怀古",
-          "line_type": "白",
-          "musical_style": null,
-          "style_family": null,
-          "text": "下官、莫怀古。因上京补官，可恨汤勤那贼，在严爷面前搬动是非，道我隐瞒\n皇家器皿，有误国欺君之罪。是我闻听此言，弃官而逃。又被严府校尉在蓟州\n将我拿获。多亏义仆莫成替我丧命。又蒙戚贤弟修书一封，将我荐到边庭他的\n门生那里，隐姓埋名，已有七载。今戚贤弟有书信前来，叫我回去。为此一路\n而来，已离蓟州不远。速速趱行便了！"
+          "text": "昔日补官上帝邦，"
         },
         {
           "character": "莫怀古",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "一日行程一日深，\n好似孤雁宿寒林。\n害我夫妻两分离。\n逃往边庭隐姓名。\n因此投奔蓟州城。"
+          "text": "可恨奸佞起不良。"
+        },
+        {
+          "character": "莫怀古",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "悲思常忧泪两行。"
+        },
+        {
+          "character": "莫怀古",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "下官、莫怀古。因上京补官，可恨汤勤那贼，在严爷面前搬动是非，道我隐瞒"
+        },
+        {
+          "character": "莫怀古",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "皇家器皿，有误国欺君之罪。是我闻听此言，弃官而逃。又被严府校尉在蓟州"
+        },
+        {
+          "character": "莫怀古",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "将我拿获。多亏义仆莫成替我丧命。又蒙戚贤弟修书一封，将我荐到边庭他的"
+        },
+        {
+          "character": "莫怀古",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "门生那里，隐姓埋名，已有七载。今戚贤弟有书信前来，叫我回去。为此一路"
+        },
+        {
+          "character": "莫怀古",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "而来，已离蓟州不远。速速趱行便了！"
+        },
+        {
+          "character": "莫怀古",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "一日行程一日深，"
+        },
+        {
+          "character": "莫怀古",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "好似孤雁宿寒林。"
+        },
+        {
+          "character": "莫怀古",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "害我夫妻两分离。"
+        },
+        {
+          "character": "莫怀古",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "逃往边庭隐姓名。"
+        },
+        {
+          "character": "莫怀古",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "因此投奔蓟州城。"
         },
         {
           "character": null,
@@ -273,7 +388,17 @@
         "singing_ratio": 0.5,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.5,
+        0.6154,
+        0.3846,
+        0.0,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -316,7 +441,49 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "老身、傅氏。配夫莫怀古。只因我家老爷上京补官，不知为了何事，冒犯严府。\n可叹我老爷在蓟州堂上，一命身亡。严府二次又有公文到来，将我母子发往\n边外充军。多亏义仆之子文禄，与我那莫豪孩儿顶名代替，我那莫豪孩儿随方\n先生江右攻读去了。幸遇皇恩大赦，我主仆才得回来。昨日在店中住宿一宵。\n今日早起，趱路要紧。闻听人言，我家老爷坟墓在蓟州西门以外柳林之下。此\n地离蓟州不远，不免前去看看我老爷的坟墓。\n文禄哪里？"
+          "text": "老身、傅氏。配夫莫怀古。只因我家老爷上京补官，不知为了何事，冒犯严府。"
+        },
+        {
+          "character": "傅氏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "可叹我老爷在蓟州堂上，一命身亡。严府二次又有公文到来，将我母子发往"
+        },
+        {
+          "character": "傅氏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "边外充军。多亏义仆之子文禄，与我那莫豪孩儿顶名代替，我那莫豪孩儿随方"
+        },
+        {
+          "character": "傅氏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "先生江右攻读去了。幸遇皇恩大赦，我主仆才得回来。昨日在店中住宿一宵。"
+        },
+        {
+          "character": "傅氏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "今日早起，趱路要紧。闻听人言，我家老爷坟墓在蓟州西门以外柳林之下。此"
+        },
+        {
+          "character": "傅氏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "地离蓟州不远，不免前去看看我老爷的坟墓。"
+        },
+        {
+          "character": "傅氏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "文禄哪里？"
         },
         {
           "character": "莫文禄",
@@ -393,7 +560,35 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "自从老爷离帝京，\n蓟州堂上丧残生。\n将我母子问充军。\n主仆才得转回程。\n两足疼痛步难行。"
+          "text": "自从老爷离帝京，"
+        },
+        {
+          "character": "傅氏",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "蓟州堂上丧残生。"
+        },
+        {
+          "character": "傅氏",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "将我母子问充军。"
+        },
+        {
+          "character": "傅氏",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "主仆才得转回程。"
+        },
+        {
+          "character": "傅氏",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "两足疼痛步难行。"
         },
         {
           "character": "傅氏",
@@ -403,7 +598,28 @@
           "text": "文禄！"
         },
         {
-          "character": "严府二次文书到、皇恩赦诏得侥幸、鞋弓袜小把路奔、莫文禄",
+          "character": "傅氏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "严府二次文书到"
+        },
+        {
+          "character": "傅氏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "皇恩赦诏得侥幸"
+        },
+        {
+          "character": "傅氏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "鞋弓袜小把路奔"
+        },
+        {
+          "character": "莫文禄",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -463,7 +679,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "借重了。\n啊奶奶，这就是蓟州西门以外，柳林之下。"
+          "text": "借重了。"
+        },
+        {
+          "character": "莫文禄",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "啊奶奶，这就是蓟州西门以外，柳林之下。"
         },
         {
           "character": "傅氏",
@@ -491,7 +714,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "“明故太常寺正卿莫公之墓”。\n奶奶，爷爷的坟墓就在这里。"
+          "text": "“明故太常寺正卿莫公之墓”。"
+        },
+        {
+          "character": "莫文禄",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "奶奶，爷爷的坟墓就在这里。"
         },
         {
           "character": "傅氏",
@@ -533,7 +763,42 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "一见坟墓珠泪滚，\n好似钢刀刺我心。\n又谁知蓟州堂上命归阴。\n谁知今朝两离分。\n老爷呀！\n再要相逢万不能。"
+          "text": "一见坟墓珠泪滚，"
+        },
+        {
+          "character": "傅氏",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "好似钢刀刺我心。"
+        },
+        {
+          "character": "傅氏",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "又谁知蓟州堂上命归阴。"
+        },
+        {
+          "character": "傅氏",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "谁知今朝两离分。"
+        },
+        {
+          "character": "傅氏",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "老爷呀！"
+        },
+        {
+          "character": "傅氏",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "再要相逢万不能。"
         },
         {
           "character": null,
@@ -547,7 +812,21 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "乘马来至在柳林，\n阴风阵阵好惊人。\n管家坟墓哪厢存？"
+          "text": "乘马来至在柳林，"
+        },
+        {
+          "character": "莫怀古",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "阴风阵阵好惊人。"
+        },
+        {
+          "character": "莫怀古",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "管家坟墓哪厢存？"
         },
         {
           "character": "莫怀古",
@@ -575,7 +854,21 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "一见坟墓泪珠滚，\n黄土埋葬小莫成。\n坟前祭拜在天灵。"
+          "text": "一见坟墓泪珠滚，"
+        },
+        {
+          "character": "莫怀古",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "黄土埋葬小莫成。"
+        },
+        {
+          "character": "莫怀古",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "坟前祭拜在天灵。"
         },
         {
           "character": null,
@@ -603,7 +896,28 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "恨奸贼把我的牙咬坏，\n屈害忠良为何来？\n奸贼呀！\n你死我亡两丢开！"
+          "text": "恨奸贼把我的牙咬坏，"
+        },
+        {
+          "character": "莫怀古",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "屈害忠良为何来？"
+        },
+        {
+          "character": "莫怀古",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "奸贼呀！"
+        },
+        {
+          "character": "莫怀古",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "你死我亡两丢开！"
         },
         {
           "character": null,
@@ -659,7 +973,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "哎呀老爷呀，我是前来看你的坟墓，痛哭你一场，我主仆还要趱路，你不要吓\n我，你不要吓我呀！"
+          "text": "哎呀老爷呀，我是前来看你的坟墓，痛哭你一场，我主仆还要趱路，你不要吓"
+        },
+        {
+          "character": "傅氏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我，你不要吓我呀！"
         },
         {
           "character": "莫怀古",
@@ -820,10 +1141,38 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "听说莫成命丧了，\n不由老身泪双抛。\n莫成啊！\n留下美名万载标。"
+          "text": "听说莫成命丧了，"
         },
         {
-          "character": "这样义仆世间少、莫怀古",
+          "character": "傅氏",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "不由老身泪双抛。"
+        },
+        {
+          "character": "傅氏",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "莫成啊！"
+        },
+        {
+          "character": "傅氏",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "留下美名万载标。"
+        },
+        {
+          "character": "傅氏",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "这样义仆世间少"
+        },
+        {
+          "character": "莫怀古",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -834,7 +1183,35 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "老爷哪里知道，自从你走之后，闻听人言，你冒犯严府，命丧蓟州。严府二次\n有公文到来，将我母子发往边外充军。多亏义仆之子文禄与莫豪孩儿顶名代替，\n你我的孩儿跟随方先生江右攻读去了。我主仆幸遇皇恩大赦，才得回来。又\n闻听人言，老爷坟墓在这西门以外柳林之下。故此前来看扫。不想老爷也来到\n此地，夫妻到在这里相会了。文禄他、他、他……也来了。"
+          "text": "老爷哪里知道，自从你走之后，闻听人言，你冒犯严府，命丧蓟州。严府二次"
+        },
+        {
+          "character": "傅氏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "有公文到来，将我母子发往边外充军。多亏义仆之子文禄与莫豪孩儿顶名代替，"
+        },
+        {
+          "character": "傅氏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "你我的孩儿跟随方先生江右攻读去了。我主仆幸遇皇恩大赦，才得回来。又"
+        },
+        {
+          "character": "傅氏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "闻听人言，老爷坟墓在这西门以外柳林之下。故此前来看扫。不想老爷也来到"
+        },
+        {
+          "character": "傅氏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "此地，夫妻到在这里相会了。文禄他、他、他……也来了。"
         },
         {
           "character": "莫怀古",
@@ -876,7 +1253,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "我爷爷回来了？\n啊爷爷回来了！"
+          "text": "我爷爷回来了？"
+        },
+        {
+          "character": "莫文禄",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "啊爷爷回来了！"
         },
         {
           "character": "莫怀古",
@@ -904,7 +1288,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "待我看来。\n爹爹，你怎么还不回来呀？你孩儿在此盼望于你。\n啊爷爷，我爹爹怎么还不见回来，他往哪里去了？"
+          "text": "待我看来。"
+        },
+        {
+          "character": "莫文禄",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "爹爹，你怎么还不回来呀？你孩儿在此盼望于你。"
+        },
+        {
+          "character": "莫文禄",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "啊爷爷，我爹爹怎么还不见回来，他往哪里去了？"
         },
         {
           "character": "莫怀古",
@@ -953,7 +1351,35 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "一见坟墓珠泪滚，\n好似钢刀刺我心。\n七岁又死父天伦。\n爹爹呀！\n抛下孩儿靠何人？"
+          "text": "一见坟墓珠泪滚，"
+        },
+        {
+          "character": "莫文禄",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "好似钢刀刺我心。"
+        },
+        {
+          "character": "莫文禄",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "七岁又死父天伦。"
+        },
+        {
+          "character": "莫文禄",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "爹爹呀！"
+        },
+        {
+          "character": "莫文禄",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "抛下孩儿靠何人？"
         },
         {
           "character": "莫文禄",
@@ -995,7 +1421,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "七魄茫茫又还魂。\n阴阳阻隔在柳林。"
+          "text": "七魄茫茫又还魂。"
+        },
+        {
+          "character": "莫文禄",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "阴阳阻隔在柳林。"
         },
         {
           "character": "莫文禄",
@@ -1023,14 +1456,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "儿呀，你爹爹已死，焉能复生？不必哭了。\n啊夫人，我有意把文禄收在膝下，以为螟蛉义子，不知夫人意下如何？"
+          "text": "儿呀，你爹爹已死，焉能复生？不必哭了。"
+        },
+        {
+          "character": "莫怀古",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "啊夫人，我有意把文禄收在膝下，以为螟蛉义子，不知夫人意下如何？"
         },
         {
           "character": "傅氏",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "待妾身当面问来。\n文禄，你爷爷有意将你收在膝下，以为螟蛉义子，不知你意下如何？"
+          "text": "待妾身当面问来。"
+        },
+        {
+          "character": "傅氏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "文禄，你爷爷有意将你收在膝下，以为螟蛉义子，不知你意下如何？"
         },
         {
           "character": "莫文禄",
@@ -1051,7 +1498,21 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "双膝跪在地埃尘，\n拜谢爹娘收育恩。\n从今只当你亲生。"
+          "text": "双膝跪在地埃尘，"
+        },
+        {
+          "character": "莫文禄",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "拜谢爹娘收育恩。"
+        },
+        {
+          "character": "莫文禄",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "从今只当你亲生。"
         },
         {
           "character": "莫文禄",
@@ -1061,11 +1522,25 @@
           "text": "哎呀爹爹呀！"
         },
         {
-          "character": "孩儿年幼要教训、莫怀古",
+          "character": "莫文禄",
+          "line_type": "哭",
+          "musical_style": null,
+          "style_family": null,
+          "text": "孩儿年幼要教训"
+        },
+        {
+          "character": "莫怀古",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "儿呀，不要哭了。\n夫人，此地离蓟州不远，你我且到戚贤弟衙内暂住几日，再作道理。"
+          "text": "儿呀，不要哭了。"
+        },
+        {
+          "character": "莫怀古",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "夫人，此地离蓟州不远，你我且到戚贤弟衙内暂住几日，再作道理。"
         },
         {
           "character": "傅氏",
@@ -1107,7 +1582,21 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "好一个文禄小姣生，\n与他爹爹是一样人。\n难忘却他父替死恩。"
+          "text": "好一个文禄小姣生，"
+        },
+        {
+          "character": "莫怀古",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "与他爹爹是一样人。"
+        },
+        {
+          "character": "莫怀古",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "难忘却他父替死恩。"
         },
         {
           "character": null,
@@ -1163,7 +1652,17 @@
         "singing_ratio": 0.127,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.127,
+        0.3487,
+        0.6316,
+        0.0197,
+        0.457,
+        5,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 4,
@@ -1201,7 +1700,77 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "本镇、戚继光。叨蒙圣恩，官复蓟州总镇。只因日前莫仁兄冒犯严府，道他隐\n瞒皇家器皿，有欺君之罪。严府行文，命马上校尉沿途追赶。不想在本镇地面\n将他拿获。多亏他家义仆莫成代替死罪。是本镇修下书信，将莫仁兄荐到边庭\n魏门生那里隐姓埋名。不想汤勤这厮，又在严府世蕃面前搬动事非，道莫怀古\n人头不真。严世蕃大怒，将我革职，一同解京对审原案。多亏陆年兄将此案审\n明，又将雪艳断与汤勤为妻，吩咐衙役人等，假意与汤勤庆贺，备下酒宴，将\n汤勤用酒灌醉。三更时分，雪艳将汤勤刺死房内。可怜我那仁嫂为夫尽节自缢\n而亡。日前阖朝三百六十名进士联衔奏本，参那严贼。圣上大怒，将严嵩父子\n收禁在监。幸得皇恩大赦，是我修书与莫仁兄，叫他回来，可以安然无事。去\n了许久，未见回音。\n来，伺候了！"
+          "text": "本镇、戚继光。叨蒙圣恩，官复蓟州总镇。只因日前莫仁兄冒犯严府，道他隐"
+        },
+        {
+          "character": "戚继光",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "瞒皇家器皿，有欺君之罪。严府行文，命马上校尉沿途追赶。不想在本镇地面"
+        },
+        {
+          "character": "戚继光",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "将他拿获。多亏他家义仆莫成代替死罪。是本镇修下书信，将莫仁兄荐到边庭"
+        },
+        {
+          "character": "戚继光",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "魏门生那里隐姓埋名。不想汤勤这厮，又在严府世蕃面前搬动事非，道莫怀古"
+        },
+        {
+          "character": "戚继光",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "人头不真。严世蕃大怒，将我革职，一同解京对审原案。多亏陆年兄将此案审"
+        },
+        {
+          "character": "戚继光",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "明，又将雪艳断与汤勤为妻，吩咐衙役人等，假意与汤勤庆贺，备下酒宴，将"
+        },
+        {
+          "character": "戚继光",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "汤勤用酒灌醉。三更时分，雪艳将汤勤刺死房内。可怜我那仁嫂为夫尽节自缢"
+        },
+        {
+          "character": "戚继光",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "而亡。日前阖朝三百六十名进士联衔奏本，参那严贼。圣上大怒，将严嵩父子"
+        },
+        {
+          "character": "戚继光",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "收禁在监。幸得皇恩大赦，是我修书与莫仁兄，叫他回来，可以安然无事。去"
+        },
+        {
+          "character": "戚继光",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "了许久，未见回音。"
+        },
+        {
+          "character": "戚继光",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来，伺候了！"
         },
         {
           "character": null,
@@ -1299,7 +1868,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "自从仁兄去后，汤勤那厮又在严府搬动是非，道仁兄首级乃是假的。严世蕃大\n怒，将弟革职，连仁嫂一同解京对审原案。多亏陆年兄将此案审明。虽然落案，\n只是作了一桩无才之事！"
+          "text": "自从仁兄去后，汤勤那厮又在严府搬动是非，道仁兄首级乃是假的。严世蕃大"
+        },
+        {
+          "character": "戚继光",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "怒，将弟革职，连仁嫂一同解京对审原案。多亏陆年兄将此案审明。虽然落案，"
+        },
+        {
+          "character": "戚继光",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "只是作了一桩无才之事！"
         },
         {
           "character": "莫怀古",
@@ -1341,7 +1924,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "他不将仁嫂断与汤勤，仁兄之事，不能落案；严府二差，不能销票；小弟也不\n能原任为官。是陆仁兄心生一计，叫衙内人役，假意庆贺，用酒将汤勤灌醉。\n仁嫂三更时分，将汤勤刺死。可叹仁嫂为夫尽节，她也自刎而亡了。"
+          "text": "他不将仁嫂断与汤勤，仁兄之事，不能落案；严府二差，不能销票；小弟也不"
+        },
+        {
+          "character": "戚继光",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "能原任为官。是陆仁兄心生一计，叫衙内人役，假意庆贺，用酒将汤勤灌醉。"
+        },
+        {
+          "character": "戚继光",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "仁嫂三更时分，将汤勤刺死。可叹仁嫂为夫尽节，她也自刎而亡了。"
         },
         {
           "character": "莫怀古",
@@ -1355,14 +1952,49 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "闻言不由伤心痛，\n点点泪珠洒前胸。\n替夫尽节立有功。"
+          "text": "闻言不由伤心痛，"
         },
         {
-          "character": "哭贤妻你情深义又重、戚继光",
+          "character": "莫怀古",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "仁兄不必心酸痛，\n志广才高陆年兄。\n这冤仇已报感苍穹。"
+          "text": "点点泪珠洒前胸。"
+        },
+        {
+          "character": "莫怀古",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "替夫尽节立有功。"
+        },
+        {
+          "character": "莫怀古",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "哭贤妻你情深义又重"
+        },
+        {
+          "character": "戚继光",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "仁兄不必心酸痛，"
+        },
+        {
+          "character": "戚继光",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "志广才高陆年兄。"
+        },
+        {
+          "character": "戚继光",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "这冤仇已报感苍穹。"
         },
         {
           "character": null,
@@ -1463,7 +2095,17 @@
         "singing_ratio": 0.042,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.042,
+        0.1633,
+        0.7755,
+        0.0612,
+        0.4792,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 5,
@@ -2322,7 +2964,17 @@
         "singing_ratio": 0.044,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.044,
+        0.0435,
+        0.9239,
+        0.0326,
+        0.9011,
+        6,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 6,
@@ -2376,7 +3028,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 7,
@@ -2884,7 +3546,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.9608,
+        0.0392,
+        0.98,
+        6,
+        0.0,
+        0.0
+      ]
     }
   ]
 }

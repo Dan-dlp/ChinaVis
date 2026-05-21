@@ -173,7 +173,14 @@
           "line_type": "吹腔",
           "musical_style": null,
           "style_family": null,
-          "text": "手拿状子朝前走，\n大老爷作主张。"
+          "text": "手拿状子朝前走，"
+        },
+        {
+          "character": "周腊梅",
+          "line_type": "吹腔",
+          "musical_style": null,
+          "style_family": null,
+          "text": "大老爷作主张。"
         },
         {
           "character": null,
@@ -733,7 +740,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "我明白了。\n我说腊梅呀，我们王先生给你磕头认干妈。"
+          "text": "我明白了。"
+        },
+        {
+          "character": "大老爷",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我说腊梅呀，我们王先生给你磕头认干妈。"
         },
         {
           "character": "王书吏",
@@ -1090,14 +1104,28 @@
           "line_type": "吹腔",
           "musical_style": null,
           "style_family": null,
-          "text": "急得老爷我要当当，\n低下头来自恭详。"
+          "text": "急得老爷我要当当，"
+        },
+        {
+          "character": "大老爷",
+          "line_type": "吹腔",
+          "musical_style": null,
+          "style_family": null,
+          "text": "低下头来自恭详。"
         },
         {
           "character": "大老爷",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "有的，腊梅是来找我来了，我怎么断给张才了呢？这件事情怎么办呢？有了，\n我把他支走，我说衙役的，老爷升堂了，我升堂了！"
+          "text": "有的，腊梅是来找我来了，我怎么断给张才了呢？这件事情怎么办呢？有了，"
+        },
+        {
+          "character": "大老爷",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我把他支走，我说衙役的，老爷升堂了，我升堂了！"
         },
         {
           "character": "王书吏",
@@ -1426,7 +1454,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "有的，都走了，剩了我一个人，我没事找腊梅，我们两个人说说话，叽叽咕咕\n的多美呀！\n我说王先生还在那儿呢？"
+          "text": "有的，都走了，剩了我一个人，我没事找腊梅，我们两个人说说话，叽叽咕咕"
+        },
+        {
+          "character": "大老爷",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "的多美呀！"
+        },
+        {
+          "character": "大老爷",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我说王先生还在那儿呢？"
         },
         {
           "character": "王书吏",
@@ -1503,7 +1545,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "什么穷磨，我是穷磨，大清早晨起来公事不办，跟这个周腊梅这么嘀嘀咕咕成\n什么官事？这个样子我不干了。"
+          "text": "什么穷磨，我是穷磨，大清早晨起来公事不办，跟这个周腊梅这么嘀嘀咕咕成"
+        },
+        {
+          "character": "王书吏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "什么官事？这个样子我不干了。"
         },
         {
           "character": "大老爷",
@@ -1683,7 +1732,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0452,
+        0.9447,
+        0.0101,
+        0.9293,
+        10,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -3405,7 +3464,17 @@
         "singing_ratio": 0.059,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.059,
+        0.0673,
+        0.9327,
+        0.0,
+        0.9614,
+        5,
+        0.0,
+        0.0
+      ]
     }
   ]
 }

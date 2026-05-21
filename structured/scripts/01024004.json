@@ -97,7 +97,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "孤，大明天子，洪武在位。自从创业以来，东讨西杀，南征北战，马上得来，\n一统天下。自登基以来，倒也风调雨顺，国泰民安。今当早朝，太平无事，不\n免将先生宣上殿来，同到武庙前游玩一番。\n内侍，宣军师刘基上殿。"
+          "text": "孤，大明天子，洪武在位。自从创业以来，东讨西杀，南征北战，马上得来，"
+        },
+        {
+          "character": "朱元璋",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "一统天下。自登基以来，倒也风调雨顺，国泰民安。今当早朝，太平无事，不"
+        },
+        {
+          "character": "朱元璋",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "免将先生宣上殿来，同到武庙前游玩一番。"
+        },
+        {
+          "character": "朱元璋",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "内侍，宣军师刘基上殿。"
         },
         {
           "character": "内侍",
@@ -167,7 +188,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "孤自创业以来，乃是马上得来的天下，东讨西杀，南征北剿，归成大明一统。\n如今天下已定，孤从未到武庙前看过，今日欲请先生，陪定孤王，同到武庙前\n游玩一番。不知先生意下如何？"
+          "text": "孤自创业以来，乃是马上得来的天下，东讨西杀，南征北剿，归成大明一统。"
+        },
+        {
+          "character": "朱元璋",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "如今天下已定，孤从未到武庙前看过，今日欲请先生，陪定孤王，同到武庙前"
+        },
+        {
+          "character": "朱元璋",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "游玩一番。不知先生意下如何？"
         },
         {
           "character": "刘伯温",
@@ -276,7 +311,17 @@
           "西皮摇板",
           "西皮正板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.412,
+        0.3333,
+        0.5926,
+        0.0741,
+        0.6154,
+        3,
+        0.2963,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -357,7 +402,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "贫道，悟静。自幼在这武庙出家，主持香火。今有当今万岁，前来庙中游玩，\n不免将禅堂神殿，打扫干净，等候圣驾。"
+          "text": "贫道，悟静。自幼在这武庙出家，主持香火。今有当今万岁，前来庙中游玩，"
+        },
+        {
+          "character": "道士",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "不免将禅堂神殿，打扫干净，等候圣驾。"
         },
         {
           "character": null,
@@ -385,31 +437,185 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "来在庙前用目覻，\n见一道人来屈膝。\n孤王言来听端的：\n举目抬头看仔细。\n他是何人，你要奏与孤知。"
+          "text": "来在庙前用目覻，"
+        },
+        {
+          "character": "朱元璋",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "见一道人来屈膝。"
+        },
+        {
+          "character": "朱元璋",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "孤王言来听端的："
+        },
+        {
+          "character": "朱元璋",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "举目抬头看仔细。"
+        },
+        {
+          "character": "朱元璋",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "他是何人，你要奏与孤知。"
         },
         {
           "character": "朱元璋",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "啊先生，你看这殿外，供的一员将官，头戴白银盔，身穿白银甲，胯下一骑白\n马，手持银枪，威风凛凛，杀气腾腾，但不知他是何人？"
+          "text": "啊先生，你看这殿外，供的一员将官，头戴白银盔，身穿白银甲，胯下一骑白"
         },
         {
-          "character": "弃镫离鞍下龙驹、内侍臣摆驾进庙里、回头便把军师叫、刘伯温",
+          "character": "朱元璋",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "马，手持银枪，威风凛凛，杀气腾腾，但不知他是何人？"
+        },
+        {
+          "character": "朱元璋",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "弃镫离鞍下龙驹"
+        },
+        {
+          "character": "朱元璋",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "内侍臣摆驾进庙里"
+        },
+        {
+          "character": "朱元璋",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "回头便把军师叫"
+        },
+        {
+          "character": "刘伯温",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
           "text": "万岁容奏。"
         },
         {
-          "character": "弃镫离鞍下龙驹、内侍臣摆驾进庙里、回头便把军师叫、刘伯温",
+          "character": "刘伯温",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "弃镫离鞍下龙驹"
+        },
+        {
+          "character": "刘伯温",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "内侍臣摆驾进庙里"
+        },
+        {
+          "character": "刘伯温",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "回头便把军师叫"
+        },
+        {
+          "character": "刘伯温",
           "line_type": "西皮二六板",
           "musical_style": "西皮二六板",
           "style_family": "西皮",
-          "text": "刘基奏本把身躬，\n尊一声万岁龙耳听：\n英雄姓赵名云字子龙。\n七进七出显奇能。\n曹营中有名上将，一个一个望风而逃、卸甲丢盔，败走急如风。\n落一个保驾臣不忠。\n因此上不能供在了殿中。"
+          "text": "刘基奏本把身躬，"
         },
         {
-          "character": "这就是三国有名将、长板坡前多英勇、只杀得曹兵无踪影、只因为糜夫人身投井、虽然是将军人可敬、朱元璋",
+          "character": "刘伯温",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "尊一声万岁龙耳听："
+        },
+        {
+          "character": "刘伯温",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "英雄姓赵名云字子龙。"
+        },
+        {
+          "character": "刘伯温",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "七进七出显奇能。"
+        },
+        {
+          "character": "刘伯温",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "曹营中有名上将，一个一个望风而逃、卸甲丢盔，败走急如风。"
+        },
+        {
+          "character": "刘伯温",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "落一个保驾臣不忠。"
+        },
+        {
+          "character": "刘伯温",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "因此上不能供在了殿中。"
+        },
+        {
+          "character": "刘伯温",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "这就是三国有名将"
+        },
+        {
+          "character": "刘伯温",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "长板坡前多英勇"
+        },
+        {
+          "character": "刘伯温",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "只杀得曹兵无踪影"
+        },
+        {
+          "character": "刘伯温",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "只因为糜夫人身投井"
+        },
+        {
+          "character": "刘伯温",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "虽然是将军人可敬"
+        },
+        {
+          "character": "朱元璋",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -427,7 +633,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "想当年，他在长板坡前，怀抱幼主阿斗，只杀得曹兵闻风丧胆，到后来累建奇\n功，战无不胜，可以算得是大大的忠臣，为何今日，反供在殿外。\n金瓜武士，将此像请进殿去。"
+          "text": "想当年，他在长板坡前，怀抱幼主阿斗，只杀得曹兵闻风丧胆，到后来累建奇"
+        },
+        {
+          "character": "朱元璋",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "功，战无不胜，可以算得是大大的忠臣，为何今日，反供在殿外。"
+        },
+        {
+          "character": "朱元璋",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "金瓜武士，将此像请进殿去。"
         },
         {
           "character": "四大铠",
@@ -448,14 +668,42 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "此人姓王名勇字伯当，乃是隋唐有名勇将。只因他事非其主，保定李密，患难\n相从，始终如一，颇有忠心。到后来逃至断密涧，被唐太宗用乱箭将他君臣射\n死。但是他临死，臣压在君身之上，故而供在殿外。"
+          "text": "此人姓王名勇字伯当，乃是隋唐有名勇将。只因他事非其主，保定李密，患难"
+        },
+        {
+          "character": "刘伯温",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "相从，始终如一，颇有忠心。到后来逃至断密涧，被唐太宗用乱箭将他君臣射"
+        },
+        {
+          "character": "刘伯温",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "死。但是他临死，臣压在君身之上，故而供在殿外。"
         },
         {
           "character": "朱元璋",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "哦，这就是昔年的王伯当。他曾保定李密，言道忠臣不事二主，到后来在断密\n涧下，箭射身亡。据孤王看来，到是一位忠良。\n来，将他神像，请到殿中。"
+          "text": "哦，这就是昔年的王伯当。他曾保定李密，言道忠臣不事二主，到后来在断密"
+        },
+        {
+          "character": "朱元璋",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "涧下，箭射身亡。据孤王看来，到是一位忠良。"
+        },
+        {
+          "character": "朱元璋",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来，将他神像，请到殿中。"
         },
         {
           "character": "四大铠",
@@ -511,73 +759,619 @@
           "line_type": "西皮二六板",
           "musical_style": "西皮二六板",
           "style_family": "西皮",
-          "text": "刘基二本奏君知，\n这员将姓伍名员字子胥。\n各国不敢动兵机。\n为父反纳了子的妻。\n无祥女改变了马昭仪。\n怒恼了奸贼费无极。\n可怜他一家满门三百余口，一刀一个、一个一刀，人头血染衣。\n保定太子出重围。\n去投吴国报冤屈。\n只杀得尸骨堆山血成渠。\n他开棺鞭打平王尸。\n因此上千秋受血食。"
-        },
-        {
-          "character": "临潼会，把鼎举、楚平王无道行不义、金顶轿改换银顶轿、伍奢上殿把本启、私自调回他的子、子胥弃了樊城地、巧装混出昭关地、带领兵将灭楚地、那时节无道昏王身已死、报仇雪恨有志气、朱元璋",
-          "line_type": "白",
-          "musical_style": null,
-          "style_family": null,
-          "text": "呀呀呸！"
-        },
-        {
-          "character": "临潼会，把鼎举、楚平王无道行不义、金顶轿改换银顶轿、伍奢上殿把本启、私自调回他的子、子胥弃了樊城地、巧装混出昭关地、带领兵将灭楚地、那时节无道昏王身已死、报仇雪恨有志气、朱元璋",
-          "line_type": "西皮摇板",
-          "musical_style": "西皮摇板",
-          "style_family": "西皮",
-          "text": "听一言来怒不息，\n开言大骂伍子胥！\n你不该鞭打他的尸。\n怎由你在此乱胡为。"
-        },
-        {
-          "character": "平王虽然太无礼、忙将此像扯出去、刘伯温",
-          "line_type": "白",
-          "musical_style": null,
-          "style_family": null,
-          "text": "哦！"
-        },
-        {
-          "character": "平王虽然太无礼、忙将此像扯出去、刘伯温",
-          "line_type": "西皮摇板",
-          "musical_style": "西皮摇板",
-          "style_family": "西皮",
-          "text": "果然君王势力大，\n鞭打平王就犯了王法。\n怪不得君臣就变了冤家。"
-        },
-        {
-          "character": "眉头一皱把人杀、伍员父兄的冤仇如天大、全不许百姓来讲话、朱元璋",
-          "line_type": "白",
-          "musical_style": null,
-          "style_family": null,
-          "text": "呵，先生，你看这一员小将，头戴帅盔，身穿蟒袍，怀中抱定令旗令箭，他是\n何人？"
+          "text": "刘基二本奏君知，"
         },
         {
           "character": "刘伯温",
           "line_type": "西皮二六板",
           "musical_style": "西皮二六板",
           "style_family": "西皮",
-          "text": "刘基三本来奏上，\n这就是韩信官封三齐王。\n设下了十面埋伏在乌江。\n江山一统保汉王。\n未央宫中一命亡。\n盖世忠良无下场。\n千秋万古受蒸尝。"
+          "text": "这员将姓伍名员字子胥。"
         },
         {
-          "character": "九里山前曾拜将、立逼项羽身遭丧、到后来君臣定下天罗网、汗马功劳全不讲、因此庙中塑神像、朱元璋",
+          "character": "刘伯温",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "各国不敢动兵机。"
+        },
+        {
+          "character": "刘伯温",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "为父反纳了子的妻。"
+        },
+        {
+          "character": "刘伯温",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "无祥女改变了马昭仪。"
+        },
+        {
+          "character": "刘伯温",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "怒恼了奸贼费无极。"
+        },
+        {
+          "character": "刘伯温",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "可怜他一家满门三百余口，一刀一个、一个一刀，人头血染衣。"
+        },
+        {
+          "character": "刘伯温",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "保定太子出重围。"
+        },
+        {
+          "character": "刘伯温",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "去投吴国报冤屈。"
+        },
+        {
+          "character": "刘伯温",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "只杀得尸骨堆山血成渠。"
+        },
+        {
+          "character": "刘伯温",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "他开棺鞭打平王尸。"
+        },
+        {
+          "character": "刘伯温",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "因此上千秋受血食。"
+        },
+        {
+          "character": "刘伯温",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "临潼会，把鼎举"
+        },
+        {
+          "character": "刘伯温",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "楚平王无道行不义"
+        },
+        {
+          "character": "刘伯温",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "金顶轿改换银顶轿"
+        },
+        {
+          "character": "刘伯温",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "伍奢上殿把本启"
+        },
+        {
+          "character": "刘伯温",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "私自调回他的子"
+        },
+        {
+          "character": "刘伯温",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "子胥弃了樊城地"
+        },
+        {
+          "character": "刘伯温",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "巧装混出昭关地"
+        },
+        {
+          "character": "刘伯温",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "带领兵将灭楚地"
+        },
+        {
+          "character": "刘伯温",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "那时节无道昏王身已死"
+        },
+        {
+          "character": "刘伯温",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "报仇雪恨有志气"
+        },
+        {
+          "character": "朱元璋",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
           "text": "呀呀呸！"
         },
         {
-          "character": "九里山前曾拜将、立逼项羽身遭丧、到后来君臣定下天罗网、汗马功劳全不讲、因此庙中塑神像、朱元璋",
+          "character": "朱元璋",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "临潼会，把鼎举"
+        },
+        {
+          "character": "朱元璋",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "楚平王无道行不义"
+        },
+        {
+          "character": "朱元璋",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "金顶轿改换银顶轿"
+        },
+        {
+          "character": "朱元璋",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "伍奢上殿把本启"
+        },
+        {
+          "character": "朱元璋",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "私自调回他的子"
+        },
+        {
+          "character": "朱元璋",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "子胥弃了樊城地"
+        },
+        {
+          "character": "朱元璋",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "巧装混出昭关地"
+        },
+        {
+          "character": "朱元璋",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "带领兵将灭楚地"
+        },
+        {
+          "character": "朱元璋",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "那时节无道昏王身已死"
+        },
+        {
+          "character": "朱元璋",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "报仇雪恨有志气"
+        },
+        {
+          "character": "朱元璋",
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "听一言来怒满腔，\n开言大骂无知的儿郎！\n不该问路于樵夫反斩陈仓。\n不该在九里山前活埋娘。"
+          "text": "听一言来怒不息，"
         },
         {
-          "character": "你少年为人太狂妄、不该受高祖廿四拜、人来与孤扯神像、刘伯温",
+          "character": "朱元璋",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "开言大骂伍子胥！"
+        },
+        {
+          "character": "朱元璋",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "你不该鞭打他的尸。"
+        },
+        {
+          "character": "朱元璋",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "怎由你在此乱胡为。"
+        },
+        {
+          "character": "朱元璋",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "平王虽然太无礼"
+        },
+        {
+          "character": "朱元璋",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "忙将此像扯出去"
+        },
+        {
+          "character": "刘伯温",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "哦！"
+        },
+        {
+          "character": "刘伯温",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "平王虽然太无礼"
+        },
+        {
+          "character": "刘伯温",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "忙将此像扯出去"
+        },
+        {
+          "character": "刘伯温",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "果然君王势力大，"
+        },
+        {
+          "character": "刘伯温",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "鞭打平王就犯了王法。"
+        },
+        {
+          "character": "刘伯温",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "怪不得君臣就变了冤家。"
+        },
+        {
+          "character": "刘伯温",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "眉头一皱把人杀"
+        },
+        {
+          "character": "刘伯温",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "伍员父兄的冤仇如天大"
+        },
+        {
+          "character": "刘伯温",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "全不许百姓来讲话"
+        },
+        {
+          "character": "朱元璋",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "呵，先生，你看这一员小将，头戴帅盔，身穿蟒袍，怀中抱定令旗令箭，他是"
+        },
+        {
+          "character": "朱元璋",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "何人？"
+        },
+        {
+          "character": "刘伯温",
           "line_type": "西皮二六板",
           "musical_style": "西皮二六板",
           "style_family": "西皮",
-          "text": "刘基心中自思量：\n说什么九里山前活埋了娘。\n末一阵竟逼死了楚霸王。\n韩信一战定了家邦。\n这才是狡兔死走狗烹、高鸟尽来良弓藏。\n倒叫忠良无有下场。\n才知臣子终受灾殃。"
+          "text": "刘基三本来奏上，"
         },
         {
-          "character": "说什么问路樵夫丧、楚汉相争打过了七十二仗、汉高祖江山本无望、这样的功劳全不想、江山社稷他安享、低下头来暗思想、朱元璋",
+          "character": "刘伯温",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "这就是韩信官封三齐王。"
+        },
+        {
+          "character": "刘伯温",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "设下了十面埋伏在乌江。"
+        },
+        {
+          "character": "刘伯温",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "江山一统保汉王。"
+        },
+        {
+          "character": "刘伯温",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "未央宫中一命亡。"
+        },
+        {
+          "character": "刘伯温",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "盖世忠良无下场。"
+        },
+        {
+          "character": "刘伯温",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "千秋万古受蒸尝。"
+        },
+        {
+          "character": "刘伯温",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "九里山前曾拜将"
+        },
+        {
+          "character": "刘伯温",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "立逼项羽身遭丧"
+        },
+        {
+          "character": "刘伯温",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "到后来君臣定下天罗网"
+        },
+        {
+          "character": "刘伯温",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "汗马功劳全不讲"
+        },
+        {
+          "character": "刘伯温",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "因此庙中塑神像"
+        },
+        {
+          "character": "朱元璋",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "呀呀呸！"
+        },
+        {
+          "character": "朱元璋",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "九里山前曾拜将"
+        },
+        {
+          "character": "朱元璋",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "立逼项羽身遭丧"
+        },
+        {
+          "character": "朱元璋",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "到后来君臣定下天罗网"
+        },
+        {
+          "character": "朱元璋",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "汗马功劳全不讲"
+        },
+        {
+          "character": "朱元璋",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "因此庙中塑神像"
+        },
+        {
+          "character": "朱元璋",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "听一言来怒满腔，"
+        },
+        {
+          "character": "朱元璋",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "开言大骂无知的儿郎！"
+        },
+        {
+          "character": "朱元璋",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "不该问路于樵夫反斩陈仓。"
+        },
+        {
+          "character": "朱元璋",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "不该在九里山前活埋娘。"
+        },
+        {
+          "character": "朱元璋",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "你少年为人太狂妄"
+        },
+        {
+          "character": "朱元璋",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "不该受高祖廿四拜"
+        },
+        {
+          "character": "朱元璋",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "人来与孤扯神像"
+        },
+        {
+          "character": "刘伯温",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "刘基心中自思量："
+        },
+        {
+          "character": "刘伯温",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "说什么九里山前活埋了娘。"
+        },
+        {
+          "character": "刘伯温",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "末一阵竟逼死了楚霸王。"
+        },
+        {
+          "character": "刘伯温",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "韩信一战定了家邦。"
+        },
+        {
+          "character": "刘伯温",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "这才是狡兔死走狗烹、高鸟尽来良弓藏。"
+        },
+        {
+          "character": "刘伯温",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "倒叫忠良无有下场。"
+        },
+        {
+          "character": "刘伯温",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "才知臣子终受灾殃。"
+        },
+        {
+          "character": "刘伯温",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "说什么问路樵夫丧"
+        },
+        {
+          "character": "刘伯温",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "楚汉相争打过了七十二仗"
+        },
+        {
+          "character": "刘伯温",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "汉高祖江山本无望"
+        },
+        {
+          "character": "刘伯温",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "这样的功劳全不想"
+        },
+        {
+          "character": "刘伯温",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "江山社稷他安享"
+        },
+        {
+          "character": "刘伯温",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "低下头来暗思想"
+        },
+        {
+          "character": "朱元璋",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -595,87 +1389,374 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "此人姓张名良字子房，\n在博浪沙也曾锥击秦王。\n误中副车心太慌。\n因此上告职归山，云游四方。"
+          "text": "此人姓张名良字子房，"
         },
         {
-          "character": "偏偏不中贼皇上、汉高祖一样太狂妄、朱元璋",
+          "character": "刘伯温",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "在博浪沙也曾锥击秦王。"
+        },
+        {
+          "character": "刘伯温",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "误中副车心太慌。"
+        },
+        {
+          "character": "刘伯温",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "因此上告职归山，云游四方。"
+        },
+        {
+          "character": "刘伯温",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "偏偏不中贼皇上"
+        },
+        {
+          "character": "刘伯温",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "汉高祖一样太狂妄"
+        },
+        {
+          "character": "朱元璋",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
           "text": "呸！"
         },
         {
-          "character": "偏偏不中贼皇上、汉高祖一样太狂妄、朱元璋",
+          "character": "朱元璋",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "偏偏不中贼皇上"
+        },
+        {
+          "character": "朱元璋",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "汉高祖一样太狂妄"
+        },
+        {
+          "character": "朱元璋",
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "听一言来气上撞，\n开言大骂张子房：\n为何告职游四方。"
+          "text": "听一言来气上撞，"
         },
         {
-          "character": "偏偏不中贼皇上、汉高祖一样太狂妄、朱元璋",
+          "character": "朱元璋",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "开言大骂张子房："
+        },
+        {
+          "character": "朱元璋",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "为何告职游四方。"
+        },
+        {
+          "character": "朱元璋",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "偏偏不中贼皇上"
+        },
+        {
+          "character": "朱元璋",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "汉高祖一样太狂妄"
+        },
+        {
+          "character": "朱元璋",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
           "text": "武士手！"
         },
         {
-          "character": "偏偏不中贼皇上、汉高祖一样太狂妄、朱元璋",
+          "character": "朱元璋",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "偏偏不中贼皇上"
+        },
+        {
+          "character": "朱元璋",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "汉高祖一样太狂妄"
+        },
+        {
+          "character": "朱元璋",
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
           "text": "急忙与我扯碎了像，"
         },
         {
-          "character": "保主须要保到底、刘伯温",
+          "character": "朱元璋",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "保主须要保到底"
+        },
+        {
+          "character": "刘伯温",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
           "text": "且慢！"
         },
         {
-          "character": "保主须要保到底、刘伯温",
+          "character": "刘伯温",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "保主须要保到底"
+        },
+        {
+          "character": "刘伯温",
           "line_type": "西皮正板",
           "musical_style": "西皮正板",
           "style_family": "西皮",
-          "text": "气得我刘伯温面皮黄。\n臣不忠子不孝难整朝纲。\n暗指我刘伯温，明骂的张良。\n猛然间一计上胸膛。\n有为臣我也要告职还乡。"
+          "text": "气得我刘伯温面皮黄。"
         },
         {
-          "character": "有道是为臣子忠于皇上、适才间我主爷把旨来降、低下头来心暗思想、我这里回头来对主公讲、朱元璋",
+          "character": "刘伯温",
+          "line_type": "西皮正板",
+          "musical_style": "西皮正板",
+          "style_family": "西皮",
+          "text": "臣不忠子不孝难整朝纲。"
+        },
+        {
+          "character": "刘伯温",
+          "line_type": "西皮正板",
+          "musical_style": "西皮正板",
+          "style_family": "西皮",
+          "text": "暗指我刘伯温，明骂的张良。"
+        },
+        {
+          "character": "刘伯温",
+          "line_type": "西皮正板",
+          "musical_style": "西皮正板",
+          "style_family": "西皮",
+          "text": "猛然间一计上胸膛。"
+        },
+        {
+          "character": "刘伯温",
+          "line_type": "西皮正板",
+          "musical_style": "西皮正板",
+          "style_family": "西皮",
+          "text": "有为臣我也要告职还乡。"
+        },
+        {
+          "character": "刘伯温",
+          "line_type": "西皮正板",
+          "musical_style": "西皮正板",
+          "style_family": "西皮",
+          "text": "有道是为臣子忠于皇上"
+        },
+        {
+          "character": "刘伯温",
+          "line_type": "西皮正板",
+          "musical_style": "西皮正板",
+          "style_family": "西皮",
+          "text": "适才间我主爷把旨来降"
+        },
+        {
+          "character": "刘伯温",
+          "line_type": "西皮正板",
+          "musical_style": "西皮正板",
+          "style_family": "西皮",
+          "text": "低下头来心暗思想"
+        },
+        {
+          "character": "刘伯温",
+          "line_type": "西皮正板",
+          "musical_style": "西皮正板",
+          "style_family": "西皮",
+          "text": "我这里回头来对主公讲"
+        },
+        {
+          "character": "朱元璋",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
           "text": "哦！"
         },
         {
-          "character": "有道是为臣子忠于皇上、适才间我主爷把旨来降、低下头来心暗思想、我这里回头来对主公讲、朱元璋",
+          "character": "朱元璋",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "有道是为臣子忠于皇上"
+        },
+        {
+          "character": "朱元璋",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "适才间我主爷把旨来降"
+        },
+        {
+          "character": "朱元璋",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "低下头来心暗思想"
+        },
+        {
+          "character": "朱元璋",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我这里回头来对主公讲"
+        },
+        {
+          "character": "朱元璋",
           "line_type": "西皮正板",
           "musical_style": "西皮正板",
           "style_family": "西皮",
-          "text": "听一言来心中暗想，\n不该对刘基骂张良。\n孤王言来听端详：\n你神机妙算腹中藏。\n你就该在朝中扶保孤王。"
+          "text": "听一言来心中暗想，"
         },
         {
-          "character": "回头来对军师把话讲、孤王江山全仗你掌、君明臣良多欢畅、刘伯温",
+          "character": "朱元璋",
+          "line_type": "西皮正板",
+          "musical_style": "西皮正板",
+          "style_family": "西皮",
+          "text": "不该对刘基骂张良。"
+        },
+        {
+          "character": "朱元璋",
+          "line_type": "西皮正板",
+          "musical_style": "西皮正板",
+          "style_family": "西皮",
+          "text": "孤王言来听端详："
+        },
+        {
+          "character": "朱元璋",
+          "line_type": "西皮正板",
+          "musical_style": "西皮正板",
+          "style_family": "西皮",
+          "text": "你神机妙算腹中藏。"
+        },
+        {
+          "character": "朱元璋",
+          "line_type": "西皮正板",
+          "musical_style": "西皮正板",
+          "style_family": "西皮",
+          "text": "你就该在朝中扶保孤王。"
+        },
+        {
+          "character": "朱元璋",
+          "line_type": "西皮正板",
+          "musical_style": "西皮正板",
+          "style_family": "西皮",
+          "text": "回头来对军师把话讲"
+        },
+        {
+          "character": "朱元璋",
+          "line_type": "西皮正板",
+          "musical_style": "西皮正板",
+          "style_family": "西皮",
+          "text": "孤王江山全仗你掌"
+        },
+        {
+          "character": "朱元璋",
+          "line_type": "西皮正板",
+          "musical_style": "西皮正板",
+          "style_family": "西皮",
+          "text": "君明臣良多欢畅"
+        },
+        {
+          "character": "刘伯温",
           "line_type": "西皮原板",
           "musical_style": "西皮原板",
           "style_family": "西皮",
-          "text": "臣耳聋听不见金钟响，\n臣眼花看不清朝王的本章。\n就如同开笼放鸟，臣散淡悠扬。"
+          "text": "臣耳聋听不见金钟响，"
         },
         {
-          "character": "万岁爷开鸿恩将臣发放、朱元璋",
+          "character": "刘伯温",
           "line_type": "西皮原板",
           "musical_style": "西皮原板",
           "style_family": "西皮",
-          "text": "听一言倒叫孤好悲伤，\n怎舍得军师离却朝纲。\n且准你告官职转回故乡。"
+          "text": "臣眼花看不清朝王的本章。"
         },
         {
-          "character": "万岁爷开鸿恩将臣发放、朱元璋",
+          "character": "刘伯温",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "就如同开笼放鸟，臣散淡悠扬。"
+        },
+        {
+          "character": "刘伯温",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "万岁爷开鸿恩将臣发放"
+        },
+        {
+          "character": "朱元璋",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "听一言倒叫孤好悲伤，"
+        },
+        {
+          "character": "朱元璋",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "怎舍得军师离却朝纲。"
+        },
+        {
+          "character": "朱元璋",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "且准你告官职转回故乡。"
+        },
+        {
+          "character": "朱元璋",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "万岁爷开鸿恩将臣发放"
+        },
+        {
+          "character": "朱元璋",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
           "text": "呵先生，既然要告职还乡，孤王也只得准奏。但不知军师，几时启程？"
         },
         {
-          "character": "孤只得含悲泪把旨来降、刘伯温",
+          "character": "朱元璋",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "孤只得含悲泪把旨来降"
+        },
+        {
+          "character": "刘伯温",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -700,7 +1781,21 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "自古道伴君伴虎眠，\n怕的是猛虎把脸翻。\n隐居在山林内快乐安然。"
+          "text": "自古道伴君伴虎眠，"
+        },
+        {
+          "character": "刘伯温",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "怕的是猛虎把脸翻。"
+        },
+        {
+          "character": "刘伯温",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "隐居在山林内快乐安然。"
         },
         {
           "character": null,
@@ -714,7 +1809,21 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "刘基告职要归田，\n孤王岂能把他拦。\n孤全仗文武臣扶保江山。"
+          "text": "刘基告职要归田，"
+        },
+        {
+          "character": "朱元璋",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "孤王岂能把他拦。"
+        },
+        {
+          "character": "朱元璋",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "孤全仗文武臣扶保江山。"
         },
         {
           "character": null,
@@ -763,7 +1872,17 @@
           "西皮原板",
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.182,
+        0.6287,
+        0.3663,
+        0.005,
+        0.1642,
+        4,
+        0.6287,
+        0.0
+      ]
     }
   ]
 }

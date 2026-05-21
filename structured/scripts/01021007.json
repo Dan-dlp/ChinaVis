@@ -177,10 +177,24 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "老夫，赵普。宋室驾前为臣，官居当朝首相。今日天下，虽已稍定，还有四处，\n尚未平靖。圣上意欲发兵讨贼，与老夫商议。怎奈我日夜焦思，一时无策。"
+          "text": "老夫，赵普。宋室驾前为臣，官居当朝首相。今日天下，虽已稍定，还有四处，"
         },
         {
-          "character": "看今夜，风雪漫天，不免到书房中，去检阅史书。来、张千",
+          "character": "赵普",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "尚未平靖。圣上意欲发兵讨贼，与老夫商议。怎奈我日夜焦思，一时无策。"
+        },
+        {
+          "character": "赵普",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "看今夜，风雪漫天，不免到书房中，去检阅史书。来"
+        },
+        {
+          "character": "张千",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -205,7 +219,14 @@
           "line_type": "二黄原板",
           "musical_style": "二黄原板",
           "style_family": "二黄",
-          "text": "有老夫在二堂心中烦闷，\n想不出巧计策扫荡妖氛。"
+          "text": "有老夫在二堂心中烦闷，"
+        },
+        {
+          "character": "赵普",
+          "line_type": "二黄原板",
+          "musical_style": "二黄原板",
+          "style_family": "二黄",
+          "text": "想不出巧计策扫荡妖氛。"
         },
         {
           "character": "叫张千、张千",
@@ -219,7 +240,14 @@
           "line_type": "二黄原板",
           "musical_style": "二黄原板",
           "style_family": "二黄",
-          "text": "你与我把路引，\n去到书房检阅书文。"
+          "text": "你与我把路引，"
+        },
+        {
+          "character": "赵普",
+          "line_type": "二黄原板",
+          "musical_style": "二黄原板",
+          "style_family": "二黄",
+          "text": "去到书房检阅书文。"
         },
         {
           "character": "赵普",
@@ -264,7 +292,17 @@
         "musical_styles": [
           "二黄原板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.286,
+        0.3333,
+        0.5333,
+        0.1333,
+        0.4286,
+        3,
+        0.0,
+        0.2667
+      ]
     },
     {
       "scene_index": 2,
@@ -319,14 +357,56 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "孤，赵匡胤。自从陈桥兵变，黄袍加身，即登大宝。天下虽然粗定，尚有江南、\n两广、西川、吴越四处未平。今夜风雪漫天，因此私自出得宫闱，到丞相赵\n普府中，商议平定贼寇大事。出得禁廷，好一派雪景！"
+          "text": "孤，赵匡胤。自从陈桥兵变，黄袍加身，即登大宝。天下虽然粗定，尚有江南、"
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "两广、西川、吴越四处未平。今夜风雪漫天，因此私自出得宫闱，到丞相赵"
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "普府中，商议平定贼寇大事。出得禁廷，好一派雪景！"
         },
         {
           "character": "赵匡胤",
           "line_type": "二黄原板",
           "musical_style": "二黄原板",
           "style_family": "二黄",
-          "text": "都只为边庭上贼兵骚扰，\n在龙床睡不宁私自出朝。\n但只见半空中降下鹅毛。\n好一似粉装成玉宇琼瑶。\n孤这里且向前轻把门敲。"
+          "text": "都只为边庭上贼兵骚扰，"
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "二黄原板",
+          "musical_style": "二黄原板",
+          "style_family": "二黄",
+          "text": "在龙床睡不宁私自出朝。"
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "二黄原板",
+          "musical_style": "二黄原板",
+          "style_family": "二黄",
+          "text": "但只见半空中降下鹅毛。"
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "二黄原板",
+          "musical_style": "二黄原板",
+          "style_family": "二黄",
+          "text": "好一似粉装成玉宇琼瑶。"
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "二黄原板",
+          "musical_style": "二黄原板",
+          "style_family": "二黄",
+          "text": "孤这里且向前轻把门敲。"
         },
         {
           "character": null,
@@ -361,35 +441,105 @@
           "line_type": "二黄原板",
           "musical_style": "二黄原板",
           "style_family": "二黄",
-          "text": "叫门官休叫我名姓通上，\n我有言来你细听端详：\n你就说来了个赵大郎。"
+          "text": "叫门官休叫我名姓通上，"
         },
         {
-          "character": "今夜晚特把你丞相来访、张千",
+          "character": "赵匡胤",
+          "line_type": "二黄原板",
+          "musical_style": "二黄原板",
+          "style_family": "二黄",
+          "text": "我有言来你细听端详："
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "二黄原板",
+          "musical_style": "二黄原板",
+          "style_family": "二黄",
+          "text": "你就说来了个赵大郎。"
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "二黄原板",
+          "musical_style": "二黄原板",
+          "style_family": "二黄",
+          "text": "今夜晚特把你丞相来访"
+        },
+        {
+          "character": "张千",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
           "text": "你住了！"
         },
         {
-          "character": "今夜晚特把你丞相来访、张千",
-          "line_type": "二黄原板",
-          "musical_style": "二黄原板",
-          "style_family": "二黄",
-          "text": "说什么赵大郎来赵二郎，\n细听我张千说端详：\n他在灯下看文章。"
-        },
-        {
-          "character": "丞相现在书房上、赵匡胤",
-          "line_type": "二黄原板",
-          "musical_style": "二黄原板",
-          "style_family": "二黄",
-          "text": "你家相爷看文章，\n我也要去听听讲。"
+          "character": "张千",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "今夜晚特把你丞相来访"
         },
         {
           "character": "张千",
           "line_type": "二黄原板",
           "musical_style": "二黄原板",
           "style_family": "二黄",
-          "text": "俺这里是三公府，\n并非寺院与佛堂。\n何不前去找和尚？"
+          "text": "说什么赵大郎来赵二郎，"
+        },
+        {
+          "character": "张千",
+          "line_type": "二黄原板",
+          "musical_style": "二黄原板",
+          "style_family": "二黄",
+          "text": "细听我张千说端详："
+        },
+        {
+          "character": "张千",
+          "line_type": "二黄原板",
+          "musical_style": "二黄原板",
+          "style_family": "二黄",
+          "text": "他在灯下看文章。"
+        },
+        {
+          "character": "张千",
+          "line_type": "二黄原板",
+          "musical_style": "二黄原板",
+          "style_family": "二黄",
+          "text": "丞相现在书房上"
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "二黄原板",
+          "musical_style": "二黄原板",
+          "style_family": "二黄",
+          "text": "你家相爷看文章，"
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "二黄原板",
+          "musical_style": "二黄原板",
+          "style_family": "二黄",
+          "text": "我也要去听听讲。"
+        },
+        {
+          "character": "张千",
+          "line_type": "二黄原板",
+          "musical_style": "二黄原板",
+          "style_family": "二黄",
+          "text": "俺这里是三公府，"
+        },
+        {
+          "character": "张千",
+          "line_type": "二黄原板",
+          "musical_style": "二黄原板",
+          "style_family": "二黄",
+          "text": "并非寺院与佛堂。"
+        },
+        {
+          "character": "张千",
+          "line_type": "二黄原板",
+          "musical_style": "二黄原板",
+          "style_family": "二黄",
+          "text": "何不前去找和尚？"
         },
         {
           "character": "你若是要听讲、赵匡胤",
@@ -403,14 +553,35 @@
           "line_type": "二黄摇板",
           "musical_style": "二黄摇板",
           "style_family": "二黄",
-          "text": "我冒雪冲寒来相访，\n有机密大事待商量。"
+          "text": "我冒雪冲寒来相访，"
+        },
+        {
+          "character": "你若是要听讲、赵匡胤",
+          "line_type": "二黄摇板",
+          "musical_style": "二黄摇板",
+          "style_family": "二黄",
+          "text": "有机密大事待商量。"
         },
         {
           "character": "张千",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "你既然有机密大事，何不早对我说？也免得费这许的唇舌。你且候着，待我与\n你通报。\n有请相爷。"
+          "text": "你既然有机密大事，何不早对我说？也免得费这许的唇舌。你且候着，待我与"
+        },
+        {
+          "character": "张千",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "你通报。"
+        },
+        {
+          "character": "张千",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "有请相爷。"
         },
         {
           "character": null,
@@ -529,10 +700,31 @@
           "line_type": "二黄原板",
           "musical_style": "二黄原板",
           "style_family": "二黄",
-          "text": "孤王在宫闱把龙床上，\n不愿深宵梦高唐。\n特到此访贤卿同叙衷肠。"
+          "text": "孤王在宫闱把龙床上，"
         },
         {
-          "character": "青衣便服出宫闲望、赵普",
+          "character": "赵匡胤",
+          "line_type": "二黄原板",
+          "musical_style": "二黄原板",
+          "style_family": "二黄",
+          "text": "不愿深宵梦高唐。"
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "二黄原板",
+          "musical_style": "二黄原板",
+          "style_family": "二黄",
+          "text": "特到此访贤卿同叙衷肠。"
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "二黄原板",
+          "musical_style": "二黄原板",
+          "style_family": "二黄",
+          "text": "青衣便服出宫闲望"
+        },
+        {
+          "character": "赵普",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -606,21 +798,56 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "这《论语》，虽是儿童所读之书，但是那齐家治国平天下，都在上面。非比凡\n书也！"
+          "text": "这《论语》，虽是儿童所读之书，但是那齐家治国平天下，都在上面。非比凡"
+        },
+        {
+          "character": "赵普",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "书也！"
         },
         {
           "character": "赵普",
           "line_type": "二黄摇板",
           "musical_style": "二黄摇板",
           "style_family": "二黄",
-          "text": "《论语》虽是儿童读讲，\n经济权衡治朝纲。\n一统山河定有方。"
+          "text": "《论语》虽是儿童读讲，"
         },
         {
-          "character": "圣道如天不可量、赵匡胤",
+          "character": "赵普",
           "line_type": "二黄摇板",
           "musical_style": "二黄摇板",
           "style_family": "二黄",
-          "text": "听一言来心清气爽，\n看此书果能够治国安邦。"
+          "text": "经济权衡治朝纲。"
+        },
+        {
+          "character": "赵普",
+          "line_type": "二黄摇板",
+          "musical_style": "二黄摇板",
+          "style_family": "二黄",
+          "text": "一统山河定有方。"
+        },
+        {
+          "character": "赵普",
+          "line_type": "二黄摇板",
+          "musical_style": "二黄摇板",
+          "style_family": "二黄",
+          "text": "圣道如天不可量"
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "二黄摇板",
+          "musical_style": "二黄摇板",
+          "style_family": "二黄",
+          "text": "听一言来心清气爽，"
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "二黄摇板",
+          "musical_style": "二黄摇板",
+          "style_family": "二黄",
+          "text": "看此书果能够治国安邦。"
         },
         {
           "character": "张千",
@@ -648,10 +875,31 @@
           "line_type": "二黄原板",
           "musical_style": "二黄原板",
           "style_family": "二黄",
-          "text": "雪夜里在相府同饮琼浆，\n初登基庆丰年君明臣良。\n老贤嫂在席间亲捧霞觞。"
+          "text": "雪夜里在相府同饮琼浆，"
         },
         {
-          "character": "老皇兄在筵前来斟佳酿、赵普",
+          "character": "赵匡胤",
+          "line_type": "二黄原板",
+          "musical_style": "二黄原板",
+          "style_family": "二黄",
+          "text": "初登基庆丰年君明臣良。"
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "二黄原板",
+          "musical_style": "二黄原板",
+          "style_family": "二黄",
+          "text": "老贤嫂在席间亲捧霞觞。"
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "二黄原板",
+          "musical_style": "二黄原板",
+          "style_family": "二黄",
+          "text": "老皇兄在筵前来斟佳酿"
+        },
+        {
+          "character": "赵普",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -662,7 +910,28 @@
           "line_type": "二黄原板",
           "musical_style": "二黄原板",
           "style_family": "二黄",
-          "text": "卿道是糟糠妻不下堂，\n孤与卿贫贱交更不可忘。\n你夫妻比梁鸿匹配孟光。\n老贤嫂且回避孤有话商量。"
+          "text": "卿道是糟糠妻不下堂，"
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "二黄原板",
+          "musical_style": "二黄原板",
+          "style_family": "二黄",
+          "text": "孤与卿贫贱交更不可忘。"
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "二黄原板",
+          "musical_style": "二黄原板",
+          "style_family": "二黄",
+          "text": "你夫妻比梁鸿匹配孟光。"
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "二黄原板",
+          "musical_style": "二黄原板",
+          "style_family": "二黄",
+          "text": "老贤嫂且回避孤有话商量。"
         },
         {
           "character": "赵匡胤",
@@ -672,14 +941,42 @@
           "text": "孤与卿家，有天下大事商量，贤嫂且请后堂歇息。"
         },
         {
-          "character": "孤好比周文王卿比姜尚、酒过了三巡甚是欢畅、赵夫人",
+          "character": "赵匡胤",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "孤好比周文王卿比姜尚"
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "酒过了三巡甚是欢畅"
+        },
+        {
+          "character": "赵夫人",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
           "text": "万岁，万万岁！"
         },
         {
-          "character": "孤好比周文王卿比姜尚、酒过了三巡甚是欢畅、赵夫人",
+          "character": "赵夫人",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "孤好比周文王卿比姜尚"
+        },
+        {
+          "character": "赵夫人",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "酒过了三巡甚是欢畅"
+        },
+        {
+          "character": "赵夫人",
           "line_type": "念",
           "musical_style": null,
           "style_family": null,
@@ -697,31 +994,171 @@
           "line_type": "二黄摇板",
           "musical_style": "二黄摇板",
           "style_family": "二黄",
-          "text": "天寒夜静雪纷纷，\n何故私自出宫廷？\n圣驾何必亲降临？"
+          "text": "天寒夜静雪纷纷，"
         },
         {
-          "character": "国事明朝同众臣论、赵匡胤",
+          "character": "赵普",
+          "line_type": "二黄摇板",
+          "musical_style": "二黄摇板",
+          "style_family": "二黄",
+          "text": "何故私自出宫廷？"
+        },
+        {
+          "character": "赵普",
+          "line_type": "二黄摇板",
+          "musical_style": "二黄摇板",
+          "style_family": "二黄",
+          "text": "圣驾何必亲降临？"
+        },
+        {
+          "character": "赵普",
+          "line_type": "二黄摇板",
+          "musical_style": "二黄摇板",
+          "style_family": "二黄",
+          "text": "国事明朝同众臣论"
+        },
+        {
+          "character": "赵匡胤",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
           "text": "卿家呀！"
         },
         {
-          "character": "国事明朝同众臣论、赵匡胤",
+          "character": "赵匡胤",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "国事明朝同众臣论"
+        },
+        {
+          "character": "赵匡胤",
           "line_type": "二黄原板",
           "musical_style": "二黄原板",
           "style_family": "二黄",
-          "text": "孤心中恨的是钱、李两王，\n有刘银和孟泉更觉猖狂。\n众黎民同受害各处遭殃。\n命何人守西川，谁定两广？\n那江南同吴越无人主张。\n我朝中哪一个是员良将？\n哪一个韬略广是架海金梁？\n还仗着老皇兄仔细参详。"
+          "text": "孤心中恨的是钱、李两王，"
         },
         {
-          "character": "行霸道去仁义万民失望、定江山扶社稷要选能将、赵普",
+          "character": "赵匡胤",
           "line_type": "二黄原板",
           "musical_style": "二黄原板",
           "style_family": "二黄",
-          "text": "万岁爷听为臣把本奏上：\n定江山平疆土且莫着忙。\n再领兵去征剿江南的李王。\n然后再除却那吴越的钱王。\n旗开得胜定然是奏凯朝堂。"
+          "text": "有刘银和孟泉更觉猖狂。"
         },
         {
-          "character": "依臣见取西川后去上党、倘若是破刘银得了两广、这一班酒色徒不难扫荡、赵匡胤",
+          "character": "赵匡胤",
+          "line_type": "二黄原板",
+          "musical_style": "二黄原板",
+          "style_family": "二黄",
+          "text": "众黎民同受害各处遭殃。"
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "二黄原板",
+          "musical_style": "二黄原板",
+          "style_family": "二黄",
+          "text": "命何人守西川，谁定两广？"
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "二黄原板",
+          "musical_style": "二黄原板",
+          "style_family": "二黄",
+          "text": "那江南同吴越无人主张。"
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "二黄原板",
+          "musical_style": "二黄原板",
+          "style_family": "二黄",
+          "text": "我朝中哪一个是员良将？"
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "二黄原板",
+          "musical_style": "二黄原板",
+          "style_family": "二黄",
+          "text": "哪一个韬略广是架海金梁？"
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "二黄原板",
+          "musical_style": "二黄原板",
+          "style_family": "二黄",
+          "text": "还仗着老皇兄仔细参详。"
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "二黄原板",
+          "musical_style": "二黄原板",
+          "style_family": "二黄",
+          "text": "行霸道去仁义万民失望"
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "二黄原板",
+          "musical_style": "二黄原板",
+          "style_family": "二黄",
+          "text": "定江山扶社稷要选能将"
+        },
+        {
+          "character": "赵普",
+          "line_type": "二黄原板",
+          "musical_style": "二黄原板",
+          "style_family": "二黄",
+          "text": "万岁爷听为臣把本奏上："
+        },
+        {
+          "character": "赵普",
+          "line_type": "二黄原板",
+          "musical_style": "二黄原板",
+          "style_family": "二黄",
+          "text": "定江山平疆土且莫着忙。"
+        },
+        {
+          "character": "赵普",
+          "line_type": "二黄原板",
+          "musical_style": "二黄原板",
+          "style_family": "二黄",
+          "text": "再领兵去征剿江南的李王。"
+        },
+        {
+          "character": "赵普",
+          "line_type": "二黄原板",
+          "musical_style": "二黄原板",
+          "style_family": "二黄",
+          "text": "然后再除却那吴越的钱王。"
+        },
+        {
+          "character": "赵普",
+          "line_type": "二黄原板",
+          "musical_style": "二黄原板",
+          "style_family": "二黄",
+          "text": "旗开得胜定然是奏凯朝堂。"
+        },
+        {
+          "character": "赵普",
+          "line_type": "二黄原板",
+          "musical_style": "二黄原板",
+          "style_family": "二黄",
+          "text": "依臣见取西川后去上党"
+        },
+        {
+          "character": "赵普",
+          "line_type": "二黄原板",
+          "musical_style": "二黄原板",
+          "style_family": "二黄",
+          "text": "倘若是破刘银得了两广"
+        },
+        {
+          "character": "赵普",
+          "line_type": "二黄原板",
+          "musical_style": "二黄原板",
+          "style_family": "二黄",
+          "text": "这一班酒色徒不难扫荡"
+        },
+        {
+          "character": "赵匡胤",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -732,21 +1169,49 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "臣启万岁：想那孟泉、刘银、钱、李二王，皆是些酒色之徒，昏庸无道，暴虐\n待人，民心怨恨。若命曹彬下江南，王全斌取西川，潘仁美定两广，石守信收\n吴越，自必旗开得胜，马到成功。"
-        },
-        {
-          "character": "赵匡胤",
-          "line_type": "白",
-          "musical_style": null,
-          "style_family": null,
-          "text": "此四人之韬略，孤亦尽知。就命卿家，速速遣人，将四将唤进府来。急速着他\n们，领兵前去。"
+          "text": "臣启万岁：想那孟泉、刘银、钱、李二王，皆是些酒色之徒，昏庸无道，暴虐"
         },
         {
           "character": "赵普",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "领旨。\n张千，速速将四将，传进府来，不得有误。"
+          "text": "待人，民心怨恨。若命曹彬下江南，王全斌取西川，潘仁美定两广，石守信收"
+        },
+        {
+          "character": "赵普",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "吴越，自必旗开得胜，马到成功。"
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "此四人之韬略，孤亦尽知。就命卿家，速速遣人，将四将唤进府来。急速着他"
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "们，领兵前去。"
+        },
+        {
+          "character": "赵普",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "领旨。"
+        },
+        {
+          "character": "赵普",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "张千，速速将四将，传进府来，不得有误。"
         },
         {
           "character": "张千",
@@ -914,10 +1379,122 @@
           "line_type": "西皮二六板",
           "musical_style": "西皮二六板",
           "style_family": "西皮",
-          "text": "众卿进前听旨降，\n孤王言来记心旁：\n兵机战策在腹中藏。\n夜战须把锣鼓扬。\n水战随风使帆桨。\n扫灭妖氛理应当。\n休污民妻烧损民房。\n凌烟阁上美名扬。"
+          "text": "众卿进前听旨降，"
         },
         {
-          "character": "自古道用兵须有胆量、日战要将阵图讲、步战弓箭护大帐、各路若把王师抗、三军莫把黎民掠抢、得胜归来定封卿相、曹彬、石守信、王全斌、潘仁美",
+          "character": "赵匡胤",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "孤王言来记心旁："
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "兵机战策在腹中藏。"
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "夜战须把锣鼓扬。"
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "水战随风使帆桨。"
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "扫灭妖氛理应当。"
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "休污民妻烧损民房。"
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "凌烟阁上美名扬。"
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "自古道用兵须有胆量"
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "日战要将阵图讲"
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "步战弓箭护大帐"
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "各路若把王师抗"
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "三军莫把黎民掠抢"
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "得胜归来定封卿相"
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "曹彬"
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "石守信"
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "王全斌"
+        },
+        {
+          "character": "潘仁美",
           "line_type": "同白",
           "musical_style": null,
           "style_family": null,
@@ -984,7 +1561,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "列位将军，此番征讨各路，但愿旗开得胜，马到成功，班师回朝，加官进爵，\n也不辜负老父的举荐。"
+          "text": "列位将军，此番征讨各路，但愿旗开得胜，马到成功，班师回朝，加官进爵，"
+        },
+        {
+          "character": "赵普",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "也不辜负老父的举荐。"
         },
         {
           "character": "曹彬、石守信、王全斌、潘仁美",
@@ -1145,7 +1729,17 @@
           "二黄摇板",
           "西皮二六"
         ]
-      }
+      },
+      "scene_feature": [
+        0.079,
+        0.4451,
+        0.4971,
+        0.0578,
+        0.4302,
+        11,
+        0.0983,
+        0.3468
+      ]
     }
   ]
 }

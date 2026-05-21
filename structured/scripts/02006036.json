@@ -115,35 +115,112 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "愁城一望无边际，\n走遍吴头并楚岐。\n问天何时是了期。"
-        },
-        {
-          "character": "闻仁",
-          "line_type": "白",
-          "musical_style": null,
-          "style_family": null,
-          "text": "我，闻道泉。蒙都察院老爷开恩，押我寻访娘子与百花羞下落。将及一月，可\n怜走遍天涯，哪里寻个踪迹。哎呀，天皇吓我并不曾为非作歹，平白的遭这无\n头横祸。好苦吓！"
-        },
-        {
-          "character": "黑地冤枉无伸诉、捕役",
-          "line_type": "白",
-          "musical_style": null,
-          "style_family": null,
-          "text": "你也不必怨苦，好歹往前途寻问一番。若再没有，限期已满。要去回都老爷的\n话了。"
-        },
-        {
-          "character": "闻仁",
-          "line_type": "白",
-          "musical_style": null,
-          "style_family": null,
-          "text": "大哥之言有理。\n皇天！我闻道泉受此无辜，怎不开眼一看哪！"
+          "text": "愁城一望无边际，"
         },
         {
           "character": "闻仁",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "平白飞灾来缠累，\n叫天不应泪空垂。\n到得今生受灾危。\n披锁监押访娥眉。\n不然一命难免轮回。"
+          "text": "走遍吴头并楚岐。"
+        },
+        {
+          "character": "闻仁",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "问天何时是了期。"
+        },
+        {
+          "character": "闻仁",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我，闻道泉。蒙都察院老爷开恩，押我寻访娘子与百花羞下落。将及一月，可"
+        },
+        {
+          "character": "闻仁",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "怜走遍天涯，哪里寻个踪迹。哎呀，天皇吓我并不曾为非作歹，平白的遭这无"
+        },
+        {
+          "character": "闻仁",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "头横祸。好苦吓！"
+        },
+        {
+          "character": "闻仁",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "黑地冤枉无伸诉"
+        },
+        {
+          "character": "捕役",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "你也不必怨苦，好歹往前途寻问一番。若再没有，限期已满。要去回都老爷的"
+        },
+        {
+          "character": "捕役",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "话了。"
+        },
+        {
+          "character": "闻仁",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "大哥之言有理。"
+        },
+        {
+          "character": "闻仁",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "皇天！我闻道泉受此无辜，怎不开眼一看哪！"
+        },
+        {
+          "character": "闻仁",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "平白飞灾来缠累，"
+        },
+        {
+          "character": "闻仁",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "叫天不应泪空垂。"
+        },
+        {
+          "character": "闻仁",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "到得今生受灾危。"
+        },
+        {
+          "character": "闻仁",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "披锁监押访娥眉。"
+        },
+        {
+          "character": "闻仁",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "不然一命难免轮回。"
         },
         {
           "character": null,
@@ -172,7 +249,17 @@
         "singing_ratio": 0.333,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.333,
+        0.5,
+        0.5,
+        0.0,
+        0.1333,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -211,7 +298,7 @@
           "text": "救师岂肯迟。"
         },
         {
-          "character": null,
+          "character": "孙悟空",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -309,7 +396,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.5,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -339,35 +436,112 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "愁城一望无边际，\n走遍吴头并楚岐。\n问天何时是了期。"
-        },
-        {
-          "character": "闻仁",
-          "line_type": "白",
-          "musical_style": null,
-          "style_family": null,
-          "text": "我，闻道泉。蒙都察院老爷开恩，押我寻访娘子与百花羞下落。将及一月，可\n怜走遍天涯，哪里寻个踪迹。哎呀，天皇吓我并不曾为非作歹，平白的遭这无\n头横祸。好苦吓！"
-        },
-        {
-          "character": "黑地冤枉无伸诉、捕役",
-          "line_type": "白",
-          "musical_style": null,
-          "style_family": null,
-          "text": "你也不必怨苦，好歹往前途寻问一番。若再没有，限期已满。要去回都老爷的\n话了。"
-        },
-        {
-          "character": "闻仁",
-          "line_type": "白",
-          "musical_style": null,
-          "style_family": null,
-          "text": "大哥之言有理。\n皇天！我闻道泉受此无辜，怎不开眼一看哪！"
+          "text": "愁城一望无边际，"
         },
         {
           "character": "闻仁",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "平白飞灾来缠累，\n叫天不应泪空垂。\n到得今生受灾危。\n披锁监押访娥眉。\n不然一命难免轮回。"
+          "text": "走遍吴头并楚岐。"
+        },
+        {
+          "character": "闻仁",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "问天何时是了期。"
+        },
+        {
+          "character": "闻仁",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我，闻道泉。蒙都察院老爷开恩，押我寻访娘子与百花羞下落。将及一月，可"
+        },
+        {
+          "character": "闻仁",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "怜走遍天涯，哪里寻个踪迹。哎呀，天皇吓我并不曾为非作歹，平白的遭这无"
+        },
+        {
+          "character": "闻仁",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "头横祸。好苦吓！"
+        },
+        {
+          "character": "闻仁",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "黑地冤枉无伸诉"
+        },
+        {
+          "character": "捕役",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "你也不必怨苦，好歹往前途寻问一番。若再没有，限期已满。要去回都老爷的"
+        },
+        {
+          "character": "捕役",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "话了。"
+        },
+        {
+          "character": "闻仁",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "大哥之言有理。"
+        },
+        {
+          "character": "闻仁",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "皇天！我闻道泉受此无辜，怎不开眼一看哪！"
+        },
+        {
+          "character": "闻仁",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "平白飞灾来缠累，"
+        },
+        {
+          "character": "闻仁",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "叫天不应泪空垂。"
+        },
+        {
+          "character": "闻仁",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "到得今生受灾危。"
+        },
+        {
+          "character": "闻仁",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "披锁监押访娥眉。"
+        },
+        {
+          "character": "闻仁",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "不然一命难免轮回。"
         },
         {
           "character": null,
@@ -409,7 +583,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "呀！忽然冤气冲天。\n兄弟，这冤气有些缘故。"
+          "text": "呀！忽然冤气冲天。"
+        },
+        {
+          "character": "闻仁",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "兄弟，这冤气有些缘故。"
         },
         {
           "character": null,
@@ -493,7 +674,21 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "两腿疼痛步难挪，\n道路泥滑似滂沱。\n瞑目九泉待如何？"
+          "text": "两腿疼痛步难挪，"
+        },
+        {
+          "character": "闻仁",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "道路泥滑似滂沱。"
+        },
+        {
+          "character": "闻仁",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "瞑目九泉待如何？"
         },
         {
           "character": null,
@@ -521,7 +716,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "不要怕。我们是大唐天子差往西天取经的圣僧徒弟。我乃孙悟空，他叫猪悟能。\n你有什么冤情，对我们讲了。自然还你个明白。"
+          "text": "不要怕。我们是大唐天子差往西天取经的圣僧徒弟。我乃孙悟空，他叫猪悟能。"
+        },
+        {
+          "character": "孙悟空",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "你有什么冤情，对我们讲了。自然还你个明白。"
         },
         {
           "character": "闻仁",
@@ -535,7 +737,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "只为元宵春灯谜。\n千金披卷把祸移。"
+          "text": "只为元宵春灯谜。"
+        },
+        {
+          "character": "闻仁",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "千金披卷把祸移。"
         },
         {
           "character": "孙悟空、猪悟能",
@@ -563,17 +772,66 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "师父莫非知来历，\n这场冤屈世间稀。\n惹得捕役心带疑。\n三敲六问受鞭笞。"
+          "text": "师父莫非知来历，"
+        },
+        {
+          "character": "闻仁",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "这场冤屈世间稀。"
+        },
+        {
+          "character": "闻仁",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "惹得捕役心带疑。"
+        },
+        {
+          "character": "闻仁",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "三敲六问受鞭笞。"
         },
         {
           "character": "闻仁",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "那捕役将我等拿住，道我妻子，就是百花羞。被我用什么邪术，将他们来藏匿\n过了。"
+          "text": "那捕役将我等拿住，道我妻子，就是百花羞。被我用什么邪术，将他们来藏匿"
         },
         {
-          "character": "我同妻子进京地、不分皂白来拿住、孙悟空、猪悟能",
+          "character": "闻仁",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "过了。"
+        },
+        {
+          "character": "闻仁",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我同妻子进京地"
+        },
+        {
+          "character": "闻仁",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "不分皂白来拿住"
+        },
+        {
+          "character": "闻仁",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "孙悟空"
+        },
+        {
+          "character": "猪悟能",
           "line_type": "同白",
           "musical_style": null,
           "style_family": null,
@@ -598,28 +856,70 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "我的罪案已呈圣上，恐有含冤，批与都察院复勘。蒙那老爷审出情由，奈无实\n迹，不便回旨。赏了路费，差这位解哥押我访寻。可怜哪！"
+          "text": "我的罪案已呈圣上，恐有含冤，批与都察院复勘。蒙那老爷审出情由，奈无实"
+        },
+        {
+          "character": "闻仁",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "迹，不便回旨。赏了路费，差这位解哥押我访寻。可怜哪！"
         },
         {
           "character": "闻仁",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "无踪迹，\n夫妻两地无会期。\n幸遇慈悲救残躯。"
+          "text": "无踪迹，"
         },
         {
-          "character": "无奈只得寻死地、孙悟空",
+          "character": "闻仁",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "夫妻两地无会期。"
+        },
+        {
+          "character": "闻仁",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "幸遇慈悲救残躯。"
+        },
+        {
+          "character": "闻仁",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "无奈只得寻死地"
+        },
+        {
+          "character": "孙悟空",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
           "text": "好。我与你有缘，我二人也是为百花羞一事而来。你妻子下落，我已知道了。"
         },
         {
-          "character": "无奈只得寻死地、孙悟空",
+          "character": "孙悟空",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "无奈只得寻死地"
+        },
+        {
+          "character": "孙悟空",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "管叫你雾散云开，\n重现出一轮蟾桂。"
+          "text": "管叫你雾散云开，"
+        },
+        {
+          "character": "孙悟空",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "重现出一轮蟾桂。"
         },
         {
           "character": "闻仁",
@@ -654,7 +954,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "哥哥，事有凑巧。师父蒙百花羞放走，有书两封，一封是百花羞寄与父母，一\n封是闻道泉之妻，寄与他丈夫的。"
+          "text": "哥哥，事有凑巧。师父蒙百花羞放走，有书两封，一封是百花羞寄与父母，一"
+        },
+        {
+          "character": "猪悟能",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "封是闻道泉之妻，寄与他丈夫的。"
         },
         {
           "character": "孙悟空",
@@ -668,7 +975,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "哥哥果有先见之明。服你，服你。\n闻生请看书。"
+          "text": "哥哥果有先见之明。服你，服你。"
+        },
+        {
+          "character": "猪悟能",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "闻生请看书。"
         },
         {
           "character": null,
@@ -682,7 +996,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "妻吓！果然是妻子手笔。\n二位大恩人，请上受我一拜。"
+          "text": "妻吓！果然是妻子手笔。"
+        },
+        {
+          "character": "闻仁",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "二位大恩人，请上受我一拜。"
         },
         {
           "character": "孙悟空、猪悟能",
@@ -849,7 +1170,17 @@
         "singing_ratio": 0.061,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.061,
+        0.2949,
+        0.7051,
+        0.0,
+        0.4675,
+        7,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 4,
@@ -916,7 +1247,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "不要胡说。\n二位小娘子，我们不是妖怪，是唐三藏的徒弟。特来救你，不要害怕。闻生为\n了二位，受尽无限苦愁。方才投崖自尽，是我救了。带他来你们相会。"
+          "text": "不要胡说。"
+        },
+        {
+          "character": "孙悟空",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "二位小娘子，我们不是妖怪，是唐三藏的徒弟。特来救你，不要害怕。闻生为"
+        },
+        {
+          "character": "孙悟空",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "了二位，受尽无限苦愁。方才投崖自尽，是我救了。带他来你们相会。"
         },
         {
           "character": "花香洁",
@@ -930,7 +1275,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "在外厢。\n师弟，令他夫妻相会了，随后就来。我先去救师父。拿那妖怪也！"
+          "text": "在外厢。"
+        },
+        {
+          "character": "孙悟空",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "师弟，令他夫妻相会了，随后就来。我先去救师父。拿那妖怪也！"
         },
         {
           "character": "猪悟能",
@@ -1075,7 +1427,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.6875,
+        6,
+        0.0,
+        0.0
+      ]
     }
   ]
 }

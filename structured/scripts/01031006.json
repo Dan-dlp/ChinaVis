@@ -156,7 +156,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "吾乃，赤发虬龙是也。在这莲花塘内，修炼千年，倒也逍遥自在。\n吓夫人！"
+          "text": "吾乃，赤发虬龙是也。在这莲花塘内，修炼千年，倒也逍遥自在。"
+        },
+        {
+          "character": "老龙",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "吓夫人！"
         },
         {
           "character": "母龙",
@@ -255,7 +262,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0833,
+        0.8333,
+        0.0833,
+        0.6364,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -269,14 +286,14 @@
       ],
       "lines": [
         {
-          "character": null,
+          "character": "杨氏",
           "line_type": "念",
           "musical_style": null,
           "style_family": null,
           "text": "奴家生来命运差，嫁个丈夫丑如麻。纵有家财无处用，终朝念佛把香插。"
         },
         {
-          "character": null,
+          "character": "杨氏",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -294,28 +311,63 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "嫁与金钱子为妻，虽有家财万贯。怎奈他长的四六不成材，三分不像人，七分\n倒像鬼。我不见他倒好。一见他我就有气。每天无事，只是烧香念佛。这日子\n也不知到何日是个了吓！"
-        },
-        {
-          "character": "丫鬟",
-          "line_type": "白",
-          "musical_style": null,
-          "style_family": null,
-          "text": "我说大奶奶，我自嫁了您们大爷，吃的是珍馐美味，穿的是绫罗绸缎，哪有一\n点不好？等到明年，再生养一位少爷，您岂不是更乐啦吗？"
+          "text": "嫁与金钱子为妻，虽有家财万贯。怎奈他长的四六不成材，三分不像人，七分"
         },
         {
           "character": "杨氏",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "你再也不要说啦。不提养儿子到好，提起了养儿子，反倒叫我生气。你看你们\n大爷，那个长相儿，三分不像人，七分倒像鬼，不见他倒好，一见他我就生气。"
+          "text": "倒像鬼。我不见他倒好。一见他我就有气。每天无事，只是烧香念佛。这日子"
+        },
+        {
+          "character": "杨氏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "也不知到何日是个了吓！"
         },
         {
           "character": "丫鬟",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "大奶奶，您倒不要这样说。我们大爷，虽然相貌丑陋，到了晚上，办起事来，\n同人家是一样的滋味。"
+          "text": "我说大奶奶，我自嫁了您们大爷，吃的是珍馐美味，穿的是绫罗绸缎，哪有一"
+        },
+        {
+          "character": "丫鬟",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "点不好？等到明年，再生养一位少爷，您岂不是更乐啦吗？"
+        },
+        {
+          "character": "杨氏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "你再也不要说啦。不提养儿子到好，提起了养儿子，反倒叫我生气。你看你们"
+        },
+        {
+          "character": "杨氏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "大爷，那个长相儿，三分不像人，七分倒像鬼，不见他倒好，一见他我就生气。"
+        },
+        {
+          "character": "丫鬟",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "大奶奶，您倒不要这样说。我们大爷，虽然相貌丑陋，到了晚上，办起事来，"
+        },
+        {
+          "character": "丫鬟",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "同人家是一样的滋味。"
         },
         {
           "character": "杨氏",
@@ -343,7 +395,21 @@
           "line_type": "西皮原板",
           "musical_style": "西皮原板",
           "style_family": "西皮",
-          "text": "艳阳日春光好花红一片，\n桃花红杨柳绿百鸟声喧。\n又只见双燕子飞落池边。"
+          "text": "艳阳日春光好花红一片，"
+        },
+        {
+          "character": "杨氏",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "桃花红杨柳绿百鸟声喧。"
+        },
+        {
+          "character": "杨氏",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "又只见双燕子飞落池边。"
         },
         {
           "character": null,
@@ -357,21 +423,63 @@
           "line_type": "西皮原板",
           "musical_style": "西皮原板",
           "style_family": "西皮",
-          "text": "离却了莲花塘大街游玩，\n有男女和老少闹嚷声喧。\n假装做一道士沿门化缘。"
+          "text": "离却了莲花塘大街游玩，"
         },
         {
-          "character": "来在了花园门用目观看、丫鬟",
+          "character": "小龙",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "有男女和老少闹嚷声喧。"
+        },
+        {
+          "character": "小龙",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "假装做一道士沿门化缘。"
+        },
+        {
+          "character": "小龙",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "来在了花园门用目观看"
+        },
+        {
+          "character": "丫鬟",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "呀，这门外头，是什么人在此敲木鱼儿，待我出去看看。\n嗳呀，敢自是一位小道士在这里化缘呐。\n我说大奶奶，瞧您门外头，来了一位小道童，在咱们这儿化缘呐。"
+          "text": "呀，这门外头，是什么人在此敲木鱼儿，待我出去看看。"
+        },
+        {
+          "character": "丫鬟",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "嗳呀，敢自是一位小道士在这里化缘呐。"
+        },
+        {
+          "character": "丫鬟",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我说大奶奶，瞧您门外头，来了一位小道童，在咱们这儿化缘呐。"
         },
         {
           "character": "杨氏",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "待我出去看看。\n我说那一位道童，你是从哪里来的？你要一一讲来。"
+          "text": "待我出去看看。"
+        },
+        {
+          "character": "杨氏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我说那一位道童，你是从哪里来的？你要一一讲来。"
         },
         {
           "character": "小龙",
@@ -385,10 +493,31 @@
           "line_type": "西皮原板",
           "musical_style": "西皮原板",
           "style_family": "西皮",
-          "text": "家住在盘陀山玄真庙院，\n每日里在山中修道参禅。\n因此上求施主资助银钱。"
+          "text": "家住在盘陀山玄真庙院，"
         },
         {
-          "character": "都只为庙残破欲修宫殿、杨氏",
+          "character": "小龙",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "每日里在山中修道参禅。"
+        },
+        {
+          "character": "小龙",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "因此上求施主资助银钱。"
+        },
+        {
+          "character": "小龙",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "都只为庙残破欲修宫殿"
+        },
+        {
+          "character": "杨氏",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -470,7 +599,17 @@
         "musical_styles": [
           "西皮原板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.059,
+        0.3143,
+        0.6857,
+        0.0,
+        0.4706,
+        3,
+        0.3143,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -491,7 +630,21 @@
           "line_type": "西皮原板",
           "musical_style": "西皮原板",
           "style_family": "西皮",
-          "text": "生在了富豪家十分侥幸，\n有田产和家财骡马成群。\n只吃得醉醺醺转回家门。"
+          "text": "生在了富豪家十分侥幸，"
+        },
+        {
+          "character": "金钱子",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "有田产和家财骡马成群。"
+        },
+        {
+          "character": "金钱子",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "只吃得醉醺醺转回家门。"
         },
         {
           "character": null,
@@ -512,7 +665,17 @@
         "musical_styles": [
           "西皮原板"
         ]
-      }
+      },
+      "scene_feature": [
+        1.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1,
+        1.0,
+        0.0
+      ]
     },
     {
       "scene_index": 4,
@@ -585,7 +748,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "将身来在卧房外，\n见一道童怒冲怀。"
+          "text": "将身来在卧房外，"
+        },
+        {
+          "character": "金钱子",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "见一道童怒冲怀。"
         },
         {
           "character": "金钱子",
@@ -613,7 +783,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "你说不是妖怪，这一时三刻，管叫他化为脓血而亡。\n天灵灵，地灵灵，唵嘛呢，叭咪吽。"
+          "text": "你说不是妖怪，这一时三刻，管叫他化为脓血而亡。"
+        },
+        {
+          "character": "小龙",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "天灵灵，地灵灵，唵嘛呢，叭咪吽。"
         },
         {
           "character": null,
@@ -634,7 +811,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "嗳呀，我的妈呀，这一刻的工夫，我们大爷也化成了血泥啦.这小道童，也被\n雷给殛啦，这怎么好？"
+          "text": "嗳呀，我的妈呀，这一刻的工夫，我们大爷也化成了血泥啦.这小道童，也被"
+        },
+        {
+          "character": "丫鬟",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "雷给殛啦，这怎么好？"
         },
         {
           "character": "杨氏",
@@ -690,7 +874,17 @@
         "singing_ratio": 0.231,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.231,
+        0.2353,
+        0.7647,
+        0.0,
+        0.75,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 5,
@@ -743,7 +937,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 6,
@@ -776,7 +980,17 @@
         "singing_ratio": 1.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        1.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 7,
@@ -812,7 +1026,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "我闲听人言，你在那少林寺，参禅悟道，养性修真。面壁九年，头上喜鹊成巢，\n耳朵内长出青草来，人人都道你圆寂了。怎么你还不会死么？"
+          "text": "我闲听人言，你在那少林寺，参禅悟道，养性修真。面壁九年，头上喜鹊成巢，"
+        },
+        {
+          "character": "孙悟空",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "耳朵内长出青草来，人人都道你圆寂了。怎么你还不会死么？"
         },
         {
           "character": "达摩",
@@ -854,14 +1075,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "只因莲花塘，赤发虬龙作乱，水淹百里，伤害无数生灵。玉帝大怒，点动天兵\n天将，扫荡孽龙。连俺老孙，也在其内。"
+          "text": "只因莲花塘，赤发虬龙作乱，水淹百里，伤害无数生灵。玉帝大怒，点动天兵"
+        },
+        {
+          "character": "孙悟空",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "天将，扫荡孽龙。连俺老孙，也在其内。"
         },
         {
           "character": "达摩",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "原来如此。看今日你我相逢，可算有缘，吾同你去到十洲三岛游玩一回，你意\n如何？"
+          "text": "原来如此。看今日你我相逢，可算有缘，吾同你去到十洲三岛游玩一回，你意"
+        },
+        {
+          "character": "达摩",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "如何？"
         },
         {
           "character": "孙悟空",
@@ -910,7 +1145,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.7857,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 8,
@@ -931,7 +1176,42 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "众神将，莲花塘去者。\n（四上手、金吒、木吒、哪吒、伽蓝、青龙、白虎同允。四下手、四水卒、四水怪、老龙、母龙同上，同会\n阵，同起打连环。母龙下枪花，打出手。四上手、金吒、木吒、哪吒、伽蓝、青龙、白虎、二郎神同败下。\n母龙耍大刀花，下。打十二股荡。孙悟空对老龙败下。母龙上，孙悟空打母龙下。孙悟空耍棍花，下。四上\n手、金吒、木吒、哪吒、伽蓝、青龙、白虎、二郎神同上，同摆阵。四下手、四水卒、四水怪同翻跟头。布\n景开幕，满台莲花灯彩。老龙形、母龙形同被擒。）"
+          "text": "众神将，莲花塘去者。"
+        },
+        {
+          "character": "二郎神",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "（四上手、金吒、木吒、哪吒、伽蓝、青龙、白虎同允。四下手、四水卒、四水怪、老龙、母龙同上，同会"
+        },
+        {
+          "character": "二郎神",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "阵，同起打连环。母龙下枪花，打出手。四上手、金吒、木吒、哪吒、伽蓝、青龙、白虎、二郎神同败下。"
+        },
+        {
+          "character": "二郎神",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "母龙耍大刀花，下。打十二股荡。孙悟空对老龙败下。母龙上，孙悟空打母龙下。孙悟空耍棍花，下。四上"
+        },
+        {
+          "character": "二郎神",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "手、金吒、木吒、哪吒、伽蓝、青龙、白虎、二郎神同上，同摆阵。四下手、四水卒、四水怪同翻跟头。布"
+        },
+        {
+          "character": "二郎神",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "景开幕，满台莲花灯彩。老龙形、母龙形同被擒。）"
         },
         {
           "character": "二郎神",
@@ -957,7 +1237,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     }
   ]
 }

@@ -206,7 +206,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "小王，朱文逊。奉了叔王旨意，同花云将军镇守太平城一带等处。只因陈友谅\n兴兵前来夺取城池，为此与花将军商议破敌之策。\n内侍，宣花将军进宫！"
+          "text": "小王，朱文逊。奉了叔王旨意，同花云将军镇守太平城一带等处。只因陈友谅"
+        },
+        {
+          "character": "朱文逊",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "兴兵前来夺取城池，为此与花将军商议破敌之策。"
+        },
+        {
+          "character": "朱文逊",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "内侍，宣花将军进宫！"
         },
         {
           "character": "太监甲",
@@ -283,7 +297,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "待臣回府，点动人马，把守闸子口，再命人守住矶头。臣带兵抵贼，主公打本\n去到金陵，请兵救应，何惧逆贼不退？"
+          "text": "待臣回府，点动人马，把守闸子口，再命人守住矶头。臣带兵抵贼，主公打本"
+        },
+        {
+          "character": "花云",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "去到金陵，请兵救应，何惧逆贼不退？"
         },
         {
           "character": "朱文逊",
@@ -352,7 +373,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.05,
+        0.75,
+        0.2,
+        0.5263,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -442,7 +473,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "夫人有所不知，只因陈友谅兴兵前来，小千岁命我领兵抵贼。可恨贼寇，无端\n又起风波，你道恼是不恼？"
+          "text": "夫人有所不知，只因陈友谅兴兵前来，小千岁命我领兵抵贼。可恨贼寇，无端"
+        },
+        {
+          "character": "花云",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "又起风波，你道恼是不恼？"
         },
         {
           "character": "郜夫人、孙夫人",
@@ -659,17 +697,38 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "扫烟尘开疆土定主乾坤。\n君依礼臣尽忠哪顾宗亲。"
+          "text": "扫烟尘开疆土定主乾坤。"
         },
         {
-          "character": "古至今多少人不惜性命、郜夫人",
+          "character": "花云",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "君依礼臣尽忠哪顾宗亲。"
+        },
+        {
+          "character": "花云",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "古至今多少人不惜性命"
+        },
+        {
+          "character": "郜夫人",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
           "text": "看酒！"
         },
         {
-          "character": "古至今多少人不惜性命、郜夫人",
+          "character": "郜夫人",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "古至今多少人不惜性命"
+        },
+        {
+          "character": "郜夫人",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
@@ -687,7 +746,21 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "接过了得胜酒心中自忖，\n转身来祭虚空过往尊神。\n方显得安邦将盖国俊英。"
+          "text": "接过了得胜酒心中自忖，"
+        },
+        {
+          "character": "花云",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "转身来祭虚空过往尊神。"
+        },
+        {
+          "character": "花云",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "方显得安邦将盖国俊英。"
         },
         {
           "character": null,
@@ -770,7 +843,17 @@
         "singing_ratio": 0.474,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.474,
+        0.5,
+        0.413,
+        0.087,
+        0.7556,
+        6,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -842,7 +925,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "孤，陈友谅。自汉阳起义以来，抢州夺郡，无所不克。朱元璋在金陵已登大宝，\n是孤心怀不忿，为此兴兵夺取金陵。前面已是太平城。\n大元帅！"
+          "text": "孤，陈友谅。自汉阳起义以来，抢州夺郡，无所不克。朱元璋在金陵已登大宝，"
+        },
+        {
+          "character": "陈友谅",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "是孤心怀不忿，为此兴兵夺取金陵。前面已是太平城。"
+        },
+        {
+          "character": "陈友谅",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "大元帅！"
         },
         {
           "character": "陈友杰",
@@ -863,7 +960,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "得令！\n马来！"
+          "text": "得令！"
+        },
+        {
+          "character": "陈友杰",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "马来！"
         },
         {
           "character": null,
@@ -936,7 +1040,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.8824,
+        0.1176,
+        0.625,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 4,
@@ -961,7 +1075,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "俺，陈友杰。奉了兄王之命，攻打采石矶。\n众将官，杀上前去！"
+          "text": "俺，陈友杰。奉了兄王之命，攻打采石矶。"
+        },
+        {
+          "character": "陈友杰",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "众将官，杀上前去！"
         },
         {
           "character": "四军士",
@@ -982,31 +1103,87 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "二马冲锋在沙场，\n气得花云怒满膛。\n狐群狗党一扫光。"
+          "text": "二马冲锋在沙场，"
         },
         {
-          "character": "无知贼子敢犯上、陈友杰",
+          "character": "花云",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "气得花云怒满膛。"
+        },
+        {
+          "character": "花云",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "狐群狗党一扫光。"
+        },
+        {
+          "character": "花云",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "无知贼子敢犯上"
+        },
+        {
+          "character": "陈友杰",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
           "text": "啊！"
         },
         {
-          "character": "无知贼子敢犯上、陈友杰",
+          "character": "陈友杰",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "无知贼子敢犯上"
+        },
+        {
+          "character": "陈友杰",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "花云小儿休逞强，\n某家言来听端详。\n不然尸首两分张！"
+          "text": "花云小儿休逞强，"
         },
         {
-          "character": "劝你早把城池让、花云",
+          "character": "陈友杰",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "某家言来听端详。"
+        },
+        {
+          "character": "陈友杰",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "不然尸首两分张！"
+        },
+        {
+          "character": "陈友杰",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "劝你早把城池让"
+        },
+        {
+          "character": "花云",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
           "text": "呸！"
         },
         {
-          "character": "劝你早把城池让、花云",
+          "character": "花云",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "劝你早把城池让"
+        },
+        {
+          "character": "花云",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
@@ -1024,7 +1201,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "金枪叫尔狗命丧，\n翻江搅海战一场。"
+          "text": "金枪叫尔狗命丧，"
+        },
+        {
+          "character": "花云",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "翻江搅海战一场。"
         },
         {
           "character": null,
@@ -1062,7 +1246,17 @@
         "singing_ratio": 0.429,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.429,
+        0.6316,
+        0.3684,
+        0.0,
+        0.3333,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 5,
@@ -1202,7 +1396,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.8889,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 6,
@@ -1227,14 +1431,35 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "俺，胡虎。奉了元帅将令，把守采石矶头。\n众将官，小心把守！"
+          "text": "俺，胡虎。奉了元帅将令，把守采石矶头。"
+        },
+        {
+          "character": "胡虎",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "众将官，小心把守！"
         },
         {
           "character": "四龙套",
           "line_type": "同白",
           "musical_style": null,
           "style_family": null,
-          "text": "啊！\n（胡虎登城。水手甲摇船、陈英豹同上，攻，败下。水手乙摇船、陈友杰同上，攻，不成，攻，陈友杰扯住\n胡虎枪头，趁势登矶头。陈友杰、胡虎同拉下，陈英豹、四军士同上，同登矶头，同下。）"
+          "text": "啊！"
+        },
+        {
+          "character": "四龙套",
+          "line_type": "同白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "（胡虎登城。水手甲摇船、陈英豹同上，攻，败下。水手乙摇船、陈友杰同上，攻，不成，攻，陈友杰扯住"
+        },
+        {
+          "character": "四龙套",
+          "line_type": "同白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "胡虎枪头，趁势登矶头。陈友杰、胡虎同拉下，陈英豹、四军士同上，同登矶头，同下。）"
         },
         {
           "character": null,
@@ -1367,7 +1592,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.5833,
+        5,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 7,
@@ -1452,7 +1687,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 8,
@@ -1604,7 +1849,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "对你爹爹去说，那贼大炮一响，吓死皇老太太，姜氏夫人坠楼而亡，叫你爹爹\n快快出马。"
+          "text": "对你爹爹去说，那贼大炮一响，吓死皇老太太，姜氏夫人坠楼而亡，叫你爹爹"
+        },
+        {
+          "character": "朱文逊",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "快快出马。"
         },
         {
           "character": "花安",
@@ -1625,7 +1877,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "启禀爹爹：适才干岁言道，那贼大炮一响，吓死皇老太太，姜氏夫人坠楼而亡。\n叫爹爹快快出马。"
+          "text": "启禀爹爹：适才干岁言道，那贼大炮一响，吓死皇老太太，姜氏夫人坠楼而亡。"
+        },
+        {
+          "character": "花安",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "叫爹爹快快出马。"
         },
         {
           "character": "花云",
@@ -1716,7 +1975,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "哦哦是了！想是你爹爹有投顺北汉王之意。小王有宝剑一口，叫你爹爹将小王\n龙头割下，归降那贼去吧！"
+          "text": "哦哦是了！想是你爹爹有投顺北汉王之意。小王有宝剑一口，叫你爹爹将小王"
+        },
+        {
+          "character": "朱文逊",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "龙头割下，归降那贼去吧！"
         },
         {
           "character": null,
@@ -1730,7 +1996,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "哎呀爹爹！千岁言道，爹爹不肯出马，想是有投顺北汉王之意。留有宝剑在此，\n叫爹爹将他人头割下，归顺那贼去吧！"
+          "text": "哎呀爹爹！千岁言道，爹爹不肯出马，想是有投顺北汉王之意。留有宝剑在此，"
+        },
+        {
+          "character": "花安",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "叫爹爹将他人头割下，归顺那贼去吧！"
         },
         {
           "character": "花云",
@@ -1758,10 +2031,31 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "千岁言语真非理，\n把俺只当小儿欺。"
+          "text": "千岁言语真非理，"
         },
         {
-          "character": "花安与爷带坐骥、郜夫人、孙夫人",
+          "character": "花云",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "把俺只当小儿欺。"
+        },
+        {
+          "character": "花云",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "花安与爷带坐骥"
+        },
+        {
+          "character": "花云",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "郜夫人"
+        },
+        {
+          "character": "孙夫人",
           "line_type": "同白",
           "musical_style": null,
           "style_family": null,
@@ -1772,7 +2066,35 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "二位夫人泪悲啼。\n父子难免各东西。\n花门只有一脉遗。\n大小事情好扶持。\n留个美名万古题。"
+          "text": "二位夫人泪悲啼。"
+        },
+        {
+          "character": "花云",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "父子难免各东西。"
+        },
+        {
+          "character": "花云",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "花门只有一脉遗。"
+        },
+        {
+          "character": "花云",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "大小事情好扶持。"
+        },
+        {
+          "character": "花云",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "留个美名万古题。"
         },
         {
           "character": null,
@@ -1877,7 +2199,17 @@
         "singing_ratio": 0.286,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.286,
+        0.3696,
+        0.587,
+        0.0435,
+        0.7333,
+        6,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 9,
@@ -1921,7 +2253,14 @@
           "line_type": "内白",
           "musical_style": null,
           "style_family": null,
-          "text": "哪里走！\n（陈英豹上，杀花云下，陈英豹追下。朱文逊上，陈英豹、陈友杰同上，同起打，朱文逊下，陈英豹追下。"
+          "text": "哪里走！"
+        },
+        {
+          "character": "陈英豹",
+          "line_type": "内白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "（陈英豹上，杀花云下，陈英豹追下。朱文逊上，陈英豹、陈友杰同上，同起打，朱文逊下，陈英豹追下。"
         }
       ],
       "interactions": [
@@ -1947,7 +2286,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.75,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 10,
@@ -1970,7 +2319,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 11,
@@ -2400,7 +2759,17 @@
         "singing_ratio": 0.2,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.2,
+        0.2791,
+        0.6512,
+        0.0698,
+        0.6429,
+        5,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 12,
@@ -2454,7 +2823,17 @@
         "singing_ratio": 1.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        1.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 13,
@@ -2674,7 +3053,17 @@
         "singing_ratio": 0.455,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.455,
+        0.65,
+        0.35,
+        0.0,
+        0.3684,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 14,
@@ -3374,7 +3763,17 @@
         "singing_ratio": 0.197,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.197,
+        0.2778,
+        0.7222,
+        0.0,
+        0.8028,
+        7,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 15,
@@ -3521,7 +3920,17 @@
         "singing_ratio": 1.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        1.0,
+        0.8462,
+        0.1538,
+        0.0,
+        0.5,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 16,
@@ -3607,7 +4016,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.75,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 17,
@@ -3776,7 +4195,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.875,
+        5,
+        0.0,
+        0.0
+      ]
     }
   ]
 }

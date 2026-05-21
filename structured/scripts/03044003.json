@@ -320,7 +320,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "颍州王刘福通有书信到来，邀请你我四国人马，去至乱石山，同赴兴隆大会，\n设计共灭西吴王朱元龙，以除后患，与大家出气报仇。三位王兄请来传旨！"
+          "text": "颍州王刘福通有书信到来，邀请你我四国人马，去至乱石山，同赴兴隆大会，"
+        },
+        {
+          "character": "方国珍",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "设计共灭西吴王朱元龙，以除后患，与大家出气报仇。三位王兄请来传旨！"
         },
         {
           "character": "周伯颜、左君弼、陈友定",
@@ -405,7 +412,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.9231,
+        7,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -537,14 +554,35 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "元帅，前者小王命七弟郭英前往燕都，与右相撒敦送去一份厚礼，买通奸佞，\n在元顺帝驾前奏本：撤掉脱脱老太师，调他兵马回朝，确保滁州安宁。如今脱\n脱竟三打滁州，是何缘故？"
+          "text": "元帅，前者小王命七弟郭英前往燕都，与右相撒敦送去一份厚礼，买通奸佞，"
+        },
+        {
+          "character": "朱元龙",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "在元顺帝驾前奏本：撤掉脱脱老太师，调他兵马回朝，确保滁州安宁。如今脱"
+        },
+        {
+          "character": "朱元龙",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "脱竟三打滁州，是何缘故？"
         },
         {
           "character": "徐达",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "臣深知我师肺腑，定是有旨宣他人马回朝，我师一秉忠心，非打破滁州，决不\n复旨。臣已有妙计保住滁州，千岁不必多虑。"
+          "text": "臣深知我师肺腑，定是有旨宣他人马回朝，我师一秉忠心，非打破滁州，决不"
+        },
+        {
+          "character": "徐达",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "复旨。臣已有妙计保住滁州，千岁不必多虑。"
         },
         {
           "character": "朱元龙",
@@ -558,7 +596,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "主公可记得十日前，两军交阵，张兴祖八宝阴风鼍龙枪，挑坏我师三宝，怎说\n无有对手？"
+          "text": "主公可记得十日前，两军交阵，张兴祖八宝阴风鼍龙枪，挑坏我师三宝，怎说"
+        },
+        {
+          "character": "徐达",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "无有对手？"
         },
         {
           "character": "朱元龙",
@@ -621,14 +666,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "元帅言之有理。\n来，有请孙军师！"
+          "text": "元帅言之有理。"
+        },
+        {
+          "character": "朱元龙",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来，有请孙军师！"
         },
         {
           "character": "中军",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "领旨。\n有请孙先生！"
+          "text": "领旨。"
+        },
+        {
+          "character": "中军",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "有请孙先生！"
         },
         {
           "character": null,
@@ -663,7 +722,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "谢千岁！\n啊徐元帅、三位大人！"
+          "text": "谢千岁！"
+        },
+        {
+          "character": "孙德崖",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "啊徐元帅、三位大人！"
         },
         {
           "character": "徐达、李善长、陶安、孙炎",
@@ -691,7 +757,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "千岁有所不知，只因脱脱老太师带领大队人马，要扫平各路王子。为此我主在\n乱石山设下兴隆大会，邀请各路王爷赴会议事，同心合力共挡脱脱。现有书信\n一封，千岁请看！"
+          "text": "千岁有所不知，只因脱脱老太师带领大队人马，要扫平各路王子。为此我主在"
+        },
+        {
+          "character": "孙德崖",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "乱石山设下兴隆大会，邀请各路王爷赴会议事，同心合力共挡脱脱。现有书信"
+        },
+        {
+          "character": "孙德崖",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "一封，千岁请看！"
         },
         {
           "character": null,
@@ -719,7 +799,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "孙军师，你主书上写道，叫孤带一将官、一马夫，君臣三人前去赴会。烦劳军\n师回报你主，孤修书不及，照书行事，随后就到。"
+          "text": "孙军师，你主书上写道，叫孤带一将官、一马夫，君臣三人前去赴会。烦劳军"
+        },
+        {
+          "character": "朱元龙",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "师回报你主，孤修书不及，照书行事，随后就到。"
         },
         {
           "character": "孙德崖",
@@ -782,7 +869,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "主公，那刘福通邀请各国人马，设立兴隆大会，明明是要报他叔、弟之仇。主\n公带领一将官、一马夫前去赴会，岂不是飞蛾投火？"
+          "text": "主公，那刘福通邀请各国人马，设立兴隆大会，明明是要报他叔、弟之仇。主"
+        },
+        {
+          "character": "徐达",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "公带领一将官、一马夫前去赴会，岂不是飞蛾投火？"
         },
         {
           "character": "朱元龙",
@@ -796,14 +890,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "事到如今，臣亦无别策。且宣众将进帐，一同商议。\n中军，传众将进帐！"
+          "text": "事到如今，臣亦无别策。且宣众将进帐，一同商议。"
+        },
+        {
+          "character": "徐达",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "中军，传众将进帐！"
         },
         {
           "character": "中军",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "遵命。\n元帅有令，众将进帐！"
+          "text": "遵命。"
+        },
+        {
+          "character": "中军",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "元帅有令，众将进帐！"
         },
         {
           "character": null,
@@ -957,7 +1065,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "元帅命我巧改扮，\n躬身出帐后营转！"
+          "text": "元帅命我巧改扮，"
+        },
+        {
+          "character": "蒋忠",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "躬身出帐后营转！"
         },
         {
           "character": null,
@@ -971,7 +1086,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "蒋忠可称将魁元。\n元帅再把大将宣！"
+          "text": "蒋忠可称将魁元。"
+        },
+        {
+          "character": "朱元龙",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "元帅再把大将宣！"
         },
         {
           "character": "徐达",
@@ -1013,7 +1135,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "元帅将令把我传，\n撩甲提袍到帐前。"
+          "text": "元帅将令把我传，"
+        },
+        {
+          "character": "吴祯",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "撩甲提袍到帐前。"
         },
         {
           "character": "吴祯",
@@ -1048,24 +1177,150 @@
           "line_type": "西皮原板",
           "musical_style": "西皮原板",
           "style_family": "西皮",
-          "text": "刘福通差人来递柬，\n请主赴会乱石山。\n一将一卒保主安。\n可有胆量闯龙潭？"
+          "text": "刘福通差人来递柬，"
         },
         {
-          "character": "明是战场甚凶险、老将军保驾为前站、吴祯",
+          "character": "徐达",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "请主赴会乱石山。"
+        },
+        {
+          "character": "徐达",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "一将一卒保主安。"
+        },
+        {
+          "character": "徐达",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "可有胆量闯龙潭？"
+        },
+        {
+          "character": "徐达",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "明是战场甚凶险"
+        },
+        {
+          "character": "徐达",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "老将军保驾为前站"
+        },
+        {
+          "character": "吴祯",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
           "text": "元帅呀！"
         },
         {
-          "character": "明是战场甚凶险、老将军保驾为前站、吴祯",
+          "character": "吴祯",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "明是战场甚凶险"
+        },
+        {
+          "character": "吴祯",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "老将军保驾为前站"
+        },
+        {
+          "character": "吴祯",
           "line_type": "西皮二六板",
           "musical_style": "西皮二六板",
           "style_family": "西皮",
-          "text": "劝元帅且把心放宽，\n细听吴祯说根源：\n点钢银枪镇三关。\n剑削三首吓番蛮。\n匹马单枪踹贼的营盘。\n老朽舍命保主安。\n施威踏平乱石山！"
+          "text": "劝元帅且把心放宽，"
         },
         {
-          "character": "某自幼熟练青锋剑、卢沟桥上一场战、杀的各国远逃窜、颍州设会虽凶险、倘若席前有更变、朱元龙",
+          "character": "吴祯",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "细听吴祯说根源："
+        },
+        {
+          "character": "吴祯",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "点钢银枪镇三关。"
+        },
+        {
+          "character": "吴祯",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "剑削三首吓番蛮。"
+        },
+        {
+          "character": "吴祯",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "匹马单枪踹贼的营盘。"
+        },
+        {
+          "character": "吴祯",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "老朽舍命保主安。"
+        },
+        {
+          "character": "吴祯",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "施威踏平乱石山！"
+        },
+        {
+          "character": "吴祯",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "某自幼熟练青锋剑"
+        },
+        {
+          "character": "吴祯",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "卢沟桥上一场战"
+        },
+        {
+          "character": "吴祯",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "杀的各国远逃窜"
+        },
+        {
+          "character": "吴祯",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "颍州设会虽凶险"
+        },
+        {
+          "character": "吴祯",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "倘若席前有更变"
+        },
+        {
+          "character": "朱元龙",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
@@ -1083,7 +1338,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "转面再对元帅言：\n乱石山口扎营盘。"
+          "text": "转面再对元帅言："
+        },
+        {
+          "character": "朱元龙",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "乱石山口扎营盘。"
         },
         {
           "character": null,
@@ -1322,7 +1584,17 @@
           "西皮二六",
           "西皮原板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.11,
+        0.281,
+        0.6529,
+        0.0661,
+        0.5917,
+        20,
+        0.1488,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -1362,7 +1634,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 4,
@@ -1418,7 +1700,35 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "孤，颍州王红巾会首刘福通。占据淮南一带等处，立下红巾教会，人马精良。\n可恨朱元龙在滁州伤孤叔、弟，此仇不共戴天。为此在这乱石山安设各样的埋\n伏，修造“百凉楼”一座，内藏火药硝磺等物。曾约四路王侯，各带兵马，帮\n助孤家共灭朱元龙，除害报仇。也曾命军师孙德崖去往滁州下书，诓邀朱元龙\n来赴兴隆大会，至今未见回报。"
+          "text": "孤，颍州王红巾会首刘福通。占据淮南一带等处，立下红巾教会，人马精良。"
+        },
+        {
+          "character": "刘福通",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "可恨朱元龙在滁州伤孤叔、弟，此仇不共戴天。为此在这乱石山安设各样的埋"
+        },
+        {
+          "character": "刘福通",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "伏，修造“百凉楼”一座，内藏火药硝磺等物。曾约四路王侯，各带兵马，帮"
+        },
+        {
+          "character": "刘福通",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "助孤家共灭朱元龙，除害报仇。也曾命军师孙德崖去往滁州下书，诓邀朱元龙"
+        },
+        {
+          "character": "刘福通",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来赴兴隆大会，至今未见回报。"
         },
         {
           "character": "孙德崖",
@@ -1439,7 +1749,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "朱元龙中了牢笼套，\n君臣赴会命难逃。"
+          "text": "朱元龙中了牢笼套，"
+        },
+        {
+          "character": "孙德崖",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "君臣赴会命难逃。"
         },
         {
           "character": "孙德崖",
@@ -1495,7 +1812,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "诓请元龙赴会到，\n我主报仇在今朝。"
+          "text": "诓请元龙赴会到，"
+        },
+        {
+          "character": "孙德崖",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我主报仇在今朝。"
         },
         {
           "character": null,
@@ -1509,7 +1833,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "叔弟仇恨即刻报，\n定叫元龙被火烧。"
+          "text": "叔弟仇恨即刻报，"
+        },
+        {
+          "character": "刘福通",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "定叫元龙被火烧。"
         },
         {
           "character": null,
@@ -1663,7 +1994,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "遵命。\n下面听者！主公有令：刀出鞘、弓上弦，大队人马摆队相迎！"
+          "text": "遵命。"
+        },
+        {
+          "character": "旗牌",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "下面听者！主公有令：刀出鞘、弓上弦，大队人马摆队相迎！"
         },
         {
           "character": "众人",
@@ -1722,7 +2060,17 @@
         "singing_ratio": 0.071,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.071,
+        0.1707,
+        0.7805,
+        0.0488,
+        0.65,
+        5,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 5,
@@ -1745,7 +2093,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 6,
@@ -1828,7 +2186,21 @@
           "line_type": "同白",
           "musical_style": null,
           "style_family": null,
-          "text": "请！\n（刘福通、朱元龙挽手同下，方国珍、周伯颜、左君弼、陈友定随同下。吴祯、杜遵道同亮相，同下。蒋忠、\n焦文丑同亮相，对看。蒋忠下。）"
+          "text": "请！"
+        },
+        {
+          "character": "方国珍、周伯颜、左君弼、陈友定",
+          "line_type": "同白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "（刘福通、朱元龙挽手同下，方国珍、周伯颜、左君弼、陈友定随同下。吴祯、杜遵道同亮相，同下。蒋忠、"
+        },
+        {
+          "character": "方国珍、周伯颜、左君弼、陈友定",
+          "line_type": "同白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "焦文丑同亮相，对看。蒋忠下。）"
         },
         {
           "character": "焦文丑",
@@ -1880,7 +2252,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.7778,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 7,
@@ -1958,7 +2340,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "王兄说哪里话来？孤家叔、弟不识天命，误犯王兄地界，与众将争杀起来，被\n王兄大将斩首沙场，也是他们自寻其死。王兄休要挂怀。如今你我和好，既往\n不咎。"
+          "text": "王兄说哪里话来？孤家叔、弟不识天命，误犯王兄地界，与众将争杀起来，被"
+        },
+        {
+          "character": "刘福通",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "王兄大将斩首沙场，也是他们自寻其死。王兄休要挂怀。如今你我和好，既往"
+        },
+        {
+          "character": "刘福通",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "不咎。"
         },
         {
           "character": "朱元龙",
@@ -1986,7 +2382,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "邀请众位王兄赴会，非为别事，乃为同心合力，共挡脱脱兵马，大家商议退兵\n之策。王兄休得多疑！"
+          "text": "邀请众位王兄赴会，非为别事，乃为同心合力，共挡脱脱兵马，大家商议退兵"
+        },
+        {
+          "character": "刘福通",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "之策。王兄休得多疑！"
         },
         {
           "character": "朱元龙",
@@ -2007,7 +2410,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "请众位王兄畅饮一回。\n众兵将，带路百凉楼！"
+          "text": "请众位王兄畅饮一回。"
+        },
+        {
+          "character": "刘福通",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "众兵将，带路百凉楼！"
         },
         {
           "character": "众人",
@@ -2112,7 +2522,14 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "耳听金钟响连声，\n不"
+          "text": "耳听金钟响连声，"
+        },
+        {
+          "character": "吴祯",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "不"
         }
       ],
       "interactions": [
@@ -2227,7 +2644,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.196,
+        0.069,
+        0.931,
+        0.0,
+        0.7857,
+        6,
+        0.069,
+        0.0
+      ]
     },
     {
       "scene_index": 8,
@@ -2333,7 +2760,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.8,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 9,
@@ -2373,7 +2810,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 10,
@@ -2484,7 +2931,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        5,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 11,
@@ -2507,7 +2964,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 12,
@@ -2530,7 +2997,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 13,
@@ -2583,7 +3060,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 14,
@@ -2647,7 +3134,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 15,
@@ -2670,7 +3167,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 16,
@@ -2843,7 +3350,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.9167,
+        0.0833,
+        0.8182,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 17,
@@ -2983,7 +3500,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.125,
+        0.875,
+        0.0,
+        0.7143,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 18,
@@ -3044,7 +3571,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        2,
+        0.0,
+        0.0
+      ]
     }
   ]
 }

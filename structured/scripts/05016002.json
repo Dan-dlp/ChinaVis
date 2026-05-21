@@ -156,7 +156,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "小王李世民。今有窦建德打来战表，要夺父王江山，不免请出三位国公，议论\n此事。\n来。"
+          "text": "小王李世民。今有窦建德打来战表，要夺父王江山，不免请出三位国公，议论"
+        },
+        {
+          "character": "李世民",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "此事。"
+        },
+        {
+          "character": "李世民",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来。"
         },
         {
           "character": "四太监",
@@ -247,14 +261,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "众位国公有所不知，今有夏明王窦建德打来战表，要与我父王争夺江山，因此\n请三位国公进帐，议论此事。"
+          "text": "众位国公有所不知，今有夏明王窦建德打来战表，要与我父王争夺江山，因此"
+        },
+        {
+          "character": "李世民",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "请三位国公进帐，议论此事。"
         },
         {
           "character": "徐勣",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "想窦建德乃敖国公尉迟恭马前败将，非他出阵不可，我君臣去到置田庄，聘请\n敖国公到来，方可成功。"
+          "text": "想窦建德乃敖国公尉迟恭马前败将，非他出阵不可，我君臣去到置田庄，聘请"
+        },
+        {
+          "character": "徐勣",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "敖国公到来，方可成功。"
         },
         {
           "character": "李世民",
@@ -289,7 +317,28 @@
           "line_type": "西皮二六板",
           "musical_style": "西皮二六板",
           "style_family": "西皮",
-          "text": "我父王坐江山风调雨顺，\n全凭着驾下的文武公卿。\n一心要夺父王锦绣龙廷。\n但愿得敖国公扫荡烟尘。"
+          "text": "我父王坐江山风调雨顺，"
+        },
+        {
+          "character": "李世民",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "全凭着驾下的文武公卿。"
+        },
+        {
+          "character": "李世民",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "一心要夺父王锦绣龙廷。"
+        },
+        {
+          "character": "李世民",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "但愿得敖国公扫荡烟尘。"
         },
         {
           "character": null,
@@ -345,7 +394,17 @@
         "musical_styles": [
           "西皮二六"
         ]
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.1923,
+        0.7308,
+        0.0769,
+        0.56,
+        4,
+        0.1538,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -384,7 +443,21 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "一寸光阴一寸金，\n寸金难买寸光阴。\n失落光阴无处寻。"
+          "text": "一寸光阴一寸金，"
+        },
+        {
+          "character": "董老",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "寸金难买寸光阴。"
+        },
+        {
+          "character": "董老",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "失落光阴无处寻。"
         },
         {
           "character": null,
@@ -511,7 +584,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.2308,
+        0.6923,
+        0.0769,
+        0.5833,
+        5,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -561,17 +644,59 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "某，复姓尉迟名恭，字敬德。乃索州山阳人氏。自投唐以来，官拜敖国公之职。\n可恨昏王听信谗言，将某谪贬田庄。到了此地，自备几亩良田，倒还逍遥自\n在。今日闲暇无事，不免出庄游玩一番便了。"
+          "text": "某，复姓尉迟名恭，字敬德。乃索州山阳人氏。自投唐以来，官拜敖国公之职。"
+        },
+        {
+          "character": "尉迟恭",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "可恨昏王听信谗言，将某谪贬田庄。到了此地，自备几亩良田，倒还逍遥自"
+        },
+        {
+          "character": "尉迟恭",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "在。今日闲暇无事，不免出庄游玩一番便了。"
         },
         {
           "character": "尉迟恭",
           "line_type": "西皮原板",
           "musical_style": "西皮原板",
           "style_family": "西皮",
-          "text": "唐尉迟坐厅前自思评论，\n想起了当年事好不伤心。\n唐主爷听谗言贬谪大臣。"
+          "text": "唐尉迟坐厅前自思评论，"
         },
         {
-          "character": "受过了披麻拷令人可恨、出庄门到壩桥用目观定、董老",
+          "character": "尉迟恭",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "想起了当年事好不伤心。"
+        },
+        {
+          "character": "尉迟恭",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "唐主爷听谗言贬谪大臣。"
+        },
+        {
+          "character": "尉迟恭",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "受过了披麻拷令人可恨"
+        },
+        {
+          "character": "尉迟恭",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "出庄门到壩桥用目观定"
+        },
+        {
+          "character": "董老",
           "line_type": "内白",
           "musical_style": null,
           "style_family": null,
@@ -624,7 +749,35 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "起过了。\n且住，来了一哨天兵，将我置田庄团团围定，却是为何？呵呵，是了！莫不是\n夏明王窦建德与我主争夺江山，二主秦王，奉了圣命，前来请某发兵相助？想\n某当年受过披麻吊拷，发下洪誓大愿，永不替唐王出力报效，这便怎么处？\n有了。来！"
+          "text": "起过了。"
+        },
+        {
+          "character": "尉迟恭",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "且住，来了一哨天兵，将我置田庄团团围定，却是为何？呵呵，是了！莫不是"
+        },
+        {
+          "character": "尉迟恭",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "夏明王窦建德与我主争夺江山，二主秦王，奉了圣命，前来请某发兵相助？想"
+        },
+        {
+          "character": "尉迟恭",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "某当年受过披麻吊拷，发下洪誓大愿，永不替唐王出力报效，这便怎么处？"
+        },
+        {
+          "character": "尉迟恭",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "有了。来！"
         },
         {
           "character": "董老",
@@ -687,7 +840,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "你二人有所不知，只因天朝大将带领人马，将某置田庄团团围住，想是夏明王\n窦建德与我主争夺江山，二主秦王奉了圣命，前来请某发兵相助。想某当年受\n过披麻吊拷，发下洪誓大愿，永不与唐王出力报效，故而请出夫人，定一不发\n兵之计。"
+          "text": "你二人有所不知，只因天朝大将带领人马，将某置田庄团团围住，想是夏明王"
+        },
+        {
+          "character": "尉迟恭",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "窦建德与我主争夺江山，二主秦王奉了圣命，前来请某发兵相助。想某当年受"
+        },
+        {
+          "character": "尉迟恭",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "过披麻吊拷，发下洪誓大愿，永不与唐王出力报效，故而请出夫人，定一不发"
+        },
+        {
+          "character": "尉迟恭",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "兵之计。"
         },
         {
           "character": "黑夫人、白夫人",
@@ -701,7 +875,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "某家倒有一计，少时他君臣到来，就说某家出庄游玩，偶得疯病，三言两语打\n发他君臣而去。"
+          "text": "某家倒有一计，少时他君臣到来，就说某家出庄游玩，偶得疯病，三言两语打"
+        },
+        {
+          "character": "尉迟恭",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "发他君臣而去。"
         },
         {
           "character": "黑夫人、白夫人",
@@ -799,7 +980,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "皇嫂有所不知，只因夏明王窦建德打来战表，与我父子争夺江山。奉父王之命，\n请敖国公回朝，发兵相助。"
+          "text": "皇嫂有所不知，只因夏明王窦建德打来战表，与我父子争夺江山。奉父王之命，"
+        },
+        {
+          "character": "李世民",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "请敖国公回朝，发兵相助。"
         },
         {
           "character": "黑夫人、白夫人",
@@ -834,7 +1022,14 @@
           "line_type": "同白",
           "musical_style": null,
           "style_family": null,
-          "text": "千岁不信，唤出老爷一观，便知明白。\n有请老爷。"
+          "text": "千岁不信，唤出老爷一观，便知明白。"
+        },
+        {
+          "character": "黑夫人、白夫人",
+          "line_type": "同白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "有请老爷。"
         },
         {
           "character": null,
@@ -876,10 +1071,80 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "险些儿一家人性命有伤。\n他不该领天兵杀奔田庄。\n一个个要拿我去见玉皇。\n这一边站的是四大金刚。"
+          "text": "险些儿一家人性命有伤。"
         },
         {
-          "character": "恼恨着玉皇帝装模作样、这两旁站的是天兵天将、那一旁小哪吒现出金像、怒不息忙把那云端来上、李世民、秦琼、徐勣、程咬金",
+          "character": "尉迟恭",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "他不该领天兵杀奔田庄。"
+        },
+        {
+          "character": "尉迟恭",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "一个个要拿我去见玉皇。"
+        },
+        {
+          "character": "尉迟恭",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "这一边站的是四大金刚。"
+        },
+        {
+          "character": "尉迟恭",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "恼恨着玉皇帝装模作样"
+        },
+        {
+          "character": "尉迟恭",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "这两旁站的是天兵天将"
+        },
+        {
+          "character": "尉迟恭",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "那一旁小哪吒现出金像"
+        },
+        {
+          "character": "尉迟恭",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "怒不息忙把那云端来上"
+        },
+        {
+          "character": "尉迟恭",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "李世民"
+        },
+        {
+          "character": "尉迟恭",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "秦琼"
+        },
+        {
+          "character": "尉迟恭",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "徐勣"
+        },
+        {
+          "character": "程咬金",
           "line_type": "同白",
           "musical_style": null,
           "style_family": null,
@@ -953,7 +1218,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "上坐着蓝彩和现出金像，\n手提着竹花蓝放出毫光。"
+          "text": "上坐着蓝彩和现出金像，"
+        },
+        {
+          "character": "尉迟恭",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "手提着竹花蓝放出毫光。"
         },
         {
           "character": "尉迟恭",
@@ -1089,7 +1361,14 @@
           "text": "唐尉迟有何能劳动纯阳？"
         },
         {
-          "character": "曾记得蟠桃会我告了酒量、程咬金",
+          "character": "尉迟恭",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "曾记得蟠桃会我告了酒量"
+        },
+        {
+          "character": "程咬金",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -1121,7 +1400,21 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "又只见柳树精降下天堂。\n一个个执法宝放出了毫光。\n恨不得将你们吞吃在胸膛。"
+          "text": "又只见柳树精降下天堂。"
+        },
+        {
+          "character": "尉迟恭",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "一个个执法宝放出了毫光。"
+        },
+        {
+          "character": "尉迟恭",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "恨不得将你们吞吃在胸膛。"
         },
         {
           "character": "尉迟恭",
@@ -1233,7 +1526,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "听一言来笑开怀，\n护国军师解不开。"
+          "text": "听一言来笑开怀，"
+        },
+        {
+          "character": "尉迟恭",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "护国军师解不开。"
         },
         {
           "character": "尉迟恭",
@@ -1243,7 +1543,21 @@
           "text": "夫人！"
         },
         {
-          "character": "非是某家把疯病害、黑夫人、白夫人",
+          "character": "尉迟恭",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "非是某家把疯病害"
+        },
+        {
+          "character": "尉迟恭",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "黑夫人"
+        },
+        {
+          "character": "白夫人",
           "line_type": "同白",
           "musical_style": null,
           "style_family": null,
@@ -1396,7 +1710,17 @@
           "二黄导板",
           "西皮原板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.042,
+        0.2385,
+        0.7077,
+        0.0538,
+        0.5504,
+        8,
+        0.0462,
+        0.0077
+      ]
     },
     {
       "scene_index": 4,
@@ -1455,7 +1779,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "命鲁国公假扮红旗山的大王，要抢二位夫人以为压寨，尉迟恭闻听此言，必定\n出庄，那里君臣就可相会。"
+          "text": "命鲁国公假扮红旗山的大王，要抢二位夫人以为压寨，尉迟恭闻听此言，必定"
+        },
+        {
+          "character": "徐勣",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "出庄，那里君臣就可相会。"
         },
         {
           "character": "李世民",
@@ -1548,7 +1879,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.8571,
+        0.1429,
+        0.8462,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 5,
@@ -1581,7 +1922,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "俺，程咬金。奉了二主将令，扮作红旗大王。\n三军们，待程爷扮起来。"
+          "text": "俺，程咬金。奉了二主将令，扮作红旗大王。"
+        },
+        {
+          "character": "程咬金",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "三军们，待程爷扮起来。"
         },
         {
           "character": null,
@@ -1630,7 +1978,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "哎呀，不好了！红旗山大王要抢黑白二位夫人，以为压寨。此事不敢隐瞒，报\n与家爷知道。\n有请老爷。"
+          "text": "哎呀，不好了！红旗山大王要抢黑白二位夫人，以为压寨。此事不敢隐瞒，报"
+        },
+        {
+          "character": "董老",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "与家爷知道。"
+        },
+        {
+          "character": "董老",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "有请老爷。"
         },
         {
           "character": null,
@@ -1686,7 +2048,21 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "听一言来怒气生，\n胆大贼子敢逞能。\n看一看贼子发来的兵。"
+          "text": "听一言来怒气生，"
+        },
+        {
+          "character": "尉迟恭",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "胆大贼子敢逞能。"
+        },
+        {
+          "character": "尉迟恭",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "看一看贼子发来的兵。"
         },
         {
           "character": null,
@@ -1707,7 +2083,42 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "果然果然真果然，\n果然贼子发喽兵。\n你与爷抬鞭上马行。\n老爷言来你是听：\n庄前庄后要小心。\n我与贼子大交兵。"
+          "text": "果然果然真果然，"
+        },
+        {
+          "character": "尉迟恭",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "果然贼子发喽兵。"
+        },
+        {
+          "character": "尉迟恭",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "你与爷抬鞭上马行。"
+        },
+        {
+          "character": "尉迟恭",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "老爷言来你是听："
+        },
+        {
+          "character": "尉迟恭",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "庄前庄后要小心。"
+        },
+        {
+          "character": "尉迟恭",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我与贼子大交兵。"
         },
         {
           "character": null,
@@ -1763,10 +2174,31 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "实以为贼子逞威风，\n原来中了计牢笼。"
+          "text": "实以为贼子逞威风，"
         },
         {
-          "character": "本当勒马庄田进、秦琼、徐勣",
+          "character": "尉迟恭",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "原来中了计牢笼。"
+        },
+        {
+          "character": "尉迟恭",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "本当勒马庄田进"
+        },
+        {
+          "character": "尉迟恭",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "秦琼"
+        },
+        {
+          "character": "徐勣",
           "line_type": "同白",
           "musical_style": null,
           "style_family": null,
@@ -1777,7 +2209,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "实实难舍二主君。\n尊声千岁可安宁？"
+          "text": "实实难舍二主君。"
+        },
+        {
+          "character": "尉迟恭",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "尊声千岁可安宁？"
         },
         {
           "character": "尉迟恭",
@@ -1787,11 +2226,25 @@
           "text": "千岁不在皇宫，来在荒庄，所为何事？"
         },
         {
-          "character": "翻鞍离镫下了马、李世民",
+          "character": "尉迟恭",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "敖国公有所不知，只因夏明王窦建德打来战表，与我父王争夺江山，奉父王之\n命，请敖国公回朝，发兵相助。"
+          "text": "翻鞍离镫下了马"
+        },
+        {
+          "character": "李世民",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "敖国公有所不知，只因夏明王窦建德打来战表，与我父王争夺江山，奉父王之"
+        },
+        {
+          "character": "李世民",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "命，请敖国公回朝，发兵相助。"
         },
         {
           "character": "尉迟恭",
@@ -1805,17 +2258,59 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "南征北剿立大功，\n中了奸人计牢笼。\n险些命丧李道宗。"
+          "text": "南征北剿立大功，"
         },
         {
-          "character": "不是先生把计用、徐勣",
+          "character": "尉迟恭",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "敖国公不必怒气冲，\n山人言来听从容：\n还望国公度量洪。"
+          "text": "中了奸人计牢笼。"
         },
         {
-          "character": "二主秦王来到此、尉迟恭",
+          "character": "尉迟恭",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "险些命丧李道宗。"
+        },
+        {
+          "character": "尉迟恭",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "不是先生把计用"
+        },
+        {
+          "character": "徐勣",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "敖国公不必怒气冲，"
+        },
+        {
+          "character": "徐勣",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "山人言来听从容："
+        },
+        {
+          "character": "徐勣",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "还望国公度量洪。"
+        },
+        {
+          "character": "徐勣",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "二主秦王来到此"
+        },
+        {
+          "character": "尉迟恭",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -1826,10 +2321,31 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "敖国公不必怒气生，\n本帅言来你是听：\n还望国公发救兵。"
+          "text": "敖国公不必怒气生，"
         },
         {
-          "character": "夏明王打来连环表、尉迟恭",
+          "character": "秦琼",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "本帅言来你是听："
+        },
+        {
+          "character": "秦琼",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "还望国公发救兵。"
+        },
+        {
+          "character": "秦琼",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "夏明王打来连环表"
+        },
+        {
+          "character": "尉迟恭",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -1840,10 +2356,31 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "敖国公不必巧计生，\n咬金言来你是听：\n你为什么装病又装疯？"
+          "text": "敖国公不必巧计生，"
         },
         {
-          "character": "二主秦王来到此、尉迟恭",
+          "character": "程咬金",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "咬金言来你是听："
+        },
+        {
+          "character": "程咬金",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "你为什么装病又装疯？"
+        },
+        {
+          "character": "程咬金",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "二主秦王来到此"
+        },
+        {
+          "character": "尉迟恭",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -1875,21 +2412,49 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "一见尉迟不发兵，\n倒把小王无计行。"
+          "text": "一见尉迟不发兵，"
         },
         {
-          "character": "将身跪在尘埃地、尉迟恭",
+          "character": "李世民",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "倒把小王无计行。"
+        },
+        {
+          "character": "李世民",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "将身跪在尘埃地"
+        },
+        {
+          "character": "尉迟恭",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
           "text": "尉迟恭怎敢慢主君。"
         },
         {
-          "character": "将身跪在尘埃地、尉迟恭",
+          "character": "尉迟恭",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "将身跪在尘埃地"
+        },
+        {
+          "character": "尉迟恭",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "要臣发兵，却也不难；在此停兵三日，一同发兵相助。备得有宴，与千岁众位\n同饮。"
+          "text": "要臣发兵，却也不难；在此停兵三日，一同发兵相助。备得有宴，与千岁众位"
+        },
+        {
+          "character": "尉迟恭",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "同饮。"
         },
         {
           "character": "李世民、秦琼、徐勣、程咬金",
@@ -2041,7 +2606,17 @@
         "singing_ratio": 0.125,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.125,
+        0.45,
+        0.5375,
+        0.0125,
+        0.4557,
+        8,
+        0.0,
+        0.0
+      ]
     }
   ]
 }

@@ -159,7 +159,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.75,
+        0.25,
+        1.0,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -223,7 +233,21 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "师弟休要小看咱，\n师父赐宝来下山。\n叫他一命丧黄泉。"
+          "text": "师弟休要小看咱，"
+        },
+        {
+          "character": "毛蕡",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "师父赐宝来下山。"
+        },
+        {
+          "character": "毛蕡",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "叫他一命丧黄泉。"
         },
         {
           "character": null,
@@ -259,7 +283,17 @@
         "singing_ratio": 0.143,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.143,
+        0.4,
+        0.6,
+        0.0,
+        0.6667,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -295,7 +329,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "杀却王翦报仇冤。\n那旁来了将一员。"
+          "text": "杀却王翦报仇冤。"
+        },
+        {
+          "character": "孙燕",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "那旁来了将一员。"
         },
         {
           "character": null,
@@ -309,7 +350,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "催马坐骑紧加鞭，\n又见娃娃到阵前。"
+          "text": "催马坐骑紧加鞭，"
+        },
+        {
+          "character": "毛蕡",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "又见娃娃到阵前。"
         },
         {
           "character": "毛蕡",
@@ -330,7 +378,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "呀，这就是孙燕，倒要小心他些。\n娃娃，你也不必问你道爷名姓。山人不忍伤你，快快回营，叫那瘸夫孙膑，出\n营受死！"
+          "text": "呀，这就是孙燕，倒要小心他些。"
+        },
+        {
+          "character": "毛蕡",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "娃娃，你也不必问你道爷名姓。山人不忍伤你，快快回营，叫那瘸夫孙膑，出"
+        },
+        {
+          "character": "毛蕡",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "营受死！"
         },
         {
           "character": "孙燕",
@@ -366,7 +428,17 @@
         "singing_ratio": 0.4,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.4,
+        0.4167,
+        0.5833,
+        0.0,
+        0.3636,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 4,
@@ -413,7 +485,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     }
   ]
 }

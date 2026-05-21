@@ -317,7 +317,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.5882,
+        0.4118,
+        0.25,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -338,7 +348,7 @@
           "text": "（四丑院子引熊虎通上。）"
         },
         {
-          "character": null,
+          "character": "子引熊虎通",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -611,7 +621,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.9565,
+        0.0435,
+        0.8636,
+        5,
+        0.0,
+        0.0
+      ]
     }
   ]
 }

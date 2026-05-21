@@ -145,7 +145,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "俺，青风寨大大王刘通。独霸山寨，每日下山抢掠，倒也逍遥自在。这几日心\n中闷倦，看今日天气晴和，不免下山游玩一番。\n喽啰的，带马下山。"
+          "text": "俺，青风寨大大王刘通。独霸山寨，每日下山抢掠，倒也逍遥自在。这几日心"
+        },
+        {
+          "character": "刘通",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "中闷倦，看今日天气晴和，不免下山游玩一番。"
+        },
+        {
+          "character": "刘通",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "喽啰的，带马下山。"
         },
         {
           "character": null,
@@ -163,7 +177,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.2,
+        0.6,
+        0.2,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -241,7 +265,14 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "叩罢头来抽身起，\n父女一同转回归。"
+          "text": "叩罢头来抽身起，"
+        },
+        {
+          "character": "张员外",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "父女一同转回归。"
         },
         {
           "character": null,
@@ -268,7 +299,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.75,
+        0.875,
+        0.125,
+        0.0,
+        0.1429,
+        2,
+        0.75,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -325,7 +366,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "贤弟有所不知：适才在山下，观见张员外之女，生得十分美貌，愚兄想要将她\n做一位压寨的夫人。只是不能到手，也是枉然。"
+          "text": "贤弟有所不知：适才在山下，观见张员外之女，生得十分美貌，愚兄想要将她"
+        },
+        {
+          "character": "刘通",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "做一位压寨的夫人。只是不能到手，也是枉然。"
         },
         {
           "character": "二大王",
@@ -382,7 +430,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.6667,
+        0.3333,
+        0.5,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 4,
@@ -489,7 +547,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "我奉大哥之命，叫我前来提亲，将你的女儿许配我大哥，做一位压寨夫人。员\n外谅无推辞的了！"
+          "text": "我奉大哥之命，叫我前来提亲，将你的女儿许配我大哥，做一位压寨夫人。员"
+        },
+        {
+          "character": "二大王",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "外谅无推辞的了！"
         },
         {
           "character": "张员外",
@@ -589,7 +654,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.9474,
+        0.0526,
+        0.8333,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 5,
@@ -663,7 +738,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "你抬头观看。前面黑暗暗，雾沉沉，不是一村，就是一镇。你我去到那里，投\n宿一宵，你看如何？"
+          "text": "你抬头观看。前面黑暗暗，雾沉沉，不是一村，就是一镇。你我去到那里，投"
+        },
+        {
+          "character": "李逵",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "宿一宵，你看如何？"
         },
         {
           "character": "燕青",
@@ -705,7 +787,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "我这么大一个人，怎么不会讲话？你听着吧。\n呔，里面有人吗？走出一个来！"
+          "text": "我这么大一个人，怎么不会讲话？你听着吧。"
+        },
+        {
+          "character": "李逵",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "呔，里面有人吗？走出一个来！"
         },
         {
           "character": null,
@@ -747,7 +836,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "请了！我二人远方而来，行至此地，天色已晚，要在尊处，暂宿一宵，明日早\n行。"
+          "text": "请了！我二人远方而来，行至此地，天色已晚，要在尊处，暂宿一宵，明日早"
+        },
+        {
+          "character": "燕青",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "行。"
         },
         {
           "character": "李逵",
@@ -957,7 +1053,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "二位有所不知：只因青风寨上有一强人，他要娶我女儿，做一压寨夫人。无奈\n小女已有了人家，故而愁烦。"
+          "text": "二位有所不知：只因青风寨上有一强人，他要娶我女儿，做一压寨夫人。无奈"
+        },
+        {
+          "character": "张员外",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "小女已有了人家，故而愁烦。"
         },
         {
           "character": "燕青",
@@ -1055,7 +1158,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "嘿，你看哥哥我长得三分不象人七分倒象鬼，倒是你，雪白粉嫩，一笑两个酒\n窝。一个是尿窝，一个是屎窝。"
+          "text": "嘿，你看哥哥我长得三分不象人七分倒象鬼，倒是你，雪白粉嫩，一笑两个酒"
+        },
+        {
+          "character": "李逵",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "窝。一个是尿窝，一个是屎窝。"
         },
         {
           "character": "燕青",
@@ -1195,14 +1305,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "是啦。\n这有一件，哪一位穿呐？"
+          "text": "是啦。"
+        },
+        {
+          "character": "丫鬟",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "这有一件，哪一位穿呐？"
         },
         {
           "character": "李逵",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "来，拿过来吧，我穿呐！\n嗬，这是一件什么东西？"
+          "text": "来，拿过来吧，我穿呐！"
+        },
+        {
+          "character": "李逵",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "嗬，这是一件什么东西？"
         },
         {
           "character": "丫鬟",
@@ -1335,7 +1459,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "我学会了。想这小姐，乃是千金之体，行路必须要这样一摆，再一摆，共是二\n摆，再用手这么一舞，共总是二百五，必须要这样地走。"
+          "text": "我学会了。想这小姐，乃是千金之体，行路必须要这样一摆，再一摆，共是二"
+        },
+        {
+          "character": "李逵",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "摆，再用手这么一舞，共总是二百五，必须要这样地走。"
         },
         {
           "character": "燕青",
@@ -1429,7 +1560,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.063,
+        0.0748,
+        0.9252,
+        0.0,
+        0.8774,
+        5,
+        0.0748,
+        0.0
+      ]
     },
     {
       "scene_index": 6,
@@ -1466,7 +1607,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "呵呵，是了。\n家院，叫丫鬟搀扶小姐上轿！"
+          "text": "呵呵，是了。"
+        },
+        {
+          "character": "张员外",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "家院，叫丫鬟搀扶小姐上轿！"
         },
         {
           "character": null,
@@ -1540,7 +1688,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.8333,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 7,
@@ -1887,7 +2045,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.9487,
+        0.0513,
+        0.9474,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 8,
@@ -1910,7 +2078,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0,
+        0.0,
+        0.0
+      ]
     }
   ]
 }

@@ -212,7 +212,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "咱家，司礼太监的便是。今有圣上，启用张瑞华仍为礼部尚书，前往江西主考，\n命咱家前去宣召。\n孩子们！"
+          "text": "咱家，司礼太监的便是。今有圣上，启用张瑞华仍为礼部尚书，前往江西主考，"
+        },
+        {
+          "character": "大太监",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "命咱家前去宣召。"
+        },
+        {
+          "character": "大太监",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "孩子们！"
         },
         {
           "character": "四太监",
@@ -256,7 +270,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.8333,
+        0.1667,
+        0.4,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -279,14 +303,35 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "拜别母亲离家门，\n张府祝寿走一程。"
+          "text": "拜别母亲离家门，"
+        },
+        {
+          "character": "赵启贤",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "张府祝寿走一程。"
         },
         {
           "character": "赵启贤",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "小生，赵启贤，乃淮阳人氏。我父永嘉太守，不幸早年亡故；只有老母在堂。\n是我在家每日读书养亲，倒也逍遥自在。近日乃是我父好友张尚书寿诞之期，\n奉了母命，前去拜寿。"
+          "text": "小生，赵启贤，乃淮阳人氏。我父永嘉太守，不幸早年亡故；只有老母在堂。"
+        },
+        {
+          "character": "赵启贤",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "是我在家每日读书养亲，倒也逍遥自在。近日乃是我父好友张尚书寿诞之期，"
+        },
+        {
+          "character": "赵启贤",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "奉了母命，前去拜寿。"
         },
         {
           "character": "家院、赵院子",
@@ -307,7 +352,14 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "家院带路朝前进，\n祝寿称觞表交情。"
+          "text": "家院带路朝前进，"
+        },
+        {
+          "character": "赵启贤",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "祝寿称觞表交情。"
         },
         {
           "character": null,
@@ -338,7 +390,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.333,
+        0.4444,
+        0.5556,
+        0.0,
+        0.25,
+        2,
+        0.4444,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -378,7 +440,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "老夫张瑞华，淮阳人氏。官居礼部尚书，告病还乡，今已痊愈，尚未复职；每\n日在家，倒也清闲自在。膝下无儿，只有一女，名唤玉贞，年方一十七岁；只\n是这选婿之事，倒叫我时刻挂心。今日为老夫五十寿辰。\n家院！"
+          "text": "老夫张瑞华，淮阳人氏。官居礼部尚书，告病还乡，今已痊愈，尚未复职；每"
+        },
+        {
+          "character": "张瑞华",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "日在家，倒也清闲自在。膝下无儿，只有一女，名唤玉贞，年方一十七岁；只"
+        },
+        {
+          "character": "张瑞华",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "是这选婿之事，倒叫我时刻挂心。今日为老夫五十寿辰。"
+        },
+        {
+          "character": "张瑞华",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "家院！"
         },
         {
           "character": "张院子",
@@ -413,7 +496,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "是。\n后堂传话：请夫人、小姐出堂。"
+          "text": "是。"
+        },
+        {
+          "character": "张院子",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "后堂传话：请夫人、小姐出堂。"
         },
         {
           "character": "小蕙",
@@ -630,7 +720,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "少坐。\n哎呀且住！适才我与夫人提起女儿的亲事，却好有此机会；我看赵家贤侄，英\n俊非凡，不免将女儿许配与他，不知他意下如何？\n请坐。啊贤侄，我与你父金石之交，有话当面言讲，莫嫌唐突！"
+          "text": "少坐。"
+        },
+        {
+          "character": "张瑞华",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "哎呀且住！适才我与夫人提起女儿的亲事，却好有此机会；我看赵家贤侄，英"
+        },
+        {
+          "character": "张瑞华",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "俊非凡，不免将女儿许配与他，不知他意下如何？"
+        },
+        {
+          "character": "张瑞华",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "请坐。啊贤侄，我与你父金石之交，有话当面言讲，莫嫌唐突！"
         },
         {
           "character": "赵启贤",
@@ -651,7 +762,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "我有一女，年方一十七岁；相貌倒还不恶；我有意许配贤侄，缔结秦晋之好，\n烦你禀告太夫人，我想此事，料无推辞的了哇？"
+          "text": "我有一女，年方一十七岁；相貌倒还不恶；我有意许配贤侄，缔结秦晋之好，"
+        },
+        {
+          "character": "张瑞华",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "烦你禀告太夫人，我想此事，料无推辞的了哇？"
         },
         {
           "character": "赵启贤",
@@ -796,7 +914,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.062,
+        0.0714,
+        0.8571,
+        0.0714,
+        0.7073,
+        6,
+        0.0476,
+        0.0
+      ]
     },
     {
       "scene_index": 4,
@@ -826,7 +954,70 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "在下陆少庄的便是。想我父在世之时，也做了一任的外官，足这么一搂，倒是\n弄个饱载而归呀！到了家，没事叫我天天念书，我哪念得下去呀！我就给他个\n“心不在焉”哪。每日也就是花天酒地不哩。我一花钱，他就心疼；我又花钱，\n他又心疼；疼来疼去，可就疼死了！我妈听我爸爸一死，她这么一着急，也\n伸了腿啦！哎呀，这可就没人管我啦，剩我一个人，每天是吃喝玩乐，倒也挺\n得劲的。这且不言，我有个表妹叫张玉贞，长得哪，甭提多好看啦！提了几次\n亲，就是我姑爹这个老狗实可恨！他不给。他不但不给，还直褒贬我——褒贬\n我没学问，没材料，没囊没气，没皮没脸没骨头；叫她这么一说，我没啦！这\n不要紧哪；我听说有了主了，给了赵启贤啦。要说我这个模样比他强得多呀！\n可惜一朵鲜花插在狗屎上了！"
+          "text": "在下陆少庄的便是。想我父在世之时，也做了一任的外官，足这么一搂，倒是"
+        },
+        {
+          "character": "陆少庄",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "弄个饱载而归呀！到了家，没事叫我天天念书，我哪念得下去呀！我就给他个"
+        },
+        {
+          "character": "陆少庄",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "“心不在焉”哪。每日也就是花天酒地不哩。我一花钱，他就心疼；我又花钱，"
+        },
+        {
+          "character": "陆少庄",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "他又心疼；疼来疼去，可就疼死了！我妈听我爸爸一死，她这么一着急，也"
+        },
+        {
+          "character": "陆少庄",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "伸了腿啦！哎呀，这可就没人管我啦，剩我一个人，每天是吃喝玩乐，倒也挺"
+        },
+        {
+          "character": "陆少庄",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "得劲的。这且不言，我有个表妹叫张玉贞，长得哪，甭提多好看啦！提了几次"
+        },
+        {
+          "character": "陆少庄",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "亲，就是我姑爹这个老狗实可恨！他不给。他不但不给，还直褒贬我——褒贬"
+        },
+        {
+          "character": "陆少庄",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我没学问，没材料，没囊没气，没皮没脸没骨头；叫她这么一说，我没啦！这"
+        },
+        {
+          "character": "陆少庄",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "不要紧哪；我听说有了主了，给了赵启贤啦。要说我这个模样比他强得多呀！"
+        },
+        {
+          "character": "陆少庄",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "可惜一朵鲜花插在狗屎上了！"
         },
         {
           "character": null,
@@ -840,7 +1031,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "我听了这个信，不由我三魂渺渺，我鸡子六兽的，七窍全塌啦！险些儿没急死，\n得想个主意把这件婚姻拆散了——有主意！隔壁有个顾媒婆，不免把她找来，\n叫她想个办法。\n小子！"
+          "text": "我听了这个信，不由我三魂渺渺，我鸡子六兽的，七窍全塌啦！险些儿没急死，"
+        },
+        {
+          "character": "陆少庄",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "得想个主意把这件婚姻拆散了——有主意！隔壁有个顾媒婆，不免把她找来，"
+        },
+        {
+          "character": "陆少庄",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "叫她想个办法。"
+        },
+        {
+          "character": "陆少庄",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "小子！"
         },
         {
           "character": "丑院子",
@@ -980,7 +1192,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "是。\n我们大爷叫你进去哪。"
+          "text": "是。"
+        },
+        {
+          "character": "丑院子",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我们大爷叫你进去哪。"
         },
         {
           "character": "顾媒婆",
@@ -1008,7 +1227,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "哎有！顾媒婆来啦！\n给她看座。"
+          "text": "哎有！顾媒婆来啦！"
+        },
+        {
+          "character": "陆少庄",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "给她看座。"
         },
         {
           "character": null,
@@ -1176,7 +1402,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "这是得办严密着点，你拿耳朵过来，我告诉你：待会我上那边去，这般这……\n就成了。"
+          "text": "这是得办严密着点，你拿耳朵过来，我告诉你：待会我上那边去，这般这……"
+        },
+        {
+          "character": "顾媒婆",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "就成了。"
         },
         {
           "character": "陆少庄",
@@ -1285,7 +1518,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.9701,
+        0.0299,
+        0.6818,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 5,
@@ -1308,7 +1551,14 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "晓莺啼月画楼前，\n绣被余温尚恋眠；"
+          "text": "晓莺啼月画楼前，"
+        },
+        {
+          "character": "张玉贞",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "绣被余温尚恋眠；"
         },
         {
           "character": null,
@@ -1329,7 +1579,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "奴家，张玉贞。父母在堂，十分宠爱。昨日闻听母亲言道：我爹爹寿诞之期，\n赵家公子前来拜寿，我父一见，异常欢喜，已将我许配与他；且等赵老夫人回\n话，便可定礼。话虽如此，也不知那赵公子性情如何？\n唉！且自由他。"
+          "text": "奴家，张玉贞。父母在堂，十分宠爱。昨日闻听母亲言道：我爹爹寿诞之期，"
+        },
+        {
+          "character": "张玉贞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "赵家公子前来拜寿，我父一见，异常欢喜，已将我许配与他；且等赵老夫人回"
+        },
+        {
+          "character": "张玉贞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "话，便可定礼。话虽如此，也不知那赵公子性情如何？"
+        },
+        {
+          "character": "张玉贞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "唉！且自由他。"
         },
         {
           "character": null,
@@ -1371,7 +1642,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "呦，你还不知道哪！老爷将您的终身许配赵公子啦！赵家老安人喜欢的了不得。\n今天就命人下定礼来了。呦，小姐，赵公子啊，我可看见过，长的别提多好\n啦！人有人才，文有文才。小姐你知道，管门的老伯伯他也跟我说啦，说赵公\n子脾气可好啦！小姐您呀，真是有福气的人就结啦。"
+          "text": "呦，你还不知道哪！老爷将您的终身许配赵公子啦！赵家老安人喜欢的了不得。"
+        },
+        {
+          "character": "小蕙",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "今天就命人下定礼来了。呦，小姐，赵公子啊，我可看见过，长的别提多好"
+        },
+        {
+          "character": "小蕙",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "啦！人有人才，文有文才。小姐你知道，管门的老伯伯他也跟我说啦，说赵公"
+        },
+        {
+          "character": "小蕙",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "子脾气可好啦！小姐您呀，真是有福气的人就结啦。"
         },
         {
           "character": "张玉贞",
@@ -1420,7 +1712,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "呦，小姐，您瞧我们老爷怎么选来着！这位赵姑老爷，人有人才，文有文才，\n脾气又好；小姐，您呀多有福气呀！"
+          "text": "呦，小姐，您瞧我们老爷怎么选来着！这位赵姑老爷，人有人才，文有文才，"
+        },
+        {
+          "character": "小蕙",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "脾气又好；小姐，您呀多有福气呀！"
         },
         {
           "character": "张玉贞",
@@ -1434,7 +1733,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "呦，小姐，日后这要是过了门哪，小姐可不闷得慌啦！画房里头，跟姑老爷一\n起写写字，对对诗，说说话，多有意思呀！甭说小姐喜欢，就是我小蕙也高兴\n得了不得哪！"
+          "text": "呦，小姐，日后这要是过了门哪，小姐可不闷得慌啦！画房里头，跟姑老爷一"
+        },
+        {
+          "character": "小蕙",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "起写写字，对对诗，说说话，多有意思呀！甭说小姐喜欢，就是我小蕙也高兴"
+        },
+        {
+          "character": "小蕙",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "得了不得哪！"
         },
         {
           "character": "张玉贞",
@@ -1476,7 +1789,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "到了！\n小蕙妹妹！"
+          "text": "到了！"
+        },
+        {
+          "character": "顾媒婆",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "小蕙妹妹！"
         },
         {
           "character": "小蕙",
@@ -1560,7 +1880,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "小姐在哪儿哪？\n我说小姐，我来啦。"
+          "text": "小姐在哪儿哪？"
+        },
+        {
+          "character": "顾媒婆",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我说小姐，我来啦。"
         },
         {
           "character": "张玉贞",
@@ -1588,7 +1915,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "小姐，您大喜啦！我听说有婆婆家啦！\n呦！害臊啦！\n许配了赵启贤啦！嘿！这小人我可见过，书香门第，长得甭提多漂亮啦！还告\n诉您说：年龄也合格，念的那书足有好几十车！我见过，甭提多好啦！"
+          "text": "小姐，您大喜啦！我听说有婆婆家啦！"
+        },
+        {
+          "character": "顾媒婆",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "呦！害臊啦！"
+        },
+        {
+          "character": "顾媒婆",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "许配了赵启贤啦！嘿！这小人我可见过，书香门第，长得甭提多漂亮啦！还告"
+        },
+        {
+          "character": "顾媒婆",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "诉您说：年龄也合格，念的那书足有好几十车！我见过，甭提多好啦！"
         },
         {
           "character": "小蕙",
@@ -1651,7 +1999,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "咳！我是穷忙啊！给人洗洗涮涮地。这么办！等小姐出嫁的好日子，我给您帮\n帮忙来。"
+          "text": "咳！我是穷忙啊！给人洗洗涮涮地。这么办！等小姐出嫁的好日子，我给您帮"
+        },
+        {
+          "character": "顾媒婆",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "帮忙来。"
         },
         {
           "character": "小蕙",
@@ -1721,7 +2076,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "好！我瞧瞧，这书呆子好大福气呀！\n呦，这是什么花呀这是？"
+          "text": "好！我瞧瞧，这书呆子好大福气呀！"
+        },
+        {
+          "character": "顾媒婆",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "呦，这是什么花呀这是？"
         },
         {
           "character": "张玉贞",
@@ -1749,7 +2111,35 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "是啊！我说我活这么大岁数没见过哪！老太太碧玉簪！\n哈……\n嗯——哈哈哈！小姐，我瞧见这个簪子来，我可想起一档子事情来——我有一\n个亲戚托我打一个簪子，老没好花样子，瞧见我老太太这花样挺好的。这么办，\n我借去几天，打一个样子；打得了再给您送来，不知小姐您肯不肯？"
+          "text": "是啊！我说我活这么大岁数没见过哪！老太太碧玉簪！"
+        },
+        {
+          "character": "顾媒婆",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "哈……"
+        },
+        {
+          "character": "顾媒婆",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "嗯——哈哈哈！小姐，我瞧见这个簪子来，我可想起一档子事情来——我有一"
+        },
+        {
+          "character": "顾媒婆",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "个亲戚托我打一个簪子，老没好花样子，瞧见我老太太这花样挺好的。这么办，"
+        },
+        {
+          "character": "顾媒婆",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我借去几天，打一个样子；打得了再给您送来，不知小姐您肯不肯？"
         },
         {
           "character": "张玉贞",
@@ -1763,7 +2153,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "不能随便借人？呦！这是怕我拐跑了哇！再一说这府上我常来常往的，您今天\n这么一不肯，往后这府门头，我怎么来呀？再说这个门我怎么出去？这不是要\n我的老命嘛不是！"
+          "text": "不能随便借人？呦！这是怕我拐跑了哇！再一说这府上我常来常往的，您今天"
+        },
+        {
+          "character": "顾媒婆",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "这么一不肯，往后这府门头，我怎么来呀？再说这个门我怎么出去？这不是要"
+        },
+        {
+          "character": "顾媒婆",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我的老命嘛不是！"
         },
         {
           "character": "小蕙",
@@ -1784,7 +2188,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "顶多一半天就给咱们送来，小姐不要紧的，借她得啦！您要是不借，怎么叫顾\n妈妈出咱们这个门啊！"
+          "text": "顶多一半天就给咱们送来，小姐不要紧的，借她得啦！您要是不借，怎么叫顾"
+        },
+        {
+          "character": "小蕙",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "妈妈出咱们这个门啊！"
         },
         {
           "character": "张玉贞",
@@ -1931,7 +2342,17 @@
           "西皮慢板",
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.083,
+        0.0707,
+        0.899,
+        0.0303,
+        0.6837,
+        3,
+        0.0707,
+        0.0
+      ]
     },
     {
       "scene_index": 6,
@@ -2057,7 +2478,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.05,
+        0.0,
+        0.75,
+        0.25,
+        1.0,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 7,
@@ -2381,7 +2812,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.9429,
+        0.0571,
+        0.9412,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 8,
@@ -2860,7 +3301,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.025,
+        0.9,
+        0.075,
+        0.6923,
+        6,
+        0.025,
+        0.0
+      ]
     },
     {
       "scene_index": 9,
@@ -3181,7 +3632,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.037,
+        0.0345,
+        0.8966,
+        0.069,
+        0.8929,
+        4,
+        0.0345,
+        0.0
+      ]
     },
     {
       "scene_index": 10,
@@ -3208,7 +3669,14 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "晓莺啼月画楼前，\n绣被余温尚恋眠；"
+          "text": "晓莺啼月画楼前，"
+        },
+        {
+          "character": "张玉贞",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "绣被余温尚恋眠；"
         },
         {
           "character": null,
@@ -3229,7 +3697,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "奴家，张玉贞。父母在堂，十分宠爱。昨日闻听母亲言道：我爹爹寿诞之期，\n赵家公子前来拜寿，我父一见，异常欢喜，已将我许配与他；且等赵老夫人回\n话，便可定礼。话虽如此，也不知那赵公子性情如何？\n唉！且自由他。"
+          "text": "奴家，张玉贞。父母在堂，十分宠爱。昨日闻听母亲言道：我爹爹寿诞之期，"
+        },
+        {
+          "character": "张玉贞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "赵家公子前来拜寿，我父一见，异常欢喜，已将我许配与他；且等赵老夫人回"
+        },
+        {
+          "character": "张玉贞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "话，便可定礼。话虽如此，也不知那赵公子性情如何？"
+        },
+        {
+          "character": "张玉贞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "唉！且自由他。"
         },
         {
           "character": null,
@@ -3271,7 +3760,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "呦，你还不知道哪！老爷将您的终身许配赵公子啦！赵家老安人喜欢的了不得。\n今天就命人下定礼来了。呦，小姐，赵公子啊，我可看见过，长的别提多好\n啦！人有人才，文有文才。小姐你知道，管门的老伯伯他也跟我说啦，说赵公\n子脾气可好啦！小姐您呀，真是有福气的人就结啦。"
+          "text": "呦，你还不知道哪！老爷将您的终身许配赵公子啦！赵家老安人喜欢的了不得。"
+        },
+        {
+          "character": "小蕙",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "今天就命人下定礼来了。呦，小姐，赵公子啊，我可看见过，长的别提多好"
+        },
+        {
+          "character": "小蕙",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "啦！人有人才，文有文才。小姐你知道，管门的老伯伯他也跟我说啦，说赵公"
+        },
+        {
+          "character": "小蕙",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "子脾气可好啦！小姐您呀，真是有福气的人就结啦。"
         },
         {
           "character": "张玉贞",
@@ -3320,7 +3830,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "呦，小姐，您瞧我们老爷怎么选来着！这位赵姑老爷，人有人才，文有文才，\n脾气又好；小姐，您呀多有福气呀！"
+          "text": "呦，小姐，您瞧我们老爷怎么选来着！这位赵姑老爷，人有人才，文有文才，"
+        },
+        {
+          "character": "小蕙",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "脾气又好；小姐，您呀多有福气呀！"
         },
         {
           "character": "张玉贞",
@@ -3334,7 +3851,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "呦，小姐，日后这要是过了门哪，小姐可不闷得慌啦！画房里头，跟姑老爷一\n起写写字，对对诗，说说话，多有意思呀！甭说小姐喜欢，就是我小蕙也高兴\n得了不得哪！"
+          "text": "呦，小姐，日后这要是过了门哪，小姐可不闷得慌啦！画房里头，跟姑老爷一"
+        },
+        {
+          "character": "小蕙",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "起写写字，对对诗，说说话，多有意思呀！甭说小姐喜欢，就是我小蕙也高兴"
+        },
+        {
+          "character": "小蕙",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "得了不得哪！"
         },
         {
           "character": "张玉贞",
@@ -3376,7 +3907,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "到了！\n小蕙妹妹！"
+          "text": "到了！"
+        },
+        {
+          "character": "顾媒婆",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "小蕙妹妹！"
         },
         {
           "character": "小蕙",
@@ -3460,7 +3998,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "小姐在哪儿哪？\n我说小姐，我来啦。"
+          "text": "小姐在哪儿哪？"
+        },
+        {
+          "character": "顾媒婆",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我说小姐，我来啦。"
         },
         {
           "character": "张玉贞",
@@ -3488,7 +4033,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "小姐，您大喜啦！我听说有婆婆家啦！\n呦！害臊啦！\n许配了赵启贤啦！嘿！这小人我可见过，书香门第，长得甭提多漂亮啦！还告\n诉您说：年龄也合格，念的那书足有好几十车！我见过，甭提多好啦！"
+          "text": "小姐，您大喜啦！我听说有婆婆家啦！"
+        },
+        {
+          "character": "顾媒婆",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "呦！害臊啦！"
+        },
+        {
+          "character": "顾媒婆",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "许配了赵启贤啦！嘿！这小人我可见过，书香门第，长得甭提多漂亮啦！还告"
+        },
+        {
+          "character": "顾媒婆",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "诉您说：年龄也合格，念的那书足有好几十车！我见过，甭提多好啦！"
         },
         {
           "character": "小蕙",
@@ -3551,7 +4117,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "咳！我是穷忙啊！给人洗洗涮涮地。这么办！等小姐出嫁的好日子，我给您帮\n帮忙来。"
+          "text": "咳！我是穷忙啊！给人洗洗涮涮地。这么办！等小姐出嫁的好日子，我给您帮"
+        },
+        {
+          "character": "顾媒婆",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "帮忙来。"
         },
         {
           "character": "小蕙",
@@ -3621,7 +4194,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "好！我瞧瞧，这书呆子好大福气呀！\n呦，这是什么花呀这是？"
+          "text": "好！我瞧瞧，这书呆子好大福气呀！"
+        },
+        {
+          "character": "顾媒婆",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "呦，这是什么花呀这是？"
         },
         {
           "character": "张玉贞",
@@ -3649,7 +4229,35 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "是啊！我说我活这么大岁数没见过哪！老太太碧玉簪！\n哈……\n嗯——哈哈哈！小姐，我瞧见这个簪子来，我可想起一档子事情来——我有一\n个亲戚托我打一个簪子，老没好花样子，瞧见我老太太这花样挺好的。这么办，\n我借去几天，打一个样子；打得了再给您送来，不知小姐您肯不肯？"
+          "text": "是啊！我说我活这么大岁数没见过哪！老太太碧玉簪！"
+        },
+        {
+          "character": "顾媒婆",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "哈……"
+        },
+        {
+          "character": "顾媒婆",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "嗯——哈哈哈！小姐，我瞧见这个簪子来，我可想起一档子事情来——我有一"
+        },
+        {
+          "character": "顾媒婆",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "个亲戚托我打一个簪子，老没好花样子，瞧见我老太太这花样挺好的。这么办，"
+        },
+        {
+          "character": "顾媒婆",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我借去几天，打一个样子；打得了再给您送来，不知小姐您肯不肯？"
         },
         {
           "character": "张玉贞",
@@ -3663,7 +4271,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "不能随便借人？呦！这是怕我拐跑了哇！再一说这府上我常来常往的，您今天\n这么一不肯，往后这府门头，我怎么来呀？再说这个门我怎么出去？这不是要\n我的老命嘛不是！"
+          "text": "不能随便借人？呦！这是怕我拐跑了哇！再一说这府上我常来常往的，您今天"
+        },
+        {
+          "character": "顾媒婆",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "这么一不肯，往后这府门头，我怎么来呀？再说这个门我怎么出去？这不是要"
+        },
+        {
+          "character": "顾媒婆",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我的老命嘛不是！"
         },
         {
           "character": "小蕙",
@@ -3684,7 +4306,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "顶多一半天就给咱们送来，小姐不要紧的，借她得啦！您要是不借，怎么叫顾\n妈妈出咱们这个门啊！"
+          "text": "顶多一半天就给咱们送来，小姐不要紧的，借她得啦！您要是不借，怎么叫顾"
+        },
+        {
+          "character": "小蕙",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "妈妈出咱们这个门啊！"
         },
         {
           "character": "张玉贞",
@@ -3926,7 +4555,17 @@
           "西皮摇板",
           "西皮散板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.085,
+        0.0654,
+        0.8879,
+        0.0467,
+        0.7075,
+        7,
+        0.0654,
+        0.0
+      ]
     },
     {
       "scene_index": 11,
@@ -4407,7 +5046,17 @@
           "西皮摇板",
           "西皮散板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.086,
+        0.0789,
+        0.8684,
+        0.0526,
+        0.8108,
+        8,
+        0.0789,
+        0.0
+      ]
     },
     {
       "scene_index": 12,
@@ -4965,7 +5614,17 @@
           "西皮摇板",
           "西皮散板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.1,
+        0.1154,
+        0.8654,
+        0.0192,
+        0.902,
+        4,
+        0.1154,
+        0.0
+      ]
     },
     {
       "scene_index": 13,
@@ -5133,7 +5792,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.077,
+        0.0769,
+        0.9231,
+        0.0,
+        1.0,
+        3,
+        0.0769,
+        0.0
+      ]
     },
     {
       "scene_index": 14,
@@ -6299,7 +6968,17 @@
           "西皮摇板",
           "西皮散板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.038,
+        0.0545,
+        0.9364,
+        0.0091,
+        0.8899,
+        9,
+        0.0545,
+        0.0
+      ]
     },
     {
       "scene_index": 15,
@@ -6487,7 +7166,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.062,
+        0.0625,
+        0.9375,
+        0.0,
+        0.9333,
+        3,
+        0.0625,
+        0.0
+      ]
     },
     {
       "scene_index": 16,
@@ -6699,7 +7388,17 @@
           "二黄慢板",
           "二黄摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.25,
+        0.2778,
+        0.6667,
+        0.0556,
+        0.8824,
+        3,
+        0.0,
+        0.2778
+      ]
     },
     {
       "scene_index": 17,
@@ -6755,7 +7454,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        1.0,
+        0.6667,
+        0.3333,
+        0.0,
+        0.0,
+        1,
+        0.6667,
+        0.0
+      ]
     },
     {
       "scene_index": 18,
@@ -7256,7 +7965,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.029,
+        0.0286,
+        0.8571,
+        0.1143,
+        0.9412,
+        5,
+        0.0286,
+        0.0
+      ]
     }
   ]
 }

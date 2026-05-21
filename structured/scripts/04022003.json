@@ -68,14 +68,35 @@
           "line_type": "念",
           "musical_style": null,
           "style_family": null,
-          "text": "奉了状元命，前往陈留郡；蔡家庄上投书信，日夜奔波不敢停。\n戴月披星，戴月披星，只为家书抵万金。"
+          "text": "奉了状元命，前往陈留郡；蔡家庄上投书信，日夜奔波不敢停。"
+        },
+        {
+          "character": "李旺",
+          "line_type": "念",
+          "musical_style": null,
+          "style_family": null,
+          "text": "戴月披星，戴月披星，只为家书抵万金。"
         },
         {
           "character": "李旺",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "我，李旺。在京城奉了状元爷之命，前往陈留郡投递家书。是我跑了好几天，\n左一个岔道，右一个岔道，可把我岔迷糊啦，也不知哪条道路才是通陈留郡的\n大道。我不免找一个当地人问上一问。正是："
+          "text": "我，李旺。在京城奉了状元爷之命，前往陈留郡投递家书。是我跑了好几天，"
+        },
+        {
+          "character": "李旺",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "左一个岔道，右一个岔道，可把我岔迷糊啦，也不知哪条道路才是通陈留郡的"
+        },
+        {
+          "character": "李旺",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "大道。我不免找一个当地人问上一问。正是："
         },
         {
           "character": "李旺",
@@ -94,7 +115,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.5,
+        0.5,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -173,7 +204,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "我当什么，原来是寒雀在那里喧叫。当初蔡伯喈进京的时节，此鸟喧叫；如今\n又在那里叫。鸟，鸟，鸟！"
+          "text": "我当什么，原来是寒雀在那里喧叫。当初蔡伯喈进京的时节，此鸟喧叫；如今"
+        },
+        {
+          "character": "张广才",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "又在那里叫。鸟，鸟，鸟！"
         },
         {
           "character": null,
@@ -222,17 +260,52 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "呵唷！我当何物，原来是被偷儿偷去了树木。偷儿，偷儿，为什么单单盗去蔡\n家的树木！令人好恨！"
+          "text": "呵唷！我当何物，原来是被偷儿偷去了树木。偷儿，偷儿，为什么单单盗去蔡"
+        },
+        {
+          "character": "张广才",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "家的树木！令人好恨！"
         },
         {
           "character": "张广才",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "我恨偷儿盗树木不学正道，\n偏学浪子无有下梢。\n我急急走，急急跑，急急忙忙到荒郊，特来把松扫。\n只为那当年旧知交，旧知交。"
+          "text": "我恨偷儿盗树木不学正道，"
         },
         {
-          "character": "行一步来至在蔡家的墓道、李旺",
+          "character": "张广才",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "偏学浪子无有下梢。"
+        },
+        {
+          "character": "张广才",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我急急走，急急跑，急急忙忙到荒郊，特来把松扫。"
+        },
+        {
+          "character": "张广才",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "只为那当年旧知交，旧知交。"
+        },
+        {
+          "character": "张广才",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "行一步来至在蔡家的墓道"
+        },
+        {
+          "character": "李旺",
           "line_type": "内白",
           "musical_style": null,
           "style_family": null,
@@ -250,7 +323,14 @@
           "line_type": "四平调",
           "musical_style": "四平调",
           "style_family": "四平调",
-          "text": "走过了大路走小径，\n逢人便要问几声。"
+          "text": "走过了大路走小径，"
+        },
+        {
+          "character": "李旺",
+          "line_type": "四平调",
+          "musical_style": "四平调",
+          "style_family": "四平调",
+          "text": "逢人便要问几声。"
         },
         {
           "character": "李旺",
@@ -271,14 +351,35 @@
           "line_type": "数板",
           "musical_style": null,
           "style_family": null,
-          "text": "老汉把松扫，老汉把松扫，只为当年旧知交。指望儿子去赶考，荣华富贵爵禄\n高；蔡伯喈，不行孝，忍教二老作饿莩。说什么养儿防备老，数载不归忘劬劳；\n捧着苦李当甜桃，看来愚昧可笑，看来愚昧可笑。"
+          "text": "老汉把松扫，老汉把松扫，只为当年旧知交。指望儿子去赶考，荣华富贵爵禄"
+        },
+        {
+          "character": "张广才",
+          "line_type": "数板",
+          "musical_style": null,
+          "style_family": null,
+          "text": "高；蔡伯喈，不行孝，忍教二老作饿莩。说什么养儿防备老，数载不归忘劬劳；"
+        },
+        {
+          "character": "张广才",
+          "line_type": "数板",
+          "musical_style": null,
+          "style_family": null,
+          "text": "捧着苦李当甜桃，看来愚昧可笑，看来愚昧可笑。"
         },
         {
           "character": "李旺",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "巧啦，那旁有个老丈在那里扫松，不免上前问他一问。\n啊，老伯请啦。"
+          "text": "巧啦，那旁有个老丈在那里扫松，不免上前问他一问。"
+        },
+        {
+          "character": "李旺",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "啊，老伯请啦。"
         },
         {
           "character": "张广才",
@@ -306,7 +407,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "我的妈呀，今天可找到啦。\n老伯，陈留郡可有一个蔡家府？"
+          "text": "我的妈呀，今天可找到啦。"
+        },
+        {
+          "character": "李旺",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "老伯，陈留郡可有一个蔡家府？"
         },
         {
           "character": "张广才",
@@ -649,7 +757,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "张广才。嗳，张大公就是张广才，张广才就是张大公。张广才是他的名字，大\n公是大家称呼他。"
+          "text": "张广才。嗳，张大公就是张广才，张广才就是张大公。张广才是他的名字，大"
+        },
+        {
+          "character": "张广才",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "公是大家称呼他。"
         },
         {
           "character": "李旺",
@@ -670,7 +785,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "你不知道，我们状元老爷，受过张大公的好处，天天思念张大公，吃饭的时候，\n叫一声张大公，喝茶的时候，也叫一声张大公，睡觉的时候，作梦还叫一声\n张大公。"
+          "text": "你不知道，我们状元老爷，受过张大公的好处，天天思念张大公，吃饭的时候，"
+        },
+        {
+          "character": "李旺",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "叫一声张大公，喝茶的时候，也叫一声张大公，睡觉的时候，作梦还叫一声"
+        },
+        {
+          "character": "李旺",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "张大公。"
         },
         {
           "character": "张广才",
@@ -761,14 +890,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "老人家，蔡家无人，老的死啦，小的走啦，我这封书信交给城隍，还是交给土\n地呀？"
+          "text": "老人家，蔡家无人，老的死啦，小的走啦，我这封书信交给城隍，还是交给土"
+        },
+        {
+          "character": "李旺",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "地呀？"
         },
         {
           "character": "张广才",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "你讲得有理。也罢，你何不在坟前祭奠祭奠，你回去也好交差，他二老在泉下\n也是含笑的。"
+          "text": "你讲得有理。也罢，你何不在坟前祭奠祭奠，你回去也好交差，他二老在泉下"
+        },
+        {
+          "character": "张广才",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "也是含笑的。"
         },
         {
           "character": "李旺",
@@ -1062,7 +1205,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "呃，不用，不用。老哥、老嫂，你的儿子如今有书信回来，你怎的不言，怎的\n不语啊！"
+          "text": "呃，不用，不用。老哥、老嫂，你的儿子如今有书信回来，你怎的不言，怎的"
+        },
+        {
+          "character": "张广才",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "不语啊！"
         },
         {
           "character": "李旺",
@@ -1090,7 +1240,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "啊，老哥、老嫂，我替你二老教训几句。\n好奴才，好奴才！进京求名，一去数载，并无音信回来；我二老下世，才有书\n信前来，像你这样不肖之子，我恨不能吃尔之肉，喝尔之血！我就打……"
+          "text": "啊，老哥、老嫂，我替你二老教训几句。"
+        },
+        {
+          "character": "张广才",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "好奴才，好奴才！进京求名，一去数载，并无音信回来；我二老下世，才有书"
+        },
+        {
+          "character": "张广才",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "信前来，像你这样不肖之子，我恨不能吃尔之肉，喝尔之血！我就打……"
         },
         {
           "character": null,
@@ -1403,7 +1567,17 @@
         "musical_styles": [
           "四平调"
         ]
-      }
+      },
+      "scene_feature": [
+        0.008,
+        0.071,
+        0.8968,
+        0.0323,
+        0.7597,
+        2,
+        0.0,
+        0.0
+      ]
     }
   ]
 }

@@ -522,7 +522,7 @@
           "text": "乐进 （同点绛唇） 准备拔营寨。"
         },
         {
-          "character": null,
+          "character": "乐进",
           "line_type": "同白",
           "musical_style": null,
           "style_family": null,
@@ -631,7 +631,14 @@
           "line_type": "同白",
           "musical_style": null,
           "style_family": null,
-          "text": "参见魏王。\n曹操（白）站立两旁。"
+          "text": "参见魏王。"
+        },
+        {
+          "character": "徐晃、曹仁、张郃、曹洪、许褚、夏侯惇、李典、乐进",
+          "line_type": "同白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "曹操（白）站立两旁。"
         },
         {
           "character": "徐晃、曹仁、张郃、曹洪、许褚、夏侯惇、李典、乐进",
@@ -652,7 +659,35 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "孤，魏王曹。起义气于陈留，诏诸侯以平乱。效伊尹之作用，具周召之图谋。\n赫耀天下，位加九锡，诸侯佩服，孙、刘未除。可恨刘备，屡屡兴兵，侵犯中\n原。前者，命夏侯渊，镇守东川，被黄忠老匹夫，刀劈马下。至今此仇未报。\n趁他兵未发，我兵先临。\n众将官！"
+          "text": "孤，魏王曹。起义气于陈留，诏诸侯以平乱。效伊尹之作用，具周召之图谋。"
+        },
+        {
+          "character": "曹操",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "赫耀天下，位加九锡，诸侯佩服，孙、刘未除。可恨刘备，屡屡兴兵，侵犯中"
+        },
+        {
+          "character": "曹操",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "原。前者，命夏侯渊，镇守东川，被黄忠老匹夫，刀劈马下。至今此仇未报。"
+        },
+        {
+          "character": "曹操",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "趁他兵未发，我兵先临。"
+        },
+        {
+          "character": "曹操",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "众将官！"
         },
         {
           "character": "徐晃、曹仁、张郃、曹洪、许褚、夏侯惇、李典、乐进",
@@ -739,7 +774,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.04,
+        0.92,
+        0.04,
+        0.7083,
+        11,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -904,7 +949,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "孤，刘备。仗先生之妙算，得了东、西两川。正好进兵，剿除曹贼。也曾命探\n马打听，未见回报到来。"
+          "text": "孤，刘备。仗先生之妙算，得了东、西两川。正好进兵，剿除曹贼。也曾命探"
+        },
+        {
+          "character": "刘备",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "马打听，未见回报到来。"
         },
         {
           "character": null,
@@ -946,7 +998,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "待山人传令。\n张飞、赵云、马超、黄忠听令！"
+          "text": "待山人传令。"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "张飞、赵云、马超、黄忠听令！"
         },
         {
           "character": "张飞、赵云、马超、黄忠",
@@ -1164,7 +1223,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0263,
+        0.9474,
+        0.0263,
+        0.8919,
+        16,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -1260,14 +1329,35 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "大耳儿，你本楼桑一织席卖履之人，妄充帝胄，擅敢反叛朝廷，带领人马，夺\n取两川。今日老夫兴兵到此，尔还不马前归顺，少时玉石俱焚，你悔之晚矣！"
+          "text": "大耳儿，你本楼桑一织席卖履之人，妄充帝胄，擅敢反叛朝廷，带领人马，夺"
+        },
+        {
+          "character": "曹操",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "取两川。今日老夫兴兵到此，尔还不马前归顺，少时玉石俱焚，你悔之晚矣！"
         },
         {
           "character": "曹操",
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "你本织席卖履人，\n冒充帝胄乱胡行。\n胆敢与孤来抗衡！"
+          "text": "你本织席卖履人，"
+        },
+        {
+          "character": "曹操",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "冒充帝胄乱胡行。"
+        },
+        {
+          "character": "曹操",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "胆敢与孤来抗衡！"
         },
         {
           "character": "曹操",
@@ -1277,7 +1367,63 @@
           "text": "你等听老夫骂得可是？"
         },
         {
-          "character": "侵吞疆土理不顺、徐晃、曹仁、张郃、曹洪、许褚、夏侯惇、李典、乐进",
+          "character": "曹操",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "侵吞疆土理不顺"
+        },
+        {
+          "character": "曹操",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "徐晃"
+        },
+        {
+          "character": "曹操",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "曹仁"
+        },
+        {
+          "character": "曹操",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "张郃"
+        },
+        {
+          "character": "曹操",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "曹洪"
+        },
+        {
+          "character": "曹操",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "许褚"
+        },
+        {
+          "character": "曹操",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "夏侯惇"
+        },
+        {
+          "character": "曹操",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "李典"
+        },
+        {
+          "character": "乐进",
           "line_type": "同白",
           "musical_style": null,
           "style_family": null,
@@ -1295,17 +1441,45 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "曹贼，想你身为汉相，实为汉贼。汝上杀母后，自立为王，僭用天子之节钺銮\n舆称尊，岂非叛逆？我乃大汉宗亲，奉诏讨贼，你还有何理说？"
+          "text": "曹贼，想你身为汉相，实为汉贼。汝上杀母后，自立为王，僭用天子之节钺銮"
+        },
+        {
+          "character": "刘备",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "舆称尊，岂非叛逆？我乃大汉宗亲，奉诏讨贼，你还有何理说？"
         },
         {
           "character": "刘备",
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "僭用銮舆妄称尊，\n上欺天子下压臣。\n少时叫你命难存。"
+          "text": "僭用銮舆妄称尊，"
         },
         {
-          "character": "心怀叛逆该何罪、曹操",
+          "character": "刘备",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "上欺天子下压臣。"
+        },
+        {
+          "character": "刘备",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "少时叫你命难存。"
+        },
+        {
+          "character": "刘备",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "心怀叛逆该何罪"
+        },
+        {
+          "character": "曹操",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -1344,7 +1518,49 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "看枪！\n（徐晃、曹仁、张郃、曹洪、许褚、夏侯惇、李典、乐进、张飞、赵云、马超、黄忠、马岱、魏延、刘封同\n起打。刘备、曹操同下。张飞、赵云、马超、黄忠、马岱、魏延、刘封同败下。赵云、马岱同上，杀徐晃、\n曹仁、张郃、曹洪、许褚、夏侯惇、李典、乐进同下。赵云、马岱同追下。许褚、夏侯惇同上，赵云、马岱\n同上，杀许褚、夏侯惇同败下。赵云耍枪花下。曹操随徐晃、曹仁、张郃、曹洪、许褚、夏侯惇、李典、乐\n进同上，魏延上，射曹操下，徐晃、曹仁、张郃、曹洪、许褚、夏侯惇、李典、乐进同随下。张飞、赵云、\n马超、黄忠、马岱、魏延、刘封同追下。曹操、徐晃、曹仁、张郃、曹洪、许褚、夏侯惇、李典、乐进同上。）"
+          "text": "看枪！"
+        },
+        {
+          "character": "刘封",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "（徐晃、曹仁、张郃、曹洪、许褚、夏侯惇、李典、乐进、张飞、赵云、马超、黄忠、马岱、魏延、刘封同"
+        },
+        {
+          "character": "刘封",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "起打。刘备、曹操同下。张飞、赵云、马超、黄忠、马岱、魏延、刘封同败下。赵云、马岱同上，杀徐晃、"
+        },
+        {
+          "character": "刘封",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "曹仁、张郃、曹洪、许褚、夏侯惇、李典、乐进同下。赵云、马岱同追下。许褚、夏侯惇同上，赵云、马岱"
+        },
+        {
+          "character": "刘封",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "同上，杀许褚、夏侯惇同败下。赵云耍枪花下。曹操随徐晃、曹仁、张郃、曹洪、许褚、夏侯惇、李典、乐"
+        },
+        {
+          "character": "刘封",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "进同上，魏延上，射曹操下，徐晃、曹仁、张郃、曹洪、许褚、夏侯惇、李典、乐进同随下。张飞、赵云、"
+        },
+        {
+          "character": "刘封",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "马超、黄忠、马岱、魏延、刘封同追下。曹操、徐晃、曹仁、张郃、曹洪、许褚、夏侯惇、李典、乐进同上。）"
         },
         {
           "character": "曹操",
@@ -1365,7 +1581,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "好！收兵收兵。\n啊呀，痛煞孤也！"
+          "text": "好！收兵收兵。"
+        },
+        {
+          "character": "曹操",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "啊呀，痛煞孤也！"
         },
         {
           "character": null,
@@ -1424,7 +1647,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.1556,
+        0.8444,
+        0.0,
+        0.4318,
+        6,
+        0.1556,
+        0.0
+      ]
     },
     {
       "scene_index": 4,
@@ -1494,7 +1727,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "想主公以仁义为怀，只怕不肯就称尊号。但今已有荆襄两川之地，可以称尊为\n汉中王，随后再即帝位，也还不迟。待山人请出主公商议。\n有请主公！"
+          "text": "想主公以仁义为怀，只怕不肯就称尊号。但今已有荆襄两川之地，可以称尊为"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "汉中王，随后再即帝位，也还不迟。待山人请出主公商议。"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "有请主公！"
         },
         {
           "character": null,
@@ -1543,14 +1790,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "今天下分崩，群雄并起，各霸一方。四海之士，舍死忘生，而事其上者，皆欲\n攀龙附凤，以立功名。今主公不允，大失众人之望。"
+          "text": "今天下分崩，群雄并起，各霸一方。四海之士，舍死忘生，而事其上者，皆欲"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "攀龙附凤，以立功名。今主公不允，大失众人之望。"
         },
         {
           "character": "张飞",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "大哥！今天下纷纷大乱，异姓之人，尚称王称帝。大哥乃汉室宗亲，莫说称王，\n就是做皇帝，也是应当的。"
+          "text": "大哥！今天下纷纷大乱，异姓之人，尚称王称帝。大哥乃汉室宗亲，莫说称王，"
+        },
+        {
+          "character": "张飞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "就是做皇帝，也是应当的。"
         },
         {
           "character": "刘备",
@@ -1599,7 +1860,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "今日即是良辰，就请主公即位。\n看冠带伺候。"
+          "text": "今日即是良辰，就请主公即位。"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "看冠带伺候。"
         },
         {
           "character": null,
@@ -1926,7 +2194,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.9783,
+        0.0217,
+        0.8667,
+        14,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 5,
@@ -1950,7 +2228,21 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "满朝文武孤为尊，\n半为天子半为臣。\n平定刘备方称心。"
+          "text": "满朝文武孤为尊，"
+        },
+        {
+          "character": "曹操",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "半为天子半为臣。"
+        },
+        {
+          "character": "曹操",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "平定刘备方称心。"
         },
         {
           "character": null,
@@ -2062,7 +2354,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "孙、刘两家，虽结姻眷，却有切齿之仇。今修书一封，差一舌辨之人，去到东\n吴，叫孙权发兵，去取荆州，那刘备必撤两川之兵，以救荆州。魏王再发兵攻\n打汉中，刘备自灭。"
+          "text": "孙、刘两家，虽结姻眷，却有切齿之仇。今修书一封，差一舌辨之人，去到东"
+        },
+        {
+          "character": "司马懿",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "吴，叫孙权发兵，去取荆州，那刘备必撤两川之兵，以救荆州。魏王再发兵攻"
+        },
+        {
+          "character": "司马懿",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "打汉中，刘备自灭。"
         },
         {
           "character": "曹操",
@@ -2134,7 +2440,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.067,
+        0.1579,
+        0.8421,
+        0.0,
+        0.6111,
+        4,
+        0.1579,
+        0.0
+      ]
     },
     {
       "scene_index": 6,
@@ -2172,7 +2488,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "孤，孙权。可恨刘备，借我荆州，屯军养马，屡讨不还。必须兴动人马，与关\n公交战，夺取荆州，方称孤心。\n众卿有本早奏，无本退班。"
+          "text": "孤，孙权。可恨刘备，借我荆州，屯军养马，屡讨不还。必须兴动人马，与关"
+        },
+        {
+          "character": "孙权",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "公交战，夺取荆州，方称孤心。"
+        },
+        {
+          "character": "孙权",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "众卿有本早奏，无本退班。"
         },
         {
           "character": "诸葛瑾",
@@ -2242,7 +2572,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "奉魏王之命，言道吴、魏并无仇怨。皆因刘备之故，屡动干戈。今欲请吴侯，\n攻取荆州，魏王以兵伐汉中，两下夹攻，破了刘备，与吴侯平分疆土。"
+          "text": "奉魏王之命，言道吴、魏并无仇怨。皆因刘备之故，屡动干戈。今欲请吴侯，"
+        },
+        {
+          "character": "满宠",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "攻取荆州，魏王以兵伐汉中，两下夹攻，破了刘备，与吴侯平分疆土。"
         },
         {
           "character": "孙权",
@@ -2277,14 +2614,35 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "曹操之词，亦为有理。今主公可一面遣回满宠，约曹操起兵；一面暗差人探听\n关公动静，方可行事。"
+          "text": "曹操之词，亦为有理。今主公可一面遣回满宠，约曹操起兵；一面暗差人探听"
+        },
+        {
+          "character": "步骘",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "关公动静，方可行事。"
         },
         {
           "character": "诸葛瑾",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "闻关公自到荆州，刘备与他娶妻。先生一子，后生一女。其女甚为贤淑，尚未\n字人。今臣为主公世子求婚，若关公许了亲事，即与之同心破曹；若其不允，\n然后再助曹同取荆州。"
+          "text": "闻关公自到荆州，刘备与他娶妻。先生一子，后生一女。其女甚为贤淑，尚未"
+        },
+        {
+          "character": "诸葛瑾",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "字人。今臣为主公世子求婚，若关公许了亲事，即与之同心破曹；若其不允，"
+        },
+        {
+          "character": "诸葛瑾",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "然后再助曹同取荆州。"
         },
         {
           "character": "孙权",
@@ -2340,7 +2698,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0417,
+        0.875,
+        0.0833,
+        0.6087,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 7,
@@ -2365,7 +2733,7 @@
           "text": "（八方旗、八马童、廖化、王甫、赵累、马良、关平、周仓、关羽同上。）"
         },
         {
-          "character": null,
+          "character": "关羽",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -3036,7 +3404,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0164,
+        0.918,
+        0.0656,
+        0.8333,
+        9,
+        0.0164,
+        0.0
+      ]
     },
     {
       "scene_index": 8,
@@ -3242,7 +3620,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0588,
+        0.8824,
+        0.0588,
+        0.9375,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 9,
@@ -3432,7 +3820,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0769,
+        0.9231,
+        0.0,
+        0.8333,
+        4,
+        0.0769,
+        0.0
+      ]
     },
     {
       "scene_index": 10,
@@ -3597,7 +3995,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.8889,
+        0.1111,
+        0.875,
+        5,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 11,
@@ -3779,7 +4187,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.9231,
+        0.0769,
+        0.9167,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 12,
@@ -3819,7 +4237,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 13,
@@ -3967,7 +4395,17 @@
         "singing_ratio": 0.083,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.083,
+        0.0833,
+        0.9167,
+        0.0,
+        1.0,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 14,
@@ -4045,7 +4483,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 15,
@@ -4230,7 +4678,17 @@
         "singing_ratio": 0.222,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.222,
+        0.2667,
+        0.6667,
+        0.0667,
+        0.2857,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 16,
@@ -4298,7 +4756,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.5,
+        0.5,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 17,
@@ -4421,7 +4889,17 @@
         "singing_ratio": 0.286,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.286,
+        0.2857,
+        0.7143,
+        0.0,
+        0.8333,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 18,
@@ -4782,7 +5260,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.027,
+        0.973,
+        0.0,
+        0.8889,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 19,
@@ -4948,7 +5436,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.077,
+        0.1429,
+        0.8571,
+        0.0,
+        0.8462,
+        2,
+        0.1429,
+        0.0
+      ]
     },
     {
       "scene_index": 20,
@@ -5083,7 +5581,17 @@
         "singing_ratio": 0.2,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.2,
+        0.1818,
+        0.8182,
+        0.0,
+        0.8,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 21,
@@ -5159,7 +5667,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.75,
+        0.25,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 22,
@@ -5371,7 +5889,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.062,
+        0.0625,
+        0.9375,
+        0.0,
+        0.8667,
+        4,
+        0.0625,
+        0.0
+      ]
     },
     {
       "scene_index": 23,
@@ -5411,7 +5939,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 24,
@@ -5511,7 +6049,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.1667,
+        0.6667,
+        0.1667,
+        0.8,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 25,
@@ -5785,7 +6333,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.8421,
+        5,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 26,
@@ -5825,7 +6383,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 27,
@@ -6075,7 +6643,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.95,
+        6,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 28,
@@ -6204,7 +6782,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.5714,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 29,
@@ -6415,7 +7003,17 @@
         "singing_ratio": 0.059,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.059,
+        0.0588,
+        0.9412,
+        0.0,
+        0.9375,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 30,
@@ -6807,7 +7405,17 @@
           "二黄摇板",
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.133,
+        0.2353,
+        0.7353,
+        0.0294,
+        0.7879,
+        7,
+        0.0294,
+        0.1765
+      ]
     },
     {
       "scene_index": 31,
@@ -6847,7 +7455,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 32,
@@ -7173,7 +7791,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.033,
+        0.0645,
+        0.871,
+        0.0645,
+        0.9333,
+        4,
+        0.0645,
+        0.0
+      ]
     },
     {
       "scene_index": 33,
@@ -7580,7 +8208,17 @@
           "高拨子导板",
           "高拨子慢板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.062,
+        0.0882,
+        0.9118,
+        0.0,
+        0.7879,
+        6,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 34,
@@ -7620,7 +8258,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 35,
@@ -7729,7 +8377,17 @@
         "singing_ratio": 0.143,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.143,
+        0.1429,
+        0.8571,
+        0.0,
+        1.0,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 36,
@@ -7752,7 +8410,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 37,
@@ -7775,7 +8443,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 38,
@@ -7798,7 +8476,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 39,
@@ -7821,7 +8509,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 40,
@@ -7844,7 +8542,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 41,
@@ -7867,7 +8575,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 42,
@@ -7927,7 +8645,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        2,
+        0.0,
+        0.0
+      ]
     }
   ]
 }

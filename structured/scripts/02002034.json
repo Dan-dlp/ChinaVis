@@ -190,7 +190,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "我等这洛阳县俱是顺民。只有梁冀之子梁英，倚父威权，抢人妇女，霸占民房，\n无不痛恨。幸遇巡抚张大人，将他打死，人头示众，除了洛阳一害。"
+          "text": "我等这洛阳县俱是顺民。只有梁冀之子梁英，倚父威权，抢人妇女，霸占民房，"
+        },
+        {
+          "character": "乡绅甲",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "无不痛恨。幸遇巡抚张大人，将他打死，人头示众，除了洛阳一害。"
         },
         {
           "character": "乡绅乙",
@@ -218,7 +225,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "不妨事，朝中有南阳朱季、毛义、郑钧、杨震，人称关西夫子，黄宪量深，虞\n诩增灶收付羌兵，俱有美名。张纲微服私访民情，今诛权臣之子，谁不敬心。\n老朽相邀列位，要与张公立坊挂匾，以表清廉。"
+          "text": "不妨事，朝中有南阳朱季、毛义、郑钧、杨震，人称关西夫子，黄宪量深，虞"
+        },
+        {
+          "character": "乡绅甲",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "诩增灶收付羌兵，俱有美名。张纲微服私访民情，今诛权臣之子，谁不敬心。"
+        },
+        {
+          "character": "乡绅甲",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "老朽相邀列位，要与张公立坊挂匾，以表清廉。"
         },
         {
           "character": "三乡绅",
@@ -284,7 +305,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.75,
+        5,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -371,7 +402,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.6667,
+        0.3333,
+        1.0,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -399,14 +440,28 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "农夫耕种恨天晚，\n老人乘马更为难。"
+          "text": "农夫耕种恨天晚，"
+        },
+        {
+          "character": "张禄",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "老人乘马更为难。"
         },
         {
           "character": "张禄",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "我，张纲大人府中管家张禄。老爷奉旨巡视河南一省，临行言道，叫我打听他\n何处下马，急忙赶去见他。已闻到了洛阳，我也催马到任。"
+          "text": "我，张纲大人府中管家张禄。老爷奉旨巡视河南一省，临行言道，叫我打听他"
+        },
+        {
+          "character": "张禄",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "何处下马，急忙赶去见他。已闻到了洛阳，我也催马到任。"
         },
         {
           "character": "张禄",
@@ -425,7 +480,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.5,
+        0.5,
+        0.0,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 4,
@@ -446,21 +511,49 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "父命不敢迟行慢，\n单身已出淮扬关。"
-        },
-        {
-          "character": "张士安",
-          "line_type": "白",
-          "musical_style": null,
-          "style_family": null,
-          "text": "小生张士安，父讳文纪，官居监察御史，屡有书信叫我进京，为此离了家乡，\n单身独行。已到山东，闻听人言，我父升任察院，巡视河南一省，在洛阳下马，\n我即往洛阳。"
+          "text": "父命不敢迟行慢，"
         },
         {
           "character": "张士安",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "读书谁不想官宦，\n难到蟾宫把桂攀。"
+          "text": "单身已出淮扬关。"
+        },
+        {
+          "character": "张士安",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "小生张士安，父讳文纪，官居监察御史，屡有书信叫我进京，为此离了家乡，"
+        },
+        {
+          "character": "张士安",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "单身独行。已到山东，闻听人言，我父升任察院，巡视河南一省，在洛阳下马，"
+        },
+        {
+          "character": "张士安",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我即往洛阳。"
+        },
+        {
+          "character": "张士安",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "读书谁不想官宦，"
+        },
+        {
+          "character": "张士安",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "难到蟾宫把桂攀。"
         },
         {
           "character": null,
@@ -479,7 +572,17 @@
         "singing_ratio": 1.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        1.0,
+        0.5714,
+        0.4286,
+        0.0,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 5,
@@ -510,14 +613,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "可恨梁冀专权误国，纵子擅杀无辜。我已私探民情，目睹眼见，告梁英者状叠\n如山，我将犬子拿到公堂，立毙杖下，料想梁冀老贼必不干休。"
+          "text": "可恨梁冀专权误国，纵子擅杀无辜。我已私探民情，目睹眼见，告梁英者状叠"
+        },
+        {
+          "character": "张纲",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "如山，我将犬子拿到公堂，立毙杖下，料想梁冀老贼必不干休。"
         },
         {
           "character": "张纲",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "胆大要锯龙上角，\n伸手去拔虎口牙。"
+          "text": "胆大要锯龙上角，"
+        },
+        {
+          "character": "张纲",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "伸手去拔虎口牙。"
         },
         {
           "character": null,
@@ -601,7 +718,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "我日前下车，埋轮于驿亭，私访豪恶。不料梁冀之子名叫梁英，抢人妇女，霸\n占田园房屋，百姓纷纷呈报案下，我即将梁英拿来，乱板打死，与民除了祸害，\n岂不痛快人心！"
+          "text": "我日前下车，埋轮于驿亭，私访豪恶。不料梁冀之子名叫梁英，抢人妇女，霸"
+        },
+        {
+          "character": "张纲",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "占田园房屋，百姓纷纷呈报案下，我即将梁英拿来，乱板打死，与民除了祸害，"
+        },
+        {
+          "character": "张纲",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "岂不痛快人心！"
         },
         {
           "character": "张禄",
@@ -629,7 +760,21 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "闻言惊失魂也散，\n老爷虎口夺食餐。\n独掌威权霸朝班。"
+          "text": "闻言惊失魂也散，"
+        },
+        {
+          "character": "张禄",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "老爷虎口夺食餐。"
+        },
+        {
+          "character": "张禄",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "独掌威权霸朝班。"
         },
         {
           "character": "张禄",
@@ -646,7 +791,21 @@
           "text": "快定良谋心方安。"
         },
         {
-          "character": "梁冀倚仗太后胆、子仇父报主遭难、张纲",
+          "character": "张禄",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "梁冀倚仗太后胆"
+        },
+        {
+          "character": "张禄",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "子仇父报主遭难"
+        },
+        {
+          "character": "张纲",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -671,10 +830,52 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "为官当诛国之患，\n怕死贪生人笑谈。\n按律斩他有何难！\n樵夫何须进深山？"
+          "text": "为官当诛国之患，"
         },
         {
-          "character": "梁冀若把国法犯、惧狼见虎心寒战、我事不用你愁叹、张禄",
+          "character": "张纲",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "怕死贪生人笑谈。"
+        },
+        {
+          "character": "张纲",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "按律斩他有何难！"
+        },
+        {
+          "character": "张纲",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "樵夫何须进深山？"
+        },
+        {
+          "character": "张纲",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "梁冀若把国法犯"
+        },
+        {
+          "character": "张纲",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "惧狼见虎心寒战"
+        },
+        {
+          "character": "张纲",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我事不用你愁叹"
+        },
+        {
+          "character": "张禄",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -762,7 +963,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "哎呀爹爹吓，谁不知梁冀在朝专权，父亲将他的儿子打死，此仇焉有不报。这\n便怎么处？"
+          "text": "哎呀爹爹吓，谁不知梁冀在朝专权，父亲将他的儿子打死，此仇焉有不报。这"
+        },
+        {
+          "character": "张士安",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "便怎么处？"
         },
         {
           "character": "张纲",
@@ -818,7 +1026,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "顺他者生逆他者斩，\n铁人无泪也伤残。"
+          "text": "顺他者生逆他者斩，"
+        },
+        {
+          "character": "张纲",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "铁人无泪也伤残。"
         },
         {
           "character": "张纲",
@@ -835,7 +1050,14 @@
           "text": "为父只为你着难。"
         },
         {
-          "character": "我死不用人顾盼、张士安",
+          "character": "张纲",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我死不用人顾盼"
+        },
+        {
+          "character": "张士安",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -853,7 +1075,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "哈哈，我之一死早已打点过了，何惧之有！但是儿身乃遗宗祖之嗣，为父即修\n书信，另有吩咐。"
+          "text": "哈哈，我之一死早已打点过了，何惧之有！但是儿身乃遗宗祖之嗣，为父即修"
+        },
+        {
+          "character": "张纲",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "书信，另有吩咐。"
         },
         {
           "character": null,
@@ -881,7 +1110,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "老爷舍身除国患，\n比干之心又重繁。"
+          "text": "老爷舍身除国患，"
+        },
+        {
+          "character": "张禄",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "比干之心又重繁。"
         },
         {
           "character": null,
@@ -909,7 +1145,35 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "儿吓，你幼年曾聘昆陵夏少府之女为室，一向因国事身忙，未曾与儿完婚。这\n是你岳父回聘之物，名为金鳌珮。父已修下书信，儿到昆陵就婚，避迹潜踪，\n你岳父、岳母见此金鳌珮与你父的书信，自然隐藏你在府中，儿吓，以全张氏\n之血脉！\n吓，张禄老管家哎！"
+          "text": "儿吓，你幼年曾聘昆陵夏少府之女为室，一向因国事身忙，未曾与儿完婚。这"
+        },
+        {
+          "character": "张纲",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "是你岳父回聘之物，名为金鳌珮。父已修下书信，儿到昆陵就婚，避迹潜踪，"
+        },
+        {
+          "character": "张纲",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "你岳父、岳母见此金鳌珮与你父的书信，自然隐藏你在府中，儿吓，以全张氏"
+        },
+        {
+          "character": "张纲",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "之血脉！"
+        },
+        {
+          "character": "张纲",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "吓，张禄老管家哎！"
         },
         {
           "character": "张禄",
@@ -944,7 +1208,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "哎呀爹爹吓，那梁冀必有矫旨，前来陷害，爹爹怎么叫儿远离膝下？孩儿不去\n吓！"
+          "text": "哎呀爹爹吓，那梁冀必有矫旨，前来陷害，爹爹怎么叫儿远离膝下？孩儿不去"
+        },
+        {
+          "character": "张士安",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "吓！"
         },
         {
           "character": null,
@@ -958,7 +1229,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "唗，为父以身许国，岂惧奸谋陷害。你若与父同死，宗嗣灭绝，反使我忠孝不\n能两全了。"
+          "text": "唗，为父以身许国，岂惧奸谋陷害。你若与父同死，宗嗣灭绝，反使我忠孝不"
+        },
+        {
+          "character": "张纲",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "能两全了。"
         },
         {
           "character": "张禄",
@@ -1000,7 +1278,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "世间万事不凄惨，\n生离死别最伤残。"
+          "text": "世间万事不凄惨，"
+        },
+        {
+          "character": "张纲",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "生离死别最伤残。"
         },
         {
           "character": null,
@@ -1042,7 +1327,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "为子当替父之难，\n忍心离别两为难。"
+          "text": "为子当替父之难，"
+        },
+        {
+          "character": "张士安",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "忍心离别两为难。"
         },
         {
           "character": "张纲",
@@ -1105,7 +1397,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "哎呀老爷，旗牌在知府衙门，只见校尉百十余人，俱进府堂。是我细问其情，\n他们言道，乃是奉旨提拿张大人进京。"
+          "text": "哎呀老爷，旗牌在知府衙门，只见校尉百十余人，俱进府堂。是我细问其情，"
+        },
+        {
+          "character": "钟信",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "他们言道，乃是奉旨提拿张大人进京。"
         },
         {
           "character": "张纲",
@@ -1224,14 +1523,28 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "俺本天下英雄汉，\n见死不救枉为男。"
+          "text": "俺本天下英雄汉，"
+        },
+        {
+          "character": "钟信",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "见死不救枉为男。"
         },
         {
           "character": "钟信",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "哎呀老爷吓，校尉此来，定是梁冀为报子仇。等他进门，俺杀他个干净，看是\n何人敢拿老爷！"
+          "text": "哎呀老爷吓，校尉此来，定是梁冀为报子仇。等他进门，俺杀他个干净，看是"
+        },
+        {
+          "character": "钟信",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "何人敢拿老爷！"
         },
         {
           "character": "张纲",
@@ -1252,7 +1565,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "俺到暗地偷眼看，\n不敢多言泄机关。"
+          "text": "俺到暗地偷眼看，"
+        },
+        {
+          "character": "钟信",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "不敢多言泄机关。"
         },
         {
           "character": null,
@@ -1266,7 +1586,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "比干剖心人常赞，\n张纲留名后人看。"
+          "text": "比干剖心人常赞，"
+        },
+        {
+          "character": "张纲",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "张纲留名后人看。"
         },
         {
           "character": null,
@@ -1294,7 +1621,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "听宣读。皇帝诏曰：御史张纲，前任广陵征剿盗寇，私受黄金千两，释放蔡婴，\n纵贼复行猖狂，深负国恩，难宽法纪，着提骑拿解来京，正法谢恩。"
+          "text": "听宣读。皇帝诏曰：御史张纲，前任广陵征剿盗寇，私受黄金千两，释放蔡婴，"
+        },
+        {
+          "character": "大校尉甲",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "纵贼复行猖狂，深负国恩，难宽法纪，着提骑拿解来京，正法谢恩。"
         },
         {
           "character": "张纲",
@@ -1378,7 +1712,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "本待救主同路走，\n反惹老爷加烦愁。"
+          "text": "本待救主同路走，"
+        },
+        {
+          "character": "钟信",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "反惹老爷加烦愁。"
         },
         {
           "character": "钟信",
@@ -1456,7 +1797,17 @@
         "singing_ratio": 0.08,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.08,
+        0.2867,
+        0.7063,
+        0.007,
+        0.5986,
+        6,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 6,
@@ -1492,21 +1843,49 @@
           "line_type": "同唱",
           "musical_style": null,
           "style_family": null,
-          "text": "河南天中人非少，\n好位清官怎能抛！"
+          "text": "河南天中人非少，"
+        },
+        {
+          "character": "众百姓",
+          "line_type": "同唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "好位清官怎能抛！"
         },
         {
           "character": "百姓甲",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "哎呀列位吓，抚台张大人来到洛阳，打死梁英，除了一县之害。今来校尉百余\n人，将按台上刑押解进京。为此聚齐列位，各执兵器，拦阻大道，留住大人，\n谅必都是愿意的。"
+          "text": "哎呀列位吓，抚台张大人来到洛阳，打死梁英，除了一县之害。今来校尉百余"
+        },
+        {
+          "character": "百姓甲",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "人，将按台上刑押解进京。为此聚齐列位，各执兵器，拦阻大道，留住大人，"
+        },
+        {
+          "character": "百姓甲",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "谅必都是愿意的。"
         },
         {
           "character": "百姓乙",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "他们都是我邀齐的，你看什么兵器没有。我们简直一句，要留住清官。校尉们\n若是不肯，我等齐心作他毁他。"
+          "text": "他们都是我邀齐的，你看什么兵器没有。我们简直一句，要留住清官。校尉们"
+        },
+        {
+          "character": "百姓乙",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "若是不肯，我等齐心作他毁他。"
         },
         {
           "character": "百姓甲",
@@ -1520,7 +1899,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "明是梁冀行奸巧，\n打子之仇报方消。"
+          "text": "明是梁冀行奸巧，"
+        },
+        {
+          "character": "百姓甲",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "打子之仇报方消。"
         },
         {
           "character": null,
@@ -1632,7 +2018,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "且慢。\n张大人，众百姓拦道，俱要见你。"
+          "text": "且慢。"
+        },
+        {
+          "character": "大校尉甲",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "张大人，众百姓拦道，俱要见你。"
         },
         {
           "character": "张纲",
@@ -1660,7 +2053,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "大人在此，与民除害。虽立牌坊匾额，油漆还没有干。今被他们拿问进京，小\n人们心中不服，要将大人留住。"
+          "text": "大人在此，与民除害。虽立牌坊匾额，油漆还没有干。今被他们拿问进京，小"
+        },
+        {
+          "character": "百姓甲",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "人们心中不服，要将大人留住。"
         },
         {
           "character": "张纲",
@@ -1681,14 +2081,42 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "你们说我在此勤正清廉，除了一县之害，为官者上侍君，下泽民，乃是分内之\n事。此番拿问进京，必是我有不到之处，才得如此。今日众贤民要将我留住，\n知道的知我清正不惧权奸，不知者，反说我买动民心，中途劫夺。一来违抗圣\n旨，二则我张纲作了怕死之臣，芳名付如流水。各自回去吧，回去吧！"
+          "text": "你们说我在此勤正清廉，除了一县之害，为官者上侍君，下泽民，乃是分内之"
+        },
+        {
+          "character": "张纲",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "事。此番拿问进京，必是我有不到之处，才得如此。今日众贤民要将我留住，"
+        },
+        {
+          "character": "张纲",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "知道的知我清正不惧权奸，不知者，反说我买动民心，中途劫夺。一来违抗圣"
+        },
+        {
+          "character": "张纲",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "旨，二则我张纲作了怕死之臣，芳名付如流水。各自回去吧，回去吧！"
         },
         {
           "character": "百姓甲",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "大人怕违了圣旨，是要进京。若依小人等详情，乃是大人打死梁冀之子，他要\n报仇，假传圣旨，也未可定。"
+          "text": "大人怕违了圣旨，是要进京。若依小人等详情，乃是大人打死梁冀之子，他要"
+        },
+        {
+          "character": "百姓甲",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "报仇，假传圣旨，也未可定。"
         },
         {
           "character": "张纲",
@@ -1737,7 +2165,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "他们俱是奉君诏，\n圣旨焉能假虚抛？"
+          "text": "他们俱是奉君诏，"
+        },
+        {
+          "character": "张纲",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "圣旨焉能假虚抛？"
         },
         {
           "character": "张纲",
@@ -1754,7 +2189,14 @@
           "text": "容我前去见当朝。"
         },
         {
-          "character": "好心反将我送了、百姓甲",
+          "character": "张纲",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "好心反将我送了"
+        },
+        {
+          "character": "百姓甲",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -1800,7 +2242,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "为臣尽忠子当孝，\n怕死何须身立朝。"
+          "text": "为臣尽忠子当孝，"
+        },
+        {
+          "character": "张纲",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "怕死何须身立朝。"
         },
         {
           "character": null,
@@ -1906,7 +2355,17 @@
         "singing_ratio": 0.057,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.057,
+        0.1887,
+        0.8113,
+        0.0,
+        0.6346,
+        8,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 7,
@@ -1927,21 +2386,56 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "计中之计自夸妙，\n要害人死当绝苗。"
-        },
-        {
-          "character": "孙朗",
-          "line_type": "白",
-          "musical_style": null,
-          "style_family": null,
-          "text": "俺孙朗，姐夫梁冀。因为张纲将我外甥梁英立毙杖下，姐夫与子报仇，假传圣\n旨，命校尉前往洛阳捉拿张纲，进京问罪。此人进京，定有文武保奏，又命我\n接至中途，将他杀死，岂不是子仇父报。\n众家丁催趱！"
+          "text": "计中之计自夸妙，"
         },
         {
           "character": "孙朗",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "杀人不死惹人笑，\n害人必要心似刀。"
+          "text": "要害人死当绝苗。"
+        },
+        {
+          "character": "孙朗",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "俺孙朗，姐夫梁冀。因为张纲将我外甥梁英立毙杖下，姐夫与子报仇，假传圣"
+        },
+        {
+          "character": "孙朗",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "旨，命校尉前往洛阳捉拿张纲，进京问罪。此人进京，定有文武保奏，又命我"
+        },
+        {
+          "character": "孙朗",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "接至中途，将他杀死，岂不是子仇父报。"
+        },
+        {
+          "character": "孙朗",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "众家丁催趱！"
+        },
+        {
+          "character": "孙朗",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "杀人不死惹人笑，"
+        },
+        {
+          "character": "孙朗",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "害人必要心似刀。"
         },
         {
           "character": null,
@@ -1960,7 +2454,17 @@
         "singing_ratio": 1.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        1.0,
+        0.5,
+        0.5,
+        0.0,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 8,
@@ -2182,7 +2686,17 @@
         "singing_ratio": 0.056,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.056,
+        0.0952,
+        0.8095,
+        0.0952,
+        0.85,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 9,
@@ -3049,7 +3563,17 @@
         "singing_ratio": 0.095,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.095,
+        0.2152,
+        0.7848,
+        0.0,
+        0.7564,
+        10,
+        0.0,
+        0.0
+      ]
     }
   ]
 }

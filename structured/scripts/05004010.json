@@ -191,7 +191,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "众家兄弟，只因魏王无道，囚禁秦王。三弟巧修本章，将他南牢释放，魏王肆\n行不道，只得散了瓦岗，同下山林，各图干功立业。今日天色晴和，弟兄们，\n慢慢趱行便了。"
+          "text": "众家兄弟，只因魏王无道，囚禁秦王。三弟巧修本章，将他南牢释放，魏王肆"
+        },
+        {
+          "character": "秦琼",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "行不道，只得散了瓦岗，同下山林，各图干功立业。今日天色晴和，弟兄们，"
+        },
+        {
+          "character": "秦琼",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "慢慢趱行便了。"
         },
         {
           "character": "徐勣、罗成、程咬金",
@@ -240,7 +254,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.6923,
+        0.3077,
+        0.8333,
+        6,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -276,7 +300,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "俺，王勇字伯党。奉了魏王将令，追赶弟兄回山。\n众兵丁！"
+          "text": "俺，王勇字伯党。奉了魏王将令，追赶弟兄回山。"
+        },
+        {
+          "character": "王伯党",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "众兵丁！"
         },
         {
           "character": "四上手",
@@ -315,7 +346,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.1667,
+        0.6667,
+        0.1667,
+        0.4,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -440,98 +481,609 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "兄弟相逢在路旁，\n尊一声贤弟听端详：\n南牢不放小秦王。\n反道我暗地保唐王。\n推出午门把我伤。"
+          "text": "兄弟相逢在路旁，"
         },
         {
-          "character": "昏王他把旨来降、石垒坚阵命未丧、金殿哪容我分讲、王伯党",
+          "character": "秦琼",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "王勇闻言怒气上，\n这是昏王理不当。\n哪个忠良保朝廊。\n你今散去为哪桩？"
+          "text": "尊一声贤弟听端详："
         },
         {
-          "character": "不念忠臣把国掌、回头又对三哥讲、徐勣",
+          "character": "秦琼",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "南牢不放小秦王。"
+        },
+        {
+          "character": "秦琼",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "反道我暗地保唐王。"
+        },
+        {
+          "character": "秦琼",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "推出午门把我伤。"
+        },
+        {
+          "character": "秦琼",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "昏王他把旨来降"
+        },
+        {
+          "character": "秦琼",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "石垒坚阵命未丧"
+        },
+        {
+          "character": "秦琼",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "金殿哪容我分讲"
+        },
+        {
+          "character": "王伯党",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "王勇闻言怒气上，"
+        },
+        {
+          "character": "王伯党",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "这是昏王理不当。"
+        },
+        {
+          "character": "王伯党",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "哪个忠良保朝廊。"
+        },
+        {
+          "character": "王伯党",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "你今散去为哪桩？"
+        },
+        {
+          "character": "王伯党",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "不念忠臣把国掌"
+        },
+        {
+          "character": "王伯党",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "回头又对三哥讲"
+        },
+        {
+          "character": "徐勣",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
           "text": "贤弟。"
         },
         {
-          "character": "不念忠臣把国掌、回头又对三哥讲、徐勣",
-          "line_type": "唱",
+          "character": "徐勣",
+          "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "六弟不必泪悲伤，\n提起心头恨魏王。\n那昏王赶我出朝廊。\n巧改本章罪难当。\n谁肯抄手等无常？\n让他一人自称王。"
+          "text": "不念忠臣把国掌"
         },
         {
-          "character": "只为二哥把本上、他道我与贼同一党、动不动他把死罪降、我今回转历城往、王伯党",
-          "line_type": "唱",
+          "character": "徐勣",
+          "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "先生不把经纶掌，\n谁推八卦定阴阳？\n你把原由说端详？"
+          "text": "回头又对三哥讲"
         },
         {
-          "character": "回头我对八弟讲、罗成",
+          "character": "徐勣",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "手挽手儿尊兄长，\n小弟言来听心旁。\n反要将我过刀伤。\n回转幽州乐安康。"
+          "text": "六弟不必泪悲伤，"
         },
         {
-          "character": "只为二哥把本上、无奈带了众家将、王伯党",
+          "character": "徐勣",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "叫声八弟不必忙，\n年少英雄各一方。\n你今缘何散瓦岗？"
+          "text": "提起心头恨魏王。"
         },
         {
-          "character": "回头我对咬金讲、程咬金",
+          "character": "徐勣",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "上前尊声六兄长，\n小弟略略表几桩：\n老程三斧取瓦岗。\n如今逞势坐朝堂。\n因此上各自走他的娘！"
+          "text": "那昏王赶我出朝廊。"
         },
         {
-          "character": "曾记当初招兵将、我今皇帝让他做、大家不在心头上、王伯党",
+          "character": "徐勣",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "听一言来怒满腔，\n指着金殿骂魏王。\n毛衣长足把人伤。\n家贫方显孝儿郎。\n回头尊声众豪强：\n悔不该当初把他降。\n大王降罪我承当，料也无妨。"
+          "text": "巧改本章罪难当。"
         },
         {
-          "character": "且看深山把虎养、自古国乱思良将、低下头来暗思想、李密虽然他无道、依我相劝回山往、秦琼",
+          "character": "徐勣",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "贤弟不必多言讲，\n愚兄岂肯心不良！\n实实不愿保昏王。\n历城县还有我亲娘。"
+          "text": "谁肯抄手等无常？"
         },
         {
-          "character": "李密为君少大量、逃笼鹊鸟鱼出网、徐勣",
+          "character": "徐勣",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "要我转去休妄想，\n萤火焉能见太阳？\n真命天子是唐王。\n去到太原保秦王。"
+          "text": "让他一人自称王。"
         },
         {
-          "character": "李密本是草寇相、今日山前别兄往、罗成",
+          "character": "徐勣",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "船到江心补漏难，\n马到临崖难收缰。\n太平积谷保饥荒。\n小弟归家奉高堂。"
+          "text": "只为二哥把本上"
         },
         {
-          "character": "自古养儿来侍老、在此拜别六兄长、程咬金",
+          "character": "徐勣",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "我也不愿奉高堂，\n我也不愿回故乡。\n我也不愿扶魏王。\n贩卖竹筢度时光。"
+          "text": "他道我与贼同一党"
         },
         {
-          "character": "我也不愿保唐主、我今回转历城往、王伯党",
+          "character": "徐勣",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "众位弟兄想一想，\n做一个忠良万古扬。"
+          "text": "动不动他把死罪降"
+        },
+        {
+          "character": "徐勣",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我今回转历城往"
+        },
+        {
+          "character": "王伯党",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "先生不把经纶掌，"
+        },
+        {
+          "character": "王伯党",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "谁推八卦定阴阳？"
+        },
+        {
+          "character": "王伯党",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "你把原由说端详？"
+        },
+        {
+          "character": "王伯党",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "回头我对八弟讲"
+        },
+        {
+          "character": "罗成",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "手挽手儿尊兄长，"
+        },
+        {
+          "character": "罗成",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "小弟言来听心旁。"
+        },
+        {
+          "character": "罗成",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "反要将我过刀伤。"
+        },
+        {
+          "character": "罗成",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "回转幽州乐安康。"
+        },
+        {
+          "character": "罗成",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "只为二哥把本上"
+        },
+        {
+          "character": "罗成",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "无奈带了众家将"
+        },
+        {
+          "character": "王伯党",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "叫声八弟不必忙，"
+        },
+        {
+          "character": "王伯党",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "年少英雄各一方。"
+        },
+        {
+          "character": "王伯党",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "你今缘何散瓦岗？"
+        },
+        {
+          "character": "王伯党",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "回头我对咬金讲"
+        },
+        {
+          "character": "程咬金",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "上前尊声六兄长，"
+        },
+        {
+          "character": "程咬金",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "小弟略略表几桩："
+        },
+        {
+          "character": "程咬金",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "老程三斧取瓦岗。"
+        },
+        {
+          "character": "程咬金",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "如今逞势坐朝堂。"
+        },
+        {
+          "character": "程咬金",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "因此上各自走他的娘！"
+        },
+        {
+          "character": "程咬金",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "曾记当初招兵将"
+        },
+        {
+          "character": "程咬金",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我今皇帝让他做"
+        },
+        {
+          "character": "程咬金",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "大家不在心头上"
+        },
+        {
+          "character": "王伯党",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "听一言来怒满腔，"
+        },
+        {
+          "character": "王伯党",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "指着金殿骂魏王。"
+        },
+        {
+          "character": "王伯党",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "毛衣长足把人伤。"
+        },
+        {
+          "character": "王伯党",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "家贫方显孝儿郎。"
+        },
+        {
+          "character": "王伯党",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "回头尊声众豪强："
+        },
+        {
+          "character": "王伯党",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "悔不该当初把他降。"
+        },
+        {
+          "character": "王伯党",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "大王降罪我承当，料也无妨。"
+        },
+        {
+          "character": "王伯党",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "且看深山把虎养"
+        },
+        {
+          "character": "王伯党",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "自古国乱思良将"
+        },
+        {
+          "character": "王伯党",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "低下头来暗思想"
+        },
+        {
+          "character": "王伯党",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "李密虽然他无道"
+        },
+        {
+          "character": "王伯党",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "依我相劝回山往"
+        },
+        {
+          "character": "秦琼",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "贤弟不必多言讲，"
+        },
+        {
+          "character": "秦琼",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "愚兄岂肯心不良！"
+        },
+        {
+          "character": "秦琼",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "实实不愿保昏王。"
+        },
+        {
+          "character": "秦琼",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "历城县还有我亲娘。"
+        },
+        {
+          "character": "秦琼",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "李密为君少大量"
+        },
+        {
+          "character": "秦琼",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "逃笼鹊鸟鱼出网"
+        },
+        {
+          "character": "徐勣",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "要我转去休妄想，"
+        },
+        {
+          "character": "徐勣",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "萤火焉能见太阳？"
+        },
+        {
+          "character": "徐勣",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "真命天子是唐王。"
+        },
+        {
+          "character": "徐勣",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "去到太原保秦王。"
+        },
+        {
+          "character": "徐勣",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "李密本是草寇相"
+        },
+        {
+          "character": "徐勣",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "今日山前别兄往"
+        },
+        {
+          "character": "罗成",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "船到江心补漏难，"
+        },
+        {
+          "character": "罗成",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "马到临崖难收缰。"
+        },
+        {
+          "character": "罗成",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "太平积谷保饥荒。"
+        },
+        {
+          "character": "罗成",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "小弟归家奉高堂。"
+        },
+        {
+          "character": "罗成",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "自古养儿来侍老"
+        },
+        {
+          "character": "罗成",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "在此拜别六兄长"
+        },
+        {
+          "character": "程咬金",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我也不愿奉高堂，"
+        },
+        {
+          "character": "程咬金",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我也不愿回故乡。"
+        },
+        {
+          "character": "程咬金",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我也不愿扶魏王。"
+        },
+        {
+          "character": "程咬金",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "贩卖竹筢度时光。"
+        },
+        {
+          "character": "程咬金",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我也不愿保唐主"
+        },
+        {
+          "character": "程咬金",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我今回转历城往"
+        },
+        {
+          "character": "王伯党",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "众位弟兄想一想，"
+        },
+        {
+          "character": "王伯党",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "做一个忠良万古扬。"
         },
         {
           "character": "秦琼",
@@ -566,10 +1118,94 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "他众人说话都一样，\n好叫王勇无主张。\n咬金、罗成归故乡。\n一人怎比众人强？\n回头尊声众豪强：\n莫做无义小儿郎。\n惹动干戈岂寻常？"
+          "text": "他众人说话都一样，"
         },
         {
-          "character": "二哥、三哥还乡往、单单剩下王伯党、低下头来暗思想、各把前事想一想、而今若还不思想、罗成",
+          "character": "王伯党",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "好叫王勇无主张。"
+        },
+        {
+          "character": "王伯党",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "咬金、罗成归故乡。"
+        },
+        {
+          "character": "王伯党",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "一人怎比众人强？"
+        },
+        {
+          "character": "王伯党",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "回头尊声众豪强："
+        },
+        {
+          "character": "王伯党",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "莫做无义小儿郎。"
+        },
+        {
+          "character": "王伯党",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "惹动干戈岂寻常？"
+        },
+        {
+          "character": "王伯党",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "二哥"
+        },
+        {
+          "character": "王伯党",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "三哥还乡往"
+        },
+        {
+          "character": "王伯党",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "单单剩下王伯党"
+        },
+        {
+          "character": "王伯党",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "低下头来暗思想"
+        },
+        {
+          "character": "王伯党",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "各把前事想一想"
+        },
+        {
+          "character": "王伯党",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "而今若还不思想"
+        },
+        {
+          "character": "罗成",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
@@ -587,14 +1223,28 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "山前摆下杀人场，\n弟兄们今朝来来来战一场。"
+          "text": "山前摆下杀人场，"
+        },
+        {
+          "character": "王伯党",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "弟兄们今朝来来来战一场。"
         },
         {
           "character": "秦琼",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "一见弟兄动刀枪，\n倒叫秦琼着了忙。"
+          "text": "一见弟兄动刀枪，"
+        },
+        {
+          "character": "秦琼",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "倒叫秦琼着了忙。"
         },
         {
           "character": "秦琼",
@@ -611,39 +1261,137 @@
           "text": "你家中还有你的伯母娘。"
         },
         {
-          "character": "要杀就把愚兄斩、王伯党",
+          "character": "秦琼",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "要杀就把愚兄斩"
+        },
+        {
+          "character": "王伯党",
           "line_type": "西皮导板",
           "musical_style": "西皮导板",
           "style_family": "西皮",
           "text": "山前哭坏王伯党！"
         },
         {
-          "character": "要杀就把愚兄斩、王伯党",
+          "character": "王伯党",
+          "line_type": "西皮导板",
+          "musical_style": "西皮导板",
+          "style_family": "西皮",
+          "text": "要杀就把愚兄斩"
+        },
+        {
+          "character": "王伯党",
           "line_type": "三叫头",
           "musical_style": null,
           "style_family": null,
           "text": "二哥、三哥、八弟呀！我那众兄弟呀！"
         },
         {
-          "character": "要杀就把愚兄斩、王伯党",
-          "line_type": "唱",
+          "character": "王伯党",
+          "line_type": "三叫头",
           "musical_style": null,
           "style_family": null,
-          "text": "点点珠泪洒胸膛。\n小弟言来听端详：\n赛过了桃园刘关张。\n枉费金炉一炷香。\n撇下王勇好凄凉！"
-        },
-        {
-          "character": "手挽手儿尊兄长、结义三十九员将、到如今各把心来散、你们一一都去了、秦琼",
-          "line_type": "唱",
-          "musical_style": null,
-          "style_family": null,
-          "text": "六弟要去一路往，\n倒不如大家去降唐。"
+          "text": "要杀就把愚兄斩"
         },
         {
           "character": "王伯党",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "我本当与你们一路往，\n一臣岂扶二君王？\n山前拜别众兄长！"
+          "text": "点点珠泪洒胸膛。"
+        },
+        {
+          "character": "王伯党",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "小弟言来听端详："
+        },
+        {
+          "character": "王伯党",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "赛过了桃园刘关张。"
+        },
+        {
+          "character": "王伯党",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "枉费金炉一炷香。"
+        },
+        {
+          "character": "王伯党",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "撇下王勇好凄凉！"
+        },
+        {
+          "character": "王伯党",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "手挽手儿尊兄长"
+        },
+        {
+          "character": "王伯党",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "结义三十九员将"
+        },
+        {
+          "character": "王伯党",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "到如今各把心来散"
+        },
+        {
+          "character": "王伯党",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "你们一一都去了"
+        },
+        {
+          "character": "秦琼",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "六弟要去一路往，"
+        },
+        {
+          "character": "秦琼",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "倒不如大家去降唐。"
+        },
+        {
+          "character": "王伯党",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我本当与你们一路往，"
+        },
+        {
+          "character": "王伯党",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "一臣岂扶二君王？"
+        },
+        {
+          "character": "王伯党",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "山前拜别众兄长！"
         },
         {
           "character": "王伯党",
@@ -734,7 +1482,35 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "众家兄弟下山岗，\n铜心肠不合铁心肠！\n舍不得三哥好阴阳；\n舍不得八弟回马枪！\n好叫王勇无主张。"
+          "text": "众家兄弟下山岗，"
+        },
+        {
+          "character": "王伯党",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "铜心肠不合铁心肠！"
+        },
+        {
+          "character": "王伯党",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "舍不得三哥好阴阳；"
+        },
+        {
+          "character": "王伯党",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "舍不得八弟回马枪！"
+        },
+        {
+          "character": "王伯党",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "好叫王勇无主张。"
         },
         {
           "character": "王伯党",
@@ -762,7 +1538,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "见了魏王说端详。\n重兴瓦岗，方显我王勇是个大大的忠良。"
+          "text": "见了魏王说端详。"
+        },
+        {
+          "character": "王伯党",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "重兴瓦岗，方显我王勇是个大大的忠良。"
         },
         {
           "character": null,
@@ -838,7 +1621,17 @@
         "musical_styles": [
           "西皮导板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.711,
+        0.8917,
+        0.1083,
+        0.0,
+        0.2372,
+        6,
+        0.0127,
+        0.0
+      ]
     }
   ]
 }

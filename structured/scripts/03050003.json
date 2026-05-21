@@ -372,7 +372,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "某、中州侯武三思。奉则天皇帝旨意，带兵十万，征剿卧龙山，捉拿叛逆薛刚。\n不意被他夫妻逃走。是某将他山寨焚烧，在此扎营数日。曾命众将访拿，未\n见交令。"
+          "text": "某、中州侯武三思。奉则天皇帝旨意，带兵十万，征剿卧龙山，捉拿叛逆薛刚。"
+        },
+        {
+          "character": "武三思",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "不意被他夫妻逃走。是某将他山寨焚烧，在此扎营数日。曾命众将访拿，未"
+        },
+        {
+          "character": "武三思",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "见交令。"
         },
         {
           "character": null,
@@ -456,7 +470,14 @@
           "line_type": "同白",
           "musical_style": null,
           "style_family": null,
-          "text": "啊！\n众将官，班师回朝！"
+          "text": "啊！"
+        },
+        {
+          "character": "四将",
+          "line_type": "同白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "众将官，班师回朝！"
         },
         {
           "character": "四龙套、四文堂、四大铠",
@@ -496,7 +517,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0625,
+        0.875,
+        0.0625,
+        0.6667,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -529,31 +560,101 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "卧龙山栖身处已被贼剿，\n乱军中幸存留薛氏根苗。"
-        },
-        {
-          "character": "纪鸾英",
-          "line_type": "白",
-          "musical_style": null,
-          "style_family": null,
-          "text": "我，纪鸾英。昔随父母占据卧龙山，打富济贫。双亲亡故，奴家一人自为寨主。\n配夫薛刚，因遭大罪，连累一家惨受诛戮。我夫到长安扫祭铁丘坟，被禁军\n围困，多亏马登救出。不料武三思打破山寨，夫妻失散。我无处安身，只得投\n奔舅父丁守义，再慢慢打听丈夫的下落。一路问来，前面就是房州黑龙村。就\n此催马趱行便了！"
+          "text": "卧龙山栖身处已被贼剿，"
         },
         {
           "character": "纪鸾英",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "一路上无昼夜匹马行走，\n天为帐地为毡露宿街头。\n谁知我遭兵难万苦千愁？"
+          "text": "乱军中幸存留薛氏根苗。"
         },
         {
           "character": "纪鸾英",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "想我小时候随着母亲常到舅父家中。虽别十数馀载，却还记得这块地方。待我\n下马冒问一声。\n啊，里面有人吗？"
+          "text": "我，纪鸾英。昔随父母占据卧龙山，打富济贫。双亲亡故，奴家一人自为寨主。"
         },
         {
-          "character": "将铠甲已变卖程途糊口、丁富",
+          "character": "纪鸾英",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "配夫薛刚，因遭大罪，连累一家惨受诛戮。我夫到长安扫祭铁丘坟，被禁军"
+        },
+        {
+          "character": "纪鸾英",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "围困，多亏马登救出。不料武三思打破山寨，夫妻失散。我无处安身，只得投"
+        },
+        {
+          "character": "纪鸾英",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "奔舅父丁守义，再慢慢打听丈夫的下落。一路问来，前面就是房州黑龙村。就"
+        },
+        {
+          "character": "纪鸾英",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "此催马趱行便了！"
+        },
+        {
+          "character": "纪鸾英",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "一路上无昼夜匹马行走，"
+        },
+        {
+          "character": "纪鸾英",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "天为帐地为毡露宿街头。"
+        },
+        {
+          "character": "纪鸾英",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "谁知我遭兵难万苦千愁？"
+        },
+        {
+          "character": "纪鸾英",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "想我小时候随着母亲常到舅父家中。虽别十数馀载，却还记得这块地方。待我"
+        },
+        {
+          "character": "纪鸾英",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "下马冒问一声。"
+        },
+        {
+          "character": "纪鸾英",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "啊，里面有人吗？"
+        },
+        {
+          "character": "纪鸾英",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "将铠甲已变卖程途糊口"
+        },
+        {
+          "character": "丁富",
           "line_type": "内白",
           "musical_style": null,
           "style_family": null,
@@ -606,7 +707,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "啊，你就是纪家姑娘？一别多年，难以相认。我家员外常常思念。今日来了，\n请候片时。老奴进去禀明，就来相请！"
+          "text": "啊，你就是纪家姑娘？一别多年，难以相认。我家员外常常思念。今日来了，"
+        },
+        {
+          "character": "丁富",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "请候片时。老奴进去禀明，就来相请！"
         },
         {
           "character": "纪鸾英",
@@ -634,7 +742,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "难得！\n员外、安人有请！"
+          "text": "难得！"
+        },
+        {
+          "character": "丁富",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "员外、安人有请！"
         },
         {
           "character": null,
@@ -837,10 +952,45 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "骨肉亲儿只得衷肠细表，\n若提起伤心事珠泪号啕。\n舅父、舅母啊！\n孤单单只留儿苦命一条。"
+          "text": "骨肉亲儿只得衷肠细表，"
         },
         {
-          "character": "年二八儿不幸双亲丧了、丁守义、方氏",
+          "character": "纪鸾英",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "若提起伤心事珠泪号啕。"
+        },
+        {
+          "character": "纪鸾英",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "舅父、舅母啊！"
+        },
+        {
+          "character": "纪鸾英",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "孤单单只留儿苦命一条。"
+        },
+        {
+          "character": "纪鸾英",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "年二八儿不幸双亲丧了"
+        },
+        {
+          "character": "纪鸾英",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "丁守义"
+        },
+        {
+          "character": "方氏",
           "line_type": "同白",
           "musical_style": null,
           "style_family": null,
@@ -928,7 +1078,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "我父离家带儿母女漂流海外，学了一身武艺，积有一些家财，一家还乡。行至\n徐州卧龙山下，遇着一伙喽兵，将我爹爹请上山去，立为寨主。"
+          "text": "我父离家带儿母女漂流海外，学了一身武艺，积有一些家财，一家还乡。行至"
+        },
+        {
+          "character": "纪鸾英",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "徐州卧龙山下，遇着一伙喽兵，将我爹爹请上山去，立为寨主。"
         },
         {
           "character": "丁守义",
@@ -942,7 +1099,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "虽然为寇，乃是劫富济贫，为此官兵并不搅扰。后来父母双亡，儿独掌山寨大\n事。"
+          "text": "虽然为寇，乃是劫富济贫，为此官兵并不搅扰。后来父母双亡，儿独掌山寨大"
+        },
+        {
+          "character": "纪鸾英",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "事。"
         },
         {
           "character": "方氏",
@@ -1012,7 +1176,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "他父讳丁山，官居两辽王。母亲樊氏太君。丈夫薛刚，人称通城虎。因为酒醉\n大闹花灯，踢死太子，惊动朝廷，连累一门抄杀。他一人出城潜逃，行至卧龙\n山下。儿见他乃是英雄，招他为婿，立为寨主。"
+          "text": "他父讳丁山，官居两辽王。母亲樊氏太君。丈夫薛刚，人称通城虎。因为酒醉"
+        },
+        {
+          "character": "纪鸾英",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "大闹花灯，踢死太子，惊动朝廷，连累一门抄杀。他一人出城潜逃，行至卧龙"
+        },
+        {
+          "character": "纪鸾英",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "山下。儿见他乃是英雄，招他为婿，立为寨主。"
         },
         {
           "character": "丁守义",
@@ -1033,14 +1211,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "因为祭扫铁丘坟，惊动官兵，武三思带领人马破了山寨。我夫妻军中失散，不\n知存亡。儿投奔到此，乞求舅父、舅母收留。"
+          "text": "因为祭扫铁丘坟，惊动官兵，武三思带领人马破了山寨。我夫妻军中失散，不"
+        },
+        {
+          "character": "纪鸾英",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "知存亡。儿投奔到此，乞求舅父、舅母收留。"
         },
         {
           "character": "丁守义",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "骨肉至亲，讲什么“乞求”二字。儿安心在此。我暗暗着人打听你丈夫下落，\n接他来到我家就是。"
+          "text": "骨肉至亲，讲什么“乞求”二字。儿安心在此。我暗暗着人打听你丈夫下落，"
+        },
+        {
+          "character": "丁守义",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "接他来到我家就是。"
         },
         {
           "character": "纪鸾英",
@@ -1061,7 +1253,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "这是大伯薛猛之子，名唤薛蛟。因满门诛戮，朝中有一江淮侯徐敬猷，不忍薛\n家绝后，将亲生之子调换薛蛟。辞朝回转扬州，路过山寨，将此子交付外甥女\n抚养。"
+          "text": "这是大伯薛猛之子，名唤薛蛟。因满门诛戮，朝中有一江淮侯徐敬猷，不忍薛"
+        },
+        {
+          "character": "纪鸾英",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "家绝后，将亲生之子调换薛蛟。辞朝回转扬州，路过山寨，将此子交付外甥女"
+        },
+        {
+          "character": "纪鸾英",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "抚养。"
         },
         {
           "character": "丁守义",
@@ -1096,7 +1302,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "啊，薛蛟、薛葵乃忠良之后。\n啊安人，快去僱两个乳母抚养他弟兄二人。日后成人，一来可与他一家报仇，\n二来养我二老终身。"
+          "text": "啊，薛蛟、薛葵乃忠良之后。"
+        },
+        {
+          "character": "丁守义",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "啊安人，快去僱两个乳母抚养他弟兄二人。日后成人，一来可与他一家报仇，"
+        },
+        {
+          "character": "丁守义",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "二来养我二老终身。"
         },
         {
           "character": "方氏",
@@ -1214,7 +1434,17 @@
         "singing_ratio": 0.096,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.096,
+        0.1802,
+        0.7568,
+        0.0631,
+        0.6636,
+        5,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -1242,14 +1472,63 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "吾乃谢映登是也。幼为绿林，聚义瓦岗。是我看破红尘，入山修炼，云游四海。\n可叹唐室衰败，气运归武，不免去到长安指点一番便了！"
+          "text": "吾乃谢映登是也。幼为绿林，聚义瓦岗。是我看破红尘，入山修炼，云游四海。"
+        },
+        {
+          "character": "谢映登",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "可叹唐室衰败，气运归武，不免去到长安指点一番便了！"
         },
         {
           "character": "谢映登",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "叹世人空自忙如同春草，\n艳阳天日色暖百鸟离巢。\n农夫汉为耕种万苦千劳。\n眼见得光阴去霜雪难熬。\n我不贪带围腰乌纱紫袍。\n我不贪三公位势压当朝。\n逞强暴也难逃阎君不饶。"
+          "text": "叹世人空自忙如同春草，"
+        },
+        {
+          "character": "谢映登",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "艳阳天日色暖百鸟离巢。"
+        },
+        {
+          "character": "谢映登",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "农夫汉为耕种万苦千劳。"
+        },
+        {
+          "character": "谢映登",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "眼见得光阴去霜雪难熬。"
+        },
+        {
+          "character": "谢映登",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我不贪带围腰乌纱紫袍。"
+        },
+        {
+          "character": "谢映登",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我不贪三公位势压当朝。"
+        },
+        {
+          "character": "谢映登",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "逞强暴也难逃阎君不饶。"
         },
         {
           "character": null,
@@ -1268,7 +1547,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.7,
+        0.2,
+        0.1,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 4,
@@ -1302,21 +1591,98 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "可叹我命不幸慈母丧早，\n严父亲仗义气独逞英豪。\n但愿得无凶险双双潜逃。"
-        },
-        {
-          "character": "马成",
-          "line_type": "白",
-          "musical_style": null,
-          "style_family": null,
-          "text": "我，马成。乃武国公之子。父亲为救薛刚，将我寄托程老千岁府中。闻听众口\n纷纭，说我爹爹同薛刚开城逃走，武三思拿获一名喽兵，严刑拷问，道那薛刚\n在卧龙山招纪鸾英为妻。武氏已命三思带兵洗山去了。但愿我父不在那里。倘\n在一处，定然捉获解京。哎呀，爹爹呀，那时岂不痛煞孩儿了？"
+          "text": "可叹我命不幸慈母丧早，"
         },
         {
           "character": "马成",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "那时节七岁儿无有倚靠，\n怎能够报冤仇把恨来消？\n薛爵主害一家何必祭扫？\n似猛虎落平阳凤掉羽毛。\n笼中鸟网内鱼祸由自招。\n那喽兵已直供又把祸招。\n倘若是被擒获性命难逃。"
+          "text": "严父亲仗义气独逞英豪。"
+        },
+        {
+          "character": "马成",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "但愿得无凶险双双潜逃。"
+        },
+        {
+          "character": "马成",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我，马成。乃武国公之子。父亲为救薛刚，将我寄托程老千岁府中。闻听众口"
+        },
+        {
+          "character": "马成",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "纷纭，说我爹爹同薛刚开城逃走，武三思拿获一名喽兵，严刑拷问，道那薛刚"
+        },
+        {
+          "character": "马成",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "在卧龙山招纪鸾英为妻。武氏已命三思带兵洗山去了。但愿我父不在那里。倘"
+        },
+        {
+          "character": "马成",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "在一处，定然捉获解京。哎呀，爹爹呀，那时岂不痛煞孩儿了？"
+        },
+        {
+          "character": "马成",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "那时节七岁儿无有倚靠，"
+        },
+        {
+          "character": "马成",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "怎能够报冤仇把恨来消？"
+        },
+        {
+          "character": "马成",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "薛爵主害一家何必祭扫？"
+        },
+        {
+          "character": "马成",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "似猛虎落平阳凤掉羽毛。"
+        },
+        {
+          "character": "马成",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "笼中鸟网内鱼祸由自招。"
+        },
+        {
+          "character": "马成",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "那喽兵已直供又把祸招。"
+        },
+        {
+          "character": "马成",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "倘若是被擒获性命难逃。"
         },
         {
           "character": null,
@@ -1386,21 +1752,56 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "为你父救薛刚永无音耗，\n终日里常忧虑不展眉梢。\n我劝你去愁容珠泪莫抛。"
+          "text": "为你父救薛刚永无音耗，"
         },
         {
-          "character": "是吉凶九锡宫自有信报、马成",
+          "character": "程飞虎",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "终日里常忧虑不展眉梢。"
+        },
+        {
+          "character": "程飞虎",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我劝你去愁容珠泪莫抛。"
+        },
+        {
+          "character": "程飞虎",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "是吉凶九锡宫自有信报"
+        },
+        {
+          "character": "马成",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
           "text": "兄长啊！"
         },
         {
-          "character": "是吉凶九锡宫自有信报、马成",
+          "character": "马成",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "是吉凶九锡宫自有信报"
+        },
+        {
+          "character": "马成",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "父和母养育恩未曾奉老，\n我马成今是个不孝儿曹。"
+          "text": "父和母养育恩未曾奉老，"
+        },
+        {
+          "character": "马成",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我马成今是个不孝儿曹。"
         },
         {
           "character": null,
@@ -1463,7 +1864,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "别哭。你父亲保定薛刚已然出了皇城，自然平安无事。闻听武三思带兵征剿。\n那卧龙山乃是薛刚的巢穴。就是武三思兵到，他们自会有办法，你哭什么哪？\n你们俩人玩儿去吧。有人问你，你就说叫程飞豹。"
+          "text": "别哭。你父亲保定薛刚已然出了皇城，自然平安无事。闻听武三思带兵征剿。"
+        },
+        {
+          "character": "程咬金",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "那卧龙山乃是薛刚的巢穴。就是武三思兵到，他们自会有办法，你哭什么哪？"
+        },
+        {
+          "character": "程咬金",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "你们俩人玩儿去吧。有人问你，你就说叫程飞豹。"
         },
         {
           "character": "程飞虎",
@@ -1533,14 +1948,35 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "我想这些兴唐功臣俱已死尽，唯有我这老不死的活在世上看这奇奇怪怪的事。\n哪有妇人做皇帝的道理？真是颠颠倒倒！大好一座江山弄得稀糊脑滥，可叹哪\n可叹！"
+          "text": "我想这些兴唐功臣俱已死尽，唯有我这老不死的活在世上看这奇奇怪怪的事。"
+        },
+        {
+          "character": "程咬金",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "哪有妇人做皇帝的道理？真是颠颠倒倒！大好一座江山弄得稀糊脑滥，可叹哪"
+        },
+        {
+          "character": "程咬金",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "可叹！"
         },
         {
           "character": "程铁牛",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "啊爹爹，马登同薛刚杀出都城，那通城虎自然要集起义兵，中兴唐室天下，与\n他一家报仇。这武氏焉能坐得长久？"
+          "text": "啊爹爹，马登同薛刚杀出都城，那通城虎自然要集起义兵，中兴唐室天下，与"
+        },
+        {
+          "character": "程铁牛",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "他一家报仇。这武氏焉能坐得长久？"
         },
         {
           "character": "程咬金",
@@ -1673,14 +2109,35 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "啊！\n哎呀，儿呀，这是为父结拜的好兄弟到啦。\n快快开中门有请！"
+          "text": "啊！"
+        },
+        {
+          "character": "程咬金",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "哎呀，儿呀，这是为父结拜的好兄弟到啦。"
+        },
+        {
+          "character": "程咬金",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "快快开中门有请！"
         },
         {
           "character": "门官",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "啊！\n开中门有请！"
+          "text": "啊！"
+        },
+        {
+          "character": "门官",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "开中门有请！"
         },
         {
           "character": null,
@@ -1708,7 +2165,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "哎哟哟，面容未改，就是文雅了一些。请进请进！\n我儿过来，拜见你谢叔叔。"
+          "text": "哎哟哟，面容未改，就是文雅了一些。请进请进！"
+        },
+        {
+          "character": "程咬金",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我儿过来，拜见你谢叔叔。"
         },
         {
           "character": "程铁牛",
@@ -1757,7 +2221,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "啊，谢兄弟，想当年在瓦岗寨，你们立我做皇帝。后来兵进五关，就不见你啦。\n听人说你做了神仙啦，愚兄十分欢喜。今日重逢，面容如旧，真是做了神仙。\n难得难得！"
+          "text": "啊，谢兄弟，想当年在瓦岗寨，你们立我做皇帝。后来兵进五关，就不见你啦。"
+        },
+        {
+          "character": "程咬金",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "听人说你做了神仙啦，愚兄十分欢喜。今日重逢，面容如旧，真是做了神仙。"
+        },
+        {
+          "character": "程咬金",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "难得难得！"
         },
         {
           "character": "谢映登",
@@ -1785,21 +2263,56 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "哎哟哟，贤弟胸藏不老之法，与天地同休。愚兄好比风中之烛，光景无多。弟\n不弃我，情愿与你白日飞升。"
-        },
-        {
-          "character": "谢映登",
-          "line_type": "白",
-          "musical_style": null,
-          "style_family": null,
-          "text": "你的寿缘甚长，不必多虑。但目下唐家大变，兴废有时，不可强为。武氏杀戮\n太重，甚忌二十四家功臣，恐有内患，早晚必然分封外镇。老哥可着他们赴任，\n待时而动，不可效英王弟兄所为。切记切记！拿酒来，待弟立饮三杯，就要\n告辞了。"
+          "text": "哎哟哟，贤弟胸藏不老之法，与天地同休。愚兄好比风中之烛，光景无多。弟"
         },
         {
           "character": "程咬金",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "且慢！弟兄今日相逢，哪有马上分别之理？请到后堂，还要叫儿孙们拜见，请\n你说些神仙的故事给他们听听。然后我叫那些功臣上本奏辞朝廷，也就是了。"
+          "text": "不弃我，情愿与你白日飞升。"
+        },
+        {
+          "character": "谢映登",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "你的寿缘甚长，不必多虑。但目下唐家大变，兴废有时，不可强为。武氏杀戮"
+        },
+        {
+          "character": "谢映登",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "太重，甚忌二十四家功臣，恐有内患，早晚必然分封外镇。老哥可着他们赴任，"
+        },
+        {
+          "character": "谢映登",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "待时而动，不可效英王弟兄所为。切记切记！拿酒来，待弟立饮三杯，就要"
+        },
+        {
+          "character": "谢映登",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "告辞了。"
+        },
+        {
+          "character": "程咬金",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "且慢！弟兄今日相逢，哪有马上分别之理？请到后堂，还要叫儿孙们拜见，请"
+        },
+        {
+          "character": "程咬金",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "你说些神仙的故事给他们听听。然后我叫那些功臣上本奏辞朝廷，也就是了。"
         },
         {
           "character": "谢映登",
@@ -1946,7 +2459,17 @@
         "singing_ratio": 0.062,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.062,
+        0.1869,
+        0.7757,
+        0.0374,
+        0.5849,
+        7,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 5,
@@ -1981,7 +2504,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "魂归地府随风荡，\n怀"
+          "text": "魂归地府随风荡，"
+        },
+        {
+          "character": "杨氏",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "怀"
         }
       ],
       "interactions": [],
@@ -1994,7 +2524,17 @@
         "singing_ratio": 0.5,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.5,
+        0.6667,
+        0.3333,
+        0.0,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 6,
@@ -2014,14 +2554,14 @@
           "text": "（〖起二更鼓〗。薛义上。）"
         },
         {
-          "character": null,
+          "character": "薛义",
           "line_type": "念",
           "musical_style": null,
           "style_family": null,
           "text": "口如青锋剑，舌似杀人刀。若是心肠好，怎穿紫罗袍？"
         },
         {
-          "character": null,
+          "character": "薛义",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -2377,7 +2917,17 @@
         "singing_ratio": 0.038,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.038,
+        0.1143,
+        0.8,
+        0.0857,
+        0.5882,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 7,
@@ -2439,7 +2989,17 @@
         "singing_ratio": 0.5,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.5,
+        0.5,
+        0.5,
+        0.0,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 8,
@@ -3398,7 +3958,17 @@
         "singing_ratio": 0.055,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.055,
+        0.115,
+        0.8584,
+        0.0265,
+        0.7411,
+        6,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 9,
@@ -3851,7 +4421,17 @@
         "singing_ratio": 0.27,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.27,
+        0.3125,
+        0.6875,
+        0.0,
+        0.6809,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 10,
@@ -3913,7 +4493,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.6667,
+        0.3333,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 11,
@@ -3966,7 +4556,17 @@
         "singing_ratio": 1.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        1.0,
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 12,
@@ -4206,7 +4806,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.1429,
+        0.8095,
+        0.0476,
+        0.7,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 13,
@@ -4300,7 +4910,17 @@
         "singing_ratio": 0.667,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.667,
+        0.5714,
+        0.4286,
+        0.0,
+        0.5,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 14,
@@ -4354,7 +4974,17 @@
         "singing_ratio": 0.5,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.5,
+        0.5,
+        0.5,
+        0.0,
+        1.0,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 15,
@@ -4408,7 +5038,17 @@
         "singing_ratio": 1.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        1.0,
+        0.6667,
+        0.3333,
+        0.0,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 16,
@@ -4492,7 +5132,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 17,
@@ -4512,14 +5162,14 @@
           "text": "（四短刀手、四长枪手、中军、薛义同上。）"
         },
         {
-          "character": null,
+          "character": "薛义",
           "line_type": "念",
           "musical_style": null,
           "style_family": null,
           "text": "时来运也来，拜将即登台。不是心肠坏，怎做栋梁才？"
         },
         {
-          "character": null,
+          "character": "薛义",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -4659,7 +5309,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.1818,
+        0.8182,
+        0.0,
+        0.6,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 18,
@@ -4877,7 +5537,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.8947,
+        0.1053,
+        0.8333,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 19,
@@ -5206,7 +5876,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        7,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 20,
@@ -5271,7 +5951,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 21,
@@ -5803,7 +6493,17 @@
         "singing_ratio": 0.04,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.04,
+        0.1053,
+        0.8947,
+        0.0,
+        0.8214,
+        6,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 22,
@@ -5981,7 +6681,17 @@
         "singing_ratio": 0.125,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.125,
+        0.3571,
+        0.6429,
+        0.0,
+        0.4615,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 23,
@@ -6006,7 +6716,7 @@
           "text": "（四文堂、四大铠、罗章、秦文、马政、童升、薛腾、刘英、柴武、李跃同上。）"
         },
         {
-          "character": null,
+          "character": "李跃",
           "line_type": "同白",
           "musical_style": null,
           "style_family": null,
@@ -6169,7 +6879,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        9,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 24,
@@ -6284,7 +7004,17 @@
         "singing_ratio": 0.333,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.333,
+        0.4,
+        0.6,
+        0.0,
+        0.7778,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 25,
@@ -6432,7 +7162,17 @@
         "singing_ratio": 0.083,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.083,
+        0.1429,
+        0.8571,
+        0.0,
+        0.8462,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 26,
@@ -7370,7 +8110,17 @@
         "singing_ratio": 0.156,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.156,
+        0.3131,
+        0.6869,
+        0.0,
+        0.6122,
+        8,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 27,
@@ -7431,7 +8181,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.6667,
+        0.3333,
+        0.5,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 28,
@@ -7503,7 +8263,17 @@
         "singing_ratio": 0.667,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.667,
+        0.5,
+        0.5,
+        0.0,
+        0.6667,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 29,
@@ -8060,7 +8830,17 @@
         "singing_ratio": 0.143,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.143,
+        0.2069,
+        0.7931,
+        0.0,
+        0.7895,
+        5,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 30,
@@ -8885,7 +9665,17 @@
         "singing_ratio": 0.077,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.077,
+        0.1809,
+        0.7766,
+        0.0426,
+        0.7634,
+        7,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 31,
@@ -9363,7 +10153,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0612,
+        0.8367,
+        0.102,
+        0.8958,
+        6,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 32,
@@ -9531,7 +10331,17 @@
         "singing_ratio": 0.778,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.778,
+        0.8182,
+        0.1818,
+        0.0,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 33,
@@ -9603,7 +10413,17 @@
         "singing_ratio": 0.667,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.667,
+        0.5,
+        0.5,
+        0.0,
+        0.6667,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 34,
@@ -9732,7 +10552,17 @@
         "singing_ratio": 0.455,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.455,
+        0.5,
+        0.5,
+        0.0,
+        0.8182,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 35,
@@ -10013,7 +10843,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.9615,
+        0.0385,
+        0.92,
+        5,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 36,
@@ -10053,7 +10893,17 @@
         "singing_ratio": 1.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        1.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 37,
@@ -10162,7 +11012,17 @@
         "singing_ratio": 0.2,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.2,
+        0.2857,
+        0.7143,
+        0.0,
+        0.6667,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 38,
@@ -10275,7 +11135,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 39,
@@ -10598,7 +11468,17 @@
         "singing_ratio": 0.143,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.143,
+        0.1613,
+        0.8387,
+        0.0,
+        0.8333,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 40,
@@ -10733,7 +11613,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.8462,
+        0.1538,
+        1.0,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 41,
@@ -11004,7 +11894,17 @@
         "singing_ratio": 0.19,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.19,
+        0.3077,
+        0.6923,
+        0.0,
+        0.8,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 42,
@@ -11131,7 +12031,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 43,
@@ -11268,7 +12178,17 @@
         "singing_ratio": 0.571,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.571,
+        0.6,
+        0.4,
+        0.0,
+        0.3333,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 44,
@@ -11354,7 +12274,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        2,
+        0.0,
+        0.0
+      ]
     }
   ]
 }

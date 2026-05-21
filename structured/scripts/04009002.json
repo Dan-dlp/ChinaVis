@@ -83,14 +83,49 @@
           "line_type": "二黄散板",
           "musical_style": "二黄散板",
           "style_family": "二黄",
-          "text": "满怀忧愤出营门，\n恨男儿有志莫能伸！"
+          "text": "满怀忧愤出营门，"
+        },
+        {
+          "character": "岳飞",
+          "line_type": "二黄散板",
+          "musical_style": "二黄散板",
+          "style_family": "二黄",
+          "text": "恨男儿有志莫能伸！"
         },
         {
           "character": "岳飞",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "俺，岳飞。只因金兵犯境，是俺投效宗泽元帅帐下为将，官居统制。辛蒙元帅\n见重，言听计从，方期收复河山，直捣黄龙，不幸元帅为国忧愤，竟自呕血而\n死！元帅死后，朝廷派杜充接任，不想此人刚愎自用，不纳忠言，是俺有志难\n酬，中心悒郁！想大丈夫既不能标名于凌烟阁上，倒不如归于林下侍奉老母，\n也落得个孝亲之名于后世也。"
+          "text": "俺，岳飞。只因金兵犯境，是俺投效宗泽元帅帐下为将，官居统制。辛蒙元帅"
+        },
+        {
+          "character": "岳飞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "见重，言听计从，方期收复河山，直捣黄龙，不幸元帅为国忧愤，竟自呕血而"
+        },
+        {
+          "character": "岳飞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "死！元帅死后，朝廷派杜充接任，不想此人刚愎自用，不纳忠言，是俺有志难"
+        },
+        {
+          "character": "岳飞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "酬，中心悒郁！想大丈夫既不能标名于凌烟阁上，倒不如归于林下侍奉老母，"
+        },
+        {
+          "character": "岳飞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "也落得个孝亲之名于后世也。"
         },
         {
           "character": "岳飞",
@@ -111,7 +146,17 @@
         "musical_styles": [
           "二黄散板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.3333,
+        0.6667,
+        0.0,
+        0.0,
+        1,
+        0.0,
+        0.3333
+      ]
     },
     {
       "scene_index": 2,
@@ -161,7 +206,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "老身姚氏。世居汤阴，只因当年洪水为灾，夫君丧命，我与岳飞孩儿，幸得不\n死。是我孤灯独守，将他教养成人，又蒙周侗老师，传授兵法武艺。且喜他文\n武兼全，今在宗泽元帅帐下为将，抗金杀敌，屡建奇功，甚得宗老元帅见重。\n吾儿壮志得酬好不教人欣喜。正是："
+          "text": "老身姚氏。世居汤阴，只因当年洪水为灾，夫君丧命，我与岳飞孩儿，幸得不"
+        },
+        {
+          "character": "岳母",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "死。是我孤灯独守，将他教养成人，又蒙周侗老师，传授兵法武艺。且喜他文"
+        },
+        {
+          "character": "岳母",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "武兼全，今在宗泽元帅帐下为将，抗金杀敌，屡建奇功，甚得宗老元帅见重。"
+        },
+        {
+          "character": "岳母",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "吾儿壮志得酬好不教人欣喜。正是："
         },
         {
           "character": "岳母",
@@ -175,7 +241,21 @@
           "line_type": "二黄慢板",
           "musical_style": "二黄慢板",
           "style_family": "二黄",
-          "text": "想当年守孤灯将儿教训，\n幸喜他怀忠义奋志鹏程。\n迎二圣转还朝共享太平。"
+          "text": "想当年守孤灯将儿教训，"
+        },
+        {
+          "character": "岳母",
+          "line_type": "二黄慢板",
+          "musical_style": "二黄慢板",
+          "style_family": "二黄",
+          "text": "幸喜他怀忠义奋志鹏程。"
+        },
+        {
+          "character": "岳母",
+          "line_type": "二黄慢板",
+          "musical_style": "二黄慢板",
+          "style_family": "二黄",
+          "text": "迎二圣转还朝共享太平。"
         },
         {
           "character": null,
@@ -189,7 +269,14 @@
           "line_type": "二黄摇板",
           "musical_style": "二黄摇板",
           "style_family": "二黄",
-          "text": "我夫君为国家勤劳效命，\n为妻子奉高堂定省晨昏。"
+          "text": "我夫君为国家勤劳效命，"
+        },
+        {
+          "character": "李氏",
+          "line_type": "二黄摇板",
+          "musical_style": "二黄摇板",
+          "style_family": "二黄",
+          "text": "为妻子奉高堂定省晨昏。"
         },
         {
           "character": "李氏",
@@ -231,7 +318,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "金兵虽然猖獗，且喜宗老元帅执掌兵权，将士用命，鹏举儿随营参赞，言听计\n从，光复河山，为期想已不远。有日我儿奏凯回程，阖家团圆，这天伦之乐，\n我却不能轻轻地放过去哟！"
+          "text": "金兵虽然猖獗，且喜宗老元帅执掌兵权，将士用命，鹏举儿随营参赞，言听计"
+        },
+        {
+          "character": "岳母",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "从，光复河山，为期想已不远。有日我儿奏凯回程，阖家团圆，这天伦之乐，"
+        },
+        {
+          "character": "岳母",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我却不能轻轻地放过去哟！"
         },
         {
           "character": null,
@@ -245,7 +346,14 @@
           "line_type": "二黄摇板",
           "musical_style": "二黄摇板",
           "style_family": "二黄",
-          "text": "为娘我虽然是风烛晚景，\n我还要听凯歌乐享太平。"
+          "text": "为娘我虽然是风烛晚景，"
+        },
+        {
+          "character": "岳母",
+          "line_type": "二黄摇板",
+          "musical_style": "二黄摇板",
+          "style_family": "二黄",
+          "text": "我还要听凯歌乐享太平。"
         },
         {
           "character": "岳飞",
@@ -266,7 +374,14 @@
           "line_type": "二黄散板",
           "musical_style": "二黄散板",
           "style_family": "二黄",
-          "text": "宗元帅为国家呕血丧命，\n又谁知朝廷中选用非人。"
+          "text": "宗元帅为国家呕血丧命，"
+        },
+        {
+          "character": "岳飞",
+          "line_type": "二黄散板",
+          "musical_style": "二黄散板",
+          "style_family": "二黄",
+          "text": "又谁知朝廷中选用非人。"
         },
         {
           "character": "岳飞",
@@ -287,14 +402,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "我儿回来了！一路劳顿。\n啊媳妇，快快与你丈夫看座。"
+          "text": "我儿回来了！一路劳顿。"
+        },
+        {
+          "character": "岳母",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "啊媳妇，快快与你丈夫看座。"
         },
         {
           "character": "岳飞",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "谢母亲！\n娘子！"
+          "text": "谢母亲！"
+        },
+        {
+          "character": "岳飞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "娘子！"
         },
         {
           "character": "李氏",
@@ -364,7 +493,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "嗯……昔日大禹治水，三过其门而不入，儿既以身许国，就该公而忘私，为何\n反以为娘为念呢？"
+          "text": "嗯……昔日大禹治水，三过其门而不入，儿既以身许国，就该公而忘私，为何"
+        },
+        {
+          "character": "岳母",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "反以为娘为念呢？"
         },
         {
           "character": null,
@@ -455,14 +591,35 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "宗老元帅忠心为国，实实令人可敬。\n儿啊，你回得营去，在宗老元帅麾下，必须要尽心尽力，赴汤蹈火也不可退后\n哟！"
+          "text": "宗老元帅忠心为国，实实令人可敬。"
+        },
+        {
+          "character": "岳母",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "儿啊，你回得营去，在宗老元帅麾下，必须要尽心尽力，赴汤蹈火也不可退后"
+        },
+        {
+          "character": "岳母",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "哟！"
         },
         {
           "character": "岳母",
           "line_type": "二黄摇板",
           "musical_style": "二黄摇板",
           "style_family": "二黄",
-          "text": "有忠良做砥柱令人欢庆，\n喜的是御金兵天下一心。"
+          "text": "有忠良做砥柱令人欢庆，"
+        },
+        {
+          "character": "岳母",
+          "line_type": "二黄摇板",
+          "musical_style": "二黄摇板",
+          "style_family": "二黄",
+          "text": "喜的是御金兵天下一心。"
         },
         {
           "character": "岳飞",
@@ -476,7 +633,21 @@
           "line_type": "二黄散板",
           "musical_style": "二黄散板",
           "style_family": "二黄",
-          "text": "老娘亲他那里满怀高兴，\n又谁知军营中主帅非人.\n想起了宗元帅心酸难忍！"
+          "text": "老娘亲他那里满怀高兴，"
+        },
+        {
+          "character": "岳飞",
+          "line_type": "二黄散板",
+          "musical_style": "二黄散板",
+          "style_family": "二黄",
+          "text": "又谁知军营中主帅非人."
+        },
+        {
+          "character": "岳飞",
+          "line_type": "二黄散板",
+          "musical_style": "二黄散板",
+          "style_family": "二黄",
+          "text": "想起了宗元帅心酸难忍！"
         },
         {
           "character": null,
@@ -532,7 +703,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "哎呀母亲哪！那宗老元帅为国忧愤，染病在床，临终之时，三呼“渡河”，呕\n血而死！"
+          "text": "哎呀母亲哪！那宗老元帅为国忧愤，染病在床，临终之时，三呼“渡河”，呕"
+        },
+        {
+          "character": "岳飞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "血而死！"
         },
         {
           "character": "岳母",
@@ -581,7 +759,21 @@
           "line_type": "二黄散板",
           "musical_style": "二黄散板",
           "style_family": "二黄",
-          "text": "宗元帅为国家忧愤丧命，\n不由我年迈人珠泪双淋！\n匡社稷保疆土何人继承？"
+          "text": "宗元帅为国家忧愤丧命，"
+        },
+        {
+          "character": "岳母",
+          "line_type": "二黄散板",
+          "musical_style": "二黄散板",
+          "style_family": "二黄",
+          "text": "不由我年迈人珠泪双淋！"
+        },
+        {
+          "character": "岳母",
+          "line_type": "二黄散板",
+          "musical_style": "二黄散板",
+          "style_family": "二黄",
+          "text": "匡社稷保疆土何人继承？"
         },
         {
           "character": null,
@@ -616,7 +808,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "那杜充刚愎自用，无智无才，孩儿屡次请命杀敌，他不但不允，反将孩儿置于\n闲散之地。"
+          "text": "那杜充刚愎自用，无智无才，孩儿屡次请命杀敌，他不但不允，反将孩儿置于"
+        },
+        {
+          "character": "岳飞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "闲散之地。"
         },
         {
           "character": "岳母",
@@ -630,7 +829,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "哎呀母亲哪！想孩儿幼读兵书，精通武艺，指望建功立业，报国尽忠，不想如\n今所事非人，有志难酬。为此有意暂归林下，侍奉母亲，已尽为子之道。孩儿\n不告而行，还望母亲恕罪。"
+          "text": "哎呀母亲哪！想孩儿幼读兵书，精通武艺，指望建功立业，报国尽忠，不想如"
+        },
+        {
+          "character": "岳飞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "今所事非人，有志难酬。为此有意暂归林下，侍奉母亲，已尽为子之道。孩儿"
+        },
+        {
+          "character": "岳飞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "不告而行，还望母亲恕罪。"
         },
         {
           "character": "岳母",
@@ -651,45 +864,164 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "我儿你此言差矣！自古道君辱臣死，亲玷子亡。如今二圣蒙尘，国家危急，儿\n既已出仕朝廷，就该舍命勤王，以身报国。今乃以杜充一人之故，灰心堕志，\n踌躇不前，难道这就是你周老恩师的训诲？宗老元帅的遗言？忠孝本无二道，\n你既不能尽忠，却又怎的尽孝？儿啊，你，你，你辜负为娘一片苦心哪！"
+          "text": "我儿你此言差矣！自古道君辱臣死，亲玷子亡。如今二圣蒙尘，国家危急，儿"
+        },
+        {
+          "character": "岳母",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "既已出仕朝廷，就该舍命勤王，以身报国。今乃以杜充一人之故，灰心堕志，"
+        },
+        {
+          "character": "岳母",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "踌躇不前，难道这就是你周老恩师的训诲？宗老元帅的遗言？忠孝本无二道，"
+        },
+        {
+          "character": "岳母",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "你既不能尽忠，却又怎的尽孝？儿啊，你，你，你辜负为娘一片苦心哪！"
         },
         {
           "character": "岳母",
           "line_type": "二黄原板",
           "musical_style": "二黄原板",
           "style_family": "二黄",
-          "text": "鹏举儿听为娘把话来论，\n休忘了为娘我教养苦心。\n莫等闲辜负了年少光阴。\n常言道大丈夫权衡轻重、能屈能伸，方不愧有为之人。"
+          "text": "鹏举儿听为娘把话来论，"
         },
         {
-          "character": "儿应当秉忠心为国效命、那杜充虽无知儿且耐性、岳飞",
+          "character": "岳母",
           "line_type": "二黄原板",
           "musical_style": "二黄原板",
           "style_family": "二黄",
-          "text": "儿指望捣黄龙开怀痛饮，\n又谁知那杜充一意孤行。\n倒不如侍奉娘亲终老山林。"
+          "text": "休忘了为娘我教养苦心。"
         },
         {
-          "character": "儿空怀报国志无法效命、岳母",
+          "character": "岳母",
           "line_type": "二黄原板",
           "musical_style": "二黄原板",
           "style_family": "二黄",
-          "text": "儿说道志难酬无从效命，\n岂不知小不忍大谋难成。\n怎能够为一人你堕志灰心，全不想一发千钧！"
+          "text": "莫等闲辜负了年少光阴。"
         },
         {
-          "character": "儿空怀报国志无法效命、岳母",
+          "character": "岳母",
+          "line_type": "二黄原板",
+          "musical_style": "二黄原板",
+          "style_family": "二黄",
+          "text": "常言道大丈夫权衡轻重、能屈能伸，方不愧有为之人。"
+        },
+        {
+          "character": "岳母",
+          "line_type": "二黄原板",
+          "musical_style": "二黄原板",
+          "style_family": "二黄",
+          "text": "儿应当秉忠心为国效命"
+        },
+        {
+          "character": "岳母",
+          "line_type": "二黄原板",
+          "musical_style": "二黄原板",
+          "style_family": "二黄",
+          "text": "那杜充虽无知儿且耐性"
+        },
+        {
+          "character": "岳飞",
+          "line_type": "二黄原板",
+          "musical_style": "二黄原板",
+          "style_family": "二黄",
+          "text": "儿指望捣黄龙开怀痛饮，"
+        },
+        {
+          "character": "岳飞",
+          "line_type": "二黄原板",
+          "musical_style": "二黄原板",
+          "style_family": "二黄",
+          "text": "又谁知那杜充一意孤行。"
+        },
+        {
+          "character": "岳飞",
+          "line_type": "二黄原板",
+          "musical_style": "二黄原板",
+          "style_family": "二黄",
+          "text": "倒不如侍奉娘亲终老山林。"
+        },
+        {
+          "character": "岳飞",
+          "line_type": "二黄原板",
+          "musical_style": "二黄原板",
+          "style_family": "二黄",
+          "text": "儿空怀报国志无法效命"
+        },
+        {
+          "character": "岳母",
+          "line_type": "二黄原板",
+          "musical_style": "二黄原板",
+          "style_family": "二黄",
+          "text": "儿说道志难酬无从效命，"
+        },
+        {
+          "character": "岳母",
+          "line_type": "二黄原板",
+          "musical_style": "二黄原板",
+          "style_family": "二黄",
+          "text": "岂不知小不忍大谋难成。"
+        },
+        {
+          "character": "岳母",
+          "line_type": "二黄原板",
+          "musical_style": "二黄原板",
+          "style_family": "二黄",
+          "text": "怎能够为一人你堕志灰心，全不想一发千钧！"
+        },
+        {
+          "character": "岳母",
+          "line_type": "二黄原板",
+          "musical_style": "二黄原板",
+          "style_family": "二黄",
+          "text": "儿空怀报国志无法效命"
+        },
+        {
+          "character": "岳母",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
           "text": "儿啊！"
         },
         {
-          "character": "儿空怀报国志无法效命、岳母",
+          "character": "岳母",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "儿空怀报国志无法效命"
+        },
+        {
+          "character": "岳母",
           "line_type": "二黄散板",
           "musical_style": "二黄散板",
           "style_family": "二黄",
           "text": "公与私国与家儿要分清。"
         },
         {
-          "character": "既然是有志向黄龙痛饮、我的儿要分明国仇私恨、岳飞",
+          "character": "岳母",
+          "line_type": "二黄散板",
+          "musical_style": "二黄散板",
+          "style_family": "二黄",
+          "text": "既然是有志向黄龙痛饮"
+        },
+        {
+          "character": "岳母",
+          "line_type": "二黄散板",
+          "musical_style": "二黄散板",
+          "style_family": "二黄",
+          "text": "我的儿要分明国仇私恨"
+        },
+        {
+          "character": "岳飞",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -707,7 +1039,14 @@
           "line_type": "二黄散板",
           "musical_style": "二黄散板",
           "style_family": "二黄",
-          "text": "老娘亲严教训大义凛凛，\n怎能够为一人堕志灰心。"
+          "text": "老娘亲严教训大义凛凛，"
+        },
+        {
+          "character": "岳飞",
+          "line_type": "二黄散板",
+          "musical_style": "二黄散板",
+          "style_family": "二黄",
+          "text": "怎能够为一人堕志灰心。"
         },
         {
           "character": "岳飞",
@@ -724,18 +1063,39 @@
           "text": "奉高堂教儿女你要多多费心。"
         },
         {
-          "character": "从遗命遵母训我心志拿定、李氏",
+          "character": "岳飞",
+          "line_type": "二黄散板",
+          "musical_style": "二黄散板",
+          "style_family": "二黄",
+          "text": "从遗命遵母训我心志拿定"
+        },
+        {
+          "character": "李氏",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
           "text": "相公啊！"
         },
         {
-          "character": "从遗命遵母训我心志拿定、李氏",
+          "character": "李氏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "从遗命遵母训我心志拿定"
+        },
+        {
+          "character": "李氏",
           "line_type": "二黄散板",
           "musical_style": "二黄散板",
           "style_family": "二黄",
-          "text": "尊相公免叮咛宽心放定，\n家中事有为妻一力担承。"
+          "text": "尊相公免叮咛宽心放定，"
+        },
+        {
+          "character": "李氏",
+          "line_type": "二黄散板",
+          "musical_style": "二黄散板",
+          "style_family": "二黄",
+          "text": "家中事有为妻一力担承。"
         },
         {
           "character": "岳飞",
@@ -749,7 +1109,21 @@
           "line_type": "二黄散板",
           "musical_style": "二黄散板",
           "style_family": "二黄",
-          "text": "娘子贤德实可敬，\n奉亲教子你担承。\n辞别老母出家门——"
+          "text": "娘子贤德实可敬，"
+        },
+        {
+          "character": "岳飞",
+          "line_type": "二黄散板",
+          "musical_style": "二黄散板",
+          "style_family": "二黄",
+          "text": "奉亲教子你担承。"
+        },
+        {
+          "character": "岳飞",
+          "line_type": "二黄散板",
+          "musical_style": "二黄散板",
+          "style_family": "二黄",
+          "text": "辞别老母出家门——"
         },
         {
           "character": "岳母",
@@ -805,7 +1179,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "我儿此去，必多险阻，如今刀兵四起，心志若不坚如铁石，焉能为国尽忠，名\n标青史。为娘风烛残年，焉能跟儿一世，因此有意在儿背上刺字，使儿永记娘\n言，这一生一世怀报国之心，为娘纵死，也含笑九泉了。"
+          "text": "我儿此去，必多险阻，如今刀兵四起，心志若不坚如铁石，焉能为国尽忠，名"
+        },
+        {
+          "character": "岳母",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "标青史。为娘风烛残年，焉能跟儿一世，因此有意在儿背上刺字，使儿永记娘"
+        },
+        {
+          "character": "岳母",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "言，这一生一世怀报国之心，为娘纵死，也含笑九泉了。"
         },
         {
           "character": "岳飞",
@@ -819,7 +1207,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "好！\n媳妇看笔砚伺候。"
+          "text": "好！"
+        },
+        {
+          "character": "岳母",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "媳妇看笔砚伺候。"
         },
         {
           "character": "李氏",
@@ -840,10 +1235,59 @@
           "line_type": "西皮慢板",
           "musical_style": "西皮慢板",
           "style_family": "西皮",
-          "text": "好男儿理应当天下名扬。\n惟望儿怀大志扶保家邦。\n大丈夫立功业来日方长。\n刺四字作垂训永记在心旁。"
+          "text": "好男儿理应当天下名扬。"
         },
         {
-          "character": "想为娘二十载教儿成长、逢乱世须忠臣代有名将、怕的是我的儿难坚志向、叫媳妇取笔砚，儿宽衣跪在堂上、岳飞",
+          "character": "岳母",
+          "line_type": "西皮慢板",
+          "musical_style": "西皮慢板",
+          "style_family": "西皮",
+          "text": "惟望儿怀大志扶保家邦。"
+        },
+        {
+          "character": "岳母",
+          "line_type": "西皮慢板",
+          "musical_style": "西皮慢板",
+          "style_family": "西皮",
+          "text": "大丈夫立功业来日方长。"
+        },
+        {
+          "character": "岳母",
+          "line_type": "西皮慢板",
+          "musical_style": "西皮慢板",
+          "style_family": "西皮",
+          "text": "刺四字作垂训永记在心旁。"
+        },
+        {
+          "character": "岳母",
+          "line_type": "西皮慢板",
+          "musical_style": "西皮慢板",
+          "style_family": "西皮",
+          "text": "想为娘二十载教儿成长"
+        },
+        {
+          "character": "岳母",
+          "line_type": "西皮慢板",
+          "musical_style": "西皮慢板",
+          "style_family": "西皮",
+          "text": "逢乱世须忠臣代有名将"
+        },
+        {
+          "character": "岳母",
+          "line_type": "西皮慢板",
+          "musical_style": "西皮慢板",
+          "style_family": "西皮",
+          "text": "怕的是我的儿难坚志向"
+        },
+        {
+          "character": "岳母",
+          "line_type": "西皮慢板",
+          "musical_style": "西皮慢板",
+          "style_family": "西皮",
+          "text": "叫媳妇取笔砚，儿宽衣跪在堂上"
+        },
+        {
+          "character": "岳飞",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -854,7 +1298,14 @@
           "line_type": "西皮原板",
           "musical_style": "西皮原板",
           "style_family": "西皮",
-          "text": "提羊毫抚儿背仔细端详。\n勤王命誓报国方为栋梁。"
+          "text": "提羊毫抚儿背仔细端详。"
+        },
+        {
+          "character": "岳母",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "勤王命誓报国方为栋梁。"
         },
         {
           "character": null,
@@ -868,7 +1319,14 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "持金簪不由我手颤心慌。\n为娘的怎忍得将儿的肤发伤！"
+          "text": "持金簪不由我手颤心慌。"
+        },
+        {
+          "character": "岳母",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "为娘的怎忍得将儿的肤发伤！"
         },
         {
           "character": null,
@@ -896,10 +1354,45 @@
           "line_type": "西皮快板",
           "musical_style": "西皮快板",
           "style_family": "西皮",
-          "text": "含悲忍泪狠心肠。\n刺在儿身娘心伤。\n点点血墨染衣裳。\n刺罢四字我的心神恍……"
+          "text": "含悲忍泪狠心肠。"
         },
         {
-          "character": "一笔一划刺背上、我的儿忍痛无话讲、李氏",
+          "character": "岳母",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "刺在儿身娘心伤。"
+        },
+        {
+          "character": "岳母",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "点点血墨染衣裳。"
+        },
+        {
+          "character": "岳母",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "刺罢四字我的心神恍……"
+        },
+        {
+          "character": "岳母",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "一笔一划刺背上"
+        },
+        {
+          "character": "岳母",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "我的儿忍痛无话讲"
+        },
+        {
+          "character": "李氏",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -980,7 +1473,35 @@
           "line_type": "西皮快板",
           "musical_style": "西皮快板",
           "style_family": "西皮",
-          "text": "母亲教训记心上，\n男儿立志在疆场。\n我定要迎回二圣重整家邦。\n天下承平乐安康。\n落得个凌烟阁上万载名扬！"
+          "text": "母亲教训记心上，"
+        },
+        {
+          "character": "岳飞",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "男儿立志在疆场。"
+        },
+        {
+          "character": "岳飞",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "我定要迎回二圣重整家邦。"
+        },
+        {
+          "character": "岳飞",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "天下承平乐安康。"
+        },
+        {
+          "character": "岳飞",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "落得个凌烟阁上万载名扬！"
         },
         {
           "character": null,
@@ -1001,7 +1522,14 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "我的儿说此话真有志量，\n好男儿当奋勉为国争光。"
+          "text": "我的儿说此话真有志量，"
+        },
+        {
+          "character": "岳母",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "好男儿当奋勉为国争光。"
         },
         {
           "character": "岳母",
@@ -1121,7 +1649,17 @@
           "西皮慢板",
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.172,
+        0.3978,
+        0.5591,
+        0.043,
+        0.4378,
+        3,
+        0.1452,
+        0.2473
+      ]
     }
   ]
 }

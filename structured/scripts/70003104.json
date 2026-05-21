@@ -179,7 +179,14 @@
           "line_type": "西皮原板",
           "musical_style": "西皮原板",
           "style_family": "西皮",
-          "text": "董卓专权行不正，\n害得我一家骨肉分。"
+          "text": "董卓专权行不正，"
+        },
+        {
+          "character": "曹嵩",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "害得我一家骨肉分。"
         },
         {
           "character": null,
@@ -207,7 +214,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "爹爹容禀：孩儿献剑谋刺董卓事败，多蒙中牟县令陈宫，弃官与儿同逃，才得\n回到陈留。"
+          "text": "爹爹容禀：孩儿献剑谋刺董卓事败，多蒙中牟县令陈宫，弃官与儿同逃，才得"
+        },
+        {
+          "character": "曹操",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "回到陈留。"
         },
         {
           "character": "曹嵩",
@@ -266,7 +280,17 @@
         "musical_styles": [
           "西皮原板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.125,
+        0.2,
+        0.8,
+        0.0,
+        0.7778,
+        2,
+        0.2,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -320,7 +344,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -349,7 +383,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "俺，长沙太守孙坚。只因曹公有书相约，陈留举义。\n众将官！陈留去者！"
+          "text": "俺，长沙太守孙坚。只因曹公有书相约，陈留举义。"
+        },
+        {
+          "character": "孙坚",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "众将官！陈留去者！"
         },
         {
           "character": null,
@@ -384,7 +425,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "好，兵合一处，一同前往。\n众将官，陈留去者！"
+          "text": "好，兵合一处，一同前往。"
+        },
+        {
+          "character": "孙坚",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "众将官，陈留去者！"
         },
         {
           "character": null,
@@ -413,7 +461,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.6667,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 4,
@@ -443,7 +501,14 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "四世三公谁不晓，\n鞭稍一指催前哨——"
+          "text": "四世三公谁不晓，"
+        },
+        {
+          "character": "袁绍",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "鞭稍一指催前哨——"
         },
         {
           "character": null,
@@ -485,7 +550,14 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "合兵同往陈留郡，\n见了曹公叙衷情。"
+          "text": "合兵同往陈留郡，"
+        },
+        {
+          "character": "袁绍",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "见了曹公叙衷情。"
         },
         {
           "character": null,
@@ -517,7 +589,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.5,
+        0.625,
+        0.375,
+        0.0,
+        0.2857,
+        2,
+        0.625,
+        0.0
+      ]
     },
     {
       "scene_index": 5,
@@ -538,7 +620,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "俺，公孙瓒。曹公约我，陈留议事，前面已是平原县，不免约请桃园弟兄，一\n同前往。\n军士们，平原县去者！"
+          "text": "俺，公孙瓒。曹公约我，陈留议事，前面已是平原县，不免约请桃园弟兄，一"
+        },
+        {
+          "character": "公孙瓒",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "同前往。"
+        },
+        {
+          "character": "公孙瓒",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "军士们，平原县去者！"
         },
         {
           "character": null,
@@ -557,7 +653,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 6,
@@ -581,7 +687,14 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "东奔西驰路重重，\n英雄方能建奇功。"
+          "text": "东奔西驰路重重，"
+        },
+        {
+          "character": "刘备",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "英雄方能建奇功。"
         },
         {
           "character": "刘备",
@@ -644,7 +757,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "想你我弟兄为国建立大功，董卓老贼在朝专权，愚兄才得区区平原县令之职，\n二弟、三弟只为步马弓手。不知何日才得出头？"
+          "text": "想你我弟兄为国建立大功，董卓老贼在朝专权，愚兄才得区区平原县令之职，"
+        },
+        {
+          "character": "刘备",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "二弟、三弟只为步马弓手。不知何日才得出头？"
         },
         {
           "character": "张飞",
@@ -742,7 +862,14 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "公孙太守来约请，\n陈留郡府走一程。"
+          "text": "公孙太守来约请，"
+        },
+        {
+          "character": "刘备",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "陈留郡府走一程。"
         },
         {
           "character": null,
@@ -799,7 +926,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.059,
+        0.1818,
+        0.7273,
+        0.0909,
+        0.7143,
+        5,
+        0.1818,
+        0.0
+      ]
     },
     {
       "scene_index": 7,
@@ -842,7 +979,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 8,
@@ -902,7 +1049,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "曹公。\n（曹操、袁绍同笑，同下。曹操、袁绍、王匡、马腾、孔融、陶谦、鲍信、袁术、潘凤、俞涉、孙坚、公孙\n瓒、程普、祖茂、黄盖、韩当、刘备、关羽、张飞同上，同挖门。）"
+          "text": "曹公。"
+        },
+        {
+          "character": "袁绍",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "（曹操、袁绍同笑，同下。曹操、袁绍、王匡、马腾、孔融、陶谦、鲍信、袁术、潘凤、俞涉、孙坚、公孙"
+        },
+        {
+          "character": "袁绍",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "瓒、程普、祖茂、黄盖、韩当、刘备、关羽、张飞同上，同挖门。）"
         },
         {
           "character": "曹操",
@@ -937,7 +1098,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "只因董卓在朝专权，上欺天子，下压群臣，实为国家之患，黎民之害。为此约\n请众位诸侯，到此一同商议，灭除董卓，以除后患。"
+          "text": "只因董卓在朝专权，上欺天子，下压群臣，实为国家之患，黎民之害。为此约"
+        },
+        {
+          "character": "曹操",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "请众位诸侯，到此一同商议，灭除董卓，以除后患。"
         },
         {
           "character": "袁绍",
@@ -1014,7 +1182,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "绍蒙列公抬举，立为盟主，今为剿灭国贼，必须人人奋勇，各个当先，兵法有\n云：兵马未动，粮草先行。\n袁术听令！命你催押粮草，不得有误。"
+          "text": "绍蒙列公抬举，立为盟主，今为剿灭国贼，必须人人奋勇，各个当先，兵法有"
+        },
+        {
+          "character": "袁绍",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "云：兵马未动，粮草先行。"
+        },
+        {
+          "character": "袁绍",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "袁术听令！命你催押粮草，不得有误。"
         },
         {
           "character": "袁术",
@@ -1146,7 +1328,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.9655,
+        0.0345,
+        0.75,
+        7,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 9,
@@ -1176,7 +1368,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "某，华雄。奉董太师钧旨，镇守汜水关，剿灭各路诸侯。也曾命探子扫探军情，\n未见回报。"
+          "text": "某，华雄。奉董太师钧旨，镇守汜水关，剿灭各路诸侯。也曾命探子扫探军情，"
+        },
+        {
+          "character": "华雄",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "未见回报。"
         },
         {
           "character": null,
@@ -1246,7 +1445,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "看刀！\n（孙坚、华雄同开打，孙坚败下。华雄追下。孙坚、四龙套、程普、祖茂、黄盖、韩当同上。华雄追上，劈"
+          "text": "看刀！"
+        },
+        {
+          "character": "华雄",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "（孙坚、华雄同开打，孙坚败下。华雄追下。孙坚、四龙套、程普、祖茂、黄盖、韩当同上。华雄追上，劈"
         }
       ],
       "interactions": [
@@ -1276,7 +1482,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.9091,
+        0.0909,
+        0.6,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 10,
@@ -1552,7 +1768,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "哪位诸侯出马？哪位将军出马？\n唉，某今前来，颜良、文丑二将未带，若带一人前来，胜强那华雄十倍。"
+          "text": "哪位诸侯出马？哪位将军出马？"
+        },
+        {
+          "character": "袁绍",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "唉，某今前来，颜良、文丑二将未带，若带一人前来，胜强那华雄十倍。"
         },
         {
           "character": "关羽",
@@ -1622,7 +1845,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "盟主，如今天下荒荒，刀兵四起，董卓老儿在朝专权，上欺天子，下压群臣，\n实为国家之患，万民之害。如今小小华雄前来讨战，各路诸侯如此畏惧，不敢\n出马，岂不被天下英雄耻笑耳！"
+          "text": "盟主，如今天下荒荒，刀兵四起，董卓老儿在朝专权，上欺天子，下压群臣，"
+        },
+        {
+          "character": "关羽",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "实为国家之患，万民之害。如今小小华雄前来讨战，各路诸侯如此畏惧，不敢"
+        },
+        {
+          "character": "关羽",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "出马，岂不被天下英雄耻笑耳！"
         },
         {
           "character": "袁绍",
@@ -1706,7 +1943,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "且慢，看酒来！\n这里有暖酒一杯，将军饮下，以助军威，立斩华雄首级，为吾军扬眉吐气耳。"
+          "text": "且慢，看酒来！"
+        },
+        {
+          "character": "曹操",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "这里有暖酒一杯，将军饮下，以助军威，立斩华雄首级，为吾军扬眉吐气耳。"
         },
         {
           "character": "关羽",
@@ -1755,7 +1999,28 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "盟主他把人小量，\n海水岂可用斗量？\n岂不知强中自有强。\n英雄出头在沙场。"
+          "text": "盟主他把人小量，"
+        },
+        {
+          "character": "关羽",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "海水岂可用斗量？"
+        },
+        {
+          "character": "关羽",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "岂不知强中自有强。"
+        },
+        {
+          "character": "关羽",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "英雄出头在沙场。"
         },
         {
           "character": null,
@@ -1797,17 +2062,38 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "各路诸侯败马前。\n大骂诸侯尔敢出关！"
+          "text": "各路诸侯败马前。"
+        },
+        {
+          "character": "华雄",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "大骂诸侯尔敢出关！"
         },
         {
           "character": "华雄",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "呔，各路诸侯听者，哪个敢出关来，与你华老爷战上几百个回合，方算英雄好\n汉。尔闭关不战，真乃匹夫之辈。"
+          "text": "呔，各路诸侯听者，哪个敢出关来，与你华老爷战上几百个回合，方算英雄好"
         },
         {
-          "character": "三军奋勇催前站、关羽",
+          "character": "华雄",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "汉。尔闭关不战，真乃匹夫之辈。"
+        },
+        {
+          "character": "华雄",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "三军奋勇催前站"
+        },
+        {
+          "character": "关羽",
           "line_type": "内白",
           "musical_style": null,
           "style_family": null,
@@ -1979,7 +2265,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "盟主，俺二哥斩了华雄那厮，锐气已倒，正好乘此机会杀上虎牢关，生擒吕布，\n活捉董卓。各路诸侯一个个佯做不睬，依俺看来，真是一堆饭桶！"
+          "text": "盟主，俺二哥斩了华雄那厮，锐气已倒，正好乘此机会杀上虎牢关，生擒吕布，"
+        },
+        {
+          "character": "张飞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "活捉董卓。各路诸侯一个个佯做不睬，依俺看来，真是一堆饭桶！"
         },
         {
           "character": "王匡、马腾、孔融、陶谦、鲍信、袁术、潘凤、俞涉、公孙瓒",
@@ -2200,7 +2493,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.022,
+        0.0673,
+        0.9135,
+        0.0192,
+        0.8447,
+        13,
+        0.0096,
+        0.0
+      ]
     }
   ]
 }

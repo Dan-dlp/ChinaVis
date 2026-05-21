@@ -191,7 +191,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "我乃，西湖龙君是也。今奉玉帝敕旨，见张顺死在涌金门下，上帝垂念，敕封\n金华太保。远远观看张顺鬼魂来也。"
+          "text": "我乃，西湖龙君是也。今奉玉帝敕旨，见张顺死在涌金门下，上帝垂念，敕封"
+        },
+        {
+          "character": "龙王",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "金华太保。远远观看张顺鬼魂来也。"
         },
         {
           "character": null,
@@ -226,7 +233,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "且喜上帝垂念，封我金华太保。相送大哥怎生得知，不免去到帐中，托他一梦。\n金童、玉女，带路。"
+          "text": "且喜上帝垂念，封我金华太保。相送大哥怎生得知，不免去到帐中，托他一梦。"
+        },
+        {
+          "character": "张顺",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "金童、玉女，带路。"
         },
         {
           "character": "张顺",
@@ -250,7 +264,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.25,
+        0.75,
+        0.0,
+        0.1429,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -288,7 +312,28 @@
           "line_type": "二黄正板",
           "musical_style": "二黄正板",
           "style_family": "二黄",
-          "text": "破宣湖抢苏昌战夺四州。\n都招管卢俊义统领貔貅。\n小燕青此一去不见回头。\n乔道清倦红尘入山苦修。"
+          "text": "破宣湖抢苏昌战夺四州。"
+        },
+        {
+          "character": "宋江",
+          "line_type": "二黄正板",
+          "musical_style": "二黄正板",
+          "style_family": "二黄",
+          "text": "都招管卢俊义统领貔貅。"
+        },
+        {
+          "character": "宋江",
+          "line_type": "二黄正板",
+          "musical_style": "二黄正板",
+          "style_family": "二黄",
+          "text": "小燕青此一去不见回头。"
+        },
+        {
+          "character": "宋江",
+          "line_type": "二黄正板",
+          "musical_style": "二黄正板",
+          "style_family": "二黄",
+          "text": "乔道清倦红尘入山苦修。"
         },
         {
           "character": "宋江",
@@ -323,28 +368,98 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "想当日浔阳江英雄盖世，\n到如今涌金门魄散魂飞。"
+          "text": "想当日浔阳江英雄盖世，"
         },
         {
-          "character": "叫金童把他的梦魂揭起、宋江",
+          "character": "张顺",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "到如今涌金门魄散魂飞。"
+        },
+        {
+          "character": "张顺",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "叫金童把他的梦魂揭起"
+        },
+        {
+          "character": "宋江",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
           "text": "啊！"
         },
         {
-          "character": "叫金童把他的梦魂揭起、宋江",
-          "line_type": "唱",
+          "character": "宋江",
+          "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "猛抬头见贤弟泪珠下滴。\n为什么不征战身挂紫衣？"
+          "text": "叫金童把他的梦魂揭起"
         },
         {
-          "character": "我命你破杭州李俊同去、想必是背愚兄不顾忠义、张顺",
+          "character": "宋江",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "宋大哥且慢睡细听端的：\n蒙天帝封忠魂已登仙籍。\n打动了聚将鼓把英雄点齐。\n方天定不提放泄漏兵机。\n马到了临崖晚后悔已迟。"
+          "text": "猛抬头见贤弟泪珠下滴。"
+        },
+        {
+          "character": "宋江",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "为什么不征战身挂紫衣？"
+        },
+        {
+          "character": "宋江",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我命你破杭州李俊同去"
+        },
+        {
+          "character": "宋江",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "想必是背愚兄不顾忠义"
+        },
+        {
+          "character": "张顺",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "宋大哥且慢睡细听端的："
+        },
+        {
+          "character": "张顺",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "蒙天帝封忠魂已登仙籍。"
+        },
+        {
+          "character": "张顺",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "打动了聚将鼓把英雄点齐。"
+        },
+        {
+          "character": "张顺",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "方天定不提放泄漏兵机。"
+        },
+        {
+          "character": "张顺",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "马到了临崖晚后悔已迟。"
         },
         {
           "character": null,
@@ -393,7 +508,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "醒来时又只见红日当空。\n一霎时魂魄飞各奔西东。"
+          "text": "醒来时又只见红日当空。"
+        },
+        {
+          "character": "宋江",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "一霎时魂魄飞各奔西东。"
         },
         {
           "character": null,
@@ -561,7 +683,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "你死后兄与你把孝来挂，\n我死后谁与我戴孝披麻。"
+          "text": "你死后兄与你把孝来挂，"
+        },
+        {
+          "character": "宋江",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我死后谁与我戴孝披麻。"
         },
         {
           "character": "宋江",
@@ -575,7 +704,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "大哥既要前去，却也无妨。\n燕青听令。"
+          "text": "大哥既要前去，却也无妨。"
+        },
+        {
+          "character": "吴用",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "燕青听令。"
         },
         {
           "character": "燕青",
@@ -610,7 +746,14 @@
           "line_type": "同白",
           "musical_style": null,
           "style_family": null,
-          "text": "来也。\n众兄弟姐妹参见大哥，军师为何这等模样？"
+          "text": "来也。"
+        },
+        {
+          "character": "史进、石秀、武松、李逵、孙二娘、顾大嫂、扈三娘、玉花娘",
+          "line_type": "同白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "众兄弟姐妹参见大哥，军师为何这等模样？"
         },
         {
           "character": "宋江",
@@ -917,7 +1060,17 @@
           "二黄导板",
           "二黄正板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.137,
+        0.2987,
+        0.6623,
+        0.039,
+        0.6316,
+        12,
+        0.0,
+        0.0779
+      ]
     },
     {
       "scene_index": 3,
@@ -1054,14 +1207,28 @@
           "line_type": "同白",
           "musical_style": null,
           "style_family": null,
-          "text": "宋江既来偷祭，千岁可点齐人马出城，拿住宋江，有道蛇无头不行，鸟无翅不\n飞。徽宗江山，岂不唾手可得？"
+          "text": "宋江既来偷祭，千岁可点齐人马出城，拿住宋江，有道蛇无头不行，鸟无翅不"
+        },
+        {
+          "character": "邓元觉、石宝",
+          "line_type": "同白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "飞。徽宗江山，岂不唾手可得？"
         },
         {
           "character": "方天定",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "言之有理。\n众将官，催动人马。"
+          "text": "言之有理。"
+        },
+        {
+          "character": "方天定",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "众将官，催动人马。"
         },
         {
           "character": null,
@@ -1111,7 +1278,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.9333,
+        0.0667,
+        0.8571,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 4,
@@ -1161,7 +1338,28 @@
           "line_type": "反二黄原板",
           "musical_style": "反二黄原板",
           "style_family": "二黄",
-          "text": "胜似那共爹娘一母投胎。\n到如今涌金门命丧泉台。\n下淮西灭王庆旗还未开。\n我只得望空祭表一表心怀。"
+          "text": "胜似那共爹娘一母投胎。"
+        },
+        {
+          "character": "宋江",
+          "line_type": "反二黄原板",
+          "musical_style": "反二黄原板",
+          "style_family": "二黄",
+          "text": "到如今涌金门命丧泉台。"
+        },
+        {
+          "character": "宋江",
+          "line_type": "反二黄原板",
+          "musical_style": "反二黄原板",
+          "style_family": "二黄",
+          "text": "下淮西灭王庆旗还未开。"
+        },
+        {
+          "character": "宋江",
+          "line_type": "反二黄原板",
+          "musical_style": "反二黄原板",
+          "style_family": "二黄",
+          "text": "我只得望空祭表一表心怀。"
         },
         {
           "character": "宋江",
@@ -1225,7 +1423,17 @@
           "二黄导板",
           "反二黄原板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.333,
+        0.7778,
+        0.1111,
+        0.1111,
+        0.125,
+        2,
+        0.0,
+        0.5556
+      ]
     },
     {
       "scene_index": 5,
@@ -1248,14 +1456,28 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "中军帐领了大哥令，\n扬子江心捉奸细。"
+          "text": "中军帐领了大哥令，"
+        },
+        {
+          "character": "张横",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "扬子江心捉奸细。"
         },
         {
           "character": "张横",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "俺，船火儿张横。奉了大哥将令，在扬子江心捉拿奸细。身子困倦，俺就在此\n打睡片时。"
+          "text": "俺，船火儿张横。奉了大哥将令，在扬子江心捉拿奸细。身子困倦，俺就在此"
+        },
+        {
+          "character": "张横",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "打睡片时。"
         },
         {
           "character": null,
@@ -1276,21 +1498,42 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "飘渺渺不知往下闯，\n来此已是扬子江。"
-        },
-        {
-          "character": "张顺",
-          "line_type": "白",
-          "musical_style": null,
-          "style_family": null,
-          "text": "兄长，兄长。小弟张顺，死在涌金门，阴魂伏在你身上，方天定走此经过，望\n兄长与我冤冤相报。"
+          "text": "飘渺渺不知往下闯，"
         },
         {
           "character": "张顺",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "有仇不报非君子，\n有恩不答枉为人。"
+          "text": "来此已是扬子江。"
+        },
+        {
+          "character": "张顺",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "兄长，兄长。小弟张顺，死在涌金门，阴魂伏在你身上，方天定走此经过，望"
+        },
+        {
+          "character": "张顺",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "兄长与我冤冤相报。"
+        },
+        {
+          "character": "张顺",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "有仇不报非君子，"
+        },
+        {
+          "character": "张顺",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "有恩不答枉为人。"
         },
         {
           "character": null,
@@ -1304,14 +1547,35 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "适才间在阵前刀矛并起，\n这一阵杀得俺肝裂魂飞。"
+          "text": "适才间在阵前刀矛并起，"
+        },
+        {
+          "character": "方天定",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "这一阵杀得俺肝裂魂飞。"
         },
         {
           "character": "方天定",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "俺，方天定。方才与宋将打了一仗，败下阵来。啊，你看那边有只渔船，不免\n叫他渡俺过去。\n呔，船家船家，将本御渡过江去，重重谢你。"
+          "text": "俺，方天定。方才与宋将打了一仗，败下阵来。啊，你看那边有只渔船，不免"
+        },
+        {
+          "character": "方天定",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "叫他渡俺过去。"
+        },
+        {
+          "character": "方天定",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "呔，船家船家，将本御渡过江去，重重谢你。"
         },
         {
           "character": null,
@@ -1346,7 +1610,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "钢刀一落人头掉。\n管教你一命赴阴曹。"
+          "text": "钢刀一落人头掉。"
+        },
+        {
+          "character": "张顺",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "管教你一命赴阴曹。"
         },
         {
           "character": null,
@@ -1379,7 +1650,17 @@
         "singing_ratio": 0.4,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.4,
+        0.5,
+        0.5,
+        0.0,
+        0.1579,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 6,
@@ -1412,7 +1693,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "张顺为国把命丧，\n好汉英雄无下场。"
+          "text": "张顺为国把命丧，"
+        },
+        {
+          "character": "宋江",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "好汉英雄无下场。"
         },
         {
           "character": null,
@@ -1433,14 +1721,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "俺，张顺。死在涌金门，阴魂伏在我兄长身上，杀了方天定，前来献功，从此\n一别，再不能相见了。"
+          "text": "俺，张顺。死在涌金门，阴魂伏在我兄长身上，杀了方天定，前来献功，从此"
+        },
+        {
+          "character": "张顺",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "一别，再不能相见了。"
         },
         {
           "character": "张顺",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "我在阴来你在阳。\n天定小儿一命亡。"
+          "text": "我在阴来你在阳。"
+        },
+        {
+          "character": "张顺",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "天定小儿一命亡。"
         },
         {
           "character": null,
@@ -1496,7 +1798,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "听说贤弟丧了命，\n好一似钢刀刺我心。"
+          "text": "听说贤弟丧了命，"
+        },
+        {
+          "character": "张横",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "好一似钢刀刺我心。"
         },
         {
           "character": "张横",
@@ -1627,7 +1936,17 @@
         "singing_ratio": 0.133,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.133,
+        0.3333,
+        0.6667,
+        0.0,
+        0.5217,
+        6,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 7,
@@ -1664,7 +1983,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "俺，柴进。奉了大哥将令，诈降方腊，改名柯英。只因番王见我进宝有功，封\n为东床驸马，这且不言，宋大哥兵临城下，今日番王点兵，只得在此伺候。"
+          "text": "俺，柴进。奉了大哥将令，诈降方腊，改名柯英。只因番王见我进宝有功，封"
+        },
+        {
+          "character": "柴进",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "为东床驸马，这且不言，宋大哥兵临城下，今日番王点兵，只得在此伺候。"
         },
         {
           "character": null,
@@ -1776,7 +2102,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "孤，方腊。前者命吾儿方天定，镇守杭州，累次探马报道，宋江带兵攻打杭州，\n是孤这几日命探子前去打探，未见回报。"
+          "text": "孤，方腊。前者命吾儿方天定，镇守杭州，累次探马报道，宋江带兵攻打杭州，"
+        },
+        {
+          "character": "方腊",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "是孤这几日命探子前去打探，未见回报。"
         },
         {
           "character": null,
@@ -1811,7 +2144,14 @@
           "line_type": "同白",
           "musical_style": null,
           "style_family": null,
-          "text": "呔。杀死我儿，岂能与你干休。\n众将官，奋勇当先。"
+          "text": "呔。杀死我儿，岂能与你干休。"
+        },
+        {
+          "character": "邓元觉、石宝",
+          "line_type": "同白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "众将官，奋勇当先。"
         },
         {
           "character": "柴进",
@@ -1958,7 +2298,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "还是这等倔强。\n来，拿去斩了。"
+          "text": "还是这等倔强。"
+        },
+        {
+          "character": "方腊",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来，拿去斩了。"
         },
         {
           "character": "柴进",
@@ -2007,7 +2354,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "我想你们跟随那宋江，有什么好处，若是归降我主，将来夺了宋室江山，我们\n都是皇兄御弟相称，你们倒是心意如何？"
+          "text": "我想你们跟随那宋江，有什么好处，若是归降我主，将来夺了宋室江山，我们"
+        },
+        {
+          "character": "柴进",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "都是皇兄御弟相称，你们倒是心意如何？"
         },
         {
           "character": "史进、石秀、武松、李逵",
@@ -2135,7 +2489,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0182,
+        0.9273,
+        0.0545,
+        0.8333,
+        9,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 8,
@@ -2186,7 +2550,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "得令。\n众姐妹"
+          "text": "得令。"
+        },
+        {
+          "character": "卢俊义",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "众姐妹"
         }
       ],
       "interactions": [
@@ -2212,7 +2583,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.8,
+        0.2,
+        0.75,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 9,
@@ -2266,7 +2647,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 10,
@@ -2289,7 +2680,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 11,
@@ -2312,7 +2713,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 12,
@@ -2373,7 +2784,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.5,
+        0.5,
+        1.0,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 13,
@@ -2472,7 +2893,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.5,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 14,
@@ -2640,7 +3071,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.9091,
+        0.0909,
+        0.9,
+        4,
+        0.0,
+        0.0
+      ]
     }
   ]
 }

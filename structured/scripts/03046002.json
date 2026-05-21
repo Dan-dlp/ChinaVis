@@ -208,7 +208,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "世民征战皮寇，得胜回朝，已在金殿候旨。似他这样屡建奇功，看来这东宫守\n阙，你我是无份的了。"
+          "text": "世民征战皮寇，得胜回朝，已在金殿候旨。似他这样屡建奇功，看来这东宫守"
+        },
+        {
+          "character": "李建成",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "阙，你我是无份的了。"
         },
         {
           "character": "李元吉",
@@ -243,7 +250,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "我想金殿封官，少不得要封敬德公爵。那时皇兄奏上一本，你说敬德当初保定\n刘武周，日抢三关，夜夺八寨，耗费我国多少兵马钱粮？今日些许功劳，封不\n得国公。"
+          "text": "我想金殿封官，少不得要封敬德公爵。那时皇兄奏上一本，你说敬德当初保定"
+        },
+        {
+          "character": "李元吉",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "刘武周，日抢三关，夜夺八寨，耗费我国多少兵马钱粮？今日些许功劳，封不"
+        },
+        {
+          "character": "李元吉",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "得国公。"
         },
         {
           "character": "李建成",
@@ -285,7 +306,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "我府下有一家将，与雄信面貌相同。此人心粗胆壮，叫他假扮雄信，打死世民，\n杀了敬德，这东宫守阙岂不是皇兄的了？"
+          "text": "我府下有一家将，与雄信面貌相同。此人心粗胆壮，叫他假扮雄信，打死世民，"
+        },
+        {
+          "character": "李元吉",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "杀了敬德，这东宫守阙岂不是皇兄的了？"
         },
         {
           "character": "李建成",
@@ -335,7 +363,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.84,
+        0.16,
+        0.7917,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -368,14 +406,14 @@
           "text": "李渊 （引） 海晏河清，一统升平。"
         },
         {
-          "character": null,
+          "character": "李渊",
           "line_type": "念",
           "musical_style": null,
           "style_family": null,
           "text": "君正臣贤万民欢，文忠武勇扶江山。幸喜四海干戈靖，今日才知创业难。"
         },
         {
-          "character": null,
+          "character": "李渊",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -414,7 +452,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "领旨。\n闪放龙门哪！"
+          "text": "领旨。"
+        },
+        {
+          "character": "大太监",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "闪放龙门哪！"
         },
         {
           "character": null,
@@ -484,7 +529,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "领旨。\n父王有旨：宣世民同众卿上殿！"
+          "text": "领旨。"
+        },
+        {
+          "character": "李建成",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "父王有旨：宣世民同众卿上殿！"
         },
         {
           "character": null,
@@ -533,7 +585,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "儿臣奉旨征战皮寇，兵将个个当先，又有徐勣妙算，尉迟之勇，杀得皮寇匍匐\n投降，写来降书顺表，父王请看。"
+          "text": "儿臣奉旨征战皮寇，兵将个个当先，又有徐勣妙算，尉迟之勇，杀得皮寇匍匐"
+        },
+        {
+          "character": "李世民",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "投降，写来降书顺表，父王请看。"
         },
         {
           "character": "李渊",
@@ -694,28 +753,63 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "当年他保定刘武周，日抢三关，夜夺八寨，耗费我国多少兵马钱粮？他的功效\n过大，故而封不得国公。"
-        },
-        {
-          "character": "李渊",
-          "line_type": "白",
-          "musical_style": null,
-          "style_family": null,
-          "text": "是呀，卿保刘武周日抢三关、夜夺八寨，耗费孤家多少兵马钱粮？实是不能赐\n爵。"
-        },
-        {
-          "character": "尉迟恭",
-          "line_type": "白",
-          "musical_style": null,
-          "style_family": null,
-          "text": "臣启万岁：臣当年保定刘武周，乃是各为其主。但自投唐以来，立下许多功劳。\n况臣在御果园，也曾救过二主的驾来。"
+          "text": "当年他保定刘武周，日抢三关，夜夺八寨，耗费我国多少兵马钱粮？他的功效"
         },
         {
           "character": "李建成",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "启奏父王：尉迟恭奏道，昔日他在御果园救过御弟的驾来，乃是耳闻，未曾目\n睹。请父王传旨：将“御花园”改为“御果园”，叫他们演习跳涧之事，我们\n观看。"
+          "text": "过大，故而封不得国公。"
+        },
+        {
+          "character": "李渊",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "是呀，卿保刘武周日抢三关、夜夺八寨，耗费孤家多少兵马钱粮？实是不能赐"
+        },
+        {
+          "character": "李渊",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "爵。"
+        },
+        {
+          "character": "尉迟恭",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "臣启万岁：臣当年保定刘武周，乃是各为其主。但自投唐以来，立下许多功劳。"
+        },
+        {
+          "character": "尉迟恭",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "况臣在御果园，也曾救过二主的驾来。"
+        },
+        {
+          "character": "李建成",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "启奏父王：尉迟恭奏道，昔日他在御果园救过御弟的驾来，乃是耳闻，未曾目"
+        },
+        {
+          "character": "李建成",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "睹。请父王传旨：将“御花园”改为“御果园”，叫他们演习跳涧之事，我们"
+        },
+        {
+          "character": "李建成",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "观看。"
         },
         {
           "character": "李渊",
@@ -890,7 +984,21 @@
           "line_type": "西皮散板",
           "musical_style": "西皮散板",
           "style_family": "西皮",
-          "text": "皇儿本是国家宝，\n南征北战费辛劳。\n孤王传旨晓满朝。"
+          "text": "皇儿本是国家宝，"
+        },
+        {
+          "character": "李渊",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "南征北战费辛劳。"
+        },
+        {
+          "character": "李渊",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "孤王传旨晓满朝。"
         },
         {
           "character": null,
@@ -904,7 +1012,21 @@
           "line_type": "西皮散板",
           "musical_style": "西皮散板",
           "style_family": "西皮",
-          "text": "金殿领旨下御道，\n演习当年事一条。\n小王回府披战袍。"
+          "text": "金殿领旨下御道，"
+        },
+        {
+          "character": "李世民",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "演习当年事一条。"
+        },
+        {
+          "character": "李世民",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "小王回府披战袍。"
         },
         {
           "character": null,
@@ -918,7 +1040,14 @@
           "line_type": "西皮散板",
           "musical_style": "西皮散板",
           "style_family": "西皮",
-          "text": "袖内巧计安排好，\n管教奸王枉徒劳。"
+          "text": "袖内巧计安排好，"
+        },
+        {
+          "character": "徐懋功",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "管教奸王枉徒劳。"
         },
         {
           "character": null,
@@ -960,7 +1089,14 @@
           "line_type": "西皮散板",
           "musical_style": "西皮散板",
           "style_family": "西皮",
-          "text": "这件事儿了不了，\n他们跑来我也逃。"
+          "text": "这件事儿了不了，"
+        },
+        {
+          "character": "程咬金",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "他们跑来我也逃。"
         },
         {
           "character": null,
@@ -1023,7 +1159,21 @@
           "line_type": "西皮散板",
           "musical_style": "西皮散板",
           "style_family": "西皮",
-          "text": "金殿之上忙禀告，\n尊声千岁听根苗：\n群羊尽被猛虎嚼。"
+          "text": "金殿之上忙禀告，"
+        },
+        {
+          "character": "黄壮",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "尊声千岁听根苗："
+        },
+        {
+          "character": "黄壮",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "群羊尽被猛虎嚼。"
         },
         {
           "character": null,
@@ -1172,7 +1322,17 @@
         "musical_styles": [
           "西皮散板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.097,
+        0.1848,
+        0.7826,
+        0.0326,
+        0.7582,
+        12,
+        0.1848,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -1259,7 +1419,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "适才金殿加封，万岁封我国公之位。可恨二奸王奏道：某家先保山后刘武周，\n日抢三关，夜夺八寨，耗费国家多少兵马钱粮。如今封不得国公之位。你道恼\n是不恼！"
+          "text": "适才金殿加封，万岁封我国公之位。可恨二奸王奏道：某家先保山后刘武周，"
+        },
+        {
+          "character": "尉迟恭",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "日抢三关，夜夺八寨，耗费国家多少兵马钱粮。如今封不得国公之位。你道恼"
+        },
+        {
+          "character": "尉迟恭",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "是不恼！"
         },
         {
           "character": "黑夫人、白夫人",
@@ -1280,7 +1454,77 @@
           "line_type": "二黄原板",
           "musical_style": "二黄原板",
           "style_family": "二黄",
-          "text": "提起了当年投太原，\n建成、元吉怒发冲冠。\n多亏了乔公善救某的命还。\n定杨王他待某的恩重如山。⑴\n宋金刚他与某结下了冤。\n某在美良川前锏对过鞭。\n端阳节救驾在御果园。\n怎奈是数九隆冬腊月的天。\n赤身骣马难交战，⑵\n活活冻坏某将魁元。"
+          "text": "提起了当年投太原，"
+        },
+        {
+          "character": "尉迟恭",
+          "line_type": "二黄原板",
+          "musical_style": "二黄原板",
+          "style_family": "二黄",
+          "text": "建成、元吉怒发冲冠。"
+        },
+        {
+          "character": "尉迟恭",
+          "line_type": "二黄原板",
+          "musical_style": "二黄原板",
+          "style_family": "二黄",
+          "text": "多亏了乔公善救某的命还。"
+        },
+        {
+          "character": "尉迟恭",
+          "line_type": "二黄原板",
+          "musical_style": "二黄原板",
+          "style_family": "二黄",
+          "text": "定杨王他待某的恩重如山。⑴"
+        },
+        {
+          "character": "尉迟恭",
+          "line_type": "二黄原板",
+          "musical_style": "二黄原板",
+          "style_family": "二黄",
+          "text": "宋金刚他与某结下了冤。"
+        },
+        {
+          "character": "尉迟恭",
+          "line_type": "二黄原板",
+          "musical_style": "二黄原板",
+          "style_family": "二黄",
+          "text": "某在美良川前锏对过鞭。"
+        },
+        {
+          "character": "尉迟恭",
+          "line_type": "二黄原板",
+          "musical_style": "二黄原板",
+          "style_family": "二黄",
+          "text": "端阳节救驾在御果园。"
+        },
+        {
+          "character": "尉迟恭",
+          "line_type": "二黄原板",
+          "musical_style": "二黄原板",
+          "style_family": "二黄",
+          "text": "怎奈是数九隆冬腊月的天。"
+        },
+        {
+          "character": "尉迟恭",
+          "line_type": "二黄原板",
+          "musical_style": "二黄原板",
+          "style_family": "二黄",
+          "text": "赤身骣马难交战，⑵"
+        },
+        {
+          "character": "尉迟恭",
+          "line_type": "二黄原板",
+          "musical_style": "二黄原板",
+          "style_family": "二黄",
+          "text": "活活冻坏某将魁元。"
+        },
+        {
+          "character": "尉迟恭",
+          "line_type": "二黄原板",
+          "musical_style": "二黄原板",
+          "style_family": "二黄",
+          "text": "现有书信请观看"
         },
         {
           "character": null,
@@ -1297,7 +1541,7 @@
           "text": "妾身有话对夫言。"
         },
         {
-          "character": "现有书信请观看、尉迟恭",
+          "character": "尉迟恭",
           "line_type": "二黄原板",
           "musical_style": "二黄原板",
           "style_family": "二黄",
@@ -1322,7 +1566,28 @@
           "line_type": "二黄原板",
           "musical_style": "二黄原板",
           "style_family": "二黄",
-          "text": "一一从头把书观：\n红黑二丸带身边。\n黑药付与乌骓餐。”\n我叫家院——"
+          "text": "一一从头把书观："
+        },
+        {
+          "character": "尉迟恭",
+          "line_type": "二黄原板",
+          "musical_style": "二黄原板",
+          "style_family": "二黄",
+          "text": "红黑二丸带身边。"
+        },
+        {
+          "character": "尉迟恭",
+          "line_type": "二黄原板",
+          "musical_style": "二黄原板",
+          "style_family": "二黄",
+          "text": "黑药付与乌骓餐。”"
+        },
+        {
+          "character": "尉迟恭",
+          "line_type": "二黄原板",
+          "musical_style": "二黄原板",
+          "style_family": "二黄",
+          "text": "我叫家院——"
         },
         {
           "character": null,
@@ -1371,7 +1636,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "霎时浑身俱是汗，\n数九天亚赛过三伏的天。"
+          "text": "霎时浑身俱是汗，"
+        },
+        {
+          "character": "尉迟恭",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "数九天亚赛过三伏的天。"
         },
         {
           "character": null,
@@ -1437,7 +1709,17 @@
         "musical_styles": [
           "二黄原板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.353,
+        0.6286,
+        0.3143,
+        0.0571,
+        0.2353,
+        4,
+        0.0,
+        0.4571
+      ]
     },
     {
       "scene_index": 4,
@@ -1460,7 +1742,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 5,
@@ -1484,7 +1776,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "建成元吉把计定，\n要害二主丧残生。"
+          "text": "建成元吉把计定，"
+        },
+        {
+          "character": "徐懋功",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "要害二主丧残生。"
         },
         {
           "character": null,
@@ -1533,21 +1832,49 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "只见黄壮面前存。\n苦苦追杀为何情？"
+          "text": "只见黄壮面前存。"
         },
         {
-          "character": "小王与你无仇恨、黄壮",
+          "character": "李世民",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "苦苦追杀为何情？"
+        },
+        {
+          "character": "李世民",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "小王与你无仇恨"
+        },
+        {
+          "character": "黄壮",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
           "text": "住了！"
         },
         {
-          "character": "小王与你无仇恨、黄壮",
+          "character": "黄壮",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "小王与你无仇恨"
+        },
+        {
+          "character": "黄壮",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "哪有闲言对你论，\n霎时叫你命归阴！"
+          "text": "哪有闲言对你论，"
+        },
+        {
+          "character": "黄壮",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "霎时叫你命归阴！"
         },
         {
           "character": null,
@@ -1561,7 +1888,21 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "二主不听我奏本，\n御果园中受难星。\n我与黄壮把命拼！"
+          "text": "二主不听我奏本，"
+        },
+        {
+          "character": "徐懋功",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "御果园中受难星。"
+        },
+        {
+          "character": "徐懋功",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我与黄壮把命拼！"
         },
         {
           "character": null,
@@ -1598,7 +1939,17 @@
         "singing_ratio": 0.571,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.571,
+        0.75,
+        0.25,
+        0.0,
+        0.3333,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 6,
@@ -1628,7 +1979,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "哎呀且住！黄壮追杀我主，这便如何是好？哦呵有了，不免搬动尉迟将军前来\n救驾便了！"
+          "text": "哎呀且住！黄壮追杀我主，这便如何是好？哦呵有了，不免搬动尉迟将军前来"
+        },
+        {
+          "character": "徐懋功",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "救驾便了！"
         },
         {
           "character": "徐懋功",
@@ -1751,7 +2109,17 @@
         "singing_ratio": 0.444,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.444,
+        0.5,
+        0.5,
+        0.0,
+        0.6364,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 7,
@@ -1775,7 +2143,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "数九寒天风不冷，\n连人带马汗淋身。"
+          "text": "数九寒天风不冷，"
+        },
+        {
+          "character": "尉迟恭",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "连人带马汗淋身。"
         },
         {
           "character": null,
@@ -1876,7 +2251,17 @@
         "singing_ratio": 0.75,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.75,
+        0.9,
+        0.1,
+        0.0,
+        0.6667,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 8,
@@ -1899,7 +2284,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 9,
@@ -1926,7 +2321,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "适才列公报一信，\n二主秦王有难星。"
+          "text": "适才列公报一信，"
+        },
+        {
+          "character": "尉迟恭",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "二主秦王有难星。"
         },
         {
           "character": null,
@@ -1940,7 +2342,21 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "看是何人下绝情。\n（李建成、李元吉同暗上，同上高台。李世民败上，黄壮追上。黄壮打李世民落马。尉迟恭跳出，用鞭压住\n黄壮刀。）"
+          "text": "看是何人下绝情。"
+        },
+        {
+          "character": "尉迟恭",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "（李建成、李元吉同暗上，同上高台。李世民败上，黄壮追上。黄壮打李世民落马。尉迟恭跳出，用鞭压住"
+        },
+        {
+          "character": "尉迟恭",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "黄壮刀。）"
         },
         {
           "character": "尉迟恭",
@@ -1954,7 +2370,21 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "黄壮假扮单雄信，\n追杀我主为何情？\n阎王殿前追尔的魂！"
+          "text": "黄壮假扮单雄信，"
+        },
+        {
+          "character": "尉迟恭",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "追杀我主为何情？"
+        },
+        {
+          "character": "尉迟恭",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "阎王殿前追尔的魂！"
         },
         {
           "character": null,
@@ -1996,7 +2426,21 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "二奸王睡梦还未醒，\n谁叫你们出头把事行？\n我比阎王心还狠！"
+          "text": "二奸王睡梦还未醒，"
+        },
+        {
+          "character": "尉迟恭",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "谁叫你们出头把事行？"
+        },
+        {
+          "character": "尉迟恭",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我比阎王心还狠！"
         },
         {
           "character": null,
@@ -2045,7 +2489,21 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "你无情来谁有义，\n你不念手足谁念你是君？\n钢鞭一举追尔的命！"
+          "text": "你无情来谁有义，"
+        },
+        {
+          "character": "尉迟恭",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "你不念手足谁念你是君？"
+        },
+        {
+          "character": "尉迟恭",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "钢鞭一举追尔的命！"
         },
         {
           "character": null,
@@ -2165,7 +2623,17 @@
           "西皮导板",
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.414,
+        0.7188,
+        0.2812,
+        0.0,
+        0.2581,
+        5,
+        0.0938,
+        0.0
+      ]
     }
   ]
 }

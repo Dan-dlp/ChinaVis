@@ -200,7 +200,35 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "老夫，海瑞。可恨严嵩老贼，公报私仇，克扣粮饷，杜宪征蛮不利。杜宪有密\n札到来，托老夫辨明冤枉。不想万岁，偏袒严嵩，反道我诬谤大臣，杜宪赐死\n边疆，又要将老夫问斩。多亏太子保奏，免了死刑，赐我三千老弱残兵，征蛮\n立功，只得领命前往。\n众将官，边疆去者！"
+          "text": "老夫，海瑞。可恨严嵩老贼，公报私仇，克扣粮饷，杜宪征蛮不利。杜宪有密"
+        },
+        {
+          "character": "海瑞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "札到来，托老夫辨明冤枉。不想万岁，偏袒严嵩，反道我诬谤大臣，杜宪赐死"
+        },
+        {
+          "character": "海瑞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "边疆，又要将老夫问斩。多亏太子保奏，免了死刑，赐我三千老弱残兵，征蛮"
+        },
+        {
+          "character": "海瑞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "立功，只得领命前往。"
+        },
+        {
+          "character": "海瑞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "众将官，边疆去者！"
         },
         {
           "character": null,
@@ -219,7 +247,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -251,7 +289,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "咱，严年。自到严府，太师十分宠信。可恨杜宪与太师不睦，前数日太师上殿\n参奏，好个有道明君，即日降旨边疆赐死。太师上朝未归，不免在府外伺候。"
+          "text": "咱，严年。自到严府，太师十分宠信。可恨杜宪与太师不睦，前数日太师上殿"
+        },
+        {
+          "character": "严年",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "参奏，好个有道明君，即日降旨边疆赐死。太师上朝未归，不免在府外伺候。"
         },
         {
           "character": null,
@@ -265,7 +310,14 @@
           "line_type": "念",
           "musical_style": null,
           "style_family": null,
-          "text": "世态看冷暖，人面逐高低。\n严二爷！"
+          "text": "世态看冷暖，人面逐高低。"
+        },
+        {
+          "character": "凤承东",
+          "line_type": "念",
+          "musical_style": null,
+          "style_family": null,
+          "text": "严二爷！"
         },
         {
           "character": "严年",
@@ -321,7 +373,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "小人与杜宪之子杜文学，乃是学友。杜宪问斩之后，我去他家，杜文学言道：\n太师克扣军饷，陷害他父，杜宪生前有密札到来，要他转递海瑞，上朝面君，\n弹劾太师。看来杜宪虽死，此事未必甘休。小人特来告禀，太师也好做一准备。\n再求二爷在太师面前与我美言几句，原效犬马之劳。"
+          "text": "小人与杜宪之子杜文学，乃是学友。杜宪问斩之后，我去他家，杜文学言道："
+        },
+        {
+          "character": "凤承东",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "太师克扣军饷，陷害他父，杜宪生前有密札到来，要他转递海瑞，上朝面君，"
+        },
+        {
+          "character": "凤承东",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "弹劾太师。看来杜宪虽死，此事未必甘休。小人特来告禀，太师也好做一准备。"
+        },
+        {
+          "character": "凤承东",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "再求二爷在太师面前与我美言几句，原效犬马之劳。"
         },
         {
           "character": "严年",
@@ -405,21 +478,42 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "适才闻得密报，那杜宪之子杜文学言道，太师克扣军饷，陷害他父，他定要找\n海瑞申冤报仇……"
-        },
-        {
-          "character": "严嵩",
-          "line_type": "白",
-          "musical_style": null,
-          "style_family": null,
-          "text": "哼！枉费心机。今日早朝，老夫与海瑞顶本，万岁命海瑞带领老弱残兵，征蛮\n去了。"
+          "text": "适才闻得密报，那杜宪之子杜文学言道，太师克扣军饷，陷害他父，他定要找"
         },
         {
           "character": "严年",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "好个有道明君。只是杜文学还在，自古道，杀父之仇，不共戴天，图藏匕首，\n太师三思。"
+          "text": "海瑞申冤报仇……"
+        },
+        {
+          "character": "严嵩",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "哼！枉费心机。今日早朝，老夫与海瑞顶本，万岁命海瑞带领老弱残兵，征蛮"
+        },
+        {
+          "character": "严嵩",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "去了。"
+        },
+        {
+          "character": "严年",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "好个有道明君。只是杜文学还在，自古道，杀父之仇，不共戴天，图藏匕首，"
+        },
+        {
+          "character": "严年",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "太师三思。"
         },
         {
           "character": "严嵩",
@@ -433,7 +527,14 @@
           "line_type": "西皮散板",
           "musical_style": "西皮散板",
           "style_family": "西皮",
-          "text": "小严年把此事利害相告，\n网中鱼莫叫他得水而逃。"
+          "text": "小严年把此事利害相告，"
+        },
+        {
+          "character": "严嵩",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "网中鱼莫叫他得水而逃。"
         },
         {
           "character": null,
@@ -524,7 +625,14 @@
           "line_type": "西皮快板",
           "musical_style": "西皮快板",
           "style_family": "西皮",
-          "text": "只恨冤屈腹内含。\n他二目微睁照人寒。"
+          "text": "只恨冤屈腹内含。"
+        },
+        {
+          "character": "杜文学",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "他二目微睁照人寒。"
         },
         {
           "character": null,
@@ -580,7 +688,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "启太师：此事并非小人一人之功。小人有一好友，名唤凤承东，与杜文学乃是\n故交，幸得他来告密，又得他引路前往，故而一捉即至。"
+          "text": "启太师：此事并非小人一人之功。小人有一好友，名唤凤承东，与杜文学乃是"
+        },
+        {
+          "character": "严年",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "故交，幸得他来告密，又得他引路前往，故而一捉即至。"
         },
         {
           "character": "严嵩",
@@ -608,7 +723,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "遵命。\n下面听者：太师有命，凤承东冠带进见！"
+          "text": "遵命。"
+        },
+        {
+          "character": "严年",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "下面听者：太师有命，凤承东冠带进见！"
         },
         {
           "character": null,
@@ -629,7 +751,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "报，凤承东告进。\n参见太师。"
+          "text": "报，凤承东告进。"
+        },
+        {
+          "character": "凤承东",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "参见太师。"
         },
         {
           "character": "严嵩",
@@ -692,7 +821,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "啊哈哈哈……好一个万民之幸。\n来，与凤承东看赏。"
+          "text": "啊哈哈哈……好一个万民之幸。"
+        },
+        {
+          "character": "严嵩",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来，与凤承东看赏。"
         },
         {
           "character": "严年",
@@ -706,7 +842,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "此乃广开贤路之意，正中老夫心怀。\n就命你在府中作一幕客。"
+          "text": "此乃广开贤路之意，正中老夫心怀。"
+        },
+        {
+          "character": "严嵩",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "就命你在府中作一幕客。"
         },
         {
           "character": "凤承东",
@@ -818,7 +961,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "小人受二爷提拔，在严府作了幕客，此恩未报，当效犬马之劳。休道是朋友之\n妻，便是小人的老婆，二爷若爱么……"
+          "text": "小人受二爷提拔，在严府作了幕客，此恩未报，当效犬马之劳。休道是朋友之"
+        },
+        {
+          "character": "凤承东",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "妻，便是小人的老婆，二爷若爱么……"
         },
         {
           "character": null,
@@ -853,14 +1003,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "这……若说别家，倒也罢了。那杜娘子艳如桃李，冷若冰霜，休道小人一个舌\n头，便是三个舌头，也说她不动的。"
+          "text": "这……若说别家，倒也罢了。那杜娘子艳如桃李，冷若冰霜，休道小人一个舌"
+        },
+        {
+          "character": "凤承东",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "头，便是三个舌头，也说她不动的。"
         },
         {
           "character": "严年",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "方才捉拿杜文学之时，观见杜娘子生得十分美貌，甚是爱慕，今日杜文学身入\n囹圄，难道就白白地放过不成？"
+          "text": "方才捉拿杜文学之时，观见杜娘子生得十分美貌，甚是爱慕，今日杜文学身入"
+        },
+        {
+          "character": "严年",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "囹圄，难道就白白地放过不成？"
         },
         {
           "character": "凤承东",
@@ -881,7 +1045,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "此事凭我去说，是不成功的。他有一结义兄弟，名唤周仁，方才捉拿杜文学之\n时，也曾听他言道，要他妻到周仁家中暂住一时。我想若将周仁唤到府中，二\n爷与他一套功名富贵，然后说出此事，他不肯也要肯，不应也要应，二爷你看\n如何？"
+          "text": "此事凭我去说，是不成功的。他有一结义兄弟，名唤周仁，方才捉拿杜文学之"
+        },
+        {
+          "character": "凤承东",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "时，也曾听他言道，要他妻到周仁家中暂住一时。我想若将周仁唤到府中，二"
+        },
+        {
+          "character": "凤承东",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "爷与他一套功名富贵，然后说出此事，他不肯也要肯，不应也要应，二爷你看"
+        },
+        {
+          "character": "凤承东",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "如何？"
         },
         {
           "character": "严年",
@@ -1047,7 +1232,17 @@
           "西皮摇板",
           "西皮散板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.085,
+        0.0926,
+        0.8519,
+        0.0556,
+        0.7103,
+        6,
+        0.0926,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -1118,7 +1313,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "贤妹哪里知道，严、杜两家，旧有仇恨，家翁被害滇边，也是严贼之计，今日\n掳去我夫，必然斩草除根，不会生还的了。"
+          "text": "贤妹哪里知道，严、杜两家，旧有仇恨，家翁被害滇边，也是严贼之计，今日"
+        },
+        {
+          "character": "杜娘子",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "掳去我夫，必然斩草除根，不会生还的了。"
         },
         {
           "character": "冯素蕙",
@@ -1146,7 +1348,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "哎呀仁嫂啊！愚弟奉命去至严府打探，闻说我那仁兄，已转刑部会审，想那刑\n部之官，俱是严府一党，我想此去，必然凶多吉少！"
+          "text": "哎呀仁嫂啊！愚弟奉命去至严府打探，闻说我那仁兄，已转刑部会审，想那刑"
+        },
+        {
+          "character": "周仁",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "部之官，俱是严府一党，我想此去，必然凶多吉少！"
         },
         {
           "character": "杜娘子",
@@ -1174,14 +1383,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "官人哪！我想严府校尉又非狼虎，纵是狼虎，有死而已，你为何如此担惊？如\n此骇怕？可笑你七尺之躯，一表男子，叫我这为妇人的替你羞啊！"
+          "text": "官人哪！我想严府校尉又非狼虎，纵是狼虎，有死而已，你为何如此担惊？如"
+        },
+        {
+          "character": "冯素蕙",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "此骇怕？可笑你七尺之躯，一表男子，叫我这为妇人的替你羞啊！"
         },
         {
           "character": "周仁",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "娘子说的虽是，可知那严家虎狼，捉得人去，他又不叫你生，也不叫你死，求\n生不能，求死不得，这不生不死的滋味呀，只怕难过得紧哪！"
+          "text": "娘子说的虽是，可知那严家虎狼，捉得人去，他又不叫你生，也不叫你死，求"
+        },
+        {
+          "character": "周仁",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "生不能，求死不得，这不生不死的滋味呀，只怕难过得紧哪！"
         },
         {
           "character": "冯素蕙",
@@ -1251,7 +1474,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "哪里去？难道仁兄没有眼睛么？你看我身穿大红，头戴乌纱，腰围玉带，喏喏\n喏，我已受严府提拔，作了幕客了。仁兄大才，我已在严爷面前，说了许多好\n话，你的前程，比我远大，快快随我做官去吧。"
+          "text": "哪里去？难道仁兄没有眼睛么？你看我身穿大红，头戴乌纱，腰围玉带，喏喏"
+        },
+        {
+          "character": "凤承东",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "喏，我已受严府提拔，作了幕客了。仁兄大才，我已在严爷面前，说了许多好"
+        },
+        {
+          "character": "凤承东",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "话，你的前程，比我远大，快快随我做官去吧。"
         },
         {
           "character": null,
@@ -1377,7 +1614,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "来来，谢过严二爷。\n叫你谢，你便谢，谢了自有你的好处。"
+          "text": "来来，谢过严二爷。"
+        },
+        {
+          "character": "凤承东",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "叫你谢，你便谢，谢了自有你的好处。"
         },
         {
           "character": null,
@@ -1419,7 +1663,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "好一个不明白的书呆子，严二爷知道你会办大事，在太师面前，与你说了许多\n好话，你与我是一样为官的了。"
+          "text": "好一个不明白的书呆子，严二爷知道你会办大事，在太师面前，与你说了许多"
+        },
+        {
+          "character": "凤承东",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "好话，你与我是一样为官的了。"
         },
         {
           "character": "周仁",
@@ -1489,7 +1740,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "好一个讲讲何妨。\n来，与周仁看座。"
+          "text": "好一个讲讲何妨。"
+        },
+        {
+          "character": "严年",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来，与周仁看座。"
         },
         {
           "character": "周仁",
@@ -1531,7 +1789,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "唗！既是弟兄相称，他今有难，你便坐视不救吗？看将起来，你是个无有良心\n的。撤座！"
+          "text": "唗！既是弟兄相称，他今有难，你便坐视不救吗？看将起来，你是个无有良心"
+        },
+        {
+          "character": "严年",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "的。撤座！"
         },
         {
           "character": "周仁",
@@ -1622,7 +1887,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "我再与你实说了吧，二爷心中只是爱那杜娘子，你若将杜娘子送与严二爷，杜\n文学保得不死。"
+          "text": "我再与你实说了吧，二爷心中只是爱那杜娘子，你若将杜娘子送与严二爷，杜"
+        },
+        {
+          "character": "凤承东",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "文学保得不死。"
         },
         {
           "character": "周仁",
@@ -1643,14 +1915,35 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "哎呀二爷呀！想我周仁，与杜公子同窗共读，情深意重，结为兄弟，如今他一\n家遭此惨祸，眼睁睁不能相救。小生若再乘人之危，将杜娘子送与二爷，岂不\n做了负义之辈，这良心何存？天理何在？小生实实地不能遵命啊！"
+          "text": "哎呀二爷呀！想我周仁，与杜公子同窗共读，情深意重，结为兄弟，如今他一"
+        },
+        {
+          "character": "周仁",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "家遭此惨祸，眼睁睁不能相救。小生若再乘人之危，将杜娘子送与二爷，岂不"
+        },
+        {
+          "character": "周仁",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "做了负义之辈，这良心何存？天理何在？小生实实地不能遵命啊！"
         },
         {
           "character": "凤承东",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "呀呸！什么是良心？良心是个红的？是个白的？是个黄的？还是个黑的？拿出\n来叫我见识见识！你来看——"
+          "text": "呀呸！什么是良心？良心是个红的？是个白的？是个黄的？还是个黑的？拿出"
+        },
+        {
+          "character": "凤承东",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来叫我见识见识！你来看——"
         },
         {
           "character": null,
@@ -1685,17 +1978,66 @@
           "line_type": "西皮散板",
           "musical_style": "西皮散板",
           "style_family": "西皮",
-          "text": "胆大周仁不自量，\n敢在严府鼓舌簧。\n挡车螳臂自求亡。"
+          "text": "胆大周仁不自量，"
         },
         {
-          "character": "手摸胸膛想一想、周仁",
+          "character": "严年",
           "line_type": "西皮散板",
           "musical_style": "西皮散板",
           "style_family": "西皮",
-          "text": "听一言来魂魄丧，\n身入牢笼无主张。\n无非舍身蹈义亡。\n咬定牙关与贼抗——"
+          "text": "敢在严府鼓舌簧。"
         },
         {
-          "character": "背转身来暗自想、凤承东",
+          "character": "严年",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "挡车螳臂自求亡。"
+        },
+        {
+          "character": "严年",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "手摸胸膛想一想"
+        },
+        {
+          "character": "周仁",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "听一言来魂魄丧，"
+        },
+        {
+          "character": "周仁",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "身入牢笼无主张。"
+        },
+        {
+          "character": "周仁",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "无非舍身蹈义亡。"
+        },
+        {
+          "character": "周仁",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "咬定牙关与贼抗——"
+        },
+        {
+          "character": "周仁",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "背转身来暗自想"
+        },
+        {
+          "character": "凤承东",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -1713,7 +2055,14 @@
           "line_type": "西皮散板",
           "musical_style": "西皮散板",
           "style_family": "西皮",
-          "text": "花轿到门谁承当？\n左思右想心神恍——"
+          "text": "花轿到门谁承当？"
+        },
+        {
+          "character": "周仁",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "左思右想心神恍——"
         },
         {
           "character": "严年",
@@ -1734,7 +2083,14 @@
           "line_type": "西皮快板",
           "musical_style": "西皮快板",
           "style_family": "西皮",
-          "text": "两贼子说话似虎狼。\n逃出罗网再商量。"
+          "text": "两贼子说话似虎狼。"
+        },
+        {
+          "character": "周仁",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "逃出罗网再商量。"
         },
         {
           "character": "周仁",
@@ -1744,7 +2100,21 @@
           "text": "凤仁兄这里来。"
         },
         {
-          "character": "罢罢罢且自作虚谎、唤过凤贼把话讲、凤承东",
+          "character": "周仁",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "罢罢罢且自作虚谎"
+        },
+        {
+          "character": "周仁",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "唤过凤贼把话讲"
+        },
+        {
+          "character": "凤承东",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -1755,7 +2125,14 @@
           "line_type": "西皮散板",
           "musical_style": "西皮散板",
           "style_family": "西皮",
-          "text": "事要三思休要忙。\n我今告辞回府往——"
+          "text": "事要三思休要忙。"
+        },
+        {
+          "character": "周仁",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "我今告辞回府往——"
         },
         {
           "character": "凤承东",
@@ -1900,7 +2277,17 @@
           "西皮摇板",
           "西皮散板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.102,
+        0.1849,
+        0.7983,
+        0.0168,
+        0.661,
+        5,
+        0.1681,
+        0.0
+      ]
     },
     {
       "scene_index": 4,
@@ -3058,7 +3445,17 @@
           "西皮快板",
           "西皮散板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.037,
+        0.0833,
+        0.8833,
+        0.0333,
+        0.7899,
+        5,
+        0.0417,
+        0.0333
+      ]
     },
     {
       "scene_index": 5,
@@ -3757,7 +4154,17 @@
           "西皮快板",
           "西皮散板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.102,
+        0.1864,
+        0.7966,
+        0.0169,
+        0.6724,
+        6,
+        0.1695,
+        0.0
+      ]
     },
     {
       "scene_index": 6,
@@ -4117,7 +4524,17 @@
           "二黄散板",
           "四平调"
         ]
-      }
+      },
+      "scene_feature": [
+        0.167,
+        0.2368,
+        0.7632,
+        0.0,
+        0.7568,
+        3,
+        0.0263,
+        0.2105
+      ]
     },
     {
       "scene_index": 7,
@@ -5068,7 +5485,17 @@
           "西皮原板",
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.132,
+        0.1942,
+        0.7864,
+        0.0194,
+        0.7843,
+        3,
+        0.1553,
+        0.0194
+      ]
     },
     {
       "scene_index": 8,
@@ -5304,7 +5731,17 @@
           "西皮快板",
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.062,
+        0.1111,
+        0.8889,
+        0.0,
+        0.7059,
+        5,
+        0.1111,
+        0.0
+      ]
     },
     {
       "scene_index": 9,
@@ -5474,7 +5911,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.9167,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 10,
@@ -5514,7 +5961,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 11,
@@ -6418,7 +6875,17 @@
           "西皮导板",
           "西皮散板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.135,
+        0.1538,
+        0.8333,
+        0.0128,
+        0.7403,
+        9,
+        0.1026,
+        0.0
+      ]
     }
   ]
 }

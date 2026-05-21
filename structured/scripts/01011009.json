@@ -229,14 +229,14 @@
           "text": "帅洞府中群仙真，笑舞赴蟠桃。"
         },
         {
-          "character": null,
+          "character": "金刀圣母",
           "line_type": "念",
           "musical_style": null,
           "style_family": null,
           "text": "极月春时起波涛，是处歌声引仙敖。瑶池赴会歌声远，异香馥郁簇仙桥。"
         },
         {
-          "character": null,
+          "character": "金刀圣母",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -308,7 +308,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -346,7 +356,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "俺，花逢春。吾父花荣，当日梁山结义，被奸贼所害。是我隐居南阳西村，务\n农为业。今乃三月三日，乃蟠桃宫胜会之期，约定秦仁、呼延豹二位贤弟，同\n去游玩，怎么还不见到来。"
+          "text": "俺，花逢春。吾父花荣，当日梁山结义，被奸贼所害。是我隐居南阳西村，务"
+        },
+        {
+          "character": "花逢春",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "农为业。今乃三月三日，乃蟠桃宫胜会之期，约定秦仁、呼延豹二位贤弟，同"
+        },
+        {
+          "character": "花逢春",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "去游玩，怎么还不见到来。"
         },
         {
           "character": null,
@@ -479,7 +503,14 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "三春花柳堪玩赏，\n万紫千红馥馥香。"
+          "text": "三春花柳堪玩赏，"
+        },
+        {
+          "character": "花逢春",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "万紫千红馥馥香。"
         },
         {
           "character": "秦仁",
@@ -500,7 +531,14 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "三人玩会开怀畅，\n蟠桃宫内先拈香。"
+          "text": "三人玩会开怀畅，"
+        },
+        {
+          "character": "花逢春",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "蟠桃宫内先拈香。"
         },
         {
           "character": null,
@@ -553,7 +591,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.211,
+        0.2692,
+        0.6154,
+        0.1154,
+        0.72,
+        5,
+        0.2308,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -577,21 +625,63 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "春波青草绿柳杨，\n牧童吹笛在山旁。"
-        },
-        {
-          "character": "贾斯文",
-          "line_type": "白",
-          "musical_style": null,
-          "style_family": null,
-          "text": "学生贾斯文，乃是南阳府内第一才子。多蒙高大爷抬举，请我在府中做一幕宾\n先生。恰喜大奶奶又看中了我哪，拉我每夜饮酒取乐，万一想不到的快活。今\n日城外蟠桃宫胜会，高大爷带领教师爷前去玩会，叫我先去料理一切。出得城\n来，果然好春色也！"
+          "text": "春波青草绿柳杨，"
         },
         {
           "character": "贾斯文",
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "沿路桃花齐开放，\n幼女纷纷女姣娘。\n游人个个说短长。"
+          "text": "牧童吹笛在山旁。"
+        },
+        {
+          "character": "贾斯文",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "学生贾斯文，乃是南阳府内第一才子。多蒙高大爷抬举，请我在府中做一幕宾"
+        },
+        {
+          "character": "贾斯文",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "先生。恰喜大奶奶又看中了我哪，拉我每夜饮酒取乐，万一想不到的快活。今"
+        },
+        {
+          "character": "贾斯文",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "日城外蟠桃宫胜会，高大爷带领教师爷前去玩会，叫我先去料理一切。出得城"
+        },
+        {
+          "character": "贾斯文",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来，果然好春色也！"
+        },
+        {
+          "character": "贾斯文",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "沿路桃花齐开放，"
+        },
+        {
+          "character": "贾斯文",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "幼女纷纷女姣娘。"
+        },
+        {
+          "character": "贾斯文",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "游人个个说短长。"
         },
         {
           "character": null,
@@ -703,7 +793,21 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "三人跨马气昂昂，\n同心合意甚猖狂。\n叫他全家尽遭殃！"
+          "text": "三人跨马气昂昂，"
+        },
+        {
+          "character": "贾斯文",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "同心合意甚猖狂。"
+        },
+        {
+          "character": "贾斯文",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "叫他全家尽遭殃！"
         },
         {
           "character": null,
@@ -743,7 +847,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.273,
+        0.4091,
+        0.5909,
+        0.0,
+        0.4286,
+        4,
+        0.4091,
+        0.0
+      ]
     },
     {
       "scene_index": 4,
@@ -771,17 +885,66 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "我父巍巍镇朝纲，\n太尉极品非寻常。\n区区地土占南阳。"
+          "text": "我父巍巍镇朝纲，"
+        },
+        {
+          "character": "高登",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "太尉极品非寻常。"
+        },
+        {
+          "character": "高登",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "区区地土占南阳。"
         },
         {
           "character": "高登",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "某，高登。我父高俅，在朝官居极品。俺习学拳棒，未能精通，又蒙蔡相爷着\n禁军教头楚云龙、金元伯、蔡秀、薛安等，逐日与我演习武艺，件件皆能，不\n日面君受职。这且不言。今乃蟠桃宫胜会，不面带领教师，前去玩会。二来行\n围射猎，酒乐一回，有何不可。\n来，有请众位师爷。"
+          "text": "某，高登。我父高俅，在朝官居极品。俺习学拳棒，未能精通，又蒙蔡相爷着"
         },
         {
-          "character": "荣华富贵谁肯让、四下手",
+          "character": "高登",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "禁军教头楚云龙、金元伯、蔡秀、薛安等，逐日与我演习武艺，件件皆能，不"
+        },
+        {
+          "character": "高登",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "日面君受职。这且不言。今乃蟠桃宫胜会，不面带领教师，前去玩会。二来行"
+        },
+        {
+          "character": "高登",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "围射猎，酒乐一回，有何不可。"
+        },
+        {
+          "character": "高登",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来，有请众位师爷。"
+        },
+        {
+          "character": "高登",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "荣华富贵谁肯让"
+        },
+        {
+          "character": "四下手",
           "line_type": "同白",
           "musical_style": null,
           "style_family": null,
@@ -940,7 +1103,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.083,
+        0.15,
+        0.65,
+        0.2,
+        0.5789,
+        7,
+        0.15,
+        0.0
+      ]
     },
     {
       "scene_index": 5,
@@ -1007,7 +1180,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "老身乃徐世英之母，女儿飞珠。只因老相国亡故，我儿终日习武，若得成名之\n日，徐氏门中有望。"
+          "text": "老身乃徐世英之母，女儿飞珠。只因老相国亡故，我儿终日习武，若得成名之"
+        },
+        {
+          "character": "徐母",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "日，徐氏门中有望。"
         },
         {
           "character": "徐飞珠",
@@ -1028,14 +1208,56 @@
           "line_type": "西皮原板",
           "musical_style": "西皮原板",
           "style_family": "西皮",
-          "text": "思想起儿的父征辽扫荡，\n回朝时论功勋封爵朝廊。\n因此上辞官职退归南阳。"
+          "text": "思想起儿的父征辽扫荡，"
         },
         {
-          "character": "为高俅有旧恨蒙惑君上、徐飞珠",
+          "character": "徐母",
           "line_type": "西皮原板",
           "musical_style": "西皮原板",
           "style_family": "西皮",
-          "text": "儿女事天助就岂能相强，\n劝母亲休忧虑免挂心肠。\n赤须发奸人惊定是栋梁。\n儿无父不孝母昧尽天良。"
+          "text": "回朝时论功勋封爵朝廊。"
+        },
+        {
+          "character": "徐母",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "因此上辞官职退归南阳。"
+        },
+        {
+          "character": "徐母",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "为高俅有旧恨蒙惑君上"
+        },
+        {
+          "character": "徐飞珠",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "儿女事天助就岂能相强，"
+        },
+        {
+          "character": "徐飞珠",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "劝母亲休忧虑免挂心肠。"
+        },
+        {
+          "character": "徐飞珠",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "赤须发奸人惊定是栋梁。"
+        },
+        {
+          "character": "徐飞珠",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "儿无父不孝母昧尽天良。"
         },
         {
           "character": null,
@@ -1049,7 +1271,14 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "三月里清明节祭扫尊长，\n忙禀报老娘亲预备纸张。"
+          "text": "三月里清明节祭扫尊长，"
+        },
+        {
+          "character": "徐世英",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "忙禀报老娘亲预备纸张。"
         },
         {
           "character": "徐世英",
@@ -1098,7 +1327,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "不是我儿提起，为娘倒忘怀了。\n家院，吩咐车辆打上。"
+          "text": "不是我儿提起，为娘倒忘怀了。"
+        },
+        {
+          "character": "徐母",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "家院，吩咐车辆打上。"
         },
         {
           "character": "徐福",
@@ -1119,7 +1355,14 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "稳坐香车穿柳巷，\n家家户户沸扬扬。"
+          "text": "稳坐香车穿柳巷，"
+        },
+        {
+          "character": "徐母",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "家家户户沸扬扬。"
         },
         {
           "character": "徐世英",
@@ -1190,7 +1433,17 @@
           "西皮原板",
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.278,
+        0.4688,
+        0.5,
+        0.0312,
+        0.5806,
+        4,
+        0.4375,
+        0.0
+      ]
     },
     {
       "scene_index": 6,
@@ -1216,7 +1469,14 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "蟠桃胜会真美景，\n还有美貌女姣娘。"
+          "text": "蟠桃胜会真美景，"
+        },
+        {
+          "character": "高登",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "还有美貌女姣娘。"
         },
         {
           "character": "高登",
@@ -1335,7 +1595,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.125,
+        0.2,
+        0.4,
+        0.4,
+        0.7778,
+        6,
+        0.2,
+        0.0
+      ]
     },
     {
       "scene_index": 7,
@@ -1365,7 +1635,14 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "山光映色可观望，\n匆匆来到园坟墙。"
+          "text": "山光映色可观望，"
+        },
+        {
+          "character": "徐母",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "匆匆来到园坟墙。"
         },
         {
           "character": null,
@@ -1393,24 +1670,87 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "清明节与儿女祭扫坟上，\n但愿得暗保佑儿女成双。\n征辽东得胜回名震外邦。\n数年来度光阴好不凄凉。"
+          "text": "清明节与儿女祭扫坟上，"
         },
         {
-          "character": "你本是宋朝中英雄勇将、身亡故你妻儿朝思暮想、徐飞珠",
+          "character": "徐母",
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "施礼深深拜先灵听讲，\n了我的娘福寿安康。"
+          "text": "但愿得暗保佑儿女成双。"
+        },
+        {
+          "character": "徐母",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "征辽东得胜回名震外邦。"
+        },
+        {
+          "character": "徐母",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "数年来度光阴好不凄凉。"
+        },
+        {
+          "character": "徐母",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "你本是宋朝中英雄勇将"
+        },
+        {
+          "character": "徐母",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "身亡故你妻儿朝思暮想"
+        },
+        {
+          "character": "徐飞珠",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "施礼深深拜先灵听讲，"
+        },
+        {
+          "character": "徐飞珠",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "了我的娘福寿安康。"
         },
         {
           "character": "徐世英",
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "拜倒在坟地前悲声大放，\n撇下了母子女事事荒凉。\n功名就振家声愿母永昌。"
+          "text": "拜倒在坟地前悲声大放，"
         },
         {
-          "character": "问先灵旧家风可有指望、徐母",
+          "character": "徐世英",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "撇下了母子女事事荒凉。"
+        },
+        {
+          "character": "徐世英",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "功名就振家声愿母永昌。"
+        },
+        {
+          "character": "徐世英",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "问先灵旧家风可有指望"
+        },
+        {
+          "character": "徐母",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -1442,7 +1782,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "儿遵母命。\n徐福带路。"
+          "text": "儿遵母命。"
+        },
+        {
+          "character": "徐世英",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "徐福带路。"
         },
         {
           "character": null,
@@ -1456,7 +1803,14 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "我的儿随为娘慢慢张望，\n母女们玩山景痛快心肠。"
+          "text": "我的儿随为娘慢慢张望，"
+        },
+        {
+          "character": "徐母",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "母女们玩山景痛快心肠。"
         },
         {
           "character": null,
@@ -1470,14 +1824,28 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "将身来在荒郊外，\n观见美貌女姣娘。"
+          "text": "将身来在荒郊外，"
+        },
+        {
+          "character": "贾斯文",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "观见美貌女姣娘。"
         },
         {
           "character": "贾斯文",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "你看那旁站立一位佳人，不知谁家的，待我上前问来。\n啊，大叔这里来。"
+          "text": "你看那旁站立一位佳人，不知谁家的，待我上前问来。"
+        },
+        {
+          "character": "贾斯文",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "啊，大叔这里来。"
         },
         {
           "character": "徐禄",
@@ -1519,7 +1887,21 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "想与妇人把话谈，\n跟随恶奴太猖狂。\n报与大爷作商量。"
+          "text": "想与妇人把话谈，"
+        },
+        {
+          "character": "贾斯文",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "跟随恶奴太猖狂。"
+        },
+        {
+          "character": "贾斯文",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "报与大爷作商量。"
         },
         {
           "character": null,
@@ -1533,14 +1915,28 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "徐禄带路下山岗，\n免得旁人说短长。"
+          "text": "徐禄带路下山岗，"
+        },
+        {
+          "character": "徐母",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "免得旁人说短长。"
         },
         {
           "character": "徐飞珠",
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "兄长上山不思量，\n任意闲游不顾娘。"
+          "text": "兄长上山不思量，"
+        },
+        {
+          "character": "徐飞珠",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "任意闲游不顾娘。"
         },
         {
           "character": null,
@@ -1554,7 +1950,14 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "听说美人从天降，\n急忙前来看端详。"
+          "text": "听说美人从天降，"
+        },
+        {
+          "character": "高登",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "急忙前来看端详。"
         },
         {
           "character": null,
@@ -1582,7 +1985,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "交与我办。\n哎，来，有话讲。"
+          "text": "交与我办。"
+        },
+        {
+          "character": "贾斯文",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "哎，来，有话讲。"
         },
         {
           "character": "徐禄",
@@ -1596,14 +2006,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "这位就是高太尉之子，名叫高登。见你家小姐，生得十分美貌，情愿出千金价\n银，买她为妾。你告诉你家主人，允是不允，快快前去问来。"
+          "text": "这位就是高太尉之子，名叫高登。见你家小姐，生得十分美貌，情愿出千金价"
+        },
+        {
+          "character": "贾斯文",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "银，买她为妾。你告诉你家主人，允是不允，快快前去问来。"
         },
         {
           "character": "徐禄",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "唗，瞎眼的狗才！这是总兵徐大人的诰命夫人，与小姐在此游山玩景，休要胡\n言乱讲。少时公子知道，哼哼，定要你们的狗命！"
+          "text": "唗，瞎眼的狗才！这是总兵徐大人的诰命夫人，与小姐在此游山玩景，休要胡"
+        },
+        {
+          "character": "徐禄",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "言乱讲。少时公子知道，哼哼，定要你们的狗命！"
         },
         {
           "character": "贾斯文",
@@ -1638,7 +2062,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "好个撒野的狗才！\n启大爷：学生前去问他，他不肯，还骂大爷是个狗子。"
+          "text": "好个撒野的狗才！"
+        },
+        {
+          "character": "贾斯文",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "启大爷：学生前去问他，他不肯，还骂大爷是个狗子。"
         },
         {
           "character": "高登",
@@ -1722,7 +2153,21 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "狠心贼子似虎狼！\n把我母女两分开。\n怎知为娘受灾殃！"
+          "text": "狠心贼子似虎狼！"
+        },
+        {
+          "character": "徐母",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "把我母女两分开。"
+        },
+        {
+          "character": "徐母",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "怎知为娘受灾殃！"
         },
         {
           "character": "徐母",
@@ -1736,7 +2181,14 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "徐禄为我把命丧，\n叫我如何转回乡。"
+          "text": "徐禄为我把命丧，"
+        },
+        {
+          "character": "徐母",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "叫我如何转回乡。"
         },
         {
           "character": null,
@@ -1883,14 +2335,42 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "贼子啊，贼子啊！我不杀你，誓不为人也！\n徐福，将徐禄埋葬，保定太夫人回去。\n母亲，孩儿追赶恶贼，定要我妹救回。"
+          "text": "贼子啊，贼子啊！我不杀你，誓不为人也！"
+        },
+        {
+          "character": "徐世英",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "徐福，将徐禄埋葬，保定太夫人回去。"
+        },
+        {
+          "character": "徐世英",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "母亲，孩儿追赶恶贼，定要我妹救回。"
         },
         {
           "character": "徐世英",
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "平地风波天来降，\n冤家相遇命要伤。\n母亲随儿走一场。"
+          "text": "平地风波天来降，"
+        },
+        {
+          "character": "徐世英",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "冤家相遇命要伤。"
+        },
+        {
+          "character": "徐世英",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "母亲随儿走一场。"
         },
         {
           "character": null,
@@ -1986,7 +2466,17 @@
           "西皮导板",
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.283,
+        0.4479,
+        0.5521,
+        0.0,
+        0.5368,
+        7,
+        0.4375,
+        0.0
+      ]
     },
     {
       "scene_index": 8,
@@ -2060,7 +2550,14 @@
           "line_type": "同白",
           "musical_style": null,
           "style_family": null,
-          "text": "这是贾斯文，同高家一群恶贼，行围射猎，怎么背了一个妇人？定是抢来的民\n间女子。"
+          "text": "这是贾斯文，同高家一群恶贼，行围射猎，怎么背了一个妇人？定是抢来的民"
+        },
+        {
+          "character": "花逢春、呼延豹、秦仁",
+          "line_type": "同白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "间女子。"
         },
         {
           "character": "徐世英",
@@ -2123,7 +2620,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "在下青面虎徐世英，同母亲、妹子上坟祭扫，不想恶贼高登，带领多人，将我\n妹子抢去了！望列位指条明路，也好追赶恶贼。"
+          "text": "在下青面虎徐世英，同母亲、妹子上坟祭扫，不想恶贼高登，带领多人，将我"
+        },
+        {
+          "character": "徐世英",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "妹子抢去了！望列位指条明路，也好追赶恶贼。"
         },
         {
           "character": "花逢春、呼延豹、秦仁",
@@ -2144,7 +2648,14 @@
           "line_type": "同白",
           "musical_style": null,
           "style_family": null,
-          "text": "徐公子休要着急，你既遇见我们，都是有缘之人，你我同到前村，商议一万全\n之策，救回令妹，除去"
+          "text": "徐公子休要着急，你既遇见我们，都是有缘之人，你我同到前村，商议一万全"
+        },
+        {
+          "character": "花逢春、呼延豹、秦仁",
+          "line_type": "同白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "之策，救回令妹，除去"
         }
       ],
       "interactions": [
@@ -2199,7 +2710,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.148,
+        0.2,
+        0.8,
+        0.0,
+        0.8421,
+        7,
+        0.2,
+        0.0
+      ]
     },
     {
       "scene_index": 9,
@@ -2507,7 +3028,17 @@
           "西皮原板",
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.077,
+        0.1562,
+        0.8125,
+        0.0312,
+        0.8387,
+        3,
+        0.1562,
+        0.0
+      ]
     },
     {
       "scene_index": 10,
@@ -2527,7 +3058,7 @@
           "text": "（起鼓，走边。花逢春、秦仁、呼延豹、徐世英同上。）"
         },
         {
-          "character": null,
+          "character": "徐世英",
           "line_type": "同白",
           "musical_style": null,
           "style_family": null,
@@ -2628,7 +3159,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.8333,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 11,
@@ -2749,7 +3290,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.4545,
+        0.5455,
+        0.9,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 12,
@@ -2764,7 +3315,7 @@
           "text": "（花逢春、秦仁、呼延豹、徐世英同上。）"
         },
         {
-          "character": null,
+          "character": "徐世英",
           "line_type": "同白",
           "musical_style": null,
           "style_family": null,
@@ -2786,7 +3337,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 13,
@@ -2833,7 +3394,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 14,
@@ -2880,7 +3451,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 15,
@@ -3271,7 +3852,17 @@
         "singing_ratio": 0.036,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.036,
+        0.125,
+        0.8125,
+        0.0625,
+        0.8387,
+        6,
+        0.0,
+        0.0
+      ]
     }
   ]
 }

@@ -267,7 +267,35 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "我石文，父亲石须龙，职受太原总镇。爹娘生我一个，爱如掌上明珠，我这个\n不孝顺的老子，给我找了个教书的先生，成天把我圈在书房里头。这“子曰”\n长，“子曰”短的，把我脑袋都给念昏了，今儿个我放了老师半天假，打算出\n去玩会儿。\n小子们你们想个什么主意，叫大爷我开开心解解闷哪？"
+          "text": "我石文，父亲石须龙，职受太原总镇。爹娘生我一个，爱如掌上明珠，我这个"
+        },
+        {
+          "character": "石文",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "不孝顺的老子，给我找了个教书的先生，成天把我圈在书房里头。这“子曰”"
+        },
+        {
+          "character": "石文",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "长，“子曰”短的，把我脑袋都给念昏了，今儿个我放了老师半天假，打算出"
+        },
+        {
+          "character": "石文",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "去玩会儿。"
+        },
+        {
+          "character": "石文",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "小子们你们想个什么主意，叫大爷我开开心解解闷哪？"
         },
         {
           "character": "四院子",
@@ -316,21 +344,42 @@
           "line_type": "同白",
           "musical_style": null,
           "style_family": null,
-          "text": "茶跟茶不同啊，西门外有个名叫豪杰居的小茶馆，里边有个妞儿，长的又勾勾\n又丢丢，犹如天仙下凡，咱们到她那儿开开心去？"
+          "text": "茶跟茶不同啊，西门外有个名叫豪杰居的小茶馆，里边有个妞儿，长的又勾勾"
+        },
+        {
+          "character": "四院子",
+          "line_type": "同白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "又丢丢，犹如天仙下凡，咱们到她那儿开开心去？"
         },
         {
           "character": "石文",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "哦，西门外有个小茶馆，里边有个小妞，长得又勾勾又丢丢，咱们到她那儿开\n开心去，好，拿着银子走，小子们带路。"
+          "text": "哦，西门外有个小茶馆，里边有个小妞，长得又勾勾又丢丢，咱们到她那儿开"
+        },
+        {
+          "character": "石文",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "开心去，好，拿着银子走，小子们带路。"
         },
         {
           "character": "石文",
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "小子们带路豪杰居往，\n到茶馆看一看美貌娇娘。"
+          "text": "小子们带路豪杰居往，"
+        },
+        {
+          "character": "石文",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "到茶馆看一看美貌娇娘。"
         },
         {
           "character": null,
@@ -361,7 +410,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.1579,
+        0.7895,
+        0.0526,
+        0.4444,
+        2,
+        0.1053,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -3600,7 +3659,17 @@
           "西皮摇板",
           "西皮流水"
         ]
-      }
+      },
+      "scene_feature": [
+        0.005,
+        0.0131,
+        0.9738,
+        0.0131,
+        0.9026,
+        7,
+        0.0105,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -3864,7 +3933,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.038,
+        0.0667,
+        0.8667,
+        0.0667,
+        0.8276,
+        2,
+        0.0667,
+        0.0
+      ]
     },
     {
       "scene_index": 4,
@@ -4784,7 +4863,17 @@
           "西皮散板",
           "西皮流水板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.032,
+        0.07,
+        0.91,
+        0.02,
+        0.8788,
+        7,
+        0.05,
+        0.0
+      ]
     },
     {
       "scene_index": 5,
@@ -4928,7 +5017,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.154,
+        0.1538,
+        0.8462,
+        0.0,
+        0.9167,
+        2,
+        0.1538,
+        0.0
+      ]
     },
     {
       "scene_index": 6,
@@ -4992,7 +5091,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 7,
@@ -5064,7 +5173,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 8,
@@ -6144,7 +6263,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.009,
+        0.0088,
+        0.9823,
+        0.0088,
+        0.8839,
+        7,
+        0.0088,
+        0.0
+      ]
     },
     {
       "scene_index": 9,
@@ -7278,7 +7407,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.979,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 10,
@@ -7857,7 +7996,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.02,
+        0.0192,
+        0.9423,
+        0.0385,
+        0.8431,
+        8,
+        0.0192,
+        0.0
+      ]
     },
     {
       "scene_index": 11,
@@ -8099,7 +8248,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.04,
+        0.04,
+        0.96,
+        0.0,
+        0.9583,
+        2,
+        0.04,
+        0.0
+      ]
     },
     {
       "scene_index": 12,
@@ -8341,7 +8500,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.9583,
+        0.0417,
+        0.913,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 13,
@@ -8656,7 +8825,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.963,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 14,
@@ -9555,7 +9734,17 @@
           "西皮二六板",
           "西皮流水"
         ]
-      }
+      },
+      "scene_feature": [
+        0.01,
+        0.0204,
+        0.9796,
+        0.0,
+        0.8969,
+        6,
+        0.0204,
+        0.0
+      ]
     }
   ]
 }

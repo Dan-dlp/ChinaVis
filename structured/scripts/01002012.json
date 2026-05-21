@@ -225,7 +225,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.6,
+        0.4,
+        0.75,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -357,7 +367,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "老夫曹操。今奉天子明诏，带领人马，扫荡徐州，可恨吕布战又不战，降又不\n降，使君妙计安在？"
+          "text": "老夫曹操。今奉天子明诏，带领人马，扫荡徐州，可恨吕布战又不战，降又不"
+        },
+        {
+          "character": "曹操",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "降，使君妙计安在？"
         },
         {
           "character": "刘备",
@@ -468,7 +485,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0476,
+        0.9048,
+        0.0476,
+        0.9,
+        8,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -498,21 +525,98 @@
           "line_type": "西皮二六板",
           "musical_style": "西皮二六板",
           "style_family": "西皮",
-          "text": "每日里闲无事逍遥饮酒，\n到今日称心愿得坐徐州。\n他那里兴人马来夺徐州。\n狗奸贼要擒我怎能得够？\n某若是抖威风群贼命休。\n我二人只欢乐多饮几瓯。"
+          "text": "每日里闲无事逍遥饮酒，"
         },
         {
-          "character": "只恨的曹操贼屡次入寇、内侍臣看过了琼浆美酒、貂蝉",
+          "character": "吕布",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "到今日称心愿得坐徐州。"
+        },
+        {
+          "character": "吕布",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "他那里兴人马来夺徐州。"
+        },
+        {
+          "character": "吕布",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "狗奸贼要擒我怎能得够？"
+        },
+        {
+          "character": "吕布",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "某若是抖威风群贼命休。"
+        },
+        {
+          "character": "吕布",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "我二人只欢乐多饮几瓯。"
+        },
+        {
+          "character": "吕布",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "只恨的曹操贼屡次入寇"
+        },
+        {
+          "character": "吕布",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "内侍臣看过了琼浆美酒"
+        },
+        {
+          "character": "貂蝉",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
           "text": "看酒。"
         },
         {
-          "character": "只恨的曹操贼屡次入寇、内侍臣看过了琼浆美酒、貂蝉",
+          "character": "貂蝉",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "只恨的曹操贼屡次入寇"
+        },
+        {
+          "character": "貂蝉",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "内侍臣看过了琼浆美酒"
+        },
+        {
+          "character": "貂蝉",
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "老王允定下了连环巧计，\n我这里用假意谅他不知。\n破徐州俱擒去万事全休。"
+          "text": "老王允定下了连环巧计，"
+        },
+        {
+          "character": "貂蝉",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "我这里用假意谅他不知。"
+        },
+        {
+          "character": "貂蝉",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "破徐州俱擒去万事全休。"
         },
         {
           "character": null,
@@ -540,7 +644,21 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "曹操领兵夺徐州，\n迷恋宫闱吕温侯。\n见了公公说从头。"
+          "text": "曹操领兵夺徐州，"
+        },
+        {
+          "character": "陈宫",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "迷恋宫闱吕温侯。"
+        },
+        {
+          "character": "陈宫",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "见了公公说从头。"
         },
         {
           "character": "陈宫",
@@ -550,7 +668,14 @@
           "text": "烦劳公公，通禀温侯：陈宫有本启奏。"
         },
         {
-          "character": "将身来在宫门口、小太监",
+          "character": "陈宫",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "将身来在宫门口"
+        },
+        {
+          "character": "小太监",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -582,7 +707,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "是。\n公台，温侯酒醉，有本改日再奏。"
+          "text": "是。"
+        },
+        {
+          "character": "小太监",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "公台，温侯酒醉，有本改日再奏。"
         },
         {
           "character": "陈宫",
@@ -610,10 +742,38 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "昔日有个商纣王，\n宠爱妲姬乱朝纲。\n蝉貂好比苏娘娘。"
+          "text": "昔日有个商纣王，"
         },
         {
-          "character": "温侯学了前朝样、大着胆儿宫门闯、小太监",
+          "character": "陈宫",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "宠爱妲姬乱朝纲。"
+        },
+        {
+          "character": "陈宫",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "蝉貂好比苏娘娘。"
+        },
+        {
+          "character": "陈宫",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "温侯学了前朝样"
+        },
+        {
+          "character": "陈宫",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "大着胆儿宫门闯"
+        },
+        {
+          "character": "小太监",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -708,7 +868,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "闪开了！\n启温侯：大事不好了！"
+          "text": "闪开了！"
+        },
+        {
+          "character": "张辽",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "启温侯：大事不好了！"
         },
         {
           "character": "吕布",
@@ -894,7 +1061,17 @@
           "西皮二六板",
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.071,
+        0.3704,
+        0.6111,
+        0.0185,
+        0.4528,
+        5,
+        0.3704,
+        0.0
+      ]
     },
     {
       "scene_index": 4,
@@ -915,7 +1092,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "有请温侯上马。\n（四小军、大将自两边分上。吕布上，李典、乐进、许褚、曹洪同上，会阵。刘备、关羽、张飞同上，开打。"
+          "text": "有请温侯上马。"
+        },
+        {
+          "character": "马夫",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "（四小军、大将自两边分上。吕布上，李典、乐进、许褚、曹洪同上，会阵。刘备、关羽、张飞同上，开打。"
         }
       ],
       "interactions": [],
@@ -927,7 +1111,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 5,
@@ -1019,7 +1213,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.6,
+        0.4,
+        1.0,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 6,
@@ -1059,7 +1263,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 7,
@@ -1121,7 +1335,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 8,
@@ -1149,7 +1373,14 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "擒去陈宫、张文远，\n抢去我妻女貂蝉。"
+          "text": "擒去陈宫、张文远，"
+        },
+        {
+          "character": "吕布",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "抢去我妻女貂蝉。"
         },
         {
           "character": "吕布",
@@ -1184,7 +1415,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.6,
+        0.4,
+        0.0,
+        0.0,
+        1,
+        0.6,
+        0.0
+      ]
     },
     {
       "scene_index": 9,
@@ -1273,10 +1514,31 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "刀枪剑戟擒住我，\n霎时不绑去绳锁。\n丞相宽恩是为何？"
+          "text": "刀枪剑戟擒住我，"
         },
         {
-          "character": "进得帐来忙跪落、曹操",
+          "character": "貂蝉",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "霎时不绑去绳锁。"
+        },
+        {
+          "character": "貂蝉",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "丞相宽恩是为何？"
+        },
+        {
+          "character": "貂蝉",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "进得帐来忙跪落"
+        },
+        {
+          "character": "曹操",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -1308,21 +1570,56 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "貂蝉女好妙计盖世功果，\n献连环搭救了汉室山河。\n太平时也许她安然快乐。"
+          "text": "貂蝉女好妙计盖世功果，"
         },
         {
-          "character": "叫人来送貂蝉养老宫坐、貂蝉",
+          "character": "曹操",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "献连环搭救了汉室山河。"
+        },
+        {
+          "character": "曹操",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "太平时也许她安然快乐。"
+        },
+        {
+          "character": "曹操",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "叫人来送貂蝉养老宫坐"
+        },
+        {
+          "character": "貂蝉",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
           "text": "谢丞相。"
         },
         {
-          "character": "叫人来送貂蝉养老宫坐、貂蝉",
+          "character": "貂蝉",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "叫人来送貂蝉养老宫坐"
+        },
+        {
+          "character": "貂蝉",
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "叩罢头来谢恩德，\n养老宫中去快乐。"
+          "text": "叩罢头来谢恩德，"
+        },
+        {
+          "character": "貂蝉",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "养老宫中去快乐。"
         },
         {
           "character": null,
@@ -1343,7 +1640,49 @@
           "line_type": "西皮二六板",
           "musical_style": "西皮二六板",
           "style_family": "西皮",
-          "text": "见貂蝉不由我心如烈火，\n骂一声狗淫妇无耻的贱婆：\n为什么暗地里又许董卓？\n你那里使颜色将我勾活。\n我为你二次里又杀董卓。\n又谁知狗淫妇里应外合。\n恨不得这一足将你结果！"
+          "text": "见貂蝉不由我心如烈火，"
+        },
+        {
+          "character": "吕布",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "骂一声狗淫妇无耻的贱婆："
+        },
+        {
+          "character": "吕布",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "为什么暗地里又许董卓？"
+        },
+        {
+          "character": "吕布",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "你那里使颜色将我勾活。"
+        },
+        {
+          "character": "吕布",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "我为你二次里又杀董卓。"
+        },
+        {
+          "character": "吕布",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "又谁知狗淫妇里应外合。"
+        },
+        {
+          "character": "吕布",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "恨不得这一足将你结果！"
         },
         {
           "character": null,
@@ -1357,14 +1696,56 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "有陈宫向前去忙把话说：\n反说我老陈宫疑心太多。\n才知道貂蝉女里应外合。"
+          "text": "有陈宫向前去忙把话说："
         },
         {
-          "character": "貂蝉女是假意臣已奏过、到如今君臣们带了枷锁、吕布",
+          "character": "陈宫",
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "陈公台你不必埋怨于我，\n大丈夫生和死有何惧却。\n既死在阴人手自听头落。"
+          "text": "反说我老陈宫疑心太多。"
+        },
+        {
+          "character": "陈宫",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "才知道貂蝉女里应外合。"
+        },
+        {
+          "character": "陈宫",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "貂蝉女是假意臣已奏过"
+        },
+        {
+          "character": "陈宫",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "到如今君臣们带了枷锁"
+        },
+        {
+          "character": "吕布",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "陈公台你不必埋怨于我，"
+        },
+        {
+          "character": "吕布",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "大丈夫生和死有何惧却。"
+        },
+        {
+          "character": "吕布",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "既死在阴人手自听头落。"
         },
         {
           "character": null,
@@ -1392,7 +1773,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "哎吓且住，方才丞相要收吕布，言到：顺者昌，逆者亡。这便如何是好？\n二位贤弟快来。"
+          "text": "哎吓且住，方才丞相要收吕布，言到：顺者昌，逆者亡。这便如何是好？"
+        },
+        {
+          "character": "刘备",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "二位贤弟快来。"
         },
         {
           "character": null,
@@ -1483,7 +1871,14 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "徐州城内失了计，\n猛虎离山被他欺。"
+          "text": "徐州城内失了计，"
+        },
+        {
+          "character": "陈宫",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "猛虎离山被他欺。"
         },
         {
           "character": "陈宫",
@@ -1497,10 +1892,31 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "到如今怨不得性命为贵，\n吕奉先可算得将中之魁。\n生和死我不怕任贼所为。"
+          "text": "到如今怨不得性命为贵，"
         },
         {
-          "character": "将身儿来至在贼营队内、曹操",
+          "character": "陈宫",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "吕奉先可算得将中之魁。"
+        },
+        {
+          "character": "陈宫",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "生和死我不怕任贼所为。"
+        },
+        {
+          "character": "陈宫",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "将身儿来至在贼营队内"
+        },
+        {
+          "character": "曹操",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -1525,21 +1941,56 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "曹操吓，曹操！俺陈宫若知你心术不正，那日在旅店之中，一刀将你杀死，焉\n有今日。"
-        },
-        {
-          "character": "曹操",
-          "line_type": "白",
-          "musical_style": null,
-          "style_family": null,
-          "text": "住口！我问你，在中牟县纵放，弃职同行，要相扶老夫，共谋大事，因何不别\n而行？"
+          "text": "曹操吓，曹操！俺陈宫若知你心术不正，那日在旅店之中，一刀将你杀死，焉"
         },
         {
           "character": "陈宫",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "若问前情，你且听了：当初释放于你，因你身居骁骑，颇有机谋，心雄胆壮，\n谋刺国贼未成，只身逃至中牟。我乃一力相助，指望同兴汉室，岂知你心性太\n偏，疑心太重。可叹吕氏全家，无端惨死，我忠言相劝，你非但不知追悔，反\n敢昌言：宁我负人。因此弃你而行。也曾题赠，赠你“奸雄”二字！"
+          "text": "有今日。"
+        },
+        {
+          "character": "曹操",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "住口！我问你，在中牟县纵放，弃职同行，要相扶老夫，共谋大事，因何不别"
+        },
+        {
+          "character": "曹操",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "而行？"
+        },
+        {
+          "character": "陈宫",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "若问前情，你且听了：当初释放于你，因你身居骁骑，颇有机谋，心雄胆壮，"
+        },
+        {
+          "character": "陈宫",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "谋刺国贼未成，只身逃至中牟。我乃一力相助，指望同兴汉室，岂知你心性太"
+        },
+        {
+          "character": "陈宫",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "偏，疑心太重。可叹吕氏全家，无端惨死，我忠言相劝，你非但不知追悔，反"
+        },
+        {
+          "character": "陈宫",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "敢昌言：宁我负人。因此弃你而行。也曾题赠，赠你“奸雄”二字！"
         },
         {
           "character": "曹操",
@@ -1553,7 +2004,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "吕温侯心无谋智，却不似你诡计奸刁，聚结豺狼，强霸诸侯，并吞州郡，久必\n生乱。看来这汉室山河，难出你奸雄之手。"
+          "text": "吕温侯心无谋智，却不似你诡计奸刁，聚结豺狼，强霸诸侯，并吞州郡，久必"
+        },
+        {
+          "character": "陈宫",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "生乱。看来这汉室山河，难出你奸雄之手。"
         },
         {
           "character": "曹操",
@@ -1567,7 +2025,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "只恨那吕布，他不听吾言，心无定见，酒色伤身；若能依我而行，但看在濮阳\n城些小之计，烧得你焦头烂额。若不中你哭丧之计，今日还坐守濮阳，怎能遭\n你毒手！"
+          "text": "只恨那吕布，他不听吾言，心无定见，酒色伤身；若能依我而行，但看在濮阳"
+        },
+        {
+          "character": "陈宫",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "城些小之计，烧得你焦头烂额。若不中你哭丧之计，今日还坐守濮阳，怎能遭"
+        },
+        {
+          "character": "陈宫",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "你毒手！"
         },
         {
           "character": "曹操",
@@ -1595,7 +2067,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "哎，我闻“治天下者不害人之亲”，老母妻子，凭你处置。俺拼一死，并无挂\n念。"
+          "text": "哎，我闻“治天下者不害人之亲”，老母妻子，凭你处置。俺拼一死，并无挂"
+        },
+        {
+          "character": "陈宫",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "念。"
         },
         {
           "character": "曹操",
@@ -1616,7 +2095,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "公台之意，老夫相从。\n来，老母、妻子，送回许都，不可怠慢。"
+          "text": "公台之意，老夫相从。"
+        },
+        {
+          "character": "曹操",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来，老母、妻子，送回许都，不可怠慢。"
         },
         {
           "character": null,
@@ -1693,14 +2179,42 @@
           "line_type": "西皮慢板",
           "musical_style": "西皮慢板",
           "style_family": "西皮",
-          "text": "似猛虎离山岗落了平阳。\n灭却了董卓贼各霸一方。\n要活命除非是转世还阳。"
+          "text": "似猛虎离山岗落了平阳。"
+        },
+        {
+          "character": "吕布",
+          "line_type": "西皮慢板",
+          "musical_style": "西皮慢板",
+          "style_family": "西皮",
+          "text": "灭却了董卓贼各霸一方。"
+        },
+        {
+          "character": "吕布",
+          "line_type": "西皮慢板",
+          "musical_style": "西皮慢板",
+          "style_family": "西皮",
+          "text": "要活命除非是转世还阳。"
         },
         {
           "character": "吕布",
           "line_type": "西皮快板",
           "musical_style": "西皮快板",
           "style_family": "西皮",
-          "text": "俺好比夏后羿月窟遭殃，\n某好比公叔段命丧沙场。\n某好比三齐王命丧未央。"
+          "text": "俺好比夏后羿月窟遭殃，"
+        },
+        {
+          "character": "吕布",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "某好比公叔段命丧沙场。"
+        },
+        {
+          "character": "吕布",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "某好比三齐王命丧未央。"
         },
         {
           "character": "吕布",
@@ -1714,10 +2228,38 @@
           "line_type": "西皮快板",
           "musical_style": "西皮快板",
           "style_family": "西皮",
-          "text": "没奈何进帐去哀求丞相，\n屈膝跪低下头吕布归降。"
+          "text": "没奈何进帐去哀求丞相，"
         },
         {
-          "character": "自幼儿出母胎情性傲强、到如今陷小沛身入罗网、俺好比汉高祖兵败咸阳、曹操",
+          "character": "吕布",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "屈膝跪低下头吕布归降。"
+        },
+        {
+          "character": "吕布",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "自幼儿出母胎情性傲强"
+        },
+        {
+          "character": "吕布",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "到如今陷小沛身入罗网"
+        },
+        {
+          "character": "吕布",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "俺好比汉高祖兵败咸阳"
+        },
+        {
+          "character": "曹操",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -1826,7 +2368,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "本当将你收留，恐学那丁、董之故事。\n来，斩！"
+          "text": "本当将你收留，恐学那丁、董之故事。"
+        },
+        {
+          "character": "曹操",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来，斩！"
         },
         {
           "character": "吕布",
@@ -1882,7 +2431,21 @@
           "line_type": "西皮快板",
           "musical_style": "西皮快板",
           "style_family": "西皮",
-          "text": "忘却了辕门射戟，\n有袁术差纪灵将你来逼。\n一杆戟唬退了猛将姓纪。"
+          "text": "忘却了辕门射戟，"
+        },
+        {
+          "character": "吕布",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "有袁术差纪灵将你来逼。"
+        },
+        {
+          "character": "吕布",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "一杆戟唬退了猛将姓纪。"
         },
         {
           "character": "吕布",
@@ -1899,7 +2462,28 @@
           "text": "某死后定将你生魂来逼。"
         },
         {
-          "character": "那时节全亏我射戟神力、到今日忘前情反做仇敌、某只得二次里屈膝跪地、张辽",
+          "character": "吕布",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "那时节全亏我射戟神力"
+        },
+        {
+          "character": "吕布",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "到今日忘前情反做仇敌"
+        },
+        {
+          "character": "吕布",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "某只得二次里屈膝跪地"
+        },
+        {
+          "character": "张辽",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -1931,10 +2515,59 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "烈烈英雄辈，\n钢刀把命追。\n昏迷在宫闱。\n此时埋怨谁？\n开言大骂狗奸贼！"
+          "text": "烈烈英雄辈，"
         },
         {
-          "character": "宠爱貂蝉女、今日刀下死、人头搭在宝帐内、曹操",
+          "character": "张辽",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "钢刀把命追。"
+        },
+        {
+          "character": "张辽",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "昏迷在宫闱。"
+        },
+        {
+          "character": "张辽",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "此时埋怨谁？"
+        },
+        {
+          "character": "张辽",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "开言大骂狗奸贼！"
+        },
+        {
+          "character": "张辽",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "宠爱貂蝉女"
+        },
+        {
+          "character": "张辽",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "今日刀下死"
+        },
+        {
+          "character": "张辽",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "人头搭在宝帐内"
+        },
+        {
+          "character": "曹操",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -1980,7 +2613,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "今日被擒，还是这样性傲。\n来，斩了！"
+          "text": "今日被擒，还是这样性傲。"
+        },
+        {
+          "character": "曹操",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来，斩了！"
         },
         {
           "character": null,
@@ -2171,7 +2811,17 @@
           "西皮慢板",
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.132,
+        0.4038,
+        0.5962,
+        0.0,
+        0.529,
+        11,
+        0.4038,
+        0.0
+      ]
     }
   ]
 }

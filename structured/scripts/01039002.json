@@ -263,21 +263,77 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "小生，姓班，名超，乃扶风郡平陵人氏。父名班彪，长兄班固。俺自幼承父兄\n教诲，每日攻苦读书，自量胸中才学，也不愧文中飞将。只是俺自从跟随长兄\n到了洛阳，就在兰台下供佣笔砚。俺想这种书蠹的事儿，哪有出头之日？因此\n结交了一位好朋友，名唤徐干，还有一干有名的义士，每日盘枪舞剑，熟读兵\n书，以备将来用武之地。只是俺堂堂丈夫，无人知晓，也是枉然。思想起来，\n好不烦闷呵。"
-        },
-        {
-          "character": "班超",
-          "line_type": "唱",
-          "musical_style": null,
-          "style_family": null,
-          "text": "抵掌谈兵意气豪，\n英名不数霍票姚。\n不爱毛锥爱宝刀。"
+          "text": "小生，姓班，名超，乃扶风郡平陵人氏。父名班彪，长兄班固。俺自幼承父兄"
         },
         {
           "character": "班超",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "咳，我想近日窦将军窦固，奉旨将兵，出征匈奴，投他军中效力，一来为国立\n功，二来施展施展平日的大志。俺不免前去与徐大哥商议商议。就是这个主意。"
+          "text": "教诲，每日攻苦读书，自量胸中才学，也不愧文中飞将。只是俺自从跟随长兄"
+        },
+        {
+          "character": "班超",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "到了洛阳，就在兰台下供佣笔砚。俺想这种书蠹的事儿，哪有出头之日？因此"
+        },
+        {
+          "character": "班超",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "结交了一位好朋友，名唤徐干，还有一干有名的义士，每日盘枪舞剑，熟读兵"
+        },
+        {
+          "character": "班超",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "书，以备将来用武之地。只是俺堂堂丈夫，无人知晓，也是枉然。思想起来，"
+        },
+        {
+          "character": "班超",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "好不烦闷呵。"
+        },
+        {
+          "character": "班超",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "抵掌谈兵意气豪，"
+        },
+        {
+          "character": "班超",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "英名不数霍票姚。"
+        },
+        {
+          "character": "班超",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "不爱毛锥爱宝刀。"
+        },
+        {
+          "character": "班超",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "咳，我想近日窦将军窦固，奉旨将兵，出征匈奴，投他军中效力，一来为国立"
+        },
+        {
+          "character": "班超",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "功，二来施展施展平日的大志。俺不免前去与徐大哥商议商议。就是这个主意。"
         },
         {
           "character": null,
@@ -319,7 +375,17 @@
         "singing_ratio": 0.333,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.333,
+        0.3333,
+        0.6,
+        0.0667,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -355,7 +421,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "俺徐干，扶风郡平陵人氏。幼与班超同学，结为弟兄。自从到了洛阳，每日同\n他盘枪舞剑，练习武艺，倒也逍遥自在。天到这般时候，怎么还不见来到？"
+          "text": "俺徐干，扶风郡平陵人氏。幼与班超同学，结为弟兄。自从到了洛阳，每日同"
+        },
+        {
+          "character": "徐干",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "他盘枪舞剑，练习武艺，倒也逍遥自在。天到这般时候，怎么还不见来到？"
         },
         {
           "character": null,
@@ -418,14 +491,35 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "大哥有所不知，今有大将军窦固，奉旨出征匈奴，招纳天下知兵之士。我想趁\n此机会，带领众弟兄，前去投效，倘能为国立功，也不枉人生一世。大哥你意\n如何？"
+          "text": "大哥有所不知，今有大将军窦固，奉旨出征匈奴，招纳天下知兵之士。我想趁"
+        },
+        {
+          "character": "班超",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "此机会，带领众弟兄，前去投效，倘能为国立功，也不枉人生一世。大哥你意"
+        },
+        {
+          "character": "班超",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "如何？"
         },
         {
           "character": "徐干",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "贤弟所见甚好。但是一件：贤弟才名盖世，就凭着一个笔尖，敌得过千军万马，\n何必临阵交锋才算得是英雄呢？"
+          "text": "贤弟所见甚好。但是一件：贤弟才名盖世，就凭着一个笔尖，敌得过千军万马，"
+        },
+        {
+          "character": "徐干",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "何必临阵交锋才算得是英雄呢？"
         },
         {
           "character": "班超",
@@ -496,7 +590,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.8947,
+        0.1053,
+        0.6667,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -601,14 +705,28 @@
           "line_type": "同唱",
           "musical_style": null,
           "style_family": null,
-          "text": "精神抖擞习拳勇，\n准备他年立战功。"
+          "text": "精神抖擞习拳勇，"
+        },
+        {
+          "character": "众武士",
+          "line_type": "同唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "准备他年立战功。"
         },
         {
           "character": "王忠",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "来此已是徐大哥门首。\n徐大哥转来。"
+          "text": "来此已是徐大哥门首。"
+        },
+        {
+          "character": "王忠",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "徐大哥转来。"
         },
         {
           "character": null,
@@ -657,7 +775,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "众位弟兄不知，今有窦将军奉旨，出征匈奴，班公子要带领众位弟兄，投军效\n力。他已前去打听，不知众位弟兄，意下如何？"
+          "text": "众位弟兄不知，今有窦将军奉旨，出征匈奴，班公子要带领众位弟兄，投军效"
+        },
+        {
+          "character": "徐干",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "力。他已前去打听，不知众位弟兄，意下如何？"
         },
         {
           "character": "王忠",
@@ -741,7 +866,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0833,
+        0.8333,
+        0.0833,
+        0.7391,
+        8,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 4,
@@ -785,7 +920,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "老夫窦固，表字孟孙，汉室为臣，官拜奉车都尉之职。老夫奉了朝旨，出征匈\n奴，通道西域，招纳天下壮士，统率出关。却这无人应命。\n中军，伺候了。"
+          "text": "老夫窦固，表字孟孙，汉室为臣，官拜奉车都尉之职。老夫奉了朝旨，出征匈"
+        },
+        {
+          "character": "窦固",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "奴，通道西域，招纳天下壮士，统率出关。却这无人应命。"
+        },
+        {
+          "character": "窦固",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "中军，伺候了。"
         },
         {
           "character": null,
@@ -876,7 +1025,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "仲升果有此意，就可随同郭恂，收复西域诸国。但不知仲升前去，可带多少人\n马？"
+          "text": "仲升果有此意，就可随同郭恂，收复西域诸国。但不知仲升前去，可带多少人"
+        },
+        {
+          "character": "窦固",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "马？"
         },
         {
           "character": "班超",
@@ -911,14 +1067,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "遵令。\n带马！"
+          "text": "遵令。"
+        },
+        {
+          "character": "班超",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "带马！"
         },
         {
           "character": "班超",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "读书不遂男儿愿，\n跃马横戈出玉关。"
+          "text": "读书不遂男儿愿，"
+        },
+        {
+          "character": "班超",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "跃马横戈出玉关。"
         },
         {
           "character": null,
@@ -932,7 +1102,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "国士无双班仲升，\n今番一去定立功。"
+          "text": "国士无双班仲升，"
+        },
+        {
+          "character": "窦固",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "今番一去定立功。"
         },
         {
           "character": null,
@@ -970,7 +1147,17 @@
         "singing_ratio": 0.062,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.062,
+        0.1923,
+        0.6923,
+        0.1154,
+        0.56,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 5,
@@ -1078,7 +1265,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "奉将军之令，命俺带领众位弟兄，一到西域，收复诸羌。\n众位弟兄，可曾愿去？"
+          "text": "奉将军之令，命俺带领众位弟兄，一到西域，收复诸羌。"
+        },
+        {
+          "character": "班超",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "众位弟兄，可曾愿去？"
         },
         {
           "character": "王忠",
@@ -1120,7 +1314,21 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "燕雀安知鸿鹄志，\n横沙绝漠度春秋。\n不斩匈奴誓不休。"
+          "text": "燕雀安知鸿鹄志，"
+        },
+        {
+          "character": "班超",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "横沙绝漠度春秋。"
+        },
+        {
+          "character": "班超",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "不斩匈奴誓不休。"
         },
         {
           "character": null,
@@ -1170,7 +1378,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.1667,
+        0.7222,
+        0.1111,
+        0.7647,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 6,
@@ -1199,7 +1417,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "俺，匈奴大将军呼韩豹是也。闻说汉兵出塞，奉我主命令，一到西域，暗结诸\n羌，教他们违背汉家，归顺我主。今日正起程。\n巴图鲁，听俺令下。"
+          "text": "俺，匈奴大将军呼韩豹是也。闻说汉兵出塞，奉我主命令，一到西域，暗结诸"
+        },
+        {
+          "character": "呼韩豹",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "羌，教他们违背汉家，归顺我主。今日正起程。"
+        },
+        {
+          "character": "呼韩豹",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "巴图鲁，听俺令下。"
         },
         {
           "character": "四番卒",
@@ -1213,7 +1445,21 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "中军虎帐传一令，\n大小儿郎听分明：\n行兵莫要露真情。"
+          "text": "中军虎帐传一令，"
+        },
+        {
+          "character": "呼韩豹",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "大小儿郎听分明："
+        },
+        {
+          "character": "呼韩豹",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "行兵莫要露真情。"
         },
         {
           "character": null,
@@ -1243,7 +1489,17 @@
         "singing_ratio": 0.333,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.333,
+        0.375,
+        0.5,
+        0.125,
+        0.2857,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 7,
@@ -1316,7 +1572,21 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "黄河远上白云间，\n一片孤城万仞山。\n春风不度玉门关。"
+          "text": "黄河远上白云间，"
+        },
+        {
+          "character": "班超",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "一片孤城万仞山。"
+        },
+        {
+          "character": "班超",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "春风不度玉门关。"
         },
         {
           "character": "班超",
@@ -1372,7 +1642,35 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "曾记得当年张博望，\n开通西域接甘凉。\n苜蓿葡萄遍汉疆。\n陈兵渭水会名王。\n要念前功继武皇。"
+          "text": "曾记得当年张博望，"
+        },
+        {
+          "character": "班超",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "开通西域接甘凉。"
+        },
+        {
+          "character": "班超",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "苜蓿葡萄遍汉疆。"
+        },
+        {
+          "character": "班超",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "陈兵渭水会名王。"
+        },
+        {
+          "character": "班超",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "要念前功继武皇。"
         },
         {
           "character": null,
@@ -1422,7 +1720,17 @@
         "singing_ratio": 0.1,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.1,
+        0.4444,
+        0.5556,
+        0.0,
+        0.4706,
+        5,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 8,
@@ -1466,7 +1774,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "老夫，鄯善国王是也。自从汉室闭关以后，久不相通，现在匈奴开地千里，兵\n马强盛，老夫想与他连和，前已差人奉书通好，怎么还不见动静？\n众将官！"
+          "text": "老夫，鄯善国王是也。自从汉室闭关以后，久不相通，现在匈奴开地千里，兵"
+        },
+        {
+          "character": "鄯善王",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "马强盛，老夫想与他连和，前已差人奉书通好，怎么还不见动静？"
+        },
+        {
+          "character": "鄯善王",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "众将官！"
         },
         {
           "character": "四番卒",
@@ -1546,7 +1868,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.1,
+        0.7,
+        0.2,
+        0.4444,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 9,
@@ -1606,7 +1938,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 10,
@@ -1675,7 +2017,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "奉我主命令，带领三千人马，亲到贵邦，一来奉书问候，二来劝老大王归顺我\n主，反抗天朝。不知老大王意下如何？"
+          "text": "奉我主命令，带领三千人马，亲到贵邦，一来奉书问候，二来劝老大王归顺我"
+        },
+        {
+          "character": "呼韩豹",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "主，反抗天朝。不知老大王意下如何？"
         },
         {
           "character": "鄯善王",
@@ -1710,7 +2059,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "汉兵到来，这、这、这便如何是好？\n他带来多少人马？"
+          "text": "汉兵到来，这、这、这便如何是好？"
+        },
+        {
+          "character": "呼韩豹",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "他带来多少人马？"
         },
         {
           "character": "探子",
@@ -1724,7 +2080,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "这班超小儿，胆敢带领三十六人，深入虎口！老夫自有道理。\n将军请在后帐饮酒。"
+          "text": "这班超小儿，胆敢带领三十六人，深入虎口！老夫自有道理。"
+        },
+        {
+          "character": "鄯善王",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "将军请在后帐饮酒。"
         },
         {
           "character": null,
@@ -1794,7 +2157,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "今有汉将班超带领三十六人前来，命尔等埋伏帐外，他若好意殷勤，还在罢了；\n倘有差池，将他立时擒下，不得有误。"
+          "text": "今有汉将班超带领三十六人前来，命尔等埋伏帐外，他若好意殷勤，还在罢了；"
+        },
+        {
+          "character": "鄯善王",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "倘有差池，将他立时擒下，不得有误。"
         },
         {
           "character": "二番将",
@@ -1911,7 +2281,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.8889,
+        0.1111,
+        0.7308,
+        7,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 11,
@@ -1964,7 +2344,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 12,
@@ -2010,14 +2400,35 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "我大汉天子，与贵国通好，业已三百余载。自从闭关以后，久绝交通。现值四\n海承平，天子眷念藩邦，特命小臣通问，奉告大王：急应归顺大汉，奉表称臣。\n不知大王意下如何？"
+          "text": "我大汉天子，与贵国通好，业已三百余载。自从闭关以后，久绝交通。现值四"
+        },
+        {
+          "character": "班超",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "海承平，天子眷念藩邦，特命小臣通问，奉告大王：急应归顺大汉，奉表称臣。"
+        },
+        {
+          "character": "班超",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "不知大王意下如何？"
         },
         {
           "character": "鄯善王",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "将军所言虽是，但敝国地小民贫，大汉远隔千里，岂能兼顾？将军莫要提起此\n话。"
+          "text": "将军所言虽是，但敝国地小民贫，大汉远隔千里，岂能兼顾？将军莫要提起此"
+        },
+        {
+          "character": "鄯善王",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "话。"
         },
         {
           "character": "班超",
@@ -2157,7 +2568,21 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "可恨班超太无理，\n当面就把老夫欺。\n怎奈二将是两个野鸡。"
+          "text": "可恨班超太无理，"
+        },
+        {
+          "character": "鄯善王",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "当面就把老夫欺。"
+        },
+        {
+          "character": "鄯善王",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "怎奈二将是两个野鸡。"
         },
         {
           "character": null,
@@ -2262,7 +2687,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "话虽如此，将军不必同他比较。等到明日，就在此地摆下酒宴，差人请他前来，\n四面好好埋伏，将他灌醉，立候绑缚，下在牢城。他若不来，再作计较。"
+          "text": "话虽如此，将军不必同他比较。等到明日，就在此地摆下酒宴，差人请他前来，"
+        },
+        {
+          "character": "鄯善王",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "四面好好埋伏，将他灌醉，立候绑缚，下在牢城。他若不来，再作计较。"
         },
         {
           "character": "呼韩豹",
@@ -2346,7 +2778,17 @@
         "singing_ratio": 0.027,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.027,
+        0.0698,
+        0.8605,
+        0.0698,
+        0.8333,
+        5,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 13,
@@ -2400,7 +2842,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "今日老匹夫，受这一场奇辱，怎肯与我们甘休？他若带领匈奴兵马前来，要与\n我们厮杀，那便怎了？"
+          "text": "今日老匹夫，受这一场奇辱，怎肯与我们甘休？他若带领匈奴兵马前来，要与"
+        },
+        {
+          "character": "班超",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我们厮杀，那便怎了？"
         },
         {
           "character": "徐干",
@@ -2414,7 +2863,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "大哥所言不差。就只一件：我等三十六人，焉能抵敌他三千人马？倘若陷入重\n围，那时内无粮草，外无救兵，岂非自送其死？"
+          "text": "大哥所言不差。就只一件：我等三十六人，焉能抵敌他三千人马？倘若陷入重"
+        },
+        {
+          "character": "班超",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "围，那时内无粮草，外无救兵，岂非自送其死？"
         },
         {
           "character": "徐干",
@@ -2544,7 +3000,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.8571,
+        6,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 14,
@@ -2597,7 +3063,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 15,
@@ -2743,7 +3219,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.7778,
+        0.2222,
+        1.0,
+        6,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 16,
@@ -2828,7 +3314,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 17,
@@ -2857,7 +3353,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "俺，匈奴大将军呼韩豹是也。闻说汉兵出塞，奉我主命令，一到西域，暗结诸\n羌，教他们违背汉家，归顺我主。今日正起程。\n巴图鲁，听俺令下。"
+          "text": "俺，匈奴大将军呼韩豹是也。闻说汉兵出塞，奉我主命令，一到西域，暗结诸"
+        },
+        {
+          "character": "呼韩豹",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "羌，教他们违背汉家，归顺我主。今日正起程。"
+        },
+        {
+          "character": "呼韩豹",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "巴图鲁，听俺令下。"
         },
         {
           "character": "四番卒",
@@ -2871,7 +3381,21 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "中军虎帐传一令，\n大小儿郎听分明：\n行兵莫要露真情。"
+          "text": "中军虎帐传一令，"
+        },
+        {
+          "character": "呼韩豹",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "大小儿郎听分明："
+        },
+        {
+          "character": "呼韩豹",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "行兵莫要露真情。"
         },
         {
           "character": null,
@@ -2900,7 +3424,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.375,
+        0.5,
+        0.125,
+        0.2857,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 18,
@@ -2994,7 +3528,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 19,
@@ -3034,7 +3578,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 20,
@@ -3105,7 +3659,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 21,
@@ -3205,7 +3769,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.5,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 22,
@@ -3474,7 +4048,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.8421,
+        4,
+        0.0,
+        0.0
+      ]
     }
   ]
 }

@@ -283,7 +283,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "老夫，曹操。自统大兵来到吴地，也曾修写檄文，下与孙权，会猎于江南。可\n恨周郎斩我遣使，是老夫一怒，差蔡瑁、张允统领水军，在三江口鏖战，一面\n又差文聘探听虚实，未见回报。"
+          "text": "老夫，曹操。自统大兵来到吴地，也曾修写檄文，下与孙权，会猎于江南。可"
+        },
+        {
+          "character": "曹操",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "恨周郎斩我遣使，是老夫一怒，差蔡瑁、张允统领水军，在三江口鏖战，一面"
+        },
+        {
+          "character": "曹操",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "又差文聘探听虚实，未见回报。"
         },
         {
           "character": null,
@@ -325,7 +339,14 @@
           "line_type": "同白",
           "musical_style": null,
           "style_family": null,
-          "text": "启丞相：荆州水军，久不操练，青徐之兵又素不习水战，故尔致败。今当先立\n水寨，每日教习精熟，方可用之。"
+          "text": "启丞相：荆州水军，久不操练，青徐之兵又素不习水战，故尔致败。今当先立"
+        },
+        {
+          "character": "蔡瑁、张允",
+          "line_type": "同白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "水寨，每日教习精熟，方可用之。"
         },
         {
           "character": "曹操",
@@ -367,7 +388,14 @@
           "line_type": "念",
           "musical_style": null,
           "style_family": null,
-          "text": "战船操练整齐、安排头尾高低，火炮连天四面起，亚赛空中霹雳。\n首位回头相顾，四面俱插红旗，冲锋破敌急如飞，摆列青龙阵式。"
+          "text": "战船操练整齐、安排头尾高低，火炮连天四面起，亚赛空中霹雳。"
+        },
+        {
+          "character": "蔡瑁",
+          "line_type": "念",
+          "musical_style": null,
+          "style_family": null,
+          "text": "首位回头相顾，四面俱插红旗，冲锋破敌急如飞，摆列青龙阵式。"
         },
         {
           "character": "曹操",
@@ -388,7 +416,14 @@
           "line_type": "念",
           "musical_style": null,
           "style_family": null,
-          "text": "每日操练阵式，两边火炮俱齐，乌鸦不敢往空起，令人胆裂魂飞。\n金锣两面为眼，旌旗犹如翅飞，长枪弓弩箭似鬓，摆列白虎阵式。"
+          "text": "每日操练阵式，两边火炮俱齐，乌鸦不敢往空起，令人胆裂魂飞。"
+        },
+        {
+          "character": "张允",
+          "line_type": "念",
+          "musical_style": null,
+          "style_family": null,
+          "text": "金锣两面为眼，旌旗犹如翅飞，长枪弓弩箭似鬓，摆列白虎阵式。"
         },
         {
           "character": "曹操",
@@ -507,7 +542,14 @@
           "line_type": "念",
           "musical_style": null,
           "style_family": null,
-          "text": "丞相令出山动，飞船急过江东，孙权闻报心惊痛，自虑江东虚空。\n文臣与主和意，武将个个争锋，降文欲写意皆同，惟有周郎不从。"
+          "text": "丞相令出山动，飞船急过江东，孙权闻报心惊痛，自虑江东虚空。"
+        },
+        {
+          "character": "文聘",
+          "line_type": "念",
+          "musical_style": null,
+          "style_family": null,
+          "text": "文臣与主和意，武将个个争锋，降文欲写意皆同，惟有周郎不从。"
         },
         {
           "character": "曹操",
@@ -528,7 +570,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "且慢。此事何劳丞相亲领大兵，某自幼与周瑜同窗交契，愿凭三寸不烂之舌，\n去往江东，顺说周郎来降。江东岂不唾手可得。"
+          "text": "且慢。此事何劳丞相亲领大兵，某自幼与周瑜同窗交契，愿凭三寸不烂之舌，"
+        },
+        {
+          "character": "蒋干",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "去往江东，顺说周郎来降。江东岂不唾手可得。"
         },
         {
           "character": "曹操",
@@ -671,7 +720,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0179,
+        0.8036,
+        0.1786,
+        0.7273,
+        8,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -699,7 +758,21 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "恨曹瞒藐视我实在可恶，\n造下了铜雀台立于漳河。\n思良策出奇兵定杀曹贼。"
+          "text": "恨曹瞒藐视我实在可恶，"
+        },
+        {
+          "character": "周瑜",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "造下了铜雀台立于漳河。"
+        },
+        {
+          "character": "周瑜",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "思良策出奇兵定杀曹贼。"
         },
         {
           "character": null,
@@ -713,7 +786,14 @@
           "line_type": "同白",
           "musical_style": null,
           "style_family": null,
-          "text": "启都督：末将奉命三江口鏖战，刺死蔡𤪠落水，他军遁逃，追之不及，特来交\n令。"
+          "text": "启都督：末将奉命三江口鏖战，刺死蔡𤪠落水，他军遁逃，追之不及，特来交"
+        },
+        {
+          "character": "太史慈、甘宁、蒋钦",
+          "line_type": "同白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "令。"
         },
         {
           "character": "周瑜",
@@ -755,14 +835,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "啊，大夫，我想蔡瑁、张允，在荆襄惯习水战。今曹操又用此二人督领水军，\n本督破曹，何日得成功也？"
+          "text": "啊，大夫，我想蔡瑁、张允，在荆襄惯习水战。今曹操又用此二人督领水军，"
+        },
+        {
+          "character": "周瑜",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "本督破曹，何日得成功也？"
         },
         {
           "character": "周瑜",
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "恨蔡瑁和张允二贼可恶，\n献荆襄与曹瞒是他之过。"
+          "text": "恨蔡瑁和张允二贼可恶，"
+        },
+        {
+          "character": "周瑜",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "献荆襄与曹瞒是他之过。"
         },
         {
           "character": null,
@@ -1189,14 +1283,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "这……\n啊贤弟，喏喏喏……"
+          "text": "这……"
+        },
+        {
+          "character": "蒋干",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "啊贤弟，喏喏喏……"
         },
         {
           "character": "周瑜",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "众位将军，子翼乃本督同窗契友，虽从江北而来，亦非曹氏说客。公等勿得多\n疑。"
+          "text": "众位将军，子翼乃本督同窗契友，虽从江北而来，亦非曹氏说客。公等勿得多"
+        },
+        {
+          "character": "周瑜",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "疑。"
         },
         {
           "character": "蒋干",
@@ -1301,7 +1409,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "虎老雄心在。\n甘将军辛苦了——"
+          "text": "虎老雄心在。"
+        },
+        {
+          "character": "蒋干",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "甘将军辛苦了——"
         },
         {
           "character": "周瑜",
@@ -1336,7 +1451,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "不敢，摆下。请。\n太史慈听令！"
+          "text": "不敢，摆下。请。"
+        },
+        {
+          "character": "周瑜",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "太史慈听令！"
         },
         {
           "character": "太史慈",
@@ -1350,7 +1472,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "公可佩吾剑，以为监酒令官，今日宴前，但叙朋友交情；如有提起孙曹军旅之\n事者，即席斩之！"
+          "text": "公可佩吾剑，以为监酒令官，今日宴前，但叙朋友交情；如有提起孙曹军旅之"
+        },
+        {
+          "character": "周瑜",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "事者，即席斩之！"
         },
         {
           "character": "太史慈",
@@ -1448,7 +1577,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "喂呦……真果是兵精粮足、兵精粮足，名不虚传、名不虚传。啊，啊，啊，咦\n哈哈……"
+          "text": "喂呦……真果是兵精粮足、兵精粮足，名不虚传、名不虚传。啊，啊，啊，咦"
+        },
+        {
+          "character": "蒋干",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "哈哈……"
         },
         {
           "character": "周瑜",
@@ -1483,7 +1619,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "子翼兄。想大丈夫处世，遇知己之主，外托君臣之义，内结骨肉之恩，言必行，\n计必从，祸福共之。假使苏秦、张仪、陆贾、郦生辈复出，口似悬河，舌如\n利刃，安能动我心哉呀！"
+          "text": "子翼兄。想大丈夫处世，遇知己之主，外托君臣之义，内结骨肉之恩，言必行，"
+        },
+        {
+          "character": "周瑜",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "计必从，祸福共之。假使苏秦、张仪、陆贾、郦生辈复出，口似悬河，舌如"
+        },
+        {
+          "character": "周瑜",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "利刃，安能动我心哉呀！"
         },
         {
           "character": "周瑜",
@@ -1763,7 +1913,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "吾今醉矣。\n中军，与本督宽衣，待吾舞剑作歌，以助一乐。"
+          "text": "吾今醉矣。"
+        },
+        {
+          "character": "周瑜",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "中军，与本督宽衣，待吾舞剑作歌，以助一乐。"
         },
         {
           "character": "蒋干",
@@ -1812,7 +1969,28 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "丈夫处世兮立功名；\n立功名兮慰平生。\n慰平生兮吾将醉；\n吾将醉兮发狂吟！"
+          "text": "丈夫处世兮立功名；"
+        },
+        {
+          "character": "周瑜",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "立功名兮慰平生。"
+        },
+        {
+          "character": "周瑜",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "慰平生兮吾将醉；"
+        },
+        {
+          "character": "周瑜",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "吾将醉兮发狂吟！"
         },
         {
           "character": null,
@@ -1840,7 +2018,28 @@
           "line_type": "风入松",
           "musical_style": null,
           "style_family": null,
-          "text": "同窗故友会群英，\n江东豪杰逞威风；\n哪怕他百万雄兵；\n显男儿立奇功。"
+          "text": "同窗故友会群英，"
+        },
+        {
+          "character": "周瑜",
+          "line_type": "风入松",
+          "musical_style": null,
+          "style_family": null,
+          "text": "江东豪杰逞威风；"
+        },
+        {
+          "character": "周瑜",
+          "line_type": "风入松",
+          "musical_style": null,
+          "style_family": null,
+          "text": "哪怕他百万雄兵；"
+        },
+        {
+          "character": "周瑜",
+          "line_type": "风入松",
+          "musical_style": null,
+          "style_family": null,
+          "text": "显男儿立奇功。"
         },
         {
           "character": null,
@@ -1924,7 +2123,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "黄公覆听令。\n黄盖"
+          "text": "黄公覆听令。"
+        },
+        {
+          "character": "周瑜",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "黄盖"
         }
       ],
       "interactions": [
@@ -2035,7 +2241,17 @@
           "西皮原板",
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.057,
+        0.1265,
+        0.8614,
+        0.012,
+        0.8,
+        10,
+        0.0783,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -2634,7 +2850,17 @@
           "南梆子",
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.125,
+        0.1667,
+        0.8125,
+        0.0208,
+        0.5319,
+        4,
+        0.1667,
+        0.0
+      ]
     },
     {
       "scene_index": 4,
@@ -3239,7 +3465,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.043,
+        0.1228,
+        0.807,
+        0.0702,
+        0.7679,
+        7,
+        0.1228,
+        0.0
+      ]
     },
     {
       "scene_index": 5,
@@ -4364,7 +4600,17 @@
           "西皮摇板",
           "西皮散板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.034,
+        0.0635,
+        0.9206,
+        0.0159,
+        0.896,
+        6,
+        0.0635,
+        0.0
+      ]
     },
     {
       "scene_index": 6,
@@ -4931,7 +5177,17 @@
           "西皮小快板",
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.109,
+        0.1714,
+        0.8286,
+        0.0,
+        0.8986,
+        2,
+        0.1714,
+        0.0
+      ]
     },
     {
       "scene_index": 7,
@@ -5400,7 +5656,17 @@
           "西皮原板",
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.087,
+        0.1224,
+        0.8776,
+        0.0,
+        0.9167,
+        5,
+        0.1224,
+        0.0
+      ]
     },
     {
       "scene_index": 8,
@@ -5542,7 +5808,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.6923,
+        0.3077,
+        0.9167,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 9,
@@ -5561,7 +5837,7 @@
           "text": "（二童引诸葛亮、鲁肃同上。二卒扛箭同上，过场，同下。）"
         },
         {
-          "character": null,
+          "character": "鲁肃",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -5721,7 +5997,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        3,
+        0.0,
+        0.0
+      ]
     }
   ]
 }

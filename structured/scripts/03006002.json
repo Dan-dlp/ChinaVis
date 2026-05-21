@@ -251,7 +251,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "某大将纪灵。奉了袁主之命，先擒桃园兄弟，后灭吕布小儿，以图大业，今乃\n黄道吉日。\n雷、陈二位将军，人马可曾齐备？"
+          "text": "某大将纪灵。奉了袁主之命，先擒桃园兄弟，后灭吕布小儿，以图大业，今乃"
+        },
+        {
+          "character": "纪灵",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "黄道吉日。"
+        },
+        {
+          "character": "纪灵",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "雷、陈二位将军，人马可曾齐备？"
         },
         {
           "character": "雷簿、陈兰",
@@ -310,7 +324,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.05,
+        0.7,
+        0.25,
+        0.8421,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -346,7 +370,42 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "某吕布。幼习兵马，颇知战法，虽无黄公三略，也知吕望六韬。天下英雄，闻\n名丧胆。前者夺了徐州，袁术闻知，星夜差人来至吾营，许送粮米五万，战马\n百匹，金银一万两，彩缎千匹，使我夹攻刘备。谁想失信于我，俺欲领兵征伐，\n被陈宫谏阻。我念刘备乃义气英雄，请他弟兄屯兵小沛去了。前次有书到来，\n恐袁术攻打小沛，求我救应。至今未见动静，为此每日操兵演将，以防对敌。\n来，伺候了！"
+          "text": "某吕布。幼习兵马，颇知战法，虽无黄公三略，也知吕望六韬。天下英雄，闻"
+        },
+        {
+          "character": "吕布",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "名丧胆。前者夺了徐州，袁术闻知，星夜差人来至吾营，许送粮米五万，战马"
+        },
+        {
+          "character": "吕布",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "百匹，金银一万两，彩缎千匹，使我夹攻刘备。谁想失信于我，俺欲领兵征伐，"
+        },
+        {
+          "character": "吕布",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "被陈宫谏阻。我念刘备乃义气英雄，请他弟兄屯兵小沛去了。前次有书到来，"
+        },
+        {
+          "character": "吕布",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "恐袁术攻打小沛，求我救应。至今未见动静，为此每日操兵演将，以防对敌。"
+        },
+        {
+          "character": "吕布",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来，伺候了！"
         },
         {
           "character": null,
@@ -395,7 +454,35 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "且住！前许我金银、粮米、彩缎、马匹，直到如今，未见一物。今日纪灵夺取\n小沛，恐我帮助刘备，因此送来粮二十万，使我不救玄德。唔，吾想桃园弟兄\n屯兵小沛，未必能为吾害；若袁术并了玄德，则北连泰山诸将以图吾，我不能\n安枕矣。也罢！我不免修书一封，请他二家到来，我在内中解围。\n来，浓墨伺候！"
+          "text": "且住！前许我金银、粮米、彩缎、马匹，直到如今，未见一物。今日纪灵夺取"
+        },
+        {
+          "character": "吕布",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "小沛，恐我帮助刘备，因此送来粮二十万，使我不救玄德。唔，吾想桃园弟兄"
+        },
+        {
+          "character": "吕布",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "屯兵小沛，未必能为吾害；若袁术并了玄德，则北连泰山诸将以图吾，我不能"
+        },
+        {
+          "character": "吕布",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "安枕矣。也罢！我不免修书一封，请他二家到来，我在内中解围。"
+        },
+        {
+          "character": "吕布",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来，浓墨伺候！"
         },
         {
           "character": "吕布",
@@ -409,7 +496,21 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "上下将士似虎狼。\n手提羊毫写几行。\n军国大事有商量。"
+          "text": "上下将士似虎狼。"
+        },
+        {
+          "character": "吕布",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "手提羊毫写几行。"
+        },
+        {
+          "character": "吕布",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "军国大事有商量。"
         },
         {
           "character": null,
@@ -458,7 +559,56 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "战败疆场在濮阳,\n众诸侯见我心也慌。\n枪挑董卓一命亡。\n大战桃园刘关张。\n只杀得儿郎丧疆场。\n张飞把俺金冠伤；\n含羞带愧脸无光。\n明日两军免争强。"
+          "text": "战败疆场在濮阳,"
+        },
+        {
+          "character": "吕布",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "众诸侯见我心也慌。"
+        },
+        {
+          "character": "吕布",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "枪挑董卓一命亡。"
+        },
+        {
+          "character": "吕布",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "大战桃园刘关张。"
+        },
+        {
+          "character": "吕布",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "只杀得儿郎丧疆场。"
+        },
+        {
+          "character": "吕布",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "张飞把俺金冠伤；"
+        },
+        {
+          "character": "吕布",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "含羞带愧脸无光。"
+        },
+        {
+          "character": "吕布",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "明日两军免争强。"
         },
         {
           "character": null,
@@ -490,7 +640,17 @@
         "musical_styles": [
           "西皮导板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.222,
+        0.4118,
+        0.5294,
+        0.0588,
+        0.2424,
+        2,
+        0.0294,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -536,7 +696,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "俺、刘备，楼桑人也。自破黄巾，屡建奇功。今身为县职，镇守小沛。前者三\n弟酒醉，被吕布夺了徐州县城，又蒙归还。今坐二堂，心神不定，不知为了何\n事？\n来，伺候了。"
+          "text": "俺、刘备，楼桑人也。自破黄巾，屡建奇功。今身为县职，镇守小沛。前者三"
+        },
+        {
+          "character": "刘备",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "弟酒醉，被吕布夺了徐州县城，又蒙归还。今坐二堂，心神不定，不知为了何"
+        },
+        {
+          "character": "刘备",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "事？"
+        },
+        {
+          "character": "刘备",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来，伺候了。"
         },
         {
           "character": null,
@@ -578,7 +759,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "且住！纪灵发兵前来夺取小沛。\n来，请二爷、三爷进帐。"
+          "text": "且住！纪灵发兵前来夺取小沛。"
+        },
+        {
+          "character": "刘备",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来，请二爷、三爷进帐。"
         },
         {
           "character": "四青袍",
@@ -886,7 +1074,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "候着。\n徐州温侯下书人求见。"
+          "text": "候着。"
+        },
+        {
+          "character": "青袍甲",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "徐州温侯下书人求见。"
         },
         {
           "character": "刘备",
@@ -998,7 +1193,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "吕布见纪灵夺我城池，修书前来，教吾弟兄过营饮宴，与我二家解围。二弟可\n去？"
+          "text": "吕布见纪灵夺我城池，修书前来，教吾弟兄过营饮宴，与我二家解围。二弟可"
+        },
+        {
+          "character": "刘备",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "去？"
         },
         {
           "character": "关羽",
@@ -1061,21 +1263,147 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "攻城掠地动刀兵，\n袁术平日喜战争；\n弟兄亲自到辕门。\n五百兵丁紧守城。\n怕的玉石尽皆焚。"
+          "text": "攻城掠地动刀兵，"
         },
         {
-          "character": "吕布书来解愁闷、大小将士随营阵、三弟休把吕布恨、关羽",
+          "character": "刘备",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "刀枪剑戟要齐整，\n铠甲鲜明五色分。\n某樊哙保定刘使君。\n管保大哥平安无事转沛城。"
+          "text": "袁术平日喜战争；"
         },
         {
-          "character": "此去好比鸿门宴、大哥且将心放定、张飞",
+          "character": "刘备",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "纪灵小儿何足论，\n非是小弟自逞能。\n大小战场数百征；\n有道是一人拼命万夫难存。\n全仗着乌骓马丈八蛇矛枪一根。\n他不该前日里趁我酒醉带领人马暗夺徐州城。\n老张一世不怕人。"
+          "text": "弟兄亲自到辕门。"
+        },
+        {
+          "character": "刘备",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "五百兵丁紧守城。"
+        },
+        {
+          "character": "刘备",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "怕的玉石尽皆焚。"
+        },
+        {
+          "character": "刘备",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "吕布书来解愁闷"
+        },
+        {
+          "character": "刘备",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "大小将士随营阵"
+        },
+        {
+          "character": "刘备",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "三弟休把吕布恨"
+        },
+        {
+          "character": "关羽",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "刀枪剑戟要齐整，"
+        },
+        {
+          "character": "关羽",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "铠甲鲜明五色分。"
+        },
+        {
+          "character": "关羽",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "某樊哙保定刘使君。"
+        },
+        {
+          "character": "关羽",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "管保大哥平安无事转沛城。"
+        },
+        {
+          "character": "关羽",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "此去好比鸿门宴"
+        },
+        {
+          "character": "关羽",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "大哥且将心放定"
+        },
+        {
+          "character": "张飞",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "纪灵小儿何足论，"
+        },
+        {
+          "character": "张飞",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "非是小弟自逞能。"
+        },
+        {
+          "character": "张飞",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "大小战场数百征；"
+        },
+        {
+          "character": "张飞",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "有道是一人拼命万夫难存。"
+        },
+        {
+          "character": "张飞",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "全仗着乌骓马丈八蛇矛枪一根。"
+        },
+        {
+          "character": "张飞",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "他不该前日里趁我酒醉带领人马暗夺徐州城。"
+        },
+        {
+          "character": "张飞",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "老张一世不怕人。"
         },
         {
           "character": null,
@@ -1170,7 +1498,17 @@
         "singing_ratio": 0.077,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.077,
+        0.2737,
+        0.6737,
+        0.0526,
+        0.6596,
+        9,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 4,
@@ -1215,7 +1553,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "某姓吕名布，字奉先。威镇徐州，势压天下。只因袁术命纪灵统领兵将，攻取\n小沛。我想桃园弟兄若失此城，并无容身之地；为此修书二封，请纪灵玄德到\n来，我在内中解围，两下罢息干戈。书信催请，怎不见到来，只得升帐等候。\n正是："
+          "text": "某姓吕名布，字奉先。威镇徐州，势压天下。只因袁术命纪灵统领兵将，攻取"
+        },
+        {
+          "character": "吕布",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "小沛。我想桃园弟兄若失此城，并无容身之地；为此修书二封，请纪灵玄德到"
+        },
+        {
+          "character": "吕布",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来，我在内中解围，两下罢息干戈。书信催请，怎不见到来，只得升帐等候。"
+        },
+        {
+          "character": "吕布",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "正是："
         },
         {
           "character": "吕布",
@@ -1299,7 +1658,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "我知道。\n呔！里面有人么？滚出一个来！"
+          "text": "我知道。"
+        },
+        {
+          "character": "张飞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "呔！里面有人么？滚出一个来！"
         },
         {
           "character": "中军",
@@ -1348,7 +1714,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "你不会讲话，退后些。\n啊，温侯可曾升帐？"
+          "text": "你不会讲话，退后些。"
+        },
+        {
+          "character": "刘备",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "啊，温侯可曾升帐？"
         },
         {
           "character": "中军",
@@ -1369,7 +1742,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "暂且等候。\n启温侯：桃园弟兄求见。"
+          "text": "暂且等候。"
+        },
+        {
+          "character": "中军",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "启温侯：桃园弟兄求见。"
         },
         {
           "character": "吕布",
@@ -1404,7 +1784,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "呔！吕布，俺大哥乃中山靖王之后，汉景帝玄孙，当今天子之皇叔。你敢叫他\n贤弟？"
+          "text": "呔！吕布，俺大哥乃中山靖王之后，汉景帝玄孙，当今天子之皇叔。你敢叫他"
+        },
+        {
+          "character": "张飞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "贤弟？"
         },
         {
           "character": "吕布",
@@ -1523,7 +1910,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "嗐！咱不与吕布狗子见礼，大哥在一旁“桃园”哪“桃园”，想俺老张这一生\n一世，就吃了这桃园的亏了。也罢！看在大哥面上，与他见个礼。\n呔！吕布狗子请了！"
+          "text": "嗐！咱不与吕布狗子见礼，大哥在一旁“桃园”哪“桃园”，想俺老张这一生"
+        },
+        {
+          "character": "张飞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "一世，就吃了这桃园的亏了。也罢！看在大哥面上，与他见个礼。"
+        },
+        {
+          "character": "张飞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "呔！吕布狗子请了！"
         },
         {
           "character": "吕布",
@@ -1747,7 +2148,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "啊，温候……\n带马！"
+          "text": "啊，温候……"
+        },
+        {
+          "character": "纪灵",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "带马！"
         },
         {
           "character": "吕布",
@@ -1775,7 +2183,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "军务紧急，不敢久停。\n来，带马！"
+          "text": "军务紧急，不敢久停。"
+        },
+        {
+          "character": "纪灵",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来，带马！"
         },
         {
           "character": "吕布",
@@ -1999,49 +2414,126 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "张翼德喊一声犹如沉雷！\n玄德弟劝将军多饮几杯。"
+          "text": "张翼德喊一声犹如沉雷！"
         },
         {
-          "character": "纪将军量宽宏沉吟一醉、纪灵",
+          "character": "吕布",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "俺奉命领人马攻打小沛，\n吕奉先与刘备结成一堆。\n我要把大耳贼魂命来追。"
+          "text": "玄德弟劝将军多饮几杯。"
         },
         {
-          "character": "回营去调人马临阵对垒、刘备",
+          "character": "吕布",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "纪将军量宽宏沉吟一醉"
+        },
+        {
+          "character": "纪灵",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "俺奉命领人马攻打小沛，"
+        },
+        {
+          "character": "纪灵",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "吕奉先与刘备结成一堆。"
+        },
+        {
+          "character": "纪灵",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我要把大耳贼魂命来追。"
+        },
+        {
+          "character": "纪灵",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "回营去调人马临阵对垒"
+        },
+        {
+          "character": "刘备",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
           "text": "呀！"
         },
         {
-          "character": "回营去调人马临阵对垒、刘备",
+          "character": "刘备",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "回营去调人马临阵对垒"
+        },
+        {
+          "character": "刘备",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "似马行夹道内难以追悔，\n纪灵贼不杀我却还有谁？"
+          "text": "似马行夹道内难以追悔，"
         },
         {
-          "character": "回营去调人马临阵对垒、刘备",
+          "character": "刘备",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "纪灵贼不杀我却还有谁？"
+        },
+        {
+          "character": "刘备",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "回营去调人马临阵对垒"
+        },
+        {
+          "character": "刘备",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
           "text": "哎呀！温侯啊！"
         },
         {
-          "character": "回营去调人马临阵对垒、刘备",
+          "character": "刘备",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "回营去调人马临阵对垒"
+        },
+        {
+          "character": "刘备",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
           "text": "汉刘备实不能在此奉陪。"
         },
         {
-          "character": "他兵多我将少难以敌对、吕布",
+          "character": "刘备",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "你本是大义人后主大贵，\n放宽心在此间略展愁眉。"
+          "text": "他兵多我将少难以敌对"
+        },
+        {
+          "character": "吕布",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "你本是大义人后主大贵，"
+        },
+        {
+          "character": "吕布",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "放宽心在此间略展愁眉。"
         },
         {
           "character": "纪灵",
@@ -2203,7 +2695,17 @@
         "singing_ratio": 0.081,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.081,
+        0.1119,
+        0.8601,
+        0.028,
+        0.7958,
+        9,
+        0.0,
+        0.0
+      ]
     }
   ]
 }

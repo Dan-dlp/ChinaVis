@@ -164,7 +164,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "俺，姓王名勇，字伯党。奉了大王之命，追赶徐勣、魏征。赶到三岔路口，念\n在贾家楼前结拜，将他二人释放，不免回山朦胧启奏。\n众喽兵，回山去者。"
+          "text": "俺，姓王名勇，字伯党。奉了大王之命，追赶徐勣、魏征。赶到三岔路口，念"
+        },
+        {
+          "character": "王伯党",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "在贾家楼前结拜，将他二人释放，不免回山朦胧启奏。"
+        },
+        {
+          "character": "王伯党",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "众喽兵，回山去者。"
         },
         {
           "character": null,
@@ -183,7 +197,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.75,
+        0.25,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -226,7 +250,28 @@
           "line_type": "西皮快板",
           "musical_style": "西皮快板",
           "style_family": "西皮",
-          "text": "瓦岗寨上杀气飘，\n密密层层摆枪刀。\n闷在宫中乐逍遥。\n王贤弟回来问根苗。"
+          "text": "瓦岗寨上杀气飘，"
+        },
+        {
+          "character": "李密",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "密密层层摆枪刀。"
+        },
+        {
+          "character": "李密",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "闷在宫中乐逍遥。"
+        },
+        {
+          "character": "李密",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "王贤弟回来问根苗。"
         },
         {
           "character": null,
@@ -240,7 +285,14 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "来在瓦岗下虎豹，\n见了大王把令交。"
+          "text": "来在瓦岗下虎豹，"
+        },
+        {
+          "character": "王伯党",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "见了大王把令交。"
         },
         {
           "character": null,
@@ -289,7 +341,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "哪里是追赶不上，分明念在贾家楼前结拜，将他二人放走，回来蒙哄孤家，是\n与不是？"
+          "text": "哪里是追赶不上，分明念在贾家楼前结拜，将他二人放走，回来蒙哄孤家，是"
+        },
+        {
+          "character": "李密",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "与不是？"
         },
         {
           "character": "王伯党",
@@ -303,59 +362,444 @@
           "line_type": "西皮快三眼",
           "musical_style": "西皮快三眼",
           "style_family": "西皮",
-          "text": "大王说话太痴迷，\n细听伯党把话提：\n生死相交永不离。\n大反山东惹是非。"
+          "text": "大王说话太痴迷，"
+        },
+        {
+          "character": "王伯党",
+          "line_type": "西皮快三眼",
+          "musical_style": "西皮快三眼",
+          "style_family": "西皮",
+          "text": "细听伯党把话提："
+        },
+        {
+          "character": "王伯党",
+          "line_type": "西皮快三眼",
+          "musical_style": "西皮快三眼",
+          "style_family": "西皮",
+          "text": "生死相交永不离。"
+        },
+        {
+          "character": "王伯党",
+          "line_type": "西皮快三眼",
+          "musical_style": "西皮快三眼",
+          "style_family": "西皮",
+          "text": "大反山东惹是非。"
         },
         {
           "character": "王伯党",
           "line_type": "西皮快板",
           "musical_style": "西皮快板",
           "style_family": "西皮",
-          "text": "王勇单人把唐抵，\n秦琼匹马取金堤。\n三月三日拜帅旗。\n兵多将广人马齐。\n锦绣江山化灰泥。\n满山的喽罗似鹊飞。\n一个东来一个西。\n反说为臣把君欺。\n祸到临头悔不及。"
+          "text": "王勇单人把唐抵，"
         },
         {
-          "character": "三十六人曾结义、二劫皇杠把祸起、夜夺瓦岗非容易、程咬金有福登龙位、自从大王到此地、恨飞鼠盗去仓粮米、众家弟兄丧了队、只剩下王勇来保你、倘若哪国刀兵起、李密",
+          "character": "王伯党",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "秦琼匹马取金堤。"
+        },
+        {
+          "character": "王伯党",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "三月三日拜帅旗。"
+        },
+        {
+          "character": "王伯党",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "兵多将广人马齐。"
+        },
+        {
+          "character": "王伯党",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "锦绣江山化灰泥。"
+        },
+        {
+          "character": "王伯党",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "满山的喽罗似鹊飞。"
+        },
+        {
+          "character": "王伯党",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "一个东来一个西。"
+        },
+        {
+          "character": "王伯党",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "反说为臣把君欺。"
+        },
+        {
+          "character": "王伯党",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "祸到临头悔不及。"
+        },
+        {
+          "character": "王伯党",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "三十六人曾结义"
+        },
+        {
+          "character": "王伯党",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "二劫皇杠把祸起"
+        },
+        {
+          "character": "王伯党",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "夜夺瓦岗非容易"
+        },
+        {
+          "character": "王伯党",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "程咬金有福登龙位"
+        },
+        {
+          "character": "王伯党",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "自从大王到此地"
+        },
+        {
+          "character": "王伯党",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "恨飞鼠盗去仓粮米"
+        },
+        {
+          "character": "王伯党",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "众家弟兄丧了队"
+        },
+        {
+          "character": "王伯党",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "只剩下王勇来保你"
+        },
+        {
+          "character": "王伯党",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "倘若哪国刀兵起"
+        },
+        {
+          "character": "李密",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
           "text": "呀！"
         },
         {
-          "character": "三十六人曾结义、二劫皇杠把祸起、夜夺瓦岗非容易、程咬金有福登龙位、自从大王到此地、恨飞鼠盗去仓粮米、众家弟兄丧了队、只剩下王勇来保你、倘若哪国刀兵起、李密",
+          "character": "李密",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "三十六人曾结义"
+        },
+        {
+          "character": "李密",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "二劫皇杠把祸起"
+        },
+        {
+          "character": "李密",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "夜夺瓦岗非容易"
+        },
+        {
+          "character": "李密",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "程咬金有福登龙位"
+        },
+        {
+          "character": "李密",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "自从大王到此地"
+        },
+        {
+          "character": "李密",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "恨飞鼠盗去仓粮米"
+        },
+        {
+          "character": "李密",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "众家弟兄丧了队"
+        },
+        {
+          "character": "李密",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "只剩下王勇来保你"
+        },
+        {
+          "character": "李密",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "倘若哪国刀兵起"
+        },
+        {
+          "character": "李密",
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
           "text": "王贤弟说话倒有理。"
         },
         {
-          "character": "三十六人曾结义、二劫皇杠把祸起、夜夺瓦岗非容易、程咬金有福登龙位、自从大王到此地、恨飞鼠盗去仓粮米、众家弟兄丧了队、只剩下王勇来保你、倘若哪国刀兵起、李密",
+          "character": "李密",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "三十六人曾结义"
+        },
+        {
+          "character": "李密",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "二劫皇杠把祸起"
+        },
+        {
+          "character": "李密",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "夜夺瓦岗非容易"
+        },
+        {
+          "character": "李密",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "程咬金有福登龙位"
+        },
+        {
+          "character": "李密",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "自从大王到此地"
+        },
+        {
+          "character": "李密",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "恨飞鼠盗去仓粮米"
+        },
+        {
+          "character": "李密",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "众家弟兄丧了队"
+        },
+        {
+          "character": "李密",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "只剩下王勇来保你"
+        },
+        {
+          "character": "李密",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "倘若哪国刀兵起"
+        },
+        {
+          "character": "李密",
           "line_type": "西皮快板",
           "musical_style": "西皮快板",
           "style_family": "西皮",
-          "text": "问得孤王无话提。\n背转身来自猜疑：\n满山的喽罗人马齐。\n败阵的凤凰不如鸡。\n孤王的言来细听端的：\n莫做三心二意的。"
+          "text": "问得孤王无话提。"
         },
         {
-          "character": "李密忙离我的金交椅、孤王有道天心顺、我好比困龙遭虾戏、扭回头来叫贤弟、你本是堂堂奇男子、王伯党",
+          "character": "李密",
           "line_type": "西皮快板",
           "musical_style": "西皮快板",
           "style_family": "西皮",
-          "text": "说什么三心二意的，\n为臣怎敢把君欺。\n气化清风肉化泥。"
+          "text": "背转身来自猜疑："
         },
         {
-          "character": "我若保主有假意、李密",
+          "character": "李密",
           "line_type": "西皮快板",
           "musical_style": "西皮快板",
           "style_family": "西皮",
-          "text": "好一个忠良王贤弟，\n亚赛当年介子推。\n乱箭攒身死不回。"
+          "text": "满山的喽罗人马齐。"
         },
         {
-          "character": "我若保主有假意、李密",
+          "character": "李密",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "败阵的凤凰不如鸡。"
+        },
+        {
+          "character": "李密",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "孤王的言来细听端的："
+        },
+        {
+          "character": "李密",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "莫做三心二意的。"
+        },
+        {
+          "character": "李密",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "李密忙离我的金交椅"
+        },
+        {
+          "character": "李密",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "孤王有道天心顺"
+        },
+        {
+          "character": "李密",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "我好比困龙遭虾戏"
+        },
+        {
+          "character": "李密",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "扭回头来叫贤弟"
+        },
+        {
+          "character": "李密",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "你本是堂堂奇男子"
+        },
+        {
+          "character": "王伯党",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "说什么三心二意的，"
+        },
+        {
+          "character": "王伯党",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "为臣怎敢把君欺。"
+        },
+        {
+          "character": "王伯党",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "气化清风肉化泥。"
+        },
+        {
+          "character": "王伯党",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "我若保主有假意"
+        },
+        {
+          "character": "李密",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "好一个忠良王贤弟，"
+        },
+        {
+          "character": "李密",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "亚赛当年介子推。"
+        },
+        {
+          "character": "李密",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "乱箭攒身死不回。"
+        },
+        {
+          "character": "李密",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "我若保主有假意"
+        },
+        {
+          "character": "李密",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
           "text": "贤弟，瓦岗已散，究要重整瓦岗才是。"
         },
         {
-          "character": "孤王要把良心昧、王伯党",
+          "character": "李密",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "孤王要把良心昧"
+        },
+        {
+          "character": "王伯党",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -443,7 +887,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "遵命。\n下面听者：大王前去降唐，你等愿随就随，不愿随者，大家散去。"
+          "text": "遵命。"
+        },
+        {
+          "character": "王伯党",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "下面听者：大王前去降唐，你等愿随就随，不愿随者，大家散去。"
         },
         {
           "character": null,
@@ -478,28 +929,126 @@
           "line_type": "西皮原板",
           "musical_style": "西皮原板",
           "style_family": "西皮",
-          "text": "在头上取下了我的飞龙帽，\n在身上脱去了我的衮龙袍。\n锦绣江山化灰泥。\n舍不得瓦岗人马齐。\n虎落在平阳被犬欺。"
+          "text": "在头上取下了我的飞龙帽，"
         },
         {
-          "character": "勒住了马头用目觑、舍不得瓦岗风景地、此一去降唐好一比、王伯党",
-          "line_type": "西皮快板",
-          "musical_style": "西皮快板",
+          "character": "李密",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
           "style_family": "西皮",
-          "text": "大王不要暗着急，\n伯党言来听端的：\n哪个男儿不受欺？\n青史名标万古提。"
+          "text": "在身上脱去了我的衮龙袍。"
         },
         {
-          "character": "江山自有兴和废、改邪归正投唐去、李密",
-          "line_type": "西皮快板",
-          "musical_style": "西皮快板",
+          "character": "李密",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
           "style_family": "西皮",
-          "text": "怕只怕唐童把仇记，\n笼中之鸟怎能飞？"
+          "text": "锦绣江山化灰泥。"
+        },
+        {
+          "character": "李密",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "舍不得瓦岗人马齐。"
+        },
+        {
+          "character": "李密",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "虎落在平阳被犬欺。"
+        },
+        {
+          "character": "李密",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "勒住了马头用目觑"
+        },
+        {
+          "character": "李密",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "舍不得瓦岗风景地"
+        },
+        {
+          "character": "李密",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "此一去降唐好一比"
         },
         {
           "character": "王伯党",
           "line_type": "西皮快板",
           "musical_style": "西皮快板",
           "style_family": "西皮",
-          "text": "杀身大祸臣愿抵，\n愿保大王挂紫衣。"
+          "text": "大王不要暗着急，"
+        },
+        {
+          "character": "王伯党",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "伯党言来听端的："
+        },
+        {
+          "character": "王伯党",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "哪个男儿不受欺？"
+        },
+        {
+          "character": "王伯党",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "青史名标万古提。"
+        },
+        {
+          "character": "王伯党",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "江山自有兴和废"
+        },
+        {
+          "character": "王伯党",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "改邪归正投唐去"
+        },
+        {
+          "character": "李密",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "怕只怕唐童把仇记，"
+        },
+        {
+          "character": "李密",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "笼中之鸟怎能飞？"
+        },
+        {
+          "character": "王伯党",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "杀身大祸臣愿抵，"
+        },
+        {
+          "character": "王伯党",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "愿保大王挂紫衣。"
         },
         {
           "character": null,
@@ -533,7 +1082,17 @@
           "西皮快板",
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.258,
+        0.6757,
+        0.3243,
+        0.0,
+        0.2455,
+        2,
+        0.6757,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -556,7 +1115,21 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "少小英雄胆气豪，\n黄石略法吕望韬。\n替主阵前血染刀。"
+          "text": "少小英雄胆气豪，"
+        },
+        {
+          "character": "李世民",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "黄石略法吕望韬。"
+        },
+        {
+          "character": "李世民",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "替主阵前血染刀。"
         },
         {
           "character": "李世民",
@@ -570,10 +1143,38 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "小王李世民。可恨杨广无道，国乱民愁，且喜父王驾坐长安，倒也安然。几载\n干戈宁静，还有几路狼烟未灭，是小王放心不下，故尔在父王台前讨下旨意，\n统领人马，往银弓山兴围打猎，二来代访贤臣。\n内侍，人马可齐？"
+          "text": "小王李世民。可恨杨广无道，国乱民愁，且喜父王驾坐长安，倒也安然。几载"
         },
         {
-          "character": "为将名图垂千古、内侍",
+          "character": "李世民",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "干戈宁静，还有几路狼烟未灭，是小王放心不下，故尔在父王台前讨下旨意，"
+        },
+        {
+          "character": "李世民",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "统领人马，往银弓山兴围打猎，二来代访贤臣。"
+        },
+        {
+          "character": "李世民",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "内侍，人马可齐？"
+        },
+        {
+          "character": "李世民",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "为将名图垂千古"
+        },
+        {
+          "character": "内侍",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -629,7 +1230,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.2,
+        0.2308,
+        0.6923,
+        0.0769,
+        0.3333,
+        2,
+        0.2308,
+        0.0
+      ]
     },
     {
       "scene_index": 4,
@@ -654,10 +1265,52 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "刀枪剑戟似秋霜。\n强弓硬弩摆成行。\n字字行行闹嚷嚷。\n对准鸿雁撒上弦。"
+          "text": "刀枪剑戟似秋霜。"
         },
         {
-          "character": "五色旌旗空中荡、南边飞来一群雁、小王搭上珠红箭、内侍",
+          "character": "李世民",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "强弓硬弩摆成行。"
+        },
+        {
+          "character": "李世民",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "字字行行闹嚷嚷。"
+        },
+        {
+          "character": "李世民",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "对准鸿雁撒上弦。"
+        },
+        {
+          "character": "李世民",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "五色旌旗空中荡"
+        },
+        {
+          "character": "李世民",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "南边飞来一群雁"
+        },
+        {
+          "character": "李世民",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "小王搭上珠红箭"
+        },
+        {
+          "character": "内侍",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -688,7 +1341,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.5,
+        0.875,
+        0.125,
+        0.0,
+        0.1429,
+        2,
+        0.875,
+        0.0
+      ]
     },
     {
       "scene_index": 5,
@@ -787,7 +1450,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "待孤看来：“西府秦王百发百中”。贤弟，你我拿了这只箭雁，去到前村，沽\n饮一回。"
+          "text": "待孤看来：“西府秦王百发百中”。贤弟，你我拿了这只箭雁，去到前村，沽"
+        },
+        {
+          "character": "李密",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "饮一回。"
         },
         {
           "character": "王伯党",
@@ -896,7 +1566,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.429,
+        0.4348,
+        0.5652,
+        0.0,
+        0.8636,
+        2,
+        0.4348,
+        0.0
+      ]
     },
     {
       "scene_index": 6,
@@ -933,10 +1613,52 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "刀枪剑戟似秋霜。\n强弓硬弩摆成行。\n字字行行闹嚷嚷。\n对准鸿雁撒上弦。"
+          "text": "刀枪剑戟似秋霜。"
         },
         {
-          "character": "五色旌旗空中荡、南边飞来一群雁、小王搭上珠红箭、内侍",
+          "character": "李世民",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "强弓硬弩摆成行。"
+        },
+        {
+          "character": "李世民",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "字字行行闹嚷嚷。"
+        },
+        {
+          "character": "李世民",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "对准鸿雁撒上弦。"
+        },
+        {
+          "character": "李世民",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "五色旌旗空中荡"
+        },
+        {
+          "character": "李世民",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "南边飞来一群雁"
+        },
+        {
+          "character": "李世民",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "小王搭上珠红箭"
+        },
+        {
+          "character": "内侍",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -1045,7 +1767,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "待孤看来：“西府秦王百发百中”。贤弟，你我拿了这只箭雁，去到前村，沽\n饮一回。"
+          "text": "待孤看来：“西府秦王百发百中”。贤弟，你我拿了这只箭雁，去到前村，沽"
+        },
+        {
+          "character": "李密",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "饮一回。"
         },
         {
           "character": "王伯党",
@@ -1143,7 +1872,21 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "此雁中了雕翎箭，\n百发百中不虚传。\n不知箭雁落哪边。"
+          "text": "此雁中了雕翎箭，"
+        },
+        {
+          "character": "李世民",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "百发百中不虚传。"
+        },
+        {
+          "character": "李世民",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "不知箭雁落哪边。"
         },
         {
           "character": null,
@@ -1297,21 +2040,56 @@
           "line_type": "西皮快板",
           "musical_style": "西皮快板",
           "style_family": "西皮",
-          "text": "皇兄不必细叮咛，\n小王非是等闲人。\n我与他皇兄御弟称。"
+          "text": "皇兄不必细叮咛，"
         },
         {
-          "character": "只要真心来归顺、王伯党",
+          "character": "李世民",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "小王非是等闲人。"
+        },
+        {
+          "character": "李世民",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "我与他皇兄御弟称。"
+        },
+        {
+          "character": "李世民",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "只要真心来归顺"
+        },
+        {
+          "character": "王伯党",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
           "text": "谢千岁。"
         },
         {
-          "character": "只要真心来归顺、王伯党",
+          "character": "王伯党",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "只要真心来归顺"
+        },
+        {
+          "character": "王伯党",
           "line_type": "西皮快板",
           "musical_style": "西皮快板",
           "style_family": "西皮",
-          "text": "好一个仁义二主君，\n必定不差半毫分。"
+          "text": "好一个仁义二主君，"
+        },
+        {
+          "character": "王伯党",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "必定不差半毫分。"
         },
         {
           "character": null,
@@ -1388,7 +2166,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "嗳，他乃一国的王子，想孤在瓦岗寨上，也是一国的王子，叫我与他下上全礼，\n那是万万不能。"
+          "text": "嗳，他乃一国的王子，想孤在瓦岗寨上，也是一国的王子，叫我与他下上全礼，"
+        },
+        {
+          "character": "李密",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "那是万万不能。"
         },
         {
           "character": "王伯党",
@@ -1416,35 +2201,224 @@
           "line_type": "西皮快板",
           "musical_style": "西皮快板",
           "style_family": "西皮",
-          "text": "说什么瓦岗你为君，\n说什么低头不拜人。\n我保你头戴乌纱入朝门。"
+          "text": "说什么瓦岗你为君，"
         },
         {
-          "character": "上前去施一个君臣礼、李密",
-          "line_type": "西皮二六板",
-          "musical_style": "西皮二六板",
-          "style_family": "西皮",
-          "text": "李密闻言心不准，\n背转身来自思忖。\n称孤道寡亚赛个朝庭。\n反得要屈膝跪他人。"
-        },
-        {
-          "character": "上前去施一个君臣礼、李密",
+          "character": "王伯党",
           "line_type": "西皮快板",
           "musical_style": "西皮快板",
           "style_family": "西皮",
-          "text": "风不顺，\n时衰运败鬼弄人。\n慢慢再定巧计生。\n孤王言来细听分明：\n我跪他一席待怎生。\n有罪的李密我来叩见圣明君。"
+          "text": "说什么低头不拜人。"
         },
         {
-          "character": "想孤在瓦岗多侥幸、到如今孤王来归顺、这才是船到江心、罢罢罢，暂忍我的心头恨、扭回头我对贤弟论、自要那唐童不记南牢旧仇恨、王贤弟与孤把路引、李世民",
+          "character": "王伯党",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "我保你头戴乌纱入朝门。"
+        },
+        {
+          "character": "王伯党",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "上前去施一个君臣礼"
+        },
+        {
+          "character": "李密",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "李密闻言心不准，"
+        },
+        {
+          "character": "李密",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "背转身来自思忖。"
+        },
+        {
+          "character": "李密",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "称孤道寡亚赛个朝庭。"
+        },
+        {
+          "character": "李密",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "反得要屈膝跪他人。"
+        },
+        {
+          "character": "李密",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "上前去施一个君臣礼"
+        },
+        {
+          "character": "李密",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "风不顺，"
+        },
+        {
+          "character": "李密",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "时衰运败鬼弄人。"
+        },
+        {
+          "character": "李密",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "慢慢再定巧计生。"
+        },
+        {
+          "character": "李密",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "孤王言来细听分明："
+        },
+        {
+          "character": "李密",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "我跪他一席待怎生。"
+        },
+        {
+          "character": "李密",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "有罪的李密我来叩见圣明君。"
+        },
+        {
+          "character": "李密",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "想孤在瓦岗多侥幸"
+        },
+        {
+          "character": "李密",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "到如今孤王来归顺"
+        },
+        {
+          "character": "李密",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "这才是船到江心"
+        },
+        {
+          "character": "李密",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "罢罢罢，暂忍我的心头恨"
+        },
+        {
+          "character": "李密",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "扭回头我对贤弟论"
+        },
+        {
+          "character": "李密",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "自要那唐童不记南牢旧仇恨"
+        },
+        {
+          "character": "李密",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "王贤弟与孤把路引"
+        },
+        {
+          "character": "李世民",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
           "text": "将军吓！"
         },
         {
-          "character": "想孤在瓦岗多侥幸、到如今孤王来归顺、这才是船到江心、罢罢罢，暂忍我的心头恨、扭回头我对贤弟论、自要那唐童不记南牢旧仇恨、王贤弟与孤把路引、李世民",
+          "character": "李世民",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "想孤在瓦岗多侥幸"
+        },
+        {
+          "character": "李世民",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "到如今孤王来归顺"
+        },
+        {
+          "character": "李世民",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "这才是船到江心"
+        },
+        {
+          "character": "李世民",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "罢罢罢，暂忍我的心头恨"
+        },
+        {
+          "character": "李世民",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "扭回头我对贤弟论"
+        },
+        {
+          "character": "李世民",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "自要那唐童不记南牢旧仇恨"
+        },
+        {
+          "character": "李世民",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "王贤弟与孤把路引"
+        },
+        {
+          "character": "李世民",
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "西魏王不必礼恭敬，\n依礼而代入朝门。"
+          "text": "西魏王不必礼恭敬，"
+        },
+        {
+          "character": "李世民",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "依礼而代入朝门。"
         },
         {
           "character": "李密",
@@ -1543,7 +2517,17 @@
           "西皮快板",
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.146,
+        0.4783,
+        0.5217,
+        0.0,
+        0.5351,
+        4,
+        0.4783,
+        0.0
+      ]
     },
     {
       "scene_index": 7,
@@ -1583,7 +2567,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "寡人，神尧高祖李渊，国号武德在位。自太原起圣，受命于天，龙飞凤舞。目\n今天下升平，所有一十八路反王，年年进贡，岁岁来朝。正是："
+          "text": "寡人，神尧高祖李渊，国号武德在位。自太原起圣，受命于天，龙飞凤舞。目"
+        },
+        {
+          "character": "李渊",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "今天下升平，所有一十八路反王，年年进贡，岁岁来朝。正是："
         },
         {
           "character": "李渊",
@@ -1604,7 +2595,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "领旨。\n万岁有旨：开放龙门。"
+          "text": "领旨。"
+        },
+        {
+          "character": "太监",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "万岁有旨：开放龙门。"
         },
         {
           "character": "内侍",
@@ -1709,7 +2707,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "唔，那李密瓦岗贼寇，从前将皇兄囚禁南牢，孤皇正要兴兵拿他问罪，他今日\n自投罗网，为何不将他正法？"
+          "text": "唔，那李密瓦岗贼寇，从前将皇兄囚禁南牢，孤皇正要兴兵拿他问罪，他今日"
+        },
+        {
+          "character": "李渊",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "自投罗网，为何不将他正法？"
         },
         {
           "character": "李世民",
@@ -1990,7 +2995,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0208,
+        0.8333,
+        0.1458,
+        0.766,
+        7,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 8,
@@ -2569,7 +3584,17 @@
           "西皮快板",
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.132,
+        0.2576,
+        0.7424,
+        0.0,
+        0.7385,
+        5,
+        0.2576,
+        0.0
+      ]
     },
     {
       "scene_index": 9,
@@ -2661,7 +3686,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "唔，那李密瓦岗贼寇，从前将皇兄囚禁南牢，孤皇正要兴兵拿他问罪，他今日\n自投罗网，为何不将他正法？"
+          "text": "唔，那李密瓦岗贼寇，从前将皇兄囚禁南牢，孤皇正要兴兵拿他问罪，他今日"
+        },
+        {
+          "character": "李渊",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "自投罗网，为何不将他正法？"
         },
         {
           "character": "李世民",
@@ -2751,7 +3783,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.9412,
+        0.0588,
+        0.875,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 10,
@@ -2850,7 +3892,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "待孤看来：“西府秦王百发百中”。贤弟，你我拿了这只箭雁，去到前村，沽\n饮一回。"
+          "text": "待孤看来：“西府秦王百发百中”。贤弟，你我拿了这只箭雁，去到前村，沽"
+        },
+        {
+          "character": "李密",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "饮一回。"
         },
         {
           "character": "王伯党",
@@ -2961,7 +4010,17 @@
           "西皮摇板",
           "西皮散板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.708,
+        0.4348,
+        0.5652,
+        0.0,
+        0.8636,
+        2,
+        0.4348,
+        0.0
+      ]
     },
     {
       "scene_index": 11,
@@ -2984,7 +4043,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 12,
@@ -3092,7 +4161,17 @@
           "西皮快板",
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.667,
+        0.7143,
+        0.2857,
+        0.0,
+        0.8333,
+        3,
+        0.7143,
+        0.0
+      ]
     },
     {
       "scene_index": 13,
@@ -3154,7 +4233,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        1.0,
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        2,
+        1.0,
+        0.0
+      ]
     },
     {
       "scene_index": 14,
@@ -3275,7 +4364,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.8333,
+        4,
+        0.0,
+        0.0
+      ]
     }
   ]
 }

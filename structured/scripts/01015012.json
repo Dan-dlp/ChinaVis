@@ -235,7 +235,21 @@
           "line_type": "二黄摇板",
           "musical_style": "二黄摇板",
           "style_family": "二黄",
-          "text": "汤勤说话口似铁，\n舌尖杀人哪见血。\n二次再搜一捧雪。"
+          "text": "汤勤说话口似铁，"
+        },
+        {
+          "character": "严嵩",
+          "line_type": "二黄摇板",
+          "musical_style": "二黄摇板",
+          "style_family": "二黄",
+          "text": "舌尖杀人哪见血。"
+        },
+        {
+          "character": "严嵩",
+          "line_type": "二黄摇板",
+          "musical_style": "二黄摇板",
+          "style_family": "二黄",
+          "text": "二次再搜一捧雪。"
         },
         {
           "character": null,
@@ -265,7 +279,17 @@
         "musical_styles": [
           "二黄摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.2,
+        0.8,
+        0.0,
+        0.7857,
+        2,
+        0.0,
+        0.2
+      ]
     },
     {
       "scene_index": 2,
@@ -290,7 +314,14 @@
           "line_type": "二黄摇板",
           "musical_style": "二黄摇板",
           "style_family": "二黄",
-          "text": "乌鸦不住连天叫，\n眼跳心惊为哪条？"
+          "text": "乌鸦不住连天叫，"
+        },
+        {
+          "character": "莫怀古",
+          "line_type": "二黄摇板",
+          "musical_style": "二黄摇板",
+          "style_family": "二黄",
+          "text": "眼跳心惊为哪条？"
         },
         {
           "character": null,
@@ -381,7 +412,21 @@
           "line_type": "二黄摇板",
           "musical_style": "二黄摇板",
           "style_family": "二黄",
-          "text": "听一言来怒气生，\n骂声怀古太欺情。\n保你太常寺正卿。"
+          "text": "听一言来怒气生，"
+        },
+        {
+          "character": "严嵩",
+          "line_type": "二黄摇板",
+          "musical_style": "二黄摇板",
+          "style_family": "二黄",
+          "text": "骂声怀古太欺情。"
+        },
+        {
+          "character": "严嵩",
+          "line_type": "二黄摇板",
+          "musical_style": "二黄摇板",
+          "style_family": "二黄",
+          "text": "保你太常寺正卿。"
         },
         {
           "character": null,
@@ -409,7 +454,21 @@
           "line_type": "二黄摇板",
           "musical_style": "二黄摇板",
           "style_family": "二黄",
-          "text": "搜杯不出面带红，\n我今竟伤旧宾朋。\n三日后定要灭尔满门。"
+          "text": "搜杯不出面带红，"
+        },
+        {
+          "character": "严嵩",
+          "line_type": "二黄摇板",
+          "musical_style": "二黄摇板",
+          "style_family": "二黄",
+          "text": "我今竟伤旧宾朋。"
+        },
+        {
+          "character": "严嵩",
+          "line_type": "二黄摇板",
+          "musical_style": "二黄摇板",
+          "style_family": "二黄",
+          "text": "三日后定要灭尔满门。"
         },
         {
           "character": null,
@@ -451,7 +510,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "适才严爷过府，你这个奴才往哪里去了？\n夫人不要阻拦，待我打这个奴才。"
+          "text": "适才严爷过府，你这个奴才往哪里去了？"
+        },
+        {
+          "character": "莫怀古",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "夫人不要阻拦，待我打这个奴才。"
         },
         {
           "character": "雪艳",
@@ -465,21 +531,63 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "小人见严爷下轿，脸上气色不正。小人就知道是为那一捧雪而来。是小人去至\n上房，扭开箱锁，将一捧雪带在身旁，打从前门而逃，有严府校尉拦阻，只得\n打从后门而逃，又有兵丁把守。小人性急无奈，只得打从犬洞而逃。在高坡瞭\n望，见严爷上轿，小人才得回来。进得府门，老爷不问青红皂白开口就骂举手\n就打，也不知为了何事呀？"
+          "text": "小人见严爷下轿，脸上气色不正。小人就知道是为那一捧雪而来。是小人去至"
+        },
+        {
+          "character": "莫成",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "上房，扭开箱锁，将一捧雪带在身旁，打从前门而逃，有严府校尉拦阻，只得"
+        },
+        {
+          "character": "莫成",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "打从后门而逃，又有兵丁把守。小人性急无奈，只得打从犬洞而逃。在高坡瞭"
+        },
+        {
+          "character": "莫成",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "望，见严爷上轿，小人才得回来。进得府门，老爷不问青红皂白开口就骂举手"
+        },
+        {
+          "character": "莫成",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "就打，也不知为了何事呀？"
         },
         {
           "character": "莫怀古",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "胆大奴才，尚敢巧辩。\n夫人不要拦阻，待我打这个奴才。"
+          "text": "胆大奴才，尚敢巧辩。"
+        },
+        {
+          "character": "莫怀古",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "夫人不要拦阻，待我打这个奴才。"
         },
         {
           "character": "雪艳",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "老爷息怒。\n掌家，你可知老爷打你何事？"
+          "text": "老爷息怒。"
+        },
+        {
+          "character": "雪艳",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "掌家，你可知老爷打你何事？"
         },
         {
           "character": "莫怀古",
@@ -507,7 +615,14 @@
           "line_type": "二黄摇板",
           "musical_style": "二黄摇板",
           "style_family": "二黄",
-          "text": "一见玉杯喜吟吟，\n办事还是小莫成。"
+          "text": "一见玉杯喜吟吟，"
+        },
+        {
+          "character": "莫怀古",
+          "line_type": "二黄摇板",
+          "musical_style": "二黄摇板",
+          "style_family": "二黄",
+          "text": "办事还是小莫成。"
         },
         {
           "character": "莫怀古",
@@ -549,14 +664,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "老爷呀，他言道三日后灭尔的满门，难道灭小人的满门不成，自然是要灭老爷\n的满门呐。"
+          "text": "老爷呀，他言道三日后灭尔的满门，难道灭小人的满门不成，自然是要灭老爷"
+        },
+        {
+          "character": "莫成",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "的满门呐。"
         },
         {
           "character": "莫怀古",
           "line_type": "二黄摇板",
           "musical_style": "二黄摇板",
           "style_family": "二黄",
-          "text": "听一言来心内惊，\n倒叫怀古无计行。"
+          "text": "听一言来心内惊，"
+        },
+        {
+          "character": "莫怀古",
+          "line_type": "二黄摇板",
+          "musical_style": "二黄摇板",
+          "style_family": "二黄",
+          "text": "倒叫怀古无计行。"
         },
         {
           "character": "莫怀古",
@@ -661,7 +790,17 @@
         "musical_styles": [
           "二黄摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.083,
+        0.2182,
+        0.7818,
+        0.0,
+        0.6296,
+        5,
+        0.0,
+        0.2182
+      ]
     },
     {
       "scene_index": 3,
@@ -912,7 +1051,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.9565,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 4,
@@ -979,7 +1128,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "松林之内现有二人，待我冒叫一声。\n唉，莫怀古！"
+          "text": "松林之内现有二人，待我冒叫一声。"
+        },
+        {
+          "character": "差官乙",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "唉，莫怀古！"
         },
         {
           "character": "雪艳",
@@ -1037,7 +1193,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.875,
+        5,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 5,
@@ -1060,7 +1226,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 6,
@@ -1183,7 +1359,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "在这头门以里，二门以外，你等看守，等到五鼓天明，你等看着绑，看着斩，\n斩头之后，装入木桶，一同解入京都，交到严府消差。"
+          "text": "在这头门以里，二门以外，你等看守，等到五鼓天明，你等看着绑，看着斩，"
+        },
+        {
+          "character": "戚继光",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "斩头之后，装入木桶，一同解入京都，交到严府消差。"
         },
         {
           "character": "二差官",
@@ -1218,14 +1401,35 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "且住，想我那莫年兄，不知何事得罪严府，他有一家人莫成，颇能办事，不知\n哪里去了？\n来，掌灯出衙。"
+          "text": "且住，想我那莫年兄，不知何事得罪严府，他有一家人莫成，颇能办事，不知"
+        },
+        {
+          "character": "戚继光",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "哪里去了？"
+        },
+        {
+          "character": "戚继光",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来，掌灯出衙。"
         },
         {
           "character": "戚继光",
           "line_type": "二黄摇板",
           "musical_style": "二黄摇板",
           "style_family": "二黄",
-          "text": "叫人来掌灯出衙厅，\n大街寻找小莫成。"
+          "text": "叫人来掌灯出衙厅，"
+        },
+        {
+          "character": "戚继光",
+          "line_type": "二黄摇板",
+          "musical_style": "二黄摇板",
+          "style_family": "二黄",
+          "text": "大街寻找小莫成。"
         },
         {
           "character": null,
@@ -1280,7 +1484,17 @@
         "musical_styles": [
           "二黄摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.087,
+        0.913,
+        0.0,
+        0.7727,
+        5,
+        0.0,
+        0.087
+      ]
     },
     {
       "scene_index": 7,
@@ -1310,7 +1524,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "我，更夫便是。只因此处拿了犯官莫怀古，五鼓天明，就要问斩。今晚上要小\n心一二。"
+          "text": "我，更夫便是。只因此处拿了犯官莫怀古，五鼓天明，就要问斩。今晚上要小"
+        },
+        {
+          "character": "更夫",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "心一二。"
         },
         {
           "character": null,
@@ -1443,7 +1664,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "好，就走。\n到啦，到啦。进门，进门。\n嘿，这是什么呀？"
+          "text": "好，就走。"
+        },
+        {
+          "character": "更夫",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "到啦，到啦。进门，进门。"
+        },
+        {
+          "character": "更夫",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "嘿，这是什么呀？"
         },
         {
           "character": "莫成",
@@ -1471,7 +1706,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "好你玩我吧，来来来，这有一面锣，你替我打几下，你听街上打多少，你就打\n多少，我稍微歇歇。"
+          "text": "好你玩我吧，来来来，这有一面锣，你替我打几下，你听街上打多少，你就打"
+        },
+        {
+          "character": "更夫",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "多少，我稍微歇歇。"
         },
         {
           "character": "莫成",
@@ -1585,7 +1827,17 @@
         "musical_styles": [
           "二黄摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.077,
+        0.1176,
+        0.8529,
+        0.0294,
+        0.8182,
+        3,
+        0.0,
+        0.0588
+      ]
     },
     {
       "scene_index": 8,
@@ -1627,7 +1879,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "正要叫你一见。\n来，旗牌，去至监中，请莫大老爷前来。休要惊动严府之人。"
+          "text": "正要叫你一见。"
+        },
+        {
+          "character": "戚继光",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来，旗牌，去至监中，请莫大老爷前来。休要惊动严府之人。"
         },
         {
           "character": "旗牌",
@@ -1669,10 +1928,31 @@
           "line_type": "二黄摇板",
           "musical_style": "二黄摇板",
           "style_family": "二黄",
-          "text": "尊声夫人莫高声，\n休要惊动了严府人。\n披枷带锁为何情？"
+          "text": "尊声夫人莫高声，"
         },
         {
-          "character": "悲切切且把二堂进、戚继光",
+          "character": "莫怀古",
+          "line_type": "二黄摇板",
+          "musical_style": "二黄摇板",
+          "style_family": "二黄",
+          "text": "休要惊动了严府人。"
+        },
+        {
+          "character": "莫怀古",
+          "line_type": "二黄摇板",
+          "musical_style": "二黄摇板",
+          "style_family": "二黄",
+          "text": "披枷带锁为何情？"
+        },
+        {
+          "character": "莫怀古",
+          "line_type": "二黄摇板",
+          "musical_style": "二黄摇板",
+          "style_family": "二黄",
+          "text": "悲切切且把二堂进"
+        },
+        {
+          "character": "戚继光",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -1753,7 +2033,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "“太子少保兵部左侍郎严为，照行阃外事岑阴犯官莫怀古，私带皇家国宝，弃\n官逃走，仰沿途各府州县，一体拿获”……"
+          "text": "“太子少保兵部左侍郎严为，照行阃外事岑阴犯官莫怀古，私带皇家国宝，弃"
+        },
+        {
+          "character": "莫怀古",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "官逃走，仰沿途各府州县，一体拿获”……"
         },
         {
           "character": null,
@@ -1823,10 +2110,31 @@
           "line_type": "二黄摇板",
           "musical_style": "二黄摇板",
           "style_family": "二黄",
-          "text": "一见公文心内惊，\n吓得我三魂去二魂。\n贤弟搭救命残生。"
+          "text": "一见公文心内惊，"
         },
         {
-          "character": "走向前来忙跪定、戚继光",
+          "character": "莫怀古",
+          "line_type": "二黄摇板",
+          "musical_style": "二黄摇板",
+          "style_family": "二黄",
+          "text": "吓得我三魂去二魂。"
+        },
+        {
+          "character": "莫怀古",
+          "line_type": "二黄摇板",
+          "musical_style": "二黄摇板",
+          "style_family": "二黄",
+          "text": "贤弟搭救命残生。"
+        },
+        {
+          "character": "莫怀古",
+          "line_type": "二黄摇板",
+          "musical_style": "二黄摇板",
+          "style_family": "二黄",
+          "text": "走向前来忙跪定"
+        },
+        {
+          "character": "戚继光",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -1844,7 +2152,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "走得的。好，走呀。\n走不得，走不得。想我家老爷弃官逃走，遭此杀身之祸，大人又要逃走，如何\n使得？走不得，走不得！"
+          "text": "走得的。好，走呀。"
+        },
+        {
+          "character": "莫成",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "走不得，走不得。想我家老爷弃官逃走，遭此杀身之祸，大人又要逃走，如何"
+        },
+        {
+          "character": "莫成",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "使得？走不得，走不得！"
         },
         {
           "character": "戚继光",
@@ -1858,7 +2180,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "反得的。好，反。\n反不得，反不得。"
+          "text": "反得的。好，反。"
+        },
+        {
+          "character": "莫成",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "反不得，反不得。"
         },
         {
           "character": "戚继光",
@@ -1886,24 +2215,59 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "着哇，三百家丁，五百守城兵，荒乱年间，还可抵挡一阵，这太平年间，慢说\n是交锋打仗，就是垫马蹄，也是不够，反不得，反不得。"
+          "text": "着哇，三百家丁，五百守城兵，荒乱年间，还可抵挡一阵，这太平年间，慢说"
+        },
+        {
+          "character": "莫成",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "是交锋打仗，就是垫马蹄，也是不够，反不得，反不得。"
         },
         {
           "character": "戚继光",
           "line_type": "二黄摇板",
           "musical_style": "二黄摇板",
           "style_family": "二黄",
-          "text": "叫你反来你不反，\n叫你行来你不行。\n我坐法场你受刑。"
+          "text": "叫你反来你不反，"
         },
         {
-          "character": "待等五更天明亮、莫成",
+          "character": "戚继光",
+          "line_type": "二黄摇板",
+          "musical_style": "二黄摇板",
+          "style_family": "二黄",
+          "text": "叫你行来你不行。"
+        },
+        {
+          "character": "戚继光",
+          "line_type": "二黄摇板",
+          "musical_style": "二黄摇板",
+          "style_family": "二黄",
+          "text": "我坐法场你受刑。"
+        },
+        {
+          "character": "戚继光",
+          "line_type": "二黄摇板",
+          "musical_style": "二黄摇板",
+          "style_family": "二黄",
+          "text": "待等五更天明亮"
+        },
+        {
+          "character": "莫成",
           "line_type": "三叫头",
           "musical_style": null,
           "style_family": null,
           "text": "大人！老爷！夫人呀！"
         },
         {
-          "character": "待等五更天明亮、莫成",
+          "character": "莫成",
+          "line_type": "三叫头",
+          "musical_style": null,
+          "style_family": null,
+          "text": "待等五更天明亮"
+        },
+        {
+          "character": "莫成",
           "line_type": "二黄导板",
           "musical_style": "二黄导板",
           "style_family": "二黄",
@@ -1921,21 +2285,98 @@
           "line_type": "二黄原板",
           "musical_style": "二黄原板",
           "style_family": "二黄",
-          "text": "这一旁哭坏了薛氏夫人。\n戚大人八抬官救不得家主爷性命，家主爷性命，老爷呀！\n活活难坏了小莫成。"
+          "text": "这一旁哭坏了薛氏夫人。"
+        },
+        {
+          "character": "莫怀古",
+          "line_type": "二黄原板",
+          "musical_style": "二黄原板",
+          "style_family": "二黄",
+          "text": "戚大人八抬官救不得家主爷性命，家主爷性命，老爷呀！"
+        },
+        {
+          "character": "莫怀古",
+          "line_type": "二黄原板",
+          "musical_style": "二黄原板",
+          "style_family": "二黄",
+          "text": "活活难坏了小莫成。"
         },
         {
           "character": "莫怀古",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "我正这里踌躇，倒想起一件心事来了。是我跟随我家老爷进京之时，大夫人手\n捧一斗酒，言道：莫成呐，莫掌家，今日跟随你家老爷进京必须要小心服侍，\n就是我母子，也是感激不尽。自从到京之后，有一日与我家老爷拜客回来，路\n遇海岱门前，有一相士先生，与我老爷看了一相，然后又与我觑一觑，他言道：\n莫大哥，你好贵相，可惜你有你家主人之相，无有你家主人之贵，到后来你\n家主人终身大事还要应在你一人身上。他却说得无心，我却听得有意。此言，\n就应在这蓟州堂上。想我家老爷，今日遭此大祸，难道叫我坐山看虎斗，隔水\n看流舟不成？想我为奴仆之人，终无出头之日，今日不如替我家老爷一死，虽\n不能万古名标，也落个流芳百世，这就是这个主意。我就是这个主意呀！"
+          "text": "我正这里踌躇，倒想起一件心事来了。是我跟随我家老爷进京之时，大夫人手"
+        },
+        {
+          "character": "莫怀古",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "捧一斗酒，言道：莫成呐，莫掌家，今日跟随你家老爷进京必须要小心服侍，"
+        },
+        {
+          "character": "莫怀古",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "就是我母子，也是感激不尽。自从到京之后，有一日与我家老爷拜客回来，路"
+        },
+        {
+          "character": "莫怀古",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "遇海岱门前，有一相士先生，与我老爷看了一相，然后又与我觑一觑，他言道："
+        },
+        {
+          "character": "莫怀古",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "莫大哥，你好贵相，可惜你有你家主人之相，无有你家主人之贵，到后来你"
+        },
+        {
+          "character": "莫怀古",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "家主人终身大事还要应在你一人身上。他却说得无心，我却听得有意。此言，"
+        },
+        {
+          "character": "莫怀古",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "就应在这蓟州堂上。想我家老爷，今日遭此大祸，难道叫我坐山看虎斗，隔水"
+        },
+        {
+          "character": "莫怀古",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "看流舟不成？想我为奴仆之人，终无出头之日，今日不如替我家老爷一死，虽"
+        },
+        {
+          "character": "莫怀古",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "不能万古名标，也落个流芳百世，这就是这个主意。我就是这个主意呀！"
         },
         {
           "character": "莫怀古",
           "line_type": "二黄摇板",
           "musical_style": "二黄摇板",
           "style_family": "二黄",
-          "text": "走向前来双膝跪，\n我家老爷有救星。"
+          "text": "走向前来双膝跪，"
+        },
+        {
+          "character": "莫怀古",
+          "line_type": "二黄摇板",
+          "musical_style": "二黄摇板",
+          "style_family": "二黄",
+          "text": "我家老爷有救星。"
         },
         {
           "character": "戚继光",
@@ -2021,7 +2462,17 @@
           "二黄导板",
           "二黄摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.088,
+        0.2838,
+        0.7162,
+        0.0,
+        0.5616,
+        6,
+        0.0,
+        0.2432
+      ]
     }
   ]
 }

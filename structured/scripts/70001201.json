@@ -242,7 +242,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.286,
+        0.2857,
+        0.5714,
+        0.1429,
+        1.0,
+        2,
+        0.2857,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -271,21 +281,49 @@
           "line_type": "西皮快板",
           "musical_style": "西皮快板",
           "style_family": "西皮",
-          "text": "滚滚江水翻浪花。\n父女打鱼度生涯。"
+          "text": "滚滚江水翻浪花。"
         },
         {
-          "character": "贫穷人家无冬夏、萧恩",
+          "character": "萧桂英",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "父女打鱼度生涯。"
+        },
+        {
+          "character": "萧桂英",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "贫穷人家无冬夏"
+        },
+        {
+          "character": "萧恩",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
           "text": "儿啊！"
         },
         {
-          "character": "贫穷人家无冬夏、萧恩",
+          "character": "萧恩",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "贫穷人家无冬夏"
+        },
+        {
+          "character": "萧恩",
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "父女打鱼在江下，\n贫穷哪怕人笑咱！"
+          "text": "父女打鱼在江下，"
+        },
+        {
+          "character": "萧恩",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "贫穷哪怕人笑咱！"
         },
         {
           "character": null,
@@ -432,7 +470,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "哦，岸上有人唤我，是哪一个？\n哦，李贤弟。"
+          "text": "哦，岸上有人唤我，是哪一个？"
+        },
+        {
+          "character": "萧恩",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "哦，李贤弟。"
         },
         {
           "character": "李俊",
@@ -488,14 +533,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "倪荣……\n久仰久仰。"
+          "text": "倪荣……"
+        },
+        {
+          "character": "萧恩",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "久仰久仰。"
         },
         {
           "character": "倪荣",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "我试试他膂力如何？\n萧兄，这厢有礼了。"
+          "text": "我试试他膂力如何？"
+        },
+        {
+          "character": "倪荣",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "萧兄，这厢有礼了。"
         },
         {
           "character": null,
@@ -544,14 +603,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "夸奖了。\n儿啊，出舱见过二位叔父。"
+          "text": "夸奖了。"
+        },
+        {
+          "character": "萧恩",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "儿啊，出舱见过二位叔父。"
         },
         {
           "character": "萧桂英",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "是。\n二位叔父万福！"
+          "text": "是。"
+        },
+        {
+          "character": "萧桂英",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "二位叔父万福！"
         },
         {
           "character": "倪荣",
@@ -656,7 +729,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "自己弟兄，何出此言。\n儿啊，将酒菜取来！"
+          "text": "自己弟兄，何出此言。"
+        },
+        {
+          "character": "萧恩",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "儿啊，将酒菜取来！"
         },
         {
           "character": "萧桂英",
@@ -677,7 +757,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "二位贤弟，愚兄做的河下的生意，忌的是“干旱”二字，有人提起“干旱”二\n字，不敢说罚，愚兄要敬酒三杯。"
+          "text": "二位贤弟，愚兄做的河下的生意，忌的是“干旱”二字，有人提起“干旱”二"
+        },
+        {
+          "character": "萧恩",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "字，不敢说罚，愚兄要敬酒三杯。"
         },
         {
           "character": "李俊",
@@ -733,7 +820,14 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "来在江边用目洒，\n船上坐着一枝花。"
+          "text": "来在江边用目洒，"
+        },
+        {
+          "character": "葛先生",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "船上坐着一枝花。"
         },
         {
           "character": "葛先生",
@@ -908,7 +1002,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "哪只是萧恩的船？\n萧恩哪，萧恩！"
+          "text": "哪只是萧恩的船？"
+        },
+        {
+          "character": "丁郎",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "萧恩哪，萧恩！"
         },
         {
           "character": "李俊",
@@ -1083,7 +1184,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "呵！出来挡狠儿的啦。\n回来啦，你有什么话说？"
+          "text": "呵！出来挡狠儿的啦。"
+        },
+        {
+          "character": "丁郎",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "回来啦，你有什么话说？"
         },
         {
           "character": "李俊",
@@ -1237,7 +1345,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "呵，这个嗓门更大。\n回来啦，有什么事？"
+          "text": "呵，这个嗓门更大。"
+        },
+        {
+          "character": "丁郎",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "回来啦，有什么事？"
         },
         {
           "character": "倪荣",
@@ -1580,24 +1695,66 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "他本江湖是豪家，\n荣华会上也有他。\n流落江湖访豪家。"
+          "text": "他本江湖是豪家，"
         },
         {
-          "character": "蟒袍玉带不愿挂、萧桂英",
+          "character": "萧恩",
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "昔日子期访伯牙，\n爹爹交友也不差。"
+          "text": "荣华会上也有他。"
         },
         {
-          "character": "知心人说不尽知心话、萧恩",
+          "character": "萧恩",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "流落江湖访豪家。"
+        },
+        {
+          "character": "萧恩",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "蟒袍玉带不愿挂"
+        },
+        {
+          "character": "萧桂英",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "昔日子期访伯牙，"
+        },
+        {
+          "character": "萧桂英",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "爹爹交友也不差。"
+        },
+        {
+          "character": "萧桂英",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "知心人说不尽知心话"
+        },
+        {
+          "character": "萧恩",
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
           "text": "看看红日落夕霞。"
         },
         {
-          "character": "知心人说不尽知心话、萧恩",
+          "character": "萧恩",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "知心人说不尽知心话"
+        },
+        {
+          "character": "萧恩",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -1749,7 +1906,17 @@
           "西皮快板",
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.066,
+        0.1231,
+        0.8513,
+        0.0256,
+        0.8351,
+        7,
+        0.1179,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -1802,7 +1969,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "说来说去，还是这两句话。\n拜见员外爷、葛先生。"
+          "text": "说来说去，还是这两句话。"
+        },
+        {
+          "character": "丁郎",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "拜见员外爷、葛先生。"
         },
         {
           "character": "丁自爕",
@@ -1984,7 +2158,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "您这是怎么啦！我吃您稀的，拉您干的，我要是滚回去，不是弱了咱们爷们的\n锐气吗？"
+          "text": "您这是怎么啦！我吃您稀的，拉您干的，我要是滚回去，不是弱了咱们爷们的"
+        },
+        {
+          "character": "丁郎",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "锐气吗？"
         },
         {
           "character": "丁自爕",
@@ -2152,7 +2333,14 @@
           "line_type": "同白",
           "musical_style": null,
           "style_family": null,
-          "text": "是啦！\n请师父。"
+          "text": "是啦！"
+        },
+        {
+          "character": "四徒弟",
+          "line_type": "同白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "请师父。"
         },
         {
           "character": null,
@@ -2222,14 +2410,35 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "教师爷有所不知：我家员外命丁郎前去催讨渔税，被萧恩羞辱一场。我想此事，\n非要教师爷辛苦一趟不可。"
+          "text": "教师爷有所不知：我家员外命丁郎前去催讨渔税，被萧恩羞辱一场。我想此事，"
+        },
+        {
+          "character": "葛先生",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "非要教师爷辛苦一趟不可。"
         },
         {
           "character": "大教师",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "这倒算不了什么！可有一节——我们爷们来的时候，请的是看家护院，这催讨\n渔税银子，我们管不着吓！\n徒弟们，跟师父去练去。"
+          "text": "这倒算不了什么！可有一节——我们爷们来的时候，请的是看家护院，这催讨"
+        },
+        {
+          "character": "大教师",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "渔税银子，我们管不着吓！"
+        },
+        {
+          "character": "大教师",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "徒弟们，跟师父去练去。"
         },
         {
           "character": "葛先生",
@@ -2243,7 +2452,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "只此一遭，下不为例。\n好吧，徒弟们，走着。"
+          "text": "只此一遭，下不为例。"
+        },
+        {
+          "character": "大教师",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "好吧，徒弟们，走着。"
         },
         {
           "character": "葛先生",
@@ -2313,7 +2529,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.9437,
+        0.0563,
+        0.8714,
+        6,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 4,
@@ -3746,7 +3972,17 @@
           "西皮快三眼",
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.044,
+        0.0437,
+        0.95,
+        0.0063,
+        0.956,
+        4,
+        0.0437,
+        0.0
+      ]
     },
     {
       "scene_index": 5,
@@ -3831,7 +4067,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 6,
@@ -4795,7 +5041,17 @@
           "西皮摇板",
           "西皮散板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.063,
+        0.09,
+        0.91,
+        0.0,
+        0.8586,
+        5,
+        0.09,
+        0.0
+      ]
     }
   ]
 }

@@ -494,7 +494,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "众位元帅，那金兵被我等连胜数阵，杀得他兵，却甲丢盔。这几日不见动静，\n不知那厮怎样对敌？"
+          "text": "众位元帅，那金兵被我等连胜数阵，杀得他兵，却甲丢盔。这几日不见动静，"
+        },
+        {
+          "character": "岳飞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "不知那厮怎样对敌？"
         },
         {
           "character": "韩世忠、张浚、刘錡",
@@ -550,7 +557,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "候着。\n启元帅：金营下书人求见。"
+          "text": "候着。"
+        },
+        {
+          "character": "王横",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "启元帅：金营下书人求见。"
         },
         {
           "character": "岳飞",
@@ -627,7 +641,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "众位元帅，今有兀术书信到来：明日约我兵会阵。大家俱要齐心努力，奋勇杀\n贼。"
+          "text": "众位元帅，今有兀术书信到来：明日约我兵会阵。大家俱要齐心努力，奋勇杀"
+        },
+        {
+          "character": "岳飞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "贼。"
         },
         {
           "character": "韩世忠、张浚、刘錡",
@@ -707,7 +728,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.8485,
+        0.1515,
+        0.8438,
+        8,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -731,10 +762,31 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "南北不和起争端，\n交锋对垒在阵前。\n心中恼恨岳南蛮。"
+          "text": "南北不和起争端，"
         },
         {
-          "character": "令人下书未见转、哈迷蚩",
+          "character": "金兀术",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "交锋对垒在阵前。"
+        },
+        {
+          "character": "金兀术",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "心中恼恨岳南蛮。"
+        },
+        {
+          "character": "金兀术",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "令人下书未见转"
+        },
+        {
+          "character": "哈迷蚩",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -852,7 +904,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.1,
+        0.2857,
+        0.6429,
+        0.0714,
+        0.6923,
+        3,
+        0.2857,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -873,7 +935,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "俺，关铃。曾与岳公子八拜为交。闻听岳元帅与金兵大战，不免前去助阵。\n众将官，杀上前去！"
+          "text": "俺，关铃。曾与岳公子八拜为交。闻听岳元帅与金兵大战，不免前去助阵。"
+        },
+        {
+          "character": "关铃",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "众将官，杀上前去！"
         },
         {
           "character": null,
@@ -892,7 +961,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 4,
@@ -914,7 +993,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "俺，樊成，乃岳元帅麾下统制官，孟邦臣之妻舅是也。闻得金兵在此，与岳元\n帅交战，不免前去帮助。\n众好汉，催军！"
+          "text": "俺，樊成，乃岳元帅麾下统制官，孟邦臣之妻舅是也。闻得金兵在此，与岳元"
+        },
+        {
+          "character": "樊成",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "帅交战，不免前去帮助。"
+        },
+        {
+          "character": "樊成",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "众好汉，催军！"
         },
         {
           "character": null,
@@ -984,7 +1077,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.7143,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 5,
@@ -1007,7 +1110,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "俺，狄雷，官居金门镇先行官。闻听岳元帅与金兵大战，我等正好前去立功来。\n催趱！"
+          "text": "俺，狄雷，官居金门镇先行官。闻听岳元帅与金兵大战，我等正好前去立功来。"
+        },
+        {
+          "character": "狄雷",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "催趱！"
         },
         {
           "character": null,
@@ -1093,7 +1203,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.7143,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 6,
@@ -1137,7 +1257,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "休出狂言，放马过来！\n（岳飞、金兀术同起打。八股荡连环，末场下，岳飞打快枪，金兀术败下，岳飞追下。四番兵、四下手、八\n番将、哈迷蚩、金兀术同上。）"
+          "text": "休出狂言，放马过来！"
+        },
+        {
+          "character": "岳飞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "（岳飞、金兀术同起打。八股荡连环，末场下，岳飞打快枪，金兀术败下，岳飞追下。四番兵、四下手、八"
+        },
+        {
+          "character": "岳飞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "番将、哈迷蚩、金兀术同上。）"
         },
         {
           "character": "金兀术",
@@ -1172,7 +1306,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "岳飞兵将，十分骁勇。巴图鲁，收兵！\n（四龙套、八将、岳云、张宪、张保、王横、韩世忠、张浚、刘錡、狄雷、樊成、岳飞同上，同追打，四番"
+          "text": "岳飞兵将，十分骁勇。巴图鲁，收兵！"
+        },
+        {
+          "character": "金兀术",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "（四龙套、八将、岳云、张宪、张保、王横、韩世忠、张浚、刘錡、狄雷、樊成、岳飞同上，同追打，四番"
         }
       ],
       "interactions": [
@@ -1201,7 +1342,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.5556,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 7,
@@ -1256,7 +1407,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 8,
@@ -1393,7 +1554,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 9,
@@ -1410,10 +1581,31 @@
           "line_type": "西皮原板",
           "musical_style": "西皮原板",
           "style_family": "西皮",
-          "text": "奴心中常把那岳家来恨，\n他父子战金兵屡建功勋。\n待等候相爷回再定计行。"
+          "text": "奴心中常把那岳家来恨，"
         },
         {
-          "character": "倘若是回朝来我等不稳、院子",
+          "character": "王氏",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "他父子战金兵屡建功勋。"
+        },
+        {
+          "character": "王氏",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "待等候相爷回再定计行。"
+        },
+        {
+          "character": "王氏",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "倘若是回朝来我等不稳"
+        },
+        {
+          "character": "院子",
           "line_type": "内白",
           "musical_style": null,
           "style_family": null,
@@ -1445,21 +1637,42 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "夫人有所不知：只因岳飞今日有本到来，已将金兵杀得大败，不久就要成功。\n倘若班师还朝，我等俱有不便。"
-        },
-        {
-          "character": "王氏",
-          "line_type": "白",
-          "musical_style": null,
-          "style_family": null,
-          "text": "妾身亦为此愁烦。倘若岳飞还朝，我等全家姓名难保。不如趁早将他兵权撤去，\n慢慢设法害他性命。"
+          "text": "夫人有所不知：只因岳飞今日有本到来，已将金兵杀得大败，不久就要成功。"
         },
         {
           "character": "秦桧",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "夫人之言正合吾意。近日西湖风景极佳，欲同夫人乘舟游玩，不知夫人意下如\n何？"
+          "text": "倘若班师还朝，我等俱有不便。"
+        },
+        {
+          "character": "王氏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "妾身亦为此愁烦。倘若岳飞还朝，我等全家姓名难保。不如趁早将他兵权撤去，"
+        },
+        {
+          "character": "王氏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "慢慢设法害他性命。"
+        },
+        {
+          "character": "秦桧",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "夫人之言正合吾意。近日西湖风景极佳，欲同夫人乘舟游玩，不知夫人意下如"
+        },
+        {
+          "character": "秦桧",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "何？"
         },
         {
           "character": "王氏",
@@ -1513,7 +1726,17 @@
         "musical_styles": [
           "西皮原板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.111,
+        0.2667,
+        0.7333,
+        0.0,
+        0.5714,
+        3,
+        0.2667,
+        0.0
+      ]
     },
     {
       "scene_index": 10,
@@ -1548,7 +1771,14 @@
           "line_type": "西皮原板",
           "musical_style": "西皮原板",
           "style_family": "西皮",
-          "text": "夫妻们乘花船西湖游玩，\n有青山并绿岭湖水连天。"
+          "text": "夫妻们乘花船西湖游玩，"
+        },
+        {
+          "character": "秦桧",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "有青山并绿岭湖水连天。"
         },
         {
           "character": "王氏",
@@ -1597,7 +1827,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "我进了永安门，这已是西湖。真一派好风景！你看那船中，好似秦桧摸样。待\n我来试他一试。\n卖蜡丸！"
+          "text": "我进了永安门，这已是西湖。真一派好风景！你看那船中，好似秦桧摸样。待"
+        },
+        {
+          "character": "哈迷蚩",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我来试他一试。"
+        },
+        {
+          "character": "哈迷蚩",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "卖蜡丸！"
         },
         {
           "character": "秦桧",
@@ -1611,7 +1855,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "是。\n那一卖蜡丸之人过来。"
+          "text": "是。"
+        },
+        {
+          "character": "院子",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "那一卖蜡丸之人过来。"
         },
         {
           "character": "哈迷蚩",
@@ -1737,14 +1988,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "乃是金邦四太子亲写书信前来，言到岳飞杀得金兵大败，叫吾设计陷害于他。\n夫人你道此事，应如何办理？"
+          "text": "乃是金邦四太子亲写书信前来，言到岳飞杀得金兵大败，叫吾设计陷害于他。"
+        },
+        {
+          "character": "秦桧",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "夫人你道此事，应如何办理？"
         },
         {
           "character": "王氏",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "依妾身看来，必须先将岳飞兵权削去。然后调他进京治罪，害他性命。不知相\n爷意下如何？"
+          "text": "依妾身看来，必须先将岳飞兵权削去。然后调他进京治罪，害他性命。不知相"
+        },
+        {
+          "character": "王氏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "爷意下如何？"
         },
         {
           "character": "秦桧",
@@ -1821,21 +2086,49 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "今有岳飞，杀败金兵，不日就要成功。倘若他得胜还朝，则与老夫诸多不便。\n老夫意欲削去他的兵权，陷害他性命。不知二位有何高见？"
-        },
-        {
-          "character": "万俟卨",
-          "line_type": "白",
-          "musical_style": null,
-          "style_family": null,
-          "text": "这有何难？相爷假传圣旨一道，命人前去。叫他在朱仙镇养马，暂且停战。再\n发一道圣旨，就说现在与金人讲和已成，叫他回兵，进京加封官爵。他若来时\n便罢，他若不来，就发金牌催调前来。哪怕他飞上天去！"
+          "text": "今有岳飞，杀败金兵，不日就要成功。倘若他得胜还朝，则与老夫诸多不便。"
         },
         {
           "character": "秦桧",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "此计甚好。\n来，请王大人。"
+          "text": "老夫意欲削去他的兵权，陷害他性命。不知二位有何高见？"
+        },
+        {
+          "character": "万俟卨",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "这有何难？相爷假传圣旨一道，命人前去。叫他在朱仙镇养马，暂且停战。再"
+        },
+        {
+          "character": "万俟卨",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "发一道圣旨，就说现在与金人讲和已成，叫他回兵，进京加封官爵。他若来时"
+        },
+        {
+          "character": "万俟卨",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "便罢，他若不来，就发金牌催调前来。哪怕他飞上天去！"
+        },
+        {
+          "character": "秦桧",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "此计甚好。"
+        },
+        {
+          "character": "秦桧",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来，请王大人。"
         },
         {
           "character": "院子",
@@ -1863,7 +2156,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "现有圣旨一道，叫岳飞暂且息兵，班师回朱仙镇屯田养马。特等秋收粮足，再\n议发兵。"
+          "text": "现有圣旨一道，叫岳飞暂且息兵，班师回朱仙镇屯田养马。特等秋收粮足，再"
+        },
+        {
+          "character": "秦桧",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "议发兵。"
         },
         {
           "character": "王大人",
@@ -1912,7 +2212,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "这有圣旨一道，去到岳飞营中，就说现与金人议和已成，叫他回京加官受爵，\n不得违误。"
+          "text": "这有圣旨一道，去到岳飞营中，就说现与金人议和已成，叫他回京加官受爵，"
+        },
+        {
+          "character": "秦桧",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "不得违误。"
         },
         {
           "character": "沈大人",
@@ -2057,7 +2364,17 @@
           "西皮原板",
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.043,
+        0.0656,
+        0.9016,
+        0.0328,
+        0.6833,
+        9,
+        0.0656,
+        0.0
+      ]
     },
     {
       "scene_index": 11,
@@ -2705,7 +3022,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.018,
+        0.0175,
+        0.9649,
+        0.0175,
+        0.8214,
+        10,
+        0.0175,
+        0.0
+      ]
     },
     {
       "scene_index": 12,
@@ -3020,7 +3347,17 @@
           "西皮二六",
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.095,
+        0.12,
+        0.76,
+        0.12,
+        0.8333,
+        5,
+        0.12,
+        0.0
+      ]
     },
     {
       "scene_index": 13,
@@ -3122,7 +3459,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.143,
+        0.1429,
+        0.8571,
+        0.0,
+        1.0,
+        2,
+        0.1429,
+        0.0
+      ]
     },
     {
       "scene_index": 14,
@@ -3261,7 +3608,17 @@
           "西皮导板",
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.167,
+        0.3333,
+        0.6667,
+        0.0,
+        0.25,
+        2,
+        0.3333,
+        0.0
+      ]
     },
     {
       "scene_index": 15,
@@ -3506,7 +3863,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.174,
+        0.2083,
+        0.7083,
+        0.0833,
+        0.9565,
+        3,
+        0.2083,
+        0.0
+      ]
     },
     {
       "scene_index": 16,
@@ -3655,7 +4022,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.8,
+        0.2,
+        0.7778,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 17,
@@ -3709,7 +4086,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 18,
@@ -3871,7 +4258,17 @@
           "西皮导板",
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.2,
+        0.1818,
+        0.8182,
+        0.0,
+        0.5,
+        3,
+        0.1818,
+        0.0
+      ]
     },
     {
       "scene_index": 19,
@@ -3893,14 +4290,14 @@
           "text": "（四龙套同上，周三畏上。）"
         },
         {
-          "character": null,
+          "character": "四龙套",
           "line_type": "念",
           "musical_style": null,
           "style_family": null,
           "text": "十载寒窗苦，一朝姓字香。诗书传世泽，忠孝答君王。"
         },
         {
-          "character": null,
+          "character": "四龙套",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -4211,7 +4608,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.9615,
+        0.0385,
+        0.84,
+        6,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 20,
@@ -4437,7 +4844,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.8333,
+        0.1667,
+        0.8824,
+        5,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 21,
@@ -4522,7 +4939,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 22,
@@ -4591,21 +5018,49 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "今有岳飞，杀败金兵，不日就要成功。倘若他得胜还朝，则与老夫诸多不便。\n老夫意欲削去他的兵权，陷害他性命。不知二位有何高见？"
-        },
-        {
-          "character": "万俟卨",
-          "line_type": "白",
-          "musical_style": null,
-          "style_family": null,
-          "text": "这有何难？相爷假传圣旨一道，命人前去。叫他在朱仙镇养马，暂且停战。再\n发一道圣旨，就说现在与金人讲和已成，叫他回兵，进京加封官爵。他若来时\n便罢，他若不来，就发金牌催调前来。哪怕他飞上天去！"
+          "text": "今有岳飞，杀败金兵，不日就要成功。倘若他得胜还朝，则与老夫诸多不便。"
         },
         {
           "character": "秦桧",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "此计甚好。\n来，请王大人。"
+          "text": "老夫意欲削去他的兵权，陷害他性命。不知二位有何高见？"
+        },
+        {
+          "character": "万俟卨",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "这有何难？相爷假传圣旨一道，命人前去。叫他在朱仙镇养马，暂且停战。再"
+        },
+        {
+          "character": "万俟卨",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "发一道圣旨，就说现在与金人讲和已成，叫他回兵，进京加封官爵。他若来时"
+        },
+        {
+          "character": "万俟卨",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "便罢，他若不来，就发金牌催调前来。哪怕他飞上天去！"
+        },
+        {
+          "character": "秦桧",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "此计甚好。"
+        },
+        {
+          "character": "秦桧",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来，请王大人。"
         },
         {
           "character": "院子",
@@ -4633,7 +5088,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "现有圣旨一道，叫岳飞暂且息兵，班师回朱仙镇屯田养马。特等秋收粮足，再\n议发兵。"
+          "text": "现有圣旨一道，叫岳飞暂且息兵，班师回朱仙镇屯田养马。特等秋收粮足，再"
+        },
+        {
+          "character": "秦桧",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "议发兵。"
         },
         {
           "character": "王大人",
@@ -4682,7 +5144,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "这有圣旨一道，去到岳飞营中，就说现与金人议和已成，叫他回京加官受爵，\n不得违误。"
+          "text": "这有圣旨一道，去到岳飞营中，就说现与金人议和已成，叫他回京加官受爵，"
+        },
+        {
+          "character": "秦桧",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "不得违误。"
         },
         {
           "character": "沈大人",
@@ -4822,7 +5291,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "听宣读诏曰：命岳飞暂且息兵，在朱仙镇屯田养马。待等秋禾成熟，再议发兵，\n望诏谢恩！"
+          "text": "听宣读诏曰：命岳飞暂且息兵，在朱仙镇屯田养马。待等秋禾成熟，再议发兵，"
+        },
+        {
+          "character": "王大人",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "望诏谢恩！"
         },
         {
           "character": "岳飞、韩世忠、张浚、刘錡、岳云、张宪、张保、王横",
@@ -4843,7 +5319,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "朝命在身，不能久停。告辞了！\n（〖吹打〗。王大人、四大"
+          "text": "朝命在身，不能久停。告辞了！"
+        },
+        {
+          "character": "王大人",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "（〖吹打〗。王大人、四大"
         }
       ],
       "interactions": [
@@ -4933,7 +5416,17 @@
           "二黄导板",
           "二黄摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.033,
+        0.0,
+        0.9286,
+        0.0714,
+        0.7317,
+        11,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 23,
@@ -5125,7 +5618,17 @@
         "musical_styles": [
           "二黄摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.9286,
+        0.0714,
+        0.8462,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 24,
@@ -5242,7 +5745,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.7143,
+        0.2857,
+        0.8333,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 25,
@@ -5328,7 +5841,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 26,
@@ -5455,7 +5978,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.8889,
+        0.1111,
+        0.875,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 27,
@@ -5595,7 +6128,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.8889,
+        0.1111,
+        1.0,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 28,
@@ -5905,7 +6448,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.9667,
+        0.0333,
+        0.931,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 29,
@@ -6067,7 +6620,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.9231,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 30,
@@ -6546,7 +7109,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.9286,
+        6,
+        0.0,
+        0.0
+      ]
     }
   ]
 }

@@ -291,7 +291,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "本院，于德水，在大清康熙圣主驾下为臣。蒙圣恩官居刑部尚书，兼署左都御\n史，一路代理民词。只因山西荒旱三载，圣上钦命本院赈饥放粮，以救黎民。\n李云，高曾，外面人马可曾齐备？"
+          "text": "本院，于德水，在大清康熙圣主驾下为臣。蒙圣恩官居刑部尚书，兼署左都御"
+        },
+        {
+          "character": "于德水",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "史，一路代理民词。只因山西荒旱三载，圣上钦命本院赈饥放粮，以救黎民。"
+        },
+        {
+          "character": "于德水",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "李云，高曾，外面人马可曾齐备？"
         },
         {
           "character": "高曾、李云",
@@ -353,7 +367,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.1111,
+        0.7778,
+        0.1111,
+        0.5,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -367,14 +391,28 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "离却山东日已久，\n前面不远到涿州。"
+          "text": "离却山东日已久，"
+        },
+        {
+          "character": "唐琼",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "前面不远到涿州。"
         },
         {
           "character": "唐琼",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "俺，半翅蜂儿唐琼。自离了山东，行了数日，看前面已是涿州地面，惯出美貌\n女子，若有意中之人也未可定。天色已晚，马上加鞭。"
+          "text": "俺，半翅蜂儿唐琼。自离了山东，行了数日，看前面已是涿州地面，惯出美貌"
+        },
+        {
+          "character": "唐琼",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "女子，若有意中之人也未可定。天色已晚，马上加鞭。"
         },
         {
           "character": "唐琼",
@@ -395,7 +433,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        1.0,
+        0.6,
+        0.4,
+        0.0,
+        0.0,
+        1,
+        0.6,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -443,7 +491,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "本院，于德水，在大清康熙圣主驾下为臣。蒙圣恩官居刑部尚书，兼署左都御\n史，一路代理民词。只因山西荒旱三载，圣上钦命本院赈饥放粮，以救黎民。\n李云，高曾，外面人马可曾齐备？"
+          "text": "本院，于德水，在大清康熙圣主驾下为臣。蒙圣恩官居刑部尚书，兼署左都御"
+        },
+        {
+          "character": "于德水",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "史，一路代理民词。只因山西荒旱三载，圣上钦命本院赈饥放粮，以救黎民。"
+        },
+        {
+          "character": "于德水",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "李云，高曾，外面人马可曾齐备？"
         },
         {
           "character": "高曾、李云",
@@ -492,21 +554,42 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "离却山东日已久，\n前面不远到涿州。"
-        },
-        {
-          "character": "唐琼",
-          "line_type": "白",
-          "musical_style": null,
-          "style_family": null,
-          "text": "俺，半翅蜂儿唐琼。自离了山东，行了数日，看前面已是涿州地面，惯出美貌\n女子，若有意中之人也未可定。天色已晚，马上加鞭。"
+          "text": "离却山东日已久，"
         },
         {
           "character": "唐琼",
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "急忙加鞭催坐马，\n访寻美女貌如花。"
+          "text": "前面不远到涿州。"
+        },
+        {
+          "character": "唐琼",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "俺，半翅蜂儿唐琼。自离了山东，行了数日，看前面已是涿州地面，惯出美貌"
+        },
+        {
+          "character": "唐琼",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "女子，若有意中之人也未可定。天色已晚，马上加鞭。"
+        },
+        {
+          "character": "唐琼",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "急忙加鞭催坐马，"
+        },
+        {
+          "character": "唐琼",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "访寻美女貌如花。"
         },
         {
           "character": null,
@@ -534,7 +617,28 @@
           "line_type": "西皮原板",
           "musical_style": "西皮原板",
           "style_family": "西皮",
-          "text": "赈饥放粮救群生。\n到如今官高爵位尊。\n代理民词尽苦心。\n去到山西救黎民。"
+          "text": "赈饥放粮救群生。"
+        },
+        {
+          "character": "于德水",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "到如今官高爵位尊。"
+        },
+        {
+          "character": "于德水",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "代理民词尽苦心。"
+        },
+        {
+          "character": "于德水",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "去到山西救黎民。"
         },
         {
           "character": null,
@@ -611,7 +715,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "报，涿州梁乡县知县吴法治告进。\n老大人在上，卑职吴法治叩见大人。"
+          "text": "报，涿州梁乡县知县吴法治告进。"
+        },
+        {
+          "character": "吴法治",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "老大人在上，卑职吴法治叩见大人。"
         },
         {
           "character": "于德水",
@@ -681,7 +792,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "好。贵县，本院奉圣主命，往山西放粮，赈济军民。贵县回衙，衙役人等保护\n饷银食粮，须要小心。"
+          "text": "好。贵县，本院奉圣主命，往山西放粮，赈济军民。贵县回衙，衙役人等保护"
+        },
+        {
+          "character": "于德水",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "饷银食粮，须要小心。"
         },
         {
           "character": "吴法治",
@@ -764,7 +882,17 @@
         "musical_styles": [
           "西皮原板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.043,
+        0.2093,
+        0.7674,
+        0.0233,
+        0.6667,
+        6,
+        0.186,
+        0.0
+      ]
     },
     {
       "scene_index": 4,
@@ -793,14 +921,63 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "奴家，马玉莲。爹爹三手将马玉风，在通州南门外开了一座黑店，不料被赃官\n于德水擒住，全家问斩。是奴家一人逃出虎穴来到这紫竹林，在白衣紫竹庵，\n带发修行，改名智月，人送外号妙手仙尼。自幼在家习就武艺，一种兵刃为日\n月凤凰轮。每逢与人交战，百发百中，奴家生得美貌，至今并无得意才郎匹配。\n思想起来，好不伤感人也。"
+          "text": "奴家，马玉莲。爹爹三手将马玉风，在通州南门外开了一座黑店，不料被赃官"
+        },
+        {
+          "character": "智月",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "于德水擒住，全家问斩。是奴家一人逃出虎穴来到这紫竹林，在白衣紫竹庵，"
+        },
+        {
+          "character": "智月",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "带发修行，改名智月，人送外号妙手仙尼。自幼在家习就武艺，一种兵刃为日"
+        },
+        {
+          "character": "智月",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "月凤凰轮。每逢与人交战，百发百中，奴家生得美貌，至今并无得意才郎匹配。"
+        },
+        {
+          "character": "智月",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "思想起来，好不伤感人也。"
         },
         {
           "character": "智月",
           "line_type": "西皮正板",
           "musical_style": "西皮正板",
           "style_family": "西皮",
-          "text": "闷坐在云堂内心中悽惨，⑴\n思想起老爹爹好不忧烦。\n到如今宿庵中孤孤单单。\n不由奴一阵阵珠泪涟涟。"
+          "text": "闷坐在云堂内心中悽惨，⑴"
+        },
+        {
+          "character": "智月",
+          "line_type": "西皮正板",
+          "musical_style": "西皮正板",
+          "style_family": "西皮",
+          "text": "思想起老爹爹好不忧烦。"
+        },
+        {
+          "character": "智月",
+          "line_type": "西皮正板",
+          "musical_style": "西皮正板",
+          "style_family": "西皮",
+          "text": "到如今宿庵中孤孤单单。"
+        },
+        {
+          "character": "智月",
+          "line_type": "西皮正板",
+          "musical_style": "西皮正板",
+          "style_family": "西皮",
+          "text": "不由奴一阵阵珠泪涟涟。"
         },
         {
           "character": null,
@@ -898,14 +1075,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "七哥有所不知。只因我爹爹被赃官于德水杀死，全家问斩。小妹无奈何逃在此\n处，带发修行。"
+          "text": "七哥有所不知。只因我爹爹被赃官于德水杀死，全家问斩。小妹无奈何逃在此"
+        },
+        {
+          "character": "智月",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "处，带发修行。"
         },
         {
           "character": "唐琼",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "闻得赃官每每苦害绿林，今闻贤妹之言，果然不假。时闻赃官在涿州下马，接\n下冤状，俱是告我，甚是可恨。我料赃官这几日必派人前来拿我。"
+          "text": "闻得赃官每每苦害绿林，今闻贤妹之言，果然不假。时闻赃官在涿州下马，接"
+        },
+        {
+          "character": "唐琼",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "下冤状，俱是告我，甚是可恨。我料赃官这几日必派人前来拿我。"
         },
         {
           "character": "智月",
@@ -919,7 +1110,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "贤妹有所不知：只因我在涿州，留下二十二案。俱是因奸不从，临行留下暗记，\n何愁赃官不遣英雄前来拿我？他若不来便罢，他若来时，定叫他手下馀党丧\n命！"
+          "text": "贤妹有所不知：只因我在涿州，留下二十二案。俱是因奸不从，临行留下暗记，"
+        },
+        {
+          "character": "唐琼",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "何愁赃官不遣英雄前来拿我？他若不来便罢，他若来时，定叫他手下馀党丧"
+        },
+        {
+          "character": "唐琼",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "命！"
         },
         {
           "character": "智月",
@@ -933,7 +1138,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "只因我在山东杀死人命无数，官兵追捕甚紧，因而逃在这涿州地面。因此才巧\n遇贤妹。"
+          "text": "只因我在山东杀死人命无数，官兵追捕甚紧，因而逃在这涿州地面。因此才巧"
+        },
+        {
+          "character": "唐琼",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "遇贤妹。"
         },
         {
           "character": null,
@@ -1014,7 +1226,17 @@
         "musical_styles": [
           "西皮"
         ]
-      }
+      },
+      "scene_feature": [
+        0.045,
+        0.1351,
+        0.7838,
+        0.0811,
+        0.5278,
+        2,
+        0.1081,
+        0.0
+      ]
     },
     {
       "scene_index": 5,
@@ -1035,21 +1257,70 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "当今万岁传下旨，\n要消山中作怪的。"
-        },
-        {
-          "character": "欧阳山",
-          "line_type": "白",
-          "musical_style": null,
-          "style_family": null,
-          "text": "吾复姓欧阳名山字宏修，人送外号踏雪无痕，乃镇江府丹徒县昆仑山人氏，万\n里云烟东方溥门徒。习学全身武艺，只因圣上传下旨意，各城府县捉拿我们昆\n仑山上的妖怪，言道伤人太重，圣上故此要御览。是我一想，我们山上不见有\n妖怪，只见有一个黑驴闹事，故此叫我把它得着了，因此进京进驴。又无有门\n路，如何是好？闻得我师父移家于此涿州，地名叫芦村河。一来与我师父、师\n母问安，二来托我师父将这驴进上。就是这个主意。看天色已晚，就此走走。"
+          "text": "当今万岁传下旨，"
         },
         {
           "character": "欧阳山",
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "急忙牵驴朝前去，\n见了师父把话提。"
+          "text": "要消山中作怪的。"
+        },
+        {
+          "character": "欧阳山",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "吾复姓欧阳名山字宏修，人送外号踏雪无痕，乃镇江府丹徒县昆仑山人氏，万"
+        },
+        {
+          "character": "欧阳山",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "里云烟东方溥门徒。习学全身武艺，只因圣上传下旨意，各城府县捉拿我们昆"
+        },
+        {
+          "character": "欧阳山",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "仑山上的妖怪，言道伤人太重，圣上故此要御览。是我一想，我们山上不见有"
+        },
+        {
+          "character": "欧阳山",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "妖怪，只见有一个黑驴闹事，故此叫我把它得着了，因此进京进驴。又无有门"
+        },
+        {
+          "character": "欧阳山",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "路，如何是好？闻得我师父移家于此涿州，地名叫芦村河。一来与我师父、师"
+        },
+        {
+          "character": "欧阳山",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "母问安，二来托我师父将这驴进上。就是这个主意。看天色已晚，就此走走。"
+        },
+        {
+          "character": "欧阳山",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "急忙牵驴朝前去，"
+        },
+        {
+          "character": "欧阳山",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "见了师父把话提。"
         },
         {
           "character": null,
@@ -1070,7 +1341,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        1.0,
+        0.4,
+        0.6,
+        0.0,
+        0.0,
+        1,
+        0.4,
+        0.0
+      ]
     },
     {
       "scene_index": 6,
@@ -1116,17 +1397,87 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "老夫，复姓东方名溥字子房，人称万里云烟。自幼身居绿林，全凭夺命钢釬，\n扬名天下。膝下无儿无女，娶妻宋氏。老汉看这绿林无味，洗手多年。当年发\n下宏誓大愿，永不出世，就在这芦林河居住。无儿无女，只有一个门徒，复姓\n欧阳名山，乃南方人氏，传他一身武艺。我师徒数载未见。今日闲暇无事，庄\n前庄后，游玩一番便了。"
+          "text": "老夫，复姓东方名溥字子房，人称万里云烟。自幼身居绿林，全凭夺命钢釬，"
+        },
+        {
+          "character": "东方溥",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "扬名天下。膝下无儿无女，娶妻宋氏。老汉看这绿林无味，洗手多年。当年发"
+        },
+        {
+          "character": "东方溥",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "下宏誓大愿，永不出世，就在这芦林河居住。无儿无女，只有一个门徒，复姓"
+        },
+        {
+          "character": "东方溥",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "欧阳名山，乃南方人氏，传他一身武艺。我师徒数载未见。今日闲暇无事，庄"
+        },
+        {
+          "character": "东方溥",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "前庄后，游玩一番便了。"
         },
         {
           "character": "东方溥",
           "line_type": "西皮原板",
           "musical_style": "西皮原板",
           "style_family": "西皮",
-          "text": "独坐在草堂中心神不爽，\n走庄前和庄后散闷心肠。\n实不如在家中倒也安康。\n闷来时闲看这野花放香。"
+          "text": "独坐在草堂中心神不爽，"
         },
         {
-          "character": "想当年在绿林弟兄同党、闲来时驾小舟钓鱼玩赏、迈步儿来至在绿林村上、欧阳山",
+          "character": "东方溥",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "走庄前和庄后散闷心肠。"
+        },
+        {
+          "character": "东方溥",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "实不如在家中倒也安康。"
+        },
+        {
+          "character": "东方溥",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "闷来时闲看这野花放香。"
+        },
+        {
+          "character": "东方溥",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "想当年在绿林弟兄同党"
+        },
+        {
+          "character": "东方溥",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "闲来时驾小舟钓鱼玩赏"
+        },
+        {
+          "character": "东方溥",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "迈步儿来至在绿林村上"
+        },
+        {
+          "character": "欧阳山",
           "line_type": "内白",
           "musical_style": null,
           "style_family": null,
@@ -1151,7 +1502,14 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "驴子拴在柳树上，\n见了师父问安康。"
+          "text": "驴子拴在柳树上，"
+        },
+        {
+          "character": "欧阳山",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "见了师父问安康。"
         },
         {
           "character": "欧阳山",
@@ -1214,7 +1572,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "师父有所不知：只因此驴，山中伤人。圣上传下旨意，要将此物带进京去，圣\n上御览。故此徒儿将此驴逮住，无门路可进。因而来求师父，将此驴不论交与\n哪位大人，送上龙目御览。"
+          "text": "师父有所不知：只因此驴，山中伤人。圣上传下旨意，要将此物带进京去，圣"
+        },
+        {
+          "character": "欧阳山",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "上御览。故此徒儿将此驴逮住，无门路可进。因而来求师父，将此驴不论交与"
+        },
+        {
+          "character": "欧阳山",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "哪位大人，送上龙目御览。"
         },
         {
           "character": "东方溥",
@@ -1249,7 +1621,49 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "如今刑部尚书兼署左都御史于德水于大人，钦命山西赈饥放粮，一路代理民词，\n如今在这涿州良乡县下马。住公馆接了二十二状，俱是状告半翅蜂儿唐琼，\n因奸不从，杀死人命。如今何不前去，一来献驴。二来帮助于他。手下擒贼两\n个公差，俱非外人：一名李云，字子岩，人称登山豹子；一名高曾，字明亮，\n人称神行太保分水狐狸。此二人乃李七侯、高通海之子。如今跟随于公手下当\n差，可算子习父业。你今此去帮助，将唐琼拿住。于公必保你作官，你的意下\n如何？"
+          "text": "如今刑部尚书兼署左都御史于德水于大人，钦命山西赈饥放粮，一路代理民词，"
+        },
+        {
+          "character": "东方溥",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "如今在这涿州良乡县下马。住公馆接了二十二状，俱是状告半翅蜂儿唐琼，"
+        },
+        {
+          "character": "东方溥",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "因奸不从，杀死人命。如今何不前去，一来献驴。二来帮助于他。手下擒贼两"
+        },
+        {
+          "character": "东方溥",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "个公差，俱非外人：一名李云，字子岩，人称登山豹子；一名高曾，字明亮，"
+        },
+        {
+          "character": "东方溥",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "人称神行太保分水狐狸。此二人乃李七侯、高通海之子。如今跟随于公手下当"
+        },
+        {
+          "character": "东方溥",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "差，可算子习父业。你今此去帮助，将唐琼拿住。于公必保你作官，你的意下"
+        },
+        {
+          "character": "东方溥",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "如何？"
         },
         {
           "character": "欧阳山",
@@ -1318,7 +1732,17 @@
           "西皮原板",
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.1,
+        0.25,
+        0.7273,
+        0.0227,
+        0.4186,
+        2,
+        0.2045,
+        0.0
+      ]
     },
     {
       "scene_index": 7,
@@ -1352,7 +1776,21 @@
           "line_type": "西皮二六板",
           "musical_style": "西皮二六板",
           "style_family": "西皮",
-          "text": "不知贼寇落哪方。\n探听淫贼鬼行藏。\n心中焦燥为哪桩？"
+          "text": "不知贼寇落哪方。"
+        },
+        {
+          "character": "于德水",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "探听淫贼鬼行藏。"
+        },
+        {
+          "character": "于德水",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "心中焦燥为哪桩？"
         },
         {
           "character": "于德水",
@@ -1362,11 +1800,46 @@
           "text": "猛然一阵心焦燥，不知为了何事。想是身体疲乏，困倦之至，你们各自安歇。"
         },
         {
-          "character": "必须差人暗私访、将身坐在二堂上、高曾、李云",
+          "character": "于德水",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "必须差人暗私访"
+        },
+        {
+          "character": "于德水",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "将身坐在二堂上"
+        },
+        {
+          "character": "于德水",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "高曾"
+        },
+        {
+          "character": "李云",
           "line_type": "同白",
           "musical_style": null,
           "style_family": null,
-          "text": "啊！\n（书吏、门子、于才同下。中场帐子。于德水入帐子。高曾、李云分两边睡。唐琼上，拨门，行刺。高曾、\n李云同暗眼色。丫鬟上。）"
+          "text": "啊！"
+        },
+        {
+          "character": "李云",
+          "line_type": "同白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "（书吏、门子、于才同下。中场帐子。于德水入帐子。高曾、李云分两边睡。唐琼上，拨门，行刺。高曾、"
+        },
+        {
+          "character": "李云",
+          "line_type": "同白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "李云同暗眼色。丫鬟上。）"
         },
         {
           "character": "丫鬟",
@@ -1520,14 +1993,28 @@
           "line_type": "念",
           "musical_style": null,
           "style_family": null,
-          "text": "背插钢刀走四方，飘扬湖海任张狂。全身武艺无人挡，最爱美貌女姣娘。\n只为赃官行无理，夤夜杀死女碧香。若问英雄名和姓，半翅蜂儿本姓唐。"
+          "text": "背插钢刀走四方，飘扬湖海任张狂。全身武艺无人挡，最爱美貌女姣娘。"
+        },
+        {
+          "character": "于德水",
+          "line_type": "念",
+          "musical_style": null,
+          "style_family": null,
+          "text": "只为赃官行无理，夤夜杀死女碧香。若问英雄名和姓，半翅蜂儿本姓唐。"
         },
         {
           "character": "于德水",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "呵，大胆贼寇，杀死丫鬟，还敢留写诗句！\n高曾、李云，你二人明日巧装改扮，访探拿淫贼下落，不得有误！"
+          "text": "呵，大胆贼寇，杀死丫鬟，还敢留写诗句！"
+        },
+        {
+          "character": "于德水",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "高曾、李云，你二人明日巧装改扮，访探拿淫贼下落，不得有误！"
         },
         {
           "character": "高曾、李云",
@@ -1590,7 +2077,17 @@
           "西皮二六",
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.056,
+        0.129,
+        0.8065,
+        0.0645,
+        0.5,
+        5,
+        0.129,
+        0.0
+      ]
     },
     {
       "scene_index": 8,
@@ -1618,7 +2115,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "适才在公馆行刺，不料赃官暗有防犯。是俺一怒，将丫鬟碧香杀死。俺正要行\n刺赃官，只觉手中麻酸。俺不敢行刺，留下诗句一首。俺逃出赃官公馆，看天\n光渐亮，回庙便了。"
+          "text": "适才在公馆行刺，不料赃官暗有防犯。是俺一怒，将丫鬟碧香杀死。俺正要行"
+        },
+        {
+          "character": "唐琼",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "刺赃官，只觉手中麻酸。俺不敢行刺，留下诗句一首。俺逃出赃官公馆，看天"
+        },
+        {
+          "character": "唐琼",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "光渐亮，回庙便了。"
         },
         {
           "character": null,
@@ -1636,7 +2147,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.25,
+        0.75,
+        0.0,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 9,
@@ -2410,7 +2931,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.025,
+        0.0241,
+        0.9639,
+        0.012,
+        0.939,
+        4,
+        0.0241,
+        0.0
+      ]
     },
     {
       "scene_index": 10,
@@ -2450,7 +2981,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 11,
@@ -2535,7 +3076,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.75,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 12,
@@ -2657,7 +3208,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.333,
+        0.2857,
+        0.7143,
+        0.0,
+        0.5,
+        3,
+        0.2857,
+        0.0
+      ]
     },
     {
       "scene_index": 13,
@@ -2826,7 +3387,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.6923,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 14,
@@ -3551,7 +4122,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.032,
+        0.0303,
+        0.9697,
+        0.0,
+        0.8923,
+        8,
+        0.0303,
+        0.0
+      ]
     },
     {
       "scene_index": 15,
@@ -3667,7 +4248,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.4,
+        0.4,
+        0.6,
+        0.0,
+        1.0,
+        2,
+        0.4,
+        0.0
+      ]
     },
     {
       "scene_index": 16,
@@ -3897,7 +4488,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.263,
+        0.3,
+        0.7,
+        0.0,
+        0.8947,
+        4,
+        0.3,
+        0.0
+      ]
     },
     {
       "scene_index": 17,
@@ -4262,7 +4863,17 @@
           "西皮摇板",
           "西皮正板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.059,
+        0.0588,
+        0.9412,
+        0.0,
+        1.0,
+        6,
+        0.0588,
+        0.0
+      ]
     },
     {
       "scene_index": 18,
@@ -4387,7 +4998,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.6,
+        0.4,
+        0.8889,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 19,
@@ -4492,7 +5113,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        1.0,
+        0.6667,
+        0.3333,
+        0.0,
+        0.0,
+        1,
+        0.3333,
+        0.0
+      ]
     },
     {
       "scene_index": 20,
@@ -4639,7 +5270,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.7778,
+        5,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 21,
@@ -4710,7 +5351,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 22,
@@ -4729,7 +5380,7 @@
           "text": "（智月、唐琼、袁彰同上。）"
         },
         {
-          "character": null,
+          "character": "袁彰",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -4796,7 +5447,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 23,
@@ -4868,7 +5529,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 24,
@@ -5135,7 +5806,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.087,
+        0.913,
+        0.0,
+        0.8182,
+        4,
+        0.087,
+        0.0
+      ]
     },
     {
       "scene_index": 25,
@@ -5191,7 +5872,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        1.0,
+        0.6667,
+        0.3333,
+        0.0,
+        0.0,
+        1,
+        0.6667,
+        0.0
+      ]
     },
     {
       "scene_index": 26,
@@ -5564,7 +6255,17 @@
           "西皮导板",
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.079,
+        0.0769,
+        0.9231,
+        0.0,
+        0.9737,
+        5,
+        0.0769,
+        0.0
+      ]
     },
     {
       "scene_index": 27,
@@ -5924,7 +6625,17 @@
         "musical_styles": [
           "西皮二六板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.04,
+        0.0714,
+        0.9286,
+        0.0,
+        0.8889,
+        7,
+        0.0357,
+        0.0
+      ]
     }
   ]
 }

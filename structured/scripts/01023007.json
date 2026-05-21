@@ -189,7 +189,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.6667,
+        0.3333,
+        1.0,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -212,7 +222,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -290,7 +310,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 4,
@@ -340,7 +370,21 @@
           "line_type": "二黄摇板",
           "musical_style": "二黄摇板",
           "style_family": "二黄",
-          "text": "大将军说话欠思量，\n大将无坐骑怎赴战场？\n有老夫保圣驾料也无妨。"
+          "text": "大将军说话欠思量，"
+        },
+        {
+          "character": "吴桢",
+          "line_type": "二黄摇板",
+          "musical_style": "二黄摇板",
+          "style_family": "二黄",
+          "text": "大将无坐骑怎赴战场？"
+        },
+        {
+          "character": "吴桢",
+          "line_type": "二黄摇板",
+          "musical_style": "二黄摇板",
+          "style_family": "二黄",
+          "text": "有老夫保圣驾料也无妨。"
         },
         {
           "character": null,
@@ -378,7 +422,17 @@
         "musical_styles": [
           "二黄摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.2,
+        0.5,
+        0.5,
+        0.0,
+        0.5714,
+        2,
+        0.0,
+        0.5
+      ]
     },
     {
       "scene_index": 5,
@@ -492,7 +546,21 @@
           "line_type": "二黄摇板",
           "musical_style": "二黄摇板",
           "style_family": "二黄",
-          "text": "小番儿行事太狂妄，\n擅敢在酒宴前刺杀君王。\n杀了那刘福通再做商量。"
+          "text": "小番儿行事太狂妄，"
+        },
+        {
+          "character": "吴桢",
+          "line_type": "二黄摇板",
+          "musical_style": "二黄摇板",
+          "style_family": "二黄",
+          "text": "擅敢在酒宴前刺杀君王。"
+        },
+        {
+          "character": "吴桢",
+          "line_type": "二黄摇板",
+          "musical_style": "二黄摇板",
+          "style_family": "二黄",
+          "text": "杀了那刘福通再做商量。"
         },
         {
           "character": null,
@@ -526,7 +594,17 @@
         "musical_styles": [
           "二黄摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.2143,
+        0.7857,
+        0.0,
+        0.6923,
+        3,
+        0.0,
+        0.2143
+      ]
     },
     {
       "scene_index": 6,
@@ -549,7 +627,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 7,
@@ -584,7 +672,17 @@
         "musical_styles": [
           "二黄摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        1.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1,
+        0.0,
+        1.0
+      ]
     },
     {
       "scene_index": 8,
@@ -608,7 +706,21 @@
           "line_type": "二黄摇板",
           "musical_style": "二黄摇板",
           "style_family": "二黄",
-          "text": "恼恨那刘福通贼奸党，\n为何故放火焚烧百凉？\n怕的是君臣们难回朝堂。"
+          "text": "恼恨那刘福通贼奸党，"
+        },
+        {
+          "character": "朱元璋",
+          "line_type": "二黄摇板",
+          "musical_style": "二黄摇板",
+          "style_family": "二黄",
+          "text": "为何故放火焚烧百凉？"
+        },
+        {
+          "character": "朱元璋",
+          "line_type": "二黄摇板",
+          "musical_style": "二黄摇板",
+          "style_family": "二黄",
+          "text": "怕的是君臣们难回朝堂。"
         },
         {
           "character": null,
@@ -632,7 +744,14 @@
           "text": "又只见老将军站立一旁。"
         },
         {
-          "character": "我君臣今入了天罗地网、吴桢",
+          "character": "朱元璋",
+          "line_type": "二黄摇板",
+          "musical_style": "二黄摇板",
+          "style_family": "二黄",
+          "text": "我君臣今入了天罗地网"
+        },
+        {
+          "character": "吴桢",
           "line_type": "二黄摇板",
           "musical_style": "二黄摇板",
           "style_family": "二黄",
@@ -664,7 +783,14 @@
           "line_type": "二黄摇板",
           "musical_style": "二黄摇板",
           "style_family": "二黄",
-          "text": "牵战马来至在乱石岗上，\n只见那老吴桢扶保吾王。"
+          "text": "牵战马来至在乱石岗上，"
+        },
+        {
+          "character": "蒋忠",
+          "line_type": "二黄摇板",
+          "musical_style": "二黄摇板",
+          "style_family": "二黄",
+          "text": "只见那老吴桢扶保吾王。"
         },
         {
           "character": null,
@@ -738,7 +864,17 @@
           "二黄导板",
           "二黄摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        1.0,
+        1.0,
+        0.0,
+        0.0,
+        0.3846,
+        3,
+        0.0,
+        1.0
+      ]
     },
     {
       "scene_index": 9,
@@ -792,7 +928,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 10,
@@ -813,7 +959,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "看那厮杀法厉害，来，弓箭手伺候！\n（蒋忠上，四龙套同追上，同开打。刘福通败下，四龙套同追下。四弓箭手同上，埋伏。刘福通上，蒋忠追"
+          "text": "看那厮杀法厉害，来，弓箭手伺候！"
+        },
+        {
+          "character": "刘福通",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "（蒋忠上，四龙套同追上，同开打。刘福通败下，四龙套同追下。四弓箭手同上，埋伏。刘福通上，蒋忠追"
         }
       ],
       "interactions": [],
@@ -825,7 +978,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 11,
@@ -910,7 +1073,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 12,
@@ -931,7 +1104,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "俺，常遇春。我主去赴兴隆大会，恐有不测，不免前去保驾便了。\n众将官，杀上前去！"
+          "text": "俺，常遇春。我主去赴兴隆大会，恐有不测，不免前去保驾便了。"
+        },
+        {
+          "character": "常遇春",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "众将官，杀上前去！"
         },
         {
           "character": null,
@@ -950,7 +1130,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 13,
@@ -973,7 +1163,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 14,
@@ -1026,7 +1226,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        2,
+        0.0,
+        0.0
+      ]
     }
   ]
 }

@@ -543,14 +543,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "你我奉靠山王之命，押解皇纲，运往长安，我想这一十六万饷银，关系非小。\n看前面已是济州长叶岭，此地惯出响马，你我要小心一二。"
+          "text": "你我奉靠山王之命，押解皇纲，运往长安，我想这一十六万饷银，关系非小。"
+        },
+        {
+          "character": "邓芳",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "看前面已是济州长叶岭，此地惯出响马，你我要小心一二。"
         },
         {
           "character": "徐亮",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "大哥但放宽心，我等在靠山王帐下，身为太保，武艺高强，慢说无有响马，纵\n有响马，凭着我等武艺，管叫他活的来，死的去！"
+          "text": "大哥但放宽心，我等在靠山王帐下，身为太保，武艺高强，慢说无有响马，纵"
+        },
+        {
+          "character": "徐亮",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "有响马，凭着我等武艺，管叫他活的来，死的去！"
         },
         {
           "character": "邓芳",
@@ -633,7 +647,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.8667,
+        0.1333,
+        0.7143,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -721,7 +745,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "程大哥，靠山王替那昏王杨广，打点了一十六万饷银，咱二人将它劫下，人不\n知鬼不晓，待等机缘，招兵买马，占山为王，岂不逍遥自在？依我看来，报仇\n事小，皇纲事大。"
+          "text": "程大哥，靠山王替那昏王杨广，打点了一十六万饷银，咱二人将它劫下，人不"
+        },
+        {
+          "character": "尤俊达",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "知鬼不晓，待等机缘，招兵买马，占山为王，岂不逍遥自在？依我看来，报仇"
+        },
+        {
+          "character": "尤俊达",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "事小，皇纲事大。"
         },
         {
           "character": "程咬金",
@@ -749,7 +787,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "嗳，我说两位瓢把子。杀了杨林，才能劫得皇纲，要劫皇纲，就得杀死杨林。\n这头不着那头着，两头一着才对杓。只要程爷的大斧子一抡，皇纲跑不了，杨\n林也活不了！"
+          "text": "嗳，我说两位瓢把子。杀了杨林，才能劫得皇纲，要劫皇纲，就得杀死杨林。"
+        },
+        {
+          "character": "朱能",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "这头不着那头着，两头一着才对杓。只要程爷的大斧子一抡，皇纲跑不了，杨"
+        },
+        {
+          "character": "朱能",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "林也活不了！"
         },
         {
           "character": "程咬金",
@@ -1022,7 +1074,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "程爷，您不知道。想当年我们尤爷，在二贤庄上，金盆洗手，声言不再作案。\n如今劫了一十六万龙衣纲，公差缉捕，那还不在话下，倘被绿林闻知，怎对得\n起总瓢把子单雄信哪！"
+          "text": "程爷，您不知道。想当年我们尤爷，在二贤庄上，金盆洗手，声言不再作案。"
+        },
+        {
+          "character": "朱能",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "如今劫了一十六万龙衣纲，公差缉捕，那还不在话下，倘被绿林闻知，怎对得"
+        },
+        {
+          "character": "朱能",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "起总瓢把子单雄信哪！"
         },
         {
           "character": "尤俊达",
@@ -1092,7 +1158,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "如今，皇纲被劫，那杨林必然行文搜捕，倘若破案，大哥怎能再会杨林；若不\n破案，杨林必然亲押皇纲，二次重来。那时你会杨林、报父仇，手中大斧岂不\n是真的开张了么？"
+          "text": "如今，皇纲被劫，那杨林必然行文搜捕，倘若破案，大哥怎能再会杨林；若不"
+        },
+        {
+          "character": "尤俊达",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "破案，杨林必然亲押皇纲，二次重来。那时你会杨林、报父仇，手中大斧岂不"
+        },
+        {
+          "character": "尤俊达",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "是真的开张了么？"
         },
         {
           "character": "程咬金",
@@ -1239,7 +1319,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0149,
+        0.9403,
+        0.0448,
+        0.7424,
+        6,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -1296,7 +1386,42 @@
           "line_type": "西皮流水板",
           "musical_style": "西皮流水板",
           "style_family": "西皮",
-          "text": "当年结拜二贤庄，\n单雄信对我叙衷肠。\n我把那响马弟兄当作手足行。\n杨林行文到大堂。\n一路行来暗思量。\n事有可疑探端详。"
+          "text": "当年结拜二贤庄，"
+        },
+        {
+          "character": "秦琼",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "单雄信对我叙衷肠。"
+        },
+        {
+          "character": "秦琼",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "我把那响马弟兄当作手足行。"
+        },
+        {
+          "character": "秦琼",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "杨林行文到大堂。"
+        },
+        {
+          "character": "秦琼",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "一路行来暗思量。"
+        },
+        {
+          "character": "秦琼",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "事有可疑探端详。"
         },
         {
           "character": null,
@@ -1310,14 +1435,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "啊，二哥。想那尤俊达曾在二贤庄上，金盆洗手，声言不再作案，我想劫夺皇\n纲之人，未必是他吧？"
+          "text": "啊，二哥。想那尤俊达曾在二贤庄上，金盆洗手，声言不再作案，我想劫夺皇"
+        },
+        {
+          "character": "连明",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "纲之人，未必是他吧？"
         },
         {
           "character": "樊虎",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "二哥办案多年，真要是输了眼睛，绿林道传为笑谈，六扇门儿留个话靶儿，岂\n不是猪八戒照镜子，里外不是人儿啦吗？"
+          "text": "二哥办案多年，真要是输了眼睛，绿林道传为笑谈，六扇门儿留个话靶儿，岂"
+        },
+        {
+          "character": "樊虎",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "不是猪八戒照镜子，里外不是人儿啦吗？"
         },
         {
           "character": "秦琼",
@@ -1331,14 +1470,35 @@
           "line_type": "西皮流水板",
           "musical_style": "西皮流水板",
           "style_family": "西皮",
-          "text": "多谢贤弟好心肠。\n看我怎访龙衣纲，自有主张。"
+          "text": "多谢贤弟好心肠。"
         },
         {
-          "character": "二位只管随兄往、樊虎",
+          "character": "秦琼",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "看我怎访龙衣纲，自有主张。"
+        },
+        {
+          "character": "秦琼",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "二位只管随兄往"
+        },
+        {
+          "character": "樊虎",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "二哥是玻璃眼睛琉璃心，说得准，料得就，真要是应了您的话，贾家楼罚我作\n东。"
+          "text": "二哥是玻璃眼睛琉璃心，说得准，料得就，真要是应了您的话，贾家楼罚我作"
+        },
+        {
+          "character": "樊虎",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "东。"
         },
         {
           "character": "连明",
@@ -1576,10 +1736,31 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "漫天撒谎俱是假，\n嘴巧舌能信口答。\n你就说他热孝在身，我不敢惊动他。"
+          "text": "漫天撒谎俱是假，"
         },
         {
-          "character": "庄主面前替我回句话、朱能",
+          "character": "秦琼",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "嘴巧舌能信口答。"
+        },
+        {
+          "character": "秦琼",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "你就说他热孝在身，我不敢惊动他。"
+        },
+        {
+          "character": "秦琼",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "庄主面前替我回句话"
+        },
+        {
+          "character": "朱能",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -1611,7 +1792,14 @@
           "line_type": "数板",
           "musical_style": null,
           "style_family": null,
-          "text": "秦叔宝，秦叔宝，任你心灵与嘴巧。你在公门来办案，我们早已安排好。劫皇\n纲，二十四，二十四，人死了。一人没有分身法，这就把你蒙住了，蒙住了！"
+          "text": "秦叔宝，秦叔宝，任你心灵与嘴巧。你在公门来办案，我们早已安排好。劫皇"
+        },
+        {
+          "character": "朱能",
+          "line_type": "数板",
+          "musical_style": null,
+          "style_family": null,
+          "text": "纲，二十四，二十四，人死了。一人没有分身法，这就把你蒙住了，蒙住了！"
         },
         {
           "character": "秦琼",
@@ -1632,7 +1820,21 @@
           "line_type": "西皮快板",
           "musical_style": "西皮快板",
           "style_family": "西皮",
-          "text": "尤俊达安排好圈套，\n假作母亡出丧条。\n看一看谁的计谋高。"
+          "text": "尤俊达安排好圈套，"
+        },
+        {
+          "character": "秦琼",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "假作母亡出丧条。"
+        },
+        {
+          "character": "秦琼",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "看一看谁的计谋高。"
         },
         {
           "character": null,
@@ -1765,7 +1967,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "是啦。尤庄主，咱们是心照不宣。有什么话，您跟我们二哥说，我们哥儿俩可\n是不陪啦。兄弟，咱们走咋。"
+          "text": "是啦。尤庄主，咱们是心照不宣。有什么话，您跟我们二哥说，我们哥儿俩可"
+        },
+        {
+          "character": "樊虎",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "是不陪啦。兄弟，咱们走咋。"
         },
         {
           "character": "连明",
@@ -1856,7 +2065,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "家人自在安闲。休道是老丧在堂，令人不信，就是做戏么，你也做得不像啊！\n哈哈哈……"
+          "text": "家人自在安闲。休道是老丧在堂，令人不信，就是做戏么，你也做得不像啊！"
+        },
+        {
+          "character": "秦琼",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "哈哈哈……"
         },
         {
           "character": "尤俊达",
@@ -1870,7 +2086,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "嘿嘿，你倒反问于我！待我说破你的妙策：当年你在二贤庄上，金盆洗手，声\n言不再作案，如今——"
+          "text": "嘿嘿，你倒反问于我！待我说破你的妙策：当年你在二贤庄上，金盆洗手，声"
+        },
+        {
+          "character": "秦琼",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "言不再作案，如今——"
         },
         {
           "character": null,
@@ -1891,7 +2114,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "如今你在小孤山长叶岭，劫夺了一十六万龙衣纲，只怕公人破案，绿林知情，\n因此假办母丧，掩盖遮瞒！你这妙计，只能瞒哄旁人，焉能瞒你秦二哥呀哈哈\n哈……"
+          "text": "如今你在小孤山长叶岭，劫夺了一十六万龙衣纲，只怕公人破案，绿林知情，"
+        },
+        {
+          "character": "秦琼",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "因此假办母丧，掩盖遮瞒！你这妙计，只能瞒哄旁人，焉能瞒你秦二哥呀哈哈"
+        },
+        {
+          "character": "秦琼",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "哈……"
         },
         {
           "character": "尤俊达",
@@ -1961,7 +2198,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "哎呀贤弟呀！想那龙衣纲不义之财，劫得倒也爽快！愚兄接得此案，吃惊不小，\n因此前来，问一个虚实真假。只要你说了实情，兄也好心中有底，早作提防。\n绿林若问，有愚兄替你担待；官府若追，有愚兄替你承当。俺秦琼的双肩虽\n小，却担得起这一十六万龙衣纲！"
+          "text": "哎呀贤弟呀！想那龙衣纲不义之财，劫得倒也爽快！愚兄接得此案，吃惊不小，"
+        },
+        {
+          "character": "秦琼",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "因此前来，问一个虚实真假。只要你说了实情，兄也好心中有底，早作提防。"
+        },
+        {
+          "character": "秦琼",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "绿林若问，有愚兄替你担待；官府若追，有愚兄替你承当。俺秦琼的双肩虽"
+        },
+        {
+          "character": "秦琼",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "小，却担得起这一十六万龙衣纲！"
         },
         {
           "character": "尤俊达",
@@ -1989,10 +2247,24 @@
           "line_type": "西皮散板",
           "musical_style": "西皮散板",
           "style_family": "西皮",
-          "text": "英雄理当心相照，\n一字点破何需描。"
+          "text": "英雄理当心相照，"
         },
         {
-          "character": "再三劝说你不晓、程咬金",
+          "character": "秦琼",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "一字点破何需描。"
+        },
+        {
+          "character": "秦琼",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "再三劝说你不晓"
+        },
+        {
+          "character": "程咬金",
           "line_type": "内白",
           "musical_style": null,
           "style_family": null,
@@ -2087,7 +2359,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "好，您忘了我啦？咱们俩小的时候常在一块玩儿，踢球打嘎儿撢脑台儿，我揪\n你的蓝布褂儿，你撕我的屁股帘儿，您都忘了，我的秦二哥！"
+          "text": "好，您忘了我啦？咱们俩小的时候常在一块玩儿，踢球打嘎儿撢脑台儿，我揪"
+        },
+        {
+          "character": "程咬金",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "你的蓝布褂儿，你撕我的屁股帘儿，您都忘了，我的秦二哥！"
         },
         {
           "character": "秦琼",
@@ -2293,7 +2572,17 @@
           "西皮流水",
           "西皮流水板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.023,
+        0.1812,
+        0.8043,
+        0.0145,
+        0.6861,
+        7,
+        0.1594,
+        0.0
+      ]
     },
     {
       "scene_index": 4,
@@ -2862,7 +3151,17 @@
         "musical_styles": [
           "西皮散板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.04,
+        0.0566,
+        0.8491,
+        0.0943,
+        0.8269,
+        7,
+        0.0566,
+        0.0
+      ]
     },
     {
       "scene_index": 5,
@@ -4054,7 +4353,17 @@
           "西皮散板",
           "西皮流水"
         ]
-      }
+      },
+      "scene_feature": [
+        0.05,
+        0.0943,
+        0.8868,
+        0.0189,
+        0.9048,
+        17,
+        0.066,
+        0.0
+      ]
     },
     {
       "scene_index": 6,
@@ -5599,7 +5908,17 @@
           "西皮快板",
           "西皮散板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.08,
+        0.1867,
+        0.78,
+        0.0333,
+        0.6913,
+        13,
+        0.1667,
+        0.0
+      ]
     },
     {
       "scene_index": 7,
@@ -6476,7 +6795,17 @@
           "西皮快板",
           "西皮散板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.026,
+        0.0465,
+        0.907,
+        0.0465,
+        0.8353,
+        13,
+        0.0349,
+        0.0
+      ]
     },
     {
       "scene_index": 8,
@@ -7251,7 +7580,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.9868,
+        0.0132,
+        0.9467,
+        8,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 9,
@@ -7774,7 +8113,17 @@
           "西皮散板",
           "西皮流水"
         ]
-      }
+      },
+      "scene_feature": [
+        0.125,
+        0.3125,
+        0.6667,
+        0.0208,
+        0.4468,
+        6,
+        0.3125,
+        0.0
+      ]
     },
     {
       "scene_index": 10,
@@ -8063,7 +8412,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0385,
+        0.8077,
+        0.1538,
+        0.72,
+        5,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 11,
@@ -8737,7 +9096,17 @@
           "二黄散板",
           "二黄碰板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.034,
+        0.1571,
+        0.8,
+        0.0429,
+        0.8116,
+        6,
+        0.0,
+        0.1571
+      ]
     },
     {
       "scene_index": 12,
@@ -8831,7 +9200,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.8,
+        0.2,
+        0.5,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 13,
@@ -8999,7 +9378,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.8889,
+        7,
+        0.0,
+        0.0
+      ]
     }
   ]
 }

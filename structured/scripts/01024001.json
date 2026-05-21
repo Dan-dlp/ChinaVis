@@ -493,7 +493,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "我等奉了鲍老丈之命，前往嘉兴，在中途截杀王伦家眷。看前面已是嘉兴府城，\n你我就在城外，等候那王伦便了。"
+          "text": "我等奉了鲍老丈之命，前往嘉兴，在中途截杀王伦家眷。看前面已是嘉兴府城，"
+        },
+        {
+          "character": "骆宏勋",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "你我就在城外，等候那王伦便了。"
         },
         {
           "character": "冯洪、濮天鹏、余千、任正千",
@@ -507,7 +514,14 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "大家在此把身隐，\n一同等候杀王伦。"
+          "text": "大家在此把身隐，"
+        },
+        {
+          "character": "骆宏勋",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "一同等候杀王伦。"
         },
         {
           "character": null,
@@ -539,7 +553,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.4,
+        0.375,
+        0.625,
+        0.0,
+        0.5714,
+        2,
+        0.375,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -560,7 +584,14 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "我今奉命离家门，\n去到嘉兴要临民。"
+          "text": "我今奉命离家门，"
+        },
+        {
+          "character": "王伦",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "去到嘉兴要临民。"
         },
         {
           "character": null,
@@ -595,7 +626,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        1.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1,
+        1.0,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -632,7 +673,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "吾，陈健元。大唐驾前为臣，官拜嘉兴府总镇。昨日探马报到，有新任嘉兴府\n知府到任前来，但不知何日进城。\n中军！"
+          "text": "吾，陈健元。大唐驾前为臣，官拜嘉兴府总镇。昨日探马报到，有新任嘉兴府"
+        },
+        {
+          "character": "陈健元",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "知府到任前来，但不知何日进城。"
+        },
+        {
+          "character": "陈健元",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "中军！"
         },
         {
           "character": "中军",
@@ -724,7 +779,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0909,
+        0.8182,
+        0.0909,
+        0.5,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 4,
@@ -814,7 +879,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 5,
@@ -842,7 +917,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "俺，花振芳。是俺同鲍自安商议女儿的亲事，可恨那骆宏勋小奴才再三不允。\n鲍自安替我定下毒计，不免先将桂家小姐接到山东，再做道理。\n巴龙、巴虎，听令。命你二人假扮骆府之人，去到浙江将桂家小姐接来，不得\n有误。"
+          "text": "俺，花振芳。是俺同鲍自安商议女儿的亲事，可恨那骆宏勋小奴才再三不允。"
+        },
+        {
+          "character": "花振芳",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "鲍自安替我定下毒计，不免先将桂家小姐接到山东，再做道理。"
+        },
+        {
+          "character": "花振芳",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "巴龙、巴虎，听令。命你二人假扮骆府之人，去到浙江将桂家小姐接来，不得"
+        },
+        {
+          "character": "花振芳",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "有误。"
         },
         {
           "character": null,
@@ -876,7 +972,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.8333,
+        0.1667,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 6,
@@ -900,7 +1006,35 @@
           "line_type": "二黄慢板",
           "musical_style": "二黄慢板",
           "style_family": "二黄",
-          "text": "想当年在定兴何等侥幸，\n遭不幸我的夫一命归阴。\n到扬州将灵榇埋葬在先茔。\n我命他到浙江去把亲成。\n免得我终日里常挂在心。"
+          "text": "想当年在定兴何等侥幸，"
+        },
+        {
+          "character": "何氏",
+          "line_type": "二黄慢板",
+          "musical_style": "二黄慢板",
+          "style_family": "二黄",
+          "text": "遭不幸我的夫一命归阴。"
+        },
+        {
+          "character": "何氏",
+          "line_type": "二黄慢板",
+          "musical_style": "二黄慢板",
+          "style_family": "二黄",
+          "text": "到扬州将灵榇埋葬在先茔。"
+        },
+        {
+          "character": "何氏",
+          "line_type": "二黄慢板",
+          "musical_style": "二黄慢板",
+          "style_family": "二黄",
+          "text": "我命他到浙江去把亲成。"
+        },
+        {
+          "character": "何氏",
+          "line_type": "二黄慢板",
+          "musical_style": "二黄慢板",
+          "style_family": "二黄",
+          "text": "免得我终日里常挂在心。"
         },
         {
           "character": null,
@@ -921,7 +1055,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "来此已是。\n门上有人么？"
+          "text": "来此已是。"
+        },
+        {
+          "character": "水手",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "门上有人么？"
         },
         {
           "character": null,
@@ -949,7 +1090,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "正是骆府。将书信拿来，你且候着。\n启老夫人：有人送来书信一封呈上。"
+          "text": "正是骆府。将书信拿来，你且候着。"
+        },
+        {
+          "character": "骆贵",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "启老夫人：有人送来书信一封呈上。"
         },
         {
           "character": "何氏",
@@ -970,7 +1118,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "原来是我儿路过鲍家庄，被鲍老丈将他留在那里居住。\n家院，取二两银子赏与下书人。"
+          "text": "原来是我儿路过鲍家庄，被鲍老丈将他留在那里居住。"
+        },
+        {
+          "character": "何氏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "家院，取二两银子赏与下书人。"
         },
         {
           "character": "骆贵",
@@ -1012,7 +1167,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "来此已是。\n门上有人么？"
+          "text": "来此已是。"
+        },
+        {
+          "character": "院子",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "门上有人么？"
         },
         {
           "character": "骆贵",
@@ -1033,7 +1195,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "候着。\n启老夫人：又有书信一封。"
+          "text": "候着。"
+        },
+        {
+          "character": "骆贵",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "启老夫人：又有书信一封。"
         },
         {
           "character": "何氏",
@@ -1061,7 +1230,14 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "一见书信心好惨，\n天降大祸为哪般？"
+          "text": "一见书信心好惨，"
+        },
+        {
+          "character": "何氏",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "天降大祸为哪般？"
         },
         {
           "character": "何氏",
@@ -1110,7 +1286,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "指望我儿前往浙江就亲，不想桂亲家那里忽遭天火。如此看来，必须叫我儿快\n快回来，才是正理。待老身明日给他写信便了。"
+          "text": "指望我儿前往浙江就亲，不想桂亲家那里忽遭天火。如此看来，必须叫我儿快"
+        },
+        {
+          "character": "何氏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "快回来，才是正理。待老身明日给他写信便了。"
         },
         {
           "character": null,
@@ -1124,14 +1307,42 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "天已不早，不免安歇了罢。\n（何氏入帐，丫鬟退出带门下。巴仁、巴义、巴礼、巴智同抬死尸上，花振芳上，推门入府放火，巴仁、巴\n义、巴礼、巴智、花振芳同跑下。何氏自帐中跑下。骆贵上，冲火下。巴仁、巴义、巴礼、巴智同抬死尸入\n帐内放下，同下。何氏上，左右冲火，跌僵尸。花振芳上，背何氏下。骆贵冒火上。）"
+          "text": "天已不早，不免安歇了罢。"
+        },
+        {
+          "character": "何氏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "（何氏入帐，丫鬟退出带门下。巴仁、巴义、巴礼、巴智同抬死尸上，花振芳上，推门入府放火，巴仁、巴"
+        },
+        {
+          "character": "何氏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "义、巴礼、巴智、花振芳同跑下。何氏自帐中跑下。骆贵上，冲火下。巴仁、巴义、巴礼、巴智同抬死尸入"
+        },
+        {
+          "character": "何氏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "帐内放下，同下。何氏上，左右冲火，跌僵尸。花振芳上，背何氏下。骆贵冒火上。）"
         },
         {
           "character": "骆贵",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "喂呀，且住。不想书房之内失火，沿烧了上房。不知老夫人如何，待我前去看\n来。"
+          "text": "喂呀，且住。不想书房之内失火，沿烧了上房。不知老夫人如何，待我前去看"
+        },
+        {
+          "character": "骆贵",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来。"
         },
         {
           "character": null,
@@ -1152,7 +1363,14 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "一见老夫人丧了命，\n点点珠泪洒埃尘。"
+          "text": "一见老夫人丧了命，"
+        },
+        {
+          "character": "骆贵",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "点点珠泪洒埃尘。"
         },
         {
           "character": "骆贵",
@@ -1173,7 +1391,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "且住，想老夫人已死，公子不在家中，这便如何是好？也罢，我不免去到徐大\n爷那里送信便了。"
+          "text": "且住，想老夫人已死，公子不在家中，这便如何是好？也罢，我不免去到徐大"
+        },
+        {
+          "character": "骆贵",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "爷那里送信便了。"
         },
         {
           "character": null,
@@ -1234,7 +1459,17 @@
           "二黄慢板",
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.042,
+        0.2174,
+        0.7609,
+        0.0217,
+        0.3556,
+        4,
+        0.087,
+        0.1087
+      ]
     },
     {
       "scene_index": 7,
@@ -1351,7 +1586,17 @@
           "西皮导板",
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.25,
+        0.2222,
+        0.7778,
+        0.0,
+        0.75,
+        2,
+        0.2222,
+        0.0
+      ]
     },
     {
       "scene_index": 8,
@@ -1429,7 +1674,14 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "一见舅母被火焚，\n好不叫人恸在心。"
+          "text": "一见舅母被火焚，"
+        },
+        {
+          "character": "徐松朋",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "好不叫人恸在心。"
         },
         {
           "character": "徐松朋",
@@ -1503,7 +1755,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.1,
+        0.1667,
+        0.75,
+        0.0833,
+        0.7273,
+        2,
+        0.1667,
+        0.0
+      ]
     },
     {
       "scene_index": 9,
@@ -1540,7 +1802,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "吾，栾一万。只因那日请来一个大汉，吾叫他去刺杀骆宏勋主仆，一去不见回\n头。到弗晓得是革啥道理？\n来呀！"
+          "text": "吾，栾一万。只因那日请来一个大汉，吾叫他去刺杀骆宏勋主仆，一去不见回"
+        },
+        {
+          "character": "栾一万",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "头。到弗晓得是革啥道理？"
+        },
+        {
+          "character": "栾一万",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来呀！"
         },
         {
           "character": "栾家院",
@@ -1624,7 +1900,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "不要紧，此处有一著名好汉，叫做朱彪，武艺高强。若要将他请得来，保管成\n功革。"
+          "text": "不要紧，此处有一著名好汉，叫做朱彪，武艺高强。若要将他请得来，保管成"
+        },
+        {
+          "character": "华三千",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "功革。"
         },
         {
           "character": "栾一万",
@@ -1700,7 +1983,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.9,
+        0.1,
+        0.7368,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 10,
@@ -1741,7 +2034,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "俺，朱彪。霸占地面，结交绿林，每日同众徒弟议论拳棒。\n来，有请众位英雄！"
+          "text": "俺，朱彪。霸占地面，结交绿林，每日同众徒弟议论拳棒。"
+        },
+        {
+          "character": "朱彪",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来，有请众位英雄！"
         },
         {
           "character": "四下手",
@@ -1804,7 +2104,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "来此已是。\n门上哪位在？"
+          "text": "来此已是。"
+        },
+        {
+          "character": "栾家院",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "门上哪位在？"
         },
         {
           "character": "下手甲",
@@ -1825,7 +2132,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "候着。\n启教师爷：华三千来拜。"
+          "text": "候着。"
+        },
+        {
+          "character": "下手甲",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "启教师爷：华三千来拜。"
         },
         {
           "character": "朱彪",
@@ -1846,7 +2160,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "朱教师在哪里吓？\n教师爷！"
+          "text": "朱教师在哪里吓？"
+        },
+        {
+          "character": "华三千",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "教师爷！"
         },
         {
           "character": "朱彪",
@@ -1874,7 +2195,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "只因吾家栾大爷要在扬州摆一擂台，欲请教师前去，为的是有一家仇人，借着\n打擂报仇。"
+          "text": "只因吾家栾大爷要在扬州摆一擂台，欲请教师前去，为的是有一家仇人，借着"
+        },
+        {
+          "character": "华三千",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "打擂报仇。"
         },
         {
           "character": "朱彪",
@@ -1993,7 +2321,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0312,
+        0.9062,
+        0.0625,
+        0.7419,
+        7,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 11,
@@ -2111,7 +2449,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.125,
+        0.125,
+        0.875,
+        0.0,
+        1.0,
+        3,
+        0.125,
+        0.0
+      ]
     },
     {
       "scene_index": 12,
@@ -2155,7 +2503,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "此乃骆老太太被火焚化，此中是她的尸骨。暂且停放阁中，待等骆公子归来，\n再行发丧安葬。"
+          "text": "此乃骆老太太被火焚化，此中是她的尸骨。暂且停放阁中，待等骆公子归来，"
+        },
+        {
+          "character": "徐松朋",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "再行发丧安葬。"
         },
         {
           "character": "僧人",
@@ -2211,7 +2566,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "方才那位公子送来的灵坛，其中不是骆老太太的尸骨，骆老太太并未有死，被\n花老寨主接到山东去啦。倘若骆公子来了，你就把这一套话对他说明，千万不\n要叫他过于悲哀。这有点零碎银子，以做香资。我告辞了。"
+          "text": "方才那位公子送来的灵坛，其中不是骆老太太的尸骨，骆老太太并未有死，被"
+        },
+        {
+          "character": "巴豹",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "花老寨主接到山东去啦。倘若骆公子来了，你就把这一套话对他说明，千万不"
+        },
+        {
+          "character": "巴豹",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "要叫他过于悲哀。这有点零碎银子，以做香资。我告辞了。"
         },
         {
           "character": "僧人",
@@ -2272,7 +2641,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.6667,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 13,
@@ -2311,7 +2690,14 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "灵瓮在庙中安排好，\n又听得擂台上闹吵吵。"
+          "text": "灵瓮在庙中安排好，"
+        },
+        {
+          "character": "徐松朋",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "又听得擂台上闹吵吵。"
         },
         {
           "character": "朱龙",
@@ -2346,7 +2732,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "呔！闻听人言，骆宏勋有一表兄，名唤徐松朋。他若见擂不打，真真是匹夫之\n辈！"
+          "text": "呔！闻听人言，骆宏勋有一表兄，名唤徐松朋。他若见擂不打，真真是匹夫之"
+        },
+        {
+          "character": "朱龙",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "辈！"
         },
         {
           "character": "徐松朋",
@@ -2414,7 +2807,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.111,
+        0.1818,
+        0.8182,
+        0.0,
+        0.8,
+        5,
+        0.1818,
+        0.0
+      ]
     },
     {
       "scene_index": 14,
@@ -2457,7 +2860,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "夫人有所不知，是我去到观音阁，将舅母尸骨停放在那里。路过平山堂，有一\n座擂台，上面有一大汉欺辱于俺。是俺上得擂台与他比试，不想一时大意被他\n打了一拳。打在臂上，痛煞人也。"
+          "text": "夫人有所不知，是我去到观音阁，将舅母尸骨停放在那里。路过平山堂，有一"
+        },
+        {
+          "character": "徐松朋",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "座擂台，上面有一大汉欺辱于俺。是俺上得擂台与他比试，不想一时大意被他"
+        },
+        {
+          "character": "徐松朋",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "打了一拳。打在臂上，痛煞人也。"
         },
         {
           "character": "徐夫人",
@@ -2471,7 +2888,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "骆贵，你快快去到龙潭镇鲍老丈家中，与你家公子送信，叫他快快奔丧前来。\n要紧快去！"
+          "text": "骆贵，你快快去到龙潭镇鲍老丈家中，与你家公子送信，叫他快快奔丧前来。"
+        },
+        {
+          "character": "徐松朋",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "要紧快去！"
         },
         {
           "character": null,
@@ -2500,7 +2924,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.875,
+        0.125,
+        0.4286,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 15,
@@ -2526,7 +2960,21 @@
           "line_type": "西皮摇报",
           "musical_style": "西皮摇报",
           "style_family": "西皮",
-          "text": "我命大众到嘉兴，\n中途路上杀王伦。\n但愿大家早回程。"
+          "text": "我命大众到嘉兴，"
+        },
+        {
+          "character": "鲍自安",
+          "line_type": "西皮摇报",
+          "musical_style": "西皮摇报",
+          "style_family": "西皮",
+          "text": "中途路上杀王伦。"
+        },
+        {
+          "character": "鲍自安",
+          "line_type": "西皮摇报",
+          "musical_style": "西皮摇报",
+          "style_family": "西皮",
+          "text": "但愿大家早回程。"
         },
         {
           "character": null,
@@ -2579,7 +3027,17 @@
         "musical_styles": [
           "西皮摇报"
         ]
-      }
+      },
+      "scene_feature": [
+        0.111,
+        0.6,
+        0.4,
+        0.0,
+        0.5,
+        2,
+        0.6,
+        0.0
+      ]
     },
     {
       "scene_index": 16,
@@ -2598,7 +3056,7 @@
           "text": "（王伦上，丑院子随上。）"
         },
         {
-          "character": null,
+          "character": "王伦",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -2719,7 +3177,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.8571,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 17,
@@ -2787,7 +3255,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 18,
@@ -2985,7 +3463,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.9412,
+        0.0588,
+        0.875,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 19,
@@ -3262,7 +3750,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.9643,
+        0.0357,
+        0.963,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 20,
@@ -3688,7 +4186,17 @@
           "西皮原板",
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.029,
+        0.0526,
+        0.9211,
+        0.0263,
+        0.8649,
+        7,
+        0.0526,
+        0.0
+      ]
     },
     {
       "scene_index": 21,
@@ -3836,7 +4344,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 22,
@@ -4021,7 +4539,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.7857,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 23,
@@ -4218,7 +4746,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.059,
+        0.0588,
+        0.9412,
+        0.0,
+        1.0,
+        4,
+        0.0588,
+        0.0
+      ]
     },
     {
       "scene_index": 24,
@@ -4561,7 +5099,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.7778,
+        6,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 25,
@@ -5252,7 +5800,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.9714,
+        0.0286,
+        0.9565,
+        7,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 26,
@@ -5449,7 +6007,17 @@
         "musical_styles": [
           "西皮流水板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.071,
+        0.0667,
+        0.9333,
+        0.0,
+        0.9286,
+        5,
+        0.0667,
+        0.0
+      ]
     },
     {
       "scene_index": 27,
@@ -5496,7 +6064,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.5,
+        0.5,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 28,
@@ -5536,7 +6114,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 29,
@@ -5784,7 +6372,17 @@
         "musical_styles": [
           "二黄摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.2,
+        0.2222,
+        0.7222,
+        0.0556,
+        0.6471,
+        5,
+        0.0,
+        0.2222
+      ]
     },
     {
       "scene_index": 30,
@@ -5824,7 +6422,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 31,
@@ -5932,7 +6540,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.8,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 32,
@@ -6200,7 +6818,17 @@
         "musical_styles": [
           "西皮原板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.158,
+        0.1579,
+        0.8421,
+        0.0,
+        0.8333,
+        5,
+        0.1579,
+        0.0
+      ]
     },
     {
       "scene_index": 33,
@@ -6240,7 +6868,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 34,
@@ -6487,7 +7125,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.9444,
+        5,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 35,
@@ -6527,7 +7175,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 36,
@@ -6662,7 +7320,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.8889,
+        0.1111,
+        0.75,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 37,
@@ -6715,7 +7383,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 38,
@@ -6741,7 +7419,21 @@
           "line_type": "西皮摇报",
           "musical_style": "西皮摇报",
           "style_family": "西皮",
-          "text": "我命大众到嘉兴，\n中途路上杀王伦。\n但愿大家早回程。"
+          "text": "我命大众到嘉兴，"
+        },
+        {
+          "character": "鲍自安",
+          "line_type": "西皮摇报",
+          "musical_style": "西皮摇报",
+          "style_family": "西皮",
+          "text": "中途路上杀王伦。"
+        },
+        {
+          "character": "鲍自安",
+          "line_type": "西皮摇报",
+          "musical_style": "西皮摇报",
+          "style_family": "西皮",
+          "text": "但愿大家早回程。"
         },
         {
           "character": null,
@@ -6779,7 +7471,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.6,
+        0.4,
+        0.0,
+        0.5,
+        2,
+        0.6,
+        0.0
+      ]
     },
     {
       "scene_index": 39,
@@ -6855,7 +7557,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.75,
+        0.25,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 40,
@@ -7968,7 +8680,17 @@
           "二黄导板",
           "二黄摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.02,
+        0.0826,
+        0.9174,
+        0.0,
+        0.8241,
+        12,
+        0.0,
+        0.0734
+      ]
     },
     {
       "scene_index": 41,
@@ -8093,7 +8815,17 @@
         "musical_styles": [
           "二黄摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.111,
+        0.1111,
+        0.8889,
+        0.0,
+        1.0,
+        3,
+        0.0,
+        0.1111
+      ]
     },
     {
       "scene_index": 42,
@@ -8458,7 +9190,17 @@
           "二黄摇板",
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.1471,
+        0.8529,
+        0.0,
+        0.7576,
+        4,
+        0.0294,
+        0.0882
+      ]
     },
     {
       "scene_index": 43,
@@ -8658,7 +9400,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.9167,
+        5,
+        0.0,
+        0.0
+      ]
     }
   ]
 }

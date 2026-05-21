@@ -142,7 +142,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "孤，楚王熊旅。恼恨斗越椒，兴兵犯上，欲夺孤王社稷。幸喜皇天保佑，灭却\n老贼，奏凯回朝。众家功臣，须得分功论赏。\n内侍，宣众功臣上殿！"
+          "text": "孤，楚王熊旅。恼恨斗越椒，兴兵犯上，欲夺孤王社稷。幸喜皇天保佑，灭却"
+        },
+        {
+          "character": "楚庄王",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "老贼，奏凯回朝。众家功臣，须得分功论赏。"
+        },
+        {
+          "character": "楚庄王",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "内侍，宣众功臣上殿！"
         },
         {
           "character": "内侍",
@@ -261,7 +275,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "梓童少礼，速登渐台。\n内侍，看酒。\n吓，众卿，今日与众卿饮宴，快乐非常。欲命徐妃，与诸卿进酒一杯，以取君\n臣同乐。"
+          "text": "梓童少礼，速登渐台。"
+        },
+        {
+          "character": "楚庄王",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "内侍，看酒。"
+        },
+        {
+          "character": "楚庄王",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "吓，众卿，今日与众卿饮宴，快乐非常。欲命徐妃，与诸卿进酒一杯，以取君"
+        },
+        {
+          "character": "楚庄王",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "臣同乐。"
         },
         {
           "character": "众将",
@@ -275,14 +310,35 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "孤心已定。\n梓童进酒。"
+          "text": "孤心已定。"
+        },
+        {
+          "character": "楚庄王",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "梓童进酒。"
         },
         {
           "character": "楚庄王",
           "line_type": "西皮原板",
           "musical_style": "西皮原板",
           "style_family": "西皮",
-          "text": "君臣对坐饮琼浆，\n分功论赏古之常。\n孤今日宴群臣喜洋洋。"
+          "text": "君臣对坐饮琼浆，"
+        },
+        {
+          "character": "楚庄王",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "分功论赏古之常。"
+        },
+        {
+          "character": "楚庄王",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "孤今日宴群臣喜洋洋。"
         },
         {
           "character": null,
@@ -317,7 +373,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "且慢掌灯。今日之宴，非比寻常。众卿各将盔缨摘下，就名为摘缨大会。若无\n盔缨者，罚酒三觥。"
+          "text": "且慢掌灯。今日之宴，非比寻常。众卿各将盔缨摘下，就名为摘缨大会。若无"
+        },
+        {
+          "character": "楚庄王",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "盔缨者，罚酒三觥。"
         },
         {
           "character": null,
@@ -398,7 +461,17 @@
         "musical_styles": [
           "西皮原板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.1471,
+        0.7647,
+        0.0882,
+        0.3636,
+        4,
+        0.1176,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -420,7 +493,21 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "适才殿上进酒浆，\n胆大狂徒起不良。\n等候大王问端详。"
+          "text": "适才殿上进酒浆，"
+        },
+        {
+          "character": "徐妃",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "胆大狂徒起不良。"
+        },
+        {
+          "character": "徐妃",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "等候大王问端详。"
         },
         {
           "character": null,
@@ -434,7 +521,14 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "宴罢了文武臣神清气爽，\n问梓童因何故面带彷徨？"
+          "text": "宴罢了文武臣神清气爽，"
+        },
+        {
+          "character": "楚庄王",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "问梓童因何故面带彷徨？"
         },
         {
           "character": "徐妃",
@@ -469,14 +563,63 @@
           "line_type": "西皮正板",
           "musical_style": "西皮正板",
           "style_family": "西皮",
-          "text": "劝梓童休得要把本奏上，\n听孤王把前情细说端详：\n只杀得众将官死故逃亡。\n天降下养由基英雄小——"
+          "text": "劝梓童休得要把本奏上，"
+        },
+        {
+          "character": "楚庄王",
+          "line_type": "西皮正板",
+          "musical_style": "西皮正板",
+          "style_family": "西皮",
+          "text": "听孤王把前情细说端详："
+        },
+        {
+          "character": "楚庄王",
+          "line_type": "西皮正板",
+          "musical_style": "西皮正板",
+          "style_family": "西皮",
+          "text": "只杀得众将官死故逃亡。"
+        },
+        {
+          "character": "楚庄王",
+          "line_type": "西皮正板",
+          "musical_style": "西皮正板",
+          "style_family": "西皮",
+          "text": "天降下养由基英雄小——"
         },
         {
           "character": "楚庄王",
           "line_type": "西皮二六板",
           "musical_style": "西皮二六板",
           "style_family": "西皮",
-          "text": "将，\n清河桥比箭法老贼身亡。\n就有那无名辈酒后癫狂。\n怕的是杀功臣遗笑邻邦。\n劝梓童把此事付与汪洋。"
+          "text": "将，"
+        },
+        {
+          "character": "楚庄王",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "清河桥比箭法老贼身亡。"
+        },
+        {
+          "character": "楚庄王",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "就有那无名辈酒后癫狂。"
+        },
+        {
+          "character": "楚庄王",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "怕的是杀功臣遗笑邻邦。"
+        },
+        {
+          "character": "楚庄王",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "劝梓童把此事付与汪洋。"
         },
         {
           "character": "楚庄王",
@@ -516,7 +659,17 @@
           "西皮二六",
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.333,
+        0.7895,
+        0.2105,
+        0.0,
+        0.2778,
+        2,
+        0.7895,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -537,7 +690,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "吾，晋国大司马先蔑。今奉晋侯之命，带领人马，攻伐楚邦。\n众将官，起兵前往。"
+          "text": "吾，晋国大司马先蔑。今奉晋侯之命，带领人马，攻伐楚邦。"
+        },
+        {
+          "character": "先蔑",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "众将官，起兵前往。"
         },
         {
           "character": null,
@@ -556,7 +716,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 4,
@@ -588,7 +758,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "老夫连尹襄老。今有晋国先蔑带兵前来，大王命我为前战先行。\n左右侍候了。"
+          "text": "老夫连尹襄老。今有晋国先蔑带兵前来，大王命我为前战先行。"
+        },
+        {
+          "character": "连尹襄老",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "左右侍候了。"
         },
         {
           "character": null,
@@ -644,14 +821,28 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "英雄惯出少年将，\n一人能当百万郎。"
+          "text": "英雄惯出少年将，"
+        },
+        {
+          "character": "唐狡",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "一人能当百万郎。"
         },
         {
           "character": "连尹襄老",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "本帅正要出兵，你在帐中絮絮叨叨。\n来，叉出帐去！"
+          "text": "本帅正要出兵，你在帐中絮絮叨叨。"
+        },
+        {
+          "character": "连尹襄老",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来，叉出帐去！"
         },
         {
           "character": "唐狡",
@@ -728,7 +919,21 @@
           "line_type": "西皮紧板",
           "musical_style": "西皮紧板",
           "style_family": "西皮",
-          "text": "旌旗不住空中飘，\n个个儿郎杀气高。\n旗开得胜转还朝。"
+          "text": "旌旗不住空中飘，"
+        },
+        {
+          "character": "楚庄王",
+          "line_type": "西皮紧板",
+          "musical_style": "西皮紧板",
+          "style_family": "西皮",
+          "text": "个个儿郎杀气高。"
+        },
+        {
+          "character": "楚庄王",
+          "line_type": "西皮紧板",
+          "musical_style": "西皮紧板",
+          "style_family": "西皮",
+          "text": "旗开得胜转还朝。"
         },
         {
           "character": null,
@@ -856,7 +1061,17 @@
           "西皮摇板",
           "西皮紧板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.045,
+        0.1667,
+        0.7667,
+        0.0667,
+        0.6897,
+        5,
+        0.1667,
+        0.0
+      ]
     },
     {
       "scene_index": 5,
@@ -891,7 +1106,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "且住。前面败的我主，后面乃是先蔑追赶。此时若不搭救，等待何时？\n唉！先蔑休走，你老爷来也！"
+          "text": "且住。前面败的我主，后面乃是先蔑追赶。此时若不搭救，等待何时？"
+        },
+        {
+          "character": "唐狡",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "唉！先蔑休走，你老爷来也！"
         },
         {
           "character": null,
@@ -910,7 +1132,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 6,
@@ -932,7 +1164,21 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "孤被先蔑挑下马，\n忽然闪出年少娃。\n孤王怎么就不认识他？"
+          "text": "孤被先蔑挑下马，"
+        },
+        {
+          "character": "楚庄王",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "忽然闪出年少娃。"
+        },
+        {
+          "character": "楚庄王",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "孤王怎么就不认识他？"
         },
         {
           "character": null,
@@ -1012,7 +1258,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.143,
+        0.3333,
+        0.6667,
+        0.0,
+        0.625,
+        2,
+        0.3333,
+        0.0
+      ]
     },
     {
       "scene_index": 7,
@@ -1072,7 +1328,28 @@
           "line_type": "西皮快板",
           "musical_style": "西皮快板",
           "style_family": "西皮",
-          "text": "战鼓不住咚咚打，\n先蔑老儿听根芽：\n此时为何被孤拿？\n立斩人头正军法。"
+          "text": "战鼓不住咚咚打，"
+        },
+        {
+          "character": "楚庄王",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "先蔑老儿听根芽："
+        },
+        {
+          "character": "楚庄王",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "此时为何被孤拿？"
+        },
+        {
+          "character": "楚庄王",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "立斩人头正军法。"
         },
         {
           "character": null,
@@ -1107,7 +1384,21 @@
           "line_type": "西皮快板",
           "musical_style": "西皮快板",
           "style_family": "西皮",
-          "text": "一见小将喜心下，\n孤王言来听根芽：\n你就是孤王救苦救难观世音、活菩萨。"
+          "text": "一见小将喜心下，"
+        },
+        {
+          "character": "楚庄王",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "孤王言来听根芽："
+        },
+        {
+          "character": "楚庄王",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "你就是孤王救苦救难观世音、活菩萨。"
         },
         {
           "character": "楚庄王",
@@ -1117,7 +1408,14 @@
           "text": "小将军，孤与你素不相识，你为何舍命救我？"
         },
         {
-          "character": "适才蒙你来救驾、唐狡",
+          "character": "楚庄王",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "适才蒙你来救驾"
+        },
+        {
+          "character": "唐狡",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -1128,7 +1426,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "啊，哈哈，呀！想当年摘缨会之时，孤若查明将他问斩，孤家焉有今日？\n呵，小将军，孤今封你统兵大元帅，参理朝政。"
+          "text": "啊，哈哈，呀！想当年摘缨会之时，孤若查明将他问斩，孤家焉有今日？"
+        },
+        {
+          "character": "楚庄王",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "呵，小将军，孤今封你统兵大元帅，参理朝政。"
         },
         {
           "character": "唐狡",
@@ -1142,7 +1447,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "慢着。今日他为元帅，正管我一头。不免与大王说明，替我讲个情儿。\n臣启大王：想臣那日出兵之际，小将曾来讨令，老臣因他年幼，将他叉出帐去。\n今日他为元帅，老臣正他所管，臣恐公报私仇，求大王做主。"
+          "text": "慢着。今日他为元帅，正管我一头。不免与大王说明，替我讲个情儿。"
+        },
+        {
+          "character": "连尹襄老",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "臣启大王：想臣那日出兵之际，小将曾来讨令，老臣因他年幼，将他叉出帐去。"
+        },
+        {
+          "character": "连尹襄老",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "今日他为元帅，老臣正他所管，臣恐公报私仇，求大王做主。"
         },
         {
           "character": "楚庄王",
@@ -1215,7 +1534,17 @@
         "musical_styles": [
           "西皮快板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.143,
+        0.2917,
+        0.6667,
+        0.0417,
+        0.4783,
+        4,
+        0.2917,
+        0.0
+      ]
     }
   ]
 }

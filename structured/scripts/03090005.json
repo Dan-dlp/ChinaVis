@@ -150,7 +150,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "小王，刘禅。国号建兴在位。自登基以来，风调雨顺，国泰民安。今当早朝。\n内侍！"
+          "text": "小王，刘禅。国号建兴在位。自登基以来，风调雨顺，国泰民安。今当早朝。"
+        },
+        {
+          "character": "刘禅",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "内侍！"
         },
         {
           "character": "大太监",
@@ -171,7 +178,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "遵旨。\n展放龙门哪！"
+          "text": "遵旨。"
+        },
+        {
+          "character": "大太监",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "展放龙门哪！"
         },
         {
           "character": "诸葛亮",
@@ -262,21 +276,84 @@
           "line_type": "二黄慢三眼板",
           "musical_style": "二黄慢三眼板",
           "style_family": "二黄",
-          "text": "先帝爷白帝城龙归海境，\n传口诏命老臣常挂在心。\n命老臣把孙、曹一扫平。\n望我主准本章臣好发兵。"
+          "text": "先帝爷白帝城龙归海境，"
         },
         {
-          "character": "叫老臣保我主社稷重整、臣上本并非为别事议论、刘禅",
+          "character": "诸葛亮",
+          "line_type": "二黄慢三眼板",
+          "musical_style": "二黄慢三眼板",
+          "style_family": "二黄",
+          "text": "传口诏命老臣常挂在心。"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "二黄慢三眼板",
+          "musical_style": "二黄慢三眼板",
+          "style_family": "二黄",
+          "text": "命老臣把孙、曹一扫平。"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "二黄慢三眼板",
+          "musical_style": "二黄慢三眼板",
+          "style_family": "二黄",
+          "text": "望我主准本章臣好发兵。"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "二黄慢三眼板",
+          "musical_style": "二黄慢三眼板",
+          "style_family": "二黄",
+          "text": "叫老臣保我主社稷重整"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "二黄慢三眼板",
+          "musical_style": "二黄慢三眼板",
+          "style_family": "二黄",
+          "text": "臣上本并非为别事议论"
+        },
+        {
+          "character": "刘禅",
           "line_type": "二黄原板",
           "musical_style": "二黄原板",
           "style_family": "二黄",
-          "text": "老相父上条陈孤心难忍，\n你本是先帝爷托孤老臣。\n待等到明日里长亭饯行。"
+          "text": "老相父上条陈孤心难忍，"
         },
         {
-          "character": "待等到明早朝文武议论、诸葛亮",
+          "character": "刘禅",
           "line_type": "二黄原板",
           "musical_style": "二黄原板",
           "style_family": "二黄",
-          "text": "食君禄报主恩忠心秉正，\n臣怎敢劳我主长亭饯行！"
+          "text": "你本是先帝爷托孤老臣。"
+        },
+        {
+          "character": "刘禅",
+          "line_type": "二黄原板",
+          "musical_style": "二黄原板",
+          "style_family": "二黄",
+          "text": "待等到明日里长亭饯行。"
+        },
+        {
+          "character": "刘禅",
+          "line_type": "二黄原板",
+          "musical_style": "二黄原板",
+          "style_family": "二黄",
+          "text": "待等到明早朝文武议论"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "二黄原板",
+          "musical_style": "二黄原板",
+          "style_family": "二黄",
+          "text": "食君禄报主恩忠心秉正，"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "二黄原板",
+          "musical_style": "二黄原板",
+          "style_family": "二黄",
+          "text": "臣怎敢劳我主长亭饯行！"
         },
         {
           "character": "刘禅",
@@ -350,7 +427,17 @@
           "二黄原板",
           "二黄摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.25,
+        0.5,
+        0.4706,
+        0.0294,
+        0.4545,
+        3,
+        0.0,
+        0.4412
+      ]
     },
     {
       "scene_index": 2,
@@ -567,7 +654,14 @@
           "line_type": "二黄原板",
           "musical_style": "二黄原板",
           "style_family": "二黄",
-          "text": "内侍臣看香案当中供定，\n待小王祭过了旗纛尊神。"
+          "text": "内侍臣看香案当中供定，"
+        },
+        {
+          "character": "刘禅",
+          "line_type": "二黄原板",
+          "musical_style": "二黄原板",
+          "style_family": "二黄",
+          "text": "待小王祭过了旗纛尊神。"
         },
         {
           "character": null,
@@ -581,7 +675,14 @@
           "line_type": "二黄原板",
           "musical_style": "二黄原板",
           "style_family": "二黄",
-          "text": "但愿得此一去旗开得胜，\n但愿得此一去马到功成。"
+          "text": "但愿得此一去旗开得胜，"
+        },
+        {
+          "character": "刘禅",
+          "line_type": "二黄原板",
+          "musical_style": "二黄原板",
+          "style_family": "二黄",
+          "text": "但愿得此一去马到功成。"
         },
         {
           "character": null,
@@ -609,7 +710,14 @@
           "line_type": "二黄原板",
           "musical_style": "二黄原板",
           "style_family": "二黄",
-          "text": "内侍臣看过了皇封御饮，\n我与相父来饯行。"
+          "text": "内侍臣看过了皇封御饮，"
+        },
+        {
+          "character": "刘禅",
+          "line_type": "二黄原板",
+          "musical_style": "二黄原板",
+          "style_family": "二黄",
+          "text": "我与相父来饯行。"
         },
         {
           "character": null,
@@ -623,7 +731,14 @@
           "line_type": "二黄原板",
           "musical_style": "二黄原板",
           "style_family": "二黄",
-          "text": "我主爷赐为臣皇封御饮，\n背转身谢过了旗纛尊神。"
+          "text": "我主爷赐为臣皇封御饮，"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "二黄原板",
+          "musical_style": "二黄原板",
+          "style_family": "二黄",
+          "text": "背转身谢过了旗纛尊神。"
         },
         {
           "character": null,
@@ -672,7 +787,14 @@
           "line_type": "二黄原板",
           "musical_style": "二黄原板",
           "style_family": "二黄",
-          "text": "臣年迈仗我主洪福天定，\n臣怎敢劳我主长亭饯行。"
+          "text": "臣年迈仗我主洪福天定，"
+        },
+        {
+          "character": "赵云",
+          "line_type": "二黄原板",
+          "musical_style": "二黄原板",
+          "style_family": "二黄",
+          "text": "臣怎敢劳我主长亭饯行。"
         },
         {
           "character": null,
@@ -686,17 +808,45 @@
           "line_type": "二黄原板",
           "musical_style": "二黄原板",
           "style_family": "二黄",
-          "text": "我朝中有二臣忠心秉正，\n蒋公琰、费文伟二大贤臣。\n常言道军国事依理而行！"
+          "text": "我朝中有二臣忠心秉正，"
         },
         {
-          "character": "主临朝大小事和他们议论、刘禅",
+          "character": "诸葛亮",
+          "line_type": "二黄原板",
+          "musical_style": "二黄原板",
+          "style_family": "二黄",
+          "text": "蒋公琰、费文伟二大贤臣。"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "二黄原板",
+          "musical_style": "二黄原板",
+          "style_family": "二黄",
+          "text": "常言道军国事依理而行！"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "二黄原板",
+          "musical_style": "二黄原板",
+          "style_family": "二黄",
+          "text": "主临朝大小事和他们议论"
+        },
+        {
+          "character": "刘禅",
           "line_type": "二黄原板",
           "musical_style": "二黄原板",
           "style_family": "二黄",
           "text": "老相父奏的事——"
         },
         {
-          "character": "主临朝大小事和他们议论、刘禅",
+          "character": "刘禅",
+          "line_type": "二黄原板",
+          "musical_style": "二黄原板",
+          "style_family": "二黄",
+          "text": "主临朝大小事和他们议论"
+        },
+        {
+          "character": "刘禅",
           "line_type": "二黄摇板",
           "musical_style": "二黄摇板",
           "style_family": "二黄",
@@ -742,7 +892,14 @@
           "line_type": "二黄摇板",
           "musical_style": "二黄摇板",
           "style_family": "二黄",
-          "text": "传将令众三军齐跨金镫，\n文武官齐免送响炮拔营！"
+          "text": "传将令众三军齐跨金镫，"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "二黄摇板",
+          "musical_style": "二黄摇板",
+          "style_family": "二黄",
+          "text": "文武官齐免送响炮拔营！"
         },
         {
           "character": "诸葛亮",
@@ -860,7 +1017,17 @@
           "二黄原板",
           "二黄摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.35,
+        0.4717,
+        0.434,
+        0.0943,
+        0.6346,
+        10,
+        0.0,
+        0.4717
+      ]
     },
     {
       "scene_index": 3,
@@ -955,7 +1122,14 @@
           "line_type": "同白",
           "musical_style": null,
           "style_family": null,
-          "text": "啊！\n免战高悬！"
+          "text": "啊！"
+        },
+        {
+          "character": "四红龙套",
+          "line_type": "同白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "免战高悬！"
         },
         {
           "character": "姜维",
@@ -983,7 +1157,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "某，姓姜名维字伯约。正在后帐观看兵书，忽听太守免战高悬，不免进帐问个\n明白。\n报，姜维告进！太守在上，末将参见！"
+          "text": "某，姓姜名维字伯约。正在后帐观看兵书，忽听太守免战高悬，不免进帐问个"
+        },
+        {
+          "character": "姜维",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "明白。"
+        },
+        {
+          "character": "姜维",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "报，姜维告进！太守在上，末将参见！"
         },
         {
           "character": "马遵",
@@ -1130,14 +1318,56 @@
           "line_type": "西皮原板",
           "musical_style": "西皮原板",
           "style_family": "西皮",
-          "text": "叫一声众三军细听根苗：\n全凭着五虎将立下功劳。\n他三弟张翼德喝断了当阳桥。\n还有个老黄忠惯使大刀。\n这一班五虎将——"
+          "text": "叫一声众三军细听根苗："
+        },
+        {
+          "character": "姜维",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "全凭着五虎将立下功劳。"
+        },
+        {
+          "character": "姜维",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "他三弟张翼德喝断了当阳桥。"
+        },
+        {
+          "character": "姜维",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "还有个老黄忠惯使大刀。"
+        },
+        {
+          "character": "姜维",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "这一班五虎将——"
         },
         {
           "character": "姜维",
           "line_type": "西皮快板",
           "musical_style": "西皮快板",
           "style_family": "西皮",
-          "text": "俱已丧了，\n只剩下赵子龙老迈年高。\n有关兴和张苞哪在心梢。"
+          "text": "俱已丧了，"
+        },
+        {
+          "character": "姜维",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "只剩下赵子龙老迈年高。"
+        },
+        {
+          "character": "姜维",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "有关兴和张苞哪在心梢。"
         },
         {
           "character": null,
@@ -1209,7 +1439,17 @@
           "西皮快板",
           "西皮散板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.065,
+        0.2326,
+        0.6744,
+        0.093,
+        0.619,
+        5,
+        0.2326,
+        0.0
+      ]
     },
     {
       "scene_index": 4,
@@ -1231,7 +1471,21 @@
           "line_type": "西皮快板",
           "musical_style": "西皮快板",
           "style_family": "西皮",
-          "text": "韩德父子打败仗，\n不由老夫喜洋洋。\n那旁来了送死郎。"
+          "text": "韩德父子打败仗，"
+        },
+        {
+          "character": "赵云",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "不由老夫喜洋洋。"
+        },
+        {
+          "character": "赵云",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "那旁来了送死郎。"
         },
         {
           "character": null,
@@ -1245,21 +1499,42 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "两军阵见一将年纪迈了，\n叫老儿通上名好把战交！"
-        },
-        {
-          "character": "赵云",
-          "line_type": "西皮摇板",
-          "musical_style": "西皮摇板",
-          "style_family": "西皮",
-          "text": "你老爷赵子龙谁人不晓，\n黄毛贼通上名好把战交！"
+          "text": "两军阵见一将年纪迈了，"
         },
         {
           "character": "姜维",
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "你老爷姜伯约谁人不晓，\n生擒你灭孔明就在今朝！"
+          "text": "叫老儿通上名好把战交！"
+        },
+        {
+          "character": "赵云",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "你老爷赵子龙谁人不晓，"
+        },
+        {
+          "character": "赵云",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "黄毛贼通上名好把战交！"
+        },
+        {
+          "character": "姜维",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "你老爷姜伯约谁人不晓，"
+        },
+        {
+          "character": "姜维",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "生擒你灭孔明就在今朝！"
         },
         {
           "character": null,
@@ -1273,7 +1548,21 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "正要擒那赵子龙，\n忽然闪出一孩童。\n亚赛当年美髯公。"
+          "text": "正要擒那赵子龙，"
+        },
+        {
+          "character": "姜维",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "忽然闪出一孩童。"
+        },
+        {
+          "character": "姜维",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "亚赛当年美髯公。"
         },
         {
           "character": null,
@@ -1311,7 +1600,17 @@
           "西皮快板",
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        1.0,
+        1.0,
+        0.0,
+        0.0,
+        0.25,
+        2,
+        1.0,
+        0.0
+      ]
     },
     {
       "scene_index": 5,
@@ -1383,7 +1682,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "头一阵枪挑韩德父子五人落马。后来一将，将俺杀得大败。不是关兴搭救，险\n遭不测。"
+          "text": "头一阵枪挑韩德父子五人落马。后来一将，将俺杀得大败。不是关兴搭救，险"
+        },
+        {
+          "character": "赵云",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "遭不测。"
         },
         {
           "character": "诸葛亮",
@@ -1488,21 +1794,49 @@
           "line_type": "西皮流水板",
           "musical_style": "西皮流水板",
           "style_family": "西皮",
-          "text": "镇北将军名魏延。\n口口声声出反言。"
+          "text": "镇北将军名魏延。"
         },
         {
-          "character": "假扮姜维关前战、魏延",
+          "character": "诸葛亮",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "口口声声出反言。"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "假扮姜维关前战"
+        },
+        {
+          "character": "魏延",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
           "text": "得令！"
         },
         {
-          "character": "假扮姜维关前战、魏延",
+          "character": "魏延",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "假扮姜维关前战"
+        },
+        {
+          "character": "魏延",
           "line_type": "西皮散板",
           "musical_style": "西皮散板",
           "style_family": "西皮",
-          "text": "接过丞相一令箭，\n假扮姜维去诈关。"
+          "text": "接过丞相一令箭，"
+        },
+        {
+          "character": "魏延",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "假扮姜维去诈关。"
         },
         {
           "character": null,
@@ -1523,21 +1857,49 @@
           "line_type": "西皮流水板",
           "musical_style": "西皮流水板",
           "style_family": "西皮",
-          "text": "你虚心假意战魏延。\n命你兵败凤凰山。"
+          "text": "你虚心假意战魏延。"
         },
         {
-          "character": "若遇姜维莫交战、马岱",
+          "character": "诸葛亮",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "命你兵败凤凰山。"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "若遇姜维莫交战"
+        },
+        {
+          "character": "马岱",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
           "text": "得令！"
         },
         {
-          "character": "若遇姜维莫交战、马岱",
+          "character": "马岱",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "若遇姜维莫交战"
+        },
+        {
+          "character": "马岱",
           "line_type": "西皮散板",
           "musical_style": "西皮散板",
           "style_family": "西皮",
-          "text": "丞相将令往下传，\n大战姜维在凤凰山。"
+          "text": "丞相将令往下传，"
+        },
+        {
+          "character": "马岱",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "大战姜维在凤凰山。"
         },
         {
           "character": null,
@@ -1558,10 +1920,31 @@
           "line_type": "西皮流水板",
           "musical_style": "西皮流水板",
           "style_family": "西皮",
-          "text": "齐心努力莫偷闲。\n杀得他四路无门跪马前。"
+          "text": "齐心努力莫偷闲。"
         },
         {
-          "character": "二马连环把姜维战、关兴、张苞",
+          "character": "诸葛亮",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "杀得他四路无门跪马前。"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "二马连环把姜维战"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "关兴"
+        },
+        {
+          "character": "张苞",
           "line_type": "同白",
           "musical_style": null,
           "style_family": null,
@@ -1674,7 +2057,17 @@
           "西皮散板",
           "西皮流水"
         ]
-      }
+      },
+      "scene_feature": [
+        0.217,
+        0.4634,
+        0.4878,
+        0.0488,
+        0.525,
+        7,
+        0.4634,
+        0.0
+      ]
     },
     {
       "scene_index": 6,
@@ -1866,7 +2259,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.583,
+        0.6154,
+        0.3077,
+        0.0769,
+        0.6667,
+        4,
+        0.6154,
+        0.0
+      ]
     },
     {
       "scene_index": 7,
@@ -1896,7 +2299,14 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "四面安排天罗网，\n姜维小儿无躲藏。"
+          "text": "四面安排天罗网，"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "姜维小儿无躲藏。"
         },
         {
           "character": null,
@@ -1924,7 +2334,14 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "四面俱是蜀营将，\n杀得豪杰无躲藏。"
+          "text": "四面俱是蜀营将，"
+        },
+        {
+          "character": "姜维",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "杀得豪杰无躲藏。"
         },
         {
           "character": "姜维",
@@ -1938,7 +2355,14 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "诸葛孔明在山冈。\n不由豪杰怒满膛。"
+          "text": "诸葛孔明在山冈。"
+        },
+        {
+          "character": "姜维",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "不由豪杰怒满膛。"
         },
         {
           "character": null,
@@ -1952,7 +2376,14 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "姜维小儿休逞强！\n为什么扶保篡位王？"
+          "text": "姜维小儿休逞强！"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "为什么扶保篡位王？"
         },
         {
           "character": null,
@@ -1987,7 +2418,14 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "豪杰入了天罗网，\n一人怎敌百万郎！"
+          "text": "豪杰入了天罗网，"
+        },
+        {
+          "character": "姜维",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "一人怎敌百万郎！"
         },
         {
           "character": null,
@@ -2050,24 +2488,59 @@
           "line_type": "西皮原板",
           "musical_style": "西皮原板",
           "style_family": "西皮",
-          "text": "事不随心意彷徨。\n爱将军是一个行孝的儿郎。"
+          "text": "事不随心意彷徨。"
         },
         {
-          "character": "我不爱将军韬略广、姜维",
+          "character": "诸葛亮",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "爱将军是一个行孝的儿郎。"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "我不爱将军韬略广"
+        },
+        {
+          "character": "姜维",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
           "text": "丞相！"
         },
         {
-          "character": "我不爱将军韬略广、姜维",
+          "character": "姜维",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我不爱将军韬略广"
+        },
+        {
+          "character": "姜维",
           "line_type": "西皮原板",
           "musical_style": "西皮原板",
           "style_family": "西皮",
-          "text": "久闻丞相韬略广，\n某早有降心归顺刘王。"
+          "text": "久闻丞相韬略广，"
         },
         {
-          "character": "望丞相开大恩将某放、诸葛亮",
+          "character": "姜维",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "某早有降心归顺刘王。"
+        },
+        {
+          "character": "姜维",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "望丞相开大恩将某放"
+        },
+        {
+          "character": "诸葛亮",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -2106,7 +2579,28 @@
           "line_type": "西皮原板",
           "musical_style": "西皮原板",
           "style_family": "西皮",
-          "text": "将军何必挂在胸膛。\n暗中得意喜洋洋。\n军师大印他承当。\n将军请把——"
+          "text": "将军何必挂在胸膛。"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "暗中得意喜洋洋。"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "军师大印他承当。"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "将军请把——"
         },
         {
           "character": "诸葛亮",
@@ -2116,7 +2610,21 @@
           "text": "车辇上，"
         },
         {
-          "character": "一出祁山收此将、怕只怕五丈原秋风降、姜维",
+          "character": "诸葛亮",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "一出祁山收此将"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "怕只怕五丈原秋风降"
+        },
+        {
+          "character": "姜维",
           "line_type": "西皮散板",
           "musical_style": "西皮散板",
           "style_family": "西皮",
@@ -2127,7 +2635,14 @@
           "line_type": "西皮散板",
           "musical_style": "西皮散板",
           "style_family": "西皮",
-          "text": "将酒宴摆在中军帐，\n我和你谈论兵机好做商量。"
+          "text": "将酒宴摆在中军帐，"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "我和你谈论兵机好做商量。"
         },
         {
           "character": null,
@@ -2178,7 +2693,17 @@
           "西皮摇板",
           "西皮散板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.556,
+        0.7381,
+        0.2619,
+        0.0,
+        0.3659,
+        4,
+        0.7381,
+        0.0
+      ]
     }
   ]
 }

@@ -108,14 +108,49 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "老夫，太宰闻仲魂灵是也。奉命征剿西歧，不幸命丧绝龙岭。本当封神台下听\n候法旨。奈因商汤江山，不久将终，为此回至朝歌，与昏王托一梦兆。\n鬼卒们驾起阴风，往朝歌去者。"
+          "text": "老夫，太宰闻仲魂灵是也。奉命征剿西歧，不幸命丧绝龙岭。本当封神台下听"
+        },
+        {
+          "character": "闻仲",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "候法旨。奈因商汤江山，不久将终，为此回至朝歌，与昏王托一梦兆。"
+        },
+        {
+          "character": "闻仲",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "鬼卒们驾起阴风，往朝歌去者。"
         },
         {
           "character": "闻仲",
           "line_type": "二黄原板",
           "musical_style": "二黄原板",
           "style_family": "二黄",
-          "text": "在生时保我主东征西战，\n小昏王宠妲己残害百官。\n比干相剖心亡令人可怜。\n但愿得天下转恢复江山。"
+          "text": "在生时保我主东征西战，"
+        },
+        {
+          "character": "闻仲",
+          "line_type": "二黄原板",
+          "musical_style": "二黄原板",
+          "style_family": "二黄",
+          "text": "小昏王宠妲己残害百官。"
+        },
+        {
+          "character": "闻仲",
+          "line_type": "二黄原板",
+          "musical_style": "二黄原板",
+          "style_family": "二黄",
+          "text": "比干相剖心亡令人可怜。"
+        },
+        {
+          "character": "闻仲",
+          "line_type": "二黄原板",
+          "musical_style": "二黄原板",
+          "style_family": "二黄",
+          "text": "但愿得天下转恢复江山。"
         },
         {
           "character": null,
@@ -135,7 +170,17 @@
         "musical_styles": [
           "二黄原板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.5556,
+        0.3333,
+        0.1111,
+        0.0,
+        1,
+        0.0,
+        0.4444
+      ]
     },
     {
       "scene_index": 2,
@@ -173,7 +218,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "孤，大商天子受辛在位。恼恨西歧，听信黄飞虎之言，口称吊民罚罪。孤命太\n宰闻仲，前去征剿，不见回朝。为此十分忧虑，不免宣苏妃上殿，共论大事。\n内臣！"
+          "text": "孤，大商天子受辛在位。恼恨西歧，听信黄飞虎之言，口称吊民罚罪。孤命太"
+        },
+        {
+          "character": "纣王",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "宰闻仲，前去征剿，不见回朝。为此十分忧虑，不免宣苏妃上殿，共论大事。"
+        },
+        {
+          "character": "纣王",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "内臣！"
         },
         {
           "character": "大太监甲",
@@ -194,7 +253,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "领旨。\n万岁有旨：宣苏国母上殿"
+          "text": "领旨。"
+        },
+        {
+          "character": "大太监甲",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "万岁有旨：宣苏国母上殿"
         },
         {
           "character": "妲己",
@@ -257,21 +323,42 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "梓童有所不知：只因太宰征剿西歧，未见回音。因此宣上爱妃，商议此事，以\n免寡人忧虑。"
-        },
-        {
-          "character": "妲己",
-          "line_type": "白",
-          "musical_style": null,
-          "style_family": null,
-          "text": "我主但放宽心，太宰乃是安邦之将，国家栋梁。自然扫灭西贼，不久得胜而归。\n万岁何必忧虑？"
+          "text": "梓童有所不知：只因太宰征剿西歧，未见回音。因此宣上爱妃，商议此事，以"
         },
         {
           "character": "纣王",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "梓童言之有理。\n内臣看酒，孤与梓童共饮一番。"
+          "text": "免寡人忧虑。"
+        },
+        {
+          "character": "妲己",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我主但放宽心，太宰乃是安邦之将，国家栋梁。自然扫灭西贼，不久得胜而归。"
+        },
+        {
+          "character": "妲己",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "万岁何必忧虑？"
+        },
+        {
+          "character": "纣王",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "梓童言之有理。"
+        },
+        {
+          "character": "纣王",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "内臣看酒，孤与梓童共饮一番。"
         },
         {
           "character": "妲己",
@@ -299,7 +386,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "寡人酒已够了。\n内臣撤去酒宴"
+          "text": "寡人酒已够了。"
+        },
+        {
+          "character": "纣王",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "内臣撤去酒宴"
         },
         {
           "character": null,
@@ -420,7 +514,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0294,
+        0.8529,
+        0.1176,
+        0.6061,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -558,7 +662,14 @@
           "line_type": "二黄摇板",
           "musical_style": "二黄摇板",
           "style_family": "二黄",
-          "text": "站至在金阶上且把话言：\n寿仙宫请我主驾出金銮。"
+          "text": "站至在金阶上且把话言："
+        },
+        {
+          "character": "闻仲",
+          "line_type": "二黄摇板",
+          "musical_style": "二黄摇板",
+          "style_family": "二黄",
+          "text": "寿仙宫请我主驾出金銮。"
         },
         {
           "character": "闻仲",
@@ -568,32 +679,67 @@
           "text": "万岁醒来！"
         },
         {
-          "character": "我本是老闻仲西歧回转、纣王",
+          "character": "闻仲",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我本是老闻仲西歧回转"
+        },
+        {
+          "character": "纣王",
           "line_type": "二黄导板",
           "musical_style": "二黄导板",
           "style_family": "二黄",
           "text": "龙床上只听得有人呼唤，"
         },
         {
-          "character": "我本是老闻仲西歧回转、纣王",
+          "character": "纣王",
+          "line_type": "二黄导板",
+          "musical_style": "二黄导板",
+          "style_family": "二黄",
+          "text": "我本是老闻仲西歧回转"
+        },
+        {
+          "character": "纣王",
           "line_type": "二黄摇板",
           "musical_style": "二黄摇板",
           "style_family": "二黄",
           "text": "梦见了朝歌城塌了半边。"
         },
         {
-          "character": "我本是老闻仲西歧回转、纣王",
+          "character": "纣王",
+          "line_type": "二黄摇板",
+          "musical_style": "二黄摇板",
+          "style_family": "二黄",
+          "text": "我本是老闻仲西歧回转"
+        },
+        {
+          "character": "纣王",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
           "text": "哎呀！"
         },
         {
-          "character": "我本是老闻仲西歧回转、纣王",
+          "character": "纣王",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我本是老闻仲西歧回转"
+        },
+        {
+          "character": "纣王",
           "line_type": "二黄摇板",
           "musical_style": "二黄摇板",
           "style_family": "二黄",
           "text": "只觉得阴风吹体似冰寒。"
+        },
+        {
+          "character": "纣王",
+          "line_type": "二黄摇板",
+          "musical_style": "二黄摇板",
+          "style_family": "二黄",
+          "text": "我本是老闻仲西歧回转"
         },
         {
           "character": null,
@@ -701,11 +847,18 @@
           "text": "臣本当与我主——"
         },
         {
-          "character": "我本是老闻仲西歧回转、纣王",
+          "character": "纣王",
           "line_type": "二黄摇板",
           "musical_style": "二黄摇板",
           "style_family": "二黄",
-          "text": "再诉一遍，\n怕只怕五更尽难去归天。"
+          "text": "再诉一遍，"
+        },
+        {
+          "character": "纣王",
+          "line_type": "二黄摇板",
+          "musical_style": "二黄摇板",
+          "style_family": "二黄",
+          "text": "怕只怕五更尽难去归天。"
         },
         {
           "character": null,
@@ -831,7 +984,21 @@
           "line_type": "二黄摇板",
           "musical_style": "二黄摇板",
           "style_family": "二黄",
-          "text": "这江山有梓童定无凶险，\n哪管那西伯侯出兵歧山。\n但愿你怀龙胎生下儿男。"
+          "text": "这江山有梓童定无凶险，"
+        },
+        {
+          "character": "纣王",
+          "line_type": "二黄摇板",
+          "musical_style": "二黄摇板",
+          "style_family": "二黄",
+          "text": "哪管那西伯侯出兵歧山。"
+        },
+        {
+          "character": "纣王",
+          "line_type": "二黄摇板",
+          "musical_style": "二黄摇板",
+          "style_family": "二黄",
+          "text": "但愿你怀龙胎生下儿男。"
         },
         {
           "character": "纣王",
@@ -910,7 +1077,17 @@
           "二黄导板",
           "二黄摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.286,
+        0.4324,
+        0.5676,
+        0.0,
+        0.3611,
+        5,
+        0.0,
+        0.4324
+      ]
     }
   ]
 }

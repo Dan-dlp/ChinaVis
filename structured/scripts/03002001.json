@@ -162,14 +162,14 @@
           "text": "（张古董上。小锣。）"
         },
         {
-          "character": null,
+          "character": "张古董",
           "line_type": "念",
           "musical_style": null,
           "style_family": null,
           "text": "越冷越打战，越热越出汗。越穷越没有，越有越方便。"
         },
         {
-          "character": null,
+          "character": "张古董",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -4178,7 +4178,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.9231,
+        7,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -4449,7 +4459,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.9524,
+        0.0476,
+        0.85,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -5531,7 +5551,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.9798,
+        0.0202,
+        0.5408,
+        6,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 4,
@@ -6918,7 +6948,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.9932,
+        0.0068,
+        0.8904,
+        9,
+        0.0,
+        0.0
+      ]
     }
   ]
 }

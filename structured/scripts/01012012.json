@@ -205,7 +205,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "本帅韩擒虎。新主登基，命我为帅去往南阳关，捉拿伍云昭进京问罪。\n二先行，人马可齐？"
+          "text": "本帅韩擒虎。新主登基，命我为帅去往南阳关，捉拿伍云昭进京问罪。"
+        },
+        {
+          "character": "韩擒虎",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "二先行，人马可齐？"
         },
         {
           "character": "尚师徒、麻叔谋",
@@ -264,7 +271,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0769,
+        0.6923,
+        0.2308,
+        0.75,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -297,7 +314,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -340,7 +367,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "本帅伍云昭。我父伍建章，在隋帝驾前为臣，官拜当朝太宰。本帅镇守南阳，\n只因夫人所生一子，命伍保进京，一来与圣上问安，二来与父母报喜。一去数\n日，不见音信回关。本帅这两日眼跳心惊、魂梦颠倒，不知主何吉凶。\n军士们！"
+          "text": "本帅伍云昭。我父伍建章，在隋帝驾前为臣，官拜当朝太宰。本帅镇守南阳，"
+        },
+        {
+          "character": "伍云昭",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "只因夫人所生一子，命伍保进京，一来与圣上问安，二来与父母报喜。一去数"
+        },
+        {
+          "character": "伍云昭",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "日，不见音信回关。本帅这两日眼跳心惊、魂梦颠倒，不知主何吉凶。"
+        },
+        {
+          "character": "伍云昭",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "军士们！"
         },
         {
           "character": null,
@@ -438,24 +486,122 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "唬得我三魂七魄飘。\n你把犯罪情由细说根苗。"
+          "text": "唬得我三魂七魄飘。"
         },
         {
-          "character": "忍泪含悲叫伍保、伍保",
+          "character": "伍云昭",
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "杨素、化吉行奸巧，\n私通杨广篡九朝。\n昏王割舌把牙敲。\n可怜四将尽开刀。\n要拿老爷转回朝。"
+          "text": "你把犯罪情由细说根苗。"
         },
         {
-          "character": "相爷金殿去守孝、太宰夫人俱斩了、韩擒虎统领人马到、伍云昭",
+          "character": "伍云昭",
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "听一言来心头恼，\n二目圆睁似火烧。\n老爷言来听根苗：\n尔等可愿反皇朝？"
+          "text": "忍泪含悲叫伍保"
         },
         {
-          "character": "扭项回头把三军叫、本帅与父把仇报、下手",
+          "character": "伍保",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "杨素、化吉行奸巧，"
+        },
+        {
+          "character": "伍保",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "私通杨广篡九朝。"
+        },
+        {
+          "character": "伍保",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "昏王割舌把牙敲。"
+        },
+        {
+          "character": "伍保",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "可怜四将尽开刀。"
+        },
+        {
+          "character": "伍保",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "要拿老爷转回朝。"
+        },
+        {
+          "character": "伍保",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "相爷金殿去守孝"
+        },
+        {
+          "character": "伍保",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "太宰夫人俱斩了"
+        },
+        {
+          "character": "伍保",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "韩擒虎统领人马到"
+        },
+        {
+          "character": "伍云昭",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "听一言来心头恼，"
+        },
+        {
+          "character": "伍云昭",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "二目圆睁似火烧。"
+        },
+        {
+          "character": "伍云昭",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "老爷言来听根苗："
+        },
+        {
+          "character": "伍云昭",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "尔等可愿反皇朝？"
+        },
+        {
+          "character": "伍云昭",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "扭项回头把三军叫"
+        },
+        {
+          "character": "伍云昭",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "本帅与父把仇报"
+        },
+        {
+          "character": "下手",
           "line_type": "同白",
           "musical_style": null,
           "style_family": null,
@@ -473,7 +619,14 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "擂鼓摇旗放号炮，\n生死存亡走一遭。"
+          "text": "擂鼓摇旗放号炮，"
+        },
+        {
+          "character": "伍云昭",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "生死存亡走一遭。"
         },
         {
           "character": null,
@@ -515,7 +668,17 @@
           "西皮导板",
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.25,
+        0.6053,
+        0.3421,
+        0.0526,
+        0.3243,
+        3,
+        0.5263,
+        0.0
+      ]
     },
     {
       "scene_index": 4,
@@ -558,28 +721,140 @@
           "line_type": "西皮原板",
           "musical_style": "西皮原板",
           "style_family": "西皮",
-          "text": "对对旌旗空中飘。\n右先行手执丈八矛。\n耀武扬威立功劳。\n命我灭却伍云昭。\n为国的忠良无下梢。"
+          "text": "对对旌旗空中飘。"
         },
         {
-          "character": "左先行骑的是呼雷豹、大小三军齐开道、新主降下旨一道、此事把我心悔恼、尚师徒",
+          "character": "韩擒虎",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "右先行手执丈八矛。"
+        },
+        {
+          "character": "韩擒虎",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "耀武扬威立功劳。"
+        },
+        {
+          "character": "韩擒虎",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "命我灭却伍云昭。"
+        },
+        {
+          "character": "韩擒虎",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "为国的忠良无下梢。"
+        },
+        {
+          "character": "韩擒虎",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "左先行骑的是呼雷豹"
+        },
+        {
+          "character": "韩擒虎",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "大小三军齐开道"
+        },
+        {
+          "character": "韩擒虎",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "新主降下旨一道"
+        },
+        {
+          "character": "韩擒虎",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "此事把我心悔恼"
+        },
+        {
+          "character": "尚师徒",
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "元帅说话多奥妙，\n文帝难以掌九朝。\n何必常常挂心劳？"
+          "text": "元帅说话多奥妙，"
         },
         {
-          "character": "新主既发旨一道、麻叔谋",
+          "character": "尚师徒",
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "在王驾前说王好，\n吃皇水土报君劳。\n要绝草除根不留苗。"
+          "text": "文帝难以掌九朝。"
         },
         {
-          "character": "打蛇不死反仇报、韩擒虎",
+          "character": "尚师徒",
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "二先行说话志量高，\n耀武扬威逞英豪。\n要拿云昭转回朝。"
+          "text": "何必常常挂心劳？"
+        },
+        {
+          "character": "尚师徒",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "新主既发旨一道"
+        },
+        {
+          "character": "麻叔谋",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "在王驾前说王好，"
+        },
+        {
+          "character": "麻叔谋",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "吃皇水土报君劳。"
+        },
+        {
+          "character": "麻叔谋",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "要绝草除根不留苗。"
+        },
+        {
+          "character": "麻叔谋",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "打蛇不死反仇报"
+        },
+        {
+          "character": "韩擒虎",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "二先行说话志量高，"
+        },
+        {
+          "character": "韩擒虎",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "耀武扬威逞英豪。"
+        },
+        {
+          "character": "韩擒虎",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "要拿云昭转回朝。"
         },
         {
           "character": null,
@@ -607,49 +882,252 @@
           "line_type": "西皮慢板",
           "musical_style": "西皮慢板",
           "style_family": "西皮",
-          "text": "叹双亲不由人珠泪双抛。\n层层人马围住城壕。\n麻叔谋手执丈八矛。"
+          "text": "叹双亲不由人珠泪双抛。"
+        },
+        {
+          "character": "伍云昭",
+          "line_type": "西皮慢板",
+          "musical_style": "西皮慢板",
+          "style_family": "西皮",
+          "text": "层层人马围住城壕。"
+        },
+        {
+          "character": "伍云昭",
+          "line_type": "西皮慢板",
+          "musical_style": "西皮慢板",
+          "style_family": "西皮",
+          "text": "麻叔谋手执丈八矛。"
         },
         {
           "character": "伍云昭",
           "line_type": "西皮二六板",
           "musical_style": "西皮二六板",
           "style_family": "西皮",
-          "text": "侄儿有言禀年高：\n当在人间逞英豪。\n无人执掌锦绣龙朝。\n恨杨广作恶霸占当朝。\n敲牙割舌为哪条？\n年迈老娘受一刀。"
+          "text": "侄儿有言禀年高："
+        },
+        {
+          "character": "伍云昭",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "当在人间逞英豪。"
+        },
+        {
+          "character": "伍云昭",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "无人执掌锦绣龙朝。"
+        },
+        {
+          "character": "伍云昭",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "恨杨广作恶霸占当朝。"
+        },
+        {
+          "character": "伍云昭",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "敲牙割舌为哪条？"
+        },
+        {
+          "character": "伍云昭",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "年迈老娘受一刀。"
         },
         {
           "character": "伍云昭",
           "line_type": "西皮快板",
           "musical_style": "西皮快板",
           "style_family": "西皮",
-          "text": "合家满门忠难表，\n兵困南阳为哪条？\n老伯父论情理也该恕饶。"
+          "text": "合家满门忠难表，"
         },
         {
-          "character": "手扶着垛口往下瞧、尚师徒跨下呼雷豹、忍泪含悲把伯父叫、自古道为臣尽忠子尽孝、叹先王文帝驾晏了、大千岁即位礼正道、我父忠心把国保、可怜我四将俱斩首、亲年迈，遭强暴、韩擒虎",
+          "character": "伍云昭",
           "line_type": "西皮快板",
           "musical_style": "西皮快板",
           "style_family": "西皮",
-          "text": "贤侄休把事看小，\n你父金殿骂当朝。\n毁谤文帝众群僚。"
+          "text": "兵困南阳为哪条？"
         },
         {
-          "character": "合朝公卿把他保、伍云昭",
+          "character": "伍云昭",
           "line_type": "西皮快板",
           "musical_style": "西皮快板",
           "style_family": "西皮",
-          "text": "伯父如今领兵到，\n侄儿含泪禀年高：\n我与你晚点灯早把香烧。"
+          "text": "老伯父论情理也该恕饶。"
         },
         {
-          "character": "老伯父放我一条路、韩擒虎",
+          "character": "伍云昭",
           "line_type": "西皮快板",
           "musical_style": "西皮快板",
           "style_family": "西皮",
-          "text": "贤侄说话好蹊跷，\n休怪老夫不肯饶。\n违了圣旨怎回朝？"
+          "text": "手扶着垛口往下瞧"
         },
         {
-          "character": "今日把你放走了、伍云昭",
+          "character": "伍云昭",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "尚师徒跨下呼雷豹"
+        },
+        {
+          "character": "伍云昭",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "忍泪含悲把伯父叫"
+        },
+        {
+          "character": "伍云昭",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "自古道为臣尽忠子尽孝"
+        },
+        {
+          "character": "伍云昭",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "叹先王文帝驾晏了"
+        },
+        {
+          "character": "伍云昭",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "大千岁即位礼正道"
+        },
+        {
+          "character": "伍云昭",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "我父忠心把国保"
+        },
+        {
+          "character": "伍云昭",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "可怜我四将俱斩首"
+        },
+        {
+          "character": "伍云昭",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "亲年迈，遭强暴"
+        },
+        {
+          "character": "韩擒虎",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "贤侄休把事看小，"
+        },
+        {
+          "character": "韩擒虎",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "你父金殿骂当朝。"
+        },
+        {
+          "character": "韩擒虎",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "毁谤文帝众群僚。"
+        },
+        {
+          "character": "韩擒虎",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "合朝公卿把他保"
+        },
+        {
+          "character": "伍云昭",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "伯父如今领兵到，"
+        },
+        {
+          "character": "伍云昭",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "侄儿含泪禀年高："
+        },
+        {
+          "character": "伍云昭",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "我与你晚点灯早把香烧。"
+        },
+        {
+          "character": "伍云昭",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "老伯父放我一条路"
+        },
+        {
+          "character": "韩擒虎",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "贤侄说话好蹊跷，"
+        },
+        {
+          "character": "韩擒虎",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "休怪老夫不肯饶。"
+        },
+        {
+          "character": "韩擒虎",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "违了圣旨怎回朝？"
+        },
+        {
+          "character": "韩擒虎",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "今日把你放走了"
+        },
+        {
+          "character": "伍云昭",
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "既不将我来恕饶，\n哪有闲言叙唠叨。\n舍生忘死战一遭。"
+          "text": "既不将我来恕饶，"
+        },
+        {
+          "character": "伍云昭",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "哪有闲言叙唠叨。"
+        },
+        {
+          "character": "伍云昭",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "舍生忘死战一遭。"
         },
         {
           "character": null,
@@ -695,7 +1173,17 @@
           "西皮慢板",
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        1.0,
+        1.0,
+        0.0,
+        0.0,
+        0.1429,
+        4,
+        0.9825,
+        0.0
+      ]
     },
     {
       "scene_index": 5,
@@ -716,7 +1204,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "伍云昭杀法厉害，老夫难以对敌。\n众将收兵。"
+          "text": "伍云昭杀法厉害，老夫难以对敌。"
+        },
+        {
+          "character": "韩擒虎",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "众将收兵。"
         },
         {
           "character": null,
@@ -735,7 +1230,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 6,
@@ -763,7 +1268,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "俺，宇文成都。奉了新主之命，去往南阳，助韩老将军一膀之力。\n来，兵发南阳关。"
+          "text": "俺，宇文成都。奉了新主之命，去往南阳，助韩老将军一膀之力。"
+        },
+        {
+          "character": "宇文成都",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来，兵发南阳关。"
         },
         {
           "character": null,
@@ -782,7 +1294,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.6667,
+        0.3333,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 7,
@@ -803,7 +1325,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "伍云昭杀法厉害，老夫难以对敌。\n众将收兵。"
+          "text": "伍云昭杀法厉害，老夫难以对敌。"
+        },
+        {
+          "character": "韩擒虎",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "众将收兵。"
         },
         {
           "character": null,
@@ -840,7 +1369,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 8,
@@ -906,7 +1445,14 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "听说成都领兵到，\n贼子武艺比人高。"
+          "text": "听说成都领兵到，"
+        },
+        {
+          "character": "伍云昭",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "贼子武艺比人高。"
         },
         {
           "character": "伍云昭",
@@ -916,7 +1462,14 @@
           "text": "爹爹，亲娘吓！"
         },
         {
-          "character": "父母冤仇难以报、伍保",
+          "character": "伍云昭",
+          "line_type": "哭头",
+          "musical_style": null,
+          "style_family": null,
+          "text": "父母冤仇难以报"
+        },
+        {
+          "character": "伍保",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -948,7 +1501,14 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "一见老爷出大营，\n倒叫奴家挂在心。"
+          "text": "一见老爷出大营，"
+        },
+        {
+          "character": "伍夫人",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "倒叫奴家挂在心。"
         },
         {
           "character": null,
@@ -988,7 +1548,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.143,
+        0.5385,
+        0.3077,
+        0.1538,
+        0.5,
+        3,
+        0.3846,
+        0.0
+      ]
     },
     {
       "scene_index": 9,
@@ -1011,17 +1581,45 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "一见云昭心烦恼，\n骂声无知小儿曹。\n就该一同转回朝。"
+          "text": "一见云昭心烦恼，"
         },
         {
-          "character": "既知某家领兵到、伍云昭",
+          "character": "宇文成都",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "骂声无知小儿曹。"
+        },
+        {
+          "character": "宇文成都",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "就该一同转回朝。"
+        },
+        {
+          "character": "宇文成都",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "既知某家领兵到"
+        },
+        {
+          "character": "伍云昭",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
           "text": "呀呀呸！"
         },
         {
-          "character": "既知某家领兵到、伍云昭",
+          "character": "伍云昭",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "既知某家领兵到"
+        },
+        {
+          "character": "伍云昭",
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
@@ -1077,7 +1675,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.8,
+        0.8,
+        0.2,
+        0.0,
+        0.4444,
+        2,
+        0.8,
+        0.0
+      ]
     },
     {
       "scene_index": 10,
@@ -1100,7 +1708,14 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "老爷出营把阵交，\n不知胜负与输赢。"
+          "text": "老爷出营把阵交，"
+        },
+        {
+          "character": "伍夫人",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "不知胜负与输赢。"
         },
         {
           "character": null,
@@ -1135,14 +1750,35 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "只见夫人珠泪抛。\n放我父子好奔逃。"
+          "text": "只见夫人珠泪抛。"
         },
         {
-          "character": "望夫人快行方便道、伍夫人",
+          "character": "伍云昭",
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "将儿交与老爷抱，\n去到花园赴阴曹。"
+          "text": "放我父子好奔逃。"
+        },
+        {
+          "character": "伍云昭",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "望夫人快行方便道"
+        },
+        {
+          "character": "伍夫人",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "将儿交与老爷抱，"
+        },
+        {
+          "character": "伍夫人",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "去到花园赴阴曹。"
         },
         {
           "character": null,
@@ -1156,7 +1792,21 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "一见夫人尽了节，\n不由本帅珠泪抛。\n带子逃生走一遭。"
+          "text": "一见夫人尽了节，"
+        },
+        {
+          "character": "伍云昭",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "不由本帅珠泪抛。"
+        },
+        {
+          "character": "伍云昭",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "带子逃生走一遭。"
         },
         {
           "character": null,
@@ -1188,7 +1838,17 @@
           "西皮导板",
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.833,
+        0.8462,
+        0.1538,
+        0.0,
+        0.4167,
+        2,
+        0.8462,
+        0.0
+      ]
     },
     {
       "scene_index": 11,
@@ -1246,7 +1906,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "我道是谁，原来是宇文成都追赶伍云昭。我想一个人怕了也就罢了，为何苦苦\n追赶？本当上前抱打不平，又恐不是他的对手。哦，有了。此间有一关帝庙。\n不免去到庙中，借那周仓老爷大刀一用，以为退兵之计。"
+          "text": "我道是谁，原来是宇文成都追赶伍云昭。我想一个人怕了也就罢了，为何苦苦"
+        },
+        {
+          "character": "朱粲",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "追赶？本当上前抱打不平，又恐不是他的对手。哦，有了。此间有一关帝庙。"
+        },
+        {
+          "character": "朱粲",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "不免去到庙中，借那周仓老爷大刀一用，以为退兵之计。"
         },
         {
           "character": null,
@@ -1302,7 +1976,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "只因杨广无道，告职归家。适才闲游，见贤弟有难，故借周爷大刀，前来搭救。\n但不知贤弟意欲何往？"
+          "text": "只因杨广无道，告职归家。适才闲游，见贤弟有难，故借周爷大刀，前来搭救。"
+        },
+        {
+          "character": "朱粲",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "但不知贤弟意欲何往？"
         },
         {
           "character": "伍云昭",
@@ -1395,7 +2076,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.9474,
+        0.0526,
+        0.5556,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 12,
@@ -1456,7 +2147,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     }
   ]
 }

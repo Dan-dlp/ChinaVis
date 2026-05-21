@@ -77,7 +77,7 @@
           "text": "也曾遭鱼虾弄。"
         },
         {
-          "character": null,
+          "character": "酒保",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -158,7 +158,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "好大口气。我拿酒去，您一喝就知道啦。\n好酒一壶。"
+          "text": "好大口气。我拿酒去，您一喝就知道啦。"
+        },
+        {
+          "character": "酒保",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "好酒一壶。"
         },
         {
           "character": null,
@@ -200,7 +207,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "干。\n斟上！"
+          "text": "干。"
+        },
+        {
+          "character": "武松",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "斟上！"
         },
         {
           "character": "酒保",
@@ -312,7 +326,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "嗳嗳，我给您取去。\n好酒一坛哪！"
+          "text": "嗳嗳，我给您取去。"
+        },
+        {
+          "character": "酒保",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "好酒一坛哪！"
         },
         {
           "character": null,
@@ -564,7 +585,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "您真过景阳岗，那可不行。岗上出了一只吊睛白额大老虎，伤人甚众。您要过\n岗不是白白的送死吗？"
+          "text": "您真过景阳岗，那可不行。岗上出了一只吊睛白额大老虎，伤人甚众。您要过"
+        },
+        {
+          "character": "酒保",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "岗不是白白的送死吗？"
         },
         {
           "character": "武松",
@@ -664,7 +692,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.9825,
+        0.0175,
+        0.7143,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -701,7 +739,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "嘿！酒家言道，这景阳岗上出了猛虎。分明是大话欺人，俺武松岂能受他的摆\n布！待俺趱路。"
+          "text": "嘿！酒家言道，这景阳岗上出了猛虎。分明是大话欺人，俺武松岂能受他的摆"
+        },
+        {
+          "character": "武松",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "布！待俺趱路。"
         },
         {
           "character": null,
@@ -1036,7 +1081,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.6667,
+        3,
+        0.0,
+        0.0
+      ]
     }
   ]
 }

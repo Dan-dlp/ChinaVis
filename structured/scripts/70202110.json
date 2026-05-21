@@ -241,7 +241,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "本帅公孙瓒，汉室为臣。官拜奋威将军，统兵边塞，受那刘虞节制。可恨刘虞，\n有意吞并疆土，为此两家对敌；交锋以来，本部兵马不敷调用，必须派将征\n兵，方可兴师讨伐。\n中军，传杨威进帐。"
+          "text": "本帅公孙瓒，汉室为臣。官拜奋威将军，统兵边塞，受那刘虞节制。可恨刘虞，"
+        },
+        {
+          "character": "公孙瓒",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "有意吞并疆土，为此两家对敌；交锋以来，本部兵马不敷调用，必须派将征"
+        },
+        {
+          "character": "公孙瓒",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "兵，方可兴师讨伐。"
+        },
+        {
+          "character": "公孙瓒",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "中军，传杨威进帐。"
         },
         {
           "character": "中军",
@@ -283,7 +304,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "本帅即日讨伐刘虞，命你赶往平原地方，按户征兵，送大营听用，限期两月，\n不得违误。"
+          "text": "本帅即日讨伐刘虞，命你赶往平原地方，按户征兵，送大营听用，限期两月，"
+        },
+        {
+          "character": "公孙瓒",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "不得违误。"
         },
         {
           "character": "杨威",
@@ -337,7 +365,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0769,
+        0.7692,
+        0.1538,
+        0.4167,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -376,28 +414,63 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "咳，你听说没有：公孙瓒要打刘虞，日前派个军官到此，征取壮丁。倘若临到\n我的头上，那可怎么好？"
-        },
-        {
-          "character": "孙氏",
-          "line_type": "白",
-          "musical_style": null,
-          "style_family": null,
-          "text": "是啊！谁叫咱们活在这年头哪！成天打仗，打仗就拉夫！上次那一批，到今儿\n还没回来，还不知死活哪！这你要被征了去，可怎么好？"
+          "text": "咳，你听说没有：公孙瓒要打刘虞，日前派个军官到此，征取壮丁。倘若临到"
         },
         {
           "character": "李信",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "公孙瓒征兵打刘虞，刘虞也征兵打公孙瓒；他们争权夺利，拉老百姓替他们卖\n命，我才不那么傻哪！再说我也舍不得你呀！"
+          "text": "我的头上，那可怎么好？"
         },
         {
           "character": "孙氏",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "是呀！想咱们两口子，自从结婚之后，朝欢暮乐，从来没有离开过一天；我还\n没有给你生养过一男半女，你若出去从军，倘有个三长两短，我守寡难受，还\n是小事，岂不绝了你们李家的后代，我说你想个法子不去成不成？"
+          "text": "是啊！谁叫咱们活在这年头哪！成天打仗，打仗就拉夫！上次那一批，到今儿"
+        },
+        {
+          "character": "孙氏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "还没回来，还不知死活哪！这你要被征了去，可怎么好？"
+        },
+        {
+          "character": "李信",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "公孙瓒征兵打刘虞，刘虞也征兵打公孙瓒；他们争权夺利，拉老百姓替他们卖"
+        },
+        {
+          "character": "李信",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "命，我才不那么傻哪！再说我也舍不得你呀！"
+        },
+        {
+          "character": "孙氏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "是呀！想咱们两口子，自从结婚之后，朝欢暮乐，从来没有离开过一天；我还"
+        },
+        {
+          "character": "孙氏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "没有给你生养过一男半女，你若出去从军，倘有个三长两短，我守寡难受，还"
+        },
+        {
+          "character": "孙氏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "是小事，岂不绝了你们李家的后代，我说你想个法子不去成不成？"
         },
         {
           "character": "李信",
@@ -432,7 +505,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "你想啊：这个仗一时半会是打不完的。躲了这次的征兵，还有下次哪！咱们家\n哪来得那么多的钱往里面填哪！"
+          "text": "你想啊：这个仗一时半会是打不完的。躲了这次的征兵，还有下次哪！咱们家"
+        },
+        {
+          "character": "李信",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "哪来得那么多的钱往里面填哪！"
         },
         {
           "character": "孙氏",
@@ -460,7 +540,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "你倒会说风流话！别说是咱们夫妻割舍不得；我听说东邻赵老太太，已然八十\n多岁啦，只有一个儿子，也被那军官征去了，谁还怜她年老哪！还有西邻王恢，\n刚刚娶了一个美貌媳妇，不到四天也把他记下名字，要他前去当兵，谁还体\n谅他新婚哪？你别痴心妄想啦！他们打仗还管人家妻离子散哪！"
+          "text": "你倒会说风流话！别说是咱们夫妻割舍不得；我听说东邻赵老太太，已然八十"
+        },
+        {
+          "character": "李信",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "多岁啦，只有一个儿子，也被那军官征去了，谁还怜她年老哪！还有西邻王恢，"
+        },
+        {
+          "character": "李信",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "刚刚娶了一个美貌媳妇，不到四天也把他记下名字，要他前去当兵，谁还体"
+        },
+        {
+          "character": "李信",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "谅他新婚哪？你别痴心妄想啦！他们打仗还管人家妻离子散哪！"
         },
         {
           "character": "孙氏",
@@ -537,7 +638,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "将爷！他是我的丈夫，去年才娶我过门；我们两口子，是谁也离不开谁；还求\n将爷大人救命！"
+          "text": "将爷！他是我的丈夫，去年才娶我过门；我们两口子，是谁也离不开谁；还求"
+        },
+        {
+          "character": "孙氏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "将爷大人救命！"
         },
         {
           "character": "杨威",
@@ -572,7 +680,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "别哭啦！我说什么来着？事到如今，也没有什么法子了！你给我收拾行囊，准\n备启程了罢。"
+          "text": "别哭啦！我说什么来着？事到如今，也没有什么法子了！你给我收拾行囊，准"
+        },
+        {
+          "character": "李信",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "备启程了罢。"
         },
         {
           "character": null,
@@ -628,7 +743,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.077,
+        0.0541,
+        0.9459,
+        0.0,
+        0.6944,
+        4,
+        0.0541,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -652,7 +777,14 @@
           "line_type": "同白",
           "musical_style": null,
           "style_family": null,
-          "text": "呵，曹相公，我们乡中父老，特背薄酒，去到十里长亭，与您同王恢、赵克奴、\n李信、还有诸位同乡，饯行送别，略表我乡人敬爱之意。"
+          "text": "呵，曹相公，我们乡中父老，特背薄酒，去到十里长亭，与您同王恢、赵克奴、"
+        },
+        {
+          "character": "四父老",
+          "line_type": "同白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "李信、还有诸位同乡，饯行送别，略表我乡人敬爱之意。"
         },
         {
           "character": "曹襄",
@@ -764,7 +896,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.875,
+        5,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 4,
@@ -799,42 +941,168 @@
           "line_type": "西皮流水板",
           "musical_style": "西皮流水板",
           "style_family": "西皮",
-          "text": "在途中一阵阵老泪沾衣；\n从此后供菽水谁来料理？\n况且我年衰迈寸步难移！"
+          "text": "在途中一阵阵老泪沾衣；"
+        },
+        {
+          "character": "刘氏",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "从此后供菽水谁来料理？"
+        },
+        {
+          "character": "刘氏",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "况且我年衰迈寸步难移！"
         },
         {
           "character": "赵克奴",
           "line_type": "西皮流水板",
           "musical_style": "西皮流水板",
           "style_family": "西皮",
-          "text": "恨无端起战祸生临燕地，\n别老母在家中好不伤悲！\n到今朝真个是死别生离。"
+          "text": "恨无端起战祸生临燕地，"
         },
         {
-          "character": "眼睁睁只好是忍心抛弃、刘氏",
+          "character": "赵克奴",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "别老母在家中好不伤悲！"
+        },
+        {
+          "character": "赵克奴",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "到今朝真个是死别生离。"
+        },
+        {
+          "character": "赵克奴",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "眼睁睁只好是忍心抛弃"
+        },
+        {
+          "character": "刘氏",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
           "text": "儿啊！"
         },
         {
-          "character": "眼睁睁只好是忍心抛弃、刘氏",
+          "character": "刘氏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "眼睁睁只好是忍心抛弃"
+        },
+        {
+          "character": "刘氏",
           "line_type": "西皮流水板",
           "musical_style": "西皮流水板",
           "style_family": "西皮",
-          "text": "最可叹你的父早年下世，\n留下了小姣儿正在孩提。\n吃千辛和万苦把你扶携。\n料不到老年人无靠无依！\n怕的是你生还我早西归。"
+          "text": "最可叹你的父早年下世，"
         },
         {
-          "character": "那时节家贫穷少柴缺米、实指望你成人勉供菽水、我已是年八旬余生无几、赵克奴",
+          "character": "刘氏",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "留下了小姣儿正在孩提。"
+        },
+        {
+          "character": "刘氏",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "吃千辛和万苦把你扶携。"
+        },
+        {
+          "character": "刘氏",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "料不到老年人无靠无依！"
+        },
+        {
+          "character": "刘氏",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "怕的是你生还我早西归。"
+        },
+        {
+          "character": "刘氏",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "那时节家贫穷少柴缺米"
+        },
+        {
+          "character": "刘氏",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "实指望你成人勉供菽水"
+        },
+        {
+          "character": "刘氏",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "我已是年八旬余生无几"
+        },
+        {
+          "character": "赵克奴",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
           "text": "母亲哪！"
         },
         {
-          "character": "那时节家贫穷少柴缺米、实指望你成人勉供菽水、我已是年八旬余生无几、赵克奴",
+          "character": "赵克奴",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "那时节家贫穷少柴缺米"
+        },
+        {
+          "character": "赵克奴",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "实指望你成人勉供菽水"
+        },
+        {
+          "character": "赵克奴",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我已是年八旬余生无几"
+        },
+        {
+          "character": "赵克奴",
           "line_type": "西皮流水板",
           "musical_style": "西皮流水板",
           "style_family": "西皮",
-          "text": "这都是儿不肯素无材艺，\n不能够奉娘亲远走高飞；\n累老母坐高堂受苦熬饥。"
+          "text": "这都是儿不肯素无材艺，"
+        },
+        {
+          "character": "赵克奴",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "不能够奉娘亲远走高飞；"
+        },
+        {
+          "character": "赵克奴",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "累老母坐高堂受苦熬饥。"
         },
         {
           "character": null,
@@ -890,7 +1158,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "好一个恩爱夫妻！我想战场之上凶多吉少，我此去十有八九回不来啦，撇下娘\n子正在青春年少，倘若是守寡，我真是做了鬼也不放心的。"
+          "text": "好一个恩爱夫妻！我想战场之上凶多吉少，我此去十有八九回不来啦，撇下娘"
+        },
+        {
+          "character": "李信",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "子正在青春年少，倘若是守寡，我真是做了鬼也不放心的。"
         },
         {
           "character": "孙氏",
@@ -991,7 +1266,17 @@
           "西皮流水",
           "西皮流水板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.417,
+        0.6571,
+        0.3429,
+        0.0,
+        0.2941,
+        4,
+        0.6571,
+        0.0
+      ]
     },
     {
       "scene_index": 5,
@@ -1060,7 +1345,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "啊，娘子！你我二人正在新婚，忽被征募从军；使我夫妻，一旦分离，叫人如\n何割舍！"
+          "text": "啊，娘子！你我二人正在新婚，忽被征募从军；使我夫妻，一旦分离，叫人如"
+        },
+        {
+          "character": "王恢",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "何割舍！"
         },
         {
           "character": null,
@@ -1074,7 +1366,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "官人此番远行，到了那边塞寒苦的地方，冰天雪地，举目谁亲；此后官人，饮\n食起居，务要多多保重，妾身才好放心。"
+          "text": "官人此番远行，到了那边塞寒苦的地方，冰天雪地，举目谁亲；此后官人，饮"
+        },
+        {
+          "character": "张氏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "食起居，务要多多保重，妾身才好放心。"
         },
         {
           "character": "王恢",
@@ -1102,14 +1401,56 @@
           "line_type": "西皮散板",
           "musical_style": "西皮散板",
           "style_family": "西皮",
-          "text": "劝官人饮此酒牢牢谨记，\n在战场还须要审敌知机；\n可怜我薄命人只影孤栖！\n不多时就盼你早卜归期。"
+          "text": "劝官人饮此酒牢牢谨记，"
         },
         {
-          "character": "念家中要不断时通双鲤、但愿得我家军战无不利、王恢",
+          "character": "张氏",
           "line_type": "西皮散板",
           "musical_style": "西皮散板",
           "style_family": "西皮",
-          "text": "听妻言不由我心酸落泪，\n但愿得一年中策马遗回。"
+          "text": "在战场还须要审敌知机；"
+        },
+        {
+          "character": "张氏",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "可怜我薄命人只影孤栖！"
+        },
+        {
+          "character": "张氏",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "不多时就盼你早卜归期。"
+        },
+        {
+          "character": "张氏",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "念家中要不断时通双鲤"
+        },
+        {
+          "character": "张氏",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "但愿得我家军战无不利"
+        },
+        {
+          "character": "王恢",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "听妻言不由我心酸落泪，"
+        },
+        {
+          "character": "王恢",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "但愿得一年中策马遗回。"
         },
         {
           "character": null,
@@ -1123,21 +1464,42 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "时候不早，老爷夫人，不要过于伤心；前面就是十里长亭，众位乡邻都在那厢\n等候了。"
+          "text": "时候不早，老爷夫人，不要过于伤心；前面就是十里长亭，众位乡邻都在那厢"
+        },
+        {
+          "character": "丫鬟",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "等候了。"
         },
         {
           "character": "王恢",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "是呀。众位乡邻都在十里长亭等候，娘子，我们就在此地分别了罢！你你你独\n自一人回家，不必送了。"
+          "text": "是呀。众位乡邻都在十里长亭等候，娘子，我们就在此地分别了罢！你你你独"
+        },
+        {
+          "character": "王恢",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "自一人回家，不必送了。"
         },
         {
           "character": "张氏",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "官人不要说是十里长亭，若是有千里万里长亭，倘能够允许妾身送去，妾也要\n送官人去的。"
+          "text": "官人不要说是十里长亭，若是有千里万里长亭，倘能够允许妾身送去，妾也要"
+        },
+        {
+          "character": "张氏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "送官人去的。"
         },
         {
           "character": "王恢",
@@ -1151,14 +1513,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "官人你我新婚才得数日，妾身尚未分明；你到军中，千万要多多寄信，免妾挂\n念。"
+          "text": "官人你我新婚才得数日，妾身尚未分明；你到军中，千万要多多寄信，免妾挂"
+        },
+        {
+          "character": "张氏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "念。"
         },
         {
           "character": "王恢",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "你也不要时时挂念，苦坏了身体，我自然是多多寄信，娘子只管放心，你回去\n罢。呵呵我的妻呀！"
+          "text": "你也不要时时挂念，苦坏了身体，我自然是多多寄信，娘子只管放心，你回去"
+        },
+        {
+          "character": "王恢",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "罢。呵呵我的妻呀！"
         },
         {
           "character": "王恢",
@@ -1284,7 +1660,14 @@
           "line_type": "念",
           "musical_style": null,
           "style_family": null,
-          "text": "征战连年却为谁，涂炭生灵无是非。无故征兵来此地，两旁男女哭啼啼。\n眼看此去人千里，抛下姣妻苦无依！于今可怜只是你——"
+          "text": "征战连年却为谁，涂炭生灵无是非。无故征兵来此地，两旁男女哭啼啼。"
+        },
+        {
+          "character": "王恢",
+          "line_type": "念",
+          "musical_style": null,
+          "style_family": null,
+          "text": "眼看此去人千里，抛下姣妻苦无依！于今可怜只是你——"
         },
         {
           "character": "张氏",
@@ -1501,7 +1884,21 @@
           "line_type": "哭",
           "musical_style": null,
           "style_family": null,
-          "text": "我的老婆呀！\n（曹襄、李信、王恢、张氏、李氏、赵克奴、刘氏、曹子同哭。王恢、曹襄、赵克奴同上马，同下，孙氏扯\n住李信。）"
+          "text": "我的老婆呀！"
+        },
+        {
+          "character": "李信",
+          "line_type": "哭",
+          "musical_style": null,
+          "style_family": null,
+          "text": "（曹襄、李信、王恢、张氏、李氏、赵克奴、刘氏、曹子同哭。王恢、曹襄、赵克奴同上马，同下，孙氏扯"
+        },
+        {
+          "character": "李信",
+          "line_type": "哭",
+          "musical_style": null,
+          "style_family": null,
+          "text": "住李信。）"
         },
         {
           "character": "孙氏",
@@ -1713,7 +2110,17 @@
           "西皮导板",
           "西皮散板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.298,
+        0.3919,
+        0.4865,
+        0.1216,
+        0.6301,
+        13,
+        0.3378,
+        0.0
+      ]
     },
     {
       "scene_index": 6,
@@ -1736,7 +2143,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "俺，大司马刘虞，可恨公孙瓒不受节制；为此兴兵征讨。交锋以来，互有胜负。\n今日定擒此贼。\n众将官，兵发无定河去者。"
+          "text": "俺，大司马刘虞，可恨公孙瓒不受节制；为此兴兵征讨。交锋以来，互有胜负。"
+        },
+        {
+          "character": "刘虞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "今日定擒此贼。"
+        },
+        {
+          "character": "刘虞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "众将官，兵发无定河去者。"
         },
         {
           "character": "四将",
@@ -1764,7 +2185,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "人马列开——\n众将听令：四面埋伏，信炮一响，一起杀出。"
+          "text": "人马列开——"
+        },
+        {
+          "character": "刘虞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "众将听令：四面埋伏，信炮一响，一起杀出。"
         },
         {
           "character": "八兵士",
@@ -1822,7 +2250,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.5,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 7,
@@ -1851,7 +2289,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "俺，杨威。奉令征兵，今日回营缴令。\n来此已是大营，门上哪位在？"
+          "text": "俺，杨威。奉令征兵，今日回营缴令。"
+        },
+        {
+          "character": "杨威",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来此已是大营，门上哪位在？"
         },
         {
           "character": null,
@@ -1872,7 +2317,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "就烦通禀元帅：说俺奉命征兵，今已征得王恢、赵克奴等多人，操练精熟，带\n在辕门听用。"
+          "text": "就烦通禀元帅：说俺奉命征兵，今已征得王恢、赵克奴等多人，操练精熟，带"
+        },
+        {
+          "character": "杨威",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "在辕门听用。"
         },
         {
           "character": "中军",
@@ -1908,7 +2360,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.8571,
+        0.1429,
+        0.5,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 8,
@@ -2060,7 +2522,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "可恨刘虞不知悔祸，反敢亲率大军前来迎敌。\n王恢、赵克奴听令！"
+          "text": "可恨刘虞不知悔祸，反敢亲率大军前来迎敌。"
+        },
+        {
+          "character": "公孙瓒",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "王恢、赵克奴听令！"
         },
         {
           "character": "王恢、赵克奴",
@@ -2165,7 +2634,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.091,
+        0.0,
+        0.7,
+        0.3,
+        0.7368,
+        8,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 9,
@@ -2219,7 +2698,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 10,
@@ -2259,7 +2748,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 11,
@@ -2425,7 +2924,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.182,
+        0.1429,
+        0.7143,
+        0.1429,
+        0.6154,
+        2,
+        0.1429,
+        0.0
+      ]
     },
     {
       "scene_index": 12,
@@ -3909,7 +4418,17 @@
           "西皮摇板",
           "西皮散板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.176,
+        0.2446,
+        0.741,
+        0.0144,
+        0.6522,
+        5,
+        0.2014,
+        0.0288
+      ]
     }
   ]
 }

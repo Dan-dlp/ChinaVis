@@ -162,7 +162,35 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "小王，刘禅在位。只因先帝在白帝城晏驾，朝中大事，托付相父诸葛丞相。自\n登基以来，风调雨顺，国泰民安。可恨曹丕，发动五路人马，前来犯境。诸葛\n丞相染病在床，不能上朝理事，是小王放心不下，也曾命董允、杜琼前去探病，\n未见到来。\n内侍！开放龙门。"
+          "text": "小王，刘禅在位。只因先帝在白帝城晏驾，朝中大事，托付相父诸葛丞相。自"
+        },
+        {
+          "character": "刘禅",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "登基以来，风调雨顺，国泰民安。可恨曹丕，发动五路人马，前来犯境。诸葛"
+        },
+        {
+          "character": "刘禅",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "丞相染病在床，不能上朝理事，是小王放心不下，也曾命董允、杜琼前去探病，"
+        },
+        {
+          "character": "刘禅",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "未见到来。"
+        },
+        {
+          "character": "刘禅",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "内侍！开放龙门。"
         },
         {
           "character": null,
@@ -232,21 +260,49 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "想先帝临终之时，曾将天下大事托孤于丞相执掌；今当幼主初登大宝，那曹丕\n发动五路大兵前来犯境，军情紧急，丞相托病不出，不知何故？以臣之见：必\n须吾主圣驾亲自前去问计。未知圣意如何？"
+          "text": "想先帝临终之时，曾将天下大事托孤于丞相执掌；今当幼主初登大宝，那曹丕"
+        },
+        {
+          "character": "杜琼",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "发动五路大兵前来犯境，军情紧急，丞相托病不出，不知何故？以臣之见：必"
+        },
+        {
+          "character": "杜琼",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "须吾主圣驾亲自前去问计。未知圣意如何？"
         },
         {
           "character": "刘禅",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "既然如此，待寡人亲自前去便了。\n内侍摆驾！"
+          "text": "既然如此，待寡人亲自前去便了。"
+        },
+        {
+          "character": "刘禅",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "内侍摆驾！"
         },
         {
           "character": "内侍",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "领旨！\n御林军走上！"
+          "text": "领旨！"
+        },
+        {
+          "character": "内侍",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "御林军走上！"
         },
         {
           "character": null,
@@ -260,7 +316,14 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "心中只把曹丕恨，\n为何发动五路兵。"
+          "text": "心中只把曹丕恨，"
+        },
+        {
+          "character": "刘禅",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "为何发动五路兵。"
         },
         {
           "character": null,
@@ -320,7 +383,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.167,
+        0.16,
+        0.72,
+        0.12,
+        0.4583,
+        5,
+        0.12,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -343,21 +416,147 @@
           "line_type": "西皮原板",
           "musical_style": "西皮原板",
           "style_family": "西皮",
-          "text": "这几载把我的心血消化，\n数十年哪一日断却砍杀。\n总不如卧茅庐胜似过荣华。\n只有那东吴的兵须要退他。"
+          "text": "这几载把我的心血消化，"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "数十年哪一日断却砍杀。"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "总不如卧茅庐胜似过荣华。"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "只有那东吴的兵须要退他。"
         },
         {
           "character": "诸葛亮",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "山人，诸葛亮。只因先帝在白帝晏驾，将江山社稷托孤于山人。可恨司马懿，\n叫曹丕纠合五路兵马，前来犯境；山人已经安排兵马，敌挡四路；只有东吴，\n必须要遣一舌辩之士，前往陈说利害，打动孙权，方可成功。曹丕呀，曹丕！\n管叫你画虎不成反类犬也！"
+          "text": "山人，诸葛亮。只因先帝在白帝晏驾，将江山社稷托孤于山人。可恨司马懿，"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "叫曹丕纠合五路兵马，前来犯境；山人已经安排兵马，敌挡四路；只有东吴，"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "必须要遣一舌辩之士，前往陈说利害，打动孙权，方可成功。曹丕呀，曹丕！"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "管叫你画虎不成反类犬也！"
         },
         {
           "character": "诸葛亮",
           "line_type": "二黄慢板",
           "musical_style": "二黄慢板",
           "style_family": "二黄",
-          "text": "报君恩报不尽皇恩重大，\n扭人心扭不转汉室邦家。\n四百年锦江山一统中华。\n用药酒害平帝命染黄沙。\n云台观才把那莽贼来杀。\n在洛阳修宫殿重整汉家。\n曹孟德狗奸贼把君欺压。\n五虎将立功劳各震天涯。\n满朝中文武臣个个怕他。\n普天下众黎民珠泪如麻。\n有山人分四路前去敌他。\n还得要差一人顺说与他。\n灭却了小曹丕答报汉家。"
+          "text": "报君恩报不尽皇恩重大，"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "二黄慢板",
+          "musical_style": "二黄慢板",
+          "style_family": "二黄",
+          "text": "扭人心扭不转汉室邦家。"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "二黄慢板",
+          "musical_style": "二黄慢板",
+          "style_family": "二黄",
+          "text": "四百年锦江山一统中华。"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "二黄慢板",
+          "musical_style": "二黄慢板",
+          "style_family": "二黄",
+          "text": "用药酒害平帝命染黄沙。"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "二黄慢板",
+          "musical_style": "二黄慢板",
+          "style_family": "二黄",
+          "text": "云台观才把那莽贼来杀。"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "二黄慢板",
+          "musical_style": "二黄慢板",
+          "style_family": "二黄",
+          "text": "在洛阳修宫殿重整汉家。"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "二黄慢板",
+          "musical_style": "二黄慢板",
+          "style_family": "二黄",
+          "text": "曹孟德狗奸贼把君欺压。"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "二黄慢板",
+          "musical_style": "二黄慢板",
+          "style_family": "二黄",
+          "text": "五虎将立功劳各震天涯。"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "二黄慢板",
+          "musical_style": "二黄慢板",
+          "style_family": "二黄",
+          "text": "满朝中文武臣个个怕他。"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "二黄慢板",
+          "musical_style": "二黄慢板",
+          "style_family": "二黄",
+          "text": "普天下众黎民珠泪如麻。"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "二黄慢板",
+          "musical_style": "二黄慢板",
+          "style_family": "二黄",
+          "text": "有山人分四路前去敌他。"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "二黄慢板",
+          "musical_style": "二黄慢板",
+          "style_family": "二黄",
+          "text": "还得要差一人顺说与他。"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "二黄慢板",
+          "musical_style": "二黄慢板",
+          "style_family": "二黄",
+          "text": "灭却了小曹丕答报汉家。"
         },
         {
           "character": null,
@@ -497,7 +696,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "今有曹丕，分兵五路犯境而来，相父不肯出府视事，是小王放心不下，故而前\n来。"
+          "text": "今有曹丕，分兵五路犯境而来，相父不肯出府视事，是小王放心不下，故而前"
+        },
+        {
+          "character": "刘禅",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来。"
         },
         {
           "character": "诸葛亮",
@@ -518,7 +724,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "那羌王轲比能、南蛮孟获、反将孟达、魏将曹真，此四路兵马，老臣已经调兵\n遣将、四路抵挡，断无不胜之理。惟有东吴孙权一路，须遣一能言之人，前去\n顺说于他，必成功也。"
+          "text": "那羌王轲比能、南蛮孟获、反将孟达、魏将曹真，此四路兵马，老臣已经调兵"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "遣将、四路抵挡，断无不胜之理。惟有东吴孙权一路，须遣一能言之人，前去"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "顺说于他，必成功也。"
         },
         {
           "character": "刘禅",
@@ -532,7 +752,70 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "老臣蒙先帝特达之知，受恩深重；又将陛下托付老臣，焉敢不尽心竭力，报效\n皇家？那西路人马乃是西番王轲比能，今来引兵到西平关。臣知马超祖居西凉，\n深得羌人之心，羌人以马超为神威天将军；今命马超引兵抵挡，定能取胜。\n此西路兵不足虑也。那南路兵乃是蛮王孟获，兵出四郡。臣命魏延统领人马，\n左出右入、右出左入，以为疑兵之计；那孟获多疑见此必退。此南路兵不足虑\n也。那东路兵马乃是反将孟达，兵出汉中。想那孟达，与我朝李严结为生死之\n交；臣已命李严致书孟达，叫他推病不出以慢军心。此东路兵马又不足虑也。\n此北路兵马乃是曹真，兵出阳平关。此地险峻非常，又有赵云把守，更无可忧。\n只有东吴一路，必须遣人前去讲合，必须得一能言之士。臣看邓芝颇堪胜任。\n望幼主传旨，就命邓芝前往，大事定矣！"
+          "text": "老臣蒙先帝特达之知，受恩深重；又将陛下托付老臣，焉敢不尽心竭力，报效"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "皇家？那西路人马乃是西番王轲比能，今来引兵到西平关。臣知马超祖居西凉，"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "深得羌人之心，羌人以马超为神威天将军；今命马超引兵抵挡，定能取胜。"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "此西路兵不足虑也。那南路兵乃是蛮王孟获，兵出四郡。臣命魏延统领人马，"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "左出右入、右出左入，以为疑兵之计；那孟获多疑见此必退。此南路兵不足虑"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "也。那东路兵马乃是反将孟达，兵出汉中。想那孟达，与我朝李严结为生死之"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "交；臣已命李严致书孟达，叫他推病不出以慢军心。此东路兵马又不足虑也。"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "此北路兵马乃是曹真，兵出阳平关。此地险峻非常，又有赵云把守，更无可忧。"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "只有东吴一路，必须遣人前去讲合，必须得一能言之士。臣看邓芝颇堪胜任。"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "望幼主传旨，就命邓芝前往，大事定矣！"
         },
         {
           "character": "刘禅",
@@ -553,7 +836,21 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "陛下但把宽心放，\n些许小事臣承当。\n暂饮几杯又何妨？"
+          "text": "陛下但把宽心放，"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "些许小事臣承当。"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "暂饮几杯又何妨？"
         },
         {
           "character": null,
@@ -595,7 +892,17 @@
           "西皮原板",
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.125,
+        0.3667,
+        0.6333,
+        0.0,
+        0.3729,
+        3,
+        0.1167,
+        0.25
+      ]
     },
     {
       "scene_index": 3,
@@ -635,7 +942,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.5,
+        0.5,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 4,
@@ -656,7 +973,14 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "奉命离了西川道，\n顺说孙权走一遭。"
+          "text": "奉命离了西川道，"
+        },
+        {
+          "character": "邓芝",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "顺说孙权走一遭。"
         },
         {
           "character": "邓芝",
@@ -685,7 +1009,17 @@
           "西皮原板",
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        1.0,
+        0.75,
+        0.25,
+        0.0,
+        0.0,
+        1,
+        0.75,
+        0.0
+      ]
     },
     {
       "scene_index": 5,
@@ -732,7 +1066,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "孤，孙权。承父兄业，坐镇江东，统领八十一州郡。只因曹丕欲伐西蜀，调集\n四路兵马，又命人前来，叫孤出兵接应。也曾命探子打探，未回报到来。\n内侍，闪放银安。"
+          "text": "孤，孙权。承父兄业，坐镇江东，统领八十一州郡。只因曹丕欲伐西蜀，调集"
+        },
+        {
+          "character": "孙权",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "四路兵马，又命人前来，叫孤出兵接应。也曾命探子打探，未回报到来。"
+        },
+        {
+          "character": "孙权",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "内侍，闪放银安。"
         },
         {
           "character": null,
@@ -760,7 +1108,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "那羌王兵出西平关，见了马超，不战自退；南蛮孟获兵攻四郡，又被魏延杀退；\n上庸孟达，兵至半路染病而回；曹真兵出阳平关，也被赵云杀败。四路兵马\n均未取胜。特来禀报。"
+          "text": "那羌王兵出西平关，见了马超，不战自退；南蛮孟获兵攻四郡，又被魏延杀退；"
+        },
+        {
+          "character": "探子",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "上庸孟达，兵至半路染病而回；曹真兵出阳平关，也被赵云杀败。四路兵马"
+        },
+        {
+          "character": "探子",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "均未取胜。特来禀报。"
         },
         {
           "character": "孙权",
@@ -837,7 +1199,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "主公可于殿前设一油鼎，用柴烧沸；再选身长力大武士百人，各执刀枪剑戟，\n排列在宫门左右，用将当年郦食其顺说齐国之故事，将邓芝宣上殿来，看他是\n怎样对答。"
+          "text": "主公可于殿前设一油鼎，用柴烧沸；再选身长力大武士百人，各执刀枪剑戟，"
+        },
+        {
+          "character": "张昭",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "排列在宫门左右，用将当年郦食其顺说齐国之故事，将邓芝宣上殿来，看他是"
+        },
+        {
+          "character": "张昭",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "怎样对答。"
         },
         {
           "character": "孙权",
@@ -851,7 +1227,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "领旨！\n武士上殿！"
+          "text": "领旨！"
+        },
+        {
+          "character": "内侍",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "武士上殿！"
         },
         {
           "character": null,
@@ -900,7 +1283,42 @@
           "line_type": "西皮原板",
           "musical_style": "西皮原板",
           "style_family": "西皮",
-          "text": "来了西蜀一使臣。\n这两旁站定了武士百人。\n各执刀枪放光明。\n我笑那孙权太藐视人。\n这些须小事怎在我心？\n我看他把我怎样行！"
+          "text": "来了西蜀一使臣。"
+        },
+        {
+          "character": "邓芝",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "这两旁站定了武士百人。"
+        },
+        {
+          "character": "邓芝",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "各执刀枪放光明。"
+        },
+        {
+          "character": "邓芝",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "我笑那孙权太藐视人。"
+        },
+        {
+          "character": "邓芝",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "这些须小事怎在我心？"
+        },
+        {
+          "character": "邓芝",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "我看他把我怎样行！"
         },
         {
           "character": "邓芝",
@@ -910,7 +1328,42 @@
           "text": "邓芝参见吴侯。"
         },
         {
-          "character": "来在了殿角用目观定、我看他一个个威风凛凛、那殿前又设着一油鼎、自古道忠臣岂能怕死、大摇大摆往前进、孙权",
+          "character": "邓芝",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来在了殿角用目观定"
+        },
+        {
+          "character": "邓芝",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我看他一个个威风凛凛"
+        },
+        {
+          "character": "邓芝",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "那殿前又设着一油鼎"
+        },
+        {
+          "character": "邓芝",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "自古道忠臣岂能怕死"
+        },
+        {
+          "character": "邓芝",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "大摇大摆往前进"
+        },
+        {
+          "character": "孙权",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -928,14 +1381,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "你今到此，将欲凭三寸之舌，效郦生说齐之故事，孤家岂能容你张狂！\n金瓜武士，将他掷入油鼎！"
+          "text": "你今到此，将欲凭三寸之舌，效郦生说齐之故事，孤家岂能容你张狂！"
+        },
+        {
+          "character": "孙权",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "金瓜武士，将他掷入油鼎！"
         },
         {
           "character": "邓芝",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "人言东吴多贤，吴侯乃英明之主；不料今日竟惧怕我一介儒生。真令人好笑吓，\n好笑！"
+          "text": "人言东吴多贤，吴侯乃英明之主；不料今日竟惧怕我一介儒生。真令人好笑吓，"
+        },
+        {
+          "character": "邓芝",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "好笑！"
         },
         {
           "character": "邓芝",
@@ -949,24 +1416,59 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "你不过是一匹夫耳，孤家岂能惧你？你此番前来，无非是为诸葛亮作说客，顺\n说孤家绝魏向蜀，是与不是？"
+          "text": "你不过是一匹夫耳，孤家岂能惧你？你此番前来，无非是为诸葛亮作说客，顺"
+        },
+        {
+          "character": "孙权",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "说孤家绝魏向蜀，是与不是？"
         },
         {
           "character": "邓芝",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "你道你不惧我邓伯苗。我今前来，虽是作说客，却非为我西蜀，特为陈说你东\n吴的利害而来。不料你，设兵陈鼎拒一使臣，何度量之小、不能容物也！"
+          "text": "你道你不惧我邓伯苗。我今前来，虽是作说客，却非为我西蜀，特为陈说你东"
+        },
+        {
+          "character": "邓芝",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "吴的利害而来。不料你，设兵陈鼎拒一使臣，何度量之小、不能容物也！"
         },
         {
           "character": "邓芝",
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "人言吴侯是英豪，\n今日看来也不高。\n活活笑煞我邓伯苗。"
+          "text": "人言吴侯是英豪，"
         },
         {
-          "character": "设兵陈鼎丹墀道、孙权",
+          "character": "邓芝",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "今日看来也不高。"
+        },
+        {
+          "character": "邓芝",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "活活笑煞我邓伯苗。"
+        },
+        {
+          "character": "邓芝",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "设兵陈鼎丹墀道"
+        },
+        {
+          "character": "孙权",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -998,14 +1500,70 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "听道：想汉室，自高祖创世以来四百余载，传至献帝，谗臣当道、奸贼专权。\n那曹操是何等人物？如今这曹丕又是何等人物？曹操专权乱政、残害忠良，上\n欺天子、下压诸侯，逼死董贵妃、绞杀伏皇后，带剑入宫，目无君上！其子曹\n丕，心怀篡逆，南郊以外，设下“受禅台”，篡夺汉室天下；可谓是乱臣贼子，\n人人得而诛之！今日大王，与魏讲和，北面称臣，恐东吴这八十一州郡锦绣\n山河，必将尽付东流矣！"
+          "text": "听道：想汉室，自高祖创世以来四百余载，传至献帝，谗臣当道、奸贼专权。"
+        },
+        {
+          "character": "邓芝",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "那曹操是何等人物？如今这曹丕又是何等人物？曹操专权乱政、残害忠良，上"
+        },
+        {
+          "character": "邓芝",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "欺天子、下压诸侯，逼死董贵妃、绞杀伏皇后，带剑入宫，目无君上！其子曹"
+        },
+        {
+          "character": "邓芝",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "丕，心怀篡逆，南郊以外，设下“受禅台”，篡夺汉室天下；可谓是乱臣贼子，"
+        },
+        {
+          "character": "邓芝",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "人人得而诛之！今日大王，与魏讲和，北面称臣，恐东吴这八十一州郡锦绣"
+        },
+        {
+          "character": "邓芝",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "山河，必将尽付东流矣！"
         },
         {
           "character": "邓芝",
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "曹丕本是篡位君，\n乱臣贼子落骂名。\n江南土地化灰尘。\n情愿大王烹小臣。"
+          "text": "曹丕本是篡位君，"
+        },
+        {
+          "character": "邓芝",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "乱臣贼子落骂名。"
+        },
+        {
+          "character": "邓芝",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "江南土地化灰尘。"
+        },
+        {
+          "character": "邓芝",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "情愿大王烹小臣。"
         },
         {
           "character": null,
@@ -1019,7 +1577,14 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "听一言来心内惊，\n倒叫孤家无话论。"
+          "text": "听一言来心内惊，"
+        },
+        {
+          "character": "孙权",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "倒叫孤家无话论。"
         },
         {
           "character": "孙权",
@@ -1047,28 +1612,63 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "想大王乃当世之英豪，诸葛亮亦一时之俊杰。东吴有三江之固，西蜀有山川之\n险；若二国连合，共为唇齿，进可以兼吞天下，退可以鼎足而立。不知大王意\n下如何？"
-        },
-        {
-          "character": "孙权",
-          "line_type": "白",
-          "musical_style": null,
-          "style_family": null,
-          "text": "孤久已有意与你主连合、重修旧好，又恐你主年幼，有始无终，反令天下人耻\n笑！今闻先生之言，就烦先生代达孤意。"
+          "text": "想大王乃当世之英豪，诸葛亮亦一时之俊杰。东吴有三江之固，西蜀有山川之"
         },
         {
           "character": "邓芝",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "只因先帝在日与大王不睦，今已晏驾。当今吾主深慕大王，欲捐旧忿、永结盟\n好，大王何必多疑！"
+          "text": "险；若二国连合，共为唇齿，进可以兼吞天下，退可以鼎足而立。不知大王意"
+        },
+        {
+          "character": "邓芝",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "下如何？"
         },
         {
           "character": "孙权",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "孤意已定。请先生暂住驿馆，明日孤当派一使臣，随同先生共入西川，答礼通\n好！"
+          "text": "孤久已有意与你主连合、重修旧好，又恐你主年幼，有始无终，反令天下人耻"
+        },
+        {
+          "character": "孙权",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "笑！今闻先生之言，就烦先生代达孤意。"
+        },
+        {
+          "character": "邓芝",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "只因先帝在日与大王不睦，今已晏驾。当今吾主深慕大王，欲捐旧忿、永结盟"
+        },
+        {
+          "character": "邓芝",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "好，大王何必多疑！"
+        },
+        {
+          "character": "孙权",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "孤意已定。请先生暂住驿馆，明日孤当派一使臣，随同先生共入西川，答礼通"
+        },
+        {
+          "character": "孙权",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "好！"
         },
         {
           "character": "邓芝",
@@ -1082,7 +1682,21 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "邓芝不曾辱君命，\n打动吴主一片心。\n哪怕曹丕把兵临。"
+          "text": "邓芝不曾辱君命，"
+        },
+        {
+          "character": "邓芝",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "打动吴主一片心。"
+        },
+        {
+          "character": "邓芝",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "哪怕曹丕把兵临。"
         },
         {
           "character": null,
@@ -1096,7 +1710,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "想那西蜀乃一偏僻之地，竟有贤臣来说我东吴；我东吴掌江南八十一州，又有\n荆楚之地，竟无一人去至西川以答孤意！"
+          "text": "想那西蜀乃一偏僻之地，竟有贤臣来说我东吴；我东吴掌江南八十一州，又有"
+        },
+        {
+          "character": "孙权",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "荆楚之地，竟无一人去至西川以答孤意！"
         },
         {
           "character": "张昭",
@@ -1187,7 +1808,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "张温此去，必然成功。\n内侍，退班！"
+          "text": "张温此去，必然成功。"
+        },
+        {
+          "character": "孙权",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "内侍，退班！"
         },
         {
           "character": null,
@@ -1271,7 +1899,17 @@
           "西皮导板",
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.044,
+        0.202,
+        0.7576,
+        0.0404,
+        0.449,
+        8,
+        0.1919,
+        0.0
+      ]
     }
   ]
 }

@@ -414,7 +414,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "候着！\n启将军：下书人求见。"
+          "text": "候着！"
+        },
+        {
+          "character": "下手甲",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "启将军：下书人求见。"
         },
         {
           "character": "车胄",
@@ -624,7 +631,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "叫那刘备出城放粮安民。刘备走后，某将人马埋伏城内，等他放粮回来，伏兵\n四起，出其不意，杀他个措手不及。先生你看如何？"
+          "text": "叫那刘备出城放粮安民。刘备走后，某将人马埋伏城内，等他放粮回来，伏兵"
+        },
+        {
+          "character": "车胄",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "四起，出其不意，杀他个措手不及。先生你看如何？"
         },
         {
           "character": "陈登",
@@ -673,7 +687,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "哎呀且住！那车胄设下奸计，要暗杀刘备。想那刘使君仁义过天，倘若被他杀\n害，岂不伤了天理！哎呀这这这……"
+          "text": "哎呀且住！那车胄设下奸计，要暗杀刘备。想那刘使君仁义过天，倘若被他杀"
+        },
+        {
+          "character": "陈登",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "害，岂不伤了天理！哎呀这这这……"
         },
         {
           "character": null,
@@ -687,7 +708,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "也罢！我不免将此事说与郑老先生知道，求他一封书信，暗投刘备那里，送上\n一信便了！"
+          "text": "也罢！我不免将此事说与郑老先生知道，求他一封书信，暗投刘备那里，送上"
+        },
+        {
+          "character": "陈登",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "一信便了！"
         },
         {
           "character": "陈登",
@@ -770,7 +798,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0156,
+        0.9375,
+        0.0469,
+        0.7937,
+        7,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -801,21 +839,126 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "桃园仁义名远震，\n扶保汉室锦乾坤。\n不胜那华雄，众家诸侯败回营。\n立斩华雄丧残生。\n他不该许田射鹿欺圣君。\n灭却奸党方称心。"
+          "text": "桃园仁义名远震，"
         },
         {
-          "character": "曹孟德兵聚陈留郡、关某帐中讨将令、到如今曹操掌国政、某心中只把曹贼恨、张飞",
+          "character": "关羽",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "扶保汉室锦乾坤。"
+        },
+        {
+          "character": "关羽",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "不胜那华雄，众家诸侯败回营。"
+        },
+        {
+          "character": "关羽",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "立斩华雄丧残生。"
+        },
+        {
+          "character": "关羽",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "他不该许田射鹿欺圣君。"
+        },
+        {
+          "character": "关羽",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "灭却奸党方称心。"
+        },
+        {
+          "character": "关羽",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "曹孟德兵聚陈留郡"
+        },
+        {
+          "character": "关羽",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "关某帐中讨将令"
+        },
+        {
+          "character": "关羽",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "到如今曹操掌国政"
+        },
+        {
+          "character": "关羽",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "某心中只把曹贼恨"
+        },
+        {
+          "character": "张飞",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
           "text": "二哥！"
         },
         {
-          "character": "曹孟德兵聚陈留郡、关某帐中讨将令、到如今曹操掌国政、某心中只把曹贼恨、张飞",
+          "character": "张飞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "曹孟德兵聚陈留郡"
+        },
+        {
+          "character": "张飞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "关某帐中讨将令"
+        },
+        {
+          "character": "张飞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "到如今曹操掌国政"
+        },
+        {
+          "character": "张飞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "某心中只把曹贼恨"
+        },
+        {
+          "character": "张飞",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "桃园弟兄威名震，\n各路诸侯胆战惊。\n灭掉奸党保朝廷。"
+          "text": "桃园弟兄威名震，"
+        },
+        {
+          "character": "张飞",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "各路诸侯胆战惊。"
+        },
+        {
+          "character": "张飞",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "灭掉奸党保朝廷。"
         },
         {
           "character": null,
@@ -850,7 +993,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "你我奉了大哥之命，四门散粮。三弟去到东门散粮，酒要少饮，事要正办，不\n可大意！"
+          "text": "你我奉了大哥之命，四门散粮。三弟去到东门散粮，酒要少饮，事要正办，不"
+        },
+        {
+          "character": "关羽",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "可大意！"
         },
         {
           "character": "张飞",
@@ -878,7 +1028,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "二哥但把宽心放，\n叮咛的言语某记心旁。"
+          "text": "二哥但把宽心放，"
+        },
+        {
+          "character": "张飞",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "叮咛的言语某记心旁。"
         },
         {
           "character": "张飞",
@@ -888,7 +1045,14 @@
           "text": "马来！"
         },
         {
-          "character": "辞别二哥出宝帐、四上手",
+          "character": "张飞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "辞别二哥出宝帐"
+        },
+        {
+          "character": "四上手",
           "line_type": "同白",
           "musical_style": null,
           "style_family": null,
@@ -920,10 +1084,24 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "三弟他把东门往，\n安抚黎民放赈粮。"
+          "text": "三弟他把东门往，"
         },
         {
-          "character": "带马西门把粮放、四马童",
+          "character": "关羽",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "安抚黎民放赈粮。"
+        },
+        {
+          "character": "关羽",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "带马西门把粮放"
+        },
+        {
+          "character": "四马童",
           "line_type": "同白",
           "musical_style": null,
           "style_family": null,
@@ -948,7 +1126,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "又听人马闹嚷嚷。\n只见一人走慌忙。"
+          "text": "又听人马闹嚷嚷。"
+        },
+        {
+          "character": "关羽",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "只见一人走慌忙。"
         },
         {
           "character": null,
@@ -1081,7 +1266,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "那车胄在城内埋伏了五百削刀手，要暗害刘使君。我想刘使君仁义过天，况且\n郑康成老先生又是他的好友，故而暗暗出城，送此密信。将军若是不信，将此\n信送与刘使君，必识郑老先生笔迹。这是我一片赤诚，怎说是诈？"
+          "text": "那车胄在城内埋伏了五百削刀手，要暗害刘使君。我想刘使君仁义过天，况且"
+        },
+        {
+          "character": "陈登",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "郑康成老先生又是他的好友，故而暗暗出城，送此密信。将军若是不信，将此"
+        },
+        {
+          "character": "陈登",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "信送与刘使君，必识郑老先生笔迹。这是我一片赤诚，怎说是诈？"
         },
         {
           "character": null,
@@ -1221,7 +1420,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "看陈登已去。\n来！"
+          "text": "看陈登已去。"
+        },
+        {
+          "character": "关羽",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来！"
         },
         {
           "character": "四马童",
@@ -1326,7 +1532,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "适才有人送信前来，那车胄定下毒计，在城内埋伏五百削刀手，要暗害你我弟\n兄。"
+          "text": "适才有人送信前来，那车胄定下毒计，在城内埋伏五百削刀手，要暗害你我弟"
+        },
+        {
+          "character": "关羽",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "兄。"
         },
         {
           "character": null,
@@ -1389,7 +1602,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "我营现有曹营的盔甲，叫三军更换；你我弟兄假充张辽、许褚，趁着黑夜，诈\n开城门，一拥而进，杀他个片甲不留。"
+          "text": "我营现有曹营的盔甲，叫三军更换；你我弟兄假充张辽、许褚，趁着黑夜，诈"
+        },
+        {
+          "character": "关羽",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "开城门，一拥而进，杀他个片甲不留。"
         },
         {
           "character": "张飞",
@@ -1483,7 +1703,17 @@
         "singing_ratio": 0.062,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.062,
+        0.2316,
+        0.7684,
+        0.0,
+        0.617,
+        6,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -1516,10 +1746,38 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "要害刘备命一条。\n准备金钩钓海鳌。\n吩咐三军你们埋伏了！"
+          "text": "要害刘备命一条。"
         },
         {
-          "character": "安排打虎牢笼套、四下手、四大刀手",
+          "character": "车胄",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "准备金钩钓海鳌。"
+        },
+        {
+          "character": "车胄",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "吩咐三军你们埋伏了！"
+        },
+        {
+          "character": "车胄",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "安排打虎牢笼套"
+        },
+        {
+          "character": "车胄",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "四下手"
+        },
+        {
+          "character": "四大刀手",
           "line_type": "同白",
           "musical_style": null,
           "style_family": null,
@@ -1558,7 +1816,35 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "适才陈登把信报，\n不由关某怒眉梢。\n何惧车胄小儿曹！\n量他插翅也难逃。\n三军与某前引道！"
+          "text": "适才陈登把信报，"
+        },
+        {
+          "character": "关羽",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "不由关某怒眉梢。"
+        },
+        {
+          "character": "关羽",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "何惧车胄小儿曹！"
+        },
+        {
+          "character": "关羽",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "量他插翅也难逃。"
+        },
+        {
+          "character": "关羽",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "三军与某前引道！"
         },
         {
           "character": null,
@@ -1656,7 +1942,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "二位将军不必如此。\n众将官！"
+          "text": "二位将军不必如此。"
+        },
+        {
+          "character": "车胄",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "众将官！"
         },
         {
           "character": "四下手、四大刀手",
@@ -1747,7 +2040,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "且住！我当是丞相派来援军，原来是关羽诈城。某家无心恋战，回得城去，再\n做道理。"
+          "text": "且住！我当是丞相派来援军，原来是关羽诈城。某家无心恋战，回得城去，再"
+        },
+        {
+          "character": "车胄",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "做道理。"
         },
         {
           "character": null,
@@ -1810,7 +2110,21 @@
           "line_type": "内白",
           "musical_style": null,
           "style_family": null,
-          "text": "哪里走！\n（关羽上。关羽、车胄同起打。关羽杀死车胄。四下手同上，关羽杀死四下手。四大刀手同上，关羽杀死四\n大刀手，亮相。）"
+          "text": "哪里走！"
+        },
+        {
+          "character": "关羽",
+          "line_type": "内白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "（关羽上。关羽、车胄同起打。关羽杀死车胄。四下手同上，关羽杀死四下手。四大刀手同上，关羽杀死四"
+        },
+        {
+          "character": "关羽",
+          "line_type": "内白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "大刀手，亮相。）"
         },
         {
           "character": null,
@@ -1877,7 +2191,17 @@
         "singing_ratio": 0.172,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.172,
+        0.3095,
+        0.6905,
+        0.0,
+        0.5366,
+        5,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 4,
@@ -1909,7 +2233,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "大哥有所不知，车胄奉了曹操之命，暗设伏兵，欲杀害你我弟兄。小弟用一小\n计，赚开城门，将他杀死。"
+          "text": "大哥有所不知，车胄奉了曹操之命，暗设伏兵，欲杀害你我弟兄。小弟用一小"
+        },
+        {
+          "character": "关羽",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "计，赚开城门，将他杀死。"
         },
         {
           "character": "张飞",
@@ -2092,7 +2423,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.95,
+        5,
+        0.0,
+        0.0
+      ]
     }
   ]
 }

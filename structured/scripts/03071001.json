@@ -232,17 +232,52 @@
           "line_type": "吹腔",
           "musical_style": null,
           "style_family": null,
-          "text": "老僧打破闷葫芦，\n不识忧来不识愁。\n将身躲过名利头。"
+          "text": "老僧打破闷葫芦，"
+        },
+        {
+          "character": "智清",
+          "line_type": "吹腔",
+          "musical_style": null,
+          "style_family": null,
+          "text": "不识忧来不识愁。"
+        },
+        {
+          "character": "智清",
+          "line_type": "吹腔",
+          "musical_style": null,
+          "style_family": null,
+          "text": "将身躲过名利头。"
         },
         {
           "character": "智清",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "老僧，大相国寺住持智清和尚。我这大相国寺乃是五台山文殊院下院，为东京\n第一名胜，香火不断，信士盈门。今朝禅堂说法完毕。\n徒儿们，伺候了！"
+          "text": "老僧，大相国寺住持智清和尚。我这大相国寺乃是五台山文殊院下院，为东京"
         },
         {
-          "character": "闲情逃出是非苦、四小和尚",
+          "character": "智清",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "第一名胜，香火不断，信士盈门。今朝禅堂说法完毕。"
+        },
+        {
+          "character": "智清",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "徒儿们，伺候了！"
+        },
+        {
+          "character": "智清",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "闲情逃出是非苦"
+        },
+        {
+          "character": "四小和尚",
           "line_type": "同白",
           "musical_style": null,
           "style_family": null,
@@ -281,14 +316,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "启禀长老：衲子奉命管理庙旁菜园，近来有四邻无赖每日在彼处打扰，老衲受\n他等凌辱不过，特请师傅做主。"
+          "text": "启禀长老：衲子奉命管理庙旁菜园，近来有四邻无赖每日在彼处打扰，老衲受"
+        },
+        {
+          "character": "菜头僧",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "他等凌辱不过，特请师傅做主。"
         },
         {
           "character": "智清",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "阿弥陀佛！我出家人慈悲为本，岂可与人争斗是非？饶人不是痴，过后得便宜。\n去吧！"
+          "text": "阿弥陀佛！我出家人慈悲为本，岂可与人争斗是非？饶人不是痴，过后得便宜。"
+        },
+        {
+          "character": "智清",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "去吧！"
         },
         {
           "character": "菜头僧",
@@ -323,7 +372,14 @@
           "line_type": "吹腔",
           "musical_style": null,
           "style_family": null,
-          "text": "六根清净禅机透，\n五戒明徹欲魔伏。"
+          "text": "六根清净禅机透，"
+        },
+        {
+          "character": "智清",
+          "line_type": "吹腔",
+          "musical_style": null,
+          "style_family": null,
+          "text": "五戒明徹欲魔伏。"
         },
         {
           "character": "智清",
@@ -368,7 +424,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.2381,
+        0.7143,
+        0.0476,
+        0.45,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -440,7 +506,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "我等盘据这大相国寺菜园，每日拈枪弄棒，呼卢喝雉，好不快活。可恨那看园\n的老秃驴，竟敢与咱们作对！闻听今日他去报告智清长老。必须好好地将他暴\n打一顿，也叫他认识认识太爷们！"
+          "text": "我等盘据这大相国寺菜园，每日拈枪弄棒，呼卢喝雉，好不快活。可恨那看园"
+        },
+        {
+          "character": "张三",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "的老秃驴，竟敢与咱们作对！闻听今日他去报告智清长老。必须好好地将他暴"
+        },
+        {
+          "character": "张三",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "打一顿，也叫他认识认识太爷们！"
         },
         {
           "character": "李四、四无赖",
@@ -492,7 +572,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.8333,
+        0.1667,
+        0.8182,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -516,14 +606,98 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "忆昔关西把人伤，\n打死郑屠恶强梁。\n五台剃度改僧装。\n师尊遣某投汴梁。\n哪顾戴月与披霜！"
+          "text": "忆昔关西把人伤，"
+        },
+        {
+          "character": "鲁智深",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "打死郑屠恶强梁。"
+        },
+        {
+          "character": "鲁智深",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "五台剃度改僧装。"
+        },
+        {
+          "character": "鲁智深",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "师尊遣某投汴梁。"
+        },
+        {
+          "character": "鲁智深",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "哪顾戴月与披霜！"
         },
         {
           "character": "鲁智深",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "洒家、鲁智深。只因俺在五台山那里无他娘的酒钱，闹坏了文殊道院，那些秃\n驴们容不得洒家。多蒙师傅智真长老修书一封，荐俺投奔东京大相国寺，讨个\n执事僧人。俺下得山来，好似出笼之鸟，再不受庙中那些鸟恶规矩。就是逢林\n沽酒，遇店买醉，也任凭洒家。前者，俺行至桃花村，遇撞着周通那个晦气狗\n囚囊的，无端要抢刘太公之女，被俺打到那厮，救了刘家小姐；又在那瓦官庄\n杀了鸟道人道成、小乙二人，一路行来，除暴安良，好不快活人也！且喜今日\n已到汴梁，逢人便问相国寺座落何处，怎奈并无一人知道，叫俺哪里寻找？嘿，\n妙哇！你看那旁红墙粉壁，殿宇巍峨，恰喜是座广大庙宇。想定是大相国寺，\n不免撞了进去。"
+          "text": "洒家、鲁智深。只因俺在五台山那里无他娘的酒钱，闹坏了文殊道院，那些秃"
+        },
+        {
+          "character": "鲁智深",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "驴们容不得洒家。多蒙师傅智真长老修书一封，荐俺投奔东京大相国寺，讨个"
+        },
+        {
+          "character": "鲁智深",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "执事僧人。俺下得山来，好似出笼之鸟，再不受庙中那些鸟恶规矩。就是逢林"
+        },
+        {
+          "character": "鲁智深",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "沽酒，遇店买醉，也任凭洒家。前者，俺行至桃花村，遇撞着周通那个晦气狗"
+        },
+        {
+          "character": "鲁智深",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "囚囊的，无端要抢刘太公之女，被俺打到那厮，救了刘家小姐；又在那瓦官庄"
+        },
+        {
+          "character": "鲁智深",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "杀了鸟道人道成、小乙二人，一路行来，除暴安良，好不快活人也！且喜今日"
+        },
+        {
+          "character": "鲁智深",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "已到汴梁，逢人便问相国寺座落何处，怎奈并无一人知道，叫俺哪里寻找？嘿，"
+        },
+        {
+          "character": "鲁智深",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "妙哇！你看那旁红墙粉壁，殿宇巍峨，恰喜是座广大庙宇。想定是大相国寺，"
+        },
+        {
+          "character": "鲁智深",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "不免撞了进去。"
         },
         {
           "character": null,
@@ -537,7 +711,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "进得门来，这曲径通幽处，禅房花木深。啊！为何不见一个鸟僧人出来？\n呔，庙内僧人走了出来！"
+          "text": "进得门来，这曲径通幽处，禅房花木深。啊！为何不见一个鸟僧人出来？"
+        },
+        {
+          "character": "鲁智深",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "呔，庙内僧人走了出来！"
         },
         {
           "character": null,
@@ -663,7 +844,14 @@
           "line_type": "同白",
           "musical_style": null,
           "style_family": null,
-          "text": "是。\n击鼓鸣钟，禅堂升座啊！"
+          "text": "是。"
+        },
+        {
+          "character": "小和尚甲、小和尚乙",
+          "line_type": "同白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "击鼓鸣钟，禅堂升座啊！"
         },
         {
           "character": null,
@@ -929,7 +1117,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "师傅说的不差。弟子看那僧人全不像出家人模样，寺中万万不能令他安住。倒\n是酸枣门外东岳庙隔壁那片菜园子，一向被众泼皮侵害，看守的老和尚又不敢\n管，何不叫此人先去那里，倘若打服了那帮恶棍，就叫他在那里看守，要让恶\n棍打了他，他也就不能再上寺里来啦！"
+          "text": "师傅说的不差。弟子看那僧人全不像出家人模样，寺中万万不能令他安住。倒"
+        },
+        {
+          "character": "小和尚乙",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "是酸枣门外东岳庙隔壁那片菜园子，一向被众泼皮侵害，看守的老和尚又不敢"
+        },
+        {
+          "character": "小和尚乙",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "管，何不叫此人先去那里，倘若打服了那帮恶棍，就叫他在那里看守，要让恶"
+        },
+        {
+          "character": "小和尚乙",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "棍打了他，他也就不能再上寺里来啦！"
         },
         {
           "character": "智清",
@@ -971,14 +1180,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "远来僧人，你既是我师兄荐来，今有个大菜园，在酸枣门外东岳庙隔壁，可往\n那里住持去吧。"
+          "text": "远来僧人，你既是我师兄荐来，今有个大菜园，在酸枣门外东岳庙隔壁，可往"
+        },
+        {
+          "character": "智清",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "那里住持去吧。"
         },
         {
           "character": "鲁智深",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "呃！长老此言差矣！洒家奉吾师之命，前来此地讨个执事僧做。因何不请洒家\n做个监寺，却叫洒家去管菜园？"
+          "text": "呃！长老此言差矣！洒家奉吾师之命，前来此地讨个执事僧做。因何不请洒家"
+        },
+        {
+          "character": "鲁智深",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "做个监寺，却叫洒家去管菜园？"
         },
         {
           "character": "小和尚乙",
@@ -999,7 +1222,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "好，待我即刻使人去菜园里廨宇门上，挂起库司榜文，明日前去接替，今晚暂\n在方丈室安歇便了。正是："
+          "text": "好，待我即刻使人去菜园里廨宇门上，挂起库司榜文，明日前去接替，今晚暂"
+        },
+        {
+          "character": "智清",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "在方丈室安歇便了。正是："
         },
         {
           "character": "智清",
@@ -1070,7 +1300,17 @@
         "singing_ratio": 0.018,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.018,
+        0.0649,
+        0.8701,
+        0.0649,
+        0.6447,
+        5,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 4,
@@ -1108,7 +1348,49 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "我、高世德。人称花花太岁。我父高俅，在大宋宣和驾前为臣，官居殿帅府掌\n兵太尉之职。是我倚仗着我父亲权势，在这汴梁城内，横行霸道，遇着美貌女\n子，不管她有丈夫没有，忙抢来与我做妾，你爱告呀就告去吧，管叫他没地方\n诉冤。我又有两个得意的门客：一个叫富安，一个叫陆谦，专管给我出谋划策。\n今日乃是四月初八酸枣门外东岳庙开庙之期，必又有些个游人。不免唤出陆\n谦、富安，同去玩耍一回。\n来！"
+          "text": "我、高世德。人称花花太岁。我父高俅，在大宋宣和驾前为臣，官居殿帅府掌"
+        },
+        {
+          "character": "高世德",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "兵太尉之职。是我倚仗着我父亲权势，在这汴梁城内，横行霸道，遇着美貌女"
+        },
+        {
+          "character": "高世德",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "子，不管她有丈夫没有，忙抢来与我做妾，你爱告呀就告去吧，管叫他没地方"
+        },
+        {
+          "character": "高世德",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "诉冤。我又有两个得意的门客：一个叫富安，一个叫陆谦，专管给我出谋划策。"
+        },
+        {
+          "character": "高世德",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "今日乃是四月初八酸枣门外东岳庙开庙之期，必又有些个游人。不免唤出陆"
+        },
+        {
+          "character": "高世德",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "谦、富安，同去玩耍一回。"
+        },
+        {
+          "character": "高世德",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来！"
         },
         {
           "character": "院子",
@@ -1129,7 +1411,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "是。\n陆谦、富安前来！"
+          "text": "是。"
+        },
+        {
+          "character": "院子",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "陆谦、富安前来！"
         },
         {
           "character": null,
@@ -1185,7 +1474,14 @@
           "line_type": "同白",
           "musical_style": null,
           "style_family": null,
-          "text": "好。今天必有美貌的姑娘，您要一见她对眼光儿，先道咱高府的来历；她要不\n懂，咱们就叫打手抢东村，您瞧好不好？"
+          "text": "好。今天必有美貌的姑娘，您要一见她对眼光儿，先道咱高府的来历；她要不"
+        },
+        {
+          "character": "陆谦、富安",
+          "line_type": "同白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "懂，咱们就叫打手抢东村，您瞧好不好？"
         },
         {
           "character": "高世德",
@@ -1206,7 +1502,21 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "喜逢四月天气晴，\n岳庙闲游散心情。\n要学当年掷果生。"
+          "text": "喜逢四月天气晴，"
+        },
+        {
+          "character": "高世德",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "岳庙闲游散心情。"
+        },
+        {
+          "character": "高世德",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "要学当年掷果生。"
         },
         {
           "character": null,
@@ -1253,7 +1563,17 @@
         "singing_ratio": 0.071,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.071,
+        0.125,
+        0.75,
+        0.125,
+        0.4783,
+        5,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 5,
@@ -1290,7 +1610,35 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "俺、豹子头林冲。中原不羁英雄，燕赵慷慨之士。忠心壮志，欲继马伏波之奇\n功；烈胆侠肝，孺慕关壮缪之大义。只是俺生不逢时，目今豺犬满朝，虎狼当\n道，埋没贤良，辜负男儿封侯之愿。俺就在这八十万禁军，充了一名棍棒教头。\n今日承值回来。\n娘子哪里？"
+          "text": "俺、豹子头林冲。中原不羁英雄，燕赵慷慨之士。忠心壮志，欲继马伏波之奇"
+        },
+        {
+          "character": "林冲",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "功；烈胆侠肝，孺慕关壮缪之大义。只是俺生不逢时，目今豺犬满朝，虎狼当"
+        },
+        {
+          "character": "林冲",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "道，埋没贤良，辜负男儿封侯之愿。俺就在这八十万禁军，充了一名棍棒教头。"
+        },
+        {
+          "character": "林冲",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "今日承值回来。"
+        },
+        {
+          "character": "林冲",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "娘子哪里？"
         },
         {
           "character": null,
@@ -1318,7 +1666,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "官人请坐！啊官人，今当四月八日浴佛之期，前因母病，妾身许下香愿，看今\n日风和日丽，正好赴庙还愿，就烦官人一同前往如何？"
+          "text": "官人请坐！啊官人，今当四月八日浴佛之期，前因母病，妾身许下香愿，看今"
+        },
+        {
+          "character": "张氏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "日风和日丽，正好赴庙还愿，就烦官人一同前往如何？"
         },
         {
           "character": "林冲",
@@ -1332,7 +1687,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "是。\n锦儿，唤车辆走上！"
+          "text": "是。"
+        },
+        {
+          "character": "张氏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "锦儿，唤车辆走上！"
         },
         {
           "character": "锦儿",
@@ -1360,14 +1722,28 @@
           "line_type": "吹腔",
           "musical_style": null,
           "style_family": null,
-          "text": "浴佛日清和雨乍晴，\n东郊芳草快赏心情。"
+          "text": "浴佛日清和雨乍晴，"
+        },
+        {
+          "character": "林冲",
+          "line_type": "吹腔",
+          "musical_style": null,
+          "style_family": null,
+          "text": "东郊芳草快赏心情。"
         },
         {
           "character": "张氏",
           "line_type": "吹腔",
           "musical_style": null,
           "style_family": null,
-          "text": "喜夫妻家庭多欢庆，\n因母病愈答谢神明。"
+          "text": "喜夫妻家庭多欢庆，"
+        },
+        {
+          "character": "张氏",
+          "line_type": "吹腔",
+          "musical_style": null,
+          "style_family": null,
+          "text": "因母病愈答谢神明。"
         },
         {
           "character": null,
@@ -1404,7 +1780,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.25,
+        0.65,
+        0.1,
+        0.4211,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 6,
@@ -1586,7 +1972,17 @@
         "singing_ratio": 0.091,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.091,
+        0.0714,
+        0.7857,
+        0.1429,
+        0.4615,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 7,
@@ -2317,7 +2713,17 @@
         "singing_ratio": 0.045,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.045,
+        0.0845,
+        0.8592,
+        0.0563,
+        0.8429,
+        8,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 8,
@@ -2770,7 +3176,17 @@
         "singing_ratio": 0.132,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.132,
+        0.1628,
+        0.8372,
+        0.0,
+        0.7857,
+        7,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 9,
@@ -3066,7 +3482,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.9259,
+        0.0741,
+        0.9615,
+        5,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 10,
@@ -3690,7 +4116,17 @@
           "西皮二六板",
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.119,
+        0.1765,
+        0.7794,
+        0.0441,
+        0.8358,
+        5,
+        0.0441,
+        0.0
+      ]
     },
     {
       "scene_index": 11,
@@ -3744,7 +4180,17 @@
         "singing_ratio": 1.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        1.0,
+        0.6667,
+        0.3333,
+        0.0,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 12,
@@ -4233,7 +4679,17 @@
         "singing_ratio": 0.053,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.053,
+        0.0889,
+        0.8222,
+        0.0889,
+        0.7273,
+        7,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 13,
@@ -4287,7 +4743,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.3333,
+        0.6667,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 14,
@@ -4380,7 +4846,17 @@
         "singing_ratio": 0.833,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.833,
+        0.8571,
+        0.1429,
+        0.0,
+        0.8333,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 15,
@@ -4705,7 +5181,17 @@
         "singing_ratio": 0.375,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.375,
+        0.4286,
+        0.5714,
+        0.0,
+        0.8148,
+        5,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 16,
@@ -4877,7 +5363,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.2667,
+        0.7333,
+        0.0,
+        0.6429,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 17,
@@ -4956,7 +5452,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 18,
@@ -5024,7 +5530,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.25,
+        0.75,
+        0.0,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 19,
@@ -5714,7 +6230,17 @@
         "singing_ratio": 0.095,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.095,
+        0.1449,
+        0.8551,
+        0.0,
+        0.7941,
+        5,
+        0.0,
+        0.0
+      ]
     }
   ]
 }

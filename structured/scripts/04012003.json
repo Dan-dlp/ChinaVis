@@ -190,7 +190,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.6667,
+        0.3333,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -231,7 +241,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "老身佘氏太君。配夫杨继业，官拜令公之位；只因保定宋王双龙赴会，不幸为\n国尽忠。是我有八个孩儿，倒有四子战死沙场，三子不知去向；如今只剩下六\n郎一人，镇守三关；这几日并无音信到来，叫我放心不下。正是："
+          "text": "老身佘氏太君。配夫杨继业，官拜令公之位；只因保定宋王双龙赴会，不幸为"
+        },
+        {
+          "character": "佘太君",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "国尽忠。是我有八个孩儿，倒有四子战死沙场，三子不知去向；如今只剩下六"
+        },
+        {
+          "character": "佘太君",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "郎一人，镇守三关；这几日并无音信到来，叫我放心不下。正是："
         },
         {
           "character": "佘太君",
@@ -273,7 +297,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "什么人？\n原来是孟二爷。"
+          "text": "什么人？"
+        },
+        {
+          "character": "杨洪",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "原来是孟二爷。"
         },
         {
           "character": "孟良",
@@ -315,14 +346,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "遵命。\n孟二爷，太君唤你。"
+          "text": "遵命。"
+        },
+        {
+          "character": "杨洪",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "孟二爷，太君唤你。"
         },
         {
           "character": "孟良",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "带路。\n太君在上，孟良叩头。"
+          "text": "带路。"
+        },
+        {
+          "character": "孟良",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "太君在上，孟良叩头。"
         },
         {
           "character": "佘太君",
@@ -364,7 +409,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "只因随定小本官，出关祭奠老元戎，不想焦赞放了一炮，惊动辽邦韩昌，将小\n本官擒去。"
+          "text": "只因随定小本官，出关祭奠老元戎，不想焦赞放了一炮，惊动辽邦韩昌，将小"
+        },
+        {
+          "character": "孟良",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "本官擒去。"
         },
         {
           "character": "佘太君",
@@ -392,7 +444,14 @@
           "line_type": "西皮散板",
           "musical_style": "西皮散板",
           "style_family": "西皮",
-          "text": "听说宗保被贼擒，\n不由老身痛伤心。"
+          "text": "听说宗保被贼擒，"
+        },
+        {
+          "character": "佘太君",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "不由老身痛伤心。"
         },
         {
           "character": "佘太君",
@@ -413,7 +472,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "不是你提起，我倒忘怀了。\n杨洪，同你家孟二爷急速前去叫将，若有人应声，速报我知。"
+          "text": "不是你提起，我倒忘怀了。"
+        },
+        {
+          "character": "佘太君",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "杨洪，同你家孟二爷急速前去叫将，若有人应声，速报我知。"
         },
         {
           "character": "孟良",
@@ -455,17 +521,38 @@
           "line_type": "西皮散板",
           "musical_style": "西皮散板",
           "style_family": "西皮",
-          "text": "男女众将听根苗：\n搭救宗保转回朝。"
+          "text": "男女众将听根苗："
+        },
+        {
+          "character": "孟良",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "搭救宗保转回朝。"
         },
         {
           "character": "孟良",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "呔，天波杨府男女众将听者：今有小本官上坟插柳，被辽邦韩昌一马掳去。若\n有能人搭救小本官还朝，高官得作，骏马任骑。"
+          "text": "呔，天波杨府男女众将听者：今有小本官上坟插柳，被辽邦韩昌一马掳去。若"
         },
         {
-          "character": "何人前来把令讨、杨排风",
+          "character": "孟良",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "有能人搭救小本官还朝，高官得作，骏马任骑。"
+        },
+        {
+          "character": "孟良",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "何人前来把令讨"
+        },
+        {
+          "character": "杨排风",
           "line_type": "内白",
           "musical_style": null,
           "style_family": null,
@@ -609,14 +696,56 @@
           "line_type": "西皮二六板",
           "musical_style": "西皮二六板",
           "style_family": "西皮",
-          "text": "太君把我忒小量，\n我自幼练就武艺强；\n去到三关擒韩昌；\n排风愿去战辽邦。"
+          "text": "太君把我忒小量，"
         },
         {
-          "character": "听得二爷来调将、为救少爷把阵上、佘太君",
+          "character": "杨排风",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "我自幼练就武艺强；"
+        },
+        {
+          "character": "杨排风",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "去到三关擒韩昌；"
+        },
+        {
+          "character": "杨排风",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "排风愿去战辽邦。"
+        },
+        {
+          "character": "杨排风",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "听得二爷来调将"
+        },
+        {
+          "character": "杨排风",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "为救少爷把阵上"
+        },
+        {
+          "character": "佘太君",
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "你说此话我不信，\n空言怎能作证凭。"
+          "text": "你说此话我不信，"
+        },
+        {
+          "character": "佘太君",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "空言怎能作证凭。"
         },
         {
           "character": "杨排风",
@@ -658,14 +787,28 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "看她年幼无本领，\n再与太君说分明。"
+          "text": "看她年幼无本领，"
+        },
+        {
+          "character": "孟良",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "再与太君说分明。"
         },
         {
           "character": "孟良",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "太君，我看排风，上马无有拳头大，下马无有膝盖高；慢说冲锋打仗，就是衬\n刀背、垫马蹄，也是不中用。"
+          "text": "太君，我看排风，上马无有拳头大，下马无有膝盖高；慢说冲锋打仗，就是衬"
+        },
+        {
+          "character": "孟良",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "刀背、垫马蹄，也是不中用。"
         },
         {
           "character": "杨洪",
@@ -852,7 +995,17 @@
           "西皮摇板",
           "西皮散板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.086,
+        0.2222,
+        0.7556,
+        0.0222,
+        0.6292,
+        4,
+        0.2,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -981,7 +1134,14 @@
           "line_type": "西皮散板",
           "musical_style": "西皮散板",
           "style_family": "西皮",
-          "text": "火棍不住往上打，\n胆大的丫头把某欺。"
+          "text": "火棍不住往上打，"
+        },
+        {
+          "character": "孟良",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "胆大的丫头把某欺。"
         },
         {
           "character": null,
@@ -1170,7 +1330,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "嘿，你别打，我给你跪下就是了。\n嘿！"
+          "text": "嘿，你别打，我给你跪下就是了。"
+        },
+        {
+          "character": "孟良",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "嘿！"
         },
         {
           "character": "杨洪",
@@ -1261,7 +1428,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "遵命。\n得罪二爷，与二爷赔礼。"
+          "text": "遵命。"
+        },
+        {
+          "character": "杨排风",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "得罪二爷，与二爷赔礼。"
         },
         {
           "character": "孟良",
@@ -1303,7 +1477,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "啊，排风，此番到了三关，见了你家元帅，认上一门干亲；元帅若问就说老身\n身体康健。我有一言你且听了！"
+          "text": "啊，排风，此番到了三关，见了你家元帅，认上一门干亲；元帅若问就说老身"
+        },
+        {
+          "character": "佘太君",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "身体康健。我有一言你且听了！"
         },
         {
           "character": "佘太君",
@@ -1324,7 +1505,14 @@
           "line_type": "西皮原板",
           "musical_style": "西皮原板",
           "style_family": "西皮",
-          "text": "叫声排风听分明：\n大战韩昌要小心。"
+          "text": "叫声排风听分明："
+        },
+        {
+          "character": "佘太君",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "大战韩昌要小心。"
         },
         {
           "character": null,
@@ -1492,14 +1680,35 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "坐在马上把话论，\n怕你此去功难成。"
+          "text": "坐在马上把话论，"
+        },
+        {
+          "character": "孟良",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "怕你此去功难成。"
         },
         {
           "character": "杨排风",
           "line_type": "西皮流水板",
           "musical_style": "西皮流水板",
           "style_family": "西皮",
-          "text": "二爷不必挂在心，\n我有一言说分明：\n排风自有擒虎能。"
+          "text": "二爷不必挂在心，"
+        },
+        {
+          "character": "杨排风",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "我有一言说分明："
+        },
+        {
+          "character": "杨排风",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "排风自有擒虎能。"
         },
         {
           "character": null,
@@ -1583,7 +1792,17 @@
           "西皮散板",
           "西皮流水板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.056,
+        0.1463,
+        0.8537,
+        0.0,
+        0.7778,
+        4,
+        0.1463,
+        0.0
+      ]
     },
     {
       "scene_index": 4,
@@ -1604,14 +1823,14 @@
           "text": "（四宋兵引杨延昭同上。）"
         },
         {
-          "character": null,
+          "character": "杨延昭",
           "line_type": "念",
           "musical_style": null,
           "style_family": null,
           "text": "祖居磁州有家园，杨家世代保江山。宗保扫墓去插柳，韩昌掳去未回还。"
         },
         {
-          "character": null,
+          "character": "杨延昭",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -2930,7 +3149,17 @@
           "西皮散板",
           "西皮流水"
         ]
-      }
+      },
+      "scene_feature": [
+        0.021,
+        0.0566,
+        0.9308,
+        0.0126,
+        0.8354,
+        5,
+        0.0503,
+        0.0
+      ]
     },
     {
       "scene_index": 5,
@@ -3218,7 +3447,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.9333,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 6,
@@ -3258,7 +3497,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 7,
@@ -3705,7 +3954,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.8571,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 8,
@@ -3766,7 +4025,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.6667,
+        0.3333,
+        0.5,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 9,
@@ -3891,7 +4160,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.125,
+        0.125,
+        0.875,
+        0.0,
+        0.8571,
+        3,
+        0.125,
+        0.0
+      ]
     },
     {
       "scene_index": 10,
@@ -4222,7 +4501,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.963,
+        0.037,
+        0.9615,
+        10,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 11,
@@ -4293,7 +4582,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 12,
@@ -4366,7 +4665,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        3,
+        0.0,
+        0.0
+      ]
     }
   ]
 }

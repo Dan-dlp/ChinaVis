@@ -98,7 +98,14 @@
           "line_type": "同唱",
           "musical_style": null,
           "style_family": null,
-          "text": "不是献帝禅台命，\n哪有君王贬出京？"
+          "text": "不是献帝禅台命，"
+        },
+        {
+          "character": "马周、程万牛、罗章、李敬犹",
+          "line_type": "同唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "哪有君王贬出京？"
         },
         {
           "character": null,
@@ -189,7 +196,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "哎呀，众卿吓，太后不念母子之情，岂留君臣之义？但朕去后，全仗卿等整理\n皇唐天下，寡人在房州，静听好音。"
+          "text": "哎呀，众卿吓，太后不念母子之情，岂留君臣之义？但朕去后，全仗卿等整理"
+        },
+        {
+          "character": "李显",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "皇唐天下，寡人在房州，静听好音。"
         },
         {
           "character": "马周、程万牛、罗章、李敬犹",
@@ -238,7 +252,14 @@
           "line_type": "同唱",
           "musical_style": null,
           "style_family": null,
-          "text": "武氏传国心已定，\n眼见唐室一旦倾。"
+          "text": "武氏传国心已定，"
+        },
+        {
+          "character": "马周、程万牛、罗章、李敬犹",
+          "line_type": "同唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "眼见唐室一旦倾。"
         },
         {
           "character": null,
@@ -281,7 +302,17 @@
         "singing_ratio": 0.294,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.294,
+        0.381,
+        0.619,
+        0.0,
+        0.75,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -311,7 +342,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "某，武三思。奉太后旨意，监斩薛氏满门。\n刀斧手，打道天牢去者。"
+          "text": "某，武三思。奉太后旨意，监斩薛氏满门。"
+        },
+        {
+          "character": "武三思",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "刀斧手，打道天牢去者。"
         },
         {
           "character": "八刽子手",
@@ -332,7 +370,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "某，武承嗣。奉太后懿旨，往两辽府掘一深坑，埋葬薛氏尸首。\n众将官，即往辽府去者。"
+          "text": "某，武承嗣。奉太后懿旨，往两辽府掘一深坑，埋葬薛氏尸首。"
+        },
+        {
+          "character": "武承嗣",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "众将官，即往辽府去者。"
         },
         {
           "character": null,
@@ -362,7 +407,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.8333,
+        0.1667,
+        0.4,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -383,7 +438,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "吾乃太乙山窦青老祖是也。法眼观见江淮侯李敬犹，舍子替换薛蛟。但李孝思\n命不该绝，吾今前去救他上山，扶养成人后，扶皇唐天子。\n众神将，驾云前往。"
+          "text": "吾乃太乙山窦青老祖是也。法眼观见江淮侯李敬犹，舍子替换薛蛟。但李孝思"
+        },
+        {
+          "character": "窦青老祖",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "命不该绝，吾今前去救他上山，扶养成人后，扶皇唐天子。"
+        },
+        {
+          "character": "窦青老祖",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "众神将，驾云前往。"
         },
         {
           "character": null,
@@ -402,7 +471,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     }
   ]
 }

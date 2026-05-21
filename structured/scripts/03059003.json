@@ -392,7 +392,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "前者，晁天王被史文恭一箭射死，大名府聘请“玉麒麟”上山，要报一箭之仇；\n卢俊义、林冲统领众家哥弟前往曾头市捉拿史文恭。想林冲、俊义、文恭三\n人同堂学艺，今番伤了幼年同堂之情，此事令人酸鼻。"
+          "text": "前者，晁天王被史文恭一箭射死，大名府聘请“玉麒麟”上山，要报一箭之仇；"
+        },
+        {
+          "character": "杨雄",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "卢俊义、林冲统领众家哥弟前往曾头市捉拿史文恭。想林冲、俊义、文恭三"
+        },
+        {
+          "character": "杨雄",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "人同堂学艺，今番伤了幼年同堂之情，此事令人酸鼻。"
         },
         {
           "character": "黄信、关胜、呼延灼、朱仝、花荣、秦明、徐宁",
@@ -472,7 +486,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.68,
+        0.32,
+        0.875,
+        10,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -591,7 +615,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        7,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -642,7 +676,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "单单地不见了架海金梁。\n齐奋勇擒文恭大报冤枉。"
+          "text": "单单地不见了架海金梁。"
+        },
+        {
+          "character": "宋江",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "齐奋勇擒文恭大报冤枉。"
         },
         {
           "character": null,
@@ -691,7 +732,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "只因晁天王被史文恭一箭射死，众家弟兄共起义愤，要报一箭之仇。卢俊义、\n林冲带领燕青、李逵、武松、白胜、时迁、张顺、阮氏弟兄前去攻打曾头市，\n要生擒史文恭，活祭晁大哥的灵堂。未知天意可遂人愿？"
+          "text": "只因晁天王被史文恭一箭射死，众家弟兄共起义愤，要报一箭之仇。卢俊义、"
+        },
+        {
+          "character": "宋江",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "林冲带领燕青、李逵、武松、白胜、时迁、张顺、阮氏弟兄前去攻打曾头市，"
+        },
+        {
+          "character": "宋江",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "要生擒史文恭，活祭晁大哥的灵堂。未知天意可遂人愿？"
         },
         {
           "character": null,
@@ -799,7 +854,17 @@
         "singing_ratio": 0.071,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.071,
+        0.1176,
+        0.7059,
+        0.1765,
+        0.75,
+        5,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 4,
@@ -822,7 +887,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 5,
@@ -843,7 +918,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "一世英名付汪洋。\n冤冤相报把命偿。"
+          "text": "一世英名付汪洋。"
+        },
+        {
+          "character": "卢俊义",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "冤冤相报把命偿。"
         },
         {
           "character": "卢俊义",
@@ -857,14 +939,91 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "俺、卢俊义。奉宋江大哥之命，顺说史文恭。是俺苦口相劝于他，文恭执意不\n听，如今被擒，量他性命难保。想俺与文恭同堂学艺，眼见他落此下场，唉，\n回想幼年之时，与林冲、文恭练武习文，在一处玩耍，数年光景，只落得失义\n绝交，思想起来，好不伤心也！"
+          "text": "俺、卢俊义。奉宋江大哥之命，顺说史文恭。是俺苦口相劝于他，文恭执意不"
+        },
+        {
+          "character": "卢俊义",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "听，如今被擒，量他性命难保。想俺与文恭同堂学艺，眼见他落此下场，唉，"
+        },
+        {
+          "character": "卢俊义",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "回想幼年之时，与林冲、文恭练武习文，在一处玩耍，数年光景，只落得失义"
+        },
+        {
+          "character": "卢俊义",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "绝交，思想起来，好不伤心也！"
         },
         {
           "character": "卢俊义",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "卢俊义在中途自思自想，\n习枪法学武艺三人同堂。\n险些儿高俅贼害他身亡。\n将林冲荐至在水泊山岗。\n段景住连环马各逞豪强。\n忠义堂众弟兄要报冤枉。\n曾头市擒文恭贻笑万方。\n讲什么丑名美名万载扬！\n自愧我大英雄无有主张！"
+          "text": "卢俊义在中途自思自想，"
+        },
+        {
+          "character": "卢俊义",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "习枪法学武艺三人同堂。"
+        },
+        {
+          "character": "卢俊义",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "险些儿高俅贼害他身亡。"
+        },
+        {
+          "character": "卢俊义",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "将林冲荐至在水泊山岗。"
+        },
+        {
+          "character": "卢俊义",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "段景住连环马各逞豪强。"
+        },
+        {
+          "character": "卢俊义",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "忠义堂众弟兄要报冤枉。"
+        },
+        {
+          "character": "卢俊义",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "曾头市擒文恭贻笑万方。"
+        },
+        {
+          "character": "卢俊义",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "讲什么丑名美名万载扬！"
+        },
+        {
+          "character": "卢俊义",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "自愧我大英雄无有主张！"
         },
         {
           "character": null,
@@ -883,7 +1042,17 @@
         "singing_ratio": 1.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        1.0,
+        0.6875,
+        0.25,
+        0.0625,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 6,
@@ -906,7 +1075,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 7,
@@ -960,7 +1139,21 @@
           "line_type": "同白",
           "musical_style": null,
           "style_family": null,
-          "text": "大哥，众家哥弟有言在先，不报一箭之仇，砍倒杏黄旗，火焚忠义堂。今日擒\n来史文恭，仇人到山，就该将他绑至灵堂，剖腹剜心，祭奠晁天王。大哥此时，\n这个、那个，是何道理？"
+          "text": "大哥，众家哥弟有言在先，不报一箭之仇，砍倒杏黄旗，火焚忠义堂。今日擒"
+        },
+        {
+          "character": "杨雄、黄信、关胜、呼延灼、朱仝、花荣、秦明、徐宁",
+          "line_type": "同白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来史文恭，仇人到山，就该将他绑至灵堂，剖腹剜心，祭奠晁天王。大哥此时，"
+        },
+        {
+          "character": "杨雄、黄信、关胜、呼延灼、朱仝、花荣、秦明、徐宁",
+          "line_type": "同白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "这个、那个，是何道理？"
         },
         {
           "character": null,
@@ -1002,7 +1195,14 @@
           "line_type": "同念",
           "musical_style": null,
           "style_family": null,
-          "text": "冤仇相报祭灵堂！\n（杨雄、黄信、关胜、呼延灼、朱仝、花荣、秦明、徐宁、公孙胜、吴用、宋江同下。卢俊义、林冲对哭，"
+          "text": "冤仇相报祭灵堂！"
+        },
+        {
+          "character": "杨雄、黄信、关胜、呼延灼、朱仝、花荣、秦明、徐宁",
+          "line_type": "同念",
+          "musical_style": null,
+          "style_family": null,
+          "text": "（杨雄、黄信、关胜、呼延灼、朱仝、花荣、秦明、徐宁、公孙胜、吴用、宋江同下。卢俊义、林冲对哭，"
         }
       ],
       "interactions": [
@@ -1045,7 +1245,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.5833,
+        0.4167,
+        0.6364,
+        6,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 8,
@@ -1112,7 +1322,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "得令。走！\n（二喽兵押史文恭同下，李逵随下。起鼓。卢俊义、林冲同哭，杨雄、黄信、关胜、呼延灼、朱仝、花荣、\n秦明、徐宁同作出气。二喽兵、李逵托盘子同上，供灵牌前，杨雄、黄信、关胜、呼延灼、朱仝、花荣、秦\n明、徐宁、公孙胜、吴用、宋江同上祭。）"
+          "text": "得令。走！"
+        },
+        {
+          "character": "李逵",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "（二喽兵押史文恭同下，李逵随下。起鼓。卢俊义、林冲同哭，杨雄、黄信、关胜、呼延灼、朱仝、花荣、"
+        },
+        {
+          "character": "李逵",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "秦明、徐宁同作出气。二喽兵、李逵托盘子同上，供灵牌前，杨雄、黄信、关胜、呼延灼、朱仝、花荣、秦"
+        },
+        {
+          "character": "李逵",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "明、徐宁、公孙胜、吴用、宋江同上祭。）"
         },
         {
           "character": "宋江",
@@ -1147,7 +1378,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "盖世英雄赴幽冥。\n望大哥佑水泊大显威灵。"
+          "text": "盖世英雄赴幽冥。"
+        },
+        {
+          "character": "宋江",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "望大哥佑水泊大显威灵。"
         },
         {
           "character": "宋江",
@@ -1164,7 +1402,14 @@
           "text": "传一令众弟兄各归各寨，"
         },
         {
-          "character": "擒仇人祭奠你报仇雪恨、众人",
+          "character": "宋江",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "擒仇人祭奠你报仇雪恨"
+        },
+        {
+          "character": "众人",
           "line_type": "同白",
           "musical_style": null,
           "style_family": null,
@@ -1224,7 +1469,17 @@
         "singing_ratio": 0.286,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.286,
+        0.4706,
+        0.5294,
+        0.0,
+        0.3125,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 9,
@@ -1254,7 +1509,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "奉了主帅之命，催运粮草。粮草催齐，回城交令。\n呔，军士们，催军！"
+          "text": "奉了主帅之命，催运粮草。粮草催齐，回城交令。"
+        },
+        {
+          "character": "李胜",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "呔，军士们，催军！"
         },
         {
           "character": "众人",
@@ -1290,7 +1552,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.6667,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 10,
@@ -1328,7 +1600,21 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "擒文恭报箭仇已了心愿，\n想起了晁天王临终遗言。\n与哥弟共商议推位让山。"
+          "text": "擒文恭报箭仇已了心愿，"
+        },
+        {
+          "character": "宋江",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "想起了晁天王临终遗言。"
+        },
+        {
+          "character": "宋江",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "与哥弟共商议推位让山。"
         },
         {
           "character": "宋江",
@@ -1338,7 +1624,14 @@
           "text": "众家哥弟！"
         },
         {
-          "character": "卢俊义智勇全韬略不浅、众人",
+          "character": "宋江",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "卢俊义智勇全韬略不浅"
+        },
+        {
+          "character": "众人",
           "line_type": "同白",
           "musical_style": null,
           "style_family": null,
@@ -1349,7 +1642,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "先前晁天王留有遗言：若有人捉得史文恭者，便为梁山水泊之主。今日卢员外\n擒得仇人上山，祭献晁兄，报仇雪恨，正当为尊。来，有请卢员外！"
+          "text": "先前晁天王留有遗言：若有人捉得史文恭者，便为梁山水泊之主。今日卢员外"
+        },
+        {
+          "character": "宋江",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "擒得仇人上山，祭献晁兄，报仇雪恨，正当为尊。来，有请卢员外！"
         },
         {
           "character": "四喽兵",
@@ -1426,7 +1726,35 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "第一件，宋江身材黑矮，貌拙才疏；员外堂堂一表，凛凛一躯，有贵人之相。\n第二件，宋江出身小吏，犯罪在逃，蒙众位兄弟不弃，暂居尊位；员外生于富\n贵之家，素有豪杰之誉，又非众人所能得及。第三件，宋江文不能安邦，武不\n能服众，双手无缚鸡之力，身无寸箭之功；员外力敌万人，通今博古，众人越\n发无能得及。员外有如此才德，正当为山寨之主。宋江主张已定，休得推托。"
+          "text": "第一件，宋江身材黑矮，貌拙才疏；员外堂堂一表，凛凛一躯，有贵人之相。"
+        },
+        {
+          "character": "宋江",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "第二件，宋江出身小吏，犯罪在逃，蒙众位兄弟不弃，暂居尊位；员外生于富"
+        },
+        {
+          "character": "宋江",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "贵之家，素有豪杰之誉，又非众人所能得及。第三件，宋江文不能安邦，武不"
+        },
+        {
+          "character": "宋江",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "能服众，双手无缚鸡之力，身无寸箭之功；员外力敌万人，通今博古，众人越"
+        },
+        {
+          "character": "宋江",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "发无能得及。员外有如此才德，正当为山寨之主。宋江主张已定，休得推托。"
         },
         {
           "character": "卢俊义",
@@ -1454,7 +1782,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "员外再三不从，还是大哥为尊，卢员外为次，人皆听服。兄长若是再三推让，\n恐冷了众人之心。大哥不必再推了。"
+          "text": "员外再三不从，还是大哥为尊，卢员外为次，人皆听服。兄长若是再三推让，"
+        },
+        {
+          "character": "吴用",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "恐冷了众人之心。大哥不必再推了。"
         },
         {
           "character": null,
@@ -1468,21 +1803,42 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "大哥，俺李逵在江州舍身拼命，跟将你来。众人都敬让你一步。你这样让来让\n去，好不耐烦，我便杀将起来，各自散他娘的吧！"
+          "text": "大哥，俺李逵在江州舍身拼命，跟将你来。众人都敬让你一步。你这样让来让"
+        },
+        {
+          "character": "李逵",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "去，好不耐烦，我便杀将起来，各自散他娘的吧！"
         },
         {
           "character": "武松",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "大哥，想你手下许多军官，都是受过朝廷诰命，也只是敬让大哥为尊，今日如\n何肯从别人？"
+          "text": "大哥，想你手下许多军官，都是受过朝廷诰命，也只是敬让大哥为尊，今日如"
+        },
+        {
+          "character": "武松",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "何肯从别人？"
         },
         {
           "character": "刘唐",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "大哥，我们起初七个上山，那时便有让大哥为尊之意。今日却让后来之人，于\n理不合。"
+          "text": "大哥，我们起初七个上山，那时便有让大哥为尊之意。今日却让后来之人，于"
+        },
+        {
+          "character": "刘唐",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "理不合。"
         },
         {
           "character": "鲁智深",
@@ -1517,7 +1873,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "你等皆负晁天王遗言，不服卢员外为尊。如今山寨钱粮缺少，梁山泊东有两个\n州府，却有钱粮。一处东平府，一处东昌府。我们自来不曾搅扰那里百姓，今\n去向他借粮，定然不肯。如今写下两个阄帖，我和卢员外各拈一处。如先打破\n城池者，便为梁山泊主，众位哥弟以为如何？"
+          "text": "你等皆负晁天王遗言，不服卢员外为尊。如今山寨钱粮缺少，梁山泊东有两个"
+        },
+        {
+          "character": "宋江",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "州府，却有钱粮。一处东平府，一处东昌府。我们自来不曾搅扰那里百姓，今"
+        },
+        {
+          "character": "宋江",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "去向他借粮，定然不肯。如今写下两个阄帖，我和卢员外各拈一处。如先打破"
+        },
+        {
+          "character": "宋江",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "城池者，便为梁山泊主，众位哥弟以为如何？"
         },
         {
           "character": "众人",
@@ -1601,7 +1978,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "命你统领吴用、公孙胜、关胜、呼延灼、朱仝、雷横、索超、杨志、单廷圭、\n魏定国、宣赞、郝思文、燕青、杨林、欧鹏、凌振、马麟、邓飞、施恩、樊瑞、\n项充、李衮、时迁、白胜大小头领三十员，马步军兵一万；水军头领三员：\n李俊、童威、童猛引水军驾船接应，攻取东昌府。"
+          "text": "命你统领吴用、公孙胜、关胜、呼延灼、朱仝、雷横、索超、杨志、单廷圭、"
+        },
+        {
+          "character": "宋江",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "魏定国、宣赞、郝思文、燕青、杨林、欧鹏、凌振、马麟、邓飞、施恩、樊瑞、"
+        },
+        {
+          "character": "宋江",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "项充、李衮、时迁、白胜大小头领三十员，马步军兵一万；水军头领三员："
+        },
+        {
+          "character": "宋江",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "李俊、童威、童猛引水军驾船接应，攻取东昌府。"
         },
         {
           "character": "卢俊义",
@@ -1629,7 +2027,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "林冲、花荣、刘唐、史进、徐宁、燕顺、吕方、郭盛、韩滔、彭玘、孔明、孔\n亮、解珍、解宝、王英、扈三娘、张青、孙二娘、孙新、孙立、顾大嫂、石勇、\n郁保四、王定六、段景住大小头领二十五员，马步军兵一万；水军头领三员：\n阮小二、阮小五、阮小七领水军驾船接应，随我起兵前往东平府，带马！"
+          "text": "林冲、花荣、刘唐、史进、徐宁、燕顺、吕方、郭盛、韩滔、彭玘、孔明、孔"
+        },
+        {
+          "character": "宋江",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "亮、解珍、解宝、王英、扈三娘、张青、孙二娘、孙新、孙立、顾大嫂、石勇、"
+        },
+        {
+          "character": "宋江",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "郁保四、王定六、段景住大小头领二十五员，马步军兵一万；水军头领三员："
+        },
+        {
+          "character": "宋江",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "阮小二、阮小五、阮小七领水军驾船接应，随我起兵前往东平府，带马！"
         },
         {
           "character": "众人",
@@ -1719,7 +2138,17 @@
         "singing_ratio": 0.027,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.027,
+        0.05,
+        0.9333,
+        0.0167,
+        0.6102,
+        10,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 11,
@@ -1815,7 +2244,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "某、张清。人称猛将军。河南彰德府人氏。乃虎骑出身，善会飞石伤人，百发\n百中，人赐绰号“没羽箭”。今乃大操之期，为此升帐理事。\n来，传左右副将进帐！"
+          "text": "某、张清。人称猛将军。河南彰德府人氏。乃虎骑出身，善会飞石伤人，百发"
+        },
+        {
+          "character": "张清",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "百中，人赐绰号“没羽箭”。今乃大操之期，为此升帐理事。"
+        },
+        {
+          "character": "张清",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来，传左右副将进帐！"
         },
         {
           "character": "四下手",
@@ -1948,7 +2391,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "且住，梁山毛贼，敢犯我境，岂能容他猖狂。\n众将官免操，迎敌者！"
+          "text": "且住，梁山毛贼，敢犯我境，岂能容他猖狂。"
+        },
+        {
+          "character": "张清",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "众将官免操，迎敌者！"
         },
         {
           "character": "众人",
@@ -2017,7 +2467,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0345,
+        0.8276,
+        0.1379,
+        0.7857,
+        7,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 12,
@@ -2038,7 +2498,14 @@
           "line_type": "内白",
           "musical_style": null,
           "style_family": null,
-          "text": "众哥弟！随某下山者！\n公孙胜"
+          "text": "众哥弟！随某下山者！"
+        },
+        {
+          "character": "卢俊义",
+          "line_type": "内白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "公孙胜"
         }
       ],
       "interactions": [
@@ -2061,7 +2528,17 @@
         "singing_ratio": 0.833,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.833,
+        0.3333,
+        0.6667,
+        0.0,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 13,
@@ -2189,7 +2666,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.7778,
+        0.2222,
+        0.625,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 14,
@@ -2311,7 +2798,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.75,
+        0.25,
+        0.8571,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 15,
@@ -2484,7 +2981,17 @@
         "singing_ratio": 0.091,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.091,
+        0.0909,
+        0.9091,
+        0.0,
+        0.9,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 16,
@@ -2507,7 +3014,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 17,
@@ -2530,7 +3047,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 18,
@@ -2560,7 +3087,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0,
+        0.0,
+        0.0
+      ]
     }
   ]
 }

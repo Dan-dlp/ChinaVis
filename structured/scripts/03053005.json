@@ -221,14 +221,14 @@
           "text": "白鼠仙 （点绦唇） 五色云高，祥光缭绕，妖气扰，地动山摇，个个威风浩。"
         },
         {
-          "character": null,
+          "character": "白鼠仙",
           "line_type": "念",
           "musical_style": null,
           "style_family": null,
           "text": "高山修炼几千年，变化无穷在世间。美女朝朝奉玉酒，赛过蓬莱一洞仙。"
         },
         {
-          "character": null,
+          "character": "白鼠仙",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -303,7 +303,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -334,7 +344,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "卑人、施俊。乃清河县人氏。双亲去世。娶妻何氏，品性温柔，贤良贞静。这\n且不言。今当东京开科取士，意欲上京赴考。不免请娘子出来商议。\n书童！"
+          "text": "卑人、施俊。乃清河县人氏。双亲去世。娶妻何氏，品性温柔，贤良贞静。这"
+        },
+        {
+          "character": "施俊",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "且不言。今当东京开科取士，意欲上京赴考。不免请娘子出来商议。"
+        },
+        {
+          "character": "施俊",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "书童！"
         },
         {
           "character": "书童",
@@ -481,7 +505,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "尊官人你且把宽心放定，\n家下事何须要常挂在心。"
+          "text": "尊官人你且把宽心放定，"
+        },
+        {
+          "character": "何氏",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "家下事何须要常挂在心。"
         },
         {
           "character": null,
@@ -502,7 +533,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "蒙娘子赠吉言满心欢欣，\n此一去必能够身入龙门。"
+          "text": "蒙娘子赠吉言满心欢欣，"
+        },
+        {
+          "character": "施俊",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "此一去必能够身入龙门。"
         },
         {
           "character": null,
@@ -530,7 +568,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "见官人登程安满心欢欣，\n且等候锦衣归来报好音。"
+          "text": "见官人登程安满心欢欣，"
+        },
+        {
+          "character": "何氏",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "且等候锦衣归来报好音。"
         },
         {
           "character": null,
@@ -580,7 +625,17 @@
         "singing_ratio": 0.238,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.238,
+        0.2857,
+        0.6429,
+        0.0714,
+        0.6296,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -626,7 +681,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "倒是个冲要之地。待我点化一座房屋。尔等扮作店家模样，徜有女子，掳她进\n洞，不得有误！"
+          "text": "倒是个冲要之地。待我点化一座房屋。尔等扮作店家模样，徜有女子，掳她进"
+        },
+        {
+          "character": "白鼠仙",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "洞，不得有误！"
         },
         {
           "character": "四小妖",
@@ -682,7 +744,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "吾乃白鼠仙是也。在此变化一座客店，等候来往佳人。\n众伙计，烹茶伺候！"
+          "text": "吾乃白鼠仙是也。在此变化一座客店，等候来往佳人。"
+        },
+        {
+          "character": "假书生",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "众伙计，烹茶伺候！"
         },
         {
           "character": "四假店家",
@@ -696,7 +765,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "我今安排牢笼计，\n他人怎解其中情。"
+          "text": "我今安排牢笼计，"
+        },
+        {
+          "character": "假书生",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "他人怎解其中情。"
         },
         {
           "character": null,
@@ -742,7 +818,17 @@
         "singing_ratio": 0.125,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.125,
+        0.2308,
+        0.6923,
+        0.0769,
+        0.5,
+        5,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 4,
@@ -767,7 +853,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "方才离了桃花坞，\n不觉天色又黄昏。"
+          "text": "方才离了桃花坞，"
+        },
+        {
+          "character": "施俊",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "不觉天色又黄昏。"
         },
         {
           "character": "书童",
@@ -886,7 +979,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "我请他去。\n有请旧相公！"
+          "text": "我请他去。"
+        },
+        {
+          "character": "假店家",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "有请旧相公！"
         },
         {
           "character": null,
@@ -942,7 +1042,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "待我向前。\n啊，相公请了！"
+          "text": "待我向前。"
+        },
+        {
+          "character": "假书生",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "啊，相公请了！"
         },
         {
           "character": "施俊",
@@ -963,7 +1070,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "有坐！方才店家言道，相公也是上京求取功名的。若不嫌弃，明日结伴同行如\n何？"
+          "text": "有坐！方才店家言道，相公也是上京求取功名的。若不嫌弃，明日结伴同行如"
+        },
+        {
+          "character": "施俊",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "何？"
         },
         {
           "character": "假书生",
@@ -991,7 +1105,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "小生姓施名俊，乃清河人氏。双亲早亡。妻房何氏，女工针黹，倒也秀丽。惶\n恐啊惶恐！"
+          "text": "小生姓施名俊，乃清河人氏。双亲早亡。妻房何氏，女工针黹，倒也秀丽。惶"
+        },
+        {
+          "character": "施俊",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "恐啊惶恐！"
         },
         {
           "character": "假书生",
@@ -1012,7 +1133,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "岂敢！\n店家，看酒来！"
+          "text": "岂敢！"
+        },
+        {
+          "character": "假书生",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "店家，看酒来！"
         },
         {
           "character": null,
@@ -1103,7 +1231,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "且住！看他已然沉醉。他方才言道，家中还有何氏妻子。我不免变作他的模样，\n前去调戏一番。"
+          "text": "且住！看他已然沉醉。他方才言道，家中还有何氏妻子。我不免变作他的模样，"
+        },
+        {
+          "character": "假书生",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "前去调戏一番。"
         },
         {
           "character": null,
@@ -1117,7 +1252,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "我今变作施俊样，\n前去调戏女姣娘。"
+          "text": "我今变作施俊样，"
+        },
+        {
+          "character": "假施俊",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "前去调戏女姣娘。"
         },
         {
           "character": null,
@@ -1138,14 +1280,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "天亮啦，我们该走啦。啊，房子怎么不见啦？\n相公醒来！相公醒来！"
+          "text": "天亮啦，我们该走啦。啊，房子怎么不见啦？"
+        },
+        {
+          "character": "书童",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "相公醒来！相公醒来！"
         },
         {
           "character": "施俊",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "好睡呀！\n啊书童，房屋怎么不见了？"
+          "text": "好睡呀！"
+        },
+        {
+          "character": "施俊",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "啊书童，房屋怎么不见了？"
         },
         {
           "character": "书童",
@@ -1166,7 +1322,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "昨日明明招商店，\n今日荒山心内惊。"
+          "text": "昨日明明招商店，"
+        },
+        {
+          "character": "施俊",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "今日荒山心内惊。"
         },
         {
           "character": "施俊",
@@ -1251,7 +1414,17 @@
         "singing_ratio": 0.111,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.111,
+        0.1587,
+        0.7937,
+        0.0476,
+        0.6935,
+        5,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 5,
@@ -1309,7 +1482,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "歌管楼台声细细，\n秋千院落夜沉沉。"
+          "text": "歌管楼台声细细，"
+        },
+        {
+          "character": "何氏",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "秋千院落夜沉沉。"
         },
         {
           "character": "何氏",
@@ -1337,7 +1517,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "原来是大爷！\n啊大娘，大爷回来啦。"
+          "text": "原来是大爷！"
+        },
+        {
+          "character": "丫鬟",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "啊大娘，大爷回来啦。"
         },
         {
           "character": "假施俊",
@@ -1470,14 +1657,28 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "劝官人且把愁眉解，\n待等明春凤凰来。"
+          "text": "劝官人且把愁眉解，"
+        },
+        {
+          "character": "何氏",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "待等明春凤凰来。"
         },
         {
           "character": "假施俊",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "有劳娘子恩和爱，\n好比桃花三月开。"
+          "text": "有劳娘子恩和爱，"
+        },
+        {
+          "character": "假施俊",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "好比桃花三月开。"
         },
         {
           "character": "何氏",
@@ -1558,7 +1759,17 @@
         "singing_ratio": 0.148,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.148,
+        0.2286,
+        0.7429,
+        0.0286,
+        0.7353,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 6,
@@ -1586,7 +1797,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "老夫、王延龄。位列三台之首。只因清河县饥荒三载，圣上命老夫前去放粮。\n且喜百姓无虞，皆赖圣恩垂教也。今日回朝交旨。\n来，吩咐开道！"
+          "text": "老夫、王延龄。位列三台之首。只因清河县饥荒三载，圣上命老夫前去放粮。"
+        },
+        {
+          "character": "王延龄",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "且喜百姓无虞，皆赖圣恩垂教也。今日回朝交旨。"
+        },
+        {
+          "character": "王延龄",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来，吩咐开道！"
         },
         {
           "character": null,
@@ -1604,7 +1829,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.25,
+        0.75,
+        0.0,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 7,
@@ -1635,7 +1870,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "来此已是家门。\n大娘，开门来！"
+          "text": "来此已是家门。"
+        },
+        {
+          "character": "书童",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "大娘，开门来！"
         },
         {
           "character": null,
@@ -1691,7 +1933,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "大娘，您这是哪儿的话？我同大爷每天不离左右，今儿个到家，叫小人头里走，\n大爷随后就到。怎么说他早就回来了娜？"
+          "text": "大娘，您这是哪儿的话？我同大爷每天不离左右，今儿个到家，叫小人头里走，"
+        },
+        {
+          "character": "书童",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "大爷随后就到。怎么说他早就回来了娜？"
         },
         {
           "character": "何氏",
@@ -2000,7 +2249,17 @@
         "singing_ratio": 0.086,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.086,
+        0.122,
+        0.8049,
+        0.0732,
+        0.825,
+        6,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 8,
@@ -2675,7 +2934,17 @@
         "singing_ratio": 0.081,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.081,
+        0.1471,
+        0.8529,
+        0.0,
+        0.8657,
+        9,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 9,
@@ -2853,7 +3122,17 @@
         "singing_ratio": 0.471,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.471,
+        0.4706,
+        0.5294,
+        0.0,
+        0.9375,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 10,
@@ -3002,7 +3281,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.7273,
+        0.2727,
+        0.7,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 11,
@@ -3020,7 +3309,7 @@
           "text": "（张龙、赵虎引包拯同上。）"
         },
         {
-          "character": null,
+          "character": "包拯",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -3089,7 +3378,17 @@
         "singing_ratio": 0.25,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.25,
+        0.25,
+        0.75,
+        0.0,
+        1.0,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 12,
@@ -3574,7 +3873,17 @@
         "singing_ratio": 0.293,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.293,
+        0.3673,
+        0.6327,
+        0.0,
+        0.8333,
+        7,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 13,
@@ -3682,7 +3991,17 @@
         "singing_ratio": 0.333,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.333,
+        0.2857,
+        0.7143,
+        0.0,
+        0.6667,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 14,
@@ -4052,7 +4371,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.069,
+        0.8276,
+        0.1034,
+        0.7143,
+        6,
+        0.0,
+        0.0
+      ]
     }
   ]
 }

@@ -135,14 +135,49 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "吾乃西王母是也。雄长西方，历经岁月，只因富强益世，人人指为仙界。今当\n三月三日，蟠桃正熟，是吾寿诞之期，众仙子自必前来祝寿称觞。看景星灿烂，\n庆云缭绕，好不快乐人也！"
+          "text": "吾乃西王母是也。雄长西方，历经岁月，只因富强益世，人人指为仙界。今当"
+        },
+        {
+          "character": "西王母",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "三月三日，蟠桃正熟，是吾寿诞之期，众仙子自必前来祝寿称觞。看景星灿烂，"
+        },
+        {
+          "character": "西王母",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "庆云缭绕，好不快乐人也！"
         },
         {
           "character": "西王母",
           "line_type": "西皮原板",
           "musical_style": "西皮原板",
           "style_family": "西皮",
-          "text": "西王母高坐在瑶台之上，\n有仙童和玉女站立两厢。\n也不知经过了多少沧桑。\n众仙到开盛会共饮琼浆。"
+          "text": "西王母高坐在瑶台之上，"
+        },
+        {
+          "character": "西王母",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "有仙童和玉女站立两厢。"
+        },
+        {
+          "character": "西王母",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "也不知经过了多少沧桑。"
+        },
+        {
+          "character": "西王母",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "众仙到开盛会共饮琼浆。"
         },
         {
           "character": null,
@@ -294,7 +329,17 @@
         "musical_styles": [
           "西皮原板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.2381,
+        0.6667,
+        0.0952,
+        0.5,
+        3,
+        0.1905,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -317,21 +362,70 @@
           "line_type": "西皮原板",
           "musical_style": "西皮原板",
           "style_family": "西皮",
-          "text": "东方朔可算得盖世英奇，\n怎奈我在汉朝运不遇时。\n只落得对苍天终日叹息。"
-        },
-        {
-          "character": "东方朔",
-          "line_type": "白",
-          "musical_style": null,
-          "style_family": null,
-          "text": "我，东方朔的便是。汉皇驾前为臣，官拜中郎之职。可叹汉家国势日危，银钱\n皆被西域各国刮削待尽，只落得民穷财尽，十室九空，就论我东方朔，当了一\n个穷官，每月只有俸米一口袋，大钱二百四十文，一身一口，尚难支持，还要\n养活一个老婆。差不多是天天挨饿。看将起来，只有束手待毙而已！"
+          "text": "东方朔可算得盖世英奇，"
         },
         {
           "character": "东方朔",
           "line_type": "西皮原板",
           "musical_style": "西皮原板",
           "style_family": "西皮",
-          "text": "可叹我东方朔身长九尺，\n虽为官倒落得无食无衣。\n好叫我终日里甚是惨凄。"
+          "text": "怎奈我在汉朝运不遇时。"
+        },
+        {
+          "character": "东方朔",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "只落得对苍天终日叹息。"
+        },
+        {
+          "character": "东方朔",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我，东方朔的便是。汉皇驾前为臣，官拜中郎之职。可叹汉家国势日危，银钱"
+        },
+        {
+          "character": "东方朔",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "皆被西域各国刮削待尽，只落得民穷财尽，十室九空，就论我东方朔，当了一"
+        },
+        {
+          "character": "东方朔",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "个穷官，每月只有俸米一口袋，大钱二百四十文，一身一口，尚难支持，还要"
+        },
+        {
+          "character": "东方朔",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "养活一个老婆。差不多是天天挨饿。看将起来，只有束手待毙而已！"
+        },
+        {
+          "character": "东方朔",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "可叹我东方朔身长九尺，"
+        },
+        {
+          "character": "东方朔",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "虽为官倒落得无食无衣。"
+        },
+        {
+          "character": "东方朔",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "好叫我终日里甚是惨凄。"
         },
         {
           "character": null,
@@ -345,10 +439,31 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "说什么与神仙结为伉俪，\n终日里无柴米好不惨凄。\n我定要与夫君辨别是非。"
+          "text": "说什么与神仙结为伉俪，"
         },
         {
-          "character": "将身儿来至在这书房里、东方朔",
+          "character": "夫人",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "终日里无柴米好不惨凄。"
+        },
+        {
+          "character": "夫人",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "我定要与夫君辨别是非。"
+        },
+        {
+          "character": "夫人",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "将身儿来至在这书房里"
+        },
+        {
+          "character": "东方朔",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -359,7 +474,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "我说先生，你看天也不早啦，咱们是一粒米也扉有，一根柴也没有。你是个当\n家的人，应该想个法子，我不能跟着你挨饿。"
+          "text": "我说先生，你看天也不早啦，咱们是一粒米也扉有，一根柴也没有。你是个当"
+        },
+        {
+          "character": "夫人",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "家的人，应该想个法子，我不能跟着你挨饿。"
         },
         {
           "character": "东方朔",
@@ -380,7 +502,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "你是不知道，现在改了阳历，我这岁星，也背了时，倒了运啦！我但凡能有法\n子想，我情愿天天给你酒肉吃。"
+          "text": "你是不知道，现在改了阳历，我这岁星，也背了时，倒了运啦！我但凡能有法"
+        },
+        {
+          "character": "东方朔",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "子想，我情愿天天给你酒肉吃。"
         },
         {
           "character": "夫人",
@@ -394,7 +523,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "不错，那一天我也饿昏啦，我心里惦记着你，没有等放肉的大臣下来，我就偷\n着割了一块，跑回来给你吃。幸亏这件事，我回答的好，皇上没有深究，要不\n仗着我的口齿伶俐，可就送了命，你可也就早做了寡妇啦！"
+          "text": "不错，那一天我也饿昏啦，我心里惦记着你，没有等放肉的大臣下来，我就偷"
+        },
+        {
+          "character": "东方朔",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "着割了一块，跑回来给你吃。幸亏这件事，我回答的好，皇上没有深究，要不"
+        },
+        {
+          "character": "东方朔",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "仗着我的口齿伶俐，可就送了命，你可也就早做了寡妇啦！"
         },
         {
           "character": "夫人",
@@ -478,7 +621,21 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "人生最苦是啼饥，\n只得嫁鸡便随鸡。\n这夫妻还是好夫妻。"
+          "text": "人生最苦是啼饥，"
+        },
+        {
+          "character": "夫人",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "只得嫁鸡便随鸡。"
+        },
+        {
+          "character": "夫人",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "这夫妻还是好夫妻。"
         },
         {
           "character": null,
@@ -506,7 +663,35 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "唉呀，看各省里面，黑暗暗，烟雾蔽天，不是荒年，便是打仗，这可上哪儿去\n好呢？待我再来瞧瞧外方吧！\n看这东方，那些矮子，全是吃的肥肥胖胖的，带我到东去走走。\n哎呀不好，常言道得好：矮子肚里有三把刀。我一定是斗不过他们，还是不去\n的好。"
+          "text": "唉呀，看各省里面，黑暗暗，烟雾蔽天，不是荒年，便是打仗，这可上哪儿去"
+        },
+        {
+          "character": "东方朔",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "好呢？待我再来瞧瞧外方吧！"
+        },
+        {
+          "character": "东方朔",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "看这东方，那些矮子，全是吃的肥肥胖胖的，带我到东去走走。"
+        },
+        {
+          "character": "东方朔",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "哎呀不好，常言道得好：矮子肚里有三把刀。我一定是斗不过他们，还是不去"
+        },
+        {
+          "character": "东方朔",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "的好。"
         },
         {
           "character": null,
@@ -520,7 +705,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "哈哈，看西方碧云千里，红光万道，有蟠桃大树，直上青天。我不免到唐蒙那\n里，讨上一张护照，再到张骞那里，借上一支飞艇，去到那里，饱吃他一顿，\n岂不是好！正是："
+          "text": "哈哈，看西方碧云千里，红光万道，有蟠桃大树，直上青天。我不免到唐蒙那"
+        },
+        {
+          "character": "东方朔",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "里，讨上一张护照，再到张骞那里，借上一支飞艇，去到那里，饱吃他一顿，"
+        },
+        {
+          "character": "东方朔",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "岂不是好！正是："
         },
         {
           "character": "东方朔",
@@ -559,7 +758,17 @@
           "西皮原板",
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.087,
+        0.2653,
+        0.7143,
+        0.0204,
+        0.4167,
+        2,
+        0.2653,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -673,7 +882,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        5,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 4,
@@ -704,7 +923,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "吾乃康宁是也。奉了王母之命，看守蟠桃。今当蟠桃已熟，王母见喜，赐吾美\n酒，不觉吃得大醉。看此地乃是天国所在，漫说无人到此，就是猿猴飞鸟，谅\n也不敢前来。身体困倦，不免打睡一回。呵呵呵。"
+          "text": "吾乃康宁是也。奉了王母之命，看守蟠桃。今当蟠桃已熟，王母见喜，赐吾美"
+        },
+        {
+          "character": "康宁",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "酒，不觉吃得大醉。看此地乃是天国所在，漫说无人到此，就是猿猴飞鸟，谅"
+        },
+        {
+          "character": "康宁",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "也不敢前来。身体困倦，不免打睡一回。呵呵呵。"
         },
         {
           "character": null,
@@ -718,7 +951,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "来此已是。看园门无人看守，待我溜了进去。\n看桃树茂盛，也不知哪一棵的果子好吃，待我看来。\n那旁桃树之下，有一人在此打睡，倘若惊醒了他，声张起来，反为不美。不免\n将他唤醒，将他支开，然后下手。"
+          "text": "来此已是。看园门无人看守，待我溜了进去。"
+        },
+        {
+          "character": "东方朔",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "看桃树茂盛，也不知哪一棵的果子好吃，待我看来。"
+        },
+        {
+          "character": "东方朔",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "那旁桃树之下，有一人在此打睡，倘若惊醒了他，声张起来，反为不美。不免"
+        },
+        {
+          "character": "东方朔",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "将他唤醒，将他支开，然后下手。"
         },
         {
           "character": null,
@@ -767,7 +1021,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "你不要瞧不起华人，想当初周穆王天子，驾坐马车周游天下的时节，你们西王\n母得了信，立刻出院相迎，并且在瑶台之上，以大餐相待，恭维的了不得。那\n时候，就是我的翻译官。"
+          "text": "你不要瞧不起华人，想当初周穆王天子，驾坐马车周游天下的时节，你们西王"
+        },
+        {
+          "character": "东方朔",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "母得了信，立刻出院相迎，并且在瑶台之上，以大餐相待，恭维的了不得。那"
+        },
+        {
+          "character": "东方朔",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "时候，就是我的翻译官。"
         },
         {
           "character": "康宁",
@@ -816,7 +1084,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "我们弟兄五人。一曰寿，二曰富，三曰康宁，就是我，四曰攸好德。如今只剩\n四个了。"
+          "text": "我们弟兄五人。一曰寿，二曰富，三曰康宁，就是我，四曰攸好德。如今只剩"
+        },
+        {
+          "character": "康宁",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "四个了。"
         },
         {
           "character": "东方朔",
@@ -844,7 +1119,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "他开了一个人寿保险公司，全是我二哥的资本，倒也发财得很，唯有我庸碌无\n能，在此看守桃园。"
+          "text": "他开了一个人寿保险公司，全是我二哥的资本，倒也发财得很，唯有我庸碌无"
+        },
+        {
+          "character": "康宁",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "能，在此看守桃园。"
         },
         {
           "character": "东方朔",
@@ -879,7 +1161,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "这个人敢是个傻小子，待我把他支开。\n康宁哥哥，这桃子我倒不想吃，我走的口渴了，向你讨一杯茶吃吧。"
+          "text": "这个人敢是个傻小子，待我把他支开。"
+        },
+        {
+          "character": "东方朔",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "康宁哥哥，这桃子我倒不想吃，我走的口渴了，向你讨一杯茶吃吧。"
         },
         {
           "character": "康宁",
@@ -914,7 +1203,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "从前你们那里来的茶，成色倒好，我们倒也很欢喜吃。到后来你们那里商人，\n利心太重，将次等的货色，混充上等，所以我们就不敢请教了。你既然口渴，\n我们这里倒有美酒，与你解渴，你看如何？"
+          "text": "从前你们那里来的茶，成色倒好，我们倒也很欢喜吃。到后来你们那里商人，"
+        },
+        {
+          "character": "康宁",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "利心太重，将次等的货色，混充上等，所以我们就不敢请教了。你既然口渴，"
+        },
+        {
+          "character": "康宁",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我们这里倒有美酒，与你解渴，你看如何？"
         },
         {
           "character": "东方朔",
@@ -942,7 +1245,42 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "看他已去，待我动起手来。\n哈哈，看这一个桃，只有半个。阿唷是了，这是弥子瑕吃剩下的，要给卫灵公\n吃的，我不要它。\n这有两个桃子，长在一处，倒也奇怪。阿唷事了，这是齐国晏平仲，借他杀三\n士的，我也不要。\n看这一个桃儿，长得鲜红可爱，待我摘下来尝尝。"
+          "text": "看他已去，待我动起手来。"
+        },
+        {
+          "character": "东方朔",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "哈哈，看这一个桃，只有半个。阿唷是了，这是弥子瑕吃剩下的，要给卫灵公"
+        },
+        {
+          "character": "东方朔",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "吃的，我不要它。"
+        },
+        {
+          "character": "东方朔",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "这有两个桃子，长在一处，倒也奇怪。阿唷事了，这是齐国晏平仲，借他杀三"
+        },
+        {
+          "character": "东方朔",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "士的，我也不要。"
+        },
+        {
+          "character": "东方朔",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "看这一个桃儿，长得鲜红可爱，待我摘下来尝尝。"
         },
         {
           "character": null,
@@ -1004,7 +1342,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.9808,
+        0.0192,
+        0.6275,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 5,
@@ -1036,7 +1384,21 @@
           "line_type": "西皮原板",
           "musical_style": "西皮原板",
           "style_family": "西皮",
-          "text": "每日里在昆仑保和养性，\n与天公同尊贵圣号九灵。\n玄圃中蟠桃熟便是良辰。"
+          "text": "每日里在昆仑保和养性，"
+        },
+        {
+          "character": "西王母",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "与天公同尊贵圣号九灵。"
+        },
+        {
+          "character": "西王母",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "玄圃中蟠桃熟便是良辰。"
         },
         {
           "character": "西王母",
@@ -1071,7 +1433,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "领旨。\n圣母有旨：将偷桃贼人押上来！"
+          "text": "领旨。"
+        },
+        {
+          "character": "神荼",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "圣母有旨：将偷桃贼人押上来！"
         },
         {
           "character": "郁垒",
@@ -1106,7 +1475,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "胆大贼人，竟敢私入御园，偷我的仙桃。\n侍从们，扯下去重责二十仙杖！"
+          "text": "胆大贼人，竟敢私入御园，偷我的仙桃。"
+        },
+        {
+          "character": "西王母",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "侍从们，扯下去重责二十仙杖！"
         },
         {
           "character": "东方朔",
@@ -1127,7 +1503,35 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "自从你们西域与我们汉朝通商，拿了几颗葡萄、几匹战马，就骗了我们许多的\n银钱。到后来，你们的手段越来越高，拿了我国中的生货，你们制造成熟货，\n仍旧拿到我们国中来卖。数十年来也不知道赚了我们多少金银！看将起来，岂\n不是操戈矛的强盗吗！我今日打从此地经过，走的口渴，才吃了你们一个桃子，\n你们就要当贼来办我，未免肚量也就太小啦吧！"
+          "text": "自从你们西域与我们汉朝通商，拿了几颗葡萄、几匹战马，就骗了我们许多的"
+        },
+        {
+          "character": "东方朔",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "银钱。到后来，你们的手段越来越高，拿了我国中的生货，你们制造成熟货，"
+        },
+        {
+          "character": "东方朔",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "仍旧拿到我们国中来卖。数十年来也不知道赚了我们多少金银！看将起来，岂"
+        },
+        {
+          "character": "东方朔",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "不是操戈矛的强盗吗！我今日打从此地经过，走的口渴，才吃了你们一个桃子，"
+        },
+        {
+          "character": "东方朔",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "你们就要当贼来办我，未免肚量也就太小啦吧！"
         },
         {
           "character": "西王母",
@@ -1155,10 +1559,59 @@
           "line_type": "西皮二六板",
           "musical_style": "西皮二六板",
           "style_family": "西皮",
-          "text": "瑶池上我且把话来论，\n叫一声东方朔细听分明：\n三千年花儿落叶子才青。\n那一个定能够不老长生。\n岂容你来偷盗任意胡行！"
+          "text": "瑶池上我且把话来论，"
         },
         {
-          "character": "这蟠桃三千年花开似锦、到万年这果儿才能结稳、这蟠桃本是我仙家珍品、东方朔",
+          "character": "西王母",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "叫一声东方朔细听分明："
+        },
+        {
+          "character": "西王母",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "三千年花儿落叶子才青。"
+        },
+        {
+          "character": "西王母",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "那一个定能够不老长生。"
+        },
+        {
+          "character": "西王母",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "岂容你来偷盗任意胡行！"
+        },
+        {
+          "character": "西王母",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "这蟠桃三千年花开似锦"
+        },
+        {
+          "character": "西王母",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "到万年这果儿才能结稳"
+        },
+        {
+          "character": "西王母",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "这蟠桃本是我仙家珍品"
+        },
+        {
+          "character": "东方朔",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -1176,7 +1629,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "你说吃了这桃，就能长生不老，反老为童。为什么寿星的头发永远是白的？你\n为什么这样的老，不像那十七八的姑娘一样呢？不用说，我也明白啦！总而言\n之，只要是你们的出产，样样都是宝贝，不许外人染指。今天这桃，我是已经\n吃啦，吐也吐不出来啦，你要不答应，你就寻我们汉武帝去办交涉去吧！"
+          "text": "你说吃了这桃，就能长生不老，反老为童。为什么寿星的头发永远是白的？你"
+        },
+        {
+          "character": "东方朔",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "为什么这样的老，不像那十七八的姑娘一样呢？不用说，我也明白啦！总而言"
+        },
+        {
+          "character": "东方朔",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "之，只要是你们的出产，样样都是宝贝，不许外人染指。今天这桃，我是已经"
+        },
+        {
+          "character": "东方朔",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "吃啦，吐也吐不出来啦，你要不答应，你就寻我们汉武帝去办交涉去吧！"
         },
         {
           "character": "西王母",
@@ -1190,14 +1664,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "我是未卜先知，反正早晚，他总是要称为汉武帝的。你不信，你去看看纲鉴，\n你就知道啦！"
+          "text": "我是未卜先知，反正早晚，他总是要称为汉武帝的。你不信，你去看看纲鉴，"
+        },
+        {
+          "character": "东方朔",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "你就知道啦！"
         },
         {
           "character": "西王母",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "听你之言，倒有些来历。语言爽快，心底聪明。恕你无罪。\n左右，与东方朔松绑。"
+          "text": "听你之言，倒有些来历。语言爽快，心底聪明。恕你无罪。"
+        },
+        {
+          "character": "西王母",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "左右，与东方朔松绑。"
         },
         {
           "character": "神荼、郁垒",
@@ -1351,7 +1839,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "领法旨！\n众位仙姑，我东方朔这里有礼了。"
+          "text": "领法旨！"
+        },
+        {
+          "character": "东方朔",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "众位仙姑，我东方朔这里有礼了。"
         },
         {
           "character": null,
@@ -1400,7 +1895,14 @@
           "line_type": "同白",
           "musical_style": null,
           "style_family": null,
-          "text": "今当圣母寿诞之期，吾等无以为敬，愿献霓裳羽衣之舞，合演一回，为圣母祝\n寿！"
+          "text": "今当圣母寿诞之期，吾等无以为敬，愿献霓裳羽衣之舞，合演一回，为圣母祝"
+        },
+        {
+          "character": "织女、嫦娥、云华夫人、太真夫人",
+          "line_type": "同白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "寿！"
         },
         {
           "character": "西王母",
@@ -1562,7 +2064,17 @@
           "西皮原板",
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.016,
+        0.1791,
+        0.806,
+        0.0149,
+        0.5606,
+        8,
+        0.1791,
+        0.0
+      ]
     }
   ]
 }

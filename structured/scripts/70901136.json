@@ -85,7 +85,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "俺，齐天大圣总部先锋通臂猿。俺主自从大闹天宫，至今五百馀年，今日重整\n花果山，复兴水帘洞。你看花果山，峭壁萦青，猿啼鹤唳。正是："
+          "text": "俺，齐天大圣总部先锋通臂猿。俺主自从大闹天宫，至今五百馀年，今日重整"
+        },
+        {
+          "character": "通臂猿",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "花果山，复兴水帘洞。你看花果山，峭壁萦青，猿啼鹤唳。正是："
         },
         {
           "character": "通臂猿",
@@ -120,7 +127,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "走了多少山，也不知哪是花果山，走了多少洞，也不知哪是水帘洞。来此，哎\n呀！那边有个小猴儿，待我逗逗他。"
+          "text": "走了多少山，也不知哪是花果山，走了多少洞，也不知哪是水帘洞。来此，哎"
+        },
+        {
+          "character": "猪八戒",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "呀！那边有个小猴儿，待我逗逗他。"
         },
         {
           "character": "通臂猿",
@@ -218,7 +232,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "方才说常常思念，怎么又恨入其骨哪？哎，思念也罢，恨入其骨也罢，小猴，\n你怎样带我见见你们大王啊？"
+          "text": "方才说常常思念，怎么又恨入其骨哪？哎，思念也罢，恨入其骨也罢，小猴，"
+        },
+        {
+          "character": "猪八戒",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "你怎样带我见见你们大王啊？"
         },
         {
           "character": "通臂猿",
@@ -310,7 +331,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.9032,
+        0.0968,
+        0.7333,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -365,7 +396,7 @@
           "text": "明朝儿，演武升台。"
         },
         {
-          "character": null,
+          "character": "孙悟空",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -530,7 +561,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "绑来面向外跪。\n唗！你是什么人，乱了俺的军纪阵法？"
+          "text": "绑来面向外跪。"
+        },
+        {
+          "character": "孙悟空",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "唗！你是什么人，乱了俺的军纪阵法？"
         },
         {
           "character": "众猴",
@@ -649,7 +687,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "慢着，瞧我大老远的来看你，也不问我吃饭了没有，喝水了没有，不是打就是\n杀，这算什么师兄弟呐？"
+          "text": "慢着，瞧我大老远的来看你，也不问我吃饭了没有，喝水了没有，不是打就是"
+        },
+        {
+          "character": "猪八戒",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "杀，这算什么师兄弟呐？"
         },
         {
           "character": "众猴",
@@ -670,7 +715,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "你瞧瞧啊，你现在穿着黄袍子，戴着翎帽子，坐在高台上，你才唱呗！你还不\n认得我这大乖乖吗？"
+          "text": "你瞧瞧啊，你现在穿着黄袍子，戴着翎帽子，坐在高台上，你才唱呗！你还不"
+        },
+        {
+          "character": "猪八戒",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "认得我这大乖乖吗？"
         },
         {
           "character": "孙悟空",
@@ -768,7 +820,35 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "什么是沙兄弟会卖乖，他自幼儿就是那么个赖怠脾气，自从师父将你逐回，我\n们一路西行，师父也不知是渴了，还是饿了，他就叫徒弟、徒弟，连叫了几声。\n猴哥啊，你知道我的耳朵是背的。沙兄弟听见了，他故意装听不见。咱师父\n可就恼了，说：我把你们这两个呆子……要有你们大师兄在此，问一答十，多\n释而广记。猴哥，你还是回去保护师父求取真经吧，我的猴哥呀。"
+          "text": "什么是沙兄弟会卖乖，他自幼儿就是那么个赖怠脾气，自从师父将你逐回，我"
+        },
+        {
+          "character": "猪八戒",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "们一路西行，师父也不知是渴了，还是饿了，他就叫徒弟、徒弟，连叫了几声。"
+        },
+        {
+          "character": "猪八戒",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "猴哥啊，你知道我的耳朵是背的。沙兄弟听见了，他故意装听不见。咱师父"
+        },
+        {
+          "character": "猪八戒",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "可就恼了，说：我把你们这两个呆子……要有你们大师兄在此，问一答十，多"
+        },
+        {
+          "character": "猪八戒",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "释而广记。猴哥，你还是回去保护师父求取真经吧，我的猴哥呀。"
         },
         {
           "character": "孙悟空",
@@ -936,14 +1016,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "不去的了。\n小的们，送客。"
+          "text": "不去的了。"
+        },
+        {
+          "character": "孙悟空",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "小的们，送客。"
         },
         {
           "character": "猪八戒",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "好家伙，说声不去，街坊的鸡轰出来啦，交谁也别交猴，它最没有良心。我得\n骂他几句出出气。你是死猴，懒猴，猴崽子。猴拉稀坏肠子……"
+          "text": "好家伙，说声不去，街坊的鸡轰出来啦，交谁也别交猴，它最没有良心。我得"
+        },
+        {
+          "character": "猪八戒",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "骂他几句出出气。你是死猴，懒猴，猴崽子。猴拉稀坏肠子……"
         },
         {
           "character": "众猴",
@@ -957,7 +1051,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "抓回来！\n我好意放你回去，为何背地里骂俺？！"
+          "text": "抓回来！"
+        },
+        {
+          "character": "孙悟空",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我好意放你回去，为何背地里骂俺？！"
         },
         {
           "character": "猪八戒",
@@ -1153,7 +1254,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "我忘了，猴哥会筋斗云，我跑到哪儿去，他一个筋斗云，就把我抓回来了。我\n不走了，就在这混吧。"
+          "text": "我忘了，猴哥会筋斗云，我跑到哪儿去，他一个筋斗云，就把我抓回来了。我"
+        },
+        {
+          "character": "猪八戒",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "不走了，就在这混吧。"
         },
         {
           "character": "孙悟空",
@@ -1195,7 +1303,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "捆着、跪着、站着、坐着，这真不错。\n猴哥，从你走后，我师徒三人往西行，碰见一个妖怪，叫什么白眼狼啊。"
+          "text": "捆着、跪着、站着、坐着，这真不错。"
+        },
+        {
+          "character": "猪八戒",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "猴哥，从你走后，我师徒三人往西行，碰见一个妖怪，叫什么白眼狼啊。"
         },
         {
           "character": "孙悟空",
@@ -1209,7 +1324,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "他遇见师父，一口邪气将师父擒住。沙兄弟上前解救，也被妖怪擒去了，我不\n服气，整整帽子，提提靴子，手持九齿耙，一扒就爬到这儿来了。"
+          "text": "他遇见师父，一口邪气将师父擒住。沙兄弟上前解救，也被妖怪擒去了，我不"
+        },
+        {
+          "character": "猪八戒",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "服气，整整帽子，提提靴子，手持九齿耙，一扒就爬到这儿来了。"
         },
         {
           "character": "孙悟空",
@@ -1237,7 +1359,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "我说出他的名字，妖怪就不敢了。有了，遣将不如激将能，我来智激美猴王呗，\n好哩，我就假说妖怪骂他来着，他一生气，就跟我下山了。"
+          "text": "我说出他的名字，妖怪就不敢了。有了，遣将不如激将能，我来智激美猴王呗，"
+        },
+        {
+          "character": "猪八戒",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "好哩，我就假说妖怪骂他来着，他一生气，就跟我下山了。"
         },
         {
           "character": null,
@@ -1251,7 +1380,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "猴哥，我提了您了。我说：妖怪你欺侮我们师徒三人不打紧，要有我们大师兄\n在此，你惹得起他吗？"
+          "text": "猴哥，我提了您了。我说：妖怪你欺侮我们师徒三人不打紧，要有我们大师兄"
+        },
+        {
+          "character": "猪八戒",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "在此，你惹得起他吗？"
         },
         {
           "character": "孙悟空",
@@ -1265,7 +1401,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "我讲得好，妖怪讲得更好。妖怪大肚一腆，大刀一戳，说我把你这个猪的八个\n的。动不动就提你们大师兄，他是谁呀？我说，我师兄五百年前大闹天官，齐\n天大圣，谁人不知，哪个不晓哇？"
+          "text": "我讲得好，妖怪讲得更好。妖怪大肚一腆，大刀一戳，说我把你这个猪的八个"
+        },
+        {
+          "character": "猪八戒",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "的。动不动就提你们大师兄，他是谁呀？我说，我师兄五百年前大闹天官，齐"
+        },
+        {
+          "character": "猪八戒",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "天大圣，谁人不知，哪个不晓哇？"
         },
         {
           "character": "孙悟空",
@@ -1279,7 +1429,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "那妖怪讲都更好。说猪的六个的，给我减了两点。妖怪说，他是什么出身呐？\n我说，你说他是什么出身呐？"
+          "text": "那妖怪讲都更好。说猪的六个的，给我减了两点。妖怪说，他是什么出身呐？"
+        },
+        {
+          "character": "猪八戒",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我说，你说他是什么出身呐？"
         },
         {
           "character": "孙悟空",
@@ -1293,14 +1450,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "你说他是什么出身呐？妖怪说，把你这猪的四个的。又抽了两点。你那猴哥，\n他是我手心里的一个死猴，懒猴，猴崽子……他算什么东西！"
+          "text": "你说他是什么出身呐？妖怪说，把你这猪的四个的。又抽了两点。你那猴哥，"
+        },
+        {
+          "character": "猪八戒",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "他是我手心里的一个死猴，懒猴，猴崽子……他算什么东西！"
         },
         {
           "character": "孙悟空",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "呀！我本不愿去，那妖怪欺人太甚。\n八戒，你稍等，我去去就来。"
+          "text": "呀！我本不愿去，那妖怪欺人太甚。"
+        },
+        {
+          "character": "孙悟空",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "八戒，你稍等，我去去就来。"
         },
         {
           "character": null,
@@ -1321,7 +1492,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "别说笑话啦，说说我们取经的事吧。我师徒三人走着、走着，忽然一阵旋风，\n从东边刮来，你们猜什么风？"
+          "text": "别说笑话啦，说说我们取经的事吧。我师徒三人走着、走着，忽然一阵旋风，"
+        },
+        {
+          "character": "猪八戒",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "从东边刮来，你们猜什么风？"
         },
         {
           "character": null,
@@ -1391,7 +1569,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "不对，不对。是黄风。这五阵风凝在一块，变了个妖怪，顶天立地，胳膊像房\n梁那么粗，手像磨盘那么大。你们猜那脑袋有多大？"
+          "text": "不对，不对。是黄风。这五阵风凝在一块，变了个妖怪，顶天立地，胳膊像房"
+        },
+        {
+          "character": "猪八戒",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "梁那么粗，手像磨盘那么大。你们猜那脑袋有多大？"
         },
         {
           "character": "众猴",
@@ -1405,7 +1590,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "不对，那脑袋就像鸡蛋那么大。这是个小脑袋妖怪。他跟我大战，我用大耙扒\n不过他，我就跑，他就追，我反头来一耙，你们猜谁胜了？"
+          "text": "不对，那脑袋就像鸡蛋那么大。这是个小脑袋妖怪。他跟我大战，我用大耙扒"
+        },
+        {
+          "character": "猪八戒",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "不过他，我就跑，他就追，我反头来一耙，你们猜谁胜了？"
         },
         {
           "character": "众猴",
@@ -1596,7 +1788,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.9919,
+        0.0081,
+        0.6829,
+        4,
+        0.0,
+        0.0
+      ]
     }
   ]
 }

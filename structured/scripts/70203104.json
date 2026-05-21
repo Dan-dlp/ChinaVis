@@ -217,7 +217,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "本帅陈璘，明室为臣，官拜浙江提督。今有海寇作乱，奉圣命前去征剿。\n中军，吩咐启程前往。"
+          "text": "本帅陈璘，明室为臣，官拜浙江提督。今有海寇作乱，奉圣命前去征剿。"
+        },
+        {
+          "character": "陈璘",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "中军，吩咐启程前往。"
         },
         {
           "character": null,
@@ -236,7 +243,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.6667,
+        0.3333,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -250,14 +267,14 @@
       ],
       "lines": [
         {
-          "character": null,
+          "character": "林慧娘",
           "line_type": "念",
           "musical_style": null,
           "style_family": null,
           "text": "授书黄石老，习剑白猿公。胆气迅雷黑，忠胆畏日红。"
         },
         {
-          "character": null,
+          "character": "林慧娘",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -345,7 +362,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "只因海寇作乱，陈元帅有将令到来，命我往杭州伺候校阅，为此请出娘子，将\n家务嘱咐一番，以便登程。"
+          "text": "只因海寇作乱，陈元帅有将令到来，命我往杭州伺候校阅，为此请出娘子，将"
+        },
+        {
+          "character": "唐通",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "家务嘱咐一番，以便登程。"
         },
         {
           "character": "林慧娘",
@@ -380,7 +404,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "那陆先生自到我家设帐，已经数月，我儿的功课甚好，每日下学归来，妾身盘\n问他的功课十分进益，想是先生教授有方，我儿的学业，你我不必挂心。"
+          "text": "那陆先生自到我家设帐，已经数月，我儿的功课甚好，每日下学归来，妾身盘"
+        },
+        {
+          "character": "林慧娘",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "问他的功课十分进益，想是先生教授有方，我儿的学业，你我不必挂心。"
         },
         {
           "character": "唐通",
@@ -422,21 +453,56 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "好。\n春莺，去往书房将你少爷唤了回来。\n你父子见面分别分别。"
+          "text": "好。"
+        },
+        {
+          "character": "林慧娘",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "春莺，去往书房将你少爷唤了回来。"
+        },
+        {
+          "character": "林慧娘",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "你父子见面分别分别。"
         },
         {
           "character": "唐通",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "大兵尚不发动，我不过月余还要回家一次，何必唤他回来，惹他哭哭啼啼。我\n就此去也。"
+          "text": "大兵尚不发动，我不过月余还要回家一次，何必唤他回来，惹他哭哭啼啼。我"
+        },
+        {
+          "character": "唐通",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "就此去也。"
         },
         {
           "character": "唐通",
           "line_type": "西皮散板",
           "musical_style": "西皮散板",
           "style_family": "西皮",
-          "text": "大丈夫立功名全凭弓马，\n边关上舍性命报效国家。\n你本是贤德人料也无差。"
+          "text": "大丈夫立功名全凭弓马，"
+        },
+        {
+          "character": "唐通",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "边关上舍性命报效国家。"
+        },
+        {
+          "character": "唐通",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "你本是贤德人料也无差。"
         },
         {
           "character": null,
@@ -450,7 +516,21 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "我儿夫是英雄才高志大，\n论韬略不亚那汉室虎牙。\n到将来凌烟阁必定有他。"
+          "text": "我儿夫是英雄才高志大，"
+        },
+        {
+          "character": "林慧娘",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "论韬略不亚那汉室虎牙。"
+        },
+        {
+          "character": "林慧娘",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "到将来凌烟阁必定有他。"
         },
         {
           "character": null,
@@ -464,7 +544,14 @@
           "line_type": "西皮散板",
           "musical_style": "西皮散板",
           "style_family": "西皮",
-          "text": "行一步来至在表兄家下，\n手内窘且向他述述贫乏。"
+          "text": "行一步来至在表兄家下，"
+        },
+        {
+          "character": "杜之秩",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "手内窘且向他述述贫乏。"
         },
         {
           "character": "杜之秩",
@@ -618,7 +705,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "这有何难。\n春莺，快与杜二爷取一两纹银来。"
+          "text": "这有何难。"
+        },
+        {
+          "character": "林慧娘",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "春莺，快与杜二爷取一两纹银来。"
         },
         {
           "character": "杜之秩",
@@ -639,7 +733,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "不够不够！实不瞒您说，家里都卖绝了，锅都揭不开了，您多借给我点，将来\n我有钱马上还给您。"
+          "text": "不够不够！实不瞒您说，家里都卖绝了，锅都揭不开了，您多借给我点，将来"
+        },
+        {
+          "character": "杜之秩",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我有钱马上还给您。"
         },
         {
           "character": "林慧娘",
@@ -660,7 +761,21 @@
           "line_type": "西皮散板",
           "musical_style": "西皮散板",
           "style_family": "西皮",
-          "text": "走向前来忙跪下，\n嫂嫂搭救我一家。\n我一个人的嫂嫂哇！"
+          "text": "走向前来忙跪下，"
+        },
+        {
+          "character": "杜之秩",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "嫂嫂搭救我一家。"
+        },
+        {
+          "character": "杜之秩",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "我一个人的嫂嫂哇！"
         },
         {
           "character": null,
@@ -800,7 +915,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "我要会说话，也不上你们这儿跪着哭穷来啦。小子这么好心眼，从今以后，见\n面你甭叫我大叔了。"
+          "text": "我要会说话，也不上你们这儿跪着哭穷来啦。小子这么好心眼，从今以后，见"
+        },
+        {
+          "character": "杜之秩",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "面你甭叫我大叔了。"
         },
         {
           "character": "唐芝",
@@ -814,7 +936,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "叫我大哥吧。\n嫂子我走了。"
+          "text": "叫我大哥吧。"
+        },
+        {
+          "character": "杜之秩",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "嫂子我走了。"
         },
         {
           "character": "林慧娘",
@@ -856,7 +985,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "你爹爹往杭州伺候陈元帅校阅军马去了，临行之时嘱咐为娘考查儿的功课。随\n为娘到后面温习便了。"
+          "text": "你爹爹往杭州伺候陈元帅校阅军马去了，临行之时嘱咐为娘考查儿的功课。随"
+        },
+        {
+          "character": "林慧娘",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "为娘到后面温习便了。"
         },
         {
           "character": null,
@@ -929,7 +1065,17 @@
           "西皮摇板",
           "西皮散板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.047,
+        0.1379,
+        0.8391,
+        0.023,
+        0.686,
+        5,
+        0.1379,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -952,14 +1098,35 @@
           "line_type": "西皮散板",
           "musical_style": "西皮散板",
           "style_family": "西皮",
-          "text": "饱读诗书饶学问，\n待时守分度光阴。"
+          "text": "饱读诗书饶学问，"
+        },
+        {
+          "character": "陆世科",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "待时守分度光阴。"
         },
         {
           "character": "陆世科",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "小生陆世科，乃姑苏人氏，幼读诗书，曾登乡榜，寄居乌程，在唐守备家中设\n帐授徒，多蒙东人十分厚待，我只得尽心授教。今日身体微觉不爽，我也不肯\n旷他的功课。正是："
+          "text": "小生陆世科，乃姑苏人氏，幼读诗书，曾登乡榜，寄居乌程，在唐守备家中设"
+        },
+        {
+          "character": "陆世科",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "帐授徒，多蒙东人十分厚待，我只得尽心授教。今日身体微觉不爽，我也不肯"
+        },
+        {
+          "character": "陆世科",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "旷他的功课。正是："
         },
         {
           "character": "陆世科",
@@ -1015,17 +1182,38 @@
           "line_type": "西皮散板",
           "musical_style": "西皮散板",
           "style_family": "西皮",
-          "text": "出则弟入则孝人生根本，\n赵中令治天下半部鲁论。"
+          "text": "出则弟入则孝人生根本，"
         },
         {
-          "character": "我正要翻书卷浑身发冷、唐芝",
+          "character": "陆世科",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "赵中令治天下半部鲁论。"
+        },
+        {
+          "character": "陆世科",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "我正要翻书卷浑身发冷"
+        },
+        {
+          "character": "唐芝",
           "line_type": "西皮散板",
           "musical_style": "西皮散板",
           "style_family": "西皮",
           "text": "问先生因何故神志不宁？"
         },
         {
-          "character": "我正要翻书卷浑身发冷、唐芝",
+          "character": "唐芝",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "我正要翻书卷浑身发冷"
+        },
+        {
+          "character": "唐芝",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -1064,7 +1252,14 @@
           "line_type": "西皮散板",
           "musical_style": "西皮散板",
           "style_family": "西皮",
-          "text": "劝先生且安心调养病症，\n待弟子取锦被遮盖你身。"
+          "text": "劝先生且安心调养病症，"
+        },
+        {
+          "character": "唐芝",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "待弟子取锦被遮盖你身。"
         },
         {
           "character": null,
@@ -1078,7 +1273,14 @@
           "line_type": "西皮散板",
           "musical_style": "西皮散板",
           "style_family": "西皮",
-          "text": "这也是穷书生身入困境，\n好端端又遇着病魔来临。"
+          "text": "这也是穷书生身入困境，"
+        },
+        {
+          "character": "陆世科",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "好端端又遇着病魔来临。"
         },
         {
           "character": null,
@@ -1110,7 +1312,17 @@
         "musical_styles": [
           "西皮散板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.273,
+        0.44,
+        0.48,
+        0.08,
+        0.4167,
+        2,
+        0.44,
+        0.0
+      ]
     },
     {
       "scene_index": 4,
@@ -1133,14 +1345,35 @@
           "line_type": "西皮原板",
           "musical_style": "西皮原板",
           "style_family": "西皮",
-          "text": "山河一统久承平，\n盗弄潢池启战争。\n请缨欲效汉终军。"
+          "text": "山河一统久承平，"
+        },
+        {
+          "character": "林慧娘",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "盗弄潢池启战争。"
+        },
+        {
+          "character": "林慧娘",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "请缨欲效汉终军。"
         },
         {
           "character": "林慧娘",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "我林慧娘，配夫唐通，夫君往杭州去了，命我在家支持门户，看看归期不远，\n待我将这几日的账目清算一番。"
+          "text": "我林慧娘，配夫唐通，夫君往杭州去了，命我在家支持门户，看看归期不远，"
+        },
+        {
+          "character": "林慧娘",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "待我将这几日的账目清算一番。"
         },
         {
           "character": null,
@@ -1203,7 +1436,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "先生不过偶感风寒，依孩儿之见，不如拿床锦被给先生遮盖遮盖，等出了汗也\n就好了。"
+          "text": "先生不过偶感风寒，依孩儿之见，不如拿床锦被给先生遮盖遮盖，等出了汗也"
+        },
+        {
+          "character": "唐芝",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "就好了。"
         },
         {
           "character": "林慧娘",
@@ -1266,7 +1506,14 @@
           "line_type": "西皮散板",
           "musical_style": "西皮散板",
           "style_family": "西皮",
-          "text": "杭州盘桓一月整，\n今日才转故园门。"
+          "text": "杭州盘桓一月整，"
+        },
+        {
+          "character": "唐通",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "今日才转故园门。"
         },
         {
           "character": "唐通",
@@ -1336,7 +1583,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "非但才高，那日他在花园闲步，妾身偷看于他，好一副相貌，日后定然是位贵\n人。"
+          "text": "非但才高，那日他在花园闲步，妾身偷看于他，好一副相貌，日后定然是位贵"
+        },
+        {
+          "character": "林慧娘",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "人。"
         },
         {
           "character": "唐通",
@@ -1517,7 +1771,17 @@
           "西皮原板",
           "西皮散板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.051,
+        0.1176,
+        0.8235,
+        0.0588,
+        0.74,
+        3,
+        0.1176,
+        0.0
+      ]
     },
     {
       "scene_index": 5,
@@ -1716,7 +1980,17 @@
           "西皮小导板",
           "西皮散板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.5,
+        0.3571,
+        0.5,
+        0.1429,
+        0.2308,
+        3,
+        0.3571,
+        0.0
+      ]
     },
     {
       "scene_index": 6,
@@ -3731,7 +4005,17 @@
           "西皮快板",
           "西皮散板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.032,
+        0.1,
+        0.8857,
+        0.0143,
+        0.799,
+        7,
+        0.1,
+        0.0
+      ]
     },
     {
       "scene_index": 7,
@@ -4208,7 +4492,17 @@
         "musical_styles": [
           "西皮散板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.023,
+        0.0435,
+        0.9348,
+        0.0217,
+        0.9333,
+        3,
+        0.0435,
+        0.0
+      ]
     },
     {
       "scene_index": 8,
@@ -4350,7 +4644,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.9167,
+        0.0833,
+        0.8182,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 9,
@@ -4375,14 +4679,35 @@
           "line_type": "西皮原板",
           "musical_style": "西皮原板",
           "style_family": "西皮",
-          "text": "山河一统久承平，\n盗弄潢池启战争。\n请缨欲效汉终军。"
+          "text": "山河一统久承平，"
+        },
+        {
+          "character": "林慧娘",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "盗弄潢池启战争。"
+        },
+        {
+          "character": "林慧娘",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "请缨欲效汉终军。"
         },
         {
           "character": "林慧娘",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "我林慧娘，配夫唐通，夫君往杭州去了，命我在家支持门户，看看归期不远，\n待我将这几日的账目清算一番。"
+          "text": "我林慧娘，配夫唐通，夫君往杭州去了，命我在家支持门户，看看归期不远，"
+        },
+        {
+          "character": "林慧娘",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "待我将这几日的账目清算一番。"
         },
         {
           "character": null,
@@ -4445,7 +4770,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "先生不过偶感风寒，依孩儿之见，不如拿床锦被给先生遮盖遮盖，等出了汗也\n就好了。"
+          "text": "先生不过偶感风寒，依孩儿之见，不如拿床锦被给先生遮盖遮盖，等出了汗也"
+        },
+        {
+          "character": "唐芝",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "就好了。"
         },
         {
           "character": "林慧娘",
@@ -4508,7 +4840,14 @@
           "line_type": "西皮散板",
           "musical_style": "西皮散板",
           "style_family": "西皮",
-          "text": "杭州盘桓一月整，\n今日才转故园门。"
+          "text": "杭州盘桓一月整，"
+        },
+        {
+          "character": "唐通",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "今日才转故园门。"
         },
         {
           "character": "唐通",
@@ -4578,7 +4917,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "非但才高，那日他在花园闲步，妾身偷看于他，好一副相貌，日后定然是位贵\n人。"
+          "text": "非但才高，那日他在花园闲步，妾身偷看于他，好一副相貌，日后定然是位贵"
+        },
+        {
+          "character": "林慧娘",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "人。"
         },
         {
           "character": "唐通",
@@ -4725,7 +5071,14 @@
           "line_type": "西皮散板",
           "musical_style": "西皮散板",
           "style_family": "西皮",
-          "text": "师严道尊理当敬，\n武将也须重儒生。"
+          "text": "师严道尊理当敬，"
+        },
+        {
+          "character": "唐通",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "武将也须重儒生。"
         },
         {
           "character": null,
@@ -4746,7 +5099,21 @@
           "line_type": "西皮散板",
           "musical_style": "西皮散板",
           "style_family": "西皮",
-          "text": "寒儒不幸身有病，\n浑身上下冷如冰。\n心中恍惚不安宁。"
+          "text": "寒儒不幸身有病，"
+        },
+        {
+          "character": "陆世科",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "浑身上下冷如冰。"
+        },
+        {
+          "character": "陆世科",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "心中恍惚不安宁。"
         },
         {
           "character": null,
@@ -4760,14 +5127,28 @@
           "line_type": "西皮散板",
           "musical_style": "西皮散板",
           "style_family": "西皮",
-          "text": "一床锦被身背定，\n师尊台前表寸心。"
+          "text": "一床锦被身背定，"
+        },
+        {
+          "character": "唐芝",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "师尊台前表寸心。"
         },
         {
           "character": "唐芝",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "先生，先生！\n原来睡着了，待我与他盖好。"
+          "text": "先生，先生！"
+        },
+        {
+          "character": "唐芝",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "原来睡着了，待我与他盖好。"
         },
         {
           "character": null,
@@ -4802,14 +5183,42 @@
           "line_type": "西皮散板",
           "musical_style": "西皮散板",
           "style_family": "西皮",
-          "text": "为人须把子教训，\n尊师重道理当应。\n只见先生睡沉沉。"
+          "text": "为人须把子教训，"
+        },
+        {
+          "character": "唐通",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "尊师重道理当应。"
+        },
+        {
+          "character": "唐通",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "只见先生睡沉沉。"
         },
         {
           "character": "唐通",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "先生，唐某来了。哦，原来先生睡熟了，可怜他少年书生，客中患病，令人可\n叹。哦，这床锦被是我娘子之物，想是借与先生发汗。哎，妇人之物岂可擅借\n与人，太也荒唐了。他既已睡着，不要惊动于他，待我转去。"
+          "text": "先生，唐某来了。哦，原来先生睡熟了，可怜他少年书生，客中患病，令人可"
+        },
+        {
+          "character": "唐通",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "叹。哦，这床锦被是我娘子之物，想是借与先生发汗。哎，妇人之物岂可擅借"
+        },
+        {
+          "character": "唐通",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "与人，太也荒唐了。他既已睡着，不要惊动于他，待我转去。"
         },
         {
           "character": null,
@@ -4837,7 +5246,56 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "这是什么物件？原来是一条罗带，这条罗带怎么有些香泽？分明是妇人之物，\n先生书房之中，怎么有这样的东西。我明白了，想是先生年少风流，有那情人\n相赠与他，也是有的。哎！我一向道这位先生品学兼优，今日看来也是外面老\n诚，内中却信不得。哎呀！这条罗带我在哪里见过呀，哦，这、这、这、这分\n明是我家娘子之物，怎么落到书房之中？难道他二人……哦，是了！怪不得那\n个贱人每每夸奖先生才学，还道他品貌异常，原来有这样暧昧之事，我这样英\n雄岂肯作了此道。我不免去到上房先杀贱人，再杀这个村夫，方消我恨。我就\n是这个主意，我就是这个主意！"
+          "text": "这是什么物件？原来是一条罗带，这条罗带怎么有些香泽？分明是妇人之物，"
+        },
+        {
+          "character": "唐通",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "先生书房之中，怎么有这样的东西。我明白了，想是先生年少风流，有那情人"
+        },
+        {
+          "character": "唐通",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "相赠与他，也是有的。哎！我一向道这位先生品学兼优，今日看来也是外面老"
+        },
+        {
+          "character": "唐通",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "诚，内中却信不得。哎呀！这条罗带我在哪里见过呀，哦，这、这、这、这分"
+        },
+        {
+          "character": "唐通",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "明是我家娘子之物，怎么落到书房之中？难道他二人……哦，是了！怪不得那"
+        },
+        {
+          "character": "唐通",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "个贱人每每夸奖先生才学，还道他品貌异常，原来有这样暧昧之事，我这样英"
+        },
+        {
+          "character": "唐通",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "雄岂肯作了此道。我不免去到上房先杀贱人，再杀这个村夫，方消我恨。我就"
+        },
+        {
+          "character": "唐通",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "是这个主意，我就是这个主意！"
         },
         {
           "character": null,
@@ -4865,7 +5323,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "我身盖重衾，还是这般寒冷，原来未曾关门，待我自己扶病下来，将门关好，\n再来安睡。哦，这条罗带与这床锦被怎么有些香气？好似妇人之物，这岂是我\n盖得的，将它掀过一边。正是："
+          "text": "我身盖重衾，还是这般寒冷，原来未曾关门，待我自己扶病下来，将门关好，"
+        },
+        {
+          "character": "陆世科",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "再来安睡。哦，这条罗带与这床锦被怎么有些香气？好似妇人之物，这岂是我"
+        },
+        {
+          "character": "陆世科",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "盖得的，将它掀过一边。正是："
         },
         {
           "character": "陆世科",
@@ -4914,7 +5386,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "咳，可恨贱人无理太甚，来此上房，待我唤她出来。\n贱人，与我走出来。"
+          "text": "咳，可恨贱人无理太甚，来此上房，待我唤她出来。"
+        },
+        {
+          "character": "唐通",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "贱人，与我走出来。"
         },
         {
           "character": null,
@@ -4928,7 +5407,14 @@
           "line_type": "西皮散板",
           "musical_style": "西皮散板",
           "style_family": "西皮",
-          "text": "一盏清茶亲手奉，\n孟光举案敬梁鸿。"
+          "text": "一盏清茶亲手奉，"
+        },
+        {
+          "character": "林慧娘",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "孟光举案敬梁鸿。"
         },
         {
           "character": "林慧娘",
@@ -4956,7 +5442,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "哎呀，官人哪！我与你作了多年夫妻，从不曾见你如此生气，总有服侍不周之\n处，望官人恕我初犯。"
+          "text": "哎呀，官人哪！我与你作了多年夫妻，从不曾见你如此生气，总有服侍不周之"
+        },
+        {
+          "character": "林慧娘",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "处，望官人恕我初犯。"
         },
         {
           "character": "唐通",
@@ -5026,7 +5519,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "呀呸，听你言来语去，分明说我与陆先生有奸，我一向谨守闺门，你若不信，\n只管去问春莺。"
+          "text": "呀呸，听你言来语去，分明说我与陆先生有奸，我一向谨守闺门，你若不信，"
+        },
+        {
+          "character": "林慧娘",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "只管去问春莺。"
         },
         {
           "character": "唐通",
@@ -5091,7 +5591,17 @@
           "西皮快板",
           "西皮散板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.078,
+        0.1827,
+        0.7596,
+        0.0577,
+        0.5437,
+        5,
+        0.1827,
+        0.0
+      ]
     },
     {
       "scene_index": 10,
@@ -5618,7 +6128,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.9808,
+        0.0192,
+        0.9412,
+        6,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 11,
@@ -5665,7 +6185,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.5,
+        0.5,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 12,
@@ -6449,7 +6979,17 @@
         "musical_styles": [
           "西皮散板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.014,
+        0.038,
+        0.9367,
+        0.0253,
+        0.859,
+        7,
+        0.0253,
+        0.0
+      ]
     },
     {
       "scene_index": 13,
@@ -6471,14 +7011,14 @@
           "text": "（回龙） 悔不该与表嫂卖弄风流。"
         },
         {
-          "character": null,
+          "character": "插标",
           "line_type": "二黄原板",
           "musical_style": "二黄原板",
           "style_family": "二黄",
           "text": "法场上都道我是个禽兽，"
         },
         {
-          "character": null,
+          "character": "插标",
           "line_type": "二黄散板",
           "musical_style": "二黄散板",
           "style_family": "二黄",
@@ -6503,7 +7043,17 @@
           "二黄原板",
           "二黄散板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 14,
@@ -7369,7 +7919,17 @@
           "二黄导板",
           "二黄散板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.038,
+        0.0494,
+        0.9383,
+        0.0123,
+        0.8875,
+        7,
+        0.0,
+        0.0494
+      ]
     }
   ]
 }

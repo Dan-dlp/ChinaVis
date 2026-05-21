@@ -177,7 +177,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "老汉刘得明。稍有家财，只是膝下无儿，所生一女，尚未婚配。今当花田盛会，\n不免将安人请出，商议商议，前去游玩花田。\n家院过来，有请安人、小姐出堂。"
+          "text": "老汉刘得明。稍有家财，只是膝下无儿，所生一女，尚未婚配。今当花田盛会，"
+        },
+        {
+          "character": "刘得明",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "不免将安人请出，商议商议，前去游玩花田。"
+        },
+        {
+          "character": "刘得明",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "家院过来，有请安人、小姐出堂。"
         },
         {
           "character": "院子",
@@ -289,7 +303,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "妾身亦为此事在心。\n儿啊，你意下如何？"
+          "text": "妾身亦为此事在心。"
+        },
+        {
+          "character": "刘夫人",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "儿啊，你意下如何？"
         },
         {
           "character": "刘月英",
@@ -303,17 +324,66 @@
           "line_type": "西皮慢板",
           "musical_style": "西皮慢板",
           "style_family": "西皮",
-          "text": "有孩儿在前堂把话来讲，\n尊一声二双亲细听端详：\n但愿得二爹娘福寿绵长。"
+          "text": "有孩儿在前堂把话来讲，"
         },
         {
-          "character": "女儿的婚姻事休挂心上、春兰",
+          "character": "刘月英",
+          "line_type": "西皮慢板",
+          "musical_style": "西皮慢板",
+          "style_family": "西皮",
+          "text": "尊一声二双亲细听端详："
+        },
+        {
+          "character": "刘月英",
+          "line_type": "西皮慢板",
+          "musical_style": "西皮慢板",
+          "style_family": "西皮",
+          "text": "但愿得二爹娘福寿绵长。"
+        },
+        {
+          "character": "刘月英",
+          "line_type": "西皮慢板",
+          "musical_style": "西皮慢板",
+          "style_family": "西皮",
+          "text": "女儿的婚姻事休挂心上"
+        },
+        {
+          "character": "春兰",
           "line_type": "西皮快板",
           "musical_style": "西皮快板",
           "style_family": "西皮",
-          "text": "员外安人休挂念，\n尊一声小姑娘细听根源：\n婚姻大事有春兰。"
+          "text": "员外安人休挂念，"
         },
         {
-          "character": "花田会上任你选、刘德明、刘夫人",
+          "character": "春兰",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "尊一声小姑娘细听根源："
+        },
+        {
+          "character": "春兰",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "婚姻大事有春兰。"
+        },
+        {
+          "character": "春兰",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "花田会上任你选"
+        },
+        {
+          "character": "春兰",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "刘德明"
+        },
+        {
+          "character": "刘夫人",
           "line_type": "同白",
           "musical_style": null,
           "style_family": null,
@@ -437,7 +507,17 @@
           "西皮快板",
           "西皮慢板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.043,
+        0.2778,
+        0.5833,
+        0.1389,
+        0.6286,
+        6,
+        0.25,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -467,14 +547,35 @@
           "line_type": "数板",
           "musical_style": null,
           "style_family": null,
-          "text": "一关一缩不成店，一开一掀不见面。他在头里走，我在后头赶。二人见了面，\n腰中不便，改日再见，改日再见。"
+          "text": "一关一缩不成店，一开一掀不见面。他在头里走，我在后头赶。二人见了面，"
+        },
+        {
+          "character": "张三",
+          "line_type": "数板",
+          "musical_style": null,
+          "style_family": null,
+          "text": "腰中不便，改日再见，改日再见。"
         },
         {
           "character": "张三",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "我，张三。在这渡仙桥前，开了一座饭店，这且不言。今日乃花田会期，我们\n店中，住了一位相公。不免将他请出谈讲。\n啊，卞相公有请。"
+          "text": "我，张三。在这渡仙桥前，开了一座饭店，这且不言。今日乃花田会期，我们"
+        },
+        {
+          "character": "张三",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "店中，住了一位相公。不免将他请出谈讲。"
+        },
+        {
+          "character": "张三",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "啊，卞相公有请。"
         },
         {
           "character": null,
@@ -523,7 +624,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "相公有所不知。今日此地花田盛会，人烟甚众。何不前去卖点字画，挣来银两，\n进京赴考。"
+          "text": "相公有所不知。今日此地花田盛会，人烟甚众。何不前去卖点字画，挣来银两，"
+        },
+        {
+          "character": "张三",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "进京赴考。"
         },
         {
           "character": "卞机",
@@ -558,10 +666,24 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "诗吟文章不自夸。\n但愿成名扬天涯。"
+          "text": "诗吟文章不自夸。"
         },
         {
-          "character": "花田以上卖字画、张三",
+          "character": "卞机",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "但愿成名扬天涯。"
+        },
+        {
+          "character": "卞机",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "花田以上卖字画"
+        },
+        {
+          "character": "张三",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -621,21 +743,42 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "打虎将李忠。\n请了。你我今日闲暇无事，闻听此处蟠桃盛会，不免前去游玩便了。"
+          "text": "打虎将李忠。"
+        },
+        {
+          "character": "李忠",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "请了。你我今日闲暇无事，闻听此处蟠桃盛会，不免前去游玩便了。"
         },
         {
           "character": "周通",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "曾记当年把业闯，\n谁人不知小霸王。"
+          "text": "曾记当年把业闯，"
+        },
+        {
+          "character": "周通",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "谁人不知小霸王。"
         },
         {
           "character": "李忠",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "闲暇无事朝前往，\n会场之中走一场。"
+          "text": "闲暇无事朝前往，"
+        },
+        {
+          "character": "李忠",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "会场之中走一场。"
         },
         {
           "character": "周通",
@@ -656,14 +799,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "贤弟你看这铺内，有一卖字画先生，你我前去叫他画上一把扇儿，不知意下如\n何？"
+          "text": "贤弟你看这铺内，有一卖字画先生，你我前去叫他画上一把扇儿，不知意下如"
+        },
+        {
+          "character": "李忠",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "何？"
         },
         {
           "character": "周通",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "言之有理。\n先生请了。"
+          "text": "言之有理。"
+        },
+        {
+          "character": "周通",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "先生请了。"
         },
         {
           "character": "卞机",
@@ -705,7 +862,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "贤弟你看好字呀。\n先生，五十两银子，请写就是。待我看来好。"
+          "text": "贤弟你看好字呀。"
+        },
+        {
+          "character": "李忠",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "先生，五十两银子，请写就是。待我看来好。"
         },
         {
           "character": "周通",
@@ -789,7 +953,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "二位慢走。\n啊，相公用茶。"
+          "text": "二位慢走。"
+        },
+        {
+          "character": "张三",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "啊，相公用茶。"
         },
         {
           "character": "卞机",
@@ -925,6 +1096,13 @@
           "text": "有劳店主东。"
         },
         {
+          "character": "卞机",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "举目抬头朝前望"
+        },
+        {
           "character": null,
           "line_type": "stage_direction",
           "musical_style": null,
@@ -946,14 +1124,21 @@
           "text": "王孙公子乐非常。"
         },
         {
-          "character": "举目抬头朝前望、春兰",
+          "character": "春兰",
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
           "text": "渡仙桥前遇才郎。"
         },
         {
-          "character": "举目抬头朝前望、春兰",
+          "character": "春兰",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "举目抬头朝前望"
+        },
+        {
+          "character": "春兰",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -985,7 +1170,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "我去问来。\n啊，相公，你是干什么的？"
+          "text": "我去问来。"
+        },
+        {
+          "character": "春兰",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "啊，相公，你是干什么的？"
         },
         {
           "character": "卞机",
@@ -1013,7 +1205,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "好大的口气。\n小姐，他是卖字画的。"
+          "text": "好大的口气。"
+        },
+        {
+          "character": "春兰",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "小姐，他是卖字画的。"
         },
         {
           "character": "刘月英",
@@ -1069,7 +1268,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "我与你溶墨。\n怎么一点水没有？呸呸呸！"
+          "text": "我与你溶墨。"
+        },
+        {
+          "character": "春兰",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "怎么一点水没有？呸呸呸！"
         },
         {
           "character": "卞机",
@@ -1097,7 +1303,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "哈哈，咦，他们俩人吊膀子呢。\n相公你写呀，小姐你瞧什么？"
+          "text": "哈哈，咦，他们俩人吊膀子呢。"
+        },
+        {
+          "character": "春兰",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "相公你写呀，小姐你瞧什么？"
         },
         {
           "character": "卞机",
@@ -1121,7 +1334,14 @@
           "text": "燕语莺啼动人情。"
         },
         {
-          "character": "桃红柳绿来相衬、春兰",
+          "character": "卞机",
+          "line_type": "南梆子原板",
+          "musical_style": "南梆子原板",
+          "style_family": "南梆子",
+          "text": "桃红柳绿来相衬"
+        },
+        {
+          "character": "春兰",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -1139,7 +1359,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "待我拿与小姐看看去。\n哎小姐，写好了。"
+          "text": "待我拿与小姐看看去。"
+        },
+        {
+          "character": "春兰",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "哎小姐，写好了。"
         },
         {
           "character": "刘月英",
@@ -1153,10 +1380,31 @@
           "line_type": "南梆子原板",
           "musical_style": "南梆子原板",
           "style_family": "南梆子",
-          "text": "三月里天气艳阳春，\n花田会上遇美人。\n燕语莺啼动人情。"
+          "text": "三月里天气艳阳春，"
         },
         {
-          "character": "花红柳绿来相衬、春兰",
+          "character": "刘月英",
+          "line_type": "南梆子原板",
+          "musical_style": "南梆子原板",
+          "style_family": "南梆子",
+          "text": "花田会上遇美人。"
+        },
+        {
+          "character": "刘月英",
+          "line_type": "南梆子原板",
+          "musical_style": "南梆子原板",
+          "style_family": "南梆子",
+          "text": "燕语莺啼动人情。"
+        },
+        {
+          "character": "刘月英",
+          "line_type": "南梆子原板",
+          "musical_style": "南梆子原板",
+          "style_family": "南梆子",
+          "text": "花红柳绿来相衬"
+        },
+        {
+          "character": "春兰",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -1174,7 +1422,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "怎么没有落款？待我叫他写上一点。\n哎，相公，这么好的字，怎么不落款？"
+          "text": "怎么没有落款？待我叫他写上一点。"
+        },
+        {
+          "character": "春兰",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "哎，相公，这么好的字，怎么不落款？"
         },
         {
           "character": "卞机",
@@ -1195,14 +1450,35 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "晓得。\n“湖广湘乡人甲午举人卞机题”。写好了。"
+          "text": "晓得。"
+        },
+        {
+          "character": "卞机",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "“湖广湘乡人甲午举人卞机题”。写好了。"
         },
         {
           "character": "春兰",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "相公写好了么？\n待我看来。“湖广湘乡人甲午举人”。\n啊相公，你还是一位举人老爷么？"
+          "text": "相公写好了么？"
+        },
+        {
+          "character": "春兰",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "待我看来。“湖广湘乡人甲午举人”。"
+        },
+        {
+          "character": "春兰",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "啊相公，你还是一位举人老爷么？"
         },
         {
           "character": "卞机",
@@ -1230,7 +1506,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "“卞机”。\n哎，相公，你还会辨鸡么？"
+          "text": "“卞机”。"
+        },
+        {
+          "character": "春兰",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "哎，相公，你还会辨鸡么？"
         },
         {
           "character": "卞机",
@@ -1244,14 +1527,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "原来是卞相公。失敬了。\n小姐，款落好了。"
+          "text": "原来是卞相公。失敬了。"
+        },
+        {
+          "character": "春兰",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "小姐，款落好了。"
         },
         {
           "character": "刘月英",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "待我看来。\n“甲午举人卞机题”。字体甚好。回家说与员外、安人知道。"
+          "text": "待我看来。"
+        },
+        {
+          "character": "刘月英",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "“甲午举人卞机题”。字体甚好。回家说与员外、安人知道。"
         },
         {
           "character": "春兰",
@@ -1300,7 +1597,14 @@
           "line_type": "南梆子原板",
           "musical_style": "南梆子原板",
           "style_family": "南梆子",
-          "text": "叫春兰带路回家转，\n见了那爹娘说根源。"
+          "text": "叫春兰带路回家转，"
+        },
+        {
+          "character": "刘月英",
+          "line_type": "南梆子原板",
+          "musical_style": "南梆子原板",
+          "style_family": "南梆子",
+          "text": "见了那爹娘说根源。"
         },
         {
           "character": null,
@@ -1531,7 +1835,14 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "他主仆二人回府去，\n坐在桥头等信音。"
+          "text": "他主仆二人回府去，"
+        },
+        {
+          "character": "卞机",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "坐在桥头等信音。"
         },
         {
           "character": null,
@@ -1694,7 +2005,17 @@
           "西皮导板",
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.069,
+        0.1543,
+        0.8351,
+        0.0106,
+        0.7754,
+        7,
+        0.0266,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -1743,7 +2064,14 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "适才花田去游赏，\n只见那卞先生才貌无双。"
+          "text": "适才花田去游赏，"
+        },
+        {
+          "character": "刘月英",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "只见那卞先生才貌无双。"
         },
         {
           "character": "刘月英",
@@ -1813,7 +2141,35 @@
           "line_type": "西皮快板",
           "musical_style": "西皮快板",
           "style_family": "西皮",
-          "text": "员外、安人容我禀，\n细听春兰说分明：\n渡仙桥前遇才郎。\n甲午年前一举郎。\n服侍小姐拜花堂。"
+          "text": "员外、安人容我禀，"
+        },
+        {
+          "character": "春兰",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "细听春兰说分明："
+        },
+        {
+          "character": "春兰",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "渡仙桥前遇才郎。"
+        },
+        {
+          "character": "春兰",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "甲午年前一举郎。"
+        },
+        {
+          "character": "春兰",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "服侍小姐拜花堂。"
         },
         {
           "character": "春兰",
@@ -1823,11 +2179,39 @@
           "text": "员外你看这扇子，是卞相公写的。"
         },
         {
-          "character": "我与小姐去游玩、先生姓卞住湖广、员外不信差人往、刘得明",
+          "character": "春兰",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "拿来我看。\n看这扇子上面诗句，必然文才出众，但不知相貌如何？"
+          "text": "我与小姐去游玩"
+        },
+        {
+          "character": "春兰",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "先生姓卞住湖广"
+        },
+        {
+          "character": "春兰",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "员外不信差人往"
+        },
+        {
+          "character": "刘得明",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "拿来我看。"
+        },
+        {
+          "character": "刘得明",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "看这扇子上面诗句，必然文才出众，但不知相貌如何？"
         },
         {
           "character": "春兰",
@@ -1941,7 +2325,17 @@
           "西皮快板",
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.059,
+        0.2414,
+        0.6897,
+        0.069,
+        0.5714,
+        5,
+        0.2414,
+        0.0
+      ]
     },
     {
       "scene_index": 4,
@@ -1963,7 +2357,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "俺小霸王周通。只因昨日写了一把扇儿，今日送银子与那先生。来此已是。\n啊，先生，先生，怎么先生不在这里。待我在此等候等候。"
+          "text": "俺小霸王周通。只因昨日写了一把扇儿，今日送银子与那先生。来此已是。"
+        },
+        {
+          "character": "周通",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "啊，先生，先生，怎么先生不在这里。待我在此等候等候。"
         },
         {
           "character": null,
@@ -2019,7 +2420,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "且住，他来找卞先生前去招亲，不免待我前去。\n哈哈，我就是卞先生。"
+          "text": "且住，他来找卞先生前去招亲，不免待我前去。"
+        },
+        {
+          "character": "周通",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "哈哈，我就是卞先生。"
         },
         {
           "character": "院子",
@@ -2075,7 +2483,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.8333,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 5,
@@ -2769,7 +3187,17 @@
           "西皮原板",
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.032,
+        0.0882,
+        0.8824,
+        0.0294,
+        0.9254,
+        7,
+        0.0882,
+        0.0
+      ]
     },
     {
       "scene_index": 6,
@@ -3109,7 +3537,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.075,
+        0.075,
+        0.925,
+        0.0,
+        0.9744,
+        2,
+        0.075,
+        0.0
+      ]
     },
     {
       "scene_index": 7,
@@ -3694,7 +4132,17 @@
           "南梆子摇板",
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.059,
+        0.0857,
+        0.9,
+        0.0143,
+        0.9565,
+        3,
+        0.0714,
+        0.0
+      ]
     },
     {
       "scene_index": 8,
@@ -3867,7 +4315,17 @@
           "西皮原板",
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.154,
+        0.1875,
+        0.8125,
+        0.0,
+        0.8,
+        2,
+        0.1875,
+        0.0
+      ]
     },
     {
       "scene_index": 9,
@@ -4277,7 +4735,17 @@
           "西皮原板",
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.027,
+        0.0526,
+        0.9474,
+        0.0,
+        0.973,
+        6,
+        0.0526,
+        0.0
+      ]
     }
   ]
 }

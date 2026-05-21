@@ -143,7 +143,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "本帅，姓马名芳，字文成。大明驾前为臣，令奉圣命，带领人马，镇守榆林关\n一带。今当三、六、九日操演之期。\n众将官，兵发校场听点！"
+          "text": "本帅，姓马名芳，字文成。大明驾前为臣，令奉圣命，带领人马，镇守榆林关"
+        },
+        {
+          "character": "马芳",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "一带。今当三、六、九日操演之期。"
+        },
+        {
+          "character": "马芳",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "众将官，兵发校场听点！"
         },
         {
           "character": null,
@@ -269,7 +283,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "夫人有所不知，时才探马报到，只因我父杨波，在朝中与奸贼徐赞顶本，可恨\n昏王，将我父削去官职，囚禁南牢，你道恼是不恼！"
+          "text": "夫人有所不知，时才探马报到，只因我父杨波，在朝中与奸贼徐赞顶本，可恨"
+        },
+        {
+          "character": "马芳",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "昏王，将我父削去官职，囚禁南牢，你道恼是不恼！"
         },
         {
           "character": "夫人",
@@ -353,7 +374,17 @@
           "西皮原板",
           "西皮导板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.077,
+        0.1429,
+        0.6667,
+        0.1905,
+        0.45,
+        3,
+        0.0952,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -427,7 +458,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.75,
+        0.25,
+        0.6667,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -464,7 +505,21 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "时才内侍报连声，\n午门外反了马文成。\n一同定计退雄兵。"
+          "text": "时才内侍报连声，"
+        },
+        {
+          "character": "万历",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "午门外反了马文成。"
+        },
+        {
+          "character": "万历",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "一同定计退雄兵。"
         },
         {
           "character": null,
@@ -478,7 +533,14 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "马芳领兵到朝门，\n好叫老身心内惊。"
+          "text": "马芳领兵到朝门，"
+        },
+        {
+          "character": "国太",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "好叫老身心内惊。"
         },
         {
           "character": "万历",
@@ -506,7 +568,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "我把你这奴才。先前为娘怎样嘱咐于你，执意不听，至有今日，事已至此，快\n快宣亚父杨波上殿，一同定计便了。"
+          "text": "我把你这奴才。先前为娘怎样嘱咐于你，执意不听，至有今日，事已至此，快"
+        },
+        {
+          "character": "国太",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "快宣亚父杨波上殿，一同定计便了。"
         },
         {
           "character": "万历",
@@ -534,7 +603,21 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "忽听内侍宣一声，\n午门外来了保国臣。\n国太宣臣为何情？"
+          "text": "忽听内侍宣一声，"
+        },
+        {
+          "character": "杨波",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "午门外来了保国臣。"
+        },
+        {
+          "character": "杨波",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "国太宣臣为何情？"
         },
         {
           "character": "杨波",
@@ -544,7 +627,14 @@
           "text": "臣杨波见驾，国太千岁。"
         },
         {
-          "character": "迈步且把金殿进、国太",
+          "character": "杨波",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "迈步且把金殿进"
+        },
+        {
+          "character": "国太",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -583,7 +673,14 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "听一言来心内惊，\n背转身来自思忖。"
+          "text": "听一言来心内惊，"
+        },
+        {
+          "character": "万历",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "背转身来自思忖。"
         },
         {
           "character": null,
@@ -604,14 +701,28 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "自从盘古到如今，\n哪有君王来跪臣。"
+          "text": "自从盘古到如今，"
+        },
+        {
+          "character": "杨波",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "哪有君王来跪臣。"
         },
         {
           "character": "杨波",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "臣启万岁：事到如今，并无别计，请将臣捆绑城楼，项带剑枷，倘若马芳不肯\n退兵，即刻就将为臣斩首城楼，那马芳念在父子之情，或可收兵。"
+          "text": "臣启万岁：事到如今，并无别计，请将臣捆绑城楼，项带剑枷，倘若马芳不肯"
+        },
+        {
+          "character": "杨波",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "退兵，即刻就将为臣斩首城楼，那马芳念在父子之情，或可收兵。"
         },
         {
           "character": "万历、国太",
@@ -625,7 +736,14 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "内侍臣摆驾敌楼进，\n观看马芳发来的兵。"
+          "text": "内侍臣摆驾敌楼进，"
+        },
+        {
+          "character": "国太",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "观看马芳发来的兵。"
         },
         {
           "character": null,
@@ -674,42 +792,203 @@
           "line_type": "西皮原板",
           "musical_style": "西皮原板",
           "style_family": "西皮",
-          "text": "保驾的夫人赛凤摇。\n四杆彩旗脑后飘。"
+          "text": "保驾的夫人赛凤摇。"
+        },
+        {
+          "character": "马芳",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "四杆彩旗脑后飘。"
         },
         {
           "character": "马芳",
           "line_type": "西皮快板",
           "musical_style": "西皮快板",
           "style_family": "西皮",
-          "text": "都只为我父坐监牢。\n某学关公来挡曹。"
-        },
-        {
-          "character": "左右的前锋官把帅保、马文成顾不得全忠孝、此一去好比华容道、万历",
-          "line_type": "西皮快板",
-          "musical_style": "西皮快板",
-          "style_family": "西皮",
-          "text": "旌旗不住城下飘，\n倒叫孤皇心内焦。\n为何兴兵犯九朝？"
-        },
-        {
-          "character": "低头便把将军叫、马芳",
-          "line_type": "西皮快板",
-          "musical_style": "西皮快板",
-          "style_family": "西皮",
-          "text": "老王晏驾龙归沧，\n我朝出了奸贼李良。\n太后无故禁昭阳。\n人马一齐到朝堂。\n如何无故斩忠良？\n再与太后说端详：\n你不念当年保国忠良。"
-        },
-        {
-          "character": "封条锁在宫门上、多亏贾妃搬兵将、到如今太平江山你安享、问得昏王无话讲、昏王信用贼奸党、国太",
-          "line_type": "西皮快板",
-          "musical_style": "西皮快板",
-          "style_family": "西皮",
-          "text": "亚父快把城楼上，\n速与哀家作主张。"
+          "text": "都只为我父坐监牢。"
         },
         {
           "character": "马芳",
           "line_type": "西皮快板",
           "musical_style": "西皮快板",
           "style_family": "西皮",
-          "text": "勒住丝缰来观定，\n城楼上只见老爹尊。\n倒叫豪杰痛伤情。\n三件大事要应承。"
+          "text": "某学关公来挡曹。"
+        },
+        {
+          "character": "马芳",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "左右的前锋官把帅保"
+        },
+        {
+          "character": "马芳",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "马文成顾不得全忠孝"
+        },
+        {
+          "character": "马芳",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "此一去好比华容道"
+        },
+        {
+          "character": "万历",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "旌旗不住城下飘，"
+        },
+        {
+          "character": "万历",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "倒叫孤皇心内焦。"
+        },
+        {
+          "character": "万历",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "为何兴兵犯九朝？"
+        },
+        {
+          "character": "万历",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "低头便把将军叫"
+        },
+        {
+          "character": "马芳",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "老王晏驾龙归沧，"
+        },
+        {
+          "character": "马芳",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "我朝出了奸贼李良。"
+        },
+        {
+          "character": "马芳",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "太后无故禁昭阳。"
+        },
+        {
+          "character": "马芳",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "人马一齐到朝堂。"
+        },
+        {
+          "character": "马芳",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "如何无故斩忠良？"
+        },
+        {
+          "character": "马芳",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "再与太后说端详："
+        },
+        {
+          "character": "马芳",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "你不念当年保国忠良。"
+        },
+        {
+          "character": "马芳",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "封条锁在宫门上"
+        },
+        {
+          "character": "马芳",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "多亏贾妃搬兵将"
+        },
+        {
+          "character": "马芳",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "到如今太平江山你安享"
+        },
+        {
+          "character": "马芳",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "问得昏王无话讲"
+        },
+        {
+          "character": "马芳",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "昏王信用贼奸党"
+        },
+        {
+          "character": "国太",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "亚父快把城楼上，"
+        },
+        {
+          "character": "国太",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "速与哀家作主张。"
+        },
+        {
+          "character": "马芳",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "勒住丝缰来观定，"
+        },
+        {
+          "character": "马芳",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "城楼上只见老爹尊。"
+        },
+        {
+          "character": "马芳",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "倒叫豪杰痛伤情。"
+        },
+        {
+          "character": "马芳",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "三件大事要应承。"
         },
         {
           "character": "马芳",
@@ -719,7 +998,21 @@
           "text": "若叫我退兵，却也不难，必须要依我三件大事。"
         },
         {
-          "character": "项带剑枷身边捆、若叫我退兵不甚要紧、万历",
+          "character": "马芳",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "项带剑枷身边捆"
+        },
+        {
+          "character": "马芳",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "若叫我退兵不甚要紧"
+        },
+        {
+          "character": "万历",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -779,7 +1072,35 @@
           "line_type": "西皮快板",
           "musical_style": "西皮快板",
           "style_family": "西皮",
-          "text": "三件大事皆应允，\n倒叫豪杰喜在心。\n就在此地札大营。\n他是君来我是臣。\n人马杀上午朝门。"
+          "text": "三件大事皆应允，"
+        },
+        {
+          "character": "马芳",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "倒叫豪杰喜在心。"
+        },
+        {
+          "character": "马芳",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "就在此地札大营。"
+        },
+        {
+          "character": "马芳",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "他是君来我是臣。"
+        },
+        {
+          "character": "马芳",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "人马杀上午朝门。"
         },
         {
           "character": null,
@@ -856,7 +1177,17 @@
           "西皮快板",
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.429,
+        0.65,
+        0.35,
+        0.0,
+        0.3797,
+        6,
+        0.65,
+        0.0
+      ]
     }
   ]
 }

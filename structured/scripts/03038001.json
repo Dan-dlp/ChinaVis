@@ -162,7 +162,35 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "孤、始皇在位。朕自登基以来，吞并六国，统一天下。也曾东填大海，西建阿\n房，又令蒙恬筑造万里长城，以防胡寇。只因朕焚书坑儒，天下多有不服之心。\n日前群臣奏道：东南王气甚盛，又有五色庆云，应有天子之相。为此东巡泰\n山，以作镇压。\n御林军！"
+          "text": "孤、始皇在位。朕自登基以来，吞并六国，统一天下。也曾东填大海，西建阿"
+        },
+        {
+          "character": "秦始皇",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "房，又令蒙恬筑造万里长城，以防胡寇。只因朕焚书坑儒，天下多有不服之心。"
+        },
+        {
+          "character": "秦始皇",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "日前群臣奏道：东南王气甚盛，又有五色庆云，应有天子之相。为此东巡泰"
+        },
+        {
+          "character": "秦始皇",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "山，以作镇压。"
+        },
+        {
+          "character": "秦始皇",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "御林军！"
         },
         {
           "character": "四御林军",
@@ -212,7 +240,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.1,
+        0.8,
+        0.1,
+        0.3333,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -233,21 +271,63 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "恨只恨秦始皇行事无道，\n造长城建阿房屡把民劳。\n那时节好男儿怒气方消。"
-        },
-        {
-          "character": "苍海公",
-          "line_type": "白",
-          "musical_style": null,
-          "style_family": null,
-          "text": "某、姓黎名焯，人称苍海公。韩国人也。幼年习武，颇有膂力。虽有壮怀波澜\n之心，怎奈未遂男儿之愿。只因始皇无道，焚书坑儒，偶语弃市，民不聊生。\n某家每欲除此强暴，怎奈无有机缘。今日心中烦闷，不免去往前村沽饮，以消\n胸中块垒也！"
+          "text": "恨只恨秦始皇行事无道，"
         },
         {
           "character": "苍海公",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "空有那凌云志机缘未到，\n到前村去沽饮好把愁浇。"
+          "text": "造长城建阿房屡把民劳。"
+        },
+        {
+          "character": "苍海公",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "那时节好男儿怒气方消。"
+        },
+        {
+          "character": "苍海公",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "某、姓黎名焯，人称苍海公。韩国人也。幼年习武，颇有膂力。虽有壮怀波澜"
+        },
+        {
+          "character": "苍海公",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "之心，怎奈未遂男儿之愿。只因始皇无道，焚书坑儒，偶语弃市，民不聊生。"
+        },
+        {
+          "character": "苍海公",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "某家每欲除此强暴，怎奈无有机缘。今日心中烦闷，不免去往前村沽饮，以消"
+        },
+        {
+          "character": "苍海公",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "胸中块垒也！"
+        },
+        {
+          "character": "苍海公",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "空有那凌云志机缘未到，"
+        },
+        {
+          "character": "苍海公",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "到前村去沽饮好把愁浇。"
         },
         {
           "character": null,
@@ -266,7 +346,17 @@
         "singing_ratio": 1.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        1.0,
+        0.5556,
+        0.4444,
+        0.0,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -284,7 +374,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "某只为君父仇怒气难消。\n恨不能学专诸刺杀王僚。"
+          "text": "某只为君父仇怒气难消。"
+        },
+        {
+          "character": "张良",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "恨不能学专诸刺杀王僚。"
         },
         {
           "character": "张良",
@@ -298,14 +395,63 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "某、张良。韩国人也。五世相韩，俱为显宦。可恨秦始皇统一天下，灭我韩国，\n杀我君父。是我每思报仇，苦无机会。是我散尽千金，寻访勇士，欲继荆轲\n之志，西刺秦王。怎奈未得其人。今日闲暇无事，不免去往村中沽饮一回便了！"
+          "text": "某、张良。韩国人也。五世相韩，俱为显宦。可恨秦始皇统一天下，灭我韩国，"
+        },
+        {
+          "character": "张良",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "杀我君父。是我每思报仇，苦无机会。是我散尽千金，寻访勇士，欲继荆轲"
+        },
+        {
+          "character": "张良",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "之志，西刺秦王。怎奈未得其人。今日闲暇无事，不免去往村中沽饮一回便了！"
         },
         {
           "character": "张良",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "恨只恨秦始皇荒淫无道，\n他本是西戎种混乱天朝。\n变封建为郡县起祸根苗。\n若民间有私议性命难逃。\n他还想做神仙快乐逍遥。\n又只见柳荫下酒幌飘摇。"
+          "text": "恨只恨秦始皇荒淫无道，"
+        },
+        {
+          "character": "张良",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "他本是西戎种混乱天朝。"
+        },
+        {
+          "character": "张良",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "变封建为郡县起祸根苗。"
+        },
+        {
+          "character": "张良",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "若民间有私议性命难逃。"
+        },
+        {
+          "character": "张良",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "他还想做神仙快乐逍遥。"
+        },
+        {
+          "character": "张良",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "又只见柳荫下酒幌飘摇。"
         },
         {
           "character": "张良",
@@ -382,7 +528,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "信步行出庄村来到酒馆，\n趁春风饮美酒稍解愁烦。"
+          "text": "信步行出庄村来到酒馆，"
+        },
+        {
+          "character": "苍海公",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "趁春风饮美酒稍解愁烦。"
         },
         {
           "character": "苍海公",
@@ -452,7 +605,14 @@
           "line_type": "同白",
           "musical_style": null,
           "style_family": null,
-          "text": "哎呀且住！我看那人相貌堂堂，仪表不俗，定是风尘异人。我若能结识于他，\n大事必成。"
+          "text": "哎呀且住！我看那人相貌堂堂，仪表不俗，定是风尘异人。我若能结识于他，"
+        },
+        {
+          "character": "张良、苍海公",
+          "line_type": "同白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "大事必成。"
         },
         {
           "character": null,
@@ -543,7 +703,14 @@
           "line_type": "同白",
           "musical_style": null,
           "style_family": null,
-          "text": "赵三公来了，快快请坐。\n添酒来！"
+          "text": "赵三公来了，快快请坐。"
+        },
+        {
+          "character": "三父老",
+          "line_type": "同白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "添酒来！"
         },
         {
           "character": "酒保",
@@ -592,7 +759,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "若是太平天下，黎民安居，遍地笙歌，五日一风，十日一雨，盗贼不生，狼烟\n不起，夜不闭户，路不拾遗，五谷丰登，天下安乐。"
+          "text": "若是太平天下，黎民安居，遍地笙歌，五日一风，十日一雨，盗贼不生，狼烟"
+        },
+        {
+          "character": "赵三公",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "不起，夜不闭户，路不拾遗，五谷丰登，天下安乐。"
         },
         {
           "character": "三父老",
@@ -641,21 +815,42 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "此时始皇无道，男不耕种，女罢机织，父子分散，夫妻别离。南修五岭，北筑\n长城，东填大海，西建阿房，焚书坑儒，大肆狂悖，民不聊生，天下失望。"
+          "text": "此时始皇无道，男不耕种，女罢机织，父子分散，夫妻别离。南修五岭，北筑"
+        },
+        {
+          "character": "张良",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "长城，东填大海，西建阿房，焚书坑儒，大肆狂悖，民不聊生，天下失望。"
         },
         {
           "character": "赵三公",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "哎呀呀，你这一后生，忒以的胆大了！如今始皇法度，偶语者弃市。你在此狂\n言，若被官役闻知，我们一个也活不了。我们快走，不要受了他的连累！"
+          "text": "哎呀呀，你这一后生，忒以的胆大了！如今始皇法度，偶语者弃市。你在此狂"
+        },
+        {
+          "character": "赵三公",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "言，若被官役闻知，我们一个也活不了。我们快走，不要受了他的连累！"
         },
         {
           "character": "三父老",
           "line_type": "同白",
           "musical_style": null,
           "style_family": null,
-          "text": "三公言得有理。\n酒家，酒钱在此，我们去了。"
+          "text": "三公言得有理。"
+        },
+        {
+          "character": "三父老",
+          "line_type": "同白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "酒家，酒钱在此，我们去了。"
         },
         {
           "character": null,
@@ -690,7 +885,21 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "叹愚人不识我仓皇避走，\n我空怀报国志双泪空流。\n何日里遂我愿灭秦唾手？"
+          "text": "叹愚人不识我仓皇避走，"
+        },
+        {
+          "character": "张良",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我空怀报国志双泪空流。"
+        },
+        {
+          "character": "张良",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "何日里遂我愿灭秦唾手？"
         },
         {
           "character": "苍海公",
@@ -704,7 +913,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "适才闻听壮士高论，代雪人民不平。某不才，愿恭领教诲。敢请屈驾寒舍一叙，\n壮士以为如何？"
+          "text": "适才闻听壮士高论，代雪人民不平。某不才，愿恭领教诲。敢请屈驾寒舍一叙，"
+        },
+        {
+          "character": "苍海公",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "壮士以为如何？"
         },
         {
           "character": "张良",
@@ -718,7 +934,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "酒保，酒钱在此，我等去也。\n壮士随我来！"
+          "text": "酒保，酒钱在此，我等去也。"
+        },
+        {
+          "character": "苍海公",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "壮士随我来！"
         },
         {
           "character": null,
@@ -781,7 +1004,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "某五世相韩，今被始皇所灭，愿破千金求志士，怎奈未得其人。今遇壮士，大\n遂吾愿。又蒙相助，感恩非浅。待某四出，打探暴君消息。若有机缘，再请壮\n士相助，效荆轲之行，一举成功，除此强暴。"
+          "text": "某五世相韩，今被始皇所灭，愿破千金求志士，怎奈未得其人。今遇壮士，大"
+        },
+        {
+          "character": "张良",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "遂吾愿。又蒙相助，感恩非浅。待某四出，打探暴君消息。若有机缘，再请壮"
+        },
+        {
+          "character": "张良",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "士相助，效荆轲之行，一举成功，除此强暴。"
         },
         {
           "character": "苍海公",
@@ -802,7 +1039,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "今日里得壮士能除强暴，\n但愿得报深仇方显英豪。"
+          "text": "今日里得壮士能除强暴，"
+        },
+        {
+          "character": "张良",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "但愿得报深仇方显英豪。"
         },
         {
           "character": null,
@@ -900,7 +1144,17 @@
         "singing_ratio": 0.074,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.074,
+        0.2,
+        0.7765,
+        0.0235,
+        0.5833,
+        6,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 4,
@@ -985,7 +1239,17 @@
         "singing_ratio": 0.25,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.25,
+        0.2,
+        0.8,
+        0.0,
+        0.75,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 5,
@@ -1015,14 +1279,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "哎呀妙哇！闻听百姓言道：秦始皇东巡泰山，来此驻驿。我正要扫除此贼；不\n料他自行前来送死。真真快乐人也！"
+          "text": "哎呀妙哇！闻听百姓言道：秦始皇东巡泰山，来此驻驿。我正要扫除此贼；不"
+        },
+        {
+          "character": "张良",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "料他自行前来送死。真真快乐人也！"
         },
         {
           "character": "张良",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "某正想起义师共伐无道，\n谁料他入罗网插翅难逃。"
+          "text": "某正想起义师共伐无道，"
+        },
+        {
+          "character": "张良",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "谁料他入罗网插翅难逃。"
         },
         {
           "character": null,
@@ -1127,49 +1405,217 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "张子房撩衣襟将身拜倒，\n尊一声苍海公细听根苗：\n行强暴众黎民受尽煎熬。\n空怀那报国志昼夜心焦。\n为天下除此贼我恨方消。"
+          "text": "张子房撩衣襟将身拜倒，"
         },
         {
-          "character": "秦始皇灭六国冤仇非小、只恨我是书生身微力小、我要把好乾坤重新构造、苍海公",
+          "character": "张良",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "尊一声子房兄且宽怀抱，\n你急速整行装事先奔逃。\n也免得事不成连累英豪。"
+          "text": "尊一声苍海公细听根苗："
         },
         {
-          "character": "但愿某此一去大功成了、张良",
+          "character": "张良",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "苍海公说此话胸襟忒小，\n自古道共患难方见故交。"
+          "text": "行强暴众黎民受尽煎熬。"
+        },
+        {
+          "character": "张良",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "空怀那报国志昼夜心焦。"
+        },
+        {
+          "character": "张良",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "为天下除此贼我恨方消。"
+        },
+        {
+          "character": "张良",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "秦始皇灭六国冤仇非小"
+        },
+        {
+          "character": "张良",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "只恨我是书生身微力小"
+        },
+        {
+          "character": "张良",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我要把好乾坤重新构造"
         },
         {
           "character": "苍海公",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "并非是我黎焯胸襟忒小，\n我要想留一人恢复根苗。\n为什么你偏要同去一遭？\n莫把这弥天恨抛在九霄。"
+          "text": "尊一声子房兄且宽怀抱，"
         },
         {
-          "character": "要知道我此去凶多吉少、倘若是我此去事机不妙、张良",
+          "character": "苍海公",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "我若是昧良心忍辱不报，\n纵死在九泉下万劫难超。\n倒叫我张子房珠泪双抛。"
+          "text": "你急速整行装事先奔逃。"
         },
         {
-          "character": "眼见你此一去凶多吉少、苍海公",
+          "character": "苍海公",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "子房兄好男儿堂堂仪表，\n为何作儿女态痛哭嚎啕？\n那时节大英雄怒气方消。"
+          "text": "也免得事不成连累英豪。"
         },
         {
-          "character": "但愿得博浪沙除了强暴、张良",
+          "character": "苍海公",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "既然是苍海公把话细表，\n我只得整行装先事脱逃。\n但愿你此一去成就功劳。"
+          "text": "但愿某此一去大功成了"
+        },
+        {
+          "character": "张良",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "苍海公说此话胸襟忒小，"
+        },
+        {
+          "character": "张良",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "自古道共患难方见故交。"
+        },
+        {
+          "character": "苍海公",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "并非是我黎焯胸襟忒小，"
+        },
+        {
+          "character": "苍海公",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我要想留一人恢复根苗。"
+        },
+        {
+          "character": "苍海公",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "为什么你偏要同去一遭？"
+        },
+        {
+          "character": "苍海公",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "莫把这弥天恨抛在九霄。"
+        },
+        {
+          "character": "苍海公",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "要知道我此去凶多吉少"
+        },
+        {
+          "character": "苍海公",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "倘若是我此去事机不妙"
+        },
+        {
+          "character": "张良",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我若是昧良心忍辱不报，"
+        },
+        {
+          "character": "张良",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "纵死在九泉下万劫难超。"
+        },
+        {
+          "character": "张良",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "倒叫我张子房珠泪双抛。"
+        },
+        {
+          "character": "张良",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "眼见你此一去凶多吉少"
+        },
+        {
+          "character": "苍海公",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "子房兄好男儿堂堂仪表，"
+        },
+        {
+          "character": "苍海公",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "为何作儿女态痛哭嚎啕？"
+        },
+        {
+          "character": "苍海公",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "那时节大英雄怒气方消。"
+        },
+        {
+          "character": "苍海公",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "但愿得博浪沙除了强暴"
+        },
+        {
+          "character": "张良",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "既然是苍海公把话细表，"
+        },
+        {
+          "character": "张良",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我只得整行装先事脱逃。"
+        },
+        {
+          "character": "张良",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "但愿你此一去成就功劳。"
         },
         {
           "character": null,
@@ -1183,7 +1629,21 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "听说是秦始皇位离大宝，\n天助我成此功喜煞英豪。\n管叫他在椎下性命难逃！"
+          "text": "听说是秦始皇位离大宝，"
+        },
+        {
+          "character": "苍海公",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "天助我成此功喜煞英豪。"
+        },
+        {
+          "character": "苍海公",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "管叫他在椎下性命难逃！"
         },
         {
           "character": null,
@@ -1213,7 +1673,17 @@
         "singing_ratio": 0.474,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.474,
+        0.74,
+        0.24,
+        0.02,
+        0.3469,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 6,
@@ -1235,7 +1705,21 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "百姓们不知晓朕即国家，\n朕立意除净那叛逆爪牙。\n张姓冠李姓戴莫要喧哗。"
+          "text": "百姓们不知晓朕即国家，"
+        },
+        {
+          "character": "秦始皇",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "朕立意除净那叛逆爪牙。"
+        },
+        {
+          "character": "秦始皇",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "张姓冠李姓戴莫要喧哗。"
         },
         {
           "character": null,
@@ -1249,7 +1733,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "来此已是博浪沙。待某登高一望！\n（四太监、四御林军、二车夫引假秦始皇同上，秦始皇上。苍海公击毙假秦始皇。四御林军同擒苍海公，众"
+          "text": "来此已是博浪沙。待某登高一望！"
+        },
+        {
+          "character": "苍海公",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "（四太监、四御林军、二车夫引假秦始皇同上，秦始皇上。苍海公击毙假秦始皇。四御林军同擒苍海公，众"
         }
       ],
       "interactions": [
@@ -1267,7 +1758,17 @@
         "singing_ratio": 0.5,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.5,
+        0.6,
+        0.4,
+        0.0,
+        0.25,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 7,
@@ -1332,7 +1833,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "行刺不成遭捆绑，\n恨未击死秦始皇。"
+          "text": "行刺不成遭捆绑，"
+        },
+        {
+          "character": "苍海公",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "恨未击死秦始皇。"
         },
         {
           "character": "秦始皇",
@@ -1346,7 +1854,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "想你这无道的昏君，人人痛恨，都恨不能食尔之肉。我为民除害，又何必用人\n指使？快快将我杀死，休得多言！"
+          "text": "想你这无道的昏君，人人痛恨，都恨不能食尔之肉。我为民除害，又何必用人"
+        },
+        {
+          "character": "苍海公",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "指使？快快将我杀死，休得多言！"
         },
         {
           "character": "秦始皇",
@@ -1374,7 +1889,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "此人乃一勇之夫，必有人暗中主使。\n左右，与朕大搜十日！"
+          "text": "此人乃一勇之夫，必有人暗中主使。"
+        },
+        {
+          "character": "秦始皇",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "左右，与朕大搜十日！"
         },
         {
           "character": "四御林军",
@@ -1424,7 +1946,17 @@
         "singing_ratio": 0.091,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.091,
+        0.1429,
+        0.7857,
+        0.0714,
+        0.7692,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 8,
@@ -1457,7 +1989,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 9,
@@ -1501,7 +2043,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "某、项伯。大楚将军项燕之后。只因始皇无道，吞并六国。某与族兄项梁立志\n恢复楚邦，只恨时机未至。因此隐居下邳，以待时来。正是："
+          "text": "某、项伯。大楚将军项燕之后。只因始皇无道，吞并六国。某与族兄项梁立志"
+        },
+        {
+          "character": "项伯",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "恢复楚邦，只恨时机未至。因此隐居下邳，以待时来。正是："
         },
         {
           "character": "项伯",
@@ -1564,7 +2113,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "说我出迎。\n故友在哪里？故友在——原来是——请进。请坐。子房兄面带惊慌，为了何事？"
+          "text": "说我出迎。"
+        },
+        {
+          "character": "项伯",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "故友在哪里？故友在——原来是——请进。请坐。子房兄面带惊慌，为了何事？"
         },
         {
           "character": "张良",
@@ -1599,14 +2155,35 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "尊公有所不知，是我图复韩仇，遣力士苍海公刺秦于博浪沙。不想昏君多诈，\n误中副车，苍海公被擒，不屈而死。昏君大索天下，捉拿主使之人，某无处立\n足，故而来投兄长。"
+          "text": "尊公有所不知，是我图复韩仇，遣力士苍海公刺秦于博浪沙。不想昏君多诈，"
+        },
+        {
+          "character": "张良",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "误中副车，苍海公被擒，不屈而死。昏君大索天下，捉拿主使之人，某无处立"
+        },
+        {
+          "character": "张良",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "足，故而来投兄长。"
         },
         {
           "character": "项伯",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "子房在此安心居住，料昏君耳目所不能及。俟有机缘，当与足下共起义师，以\n伐无道。"
+          "text": "子房在此安心居住，料昏君耳目所不能及。俟有机缘，当与足下共起义师，以"
+        },
+        {
+          "character": "项伯",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "伐无道。"
         },
         {
           "character": "张良",
@@ -1627,7 +2204,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "子房兄且宽心暂免惆怅，\n时运到起义师共灭昏王。"
+          "text": "子房兄且宽心暂免惆怅，"
+        },
+        {
+          "character": "项伯",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "时运到起义师共灭昏王。"
         },
         {
           "character": "张良",
@@ -1641,7 +2225,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "我深感项伯兄全人志向，\n愧无志空负了七尺昂藏。"
+          "text": "我深感项伯兄全人志向，"
+        },
+        {
+          "character": "张良",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "愧无志空负了七尺昂藏。"
         },
         {
           "character": "项伯、张良",
@@ -1691,7 +2282,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.1724,
+        0.7241,
+        0.1034,
+        0.4643,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 10,
@@ -1712,28 +2313,63 @@
           "line_type": "吹腔",
           "musical_style": null,
           "style_family": null,
-          "text": "滚滚红尘埋没了多少豪杰，\n叹人生百年生死离别。"
-        },
-        {
-          "character": "黄石公",
-          "line_type": "念",
-          "musical_style": null,
-          "style_family": null,
-          "text": "有人来骂我，装作听不见。有人来打我，叫他打几拳。\n为人灭却心头火，方是长生不老仙。"
-        },
-        {
-          "character": "黄石公",
-          "line_type": "白",
-          "musical_style": null,
-          "style_family": null,
-          "text": "我乃黄石公是也。只因韩国张良抱负奇才，颇有大志。日后兴旺汉室天下，尽\n在此子身上。我不免去往下邳点化于他，传他兵书三卷，日后扶保真主一统天\n下。就此走走也！"
+          "text": "滚滚红尘埋没了多少豪杰，"
         },
         {
           "character": "黄石公",
           "line_type": "吹腔",
           "musical_style": null,
           "style_family": null,
-          "text": "阅不尽沧海桑田令人悽绝，\n任艰难磨折道心似铁。"
+          "text": "叹人生百年生死离别。"
+        },
+        {
+          "character": "黄石公",
+          "line_type": "念",
+          "musical_style": null,
+          "style_family": null,
+          "text": "有人来骂我，装作听不见。有人来打我，叫他打几拳。"
+        },
+        {
+          "character": "黄石公",
+          "line_type": "念",
+          "musical_style": null,
+          "style_family": null,
+          "text": "为人灭却心头火，方是长生不老仙。"
+        },
+        {
+          "character": "黄石公",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我乃黄石公是也。只因韩国张良抱负奇才，颇有大志。日后兴旺汉室天下，尽"
+        },
+        {
+          "character": "黄石公",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "在此子身上。我不免去往下邳点化于他，传他兵书三卷，日后扶保真主一统天"
+        },
+        {
+          "character": "黄石公",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "下。就此走走也！"
+        },
+        {
+          "character": "黄石公",
+          "line_type": "吹腔",
+          "musical_style": null,
+          "style_family": null,
+          "text": "阅不尽沧海桑田令人悽绝，"
+        },
+        {
+          "character": "黄石公",
+          "line_type": "吹腔",
+          "musical_style": null,
+          "style_family": null,
+          "text": "任艰难磨折道心似铁。"
         },
         {
           "character": null,
@@ -1751,7 +2387,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.4444,
+        0.3333,
+        0.2222,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 11,
@@ -1774,21 +2420,49 @@
           "line_type": "吹腔",
           "musical_style": null,
           "style_family": null,
-          "text": "某自从刺秦事未谐，\n隐伏下邳且待来时。"
+          "text": "某自从刺秦事未谐，"
+        },
+        {
+          "character": "张良",
+          "line_type": "吹腔",
+          "musical_style": null,
+          "style_family": null,
+          "text": "隐伏下邳且待来时。"
         },
         {
           "character": "张良",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "咳！某自来下邳，隐姓埋名，以待时机。怎奈久而不逢，心中烦闷。闻得下邳\n城外有一圯桥，风景甚佳。我不免前去游玩一番便了！"
+          "text": "咳！某自来下邳，隐姓埋名，以待时机。怎奈久而不逢，心中烦闷。闻得下邳"
+        },
+        {
+          "character": "张良",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "城外有一圯桥，风景甚佳。我不免前去游玩一番便了！"
         },
         {
           "character": "张良",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "闲无事信步出郊外，\n到圯桥观风景且散愁怀。\n叹只叹好江山秦人主宰！"
+          "text": "闲无事信步出郊外，"
+        },
+        {
+          "character": "张良",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "到圯桥观风景且散愁怀。"
+        },
+        {
+          "character": "张良",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "叹只叹好江山秦人主宰！"
         },
         {
           "character": null,
@@ -1833,7 +2507,14 @@
           "text": "恤老怜贫理应该。"
         },
         {
-          "character": "在泥中忙取履曲膝下拜、黄石公",
+          "character": "张良",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "在泥中忙取履曲膝下拜"
+        },
+        {
+          "character": "黄石公",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -1887,7 +2568,17 @@
         "singing_ratio": 0.231,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.231,
+        0.5625,
+        0.4375,
+        0.0,
+        0.3333,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 12,
@@ -1987,7 +2678,17 @@
         "singing_ratio": 0.4,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.4,
+        0.5,
+        0.5,
+        0.0,
+        0.8,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 13,
@@ -2008,28 +2709,63 @@
           "line_type": "吹腔",
           "musical_style": null,
           "style_family": null,
-          "text": "滚滚红尘埋没了多少豪杰，\n叹人生百年生死离别。"
-        },
-        {
-          "character": "黄石公",
-          "line_type": "念",
-          "musical_style": null,
-          "style_family": null,
-          "text": "有人来骂我，装作听不见。有人来打我，叫他打几拳。\n为人灭却心头火，方是长生不老仙。"
-        },
-        {
-          "character": "黄石公",
-          "line_type": "白",
-          "musical_style": null,
-          "style_family": null,
-          "text": "我乃黄石公是也。只因韩国张良抱负奇才，颇有大志。日后兴旺汉室天下，尽\n在此子身上。我不免去往下邳点化于他，传他兵书三卷，日后扶保真主一统天\n下。就此走走也！"
+          "text": "滚滚红尘埋没了多少豪杰，"
         },
         {
           "character": "黄石公",
           "line_type": "吹腔",
           "musical_style": null,
           "style_family": null,
-          "text": "阅不尽沧海桑田令人悽绝，\n任艰难磨折道心似铁。"
+          "text": "叹人生百年生死离别。"
+        },
+        {
+          "character": "黄石公",
+          "line_type": "念",
+          "musical_style": null,
+          "style_family": null,
+          "text": "有人来骂我，装作听不见。有人来打我，叫他打几拳。"
+        },
+        {
+          "character": "黄石公",
+          "line_type": "念",
+          "musical_style": null,
+          "style_family": null,
+          "text": "为人灭却心头火，方是长生不老仙。"
+        },
+        {
+          "character": "黄石公",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我乃黄石公是也。只因韩国张良抱负奇才，颇有大志。日后兴旺汉室天下，尽"
+        },
+        {
+          "character": "黄石公",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "在此子身上。我不免去往下邳点化于他，传他兵书三卷，日后扶保真主一统天"
+        },
+        {
+          "character": "黄石公",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "下。就此走走也！"
+        },
+        {
+          "character": "黄石公",
+          "line_type": "吹腔",
+          "musical_style": null,
+          "style_family": null,
+          "text": "阅不尽沧海桑田令人悽绝，"
+        },
+        {
+          "character": "黄石公",
+          "line_type": "吹腔",
+          "musical_style": null,
+          "style_family": null,
+          "text": "任艰难磨折道心似铁。"
         },
         {
           "character": null,
@@ -2058,7 +2794,17 @@
         "singing_ratio": 0.333,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.333,
+        0.4444,
+        0.3333,
+        0.2222,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 14,
@@ -2263,7 +3009,17 @@
         "singing_ratio": 0.333,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.333,
+        0.3158,
+        0.6842,
+        0.0,
+        0.4444,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 15,
@@ -2504,7 +3260,17 @@
         "singing_ratio": 0.062,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.062,
+        0.1053,
+        0.8421,
+        0.0526,
+        0.7778,
+        5,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 16,
@@ -2720,7 +3486,17 @@
         "singing_ratio": 0.412,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.412,
+        0.4444,
+        0.5556,
+        0.0,
+        0.9412,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 17,
@@ -2906,7 +3682,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        4,
+        0.0,
+        0.0
+      ]
     }
   ]
 }

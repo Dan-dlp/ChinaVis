@@ -192,7 +192,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "小生，陈慥，字季常。自从在东坡雪堂，得遇佛印禅师，谬结同心之契，常攀\n出世之谈。欲仗大士因缘，消我前生业债。茫茫苦海，堕落堪虞；泛泛慈航，\n皈依颇切。怎奈……"
+          "text": "小生，陈慥，字季常。自从在东坡雪堂，得遇佛印禅师，谬结同心之契，常攀"
+        },
+        {
+          "character": "陈慥",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "出世之谈。欲仗大士因缘，消我前生业债。茫茫苦海，堕落堪虞；泛泛慈航，"
+        },
+        {
+          "character": "陈慥",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "皈依颇切。怎奈……"
         },
         {
           "character": null,
@@ -206,7 +220,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "怎奈妻房柳氏，生性蹊跷，遽难化悔。也罢，我只得甘心宁耐。今巳辰牌时分，\n待我去看娘子起来不曾。"
+          "text": "怎奈妻房柳氏，生性蹊跷，遽难化悔。也罢，我只得甘心宁耐。今巳辰牌时分，"
+        },
+        {
+          "character": "陈慥",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "待我去看娘子起来不曾。"
         },
         {
           "character": null,
@@ -829,7 +850,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "原来是个老仆。\n陈郎，你去看来。"
+          "text": "原来是个老仆。"
+        },
+        {
+          "character": "柳氏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "陈郎，你去看来。"
         },
         {
           "character": null,
@@ -1011,7 +1039,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "你既自招承，咳，奈家无刑具，也罢，你到间壁李大嫂家，将她打李大伯的竹\n板，借来一用。"
+          "text": "你既自招承，咳，奈家无刑具，也罢，你到间壁李大嫂家，将她打李大伯的竹"
+        },
+        {
+          "character": "柳氏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "板，借来一用。"
         },
         {
           "character": null,
@@ -1067,7 +1102,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "呀，也罢，我看你书房中，有一根青藜杖，倒也颇坚实，尽够你受用的了。快\n去取来。"
+          "text": "呀，也罢，我看你书房中，有一根青藜杖，倒也颇坚实，尽够你受用的了。快"
+        },
+        {
+          "character": "柳氏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "去取来。"
         },
         {
           "character": null,
@@ -1298,7 +1340,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "苍头，你回去多多拜上你家老爷，说我家相公，久已受戒，永不见妇人之面。\n休得引乱他心，有伤雅道。"
+          "text": "苍头，你回去多多拜上你家老爷，说我家相公，久已受戒，永不见妇人之面。"
+        },
+        {
+          "character": "柳氏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "休得引乱他心，有伤雅道。"
         },
         {
           "character": "苏苍头",
@@ -1336,6 +1385,13 @@
           "text": "咳，我也不信。闻得那苏学士呵——"
         },
         {
+          "character": "柳氏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "你杨花心性浑无定"
+        },
+        {
           "character": null,
           "line_type": "stage_direction",
           "musical_style": null,
@@ -1350,7 +1406,7 @@
           "text": "这来人言语难凭。"
         },
         {
-          "character": "你杨花心性浑无定、陈慥",
+          "character": "陈慥",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -1609,7 +1665,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.9606,
+        0.0394,
+        0.746,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -3170,7 +3236,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0053,
+        0.9628,
+        0.0319,
+        0.9412,
+        7,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -3197,7 +3273,7 @@
           "text": "（柳氏转场坐。）"
         },
         {
-          "character": null,
+          "character": "柳氏持汗巾",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -5307,7 +5383,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0095,
+        0.9858,
+        0.0047,
+        0.8286,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 4,
@@ -5356,7 +5442,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "小生，陈慥，字季常。自从在东坡雪堂，得遇佛印禅师，谬结同心之契，常攀\n出世之谈。欲仗大士因缘，消我前生业债。茫茫苦海，堕落堪虞；泛泛慈航，\n皈依颇切。怎奈……"
+          "text": "小生，陈慥，字季常。自从在东坡雪堂，得遇佛印禅师，谬结同心之契，常攀"
+        },
+        {
+          "character": "陈慥",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "出世之谈。欲仗大士因缘，消我前生业债。茫茫苦海，堕落堪虞；泛泛慈航，"
+        },
+        {
+          "character": "陈慥",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "皈依颇切。怎奈……"
         },
         {
           "character": null,
@@ -5370,7 +5470,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "怎奈妻房柳氏，生性蹊跷，遽难化悔。也罢，我只得甘心宁耐。今巳辰牌时分，\n待我去看娘子起来不曾。"
+          "text": "怎奈妻房柳氏，生性蹊跷，遽难化悔。也罢，我只得甘心宁耐。今巳辰牌时分，"
+        },
+        {
+          "character": "陈慥",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "待我去看娘子起来不曾。"
         },
         {
           "character": null,
@@ -5993,7 +6100,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "原来是个老仆。\n陈郎，你去看来。"
+          "text": "原来是个老仆。"
+        },
+        {
+          "character": "柳氏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "陈郎，你去看来。"
         },
         {
           "character": null,
@@ -6175,7 +6289,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "你既自招承，咳，奈家无刑具，也罢，你到间壁李大嫂家，将她打李大伯的竹\n板，借来一用。"
+          "text": "你既自招承，咳，奈家无刑具，也罢，你到间壁李大嫂家，将她打李大伯的竹"
+        },
+        {
+          "character": "柳氏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "板，借来一用。"
         },
         {
           "character": null,
@@ -6231,7 +6352,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "呀，也罢，我看你书房中，有一根青藜杖，倒也颇坚实，尽够你受用的了。快\n去取来。"
+          "text": "呀，也罢，我看你书房中，有一根青藜杖，倒也颇坚实，尽够你受用的了。快"
+        },
+        {
+          "character": "柳氏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "去取来。"
         },
         {
           "character": null,
@@ -6462,7 +6590,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "苍头，你回去多多拜上你家老爷，说我家相公，久已受戒，永不见妇人之面。\n休得引乱他心，有伤雅道。"
+          "text": "苍头，你回去多多拜上你家老爷，说我家相公，久已受戒，永不见妇人之面。"
+        },
+        {
+          "character": "柳氏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "休得引乱他心，有伤雅道。"
         },
         {
           "character": "苏苍头",
@@ -6500,6 +6635,13 @@
           "text": "咳，我也不信。闻得那苏学士呵——"
         },
         {
+          "character": "柳氏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "你杨花心性浑无定"
+        },
+        {
           "character": null,
           "line_type": "stage_direction",
           "musical_style": null,
@@ -6514,7 +6656,7 @@
           "text": "这来人言语难凭。"
         },
         {
-          "character": "你杨花心性浑无定、陈慥",
+          "character": "陈慥",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -6756,14 +6898,35 @@
           "line_type": "念",
           "musical_style": null,
           "style_family": null,
-          "text": "凝眼望功名千里，云台高筑，世事浑如花上露。人生一似风前烛，问一年几见\n月当头，杯频覆。"
+          "text": "凝眼望功名千里，云台高筑，世事浑如花上露。人生一似风前烛，问一年几见"
+        },
+        {
+          "character": "佛印",
+          "line_type": "念",
+          "musical_style": null,
+          "style_family": null,
+          "text": "月当头，杯频覆。"
         },
         {
           "character": "佛印",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "我，佛印。适才东坡见召，只得前去走遭。转过绿水红桥，来到诗书门第。此\n间已是。\n有人么？"
+          "text": "我，佛印。适才东坡见召，只得前去走遭。转过绿水红桥，来到诗书门第。此"
+        },
+        {
+          "character": "佛印",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "间已是。"
+        },
+        {
+          "character": "佛印",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "有人么？"
         },
         {
           "character": null,
@@ -6959,7 +7122,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "呵唷，这寿生经划到我面上来了。哈哈。当不起。只怕还是学士公赐顾，才得\n赏识哩。"
+          "text": "呵唷，这寿生经划到我面上来了。哈哈。当不起。只怕还是学士公赐顾，才得"
+        },
+        {
+          "character": "佛印",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "赏识哩。"
         },
         {
           "character": "苏轼",
@@ -6994,14 +7164,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "去人不知就里，说有琴操在坐，他妻子捻酸起来，教他自招，若有妓，回去要\n打藜杖一百。"
+          "text": "去人不知就里，说有琴操在坐，他妻子捻酸起来，教他自招，若有妓，回去要"
+        },
+        {
+          "character": "苏轼",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "打藜杖一百。"
         },
         {
           "character": "佛印",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "呵呀，好厉害。我想学士公处置土豪，满杖不过四十。今要打藜杖一百，哎呀，\n哎呀，好厉害的罚。"
+          "text": "呵呀，好厉害。我想学士公处置土豪，满杖不过四十。今要打藜杖一百，哎呀，"
+        },
+        {
+          "character": "佛印",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "哎呀，好厉害的罚。"
         },
         {
           "character": "琴操",
@@ -7015,14 +7199,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "这倒不然。官法处置，或者杖责过了，其枷可以恕免。若是他夫人的枷号，只\n怕免不了呀。"
+          "text": "这倒不然。官法处置，或者杖责过了，其枷可以恕免。若是他夫人的枷号，只"
+        },
+        {
+          "character": "佛印",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "怕免不了呀。"
         },
         {
           "character": "苏轼",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "又来取笑了。\n来，再邀。"
+          "text": "又来取笑了。"
+        },
+        {
+          "character": "苏轼",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来，再邀。"
         },
         {
           "character": null,
@@ -7043,7 +7241,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "咦，来了。\n吓，陈相公，老爷等坏哉。"
+          "text": "咦，来了。"
+        },
+        {
+          "character": "院子",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "吓，陈相公，老爷等坏哉。"
         },
         {
           "character": "陈慥",
@@ -7335,7 +7540,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0204,
+        0.9286,
+        0.051,
+        0.7641,
+        9,
+        0.0,
+        0.0
+      ]
     }
   ]
 }

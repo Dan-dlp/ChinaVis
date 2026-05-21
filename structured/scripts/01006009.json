@@ -123,7 +123,14 @@
           "line_type": "西皮快板",
           "musical_style": "西皮快板",
           "style_family": "西皮",
-          "text": "豪杰我一怒撇家乡。\n要害三泰全家亡。"
+          "text": "豪杰我一怒撇家乡。"
+        },
+        {
+          "character": "窦尔敦",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "要害三泰全家亡。"
         },
         {
           "character": null,
@@ -179,7 +186,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "哦，想当年某家霸占河间府的时节，那些保镖达官，在窦某手中，逃脱性命不\n少，今日闻听窦某在此为了寨主，上山拜望，也是他们保镖的规矩。"
+          "text": "哦，想当年某家霸占河间府的时节，那些保镖达官，在窦某手中，逃脱性命不"
+        },
+        {
+          "character": "窦尔敦",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "少，今日闻听窦某在此为了寨主，上山拜望，也是他们保镖的规矩。"
         },
         {
           "character": null,
@@ -214,7 +228,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "呈上来。\n“浙江绍兴府镖客黄。”\n啊，他人有多大年纪？"
+          "text": "呈上来。"
+        },
+        {
+          "character": "窦尔敦",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "“浙江绍兴府镖客黄。”"
+        },
+        {
+          "character": "窦尔敦",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "啊，他人有多大年纪？"
         },
         {
           "character": "报子",
@@ -242,7 +270,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "看在贤弟份上，赏他一个全脸。\n喽罗的摆队相迎。"
+          "text": "看在贤弟份上，赏他一个全脸。"
+        },
+        {
+          "character": "窦尔敦",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "喽罗的摆队相迎。"
         },
         {
           "character": "报子",
@@ -298,7 +333,17 @@
           "西皮快板",
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.067,
+        0.1429,
+        0.8571,
+        0.0,
+        0.65,
+        4,
+        0.1429,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -376,7 +421,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -399,7 +454,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "吓，镖客，这就是寨主。\n寨主，这就是镖客。"
+          "text": "吓，镖客，这就是寨主。"
+        },
+        {
+          "character": "大头目",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "寨主，这就是镖客。"
         },
         {
           "character": "窦尔敦、黄天霸",
@@ -467,7 +529,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.8,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 4,
@@ -689,7 +761,35 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "寨主、众位英雄听禀。愚下保镖，路过马良关，观见一骑好马，此马生来头上\n有角，肋下生鳞，左右红光两朵，名为日月骕骦。金鞍玉缛，黄罗丝缰，赤金\n坠鐙，对对成双，登山越岭，如走平地，漫江过海，四蹄如飞，日行千里见日，\n夜走八百不明，你我绿林，若有能人，将此马盗来，可算得骑虎夺脆，鳌里\n夺尊，天下第一条英雄好汉！"
+          "text": "寨主、众位英雄听禀。愚下保镖，路过马良关，观见一骑好马，此马生来头上"
+        },
+        {
+          "character": "黄天霸",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "有角，肋下生鳞，左右红光两朵，名为日月骕骦。金鞍玉缛，黄罗丝缰，赤金"
+        },
+        {
+          "character": "黄天霸",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "坠鐙，对对成双，登山越岭，如走平地，漫江过海，四蹄如飞，日行千里见日，"
+        },
+        {
+          "character": "黄天霸",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "夜走八百不明，你我绿林，若有能人，将此马盗来，可算得骑虎夺脆，鳌里"
+        },
+        {
+          "character": "黄天霸",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "夺尊，天下第一条英雄好汉！"
         },
         {
           "character": "窦尔敦",
@@ -710,31 +810,80 @@
           "line_type": "西皮快板",
           "musical_style": "西皮快板",
           "style_family": "西皮",
-          "text": "观见此马心喜欢。\n不能到手也枉然。"
+          "text": "观见此马心喜欢。"
         },
         {
-          "character": "空有大胆的英雄汉、窦尔敦",
+          "character": "黄天霸",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "不能到手也枉然。"
+        },
+        {
+          "character": "黄天霸",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "空有大胆的英雄汉"
+        },
+        {
+          "character": "窦尔敦",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
           "text": "好马吓，好马吓。"
         },
         {
-          "character": "空有大胆的英雄汉、窦尔敦",
+          "character": "窦尔敦",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "空有大胆的英雄汉"
+        },
+        {
+          "character": "窦尔敦",
           "line_type": "西皮快板",
           "musical_style": "西皮快板",
           "style_family": "西皮",
-          "text": "忽听镖客讲一番，\n此马可算兽中元。\n窦某可算胆包天。"
+          "text": "忽听镖客讲一番，"
         },
         {
-          "character": "空有大胆的英雄汉、窦尔敦",
+          "character": "窦尔敦",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "此马可算兽中元。"
+        },
+        {
+          "character": "窦尔敦",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "窦某可算胆包天。"
+        },
+        {
+          "character": "窦尔敦",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "空有大胆的英雄汉"
+        },
+        {
+          "character": "窦尔敦",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
           "text": "镖客，此马出在什么地面？"
         },
         {
-          "character": "若论大胆的英雄汉、黄天霸",
+          "character": "窦尔敦",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "若论大胆的英雄汉"
+        },
+        {
+          "character": "黄天霸",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -766,7 +915,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "且慢，此马的主人，日间有三百名家丁，夜晚有五百校手，不分昼夜，轮流看\n守此马，寨主此去，岂能得盗。"
+          "text": "且慢，此马的主人，日间有三百名家丁，夜晚有五百校手，不分昼夜，轮流看"
+        },
+        {
+          "character": "黄天霸",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "守此马，寨主此去，岂能得盗。"
         },
         {
           "character": "窦尔敦",
@@ -801,7 +957,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "今有太尉梁千岁，奉旨口外兴围，圣上恩赐御马，名为日月追风千里驹。俺窦\n某施展本领，将御马盗回。何况那大户人家，日间有三百名家丁，夜晚有五百\n校手，哪放在窦某心上！"
+          "text": "今有太尉梁千岁，奉旨口外兴围，圣上恩赐御马，名为日月追风千里驹。俺窦"
+        },
+        {
+          "character": "窦尔敦",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "某施展本领，将御马盗回。何况那大户人家，日间有三百名家丁，夜晚有五百"
+        },
+        {
+          "character": "窦尔敦",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "校手，哪放在窦某心上！"
         },
         {
           "character": "黄天霸",
@@ -822,14 +992,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "既是梁千岁奉旨口外兴围，必然是兵多将勇，如同铜墙铁壁一般，寨主慢说盗\n马，连马面也是不能得见。"
+          "text": "既是梁千岁奉旨口外兴围，必然是兵多将勇，如同铜墙铁壁一般，寨主慢说盗"
+        },
+        {
+          "character": "黄天霸",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "马，连马面也是不能得见。"
         },
         {
           "character": "窦尔敦",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "谅你也是不信。\n大贤弟。"
+          "text": "谅你也是不信。"
+        },
+        {
+          "character": "窦尔敦",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "大贤弟。"
         },
         {
           "character": null,
@@ -906,7 +1090,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "哦，呵呀，果然是金鞍玉辔，黄罗丝缰，赤金坠镫，对对成双。见马如见主，\n愿太尉梁千岁千千岁！"
+          "text": "哦，呵呀，果然是金鞍玉辔，黄罗丝缰，赤金坠镫，对对成双。见马如见主，"
+        },
+        {
+          "character": "黄天霸",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "愿太尉梁千岁千千岁！"
         },
         {
           "character": "窦尔敦",
@@ -1025,7 +1216,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "那梁千岁，失落御马，必差各府州县画影图形，找寻御马的下落，寨主不能出\n外乘骑，岂不是大大的废物了！"
+          "text": "那梁千岁，失落御马，必差各府州县画影图形，找寻御马的下落，寨主不能出"
+        },
+        {
+          "character": "黄天霸",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "外乘骑，岂不是大大的废物了！"
         },
         {
           "character": "窦尔敦",
@@ -1151,7 +1349,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "吓，寨主，有道是人死不记仇。何不学个宽宏大量。将御马献出，救了他全家\n的性命，就是那三泰爷死在九泉，也感你的大恩大德。"
+          "text": "吓，寨主，有道是人死不记仇。何不学个宽宏大量。将御马献出，救了他全家"
+        },
+        {
+          "character": "黄天霸",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "的性命，就是那三泰爷死在九泉，也感你的大恩大德。"
         },
         {
           "character": "窦尔敦",
@@ -1214,21 +1419,63 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "哇，呀呀！天霸，你好大的胆吓。天霸，我与你父结下山海冤仇，这“报仇”\n二字，应在尔的头上。"
-        },
-        {
-          "character": "黄天霸",
-          "line_type": "白",
-          "musical_style": null,
-          "style_family": null,
-          "text": "窦寨主，你与我父怎样结下冤仇？你若说得情通理顺，还则罢了；你若说得情\n推理亏，窦寨主，你算不得英雄好汉。"
+          "text": "哇，呀呀！天霸，你好大的胆吓。天霸，我与你父结下山海冤仇，这“报仇”"
         },
         {
           "character": "窦尔敦",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "天霸听了。想当初你父命计全，与俺指镖借银，在黄土冈，被某家将他羞辱一\n场。他在你父跟前。搬动是非，我二人在李家店比武争论。他不胜某虎头双钩，\n他就暗发了甩头一子。也是某一时大意，未曾提防，被他扳倒尘埃，众家英\n雄，纷纷言讲。道俺姓窦的，正在青春，不胜那五旬以外的老儿。那时某家弃\n脱了河间，求在这连环套。话也讲完，谅尔难逃公道。"
+          "text": "二字，应在尔的头上。"
+        },
+        {
+          "character": "黄天霸",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "窦寨主，你与我父怎样结下冤仇？你若说得情通理顺，还则罢了；你若说得情"
+        },
+        {
+          "character": "黄天霸",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "推理亏，窦寨主，你算不得英雄好汉。"
+        },
+        {
+          "character": "窦尔敦",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "天霸听了。想当初你父命计全，与俺指镖借银，在黄土冈，被某家将他羞辱一"
+        },
+        {
+          "character": "窦尔敦",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "场。他在你父跟前。搬动是非，我二人在李家店比武争论。他不胜某虎头双钩，"
+        },
+        {
+          "character": "窦尔敦",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "他就暗发了甩头一子。也是某一时大意，未曾提防，被他扳倒尘埃，众家英"
+        },
+        {
+          "character": "窦尔敦",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "雄，纷纷言讲。道俺姓窦的，正在青春，不胜那五旬以外的老儿。那时某家弃"
+        },
+        {
+          "character": "窦尔敦",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "脱了河间，求在这连环套。话也讲完，谅尔难逃公道。"
         },
         {
           "character": "黄天霸",
@@ -1347,14 +1594,35 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "着着。想我父当初指镖借银，亦非是为己，只为搭救忠良，想你我为绿林者，\n敬的是忠臣孝子义仆节妇，恨的是赃官污吏恶棍土豪。你就该拔刀相助，你反\n助强为恶，窦寨主，你就算不得英雄好汉。"
+          "text": "着着。想我父当初指镖借银，亦非是为己，只为搭救忠良，想你我为绿林者，"
+        },
+        {
+          "character": "黄天霸",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "敬的是忠臣孝子义仆节妇，恨的是赃官污吏恶棍土豪。你就该拔刀相助，你反"
+        },
+        {
+          "character": "黄天霸",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "助强为恶，窦寨主，你就算不得英雄好汉。"
         },
         {
           "character": "窦尔敦",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "住了，这连环套，岂是由你弄嘴卖舌之地！\n众位贤弟，将他拿下了！"
+          "text": "住了，这连环套，岂是由你弄嘴卖舌之地！"
+        },
+        {
+          "character": "窦尔敦",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "众位贤弟，将他拿下了！"
         },
         {
           "character": "众人",
@@ -1368,7 +1636,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "住了！俺天霸今日上得山来，寸铁未带，你们依仗连环套的人多，是你们来来\n来，将俺天霸碎尸万段，若是皱一皱眉头，算不得黄门后代！"
+          "text": "住了！俺天霸今日上得山来，寸铁未带，你们依仗连环套的人多，是你们来来"
+        },
+        {
+          "character": "黄天霸",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来，将俺天霸碎尸万段，若是皱一皱眉头，算不得黄门后代！"
         },
         {
           "character": "窦尔敦",
@@ -1389,7 +1664,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "好吓。\n天霸，明日山下比武。一对一个，方算英雄好汉。"
+          "text": "好吓。"
+        },
+        {
+          "character": "窦尔敦",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "天霸，明日山下比武。一对一个，方算英雄好汉。"
         },
         {
           "character": "黄天霸",
@@ -1431,7 +1713,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "且慢，我接你上山，必须送你出寨。\n喽罗的，摆队送天霸！"
+          "text": "且慢，我接你上山，必须送你出寨。"
+        },
+        {
+          "character": "窦尔敦",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "喽罗的，摆队送天霸！"
         },
         {
           "character": null,
@@ -1496,7 +1785,17 @@
           "西皮快板",
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.008,
+        0.05,
+        0.95,
+        0.0,
+        0.7673,
+        4,
+        0.05,
+        0.0
+      ]
     },
     {
       "scene_index": 5,
@@ -1591,7 +1890,17 @@
           "西皮快板",
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.4,
+        0.6,
+        0.0,
+        0.5,
+        2,
+        0.4,
+        0.0
+      ]
     }
   ]
 }

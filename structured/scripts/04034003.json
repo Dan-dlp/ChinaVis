@@ -211,14 +211,14 @@
           "text": "魔利支 （快点绛） 杀气冲天，儿郎雄胆，扫南蛮，勇战当先，要把江山占。"
         },
         {
-          "character": null,
+          "character": "魔利支",
           "line_type": "念",
           "musical_style": null,
           "style_family": null,
           "text": "威风凛凛剑光寒，呼啸一声震九天。我今统领人和马，要夺南朝锦江山。"
         },
         {
-          "character": null,
+          "character": "魔利支",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -275,7 +275,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -300,10 +310,24 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "藕塘关前旌旗摇，\n帐下儿郎杀气高。"
+          "text": "藕塘关前旌旗摇，"
         },
         {
-          "character": "营中且待军情报、报子",
+          "character": "金节",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "帐下儿郎杀气高。"
+        },
+        {
+          "character": "金节",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "营中且待军情报"
+        },
+        {
+          "character": "报子",
           "line_type": "内白",
           "musical_style": null,
           "style_family": null,
@@ -496,7 +520,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.062,
+        0.1667,
+        0.8333,
+        0.0,
+        0.7647,
+        4,
+        0.1667,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -519,7 +553,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "且住！番将十分骁勇，不免修书一封，到岳元帅那里颁兵求救。\n来，溶墨伺候！"
+          "text": "且住！番将十分骁勇，不免修书一封，到岳元帅那里颁兵求救。"
+        },
+        {
+          "character": "金节",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来，溶墨伺候！"
         },
         {
           "character": "旗牌",
@@ -608,7 +649,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.7143,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 4,
@@ -784,7 +835,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "本帅岳飞。宋室驾前为臣，只因金兵作敌，累犯边境，本帅亲奉圣命统领四路\n人马清剿。这几日未有军情来报。\n站堂军！"
+          "text": "本帅岳飞。宋室驾前为臣，只因金兵作敌，累犯边境，本帅亲奉圣命统领四路"
+        },
+        {
+          "character": "岳飞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "人马清剿。这几日未有军情来报。"
+        },
+        {
+          "character": "岳飞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "站堂军！"
         },
         {
           "character": "众人",
@@ -833,7 +898,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "是。\n随我进来。"
+          "text": "是。"
+        },
+        {
+          "character": "中军",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "随我进来。"
         },
         {
           "character": "旗牌",
@@ -952,7 +1024,14 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "将军领兵把贼讨，\n奋勇杀敌立功劳。"
+          "text": "将军领兵把贼讨，"
+        },
+        {
+          "character": "岳飞",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "奋勇杀敌立功劳。"
         },
         {
           "character": "牛皋",
@@ -966,7 +1045,21 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "当年项羽行兵险，\n三军在后己当先。\n建立奇功在藕塘关前。"
+          "text": "当年项羽行兵险，"
+        },
+        {
+          "character": "牛皋",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "三军在后己当先。"
+        },
+        {
+          "character": "牛皋",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "建立奇功在藕塘关前。"
         },
         {
           "character": null,
@@ -1099,7 +1192,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.023,
+        0.1154,
+        0.7885,
+        0.0962,
+        0.8039,
+        9,
+        0.0962,
+        0.0
+      ]
     },
     {
       "scene_index": 5,
@@ -1188,7 +1291,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "啊，我当是岳元帅，原来是个小小的先行，想这先行官，见了本镇理当叩头，\n真真岂有此理！噢噢是了，想是探子报事不明！\n来！"
+          "text": "啊，我当是岳元帅，原来是个小小的先行，想这先行官，见了本镇理当叩头，"
+        },
+        {
+          "character": "金节",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "真真岂有此理！噢噢是了，想是探子报事不明！"
+        },
+        {
+          "character": "金节",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来！"
         },
         {
           "character": "众兵士",
@@ -1216,7 +1333,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "你慢着！想咱牛皋，每次出兵，俱打元帅旗号，怎么，你执意责备你的差人！\n哦哦是了，想是你瞧俺牛皋不起，用俺不着，俺便回去。\n三军的！拨马转去，转去！"
+          "text": "你慢着！想咱牛皋，每次出兵，俱打元帅旗号，怎么，你执意责备你的差人！"
+        },
+        {
+          "character": "牛皋",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "哦哦是了，想是你瞧俺牛皋不起，用俺不着，俺便回去。"
+        },
+        {
+          "character": "牛皋",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "三军的！拨马转去，转去！"
         },
         {
           "character": "金节",
@@ -1356,7 +1487,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "好好好。\n看大杯伺候。"
+          "text": "好好好。"
+        },
+        {
+          "character": "金节",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "看大杯伺候。"
         },
         {
           "character": "中军",
@@ -1398,7 +1536,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "哎呀且住！怎么岳元帅用了一个莽撞的先行，这岂不耽误国家大事了。哎呀！\n这……"
+          "text": "哎呀且住！怎么岳元帅用了一个莽撞的先行，这岂不耽误国家大事了。哎呀！"
+        },
+        {
+          "character": "金节",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "这……"
         },
         {
           "character": null,
@@ -1468,7 +1613,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "好哇，既有此事，你何不早言。\n三军的！"
+          "text": "好哇，既有此事，你何不早言。"
+        },
+        {
+          "character": "牛皋",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "三军的！"
         },
         {
           "character": "众兵士",
@@ -1489,7 +1641,14 @@
           "line_type": "西皮散板",
           "musical_style": "西皮散板",
           "style_family": "西皮",
-          "text": "自古将军酒斗量，\n十分酒量十分强。"
+          "text": "自古将军酒斗量，"
+        },
+        {
+          "character": "牛皋",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "十分酒量十分强。"
         },
         {
           "character": "牛皋",
@@ -1510,10 +1669,24 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "吃了半坛还有半坛。\n三军的！"
+          "text": "吃了半坛还有半坛。"
         },
         {
-          "character": "琼浆玉液千杯畅、众兵士",
+          "character": "牛皋",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "三军的！"
+        },
+        {
+          "character": "牛皋",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "琼浆玉液千杯畅"
+        },
+        {
+          "character": "众兵士",
           "line_type": "同白",
           "musical_style": null,
           "style_family": null,
@@ -1552,7 +1725,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "看牛皋吃得这样大醉，竟往阵前杀敌去了，倘若有失，那还了得！\n左右，阵前去者！"
+          "text": "看牛皋吃得这样大醉，竟往阵前杀敌去了，倘若有失，那还了得！"
+        },
+        {
+          "character": "金节",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "左右，阵前去者！"
         },
         {
           "character": "众兵士",
@@ -1623,7 +1803,17 @@
         "musical_styles": [
           "西皮散板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0476,
+        0.9365,
+        0.0159,
+        0.6774,
+        5,
+        0.0476,
+        0.0
+      ]
     },
     {
       "scene_index": 6,
@@ -1796,7 +1986,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.8462,
+        0.1538,
+        0.9167,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 7,
@@ -1824,7 +2024,21 @@
           "line_type": "西皮慢板",
           "musical_style": "西皮慢板",
           "style_family": "西皮",
-          "text": "遭不幸幼年间双亲丧命，\n上无兄下无弟孤苦伶仃。\n女儿家难报国忧闷在心。"
+          "text": "遭不幸幼年间双亲丧命，"
+        },
+        {
+          "character": "戚赛玉",
+          "line_type": "西皮慢板",
+          "musical_style": "西皮慢板",
+          "style_family": "西皮",
+          "text": "上无兄下无弟孤苦伶仃。"
+        },
+        {
+          "character": "戚赛玉",
+          "line_type": "西皮慢板",
+          "musical_style": "西皮慢板",
+          "style_family": "西皮",
+          "text": "女儿家难报国忧闷在心。"
         },
         {
           "character": null,
@@ -1866,7 +2080,14 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "迈步且把二堂进，\n见了贤妹说分明。"
+          "text": "迈步且把二堂进，"
+        },
+        {
+          "character": "金夫人",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "见了贤妹说分明。"
         },
         {
           "character": null,
@@ -1943,7 +2164,14 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "适才敌楼观罢阵，\n牛皋英勇果超群。"
+          "text": "适才敌楼观罢阵，"
+        },
+        {
+          "character": "金节",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "牛皋英勇果超群。"
         },
         {
           "character": "金夫人",
@@ -1992,7 +2220,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "此人姓牛名皋，生得黑面乌须，进得关来吃得大醉，谁知番寇前来讨战，牛将\n军带醉出兵，那番寇哪把这酒醉英雄放在心上，他乘其不备，一锏打在番寇的\n头上，当时削其首级。牛将军立功了！"
+          "text": "此人姓牛名皋，生得黑面乌须，进得关来吃得大醉，谁知番寇前来讨战，牛将"
+        },
+        {
+          "character": "金节",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "军带醉出兵，那番寇哪把这酒醉英雄放在心上，他乘其不备，一锏打在番寇的"
+        },
+        {
+          "character": "金节",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "头上，当时削其首级。牛将军立功了！"
         },
         {
           "character": "金夫人",
@@ -2013,7 +2255,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "不错，真乃虎将也。\n啊夫人，下官有意将姨妹终身许配那牛皋……"
+          "text": "不错，真乃虎将也。"
+        },
+        {
+          "character": "金节",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "啊夫人，下官有意将姨妹终身许配那牛皋……"
         },
         {
           "character": null,
@@ -2111,7 +2360,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "夫人，将此事说与姨妹知道，准备前后堂悬灯结彩。夫人打扫洞房，等候牛将\n军到来，与他二人成亲便了。"
+          "text": "夫人，将此事说与姨妹知道，准备前后堂悬灯结彩。夫人打扫洞房，等候牛将"
+        },
+        {
+          "character": "金节",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "军到来，与他二人成亲便了。"
         },
         {
           "character": "金夫人",
@@ -2181,14 +2437,35 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "啊，总镇，适才贵府派来差人，与咱牛皋送来红衣新帽，言道叫咱穿戴前来，\n总镇要请我吃喜酒，及至贵府，又见这样悬灯结彩，花烛辉煌。哎呀，不知总\n镇要与何人完婚？咱牛皋来得慌速，贺礼也未曾备得，我改日再补也就是了。"
+          "text": "啊，总镇，适才贵府派来差人，与咱牛皋送来红衣新帽，言道叫咱穿戴前来，"
+        },
+        {
+          "character": "牛皋",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "总镇要请我吃喜酒，及至贵府，又见这样悬灯结彩，花烛辉煌。哎呀，不知总"
+        },
+        {
+          "character": "牛皋",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "镇要与何人完婚？咱牛皋来得慌速，贺礼也未曾备得，我改日再补也就是了。"
         },
         {
           "character": "金节",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "牛将军哪里知道，只因下官有一姨妹，年方一十八岁，聪明过人，况文武兼全，\n我有意将她终身许配牛将军，以侍箕帚，料无推却！"
+          "text": "牛将军哪里知道，只因下官有一姨妹，年方一十八岁，聪明过人，况文武兼全，"
+        },
+        {
+          "character": "金节",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我有意将她终身许配牛将军，以侍箕帚，料无推却！"
         },
         {
           "character": "牛皋",
@@ -2237,7 +2514,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "岂不知军中有令：“临阵招亲者斩。”这一条难道你就忘了吗？今日之事咱牛\n皋实实不敢从命。"
+          "text": "岂不知军中有令：“临阵招亲者斩。”这一条难道你就忘了吗？今日之事咱牛"
+        },
+        {
+          "character": "牛皋",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "皋实实不敢从命。"
         },
         {
           "character": null,
@@ -2265,7 +2549,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "今乃良辰，就在此完成花烛。\n来，动乐！"
+          "text": "今乃良辰，就在此完成花烛。"
+        },
+        {
+          "character": "金节",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来，动乐！"
         },
         {
           "character": "牛皋",
@@ -2300,7 +2591,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "回避了，回避了！\n转至大堂迎接，快快有请。"
+          "text": "回避了，回避了！"
+        },
+        {
+          "character": "金节",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "转至大堂迎接，快快有请。"
         },
         {
           "character": null,
@@ -2342,7 +2640,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "牛将军进得关来，吃得大醉，谁知番寇前来讨战，牛将军带酒出兵，那番寇哪\n把这酒醉英雄放在心上，他乘其不备，一锏打在番寇的头上，当时削其首级。\n牛将军立功了！"
+          "text": "牛将军进得关来，吃得大醉，谁知番寇前来讨战，牛将军带酒出兵，那番寇哪"
+        },
+        {
+          "character": "金节",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "把这酒醉英雄放在心上，他乘其不备，一锏打在番寇的头上，当时削其首级。"
+        },
+        {
+          "character": "金节",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "牛将军立功了！"
         },
         {
           "character": "岳飞",
@@ -2370,7 +2682,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "元帅有所不知，下官有一姨妹，年方一十八岁，聪明过人，况文武兼全，我有\n意将她终身许配牛将军。牛将军言道：“临阵招亲者斩。”故而他跑回馆驿去\n了。望元帅作主。"
+          "text": "元帅有所不知，下官有一姨妹，年方一十八岁，聪明过人，况文武兼全，我有"
+        },
+        {
+          "character": "金节",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "意将她终身许配牛将军。牛将军言道：“临阵招亲者斩。”故而他跑回馆驿去"
+        },
+        {
+          "character": "金节",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "了。望元帅作主。"
         },
         {
           "character": "岳飞",
@@ -2384,7 +2710,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "多谢元帅。\n哈哈哈！这就好了。"
+          "text": "多谢元帅。"
+        },
+        {
+          "character": "金节",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "哈哈哈！这就好了。"
         },
         {
           "character": null,
@@ -2515,7 +2848,17 @@
           "西皮慢板",
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.034,
+        0.0886,
+        0.9114,
+        0.0,
+        0.6538,
+        8,
+        0.0886,
+        0.0
+      ]
     },
     {
       "scene_index": 8,
@@ -2722,7 +3065,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.875,
+        0.125,
+        0.8667,
+        5,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 9,
@@ -3227,7 +3580,17 @@
           "西皮流水",
           "西皮流水板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.106,
+        0.1887,
+        0.8113,
+        0.0,
+        0.2692,
+        4,
+        0.1887,
+        0.0
+      ]
     }
   ]
 }

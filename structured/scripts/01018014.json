@@ -222,7 +222,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -246,7 +256,14 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "杀父冤仇不共天，\n损兵折将转回还。"
+          "text": "杀父冤仇不共天，"
+        },
+        {
+          "character": "马超",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "损兵折将转回还。"
         },
         {
           "character": "马岱、庞德、马超",
@@ -281,21 +298,63 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "恼恨曹操杀害我父，是我带领西羌全部人马，替父报仇。那时闯入潼关，与曹\n兵在渭南大战，只杀得曹贼割须弃袍而逃。不料那贼暗用反间之计，俺一时不\n明，将韩遂左膀砍去。那杨秋等私自投降，里应外合，将吾杀得大败。本当转\n回西凉，又恐被人耻笑。意欲去至汉中，投奔张鲁，借此养精蓄锐，再兴人马，\n以报父仇。"
+          "text": "恼恨曹操杀害我父，是我带领西羌全部人马，替父报仇。那时闯入潼关，与曹"
+        },
+        {
+          "character": "马超",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "兵在渭南大战，只杀得曹贼割须弃袍而逃。不料那贼暗用反间之计，俺一时不"
+        },
+        {
+          "character": "马超",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "明，将韩遂左膀砍去。那杨秋等私自投降，里应外合，将吾杀得大败。本当转"
+        },
+        {
+          "character": "马超",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "回西凉，又恐被人耻笑。意欲去至汉中，投奔张鲁，借此养精蓄锐，再兴人马，"
+        },
+        {
+          "character": "马超",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "以报父仇。"
         },
         {
           "character": "庞德",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "启公子：想那汉中张鲁，为人懦弱多疑。公子投奔那里，尚不知他能否收留。\n以末将之见，不若去到冀州借兵，替老元戎报仇雪恨。"
+          "text": "启公子：想那汉中张鲁，为人懦弱多疑。公子投奔那里，尚不知他能否收留。"
+        },
+        {
+          "character": "庞德",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "以末将之见，不若去到冀州借兵，替老元戎报仇雪恨。"
         },
         {
           "character": "马岱",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "吓兄长，若以小弟之见，不若将人马拨回西凉，屯军养马，操练将士，再来复\n仇，也还不迟。"
+          "text": "吓兄长，若以小弟之见，不若将人马拨回西凉，屯军养马，操练将士，再来复"
+        },
+        {
+          "character": "马岱",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "仇，也还不迟。"
         },
         {
           "character": "马超",
@@ -309,7 +368,21 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "恼恨曹贼狗奸党，\n杀父冤仇怎能忘。\n军马暂且回西凉。"
+          "text": "恼恨曹贼狗奸党，"
+        },
+        {
+          "character": "马超",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "杀父冤仇怎能忘。"
+        },
+        {
+          "character": "马超",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "军马暂且回西凉。"
         },
         {
           "character": null,
@@ -388,7 +461,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.077,
+        0.2174,
+        0.7826,
+        0.0,
+        0.5455,
+        5,
+        0.2174,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -418,7 +501,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "是俺误中曹操反间之计，砍去韩遂左膀。杨秋各将又私自投降曹操，里应外合，\n将某杀得大败。"
+          "text": "是俺误中曹操反间之计，砍去韩遂左膀。杨秋各将又私自投降曹操，里应外合，"
+        },
+        {
+          "character": "马超",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "将某杀得大败。"
         },
         {
           "character": "赵月",
@@ -432,7 +522,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "某原有此意。\n庞德听令：命你去至冀州，与刺史韦康借兵，不得有误。"
+          "text": "某原有此意。"
+        },
+        {
+          "character": "马超",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "庞德听令：命你去至冀州，与刺史韦康借兵，不得有误。"
         },
         {
           "character": "庞德",
@@ -496,7 +593,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.75,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 4,
@@ -530,7 +637,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "吾冀州刺史韦康。昨日探马报到，马超兵败渭南，人马从此经过。倘若到此，\n还须人马准备。也曾作书与夏侯将军，请他带兵前来把守。为何不见到来？"
+          "text": "吾冀州刺史韦康。昨日探马报到，马超兵败渭南，人马从此经过。倘若到此，"
+        },
+        {
+          "character": "韦康",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "还须人马准备。也曾作书与夏侯将军，请他带兵前来把守。为何不见到来？"
         },
         {
           "character": null,
@@ -621,7 +735,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "今有马超，兵败渭南而来。曾遣大将庞德，前来借兵。借与不借，特请参谋商\n议。"
+          "text": "今有马超，兵败渭南而来。曾遣大将庞德，前来借兵。借与不借，特请参谋商"
+        },
+        {
+          "character": "韦康",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "议。"
         },
         {
           "character": "杨阜",
@@ -649,7 +770,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "再探。\n庞德已来，应如何对答？"
+          "text": "再探。"
+        },
+        {
+          "character": "韦康",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "庞德已来，应如何对答？"
         },
         {
           "character": "杨阜",
@@ -726,7 +854,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "想你家公子，借此无名之兵，背君犯上，就为不忠。父丧不能守制，就为不孝。\n似此不忠不孝之人，何足道哉！"
+          "text": "想你家公子，借此无名之兵，背君犯上，就为不忠。父丧不能守制，就为不孝。"
+        },
+        {
+          "character": "杨阜",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "似此不忠不孝之人，何足道哉！"
         },
         {
           "character": "庞德",
@@ -740,7 +875,14 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "杨阜口出不逊言，\n倒叫豪杰怒冲冠。"
+          "text": "杨阜口出不逊言，"
+        },
+        {
+          "character": "庞德",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "倒叫豪杰怒冲冠。"
         },
         {
           "character": "庞德",
@@ -768,7 +910,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "看庞德此去，那马超定不甘休。参谋速修书信于夏侯渊将军，叫他快快带兵前\n来，不得有误。"
+          "text": "看庞德此去，那马超定不甘休。参谋速修书信于夏侯渊将军，叫他快快带兵前"
+        },
+        {
+          "character": "韦康",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来，不得有误。"
         },
         {
           "character": "杨阜",
@@ -848,7 +997,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.1081,
+        0.8378,
+        0.0541,
+        0.6944,
+        7,
+        0.0811,
+        0.0
+      ]
     },
     {
       "scene_index": 5,
@@ -912,7 +1071,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "他言道：公子借此无名之兵，背君犯上，就为不忠。父死不葬，就为不孝。似\n此不忠不孝之人，何足道哉。"
+          "text": "他言道：公子借此无名之兵，背君犯上，就为不忠。父死不葬，就为不孝。似"
+        },
+        {
+          "character": "庞德",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "此不忠不孝之人，何足道哉。"
         },
         {
           "character": "马超",
@@ -933,7 +1099,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "韦康吓韦康。我不杀你，誓不为人也！\n庞德听令：外面吩咐大小三军，全身披挂，明日五鼓，校场伺候。"
+          "text": "韦康吓韦康。我不杀你，誓不为人也！"
+        },
+        {
+          "character": "马超",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "庞德听令：外面吩咐大小三军，全身披挂，明日五鼓，校场伺候。"
         },
         {
           "character": null,
@@ -962,7 +1135,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.9091,
+        0.0909,
+        0.8,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 6,
@@ -1007,7 +1190,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "俺，马超。可恨韦康，口出恶言，今日定要将他城池打破，灭却此人。\n众将官，起兵前往！"
+          "text": "俺，马超。可恨韦康，口出恶言，今日定要将他城池打破，灭却此人。"
+        },
+        {
+          "character": "马超",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "众将官，起兵前往！"
         },
         {
           "character": "马超",
@@ -1042,7 +1232,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "大胆韦康，你战又不战，降又不降，是何道理？\n来，一齐攻城！"
+          "text": "大胆韦康，你战又不战，降又不降，是何道理？"
+        },
+        {
+          "character": "马超",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来，一齐攻城！"
         },
         {
           "character": null,
@@ -1094,7 +1291,17 @@
           "西皮快板",
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.2,
+        0.3,
+        0.7,
+        0.0,
+        0.3333,
+        4,
+        0.3,
+        0.0
+      ]
     },
     {
       "scene_index": 7,
@@ -1142,7 +1349,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "唗！似你这等无用之辈，要你何用。\n来，推出斩了！"
+          "text": "唗！似你这等无用之辈，要你何用。"
+        },
+        {
+          "character": "马超",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来，推出斩了！"
         },
         {
           "character": null,
@@ -1184,21 +1398,42 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "有勇无谋小马超，\n屈杀韦康为哪条？"
-        },
-        {
-          "character": "杨阜",
-          "line_type": "白",
-          "musical_style": null,
-          "style_family": null,
-          "text": "俺，杨阜。韦康无故，献了城池。不料马超，反把他杀死。他今唤我，我不免\n进得帐去，假意投降。慢慢再来杀他，也还不迟。"
+          "text": "有勇无谋小马超，"
         },
         {
           "character": "杨阜",
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "忽听帐内来喊叫，\n杨阜心中好烦焦。"
+          "text": "屈杀韦康为哪条？"
+        },
+        {
+          "character": "杨阜",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "俺，杨阜。韦康无故，献了城池。不料马超，反把他杀死。他今唤我，我不免"
+        },
+        {
+          "character": "杨阜",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "进得帐去，假意投降。慢慢再来杀他，也还不迟。"
+        },
+        {
+          "character": "杨阜",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "忽听帐内来喊叫，"
+        },
+        {
+          "character": "杨阜",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "杨阜心中好烦焦。"
         },
         {
           "character": null,
@@ -1317,35 +1552,77 @@
           "line_type": "同白",
           "musical_style": null,
           "style_family": null,
-          "text": "如此待我二人进帐便了。\n参见公子。我二人接驾来迟，望公子恕罪！"
+          "text": "如此待我二人进帐便了。"
+        },
+        {
+          "character": "梁宽、赵衢",
+          "line_type": "同白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "参见公子。我二人接驾来迟，望公子恕罪！"
         },
         {
           "character": "马超",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "二位将军少礼。\n杨参谋，某欲起兵报仇，尚祈参谋指教。"
+          "text": "二位将军少礼。"
+        },
+        {
+          "character": "马超",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "杨参谋，某欲起兵报仇，尚祈参谋指教。"
         },
         {
           "character": "杨阜",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "启公子：某的妻子死在临洮，尚未安葬。俺要在公子台前告假一月，望公子允\n准。"
+          "text": "启公子：某的妻子死在临洮，尚未安葬。俺要在公子台前告假一月，望公子允"
+        },
+        {
+          "character": "杨阜",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "准。"
         },
         {
           "character": "马超",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "你一月之后，即速归来。\n二位将军，好好看守城池。"
+          "text": "你一月之后，即速归来。"
+        },
+        {
+          "character": "马超",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "二位将军，好好看守城池。"
         },
         {
           "character": "马超",
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "久闻参谋志量宽，\n今日一见不虚传。\n同心协力破曹瞒。"
+          "text": "久闻参谋志量宽，"
+        },
+        {
+          "character": "马超",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "今日一见不虚传。"
+        },
+        {
+          "character": "马超",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "同心协力破曹瞒。"
         },
         {
           "character": null,
@@ -1413,7 +1690,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.043,
+        0.2105,
+        0.7895,
+        0.0,
+        0.5676,
+        6,
+        0.2105,
+        0.0
+      ]
     },
     {
       "scene_index": 8,
@@ -1434,7 +1721,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "俺，夏侯渊。今有韦康书信前来，叫某带兵相助。是我未奉丞相钧旨，不敢前\n去。昨日丞相火牌到来，命俺前去。\n众将官，催军！"
+          "text": "俺，夏侯渊。今有韦康书信前来，叫某带兵相助。是我未奉丞相钧旨，不敢前"
+        },
+        {
+          "character": "夏侯渊",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "去。昨日丞相火牌到来，命俺前去。"
+        },
+        {
+          "character": "夏侯渊",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "众将官，催军！"
         },
         {
           "character": null,
@@ -1453,7 +1754,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 9,
@@ -1522,7 +1833,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.5,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 10,
@@ -1603,7 +1924,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "母亲有所不知。孩儿在校场操演，探子报到马超兵败，杀奔冀州。倘若到了冀\n州，只恐表兄性命难保。"
+          "text": "母亲有所不知。孩儿在校场操演，探子报到马超兵败，杀奔冀州。倘若到了冀"
+        },
+        {
+          "character": "姜叙",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "州，只恐表兄性命难保。"
         },
         {
           "character": "姜母",
@@ -1770,7 +2098,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.9048,
+        0.0952,
+        0.85,
+        5,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 11,
@@ -1803,7 +2141,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 12,
@@ -1827,7 +2175,14 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "杨阜一去不回转，\n倒叫孟起挂心间。"
+          "text": "杨阜一去不回转，"
+        },
+        {
+          "character": "马超",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "倒叫孟起挂心间。"
         },
         {
           "character": null,
@@ -1904,7 +2259,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "胆大杨阜。我把你当作心腹之人，谁想你反复无常。\n众将官，出城迎敌去者！"
+          "text": "胆大杨阜。我把你当作心腹之人，谁想你反复无常。"
+        },
+        {
+          "character": "马超",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "众将官，出城迎敌去者！"
         },
         {
           "character": null,
@@ -1953,7 +2315,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "将军你看马超出城，你我不免将他的妻儿捆在城楼。等他到来，将他妻儿杀死，\n以与韦使君报仇。"
+          "text": "将军你看马超出城，你我不免将他的妻儿捆在城楼。等他到来，将他妻儿杀死，"
+        },
+        {
+          "character": "梁宽",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "以与韦使君报仇。"
         },
         {
           "character": "赵衢",
@@ -2009,7 +2378,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.071,
+        0.1111,
+        0.7778,
+        0.1111,
+        0.7647,
+        5,
+        0.1111,
+        0.0
+      ]
     },
     {
       "scene_index": 13,
@@ -2101,7 +2480,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "我把你这贼子。韦使君献了城池，你反将他杀死。我今将你妻子，捆绑城楼，\n以与韦使君报仇。"
+          "text": "我把你这贼子。韦使君献了城池，你反将他杀死。我今将你妻子，捆绑城楼，"
+        },
+        {
+          "character": "梁宽",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "以与韦使君报仇。"
         },
         {
           "character": null,
@@ -2136,31 +2522,80 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "倒叫我马孟起咬钢牙。\n何惧你螳螂辈井底之蛙。"
-        },
-        {
-          "character": "在西凉人见我谁敢不怕、马妻",
-          "line_type": "西皮摇板",
-          "musical_style": "西皮摇板",
-          "style_family": "西皮",
-          "text": "叫声将军快救命，\n少若迟延命难存。"
+          "text": "倒叫我马孟起咬钢牙。"
         },
         {
           "character": "马超",
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "骂声二贼太心狠，\n你害我妻室为何因？"
+          "text": "何惧你螳螂辈井底之蛙。"
+        },
+        {
+          "character": "马超",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "在西凉人见我谁敢不怕"
+        },
+        {
+          "character": "马妻",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "叫声将军快救命，"
+        },
+        {
+          "character": "马妻",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "少若迟延命难存。"
+        },
+        {
+          "character": "马超",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "骂声二贼太心狠，"
+        },
+        {
+          "character": "马超",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "你害我妻室为何因？"
         },
         {
           "character": "梁宽",
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "马超小儿休逞能，\n你杀害使君为何情？\n人头抛在地埃尘。"
+          "text": "马超小儿休逞能，"
         },
         {
-          "character": "我拔出剑来要你妻命、马超",
+          "character": "梁宽",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "你杀害使君为何情？"
+        },
+        {
+          "character": "梁宽",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "人头抛在地埃尘。"
+        },
+        {
+          "character": "梁宽",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "我拔出剑来要你妻命"
+        },
+        {
+          "character": "马超",
           "line_type": "西皮导板",
           "musical_style": "西皮导板",
           "style_family": "西皮",
@@ -2195,7 +2630,14 @@
           "text": "借众将全军力要把贼拿。"
         },
         {
-          "character": "将人头拴至在马鞍桥下、赵衢",
+          "character": "马超",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "将人头拴至在马鞍桥下"
+        },
+        {
+          "character": "赵衢",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -2297,7 +2739,21 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "姜叙带来人和马，\n孟起我怎能来怕他。\n众将一同去阵"
+          "text": "姜叙带来人和马，"
+        },
+        {
+          "character": "马超",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "孟起我怎能来怕他。"
+        },
+        {
+          "character": "马超",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "众将一同去阵"
         }
       ],
       "interactions": [
@@ -2358,7 +2814,17 @@
           "西皮导板",
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.355,
+        0.6,
+        0.4,
+        0.0,
+        0.4103,
+        6,
+        0.55,
+        0.0
+      ]
     },
     {
       "scene_index": 14,
@@ -2453,7 +2919,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.75,
+        0.75,
+        0.25,
+        0.0,
+        0.6667,
+        2,
+        0.75,
+        0.0
+      ]
     },
     {
       "scene_index": 15,
@@ -2520,7 +2996,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        2,
+        0.0,
+        0.0
+      ]
     }
   ]
 }

@@ -170,7 +170,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "俺，姓王名勇字伯当。保了西魏王李密，驾坐瓦岗。因秦王李世民，探听山冈\n之事，被大王拿住。囚禁南牢，一载有馀，被徐勣、魏征将他放走。奉了大王\n之命，追赶秦王与徐、魏二兄。俺念贾家楼结拜之交，将他放走。\n众喽啰，回山交令！"
+          "text": "俺，姓王名勇字伯当。保了西魏王李密，驾坐瓦岗。因秦王李世民，探听山冈"
+        },
+        {
+          "character": "王伯当",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "之事，被大王拿住。囚禁南牢，一载有馀，被徐勣、魏征将他放走。奉了大王"
+        },
+        {
+          "character": "王伯当",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "之命，追赶秦王与徐、魏二兄。俺念贾家楼结拜之交，将他放走。"
+        },
+        {
+          "character": "王伯当",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "众喽啰，回山交令！"
         },
         {
           "character": "四喽啰",
@@ -202,7 +223,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.8333,
+        0.1667,
+        0.2,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -266,7 +297,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "孤，西魏王李密。可恨唐童，私探孤家营盘，被孤拿住，囚禁南牢，一载有馀。\n可恨徐勣、魏征二人改本，将他释放，三人一同逃走。孤命王伯当追赶，未\n见回报。\n内侍，展开龙门！"
+          "text": "孤，西魏王李密。可恨唐童，私探孤家营盘，被孤拿住，囚禁南牢，一载有馀。"
+        },
+        {
+          "character": "李密",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "可恨徐勣、魏征二人改本，将他释放，三人一同逃走。孤命王伯当追赶，未"
+        },
+        {
+          "character": "李密",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "见回报。"
+        },
+        {
+          "character": "李密",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "内侍，展开龙门！"
         },
         {
           "character": "太监甲",
@@ -343,7 +395,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "哪里是空回交令，想是你念在结拜之情，放他三人逃走，回来蒙蔽孤家，可是\n吗？啊哈哈哈……"
+          "text": "哪里是空回交令，想是你念在结拜之情，放他三人逃走，回来蒙蔽孤家，可是"
+        },
+        {
+          "character": "李密",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "吗？啊哈哈哈……"
         },
         {
           "character": "王伯当",
@@ -357,49 +416,455 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "大王说话好痴迷，\n细听王勇把话提：\n生死相顾誓不离。\n大反山东惹是非。\n秦琼匹马取金堤。\n三日三夜拜帅旗。\n兵多将广人马齐。\n能征惯战众英奇。\n锦绣江山化成灰。\n有功不赏乱胡为。\n一个东来一个西。\n满山喽啰似雪飞。\n反道为臣把主欺。\n我看你祸到来时靠着谁？"
+          "text": "大王说话好痴迷，"
         },
         {
-          "character": "三十九人同结义、二劫皇纲把祸起、王勇单人追唐璧、夜奔瓦岗非容易、咬金有福做皇帝、阴阳八卦有徐勣、自从大王到此地、提兵调将无仁义、众将纷纷散了队、耗鼠盗去仓中米、只剩王勇来保你、倘若是四外刀兵起、李密",
+          "character": "王伯当",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "细听王勇把话提："
+        },
+        {
+          "character": "王伯当",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "生死相顾誓不离。"
+        },
+        {
+          "character": "王伯当",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "大反山东惹是非。"
+        },
+        {
+          "character": "王伯当",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "秦琼匹马取金堤。"
+        },
+        {
+          "character": "王伯当",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "三日三夜拜帅旗。"
+        },
+        {
+          "character": "王伯当",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "兵多将广人马齐。"
+        },
+        {
+          "character": "王伯当",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "能征惯战众英奇。"
+        },
+        {
+          "character": "王伯当",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "锦绣江山化成灰。"
+        },
+        {
+          "character": "王伯当",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "有功不赏乱胡为。"
+        },
+        {
+          "character": "王伯当",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "一个东来一个西。"
+        },
+        {
+          "character": "王伯当",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "满山喽啰似雪飞。"
+        },
+        {
+          "character": "王伯当",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "反道为臣把主欺。"
+        },
+        {
+          "character": "王伯当",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我看你祸到来时靠着谁？"
+        },
+        {
+          "character": "王伯当",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "三十九人同结义"
+        },
+        {
+          "character": "王伯当",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "二劫皇纲把祸起"
+        },
+        {
+          "character": "王伯当",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "王勇单人追唐璧"
+        },
+        {
+          "character": "王伯当",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "夜奔瓦岗非容易"
+        },
+        {
+          "character": "王伯当",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "咬金有福做皇帝"
+        },
+        {
+          "character": "王伯当",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "阴阳八卦有徐勣"
+        },
+        {
+          "character": "王伯当",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "自从大王到此地"
+        },
+        {
+          "character": "王伯当",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "提兵调将无仁义"
+        },
+        {
+          "character": "王伯当",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "众将纷纷散了队"
+        },
+        {
+          "character": "王伯当",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "耗鼠盗去仓中米"
+        },
+        {
+          "character": "王伯当",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "只剩王勇来保你"
+        },
+        {
+          "character": "王伯当",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "倘若是四外刀兵起"
+        },
+        {
+          "character": "李密",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
           "text": "贤弟呀！"
         },
         {
-          "character": "三十九人同结义、二劫皇纲把祸起、王勇单人追唐璧、夜奔瓦岗非容易、咬金有福做皇帝、阴阳八卦有徐勣、自从大王到此地、提兵调将无仁义、众将纷纷散了队、耗鼠盗去仓中米、只剩王勇来保你、倘若是四外刀兵起、李密",
+          "character": "李密",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "三十九人同结义"
+        },
+        {
+          "character": "李密",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "二劫皇纲把祸起"
+        },
+        {
+          "character": "李密",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "王勇单人追唐璧"
+        },
+        {
+          "character": "李密",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "夜奔瓦岗非容易"
+        },
+        {
+          "character": "李密",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "咬金有福做皇帝"
+        },
+        {
+          "character": "李密",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "阴阳八卦有徐勣"
+        },
+        {
+          "character": "李密",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "自从大王到此地"
+        },
+        {
+          "character": "李密",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "提兵调将无仁义"
+        },
+        {
+          "character": "李密",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "众将纷纷散了队"
+        },
+        {
+          "character": "李密",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "耗鼠盗去仓中米"
+        },
+        {
+          "character": "李密",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "只剩王勇来保你"
+        },
+        {
+          "character": "李密",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "倘若是四外刀兵起"
+        },
+        {
+          "character": "李密",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "王贤弟说话大有理，\n好叫孤王暗着急。\n扭转头来自猜疑。\n成者王侯败者贼。\n好一似黄鹰抓雏鸡。\n愚兄言语向你提：\n莫把闲言锁双眉。\n莫做三心二意贼。"
+          "text": "王贤弟说话大有理，"
         },
         {
-          "character": "西魏王离了金交椅、天心不顺遭祸起、一日哪国刀兵起、转身再叫王贤弟、一言冒犯顶撞你、你本是堂堂忠良辈、王伯当",
+          "character": "李密",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "大王不必加臣罪，\n末将焉敢把主欺？\n马踏尸骨肉化泥！"
+          "text": "好叫孤王暗着急。"
         },
         {
-          "character": "我若保主有假意、李密",
+          "character": "李密",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "王贤弟本是忠良辈，\n赛过当年介子推。\n乱箭穿心不得回！"
+          "text": "扭转头来自猜疑。"
         },
         {
-          "character": "我若保主有假意、李密",
+          "character": "李密",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "成者王侯败者贼。"
+        },
+        {
+          "character": "李密",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "好一似黄鹰抓雏鸡。"
+        },
+        {
+          "character": "李密",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "愚兄言语向你提："
+        },
+        {
+          "character": "李密",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "莫把闲言锁双眉。"
+        },
+        {
+          "character": "李密",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "莫做三心二意贼。"
+        },
+        {
+          "character": "李密",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "西魏王离了金交椅"
+        },
+        {
+          "character": "李密",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "天心不顺遭祸起"
+        },
+        {
+          "character": "李密",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "一日哪国刀兵起"
+        },
+        {
+          "character": "李密",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "转身再叫王贤弟"
+        },
+        {
+          "character": "李密",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "一言冒犯顶撞你"
+        },
+        {
+          "character": "李密",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "你本是堂堂忠良辈"
+        },
+        {
+          "character": "王伯当",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "大王不必加臣罪，"
+        },
+        {
+          "character": "王伯当",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "末将焉敢把主欺？"
+        },
+        {
+          "character": "王伯当",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "马踏尸骨肉化泥！"
+        },
+        {
+          "character": "王伯当",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我若保主有假意"
+        },
+        {
+          "character": "李密",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "王贤弟本是忠良辈，"
+        },
+        {
+          "character": "李密",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "赛过当年介子推。"
+        },
+        {
+          "character": "李密",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "乱箭穿心不得回！"
+        },
+        {
+          "character": "李密",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我若保主有假意"
+        },
+        {
+          "character": "李密",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
           "text": "王贤弟，众将已散，人人尽逃，只有你我二人。贤弟有何良策，重兴瓦岗？"
         },
         {
-          "character": "孤王若把良心昧、王伯当",
+          "character": "李密",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "大王，瓦岗乃弹丸之地，焉能保守？倘若各国兵马一齐杀来，内无粮草，外无\n救兵，我君臣赤手被擒，死无葬身之地也！"
+          "text": "孤王若把良心昧"
+        },
+        {
+          "character": "王伯当",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "大王，瓦岗乃弹丸之地，焉能保守？倘若各国兵马一齐杀来，内无粮草，外无"
+        },
+        {
+          "character": "王伯当",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "救兵，我君臣赤手被擒，死无葬身之地也！"
         },
         {
           "character": "李密",
@@ -441,7 +906,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "大王不知，那唐王以仁义治天下，岂记仇恨？若有杀身之祸，为臣一承当，愿\n保大王无事！"
+          "text": "大王不知，那唐王以仁义治天下，岂记仇恨？若有杀身之祸，为臣一承当，愿"
+        },
+        {
+          "character": "王伯当",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "保大王无事！"
         },
         {
           "character": "李密",
@@ -504,7 +976,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "是。\n呔！众喽啰听者：大王前去投唐，尔等随者就随，不愿者各自散去！"
+          "text": "是。"
+        },
+        {
+          "character": "王伯当",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "呔！众喽啰听者：大王前去投唐，尔等随者就随，不愿者各自散去！"
         },
         {
           "character": null,
@@ -532,28 +1011,189 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "头上取下飞龙帽，\n身上脱下衮龙衣。\n玉石焚消惨凄凄。\n锦绣林苑化灰泥。\n龙楼凤阁世间稀。\n刀枪剑戟亦成灰。\n此去投唐好一比——\n虎落平阳把头低。\n到如今一旦且相随。"
+          "text": "头上取下飞龙帽，"
         },
         {
-          "character": "李密马上泪悲啼、勒马回头用目觑、舍不得瓦岗风景地、画栋雕梁成粉碎、常言明知不是伴、王伯当",
+          "character": "李密",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "大王不必苦悲啼，\n细听为臣说端的：\n阿房宫殿今何在？\n铜雀楼台已成灰！\n哪个男儿福寿齐？\n落得美名万古提。"
+          "text": "身上脱下衮龙衣。"
         },
         {
-          "character": "江山也有兴和败、除邪归正把唐保、李密",
+          "character": "李密",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "玉石焚消惨凄凄。"
+        },
+        {
+          "character": "李密",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "锦绣林苑化灰泥。"
+        },
+        {
+          "character": "李密",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "龙楼凤阁世间稀。"
+        },
+        {
+          "character": "李密",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "刀枪剑戟亦成灰。"
+        },
+        {
+          "character": "李密",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "此去投唐好一比——"
+        },
+        {
+          "character": "李密",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "虎落平阳把头低。"
+        },
+        {
+          "character": "李密",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "到如今一旦且相随。"
+        },
+        {
+          "character": "李密",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "李密马上泪悲啼"
+        },
+        {
+          "character": "李密",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "勒马回头用目觑"
+        },
+        {
+          "character": "李密",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "舍不得瓦岗风景地"
+        },
+        {
+          "character": "李密",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "画栋雕梁成粉碎"
+        },
+        {
+          "character": "李密",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "常言明知不是伴"
+        },
+        {
+          "character": "王伯当",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "大王不必苦悲啼，"
+        },
+        {
+          "character": "王伯当",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "细听为臣说端的："
+        },
+        {
+          "character": "王伯当",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "阿房宫殿今何在？"
+        },
+        {
+          "character": "王伯当",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "铜雀楼台已成灰！"
+        },
+        {
+          "character": "王伯当",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "哪个男儿福寿齐？"
+        },
+        {
+          "character": "王伯当",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "落得美名万古提。"
+        },
+        {
+          "character": "王伯当",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "江山也有兴和败"
+        },
+        {
+          "character": "王伯当",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "除邪归正把唐保"
+        },
+        {
+          "character": "李密",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
           "text": "贤弟呀！"
         },
         {
-          "character": "江山也有兴和败、除邪归正把唐保、李密",
+          "character": "李密",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "江山也有兴和败"
+        },
+        {
+          "character": "李密",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "除邪归正把唐保"
+        },
+        {
+          "character": "李密",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "怕的是唐童把仇记，\n笼中之鸟怎高飞！"
+          "text": "怕的是唐童把仇记，"
+        },
+        {
+          "character": "李密",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "笼中之鸟怎高飞！"
         },
         {
           "character": "王伯当",
@@ -567,7 +1207,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "杀身之祸臣愿替，\n管叫大王挂紫衣。"
+          "text": "杀身之祸臣愿替，"
+        },
+        {
+          "character": "王伯当",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "管叫大王挂紫衣。"
         },
         {
           "character": null,
@@ -609,7 +1256,17 @@
         "singing_ratio": 0.118,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.118,
+        0.5725,
+        0.4122,
+        0.0153,
+        0.2615,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -652,7 +1309,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "小王，李世民。只因炀帝无道，国乱民荒，生灵涂炭。父王太原起义，吊民伐\n罪，扭转乾坤，驾坐长安。虽然干戈宁静，十八路反王，心腹未灭。这且不言。\n今日带领人马，去往银空山射猎，觅访贤臣。\n众将官！"
+          "text": "小王，李世民。只因炀帝无道，国乱民荒，生灵涂炭。父王太原起义，吊民伐"
+        },
+        {
+          "character": "李世民",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "罪，扭转乾坤，驾坐长安。虽然干戈宁静，十八路反王，心腹未灭。这且不言。"
+        },
+        {
+          "character": "李世民",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "今日带领人马，去往银空山射猎，觅访贤臣。"
+        },
+        {
+          "character": "李世民",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "众将官！"
         },
         {
           "character": "马三保、段志贤、殷开山、刘宏基、四小军",
@@ -680,10 +1358,73 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "叫儿郎将人马撒至银空山，\n刀枪剑戟放光寒。\n强弓硬弩围成圈。\n尘土飞扬似云烟。"
+          "text": "叫儿郎将人马撒至银空山，"
         },
         {
-          "character": "五色旌旗空中展、大小儿郎架鹰犬、马三保、段志贤、殷开山、刘宏基、四小军",
+          "character": "李世民",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "刀枪剑戟放光寒。"
+        },
+        {
+          "character": "李世民",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "强弓硬弩围成圈。"
+        },
+        {
+          "character": "李世民",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "尘土飞扬似云烟。"
+        },
+        {
+          "character": "李世民",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "五色旌旗空中展"
+        },
+        {
+          "character": "李世民",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "大小儿郎架鹰犬"
+        },
+        {
+          "character": "李世民",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "马三保"
+        },
+        {
+          "character": "李世民",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "段志贤"
+        },
+        {
+          "character": "李世民",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "殷开山"
+        },
+        {
+          "character": "李世民",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "刘宏基"
+        },
+        {
+          "character": "四小军",
           "line_type": "同白",
           "musical_style": null,
           "style_family": null,
@@ -701,10 +1442,59 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "天边飞来一群雁，\n字字行行闹声喧。\n望着鸿雁放一弦。"
+          "text": "天边飞来一群雁，"
         },
         {
-          "character": "轻轻搭上雕翎箭、马三保、段志贤、殷开山、刘宏基、四小军",
+          "character": "李世民",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "字字行行闹声喧。"
+        },
+        {
+          "character": "李世民",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "望着鸿雁放一弦。"
+        },
+        {
+          "character": "李世民",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "轻轻搭上雕翎箭"
+        },
+        {
+          "character": "李世民",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "马三保"
+        },
+        {
+          "character": "李世民",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "段志贤"
+        },
+        {
+          "character": "李世民",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "殷开山"
+        },
+        {
+          "character": "李世民",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "刘宏基"
+        },
+        {
+          "character": "四小军",
           "line_type": "同白",
           "musical_style": null,
           "style_family": null,
@@ -729,7 +1519,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "鸿雁中了雕翎箭，\n百发百中不虚传。"
+          "text": "鸿雁中了雕翎箭，"
+        },
+        {
+          "character": "李世民",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "百发百中不虚传。"
         },
         {
           "character": null,
@@ -759,7 +1556,17 @@
         "singing_ratio": 0.2,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.2,
+        0.6176,
+        0.3529,
+        0.0294,
+        0.303,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 4,
@@ -853,7 +1660,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "一见箭雁笑满面，\n不由豪杰喜心间。"
+          "text": "一见箭雁笑满面，"
+        },
+        {
+          "character": "王伯当",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "不由豪杰喜心间。"
         },
         {
           "character": "李密",
@@ -881,7 +1695,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "大王说哪里话来？前来投唐，正无机会，此乃天赐奇缘。有此箭雁，就是进身\n之计了。"
+          "text": "大王说哪里话来？前来投唐，正无机会，此乃天赐奇缘。有此箭雁，就是进身"
+        },
+        {
+          "character": "王伯当",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "之计了。"
         },
         {
           "character": "李密",
@@ -951,7 +1772,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "催马来在桃花店，\n不知箭雁在哪边！"
+          "text": "催马来在桃花店，"
+        },
+        {
+          "character": "李世民",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "不知箭雁在哪边！"
         },
         {
           "character": "马三保、段志贤、殷开山、刘宏基、四小军",
@@ -1007,7 +1835,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "千岁有所不知，如今散了瓦岗，众家英雄各霸一方。为臣在前途拾得箭雁，特\n来献上。"
+          "text": "千岁有所不知，如今散了瓦岗，众家英雄各霸一方。为臣在前途拾得箭雁，特"
+        },
+        {
+          "character": "王伯当",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来献上。"
         },
         {
           "character": "李世民",
@@ -1028,7 +1863,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "小王被李密囚禁南牢，多蒙皇兄释放。回朝日夜思念，今幸相逢。请皇兄随我\n入朝，奏闻父王，封官授爵。"
+          "text": "小王被李密囚禁南牢，多蒙皇兄释放。回朝日夜思念，今幸相逢。请皇兄随我"
+        },
+        {
+          "character": "李世民",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "入朝，奏闻父王，封官授爵。"
         },
         {
           "character": "王伯当",
@@ -1105,31 +1947,157 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "皇兄不必细叮咛，\n小王岂是无信人。\n招贤纳士访贤臣。\n理应带入午朝门。\n一笔勾销不理论。\n父王见罪孤担承。"
+          "text": "皇兄不必细叮咛，"
         },
         {
-          "character": "父王仁义治天下、李密既然来归顺、从前事儿丢开手、上殿启奏太平本、王伯当",
+          "character": "李世民",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "小王岂是无信人。"
+        },
+        {
+          "character": "李世民",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "招贤纳士访贤臣。"
+        },
+        {
+          "character": "李世民",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "理应带入午朝门。"
+        },
+        {
+          "character": "李世民",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "一笔勾销不理论。"
+        },
+        {
+          "character": "李世民",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "父王见罪孤担承。"
+        },
+        {
+          "character": "李世民",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "父王仁义治天下"
+        },
+        {
+          "character": "李世民",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "李密既然来归顺"
+        },
+        {
+          "character": "李世民",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "从前事儿丢开手"
+        },
+        {
+          "character": "李世民",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "上殿启奏太平本"
+        },
+        {
+          "character": "王伯当",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
           "text": "呀！"
         },
         {
-          "character": "父王仁义治天下、李密既然来归顺、从前事儿丢开手、上殿启奏太平本、王伯当",
+          "character": "王伯当",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "父王仁义治天下"
+        },
+        {
+          "character": "王伯当",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "李密既然来归顺"
+        },
+        {
+          "character": "王伯当",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "从前事儿丢开手"
+        },
+        {
+          "character": "王伯当",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "上殿启奏太平本"
+        },
+        {
+          "character": "王伯当",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "好一个仁义有道王，\n腹宽量大赛商汤。\n他比尧舜分外强。\n松林忙把大王请！"
+          "text": "好一个仁义有道王，"
         },
         {
-          "character": "后来若是登九五、李密",
+          "character": "王伯当",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "腹宽量大赛商汤。"
+        },
+        {
+          "character": "王伯当",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "他比尧舜分外强。"
+        },
+        {
+          "character": "王伯当",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "松林忙把大王请！"
+        },
+        {
+          "character": "王伯当",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "后来若是登九五"
+        },
+        {
+          "character": "李密",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
           "text": "心中恍惚不安详。"
         },
         {
-          "character": "后来若是登九五、李密",
+          "character": "李密",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "后来若是登九五"
+        },
+        {
+          "character": "李密",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -1231,14 +2199,126 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "说什么瓦岗独你尊，\n说什么屈膝不跪人？\n真命帝主下凡尘。\n四海人称圣明君。\n九嫔八妃今何在？\n火烧瓦岗玉石焚！\n管叫你头戴朝冠、身穿袍服、脚踏朝靴、一步一步入朝门。"
+          "text": "说什么瓦岗独你尊，"
         },
         {
-          "character": "唐王本是仁义主、治国安邦比尧舜、上前见过君臣礼、李密",
+          "character": "王伯当",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "李密闻言无定准，\n低下头来自思忖。\n称孤道寡坐朝廷。\n帐内出言鬼神惊！\n时衰运去鬼弄人。\n叮咛言语孤心明。\n情愿屈膝口称臣。\n王贤弟与孤把路引！"
+          "text": "说什么屈膝不跪人？"
+        },
+        {
+          "character": "王伯当",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "真命帝主下凡尘。"
+        },
+        {
+          "character": "王伯当",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "四海人称圣明君。"
+        },
+        {
+          "character": "王伯当",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "九嫔八妃今何在？"
+        },
+        {
+          "character": "王伯当",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "火烧瓦岗玉石焚！"
+        },
+        {
+          "character": "王伯当",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "管叫你头戴朝冠、身穿袍服、脚踏朝靴、一步一步入朝门。"
+        },
+        {
+          "character": "王伯当",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "唐王本是仁义主"
+        },
+        {
+          "character": "王伯当",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "治国安邦比尧舜"
+        },
+        {
+          "character": "王伯当",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "上前见过君臣礼"
+        },
+        {
+          "character": "李密",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "李密闻言无定准，"
+        },
+        {
+          "character": "李密",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "低下头来自思忖。"
+        },
+        {
+          "character": "李密",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "称孤道寡坐朝廷。"
+        },
+        {
+          "character": "李密",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "帐内出言鬼神惊！"
+        },
+        {
+          "character": "李密",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "时衰运去鬼弄人。"
+        },
+        {
+          "character": "李密",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "叮咛言语孤心明。"
+        },
+        {
+          "character": "李密",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "情愿屈膝口称臣。"
+        },
+        {
+          "character": "李密",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "王贤弟与孤把路引！"
         },
         {
           "character": null,
@@ -1273,17 +2353,66 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "魏王休要太谦逊，\n忧愁二字免挂心。\n小王保你做公卿。\n可许你皇兄御弟称。"
+          "text": "魏王休要太谦逊，"
         },
         {
-          "character": "去邪归正来降顺、父王驾前安排定、李密",
+          "character": "李世民",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "忧愁二字免挂心。"
+        },
+        {
+          "character": "李世民",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "小王保你做公卿。"
+        },
+        {
+          "character": "李世民",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "可许你皇兄御弟称。"
+        },
+        {
+          "character": "李世民",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "去邪归正来降顺"
+        },
+        {
+          "character": "李世民",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "父王驾前安排定"
+        },
+        {
+          "character": "李密",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
           "text": "谢千岁！"
         },
         {
-          "character": "去邪归正来降顺、父王驾前安排定、李密",
+          "character": "李密",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "去邪归正来降顺"
+        },
+        {
+          "character": "李密",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "父王驾前安排定"
+        },
+        {
+          "character": "李密",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
@@ -1387,7 +2516,17 @@
         "singing_ratio": 0.203,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.203,
+        0.4874,
+        0.5126,
+        0.0,
+        0.5169,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 5,
@@ -1425,7 +2564,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "寡人大唐天子、国号武德王在位。自太原起义，受命于天，龙飞凤舞。正是：\n福庇万民安天下，满朝衣冠贺圣君。"
+          "text": "寡人大唐天子、国号武德王在位。自太原起义，受命于天，龙飞凤舞。正是："
+        },
+        {
+          "character": "李渊",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "福庇万民安天下，满朝衣冠贺圣君。"
         },
         {
           "character": null,
@@ -1509,14 +2655,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "唔！李密乃瓦岗贼寇，从前将吾儿囚禁南牢，寡人正要兴兵拿他。今投罗网，\n何不将他正法？"
+          "text": "唔！李密乃瓦岗贼寇，从前将吾儿囚禁南牢，寡人正要兴兵拿他。今投罗网，"
+        },
+        {
+          "character": "李渊",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "何不将他正法？"
         },
         {
           "character": "李世民",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "父王！李密不避刀斧，前来降唐，理应赦却。况且父王以仁义治天下，若怀小\n恨，大事难成。父王三思！"
+          "text": "父王！李密不避刀斧，前来降唐，理应赦却。况且父王以仁义治天下，若怀小"
+        },
+        {
+          "character": "李世民",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "恨，大事难成。父王三思！"
         },
         {
           "character": "李渊",
@@ -1663,7 +2823,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "卿奏道：一臣不事二主，不受寡人官职，还随李密帐下。日后立功，再受寡人\n荣封。本待不准，念你义烈男儿，准奏下殿。"
+          "text": "卿奏道：一臣不事二主，不受寡人官职，还随李密帐下。日后立功，再受寡人"
+        },
+        {
+          "character": "李渊",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "荣封。本待不准，念你义烈男儿，准奏下殿。"
         },
         {
           "character": "王伯当",
@@ -1829,7 +2996,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0222,
+        0.8667,
+        0.1111,
+        0.7955,
+        5,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 6,
@@ -1883,7 +3060,17 @@
         "singing_ratio": 1.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        1.0,
+        0.3333,
+        0.3333,
+        0.3333,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 7,
@@ -1904,14 +3091,14 @@
           "text": "（四宫女引河阳公主同上。）"
         },
         {
-          "character": null,
+          "character": "河阳公主",
           "line_type": "念",
           "musical_style": null,
           "style_family": null,
           "text": "珍珠帘内罩翠纱，奴本金枝玉叶花。钦奉旨意今下嫁，魏王降顺保唐家。"
         },
         {
-          "character": null,
+          "character": "河阳公主",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -2567,7 +3754,17 @@
         "singing_ratio": 0.062,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.062,
+        0.1538,
+        0.8333,
+        0.0128,
+        0.8182,
+        5,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 8,
@@ -2754,7 +3951,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0625,
+        0.75,
+        0.1875,
+        0.6667,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 9,
@@ -2794,7 +4001,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 10,
@@ -2989,7 +4206,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.875,
+        0.125,
+        0.8,
+        5,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 11,
@@ -3257,7 +4484,17 @@
         "singing_ratio": 0.538,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.538,
+        0.6,
+        0.4,
+        0.0,
+        0.8621,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 12,
@@ -3297,7 +4534,17 @@
         "singing_ratio": 1.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        1.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 13,
@@ -3602,7 +4849,17 @@
         "singing_ratio": 0.368,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.368,
+        0.4583,
+        0.5417,
+        0.0,
+        0.6957,
+        4,
+        0.0,
+        0.0
+      ]
     }
   ]
 }

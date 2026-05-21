@@ -94,7 +94,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "我张二，奉了上司之命，手拿公文，去提魏虎，将他发配广东，我也不晓得虎\n头门在哪里，我来找寻找寻。\n行行去去，去去行行。吓到了虎头门。\n哽，看监的。"
+          "text": "我张二，奉了上司之命，手拿公文，去提魏虎，将他发配广东，我也不晓得虎"
+        },
+        {
+          "character": "差役",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "头门在哪里，我来找寻找寻。"
+        },
+        {
+          "character": "差役",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "行行去去，去去行行。吓到了虎头门。"
+        },
+        {
+          "character": "差役",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "哽，看监的。"
         },
         {
           "character": null,
@@ -122,7 +143,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "哦，上差，待我开门。\n上差请。"
+          "text": "哦，上差，待我开门。"
+        },
+        {
+          "character": "禁子",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "上差请。"
         },
         {
           "character": null,
@@ -388,7 +416,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "不要紧不要紧，我来叫。\n魏虎醒来。"
+          "text": "不要紧不要紧，我来叫。"
+        },
+        {
+          "character": "禁子",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "魏虎醒来。"
         },
         {
           "character": "魏虎",
@@ -458,7 +493,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "咳，狱神老爷，学生到了监中，从来未曾烧香，保佑弟子早早回来，与你重修\n庙宇，再塑金身。\n咳，禁大哥，是我到了监中，从来没有好处把你，我要走了，后面还有酱豆腐\n一块，半块酱猪肉，送与禁大哥。"
+          "text": "咳，狱神老爷，学生到了监中，从来未曾烧香，保佑弟子早早回来，与你重修"
+        },
+        {
+          "character": "魏虎",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "庙宇，再塑金身。"
+        },
+        {
+          "character": "魏虎",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "咳，禁大哥，是我到了监中，从来没有好处把你，我要走了，后面还有酱豆腐"
+        },
+        {
+          "character": "魏虎",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "一块，半块酱猪肉，送与禁大哥。"
         },
         {
           "character": "禁子",
@@ -556,7 +612,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "哦，有一里算一里，有一站算一站，但不知骑马，还是坐轿，还是火轮船，还\n是……"
+          "text": "哦，有一里算一里，有一站算一站，但不知骑马，还是坐轿，还是火轮船，还"
+        },
+        {
+          "character": "魏虎",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "是……"
         },
         {
           "character": "差役",
@@ -584,7 +647,14 @@
           "line_type": "吹腔",
           "musical_style": null,
           "style_family": null,
-          "text": "赵钱孙李，周吴郑王，\n冯陈褚卫，蒋沈韩杨。"
+          "text": "赵钱孙李，周吴郑王，"
+        },
+        {
+          "character": "魏虎",
+          "line_type": "吹腔",
+          "musical_style": null,
+          "style_family": null,
+          "text": "冯陈褚卫，蒋沈韩杨。"
         },
         {
           "character": "魏虎",
@@ -619,7 +689,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "没有吓。\n哎呀不好了。"
+          "text": "没有吓。"
+        },
+        {
+          "character": "差役",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "哎呀不好了。"
         },
         {
           "character": null,
@@ -665,7 +742,17 @@
         "singing_ratio": 0.015,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.015,
+        0.037,
+        0.9383,
+        0.0247,
+        0.8125,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -703,14 +790,35 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "我王氏。丈夫出外，杳无音信回来，是我情急无奈，在家做几个饽饽。今天天\n气和暖，不免将饽饽摆起。"
+          "text": "我王氏。丈夫出外，杳无音信回来，是我情急无奈，在家做几个饽饽。今天天"
+        },
+        {
+          "character": "王氏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "气和暖，不免将饽饽摆起。"
         },
         {
           "character": "王氏",
           "line_type": "吹腔",
           "musical_style": null,
           "style_family": null,
-          "text": "丈夫出外去贸易，\n无有音信转家里。\n来路买卖做生意。"
+          "text": "丈夫出外去贸易，"
+        },
+        {
+          "character": "王氏",
+          "line_type": "吹腔",
+          "musical_style": null,
+          "style_family": null,
+          "text": "无有音信转家里。"
+        },
+        {
+          "character": "王氏",
+          "line_type": "吹腔",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来路买卖做生意。"
         },
         {
           "character": null,
@@ -724,7 +832,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "你瞧这孩子，饽饽不拿出来，他也不哭；刚刚拿出来，他就哭呢，这怎么好？\n哦有了，这位大爷，劳你的驾，替我看一会饽饽，我苟孩子一点奶吃去，饽饽\n卖了钱，摆在里头，劳你大爷的驾，我就来。"
+          "text": "你瞧这孩子，饽饽不拿出来，他也不哭；刚刚拿出来，他就哭呢，这怎么好？"
+        },
+        {
+          "character": "王氏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "哦有了，这位大爷，劳你的驾，替我看一会饽饽，我苟孩子一点奶吃去，饽饽"
+        },
+        {
+          "character": "王氏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "卖了钱，摆在里头，劳你大爷的驾，我就来。"
         },
         {
           "character": null,
@@ -745,7 +867,14 @@
           "line_type": "吹腔",
           "musical_style": null,
           "style_family": null,
-          "text": "急急走来莫消停，\n两足疼痛实难行。"
+          "text": "急急走来莫消停，"
+        },
+        {
+          "character": "魏虎",
+          "line_type": "吹腔",
+          "musical_style": null,
+          "style_family": null,
+          "text": "两足疼痛实难行。"
         },
         {
           "character": null,
@@ -794,7 +923,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "大哥，那旁有一块上马石，你在那里打个盹，我在这里歇歇腿，歇一会我们就\n走。"
+          "text": "大哥，那旁有一块上马石，你在那里打个盹，我在这里歇歇腿，歇一会我们就"
+        },
+        {
+          "character": "魏虎",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "走。"
         },
         {
           "character": "差役",
@@ -871,7 +1007,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "大哥睡了，我也好歇歇了。\n哎呀大哥，两个苍蝇在他头上操屁股，怎么好吓，我来赶它。"
+          "text": "大哥睡了，我也好歇歇了。"
+        },
+        {
+          "character": "魏虎",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "哎呀大哥，两个苍蝇在他头上操屁股，怎么好吓，我来赶它。"
         },
         {
           "character": null,
@@ -1053,7 +1196,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "大哥睡着了，我也好歇歇。吵了半天，肚子有些饿了，这怎么好，嗳，那旁怎\n么霞光万道，瑞气千条，待我去看看。哎呀原来是个饽饽好东西，哎吓饽饽，\n今日也想你，明日也想你，总想不到口，今日遇见你呢。"
+          "text": "大哥睡着了，我也好歇歇。吵了半天，肚子有些饿了，这怎么好，嗳，那旁怎"
+        },
+        {
+          "character": "魏虎",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "么霞光万道，瑞气千条，待我去看看。哎呀原来是个饽饽好东西，哎吓饽饽，"
+        },
+        {
+          "character": "魏虎",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "今日也想你，明日也想你，总想不到口，今日遇见你呢。"
         },
         {
           "character": null,
@@ -1067,7 +1224,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "你瞧这孩子，一吃奶就睡着了，饽饽还在外头，我瞧瞧去。咦？今个买卖好，\n劳你大爷驾，卖了饽饽这钱呢？没有吓，哦，那个犯人在那里吃呢。\n呔，那一犯人！"
+          "text": "你瞧这孩子，一吃奶就睡着了，饽饽还在外头，我瞧瞧去。咦？今个买卖好，"
+        },
+        {
+          "character": "王氏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "劳你大爷驾，卖了饽饽这钱呢？没有吓，哦，那个犯人在那里吃呢。"
+        },
+        {
+          "character": "王氏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "呔，那一犯人！"
         },
         {
           "character": "魏虎",
@@ -1305,7 +1476,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "就是她，我问问去。\n哦，大婊子。"
+          "text": "就是她，我问问去。"
+        },
+        {
+          "character": "差役",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "哦，大婊子。"
         },
         {
           "character": "王氏",
@@ -1375,7 +1553,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "嫂子不要生气，我问他去。\n嚇，你这个东西，吃人的饽饽，为什么不苟钱？"
+          "text": "嫂子不要生气，我问他去。"
+        },
+        {
+          "character": "差役",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "嚇，你这个东西，吃人的饽饽，为什么不苟钱？"
         },
         {
           "character": "魏虎",
@@ -1389,7 +1574,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "老天爷赐把你的？\n大嫂子，这饽饽不是你的，是老天爷赐与他吃的。"
+          "text": "老天爷赐把你的？"
+        },
+        {
+          "character": "差役",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "大嫂子，这饽饽不是你的，是老天爷赐与他吃的。"
         },
         {
           "character": "王氏",
@@ -1459,7 +1651,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "你不要开口。\n大嫂子，听你说话，不像此地人吓。"
+          "text": "你不要开口。"
+        },
+        {
+          "character": "差役",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "大嫂子，听你说话，不像此地人吓。"
         },
         {
           "character": "王氏",
@@ -1795,7 +1994,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "我知道。\n嫂子，这二百钱也不交与你，也不交与他，摆在柜上，唱完了你拿去吧。"
+          "text": "我知道。"
+        },
+        {
+          "character": "差役",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "嫂子，这二百钱也不交与你，也不交与他，摆在柜上，唱完了你拿去吧。"
         },
         {
           "character": "王氏",
@@ -1809,7 +2015,14 @@
           "line_type": "吹腔",
           "musical_style": null,
           "style_family": null,
-          "text": "唱一个歌儿大爷听：\n我本是沙国棉羊州的人。"
+          "text": "唱一个歌儿大爷听："
+        },
+        {
+          "character": "王氏",
+          "line_type": "吹腔",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我本是沙国棉羊州的人。"
         },
         {
           "character": "王氏",
@@ -1865,10 +2078,31 @@
           "line_type": "吹腔",
           "musical_style": null,
           "style_family": null,
-          "text": "一根竹子十二节，\n一年倒有十二个月。\n一年庄稼都在水里。"
+          "text": "一根竹子十二节，"
         },
         {
-          "character": "一年四季下大雨、魏虎",
+          "character": "王氏",
+          "line_type": "吹腔",
+          "musical_style": null,
+          "style_family": null,
+          "text": "一年倒有十二个月。"
+        },
+        {
+          "character": "王氏",
+          "line_type": "吹腔",
+          "musical_style": null,
+          "style_family": null,
+          "text": "一年庄稼都在水里。"
+        },
+        {
+          "character": "王氏",
+          "line_type": "吹腔",
+          "musical_style": null,
+          "style_family": null,
+          "text": "一年四季下大雨"
+        },
+        {
+          "character": "魏虎",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -1879,7 +2113,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "什么？我问去。\n嫂子你身上有狗痘子？"
+          "text": "什么？我问去。"
+        },
+        {
+          "character": "差役",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "嫂子你身上有狗痘子？"
         },
         {
           "character": "王氏",
@@ -2082,7 +2323,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "我告诉你跪下，这个这个，这个马上就开心。\n差役"
+          "text": "我告诉你跪下，这个这个，这个马上就开心。"
+        },
+        {
+          "character": "魏虎",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "差役"
         }
       ],
       "interactions": [
@@ -2120,7 +2368,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0574,
+        0.9378,
+        0.0048,
+        0.8365,
+        3,
+        0.0,
+        0.0
+      ]
     }
   ]
 }

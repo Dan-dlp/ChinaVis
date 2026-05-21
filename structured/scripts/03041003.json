@@ -273,7 +273,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "列位将军，想俺班超，有何德能，蒙大将军保荐，迎接我等进关，镇守西凉一\n带等处，顺说鄯善国归降。此番前去，全仗列位将军之力！"
+          "text": "列位将军，想俺班超，有何德能，蒙大将军保荐，迎接我等进关，镇守西凉一"
+        },
+        {
+          "character": "班超",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "带等处，顺说鄯善国归降。此番前去，全仗列位将军之力！"
         },
         {
           "character": "郭熙、李义、鲍勇、任尚",
@@ -294,7 +301,14 @@
           "line_type": "同白",
           "musical_style": null,
           "style_family": null,
-          "text": "得令。\n众将官！"
+          "text": "得令。"
+        },
+        {
+          "character": "郭熙、李义、鲍勇、任尚",
+          "line_type": "同白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "众将官！"
         },
         {
           "character": "四龙套、四上手",
@@ -336,7 +350,28 @@
           "line_type": "西皮慢板",
           "musical_style": "西皮慢板",
           "style_family": "西皮",
-          "text": "叹不尽功名事古今贤良。\n要催那众蛮王俱归汉邦。\n却也有渔樵人放牛牧羊。\n但愿得顺说那鄯善归降。"
+          "text": "叹不尽功名事古今贤良。"
+        },
+        {
+          "character": "班超",
+          "line_type": "西皮慢板",
+          "musical_style": "西皮慢板",
+          "style_family": "西皮",
+          "text": "要催那众蛮王俱归汉邦。"
+        },
+        {
+          "character": "班超",
+          "line_type": "西皮慢板",
+          "musical_style": "西皮慢板",
+          "style_family": "西皮",
+          "text": "却也有渔樵人放牛牧羊。"
+        },
+        {
+          "character": "班超",
+          "line_type": "西皮慢板",
+          "musical_style": "西皮慢板",
+          "style_family": "西皮",
+          "text": "但愿得顺说那鄯善归降。"
         },
         {
           "character": null,
@@ -401,7 +436,17 @@
           "西皮导板",
           "西皮慢板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.1875,
+        0.6875,
+        0.125,
+        0.7742,
+        8,
+        0.1562,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -430,7 +475,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "某、匈奴王是也。威镇北国，自立为王。帐下蛮兵数万，战将千员，意欲夺取\n汉室江山。适才闻报，今有班超等三十六人，统领人马，已出玉门关。不知为\n了何事。不免去往鄯善国，一问老大王便知明白。\n嘚，众蛮兵！"
+          "text": "某、匈奴王是也。威镇北国，自立为王。帐下蛮兵数万，战将千员，意欲夺取"
+        },
+        {
+          "character": "匈奴王",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "汉室江山。适才闻报，今有班超等三十六人，统领人马，已出玉门关。不知为"
+        },
+        {
+          "character": "匈奴王",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "了何事。不免去往鄯善国，一问老大王便知明白。"
+        },
+        {
+          "character": "匈奴王",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "嘚，众蛮兵！"
         },
         {
           "character": "四下手",
@@ -481,7 +547,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.875,
+        0.125,
+        0.4286,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -521,7 +597,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "孤、鄯善国王安广。自从光武重兴，深闭玉门，两不相犯。今闻大汉王命班超\n来到我国，不日即到。也曾命人打探，未见回报。"
+          "text": "孤、鄯善国王安广。自从光武重兴，深闭玉门，两不相犯。今闻大汉王命班超"
+        },
+        {
+          "character": "鄯善王",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来到我国，不日即到。也曾命人打探，未见回报。"
         },
         {
           "character": null,
@@ -619,14 +702,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "天国不久就要扫尽北国。先命我等前来晓谕贤君，及早进贡天朝，生灵免受涂\n炭。请自参详！"
+          "text": "天国不久就要扫尽北国。先命我等前来晓谕贤君，及早进贡天朝，生灵免受涂"
+        },
+        {
+          "character": "班超",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "炭。请自参详！"
         },
         {
           "character": "鄯善王",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "孤王本欲归顺天朝，怎奈匈奴王不肯。司马请在馆驿安歇，待孤请他到来，一\n同商议归顺便了。"
+          "text": "孤王本欲归顺天朝，怎奈匈奴王不肯。司马请在馆驿安歇，待孤请他到来，一"
+        },
+        {
+          "character": "鄯善王",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "同商议归顺便了。"
         },
         {
           "character": "班超",
@@ -745,7 +842,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "休长他人志气，灭却自己威风！\n众蛮兵！"
+          "text": "休长他人志气，灭却自己威风！"
+        },
+        {
+          "character": "匈奴王",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "众蛮兵！"
         },
         {
           "character": "四下手",
@@ -780,7 +884,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "看匈奴王此去，定然有失。\n羌兵们！"
+          "text": "看匈奴王此去，定然有失。"
+        },
+        {
+          "character": "鄯善王",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "羌兵们！"
         },
         {
           "character": "四文堂",
@@ -878,7 +989,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0233,
+        0.9535,
+        0.0233,
+        0.8333,
+        6,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 4,
@@ -926,7 +1047,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "列位将军，我等奉命来到鄯善国，且喜国王见信，情愿进贡归降，叫我等在这\n馆驿安歇。为何供应全无？"
+          "text": "列位将军，我等奉命来到鄯善国，且喜国王见信，情愿进贡归降，叫我等在这"
+        },
+        {
+          "character": "班超",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "馆驿安歇。为何供应全无？"
         },
         {
           "character": "郭熙、鲍勇、李义、任尚",
@@ -968,21 +1096,70 @@
           "line_type": "二黄慢板",
           "musical_style": "二黄慢板",
           "style_family": "二黄",
-          "text": "听树梢风悠悠人烟肃静，\n对此景不由人诸事在心。\n只见那天边月三星照临。\n只有那张子房告职归林。\n天不绝汉江山光武重兴。\n俺班超必须要报效朝廷。"
+          "text": "听树梢风悠悠人烟肃静，"
+        },
+        {
+          "character": "班超",
+          "line_type": "二黄慢板",
+          "musical_style": "二黄慢板",
+          "style_family": "二黄",
+          "text": "对此景不由人诸事在心。"
+        },
+        {
+          "character": "班超",
+          "line_type": "二黄慢板",
+          "musical_style": "二黄慢板",
+          "style_family": "二黄",
+          "text": "只见那天边月三星照临。"
+        },
+        {
+          "character": "班超",
+          "line_type": "二黄慢板",
+          "musical_style": "二黄慢板",
+          "style_family": "二黄",
+          "text": "只有那张子房告职归林。"
+        },
+        {
+          "character": "班超",
+          "line_type": "二黄慢板",
+          "musical_style": "二黄慢板",
+          "style_family": "二黄",
+          "text": "天不绝汉江山光武重兴。"
+        },
+        {
+          "character": "班超",
+          "line_type": "二黄慢板",
+          "musical_style": "二黄慢板",
+          "style_family": "二黄",
+          "text": "俺班超必须要报效朝廷。"
         },
         {
           "character": "班超",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "且住！俺今在此自叹，倘被贼兵暗算，如何是好？呃！大丈夫行事，何惧小谋？\n不免打睡片时，到了天明，再作道理！"
+          "text": "且住！俺今在此自叹，倘被贼兵暗算，如何是好？呃！大丈夫行事，何惧小谋？"
+        },
+        {
+          "character": "班超",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "不免打睡片时，到了天明，再作道理！"
         },
         {
           "character": "班超",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "到如今心有事神魂不定，\n怀抱剑无良策且待天明。"
+          "text": "到如今心有事神魂不定，"
+        },
+        {
+          "character": "班超",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "怀抱剑无良策且待天明。"
         },
         {
           "character": null,
@@ -996,14 +1173,35 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "班司马虽年幼英雄气象，\n怕的是匈奴王必遭祸殃。"
+          "text": "班司马虽年幼英雄气象，"
+        },
+        {
+          "character": "鄯善王",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "怕的是匈奴王必遭祸殃。"
         },
         {
           "character": "鄯善王",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "孤、安广。只为匈奴王领兵去往馆驿行刺班超，恐他难以成功，为此带领羌兵\n暗地接应。\n羌兵们！"
+          "text": "孤、安广。只为匈奴王领兵去往馆驿行刺班超，恐他难以成功，为此带领羌兵"
+        },
+        {
+          "character": "鄯善王",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "暗地接应。"
+        },
+        {
+          "character": "鄯善王",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "羌兵们！"
         },
         {
           "character": "四文堂",
@@ -1024,7 +1222,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "众儿郎且谨慎休要卤莽，\n必须要听消息紧随孤王。"
+          "text": "众儿郎且谨慎休要卤莽，"
+        },
+        {
+          "character": "鄯善王",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "必须要听消息紧随孤王。"
         },
         {
           "character": null,
@@ -1115,7 +1320,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "想那猛虎出没，定有贼人暗算。有道是：不入虎穴，焉得虎子？我等在馆外埋\n伏，若有动静，杀他个片甲不存！"
+          "text": "想那猛虎出没，定有贼人暗算。有道是：不入虎穴，焉得虎子？我等在馆外埋"
+        },
+        {
+          "character": "班超",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "伏，若有动静，杀他个片甲不存！"
         },
         {
           "character": "郭熙、鲍勇、李义、任尚",
@@ -1136,7 +1348,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "尊列位齐努力防贼要紧，\n扫尽了那番奴表奏当今。"
+          "text": "尊列位齐努力防贼要紧，"
+        },
+        {
+          "character": "班超",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "扫尽了那番奴表奏当今。"
         },
         {
           "character": null,
@@ -1185,7 +1404,17 @@
         "musical_styles": [
           "二黄慢板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.136,
+        0.3636,
+        0.6136,
+        0.0227,
+        0.4884,
+        4,
+        0.0,
+        0.1364
+      ]
     },
     {
       "scene_index": 5,
@@ -1392,7 +1621,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.9286,
+        5,
+        0.0,
+        0.0
+      ]
     }
   ]
 }

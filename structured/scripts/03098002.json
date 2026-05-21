@@ -375,7 +375,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "臣启主公：濠州城外有一广泰庄，内有一人，姓徐名达，此人文武双全。主公\n若能请他前来，可以领兵挂帅。"
+          "text": "臣启主公：濠州城外有一广泰庄，内有一人，姓徐名达，此人文武双全。主公"
+        },
+        {
+          "character": "刘基",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "若能请他前来，可以领兵挂帅。"
         },
         {
           "character": "朱元璋",
@@ -410,7 +417,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "得令！\n马来！"
+          "text": "得令！"
+        },
+        {
+          "character": "郭英",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "马来！"
         },
         {
           "character": null,
@@ -445,7 +459,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "得令！\n马来！"
+          "text": "得令！"
+        },
+        {
+          "character": "常遇春",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "马来！"
         },
         {
           "character": null,
@@ -549,7 +570,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0244,
+        0.8537,
+        0.122,
+        0.9,
+        9,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -605,7 +636,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "俺、徐达。祖居濠州广泰庄。自幼随父习学武艺，十八般兵刃件件精通。本当\n投一明主，出力报效；怎奈先父早亡，只有老母在堂，因此弃却功名，终日侍\n奉老母。今乃家母寿诞之期，不免备下酒宴，与母亲上寿。\n家院，酒宴可曾齐备？"
+          "text": "俺、徐达。祖居濠州广泰庄。自幼随父习学武艺，十八般兵刃件件精通。本当"
+        },
+        {
+          "character": "徐达",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "投一明主，出力报效；怎奈先父早亡，只有老母在堂，因此弃却功名，终日侍"
+        },
+        {
+          "character": "徐达",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "奉老母。今乃家母寿诞之期，不免备下酒宴，与母亲上寿。"
+        },
+        {
+          "character": "徐达",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "家院，酒宴可曾齐备？"
         },
         {
           "character": "家院",
@@ -738,21 +790,70 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "母子们在堂前同饮欢畅，\n但愿得满门中乐享安康。\n受荣华荫子孙代代忠良。"
+          "text": "母子们在堂前同饮欢畅，"
         },
         {
-          "character": "有一日我的儿身为良将、徐达",
+          "character": "徐母",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "今乃是寿诞期寿酒献上，\n侍膝前听教训美名传扬。\n儿情愿落孝名万古流芳。"
+          "text": "但愿得满门中乐享安康。"
         },
         {
-          "character": "愿老娘身康健寿高福广、徐妻",
+          "character": "徐母",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "一家人在堂前同饮佳酿，\n尽孝道奉膝下代代传扬。"
+          "text": "受荣华荫子孙代代忠良。"
+        },
+        {
+          "character": "徐母",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "有一日我的儿身为良将"
+        },
+        {
+          "character": "徐达",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "今乃是寿诞期寿酒献上，"
+        },
+        {
+          "character": "徐达",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "侍膝前听教训美名传扬。"
+        },
+        {
+          "character": "徐达",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "儿情愿落孝名万古流芳。"
+        },
+        {
+          "character": "徐达",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "愿老娘身康健寿高福广"
+        },
+        {
+          "character": "徐妻",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "一家人在堂前同饮佳酿，"
+        },
+        {
+          "character": "徐妻",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "尽孝道奉膝下代代传扬。"
         },
         {
           "character": null,
@@ -899,56 +1000,217 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "将军此话欠思量，\n细听小王说端详：\n做一个忠臣代代名扬。"
+          "text": "将军此话欠思量，"
         },
         {
-          "character": "将军才高志又广、徐达",
+          "character": "朱元璋",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "千岁把话错来讲，\n细听徐达诉衷肠：\n实实不能弃高堂。"
+          "text": "细听小王说端详："
         },
         {
-          "character": "家有老母六旬上、郭英",
-          "line_type": "白",
-          "musical_style": null,
-          "style_family": null,
-          "text": "师兄！"
-        },
-        {
-          "character": "家有老母六旬上、郭英",
+          "character": "朱元璋",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "师兄说话欠思想，\n小弟言来听端详：\n就该一同保贤王。"
+          "text": "做一个忠臣代代名扬。"
         },
         {
-          "character": "千岁爱将真爱将、徐达",
+          "character": "朱元璋",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "难比贤弟韬略广，\n朝朝暮暮伴君王。\n忠孝不能两全扬。\n愚兄要做行孝郎。\n我难保千岁锦家邦。"
-        },
-        {
-          "character": "自古常言道得好、家母年迈六旬上、时时刻刻奉膝下、郭英",
-          "line_type": "唱",
-          "musical_style": null,
-          "style_family": null,
-          "text": "你今归顺朱皇上，\n富贵荣华世代长。"
+          "text": "将军才高志又广"
         },
         {
           "character": "徐达",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "休把富贵对我讲，\n徐达岂是小儿郎？\n无忧无虑乐安康。"
+          "text": "千岁把话错来讲，"
         },
         {
-          "character": "自幼隐居广泰庄、郭英",
+          "character": "徐达",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "听罢言来怒满膛，\n不由豪杰冒火光。\n千岁上马回营帐——"
+          "text": "细听徐达诉衷肠："
+        },
+        {
+          "character": "徐达",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "实实不能弃高堂。"
+        },
+        {
+          "character": "徐达",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "家有老母六旬上"
+        },
+        {
+          "character": "郭英",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "师兄！"
+        },
+        {
+          "character": "郭英",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "家有老母六旬上"
+        },
+        {
+          "character": "郭英",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "师兄说话欠思想，"
+        },
+        {
+          "character": "郭英",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "小弟言来听端详："
+        },
+        {
+          "character": "郭英",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "就该一同保贤王。"
+        },
+        {
+          "character": "郭英",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "千岁爱将真爱将"
+        },
+        {
+          "character": "徐达",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "难比贤弟韬略广，"
+        },
+        {
+          "character": "徐达",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "朝朝暮暮伴君王。"
+        },
+        {
+          "character": "徐达",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "忠孝不能两全扬。"
+        },
+        {
+          "character": "徐达",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "愚兄要做行孝郎。"
+        },
+        {
+          "character": "徐达",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我难保千岁锦家邦。"
+        },
+        {
+          "character": "徐达",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "自古常言道得好"
+        },
+        {
+          "character": "徐达",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "家母年迈六旬上"
+        },
+        {
+          "character": "徐达",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "时时刻刻奉膝下"
+        },
+        {
+          "character": "郭英",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "你今归顺朱皇上，"
+        },
+        {
+          "character": "郭英",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "富贵荣华世代长。"
+        },
+        {
+          "character": "徐达",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "休把富贵对我讲，"
+        },
+        {
+          "character": "徐达",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "徐达岂是小儿郎？"
+        },
+        {
+          "character": "徐达",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "无忧无虑乐安康。"
+        },
+        {
+          "character": "徐达",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "自幼隐居广泰庄"
+        },
+        {
+          "character": "郭英",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "听罢言来怒满膛，"
+        },
+        {
+          "character": "郭英",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "不由豪杰冒火光。"
+        },
+        {
+          "character": "郭英",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "千岁上马回营帐——"
         },
         {
           "character": null,
@@ -1055,7 +1317,17 @@
         "singing_ratio": 0.214,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.214,
+        0.525,
+        0.4125,
+        0.0625,
+        0.4937,
+        8,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -1077,7 +1349,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "俺、常遇春。奉军师将令，各路催押粮草。且喜粮草催齐。\n军士们，回营交令！"
+          "text": "俺、常遇春。奉军师将令，各路催押粮草。且喜粮草催齐。"
+        },
+        {
+          "character": "常遇春",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "军士们，回营交令！"
         },
         {
           "character": "四龙套",
@@ -1109,7 +1388,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.5,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 4,
@@ -1219,7 +1508,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "将军之功。\n郭英听令！"
+          "text": "将军之功。"
+        },
+        {
+          "character": "刘基",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "郭英听令！"
         },
         {
           "character": "郭英",
@@ -1268,7 +1564,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "命你安排车辆，诓请徐母，就说徐达已然归顺。徐母出庄之后，将广泰庄用火\n焚烧，不得有误！"
+          "text": "命你安排车辆，诓请徐母，就说徐达已然归顺。徐母出庄之后，将广泰庄用火"
+        },
+        {
+          "character": "刘基",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "焚烧，不得有误！"
         },
         {
           "character": "常遇春",
@@ -1303,7 +1606,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "命你二人藏在松林，徐达到来，截杀一阵；只许败，不许胜，将他诓到城下，\n山人自有定夺。"
+          "text": "命你二人藏在松林，徐达到来，截杀一阵；只许败，不许胜，将他诓到城下，"
+        },
+        {
+          "character": "刘基",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "山人自有定夺。"
         },
         {
           "character": "沐英、胡大海",
@@ -1379,7 +1689,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.9615,
+        0.0385,
+        0.8,
+        5,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 5,
@@ -1402,17 +1722,45 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "忆昔当年赴科场，\n天下英雄逞刚强。\n假扮山寇将他诓。"
+          "text": "忆昔当年赴科场，"
+        },
+        {
+          "character": "郭英",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "天下英雄逞刚强。"
+        },
+        {
+          "character": "郭英",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "假扮山寇将他诓。"
         },
         {
           "character": "郭英",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "某、郭英。奉了军师将令，假扮山寇，诓哄徐达。\n众将官！"
+          "text": "某、郭英。奉了军师将令，假扮山寇，诓哄徐达。"
         },
         {
-          "character": "徐达今日不归降、四龙套",
+          "character": "郭英",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "众将官！"
+        },
+        {
+          "character": "郭英",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "徐达今日不归降"
+        },
+        {
+          "character": "四龙套",
           "line_type": "同白",
           "musical_style": null,
           "style_family": null,
@@ -1509,7 +1857,17 @@
         "singing_ratio": 0.143,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.143,
+        0.2308,
+        0.7692,
+        0.0,
+        0.4167,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 6,
@@ -1526,7 +1884,21 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "昨与郭英把话讲，\n气得豪杰怒满膛。\n心惊肉跳为哪桩？"
+          "text": "昨与郭英把话讲，"
+        },
+        {
+          "character": "徐达",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "气得豪杰怒满膛。"
+        },
+        {
+          "character": "徐达",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "心惊肉跳为哪桩？"
         },
         {
           "character": null,
@@ -1554,7 +1926,21 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "听得家将把话讲，\n倒教徐达着了慌。\n看是何人抢我庄。"
+          "text": "听得家将把话讲，"
+        },
+        {
+          "character": "徐达",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "倒教徐达着了慌。"
+        },
+        {
+          "character": "徐达",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "看是何人抢我庄。"
         },
         {
           "character": null,
@@ -1575,7 +1961,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "庄外听者：广泰庄人烟甚众，纵有金银，一时不能凑齐。你将人马暂退一箭之\n地，自有金银献上。"
+          "text": "庄外听者：广泰庄人烟甚众，纵有金银，一时不能凑齐。你将人马暂退一箭之"
+        },
+        {
+          "character": "徐达",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "地，自有金银献上。"
         },
         {
           "character": "郭英",
@@ -1624,7 +2017,35 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "一见贼子退出庄，\n不由豪杰怒满膛。\n低下头来暗思量。\n广泰庄内必遭殃。\n家将与爷备丝缰！"
+          "text": "一见贼子退出庄，"
+        },
+        {
+          "character": "徐达",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "不由豪杰怒满膛。"
+        },
+        {
+          "character": "徐达",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "低下头来暗思量。"
+        },
+        {
+          "character": "徐达",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "广泰庄内必遭殃。"
+        },
+        {
+          "character": "徐达",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "家将与爷备丝缰！"
         },
         {
           "character": null,
@@ -1740,7 +2161,17 @@
         "singing_ratio": 0.118,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.118,
+        0.4286,
+        0.5714,
+        0.0,
+        0.5926,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 7,
@@ -1904,7 +2335,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "姑母哪里知道？只因我表兄归顺新主，小侄奉了军师将令，请姑母、嫂嫂去至\n我营，同享荣华。"
+          "text": "姑母哪里知道？只因我表兄归顺新主，小侄奉了军师将令，请姑母、嫂嫂去至"
+        },
+        {
+          "character": "常遇春",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我营，同享荣华。"
         },
         {
           "character": "徐母",
@@ -2035,7 +2473,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.96,
+        0.04,
+        0.8333,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 8,
@@ -2058,7 +2506,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 9,
@@ -2081,7 +2539,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 10,
@@ -2202,7 +2670,17 @@
         "singing_ratio": 0.4,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.4,
+        0.3333,
+        0.6667,
+        0.0,
+        0.6,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 11,
@@ -2435,7 +2913,17 @@
         "singing_ratio": 0.042,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.042,
+        0.0417,
+        0.9583,
+        0.0,
+        0.9565,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 12,
@@ -2897,7 +3385,17 @@
         "singing_ratio": 0.35,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.35,
+        0.3864,
+        0.6136,
+        0.0,
+        0.8837,
+        6,
+        0.0,
+        0.0
+      ]
     }
   ]
 }

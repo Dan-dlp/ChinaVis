@@ -110,7 +110,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -141,7 +151,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "俺，李固。蒙皇兄赐我公主与俺成婚，众将备了筵宴，与俺称贺，被他们你一\n杯，我一盏，吃得大醉，方才放我回营。呸！好不知趣也！"
+          "text": "俺，李固。蒙皇兄赐我公主与俺成婚，众将备了筵宴，与俺称贺，被他们你一"
+        },
+        {
+          "character": "李固",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "杯，我一盏，吃得大醉，方才放我回营。呸！好不知趣也！"
         },
         {
           "character": "四小军",
@@ -225,7 +242,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "好说。公主乃金枝玉叶，凤女龙孙，万望勿嫌愚夫粗莽，就是千万之幸。今后\n宫中之事，悉凭公主掌握。凡有吩咐，小将一一从命。"
+          "text": "好说。公主乃金枝玉叶，凤女龙孙，万望勿嫌愚夫粗莽，就是千万之幸。今后"
+        },
+        {
+          "character": "李固",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "宫中之事，悉凭公主掌握。凡有吩咐，小将一一从命。"
         },
         {
           "character": "费贞娥",
@@ -239,7 +263,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "公主说得是。\n侍女们，摆宴过来。待俺与公主交拜。"
+          "text": "公主说得是。"
+        },
+        {
+          "character": "李固",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "侍女们，摆宴过来。待俺与公主交拜。"
         },
         {
           "character": "二宫女",
@@ -393,7 +424,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "当得。\n侍女们，取巨觥来。"
+          "text": "当得。"
+        },
+        {
+          "character": "李固",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "侍女们，取巨觥来。"
         },
         {
           "character": "二宫女",
@@ -484,7 +522,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "想是公主害羞，不好解衣就寝。\n也罢，侍女们，公主賞你们酒宴，谢了公主，各自去吧。"
+          "text": "想是公主害羞，不好解衣就寝。"
+        },
+        {
+          "character": "李固",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "也罢，侍女们，公主賞你们酒宴，谢了公主，各自去吧。"
         },
         {
           "character": "二宫女",
@@ -547,7 +592,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0227,
+        0.9773,
+        0.0,
+        0.6977,
+        4,
+        0.0,
+        0.0
+      ]
     }
   ]
 }

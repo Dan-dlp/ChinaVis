@@ -199,7 +199,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "俺史思明。奉吾主安千岁之命，统领三军，将在河东起义，要夺唐室天下。且\n喜到处连捷获胜。今当乘此军威大振，正好兴兵前进。\n嘟，众将官。"
+          "text": "俺史思明。奉吾主安千岁之命，统领三军，将在河东起义，要夺唐室天下。且"
+        },
+        {
+          "character": "史思明",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "喜到处连捷获胜。今当乘此军威大振，正好兴兵前进。"
+        },
+        {
+          "character": "史思明",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "嘟，众将官。"
         },
         {
           "character": "四史将",
@@ -220,7 +234,14 @@
           "line_type": "同白",
           "musical_style": null,
           "style_family": null,
-          "text": "得令。\n嘟，众将官。响炮拔营。"
+          "text": "得令。"
+        },
+        {
+          "character": "四史将",
+          "line_type": "同白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "嘟，众将官。响炮拔营。"
         },
         {
           "character": null,
@@ -250,7 +271,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.1111,
+        0.7778,
+        0.1111,
+        0.375,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -278,7 +309,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "俺河东节度麾下旗牌官是也。今有安禄山，命史思明招服三镇兵将，造逆谋反。\n连夺十府州县，势甚猖狂。节度大人命俺押本进京驰奏去者。"
+          "text": "俺河东节度麾下旗牌官是也。今有安禄山，命史思明招服三镇兵将，造逆谋反。"
+        },
+        {
+          "character": "旗牌官",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "连夺十府州县，势甚猖狂。节度大人命俺押本进京驰奏去者。"
         },
         {
           "character": null,
@@ -297,7 +335,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -347,7 +395,70 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "下官李白，乃陇西人氏。昔年赴考，被高、杨二人赶出贡院。多蒙孟、贺二公，\n荐入唐室为臣。圣上钦赐翰林学士，特命开读蛮诗，饬修飞龙草诏。甚蒙圣\n恩宠渥，诏赋清平调三章。只因朝中高、杨专政，安禄山居心叵测。我也曾奏\n过数本，怎奈圣上不肯垂允。如今酿成跋扈之势，现在据有河东三镇，大逆猖\n獗。我虽寄情诗酒，岂肯失于臣下之志？前者与郭子仪邂逅相识，因他误慢军\n粮，被戈书翰奏解进京，要按军情定罪。是我看他相貌非俗，晚成大器，因此\n上殿保本。蒙圣上洪恩，赦宥既往之咎，授职为衙门副将。命他带领亲军，前\n往河东，听候委用。昨日他与我辞行，今日正当起程之日。我不免亲到长亭，\n一来与他饯行，二来劝他勉力图报君王。\n家院！"
+          "text": "下官李白，乃陇西人氏。昔年赴考，被高、杨二人赶出贡院。多蒙孟、贺二公，"
+        },
+        {
+          "character": "李白",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "荐入唐室为臣。圣上钦赐翰林学士，特命开读蛮诗，饬修飞龙草诏。甚蒙圣"
+        },
+        {
+          "character": "李白",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "恩宠渥，诏赋清平调三章。只因朝中高、杨专政，安禄山居心叵测。我也曾奏"
+        },
+        {
+          "character": "李白",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "过数本，怎奈圣上不肯垂允。如今酿成跋扈之势，现在据有河东三镇，大逆猖"
+        },
+        {
+          "character": "李白",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "獗。我虽寄情诗酒，岂肯失于臣下之志？前者与郭子仪邂逅相识，因他误慢军"
+        },
+        {
+          "character": "李白",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "粮，被戈书翰奏解进京，要按军情定罪。是我看他相貌非俗，晚成大器，因此"
+        },
+        {
+          "character": "李白",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "上殿保本。蒙圣上洪恩，赦宥既往之咎，授职为衙门副将。命他带领亲军，前"
+        },
+        {
+          "character": "李白",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "往河东，听候委用。昨日他与我辞行，今日正当起程之日。我不免亲到长亭，"
+        },
+        {
+          "character": "李白",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "一来与他饯行，二来劝他勉力图报君王。"
+        },
+        {
+          "character": "李白",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "家院！"
         },
         {
           "character": "院子",
@@ -375,7 +486,49 @@
           "line_type": "西皮慢板",
           "musical_style": "西皮慢板",
           "style_family": "西皮",
-          "text": "翰墨文章似海渊，\n才子风流莫求官。\n钦赐御酒写吓蛮。\n在金殿脱靴把墨研。\n金马门醉骂安禄山。\n我岂肯袖手坐旁观？\n理当与国荐英贤。"
+          "text": "翰墨文章似海渊，"
+        },
+        {
+          "character": "李白",
+          "line_type": "西皮慢板",
+          "musical_style": "西皮慢板",
+          "style_family": "西皮",
+          "text": "才子风流莫求官。"
+        },
+        {
+          "character": "李白",
+          "line_type": "西皮慢板",
+          "musical_style": "西皮慢板",
+          "style_family": "西皮",
+          "text": "钦赐御酒写吓蛮。"
+        },
+        {
+          "character": "李白",
+          "line_type": "西皮慢板",
+          "musical_style": "西皮慢板",
+          "style_family": "西皮",
+          "text": "在金殿脱靴把墨研。"
+        },
+        {
+          "character": "李白",
+          "line_type": "西皮慢板",
+          "musical_style": "西皮慢板",
+          "style_family": "西皮",
+          "text": "金马门醉骂安禄山。"
+        },
+        {
+          "character": "李白",
+          "line_type": "西皮慢板",
+          "musical_style": "西皮慢板",
+          "style_family": "西皮",
+          "text": "我岂肯袖手坐旁观？"
+        },
+        {
+          "character": "李白",
+          "line_type": "西皮慢板",
+          "musical_style": "西皮慢板",
+          "style_family": "西皮",
+          "text": "理当与国荐英贤。"
         },
         {
           "character": null,
@@ -407,7 +560,17 @@
         "musical_styles": [
           "西皮慢板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.2,
+        0.381,
+        0.5714,
+        0.0476,
+        0.1,
+        2,
+        0.3333,
+        0.0
+      ]
     },
     {
       "scene_index": 4,
@@ -428,14 +591,49 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "志秉忠心怀赤胆，\n知遇多蒙李青莲。"
+          "text": "志秉忠心怀赤胆，"
+        },
+        {
+          "character": "郭子仪",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "知遇多蒙李青莲。"
         },
         {
           "character": "郭子仪",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "俺郭子仪。只因误慢军粮，被戈书翰将我解进京来问罪。幸遇学士李青莲上殿\n保本，蒙圣上洪恩赦宥。今有安禄山在河东造反，又蒙学士青莲保我为衙门副\n将，命我带领亲军，去到河东听候委用。昨日我亲到学士府中，一来辞行，二\n去请教。今日正当起程。闻听学士，亲往长亭与俺饯行。想此知遇之恩，何日\n得报也！"
+          "text": "俺郭子仪。只因误慢军粮，被戈书翰将我解进京来问罪。幸遇学士李青莲上殿"
+        },
+        {
+          "character": "郭子仪",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "保本，蒙圣上洪恩赦宥。今有安禄山在河东造反，又蒙学士青莲保我为衙门副"
+        },
+        {
+          "character": "郭子仪",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "将，命我带领亲军，去到河东听候委用。昨日我亲到学士府中，一来辞行，二"
+        },
+        {
+          "character": "郭子仪",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "去请教。今日正当起程。闻听学士，亲往长亭与俺饯行。想此知遇之恩，何日"
+        },
+        {
+          "character": "郭子仪",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "得报也！"
         },
         {
           "character": null,
@@ -449,7 +647,42 @@
           "line_type": "西皮慢板",
           "musical_style": "西皮慢板",
           "style_family": "西皮",
-          "text": "忆昔当年奉差遣，\n误慢军粮罪难宽。\n他将我解进京问罪囚监。\n待我的恩德重如山。\n逢争遇战我要当先。\n上报国恩下报青莲。"
+          "text": "忆昔当年奉差遣，"
+        },
+        {
+          "character": "郭子仪",
+          "line_type": "西皮慢板",
+          "musical_style": "西皮慢板",
+          "style_family": "西皮",
+          "text": "误慢军粮罪难宽。"
+        },
+        {
+          "character": "郭子仪",
+          "line_type": "西皮慢板",
+          "musical_style": "西皮慢板",
+          "style_family": "西皮",
+          "text": "他将我解进京问罪囚监。"
+        },
+        {
+          "character": "郭子仪",
+          "line_type": "西皮慢板",
+          "musical_style": "西皮慢板",
+          "style_family": "西皮",
+          "text": "待我的恩德重如山。"
+        },
+        {
+          "character": "郭子仪",
+          "line_type": "西皮慢板",
+          "musical_style": "西皮慢板",
+          "style_family": "西皮",
+          "text": "逢争遇战我要当先。"
+        },
+        {
+          "character": "郭子仪",
+          "line_type": "西皮慢板",
+          "musical_style": "西皮慢板",
+          "style_family": "西皮",
+          "text": "上报国恩下报青莲。"
         },
         {
           "character": null,
@@ -471,7 +704,17 @@
           "西皮慢板",
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        1.0,
+        0.6154,
+        0.3846,
+        0.0,
+        0.0,
+        1,
+        0.6154,
+        0.0
+      ]
     },
     {
       "scene_index": 5,
@@ -504,7 +747,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "将酒筵摆在亭上。郭将军来到，速禀我知。\n（李白下。四青袍同摆宴。正场设冲场桌对面椅子。四青袍、院子同归下场门一字站。〖合头〗接〖吹打〗。\n郭子仪、四帽钉甲、马童同上，同站小边一字。郭子仪下马。院子看，向下场门。）"
+          "text": "将酒筵摆在亭上。郭将军来到，速禀我知。"
+        },
+        {
+          "character": "李白",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "（李白下。四青袍同摆宴。正场设冲场桌对面椅子。四青袍、院子同归下场门一字站。〖合头〗接〖吹打〗。"
+        },
+        {
+          "character": "李白",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "郭子仪、四帽钉甲、马童同上，同站小边一字。郭子仪下马。院子看，向下场门。）"
         },
         {
           "character": "院子",
@@ -630,7 +887,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "既然如此，晚生不敢辜负大人的盛意了。\n（〖吹打〗。众人同挖门。四帽钉甲、马童同归大边。四青袍、院子同归小边。郭子仪、李白对坐。院子斟\n酒。〖吹打住〗。）"
+          "text": "既然如此，晚生不敢辜负大人的盛意了。"
+        },
+        {
+          "character": "郭子仪",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "（〖吹打〗。众人同挖门。四帽钉甲、马童同归大边。四青袍、院子同归小边。郭子仪、李白对坐。院子斟"
+        },
+        {
+          "character": "郭子仪",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "酒。〖吹打住〗。）"
         },
         {
           "character": "李白",
@@ -658,31 +929,108 @@
           "line_type": "西皮慢板",
           "musical_style": "西皮慢板",
           "style_family": "西皮",
-          "text": "知己相逢休太谦，\n尊一声将军细听我言：\n望将军到河东扫灭狼烟。"
+          "text": "知己相逢休太谦，"
         },
         {
-          "character": "都只为逆贼辜恩造反、郭子仪",
+          "character": "李白",
+          "line_type": "西皮慢板",
+          "musical_style": "西皮慢板",
+          "style_family": "西皮",
+          "text": "尊一声将军细听我言："
+        },
+        {
+          "character": "李白",
+          "line_type": "西皮慢板",
+          "musical_style": "西皮慢板",
+          "style_family": "西皮",
+          "text": "望将军到河东扫灭狼烟。"
+        },
+        {
+          "character": "李白",
+          "line_type": "西皮慢板",
+          "musical_style": "西皮慢板",
+          "style_family": "西皮",
+          "text": "都只为逆贼辜恩造反"
+        },
+        {
+          "character": "郭子仪",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
           "text": "大人！"
         },
         {
-          "character": "都只为逆贼辜恩造反、郭子仪",
+          "character": "郭子仪",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "都只为逆贼辜恩造反"
+        },
+        {
+          "character": "郭子仪",
           "line_type": "西皮原板",
           "musical_style": "西皮原板",
           "style_family": "西皮",
-          "text": "仰蒙大人恩非浅，\n荐保我郭子仪免罪为官。\n我读过孙武子兵法十三篇。\n枉负了大人的恩，徒增罪愆。"
+          "text": "仰蒙大人恩非浅，"
         },
         {
-          "character": "将在谋不在勇要随机应变、怕的是到军中不得差遣、李白",
+          "character": "郭子仪",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "荐保我郭子仪免罪为官。"
+        },
+        {
+          "character": "郭子仪",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "我读过孙武子兵法十三篇。"
+        },
+        {
+          "character": "郭子仪",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "枉负了大人的恩，徒增罪愆。"
+        },
+        {
+          "character": "郭子仪",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "将在谋不在勇要随机应变"
+        },
+        {
+          "character": "郭子仪",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "怕的是到军中不得差遣"
+        },
+        {
+          "character": "李白",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
           "text": "将军！"
         },
         {
-          "character": "将在谋不在勇要随机应变、怕的是到军中不得差遣、李白",
+          "character": "李白",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "将在谋不在勇要随机应变"
+        },
+        {
+          "character": "李白",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "怕的是到军中不得差遣"
+        },
+        {
+          "character": "李白",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
@@ -700,7 +1048,63 @@
           "line_type": "西皮慢二六板",
           "musical_style": "西皮慢二六板",
           "style_family": "西皮",
-          "text": "尊将军听我对你讲实言：\n勾串逆贼安禄山。\n天子的心意中不以为然。\n大不该命他执掌兵权。\n因此我寄情诗酒乐清闲。\n我才肯保举将军免罪为将官。\n我早已为你寄去了书一函。\n勉力图报杀贼立功我保你的官职必升迁。\n愿将军马到成功奏凯还。"
+          "text": "尊将军听我对你讲实言："
+        },
+        {
+          "character": "李白",
+          "line_type": "西皮慢二六板",
+          "musical_style": "西皮慢二六板",
+          "style_family": "西皮",
+          "text": "勾串逆贼安禄山。"
+        },
+        {
+          "character": "李白",
+          "line_type": "西皮慢二六板",
+          "musical_style": "西皮慢二六板",
+          "style_family": "西皮",
+          "text": "天子的心意中不以为然。"
+        },
+        {
+          "character": "李白",
+          "line_type": "西皮慢二六板",
+          "musical_style": "西皮慢二六板",
+          "style_family": "西皮",
+          "text": "大不该命他执掌兵权。"
+        },
+        {
+          "character": "李白",
+          "line_type": "西皮慢二六板",
+          "musical_style": "西皮慢二六板",
+          "style_family": "西皮",
+          "text": "因此我寄情诗酒乐清闲。"
+        },
+        {
+          "character": "李白",
+          "line_type": "西皮慢二六板",
+          "musical_style": "西皮慢二六板",
+          "style_family": "西皮",
+          "text": "我才肯保举将军免罪为将官。"
+        },
+        {
+          "character": "李白",
+          "line_type": "西皮慢二六板",
+          "musical_style": "西皮慢二六板",
+          "style_family": "西皮",
+          "text": "我早已为你寄去了书一函。"
+        },
+        {
+          "character": "李白",
+          "line_type": "西皮慢二六板",
+          "musical_style": "西皮慢二六板",
+          "style_family": "西皮",
+          "text": "勉力图报杀贼立功我保你的官职必升迁。"
+        },
+        {
+          "character": "李白",
+          "line_type": "西皮慢二六板",
+          "musical_style": "西皮慢二六板",
+          "style_family": "西皮",
+          "text": "愿将军马到成功奏凯还。"
         },
         {
           "character": null,
@@ -728,7 +1132,28 @@
           "line_type": "西皮快板",
           "musical_style": "西皮快板",
           "style_family": "西皮",
-          "text": "蒙大人深恩美周全。\n我必要竭力图报临阵攻敌每战必争先。\n扫灭了贼反叛，也不枉大人忠诚为国一片好心田。\n我就便肝脑涂地以报知遇理当然。"
+          "text": "蒙大人深恩美周全。"
+        },
+        {
+          "character": "郭子仪",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "我必要竭力图报临阵攻敌每战必争先。"
+        },
+        {
+          "character": "郭子仪",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "扫灭了贼反叛，也不枉大人忠诚为国一片好心田。"
+        },
+        {
+          "character": "郭子仪",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "我就便肝脑涂地以报知遇理当然。"
         },
         {
           "character": null,
@@ -756,7 +1181,28 @@
           "line_type": "西皮二六板",
           "musical_style": "西皮二六板",
           "style_family": "西皮",
-          "text": "郭子仪本是英雄汉，\n相貌魁梧真非凡。\n河东的万民遭涂炭。\n皆因为高、杨结党奸。"
+          "text": "郭子仪本是英雄汉，"
+        },
+        {
+          "character": "李白",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "相貌魁梧真非凡。"
+        },
+        {
+          "character": "李白",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "河东的万民遭涂炭。"
+        },
+        {
+          "character": "李白",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "皆因为高、杨结党奸。"
         },
         {
           "character": null,
@@ -814,7 +1260,17 @@
           "西皮慢二六板",
           "西皮慢板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.214,
+        0.5167,
+        0.4833,
+        0.0,
+        0.3898,
+        3,
+        0.45,
+        0.0
+      ]
     },
     {
       "scene_index": 6,
@@ -856,7 +1312,42 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "吾乃河西天孙织女星是也。只因织献天衣，不暇妆饰。蒙玉帝垂怜，配嫁河东\n牵牛星为夫妇。因为怠误云裳，玉帝见罪，依然责归河西。正是离多会少，每\n年限制七夕，以待鹊鸟搭桥，渡河一会。今当时届佳期，钦奉玉帝敕旨：下界\n有一郭子仪，他乃南极门下福星降世，应运重整朝纲，匡扶唐室社稷，使他将\n来位极人臣，受享富贵。特命我渡过银河，从天下降，赐他贵寿全图，福荫世\n代。正是："
+          "text": "吾乃河西天孙织女星是也。只因织献天衣，不暇妆饰。蒙玉帝垂怜，配嫁河东"
+        },
+        {
+          "character": "织女",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "牵牛星为夫妇。因为怠误云裳，玉帝见罪，依然责归河西。正是离多会少，每"
+        },
+        {
+          "character": "织女",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "年限制七夕，以待鹊鸟搭桥，渡河一会。今当时届佳期，钦奉玉帝敕旨：下界"
+        },
+        {
+          "character": "织女",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "有一郭子仪，他乃南极门下福星降世，应运重整朝纲，匡扶唐室社稷，使他将"
+        },
+        {
+          "character": "织女",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来位极人臣，受享富贵。特命我渡过银河，从天下降，赐他贵寿全图，福荫世"
+        },
+        {
+          "character": "织女",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "代。正是："
         },
         {
           "character": "织女",
@@ -870,7 +1361,35 @@
           "line_type": "西皮慢板",
           "musical_style": "西皮慢板",
           "style_family": "西皮",
-          "text": "郭子仪他本是福星下降，\n应运时临凡界扶保大唐。\n气数亨通泰运昌。\n匡扶唐室定家邦。\n玉帝命我赠祯祥。"
+          "text": "郭子仪他本是福星下降，"
+        },
+        {
+          "character": "织女",
+          "line_type": "西皮慢板",
+          "musical_style": "西皮慢板",
+          "style_family": "西皮",
+          "text": "应运时临凡界扶保大唐。"
+        },
+        {
+          "character": "织女",
+          "line_type": "西皮慢板",
+          "musical_style": "西皮慢板",
+          "style_family": "西皮",
+          "text": "气数亨通泰运昌。"
+        },
+        {
+          "character": "织女",
+          "line_type": "西皮慢板",
+          "musical_style": "西皮慢板",
+          "style_family": "西皮",
+          "text": "匡扶唐室定家邦。"
+        },
+        {
+          "character": "织女",
+          "line_type": "西皮慢板",
+          "musical_style": "西皮慢板",
+          "style_family": "西皮",
+          "text": "玉帝命我赠祯祥。"
         },
         {
           "character": null,
@@ -899,7 +1418,17 @@
         "musical_styles": [
           "西皮慢板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.5,
+        0.4667,
+        0.4,
+        0.1333,
+        0.0,
+        1,
+        0.3333,
+        0.0
+      ]
     },
     {
       "scene_index": 7,
@@ -923,7 +1452,28 @@
           "line_type": "西皮二六板",
           "musical_style": "西皮二六板",
           "style_family": "西皮",
-          "text": "史思明区区无名将，\n归顺了安贼反边疆。\n河东的黎民遭祸殃。\n拿住了逆首奸贼一个一个粉身碎骨挫灰扬。"
+          "text": "史思明区区无名将，"
+        },
+        {
+          "character": "郭子仪",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "归顺了安贼反边疆。"
+        },
+        {
+          "character": "郭子仪",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "河东的黎民遭祸殃。"
+        },
+        {
+          "character": "郭子仪",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "拿住了逆首奸贼一个一个粉身碎骨挫灰扬。"
         },
         {
           "character": null,
@@ -937,7 +1487,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "俺，郭子仪。前日来到河东，面见节度大人。多蒙重待，命俺管辖三千铁甲雄\n兵，教俺操演新阵。必要训练娴熟，再定攻敌之策。"
+          "text": "俺，郭子仪。前日来到河东，面见节度大人。多蒙重待，命俺管辖三千铁甲雄"
+        },
+        {
+          "character": "郭子仪",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "兵，教俺操演新阵。必要训练娴熟，再定攻敌之策。"
         },
         {
           "character": "旗牌官",
@@ -965,14 +1522,35 @@
           "line_type": "同白",
           "musical_style": null,
           "style_family": null,
-          "text": "有请！\n（〖水底鱼〗。旗牌官骑马举令箭上，在小边下马。郭子仪出迎，挖门。旗牌官归正场站。郭子仪在小边外\n站。旗牌官举令箭。）"
+          "text": "有请！"
+        },
+        {
+          "character": "四帽钉甲",
+          "line_type": "同白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "（〖水底鱼〗。旗牌官骑马举令箭上，在小边下马。郭子仪出迎，挖门。旗牌官归正场站。郭子仪在小边外"
+        },
+        {
+          "character": "四帽钉甲",
+          "line_type": "同白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "站。旗牌官举令箭。）"
         },
         {
           "character": "旗牌官",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "大人有令：派郭副将带领亲军，挑选四十名藤牌手，在暗地保护。命副将择高\n埠之处，今晚窥探史思明贼营的消息。火速回报，不得有误。"
+          "text": "大人有令：派郭副将带领亲军，挑选四十名藤牌手，在暗地保护。命副将择高"
+        },
+        {
+          "character": "旗牌官",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "埠之处，今晚窥探史思明贼营的消息。火速回报，不得有误。"
         },
         {
           "character": null,
@@ -1021,14 +1599,70 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "恰遇节度大人有令到来：命俺带领亲军，挑选四十名藤牌兵，在暗地保护。于\n今晚择一高埠之处，命我窥探史思明贼营的消息，火速回报。俺今晚此去，必\n要探个的确，明日在节度大人台前，讨下战令。带领亲军将校，与本部三千铁\n甲雄兵，分为前后两队，劫杀贼的大营。正是兵家所谓攻其不备，必然大获全\n胜。一来折挫叛贼出锋，二来振动我军的锐气。此是俺郭子仪出头立功之日也！"
+          "text": "恰遇节度大人有令到来：命俺带领亲军，挑选四十名藤牌兵，在暗地保护。于"
+        },
+        {
+          "character": "郭子仪",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "今晚择一高埠之处，命我窥探史思明贼营的消息，火速回报。俺今晚此去，必"
+        },
+        {
+          "character": "郭子仪",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "要探个的确，明日在节度大人台前，讨下战令。带领亲军将校，与本部三千铁"
+        },
+        {
+          "character": "郭子仪",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "甲雄兵，分为前后两队，劫杀贼的大营。正是兵家所谓攻其不备，必然大获全"
+        },
+        {
+          "character": "郭子仪",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "胜。一来折挫叛贼出锋，二来振动我军的锐气。此是俺郭子仪出头立功之日也！"
         },
         {
           "character": "郭子仪",
           "line_type": "西皮快二六板",
           "musical_style": "西皮快二六板",
           "style_family": "西皮",
-          "text": "节度大人把令降，\n真乃是调度果有方。\n四十名藤牌为护防。\n敌营的消息可知详。\n急驱攻伐贼不防。"
+          "text": "节度大人把令降，"
+        },
+        {
+          "character": "郭子仪",
+          "line_type": "西皮快二六板",
+          "musical_style": "西皮快二六板",
+          "style_family": "西皮",
+          "text": "真乃是调度果有方。"
+        },
+        {
+          "character": "郭子仪",
+          "line_type": "西皮快二六板",
+          "musical_style": "西皮快二六板",
+          "style_family": "西皮",
+          "text": "四十名藤牌为护防。"
+        },
+        {
+          "character": "郭子仪",
+          "line_type": "西皮快二六板",
+          "musical_style": "西皮快二六板",
+          "style_family": "西皮",
+          "text": "敌营的消息可知详。"
+        },
+        {
+          "character": "郭子仪",
+          "line_type": "西皮快二六板",
+          "musical_style": "西皮快二六板",
+          "style_family": "西皮",
+          "text": "急驱攻伐贼不防。"
         },
         {
           "character": "郭子仪",
@@ -1126,7 +1760,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "史思明的贼营，现时扎在大红山之下，地名儿叫作三岔河。却倒是靠山近水之\n地。"
+          "text": "史思明的贼营，现时扎在大红山之下，地名儿叫作三岔河。却倒是靠山近水之"
+        },
+        {
+          "character": "向导",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "地。"
         },
         {
           "character": "郭子仪",
@@ -1168,7 +1809,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "若是走青龙岗奔正心庄往西就是大红山，一过大红山，就是史思明的贼营，通\n共不过三十里地。无奈过了正心庄，不到五里地，有座红山口，又叫天台堦，\n又叫巧缘红，又叫福寿驿，外号儿又叫难得遇。那点儿地方，山路崎岖，甚不\n好走。"
+          "text": "若是走青龙岗奔正心庄往西就是大红山，一过大红山，就是史思明的贼营，通"
+        },
+        {
+          "character": "向导",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "共不过三十里地。无奈过了正心庄，不到五里地，有座红山口，又叫天台堦，"
+        },
+        {
+          "character": "向导",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "又叫巧缘红，又叫福寿驿，外号儿又叫难得遇。那点儿地方，山路崎岖，甚不"
+        },
+        {
+          "character": "向导",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "好走。"
         },
         {
           "character": "郭子仪",
@@ -1196,7 +1858,56 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "回禀老爷的话：都说是什么经史志书上注载着天台堦，正对着南天门。都说是\n南天门的台堦儿，故此叫天台堦。每年七月七，织女渡银河，必从此过，若遇\n见有造化的人，立刻天现红光，天门大开，所以叫巧缘红。织女从天门下降，\n坐在云端里能够对人说话，必然是求福得福，求寿得寿，因此叫福寿驿。一定\n是想什么有什么，盼什么得什么，就是难得可巧七月七，走到这点儿崎岖驿站\n之道，遇见天现红光，得福得寿，因为轻时遇不见，故此外号儿的别名，就叫\n作难得遇。说起来彷彿是片谣言，然而志书上既有其事，必定是个古迹儿。今\n儿个正是七月初七，老爷可不是正问着了么？"
+          "text": "回禀老爷的话：都说是什么经史志书上注载着天台堦，正对着南天门。都说是"
+        },
+        {
+          "character": "向导",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "南天门的台堦儿，故此叫天台堦。每年七月七，织女渡银河，必从此过，若遇"
+        },
+        {
+          "character": "向导",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "见有造化的人，立刻天现红光，天门大开，所以叫巧缘红。织女从天门下降，"
+        },
+        {
+          "character": "向导",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "坐在云端里能够对人说话，必然是求福得福，求寿得寿，因此叫福寿驿。一定"
+        },
+        {
+          "character": "向导",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "是想什么有什么，盼什么得什么，就是难得可巧七月七，走到这点儿崎岖驿站"
+        },
+        {
+          "character": "向导",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "之道，遇见天现红光，得福得寿，因为轻时遇不见，故此外号儿的别名，就叫"
+        },
+        {
+          "character": "向导",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "作难得遇。说起来彷彿是片谣言，然而志书上既有其事，必定是个古迹儿。今"
+        },
+        {
+          "character": "向导",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "儿个正是七月初七，老爷可不是正问着了么？"
         },
         {
           "character": "郭子仪",
@@ -1210,7 +1921,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "小的听见人说，按志书上注载：第起是股驿站之道。不然怎么叫福寿驿呢？后\n来因为秦始皇驱山填海，把大红山东西改为南北，故把这股驿站隔断了，由三\n教寺另开了官塘大道。如今福寿驿竟成了崎岖密径，哪儿有来往的行人呢！"
+          "text": "小的听见人说，按志书上注载：第起是股驿站之道。不然怎么叫福寿驿呢？后"
+        },
+        {
+          "character": "向导",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来因为秦始皇驱山填海，把大红山东西改为南北，故把这股驿站隔断了，由三"
+        },
+        {
+          "character": "向导",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "教寺另开了官塘大道。如今福寿驿竟成了崎岖密径，哪儿有来往的行人呢！"
         },
         {
           "character": "郭子仪",
@@ -1238,14 +1963,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "小的既当向导，不得不知。我这是照戏本儿念给老爷听。你哪要问的缘由，那\n就问这出戏第起是谁排的，如今这又是谁各自从新改的，才能知道呢！"
+          "text": "小的既当向导，不得不知。我这是照戏本儿念给老爷听。你哪要问的缘由，那"
+        },
+        {
+          "character": "向导",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "就问这出戏第起是谁排的，如今这又是谁各自从新改的，才能知道呢！"
         },
         {
           "character": "郭子仪",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "你暂且退去。等候今晚引我至青龙岗，我自往大红山上，探看贼营，不准走漏\n消息，违令者斩！"
+          "text": "你暂且退去。等候今晚引我至青龙岗，我自往大红山上，探看贼营，不准走漏"
+        },
+        {
+          "character": "郭子仪",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "消息，违令者斩！"
         },
         {
           "character": "向导",
@@ -1273,7 +2012,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "今幸有此密径之路，想是仰蒙上天垂佑，教俺郭子仪，不负青莲恩公的荐举，\n可答节度大人待我的厚意。"
+          "text": "今幸有此密径之路，想是仰蒙上天垂佑，教俺郭子仪，不负青莲恩公的荐举，"
+        },
+        {
+          "character": "郭子仪",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "可答节度大人待我的厚意。"
         }
       ],
       "interactions": [
@@ -1332,7 +2078,17 @@
           "西皮",
           "西皮二六板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.027,
+        0.1622,
+        0.8243,
+        0.0135,
+        0.4247,
+        4,
+        0.1216,
+        0.0
+      ]
     },
     {
       "scene_index": 8,
@@ -1355,7 +2111,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 9,
@@ -1504,7 +2270,17 @@
           "二黄摇板",
           "二黄正板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.333,
+        0.4,
+        0.6,
+        0.0,
+        0.6667,
+        3,
+        0.0,
+        0.3
+      ]
     },
     {
       "scene_index": 10,
@@ -1821,7 +2597,17 @@
           "西皮慢二六板",
           "西皮慢板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.5,
+        0.5172,
+        0.4483,
+        0.0345,
+        0.2143,
+        2,
+        0.1724,
+        0.1379
+      ]
     },
     {
       "scene_index": 11,
@@ -1893,7 +2679,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 12,
@@ -1971,7 +2767,17 @@
         "musical_styles": [
           "西皮慢板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.5,
+        0.5,
+        0.5,
+        0.0,
+        0.0,
+        1,
+        0.25,
+        0.0
+      ]
     },
     {
       "scene_index": 13,
@@ -2285,7 +3091,17 @@
           "西皮快二六板",
           "西皮慢二六板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.458,
+        0.4231,
+        0.5385,
+        0.0385,
+        0.88,
+        5,
+        0.1154,
+        0.0
+      ]
     }
   ]
 }

@@ -238,7 +238,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "某，塞北大元帅哈铁龙是也！只因四殿下兀术将康王围困于牛头山，有书信回\n国催兵。老王命某押送铁滑车，名曰浮图，从上放下，就是千军万马，也将他\n打为齑粉！看前面，已离大营不远。\n儿郎们！"
+          "text": "某，塞北大元帅哈铁龙是也！只因四殿下兀术将康王围困于牛头山，有书信回"
+        },
+        {
+          "character": "哈铁龙",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "国催兵。老王命某押送铁滑车，名曰浮图，从上放下，就是千军万马，也将他"
+        },
+        {
+          "character": "哈铁龙",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "打为齑粉！看前面，已离大营不远。"
+        },
+        {
+          "character": "哈铁龙",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "儿郎们！"
         },
         {
           "character": "四滑车、四上手",
@@ -281,7 +302,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.5714,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -310,7 +341,42 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "龙争虎斗摆战场，\n两下交兵扎营房。\n任我驰骋战鼓扬！\n冲锋对垒比某强。\n杀得我军锐气伤。\n还须良计擒康王。"
+          "text": "龙争虎斗摆战场，"
+        },
+        {
+          "character": "兀术",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "两下交兵扎营房。"
+        },
+        {
+          "character": "兀术",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "任我驰骋战鼓扬！"
+        },
+        {
+          "character": "兀术",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "冲锋对垒比某强。"
+        },
+        {
+          "character": "兀术",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "杀得我军锐气伤。"
+        },
+        {
+          "character": "兀术",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "还须良计擒康王。"
         },
         {
           "character": null,
@@ -366,7 +432,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "啊，牛南蛮来了！某家正要拿他碎尸万段，方消孤心头之恨！\n儿郎们！"
+          "text": "啊，牛南蛮来了！某家正要拿他碎尸万段，方消孤心头之恨！"
+        },
+        {
+          "character": "兀术",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "儿郎们！"
         },
         {
           "character": "四番兵",
@@ -401,7 +474,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "方战兀术败阵走，\n如今见他把书投。"
+          "text": "方战兀术败阵走，"
+        },
+        {
+          "character": "牛皋",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "如今见他把书投。"
         },
         {
           "character": "番兵甲",
@@ -422,7 +502,28 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "番奴出言少礼让，\n无情无理太荒唐。\n牛皋心下有主张。\n大大方方见番王。"
+          "text": "番奴出言少礼让，"
+        },
+        {
+          "character": "牛皋",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "无情无理太荒唐。"
+        },
+        {
+          "character": "牛皋",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "牛皋心下有主张。"
+        },
+        {
+          "character": "牛皋",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "大大方方见番王。"
         },
         {
           "character": "牛皋",
@@ -432,18 +533,60 @@
           "text": "呔，请下来见礼！"
         },
         {
-          "character": "番兵一旁俱笑嚷、摇摇摆摆进营帐、兀术",
+          "character": "牛皋",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "好大胆的牛皋，俺乃金邦太子，又是昌平王，你见了某家，就该下个全礼才是，\n怎么反叫某家与你见礼！"
+          "text": "番兵一旁俱笑嚷"
         },
         {
           "character": "牛皋",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "什么昌平王！你牛皋老爷，也曾做过公道大王，与王子一般大的，况又奉大宋\n天子圣命，岳元帅将令，来下战书。古人云：上邦卿相，即是各国诸侯；上邦\n士子，乃是下国大夫。俺乃堂堂天子使臣，你就该宾主相见，我牛老爷岂肯屈\n膝与你！"
+          "text": "摇摇摆摆进营帐"
+        },
+        {
+          "character": "兀术",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "好大胆的牛皋，俺乃金邦太子，又是昌平王，你见了某家，就该下个全礼才是，"
+        },
+        {
+          "character": "兀术",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "怎么反叫某家与你见礼！"
+        },
+        {
+          "character": "牛皋",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "什么昌平王！你牛皋老爷，也曾做过公道大王，与王子一般大的，况又奉大宋"
+        },
+        {
+          "character": "牛皋",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "天子圣命，岳元帅将令，来下战书。古人云：上邦卿相，即是各国诸侯；上邦"
+        },
+        {
+          "character": "牛皋",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "士子，乃是下国大夫。俺乃堂堂天子使臣，你就该宾主相见，我牛老爷岂肯屈"
+        },
+        {
+          "character": "牛皋",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "膝与你！"
         },
         {
           "character": "兀术",
@@ -513,7 +656,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "岂不闻，为将者要会文会武，今日非为交兵，乃是前来下战书，自然要斯斯文\n文的。战书在此，呈上请看！"
+          "text": "岂不闻，为将者要会文会武，今日非为交兵，乃是前来下战书，自然要斯斯文"
+        },
+        {
+          "character": "牛皋",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "文的。战书在此，呈上请看！"
         },
         {
           "character": "兀术",
@@ -541,17 +691,66 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "两国相争不相让，\n谁有德来谁称王。\n快快投明来归降。"
+          "text": "两国相争不相让，"
         },
         {
-          "character": "回营拜上岳将军、牛皋",
+          "character": "兀术",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "番王说话太狂妄，\n牛皋有言听端详：\n兵多将广武艺强。\n也免得生灵涂炭动刀枪！"
+          "text": "谁有德来谁称王。"
         },
         {
-          "character": "回营拜上岳将军、牛皋",
+          "character": "兀术",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "快快投明来归降。"
+        },
+        {
+          "character": "兀术",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "回营拜上岳将军"
+        },
+        {
+          "character": "牛皋",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "番王说话太狂妄，"
+        },
+        {
+          "character": "牛皋",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "牛皋有言听端详："
+        },
+        {
+          "character": "牛皋",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "兵多将广武艺强。"
+        },
+        {
+          "character": "牛皋",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "也免得生灵涂炭动刀枪！"
+        },
+        {
+          "character": "牛皋",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "回营拜上岳将军"
+        },
+        {
+          "character": "牛皋",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -653,14 +852,35 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "乃铁滑车，名为浮图。交战之时，居高临下，从上下放，不论多少兵将，都将\n压为齑粉。"
+          "text": "乃铁滑车，名为浮图。交战之时，居高临下，从上下放，不论多少兵将，都将"
+        },
+        {
+          "character": "哈铁龙",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "压为齑粉。"
         },
         {
           "character": "兀术",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "有这等厉害？如此，西南郊上有一山，高约数丈，元帅可领本部人马，藏于深\n山之中，只等两下交战，我兵佯败，将宋兵引至山下，然后居高临下，将铁滑\n车顺坡放下，必定成功也。"
+          "text": "有这等厉害？如此，西南郊上有一山，高约数丈，元帅可领本部人马，藏于深"
+        },
+        {
+          "character": "兀术",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "山之中，只等两下交战，我兵佯败，将宋兵引至山下，然后居高临下，将铁滑"
+        },
+        {
+          "character": "兀术",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "车顺坡放下，必定成功也。"
         },
         {
           "character": "哈铁龙",
@@ -688,7 +908,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "任你岳军多骁勇，\n管叫你铁滑车下见阎君！"
+          "text": "任你岳军多骁勇，"
+        },
+        {
+          "character": "兀术",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "管叫你铁滑车下见阎君！"
         },
         {
           "character": null,
@@ -759,7 +986,17 @@
         "singing_ratio": 0.095,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.095,
+        0.3108,
+        0.6892,
+        0.0,
+        0.5205,
+        6,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -804,7 +1041,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "出得番营心欢畅，\n回营交令说端详。"
+          "text": "出得番营心欢畅，"
+        },
+        {
+          "character": "牛皋",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "回营交令说端详。"
         },
         {
           "character": "牛皋",
@@ -951,7 +1195,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "兀术言定，三日后交战。此番征战非比寻常，准备猪羊，明日祭旗。贤弟一路\n辛苦，后面歇息。"
+          "text": "兀术言定，三日后交战。此番征战非比寻常，准备猪羊，明日祭旗。贤弟一路"
+        },
+        {
+          "character": "岳飞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "辛苦，后面歇息。"
         },
         {
           "character": null,
@@ -1010,7 +1261,17 @@
         "singing_ratio": 0.053,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.053,
+        0.0909,
+        0.8636,
+        0.0455,
+        0.7619,
+        5,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 4,
@@ -1190,7 +1451,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "本帅，岳飞。只因金兵围困牛头山，立下战书，今日大战。已命王贵、牛皋准\n备猪羊祭旗，也好开兵交战。\n中军！"
+          "text": "本帅，岳飞。只因金兵围困牛头山，立下战书，今日大战。已命王贵、牛皋准"
+        },
+        {
+          "character": "郑怀、张奎、张宪、何元庆、汤怀",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "备猪羊祭旗，也好开兵交战。"
+        },
+        {
+          "character": "郑怀、张奎、张宪、何元庆、汤怀",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "中军！"
         },
         {
           "character": "中军",
@@ -1505,28 +1780,56 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "元帅，末将虽是不才，既已将身许国，自当竭尽绵薄，报效朝廷。今日大战番\n营，全营将官俱有差遣，单是末将无差，难道我是那无用之辈么？"
+          "text": "元帅，末将虽是不才，既已将身许国，自当竭尽绵薄，报效朝廷。今日大战番"
+        },
+        {
+          "character": "高宠",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "营，全营将官俱有差遣，单是末将无差，难道我是那无用之辈么？"
         },
         {
           "character": "岳飞",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "用者当用，本帅焉有不识将才之理。今观将军神色不正，两军阵前，恐有闪失，\n故而未敢相委。"
+          "text": "用者当用，本帅焉有不识将才之理。今观将军神色不正，两军阵前，恐有闪失，"
+        },
+        {
+          "character": "岳飞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "故而未敢相委。"
         },
         {
           "character": "高宠",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "元帅之言差矣！为大丈夫者，临阵交锋，生而无欢，死而何惧；不入虎穴，焉\n得虎子！"
+          "text": "元帅之言差矣！为大丈夫者，临阵交锋，生而无欢，死而何惧；不入虎穴，焉"
+        },
+        {
+          "character": "高宠",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "得虎子！"
         },
         {
           "character": "高宠",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "高宠一心把国保，\n杀敌救主立功劳！"
+          "text": "高宠一心把国保，"
+        },
+        {
+          "character": "高宠",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "杀敌救主立功劳！"
         },
         {
           "character": "岳飞",
@@ -1724,7 +2027,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0282,
+        0.9014,
+        0.0704,
+        0.8429,
+        15,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 5,
@@ -1752,7 +2065,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "俺，大金国昌平王、大平章、扫宋大元帅，完颜金兀术。宋室康王，被咱困守\n牛头山，约定今日与岳飞交战。但愿旗开得胜，马到成功。\n众儿郎，人马迎敌者！"
+          "text": "俺，大金国昌平王、大平章、扫宋大元帅，完颜金兀术。宋室康王，被咱困守"
+        },
+        {
+          "character": "兀术",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "牛头山，约定今日与岳飞交战。但愿旗开得胜，马到成功。"
+        },
+        {
+          "character": "兀术",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "众儿郎，人马迎敌者！"
         },
         {
           "character": null,
@@ -1770,7 +2097,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.25,
+        0.75,
+        0.0,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 6,
@@ -1843,14 +2180,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "岳元帅，如今你兵不过数千，又被孤困在北山，粮秣不足，已如网中之鱼，笼\n中之鸟，速将康王献出，归顺孤家，仍不失封侯之位。"
+          "text": "岳元帅，如今你兵不过数千，又被孤困在北山，粮秣不足，已如网中之鱼，笼"
+        },
+        {
+          "character": "兀术",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "中之鸟，速将康王献出，归顺孤家，仍不失封侯之位。"
         },
         {
           "character": "岳飞",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "休得胡言！尔等囚我二圣于沙漠，又追赶我主于湖广，本帅兵虽少而将勇，还\n不快快送出我家二主，如若不然，杀得尔等鸡犬不留！看枪！"
+          "text": "休得胡言！尔等囚我二圣于沙漠，又追赶我主于湖广，本帅兵虽少而将勇，还"
+        },
+        {
+          "character": "岳飞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "不快快送出我家二主，如若不然，杀得尔等鸡犬不留！看枪！"
         },
         {
           "character": null,
@@ -1913,7 +2264,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "想元帅枪法高强，今日因何连败二阵！俺不免前去助阵。\n张奎贤弟，与我看了纛旗，待俺与兀术见个高下。\n来，带马！"
+          "text": "想元帅枪法高强，今日因何连败二阵！俺不免前去助阵。"
+        },
+        {
+          "character": "高宠",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "张奎贤弟，与我看了纛旗，待俺与兀术见个高下。"
+        },
+        {
+          "character": "高宠",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来，带马！"
         },
         {
           "character": null,
@@ -1962,7 +2327,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "啊，好一个南蛮！竟杀得我军尸横遍野，无人敢敌。\n儿郎们，退往西南去者！"
+          "text": "啊，好一个南蛮！竟杀得我军尸横遍野，无人敢敌。"
+        },
+        {
+          "character": "兀术",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "儿郎们，退往西南去者！"
         },
         {
           "character": "四番兵",
@@ -1997,7 +2369,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "那兀术不知逃往那里去了？呀，看西南暗暗一处，想是番营，待我追上前去，\n杀他个干干净净也！"
+          "text": "那兀术不知逃往那里去了？呀，看西南暗暗一处，想是番营，待我追上前去，"
+        },
+        {
+          "character": "高宠",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "杀他个干干净净也！"
         },
         {
           "character": null,
@@ -2053,7 +2432,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "哈哈哈，高宠小儿，还是死在俺这铁滑车之下。\n儿郎们！"
+          "text": "哈哈哈，高宠小儿，还是死在俺这铁滑车之下。"
+        },
+        {
+          "character": "兀术",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "儿郎们！"
         },
         {
           "character": "四番兵",
@@ -2081,7 +2467,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "主公受惊了。\n来，查点我军缺少何人？"
+          "text": "主公受惊了。"
+        },
+        {
+          "character": "岳飞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来，查点我军缺少何人？"
         },
         {
           "character": "汤怀",
@@ -2109,14 +2502,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "启元帅：高宠见元帅与兀术交战，连败两阵，心中焦急，单枪匹马，杀入番营\n去了！"
+          "text": "启元帅：高宠见元帅与兀术交战，连败两阵，心中焦急，单枪匹马，杀入番营"
+        },
+        {
+          "character": "张奎",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "去了！"
         },
         {
           "character": "岳飞",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "他哪里知道，只因圣驾观阵，若与兀术恋战，番兵四下抢山，恐惊圣驾，故而\n不敢久战而退。"
+          "text": "他哪里知道，只因圣驾观阵，若与兀术恋战，番兵四下抢山，恐惊圣驾，故而"
+        },
+        {
+          "character": "岳飞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "不敢久战而退。"
         },
         {
           "character": null,
@@ -2263,7 +2670,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.6562,
+        10,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 7,
@@ -2284,7 +2701,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "贤弟，高王爷！罢了啊，俺牛皋只有贤弟同心共意，你今一死，俺牛皋活在世\n上，还有何意！也罢，待俺杀进番营，与贤弟报仇，纵然一死，也好与高贤"
+          "text": "贤弟，高王爷！罢了啊，俺牛皋只有贤弟同心共意，你今一死，俺牛皋活在世"
+        },
+        {
+          "character": "牛皋",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "上，还有何意！也罢，待俺杀进番营，与贤弟报仇，纵然一死，也好与高贤"
         }
       ],
       "interactions": [
@@ -2310,7 +2734,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     }
   ]
 }

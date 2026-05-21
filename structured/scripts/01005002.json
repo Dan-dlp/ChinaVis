@@ -80,7 +80,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "且住。行至此间，前面一带长江，后有追兵到此，这便如何是好。呜呼呀！看\n那旁有一打渔小舟，等他到来，再做道理。"
+          "text": "且住。行至此间，前面一带长江，后有追兵到此，这便如何是好。呜呼呀！看"
+        },
+        {
+          "character": "伍员",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "那旁有一打渔小舟，等他到来，再做道理。"
         },
         {
           "character": "渔父",
@@ -164,10 +171,31 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "昨夜晚上得一梦，\n梦见斗大红星坠落舟中。\n原来白发老公公。"
+          "text": "昨夜晚上得一梦，"
         },
         {
-          "character": "今日有人来问渡、伍员",
+          "character": "渔父",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "梦见斗大红星坠落舟中。"
+        },
+        {
+          "character": "渔父",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "原来白发老公公。"
+        },
+        {
+          "character": "渔父",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "今日有人来问渡"
+        },
+        {
+          "character": "伍员",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -283,14 +311,28 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "他父在朝掌山河，\n我这里将船忙摇过。"
+          "text": "他父在朝掌山河，"
+        },
+        {
+          "character": "渔父",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我这里将船忙摇过。"
         },
         {
           "character": "伍员",
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "多蒙老丈渡江河，\n千金谢礼不为多。"
+          "text": "多蒙老丈渡江河，"
+        },
+        {
+          "character": "伍员",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "千金谢礼不为多。"
         },
         {
           "character": null,
@@ -325,7 +367,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "哎呀，且住。我好心倒变了坏意，这便怎么处？待我投江一死。\n将军，那旁有人来了。"
+          "text": "哎呀，且住。我好心倒变了坏意，这便怎么处？待我投江一死。"
+        },
+        {
+          "character": "渔父",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "将军，那旁有人来了。"
         },
         {
           "character": "伍员",
@@ -399,7 +448,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.062,
+        0.2143,
+        0.7857,
+        0.0,
+        0.7073,
+        2,
+        0.0714,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -435,7 +494,21 @@
           "line_type": "西皮慢板",
           "musical_style": "西皮慢板",
           "style_family": "西皮",
-          "text": "光阴似箭日月梭，\n人生在世奈如何。\n母女浣纱度日活。"
+          "text": "光阴似箭日月梭，"
+        },
+        {
+          "character": "浣纱女",
+          "line_type": "西皮慢板",
+          "musical_style": "西皮慢板",
+          "style_family": "西皮",
+          "text": "人生在世奈如何。"
+        },
+        {
+          "character": "浣纱女",
+          "line_type": "西皮慢板",
+          "musical_style": "西皮慢板",
+          "style_family": "西皮",
+          "text": "母女浣纱度日活。"
         },
         {
           "character": null,
@@ -456,31 +529,248 @@
           "line_type": "西皮流水板",
           "musical_style": "西皮流水板",
           "style_family": "西皮",
-          "text": "龙离沧海虎离窝。\n令出山摇不敢挪。\n各国不敢动干戈。\n秦诓诸侯求讲和。\n不该倚强做媒约。\n见一位娘行浣纱罗。\n篮中有饭又有馍。\n娘行斋生念弥陀。"
+          "text": "龙离沧海虎离窝。"
         },
         {
-          "character": "樊城一呼人百诺、力举千斤伍明甫、天下英雄俱服我、只是我当初不知过、可叹我一家无有结果、行来觉得肚饥饿、下得马来把揖做、浣纱女",
+          "character": "伍员",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "令出山摇不敢挪。"
+        },
+        {
+          "character": "伍员",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "各国不敢动干戈。"
+        },
+        {
+          "character": "伍员",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "秦诓诸侯求讲和。"
+        },
+        {
+          "character": "伍员",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "不该倚强做媒约。"
+        },
+        {
+          "character": "伍员",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "见一位娘行浣纱罗。"
+        },
+        {
+          "character": "伍员",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "篮中有饭又有馍。"
+        },
+        {
+          "character": "伍员",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "娘行斋生念弥陀。"
+        },
+        {
+          "character": "伍员",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "樊城一呼人百诺"
+        },
+        {
+          "character": "伍员",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "力举千斤伍明甫"
+        },
+        {
+          "character": "伍员",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "天下英雄俱服我"
+        },
+        {
+          "character": "伍员",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "只是我当初不知过"
+        },
+        {
+          "character": "伍员",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "可叹我一家无有结果"
+        },
+        {
+          "character": "伍员",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "行来觉得肚饥饿"
+        },
+        {
+          "character": "伍员",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "下得马来把揖做"
+        },
+        {
+          "character": "浣纱女",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
           "text": "呀！"
         },
         {
-          "character": "樊城一呼人百诺、力举千斤伍明甫、天下英雄俱服我、只是我当初不知过、可叹我一家无有结果、行来觉得肚饥饿、下得马来把揖做、浣纱女",
+          "character": "浣纱女",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "樊城一呼人百诺"
+        },
+        {
+          "character": "浣纱女",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "力举千斤伍明甫"
+        },
+        {
+          "character": "浣纱女",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "天下英雄俱服我"
+        },
+        {
+          "character": "浣纱女",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "只是我当初不知过"
+        },
+        {
+          "character": "浣纱女",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "可叹我一家无有结果"
+        },
+        {
+          "character": "浣纱女",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "行来觉得肚饥饿"
+        },
+        {
+          "character": "浣纱女",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "下得马来把揖做"
+        },
+        {
+          "character": "浣纱女",
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "眼观水底人影过，\n耳旁听得言语多。\n男女交谈是非多。"
+          "text": "眼观水底人影过，"
         },
         {
-          "character": "樊城一呼人百诺、力举千斤伍明甫、天下英雄俱服我、只是我当初不知过、可叹我一家无有结果、行来觉得肚饥饿、下得马来把揖做、浣纱女",
+          "character": "浣纱女",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "耳旁听得言语多。"
+        },
+        {
+          "character": "浣纱女",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "男女交谈是非多。"
+        },
+        {
+          "character": "浣纱女",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "樊城一呼人百诺"
+        },
+        {
+          "character": "浣纱女",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "力举千斤伍明甫"
+        },
+        {
+          "character": "浣纱女",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "天下英雄俱服我"
+        },
+        {
+          "character": "浣纱女",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "只是我当初不知过"
+        },
+        {
+          "character": "浣纱女",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "可叹我一家无有结果"
+        },
+        {
+          "character": "浣纱女",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "行来觉得肚饥饿"
+        },
+        {
+          "character": "浣纱女",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "下得马来把揖做"
+        },
+        {
+          "character": "浣纱女",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
           "text": "将军，听汝之言，敢是迷失路途。"
         },
         {
-          "character": "浣纱溪边谁问我、伍员",
+          "character": "浣纱女",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "浣纱溪边谁问我"
+        },
+        {
+          "character": "伍员",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -519,42 +809,175 @@
           "line_type": "西皮二六板",
           "musical_style": "西皮二六板",
           "style_family": "西皮",
-          "text": "未曾开言我的心难过，\n两眼不住泪如棱。\n我的父人称伍相国。\n父子三人保山河。\n可怜我一家大小三百余口见阎罗。\n穷途落魄受折磨。"
+          "text": "未曾开言我的心难过，"
         },
         {
-          "character": "家住在楚国御皇阁、伍子胥，就是我、我的父谏奏反遭祸、只剩下子胥人一个、浣纱女",
+          "character": "伍员",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "两眼不住泪如棱。"
+        },
+        {
+          "character": "伍员",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "我的父人称伍相国。"
+        },
+        {
+          "character": "伍员",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "父子三人保山河。"
+        },
+        {
+          "character": "伍员",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "可怜我一家大小三百余口见阎罗。"
+        },
+        {
+          "character": "伍员",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "穷途落魄受折磨。"
+        },
+        {
+          "character": "伍员",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "家住在楚国御皇阁"
+        },
+        {
+          "character": "伍员",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "伍子胥，就是我"
+        },
+        {
+          "character": "伍员",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "我的父谏奏反遭祸"
+        },
+        {
+          "character": "伍员",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "只剩下子胥人一个"
+        },
+        {
+          "character": "浣纱女",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
           "text": "呀！"
         },
         {
-          "character": "家住在楚国御皇阁、伍子胥，就是我、我的父谏奏反遭祸、只剩下子胥人一个、浣纱女",
-          "line_type": "西皮快板",
-          "musical_style": "西皮快板",
-          "style_family": "西皮",
-          "text": "听罢言来珠泪落，\n忠臣孝子受折磨。\n免了奔波受饥饿。"
+          "character": "浣纱女",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "家住在楚国御皇阁"
         },
         {
-          "character": "篮中有馍你用过、伍员",
-          "line_type": "西皮摇板",
-          "musical_style": "西皮摇板",
-          "style_family": "西皮",
-          "text": "多谢娘行周济我，\n一饭千金不为多。"
+          "character": "浣纱女",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "伍子胥，就是我"
+        },
+        {
+          "character": "浣纱女",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我的父谏奏反遭祸"
+        },
+        {
+          "character": "浣纱女",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "只剩下子胥人一个"
         },
         {
           "character": "浣纱女",
           "line_type": "西皮快板",
           "musical_style": "西皮快板",
           "style_family": "西皮",
-          "text": "将军打马忙走却，\n男女交谈理不合。"
+          "text": "听罢言来珠泪落，"
+        },
+        {
+          "character": "浣纱女",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "忠臣孝子受折磨。"
+        },
+        {
+          "character": "浣纱女",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "免了奔波受饥饿。"
+        },
+        {
+          "character": "浣纱女",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "篮中有馍你用过"
         },
         {
           "character": "伍员",
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "娘行一言提醒我，\n句句言语记心窝。"
+          "text": "多谢娘行周济我，"
+        },
+        {
+          "character": "伍员",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "一饭千金不为多。"
+        },
+        {
+          "character": "浣纱女",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "将军打马忙走却，"
+        },
+        {
+          "character": "浣纱女",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "男女交谈理不合。"
+        },
+        {
+          "character": "伍员",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "娘行一言提醒我，"
+        },
+        {
+          "character": "伍员",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "句句言语记心窝。"
         },
         {
           "character": null,
@@ -603,14 +1026,42 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "呀！稍站。\n且住，想我浣纱女子，三十未嫁，今与男子交言，倘被旁人知晓，岂不失却我\n的贞洁之名？也罢，我不免投江一死，免却他人的疑心便了。"
+          "text": "呀！稍站。"
+        },
+        {
+          "character": "浣纱女",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "且住，想我浣纱女子，三十未嫁，今与男子交言，倘被旁人知晓，岂不失却我"
+        },
+        {
+          "character": "浣纱女",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "的贞洁之名？也罢，我不免投江一死，免却他人的疑心便了。"
         },
         {
           "character": "浣纱女",
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "三十未嫁守闺门，\n男女交言不通情。\n我只得别母投江死，母亲呀！"
+          "text": "三十未嫁守闺门，"
+        },
+        {
+          "character": "浣纱女",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "男女交言不通情。"
+        },
+        {
+          "character": "浣纱女",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "我只得别母投江死，母亲呀！"
         },
         {
           "character": "浣纱女",
@@ -659,7 +1110,17 @@
           "西皮摇板",
           "西皮流水板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.368,
+        0.6625,
+        0.3375,
+        0.0,
+        0.2152,
+        2,
+        0.6625,
+        0.0
+      ]
     }
   ]
 }

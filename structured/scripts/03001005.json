@@ -150,7 +150,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "某，晋国副元帅先縠是也。只为楚庄兵伐我国，兄长先蔑已被斩首。吾主命下，\n道那荥阳关乃晋国咽喉之所，命我带兵三千，前往镇守。如今楚兵蜂拥而至，\n必夺此关，故此迅速前往。\n众将官！人马速至荥阳关去者！"
+          "text": "某，晋国副元帅先縠是也。只为楚庄兵伐我国，兄长先蔑已被斩首。吾主命下，"
+        },
+        {
+          "character": "先縠",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "道那荥阳关乃晋国咽喉之所，命我带兵三千，前往镇守。如今楚兵蜂拥而至，"
+        },
+        {
+          "character": "先縠",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "必夺此关，故此迅速前往。"
+        },
+        {
+          "character": "先縠",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "众将官！人马速至荥阳关去者！"
         },
         {
           "character": null,
@@ -169,7 +190,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.8,
+        0.2,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -196,7 +227,21 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "旗旛高展空照耀，\n将士个个紧战袍。\n不扫晋成气怎消？"
+          "text": "旗旛高展空照耀，"
+        },
+        {
+          "character": "楚庄王",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "将士个个紧战袍。"
+        },
+        {
+          "character": "楚庄王",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "不扫晋成气怎消？"
         },
         {
           "character": "楚庄王",
@@ -206,7 +251,35 @@
           "text": "啊，列位将军！"
         },
         {
-          "character": "先蔑人马平静了、公子侧、潘尪、襄老、唐狡",
+          "character": "楚庄王",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "先蔑人马平静了"
+        },
+        {
+          "character": "楚庄王",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "公子侧"
+        },
+        {
+          "character": "楚庄王",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "潘尪"
+        },
+        {
+          "character": "楚庄王",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "襄老"
+        },
+        {
+          "character": "唐狡",
           "line_type": "同白",
           "musical_style": null,
           "style_family": null,
@@ -217,7 +290,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "孤王伐晋，一路夺了数城，势如破竹。前面已是荥阳关，乃是晋国咽喉之地。\n有人取得此关，功劳第一，即封上卿之爵。"
+          "text": "孤王伐晋，一路夺了数城，势如破竹。前面已是荥阳关，乃是晋国咽喉之地。"
+        },
+        {
+          "character": "楚庄王",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "有人取得此关，功劳第一，即封上卿之爵。"
         },
         {
           "character": "唐狡",
@@ -231,14 +311,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "哎呀，将军连日勤劳，今又独战前行，真贤臣也！就命将军随带本部人马攻取\n荥阳；孤王大兵随后。听孤令下！"
+          "text": "哎呀，将军连日勤劳，今又独战前行，真贤臣也！就命将军随带本部人马攻取"
+        },
+        {
+          "character": "楚庄王",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "荥阳；孤王大兵随后。听孤令下！"
         },
         {
           "character": "楚庄王",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "一路斩关如风扫，\n惟有荥阳要辛劳。"
+          "text": "一路斩关如风扫，"
+        },
+        {
+          "character": "楚庄王",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "惟有荥阳要辛劳。"
         },
         {
           "character": "楚庄王",
@@ -255,18 +349,53 @@
           "text": "要成大业在今朝。"
         },
         {
-          "character": "此去只须智谋巧、唐狡",
+          "character": "楚庄王",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "此去只须智谋巧"
+        },
+        {
+          "character": "唐狡",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
           "text": "得令！"
         },
         {
-          "character": "此去只须智谋巧、唐狡",
+          "character": "唐狡",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "此去只须智谋巧"
+        },
+        {
+          "character": "唐狡",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "大王令下如雷暴，\n不由壮气冲云霄。\n岂可贪生惜辛劳！\n隐姓埋名乐逍遥。"
+          "text": "大王令下如雷暴，"
+        },
+        {
+          "character": "唐狡",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "不由壮气冲云霄。"
+        },
+        {
+          "character": "唐狡",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "岂可贪生惜辛劳！"
+        },
+        {
+          "character": "唐狡",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "隐姓埋名乐逍遥。"
         },
         {
           "character": null,
@@ -280,7 +409,35 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "为王统兵把晋扫，\n险些一命赴阴曹；\n怎得唐狡小英豪？\n兵机智谋比人高。\n众军戮力涌如潮。"
+          "text": "为王统兵把晋扫，"
+        },
+        {
+          "character": "楚庄王",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "险些一命赴阴曹；"
+        },
+        {
+          "character": "楚庄王",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "怎得唐狡小英豪？"
+        },
+        {
+          "character": "楚庄王",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "兵机智谋比人高。"
+        },
+        {
+          "character": "楚庄王",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "众军戮力涌如潮。"
         },
         {
           "character": null,
@@ -294,21 +451,56 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "楚营能将有多少，\n单单差遣小唐狡。\n满腔怨气不肯消。"
-        },
-        {
-          "character": "襄老",
-          "line_type": "白",
-          "musical_style": null,
-          "style_family": null,
-          "text": "且住。想唐狡乃我部下小卒，大王如此重用，命他独取荥阳，我心中实是不服。\n也罢，不如单人独骑，绕小路去往关前叫骂。守城将官必然出关迎敌，我国\n将官前来抵杀，那时我乘势夺取荥阳，占住头功，以息唐狡威风也。"
+          "text": "楚营能将有多少，"
         },
         {
           "character": "襄老",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "自随楚国功不小，\n出兵岂让小儿曹；"
+          "text": "单单差遣小唐狡。"
+        },
+        {
+          "character": "襄老",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "满腔怨气不肯消。"
+        },
+        {
+          "character": "襄老",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "且住。想唐狡乃我部下小卒，大王如此重用，命他独取荥阳，我心中实是不服。"
+        },
+        {
+          "character": "襄老",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "也罢，不如单人独骑，绕小路去往关前叫骂。守城将官必然出关迎敌，我国"
+        },
+        {
+          "character": "襄老",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "将官前来抵杀，那时我乘势夺取荥阳，占住头功，以息唐狡威风也。"
+        },
+        {
+          "character": "襄老",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "自随楚国功不小，"
+        },
+        {
+          "character": "襄老",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "出兵岂让小儿曹；"
         },
         {
           "character": "襄老",
@@ -349,7 +541,17 @@
         "singing_ratio": 0.375,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.375,
+        0.55,
+        0.45,
+        0.0,
+        0.1795,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -370,21 +572,49 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "大营将官静悄悄，\n独俺一人报当朝。"
-        },
-        {
-          "character": "唐狡",
-          "line_type": "白",
-          "musical_style": null,
-          "style_family": null,
-          "text": "俺，唐狡。帐前夸下大口，稳取荥阳关。想此城坚固，难以得破。适才有小军\n报说，襄老单人独骑，绕小路骂贼出战。为此俺带领老军扮做樵夫，混进关去，\n杀个落花流水，就可稳取此关也！"
+          "text": "大营将官静悄悄，"
         },
         {
           "character": "唐狡",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "只愿苍天相佑保，\n受恩深处不辞劳。"
+          "text": "独俺一人报当朝。"
+        },
+        {
+          "character": "唐狡",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "俺，唐狡。帐前夸下大口，稳取荥阳关。想此城坚固，难以得破。适才有小军"
+        },
+        {
+          "character": "唐狡",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "报说，襄老单人独骑，绕小路骂贼出战。为此俺带领老军扮做樵夫，混进关去，"
+        },
+        {
+          "character": "唐狡",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "杀个落花流水，就可稳取此关也！"
+        },
+        {
+          "character": "唐狡",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "只愿苍天相佑保，"
+        },
+        {
+          "character": "唐狡",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "受恩深处不辞劳。"
         },
         {
           "character": null,
@@ -403,7 +633,17 @@
         "singing_ratio": 1.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        1.0,
+        0.5714,
+        0.4286,
+        0.0,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 4,
@@ -527,7 +767,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "楚兵前来攻城，命你带领一哨人马，从小路抄入楚军后队；听本帅号炮一响，\n前后夹攻，将庄王君臣一鼓而擒，不得违误！"
+          "text": "楚兵前来攻城，命你带领一哨人马，从小路抄入楚军后队；听本帅号炮一响，"
+        },
+        {
+          "character": "先縠",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "前后夹攻，将庄王君臣一鼓而擒，不得违误！"
         },
         {
           "character": "鲍葵",
@@ -562,7 +809,28 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "可恨楚庄忒欺藐，\n吾兄命丧马鞍鞒。\n戴天之仇怎开交。\n且看来的将英豪！"
+          "text": "可恨楚庄忒欺藐，"
+        },
+        {
+          "character": "先縠",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "吾兄命丧马鞍鞒。"
+        },
+        {
+          "character": "先縠",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "戴天之仇怎开交。"
+        },
+        {
+          "character": "先縠",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "且看来的将英豪！"
         },
         {
           "character": null,
@@ -576,7 +844,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "单人独骑出营哨，\n要想头功压唐狡。"
+          "text": "单人独骑出营哨，"
+        },
+        {
+          "character": "襄老",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "要想头功压唐狡。"
         },
         {
           "character": "襄老",
@@ -625,7 +900,28 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "睁开虎目往下瞧：\n并无队伍摆城壕；\n有何诡计枪对刀。\n叫儿郎开关摆战道！"
+          "text": "睁开虎目往下瞧："
+        },
+        {
+          "character": "先縠",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "并无队伍摆城壕；"
+        },
+        {
+          "character": "先縠",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "有何诡计枪对刀。"
+        },
+        {
+          "character": "先縠",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "叫儿郎开关摆战道！"
         },
         {
           "character": null,
@@ -751,7 +1047,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "这厮用计赚了此关，如今将错就错。众将官，今夜去劫楚营，只要擒住庄王，\n胜如百万雄师。杀奔楚营去者！"
+          "text": "这厮用计赚了此关，如今将错就错。众将官，今夜去劫楚营，只要擒住庄王，"
+        },
+        {
+          "character": "先縠",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "胜如百万雄师。杀奔楚营去者！"
         },
         {
           "character": null,
@@ -831,7 +1134,17 @@
         "singing_ratio": 0.111,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.111,
+        0.2857,
+        0.6667,
+        0.0476,
+        0.5366,
+        6,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 5,
@@ -853,7 +1166,35 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "自掌楚业屡征讨，\n各国闻名胆魂消。\n晋、陈凭空起戈矛。\n马不停蹄挂战袍。\n昼夜筹思费心焦。"
+          "text": "自掌楚业屡征讨，"
+        },
+        {
+          "character": "楚庄王",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "各国闻名胆魂消。"
+        },
+        {
+          "character": "楚庄王",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "晋、陈凭空起戈矛。"
+        },
+        {
+          "character": "楚庄王",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "马不停蹄挂战袍。"
+        },
+        {
+          "character": "楚庄王",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "昼夜筹思费心焦。"
         },
         {
           "character": null,
@@ -895,7 +1236,21 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "唐狡虽然年纪小，\n智取荥阳见识高。\n准备关前枪对刀。"
+          "text": "唐狡虽然年纪小，"
+        },
+        {
+          "character": "楚庄王",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "智取荥阳见识高。"
+        },
+        {
+          "character": "楚庄王",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "准备关前枪对刀。"
         },
         {
           "character": null,
@@ -944,7 +1299,28 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "晋兵既然失城道，\n何敢前来劫龙巢？\n定灭晋兵莫放逃。\n君臣弃营且奔逃。"
+          "text": "晋兵既然失城道，"
+        },
+        {
+          "character": "楚庄王",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "何敢前来劫龙巢？"
+        },
+        {
+          "character": "楚庄王",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "定灭晋兵莫放逃。"
+        },
+        {
+          "character": "楚庄王",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "君臣弃营且奔逃。"
         },
         {
           "character": null,
@@ -973,7 +1349,17 @@
         "singing_ratio": 0.125,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.125,
+        0.6316,
+        0.3684,
+        0.0,
+        0.3333,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 6,
@@ -1052,7 +1438,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.6667,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 7,
@@ -1077,7 +1473,21 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "远望荥阳难得到，\n舍死忘生同奔逃。\n认不出高低路哪条？"
+          "text": "远望荥阳难得到，"
+        },
+        {
+          "character": "楚庄王",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "舍死忘生同奔逃。"
+        },
+        {
+          "character": "楚庄王",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "认不出高低路哪条？"
         },
         {
           "character": null,
@@ -1098,7 +1508,21 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "耳边听得人马闹。\n（楚庄王下。四蓝文堂、四蓝大铠引先縠同冲上，同杀，潘尪倒抵，鲍葵接上杀，唐狡冲上抵，轰同下。连\n上，唐狡杀先縠死，杀鲍葵，襄老取首。四上手拥唐狡同下。公子侧、潘尪、楚庄王同上。唐狡、襄老同上。）"
+          "text": "耳边听得人马闹。"
+        },
+        {
+          "character": "楚庄王",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "（楚庄王下。四蓝文堂、四蓝大铠引先縠同冲上，同杀，潘尪倒抵，鲍葵接上杀，唐狡冲上抵，轰同下。连"
+        },
+        {
+          "character": "楚庄王",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "上，唐狡杀先縠死，杀鲍葵，襄老取首。四上手拥唐狡同下。公子侧、潘尪、楚庄王同上。唐狡、襄老同上。）"
         },
         {
           "character": "楚庄王",
@@ -1133,7 +1557,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "小臣取了荥阳关，欲到天明请驾进城，心中转想贼子必然劫营；故命兵将把守\n城池，单人独骑，前来救驾。"
+          "text": "小臣取了荥阳关，欲到天明请驾进城，心中转想贼子必然劫营；故命兵将把守"
+        },
+        {
+          "character": "唐狡",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "城池，单人独骑，前来救驾。"
         },
         {
           "character": null,
@@ -1182,7 +1613,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "大王不必耽烦恼，\n保驾勤王汗马劳。"
+          "text": "大王不必耽烦恼，"
+        },
+        {
+          "character": "唐狡",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "保驾勤王汗马劳。"
         },
         {
           "character": null,
@@ -1203,7 +1641,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "多少英雄争名号，\n个个不及小唐狡。"
+          "text": "多少英雄争名号，"
+        },
+        {
+          "character": "襄老",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "个个不及小唐狡。"
         },
         {
           "character": "公子侧",
@@ -1238,7 +1683,28 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "反贼半夜逞强暴，\n君臣凄零四处逃。\n名垂青史万古标。\n暂息鞍马解战袍。"
+          "text": "反贼半夜逞强暴，"
+        },
+        {
+          "character": "楚庄王",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "君臣凄零四处逃。"
+        },
+        {
+          "character": "楚庄王",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "名垂青史万古标。"
+        },
+        {
+          "character": "楚庄王",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "暂息鞍马解战袍。"
         },
         {
           "character": null,
@@ -1292,7 +1758,17 @@
         "singing_ratio": 0.133,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.133,
+        0.5484,
+        0.4516,
+        0.0,
+        0.4,
+        7,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 8,
@@ -1450,7 +1926,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.5714,
+        0.4286,
+        0.8462,
+        6,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 9,
@@ -1485,7 +1971,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "某，晋国大司马魏锜是也。只因楚庄侵犯我邦，大王曾命先蔑领兵对敌，被擒\n斩首。又闻得荥阳失陷，先縠遭戮。军情紧急，须速请旨定夺。\n来，开道上朝！"
+          "text": "某，晋国大司马魏锜是也。只因楚庄侵犯我邦，大王曾命先蔑领兵对敌，被擒"
+        },
+        {
+          "character": "魏锜",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "斩首。又闻得荥阳失陷，先縠遭戮。军情紧急，须速请旨定夺。"
+        },
+        {
+          "character": "魏锜",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来，开道上朝！"
         },
         {
           "character": null,
@@ -1503,7 +2003,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.2,
+        0.6,
+        0.2,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 10,
@@ -1530,7 +2040,35 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "处承晋业屡遭害，\n楚庄恃横起祸胎。\n损兵折将好伤怀。\n未知吉凶报马来。\n黎民涂炭苦哀哉。"
+          "text": "处承晋业屡遭害，"
+        },
+        {
+          "character": "晋成公",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "楚庄恃横起祸胎。"
+        },
+        {
+          "character": "晋成公",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "损兵折将好伤怀。"
+        },
+        {
+          "character": "晋成公",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "未知吉凶报马来。"
+        },
+        {
+          "character": "晋成公",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "黎民涂炭苦哀哉。"
         },
         {
           "character": null,
@@ -1593,14 +2131,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "哎呀！荥阳乃二国咽喉之地，既被楚兵占去，绛都难保。司马速统大兵，命赵\n旃、赵同以为前站，共灭楚庄！"
+          "text": "哎呀！荥阳乃二国咽喉之地，既被楚兵占去，绛都难保。司马速统大兵，命赵"
+        },
+        {
+          "character": "晋成公",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "旃、赵同以为前站，共灭楚庄！"
         },
         {
           "character": "荀林父",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "且慢！启大王：兵行诡诈。依臣愚见，权且讲和，平分疆界。此为缓兵之计。\n伏乞圣裁！"
+          "text": "且慢！启大王：兵行诡诈。依臣愚见，权且讲和，平分疆界。此为缓兵之计。"
+        },
+        {
+          "character": "荀林父",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "伏乞圣裁！"
         },
         {
           "character": "赵旃、赵同",
@@ -1628,21 +2180,63 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "大晋山河有数代，\n岂肯一旦两抛开。\n莫待楚庄绛都来。"
+          "text": "大晋山河有数代，"
         },
         {
-          "character": "统领雄兵安营寨、魏锜",
+          "character": "晋成公",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "岂肯一旦两抛开。"
+        },
+        {
+          "character": "晋成公",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "莫待楚庄绛都来。"
+        },
+        {
+          "character": "晋成公",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "统领雄兵安营寨"
+        },
+        {
+          "character": "魏锜",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
           "text": "领旨！"
         },
         {
-          "character": "统领雄兵安营寨、魏锜",
+          "character": "魏锜",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "统领雄兵安营寨"
+        },
+        {
+          "character": "魏锜",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "为臣蒙恩深如海，\n自有一番巧安排。\n二将随某校场外！"
+          "text": "为臣蒙恩深如海，"
+        },
+        {
+          "character": "魏锜",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "自有一番巧安排。"
+        },
+        {
+          "character": "魏锜",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "二将随某校场外！"
         },
         {
           "character": null,
@@ -1698,7 +2292,35 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "为王心中自己揣，\n魏锜谋略盖世才。\n有死无生丧尘埃。\n二将英雄有奇才。\n一战成功免祸灾。"
+          "text": "为王心中自己揣，"
+        },
+        {
+          "character": "晋成公",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "魏锜谋略盖世才。"
+        },
+        {
+          "character": "晋成公",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "有死无生丧尘埃。"
+        },
+        {
+          "character": "晋成公",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "二将英雄有奇才。"
+        },
+        {
+          "character": "晋成公",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "一战成功免祸灾。"
         },
         {
           "character": null,
@@ -1761,7 +2383,17 @@
         "singing_ratio": 0.333,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.333,
+        0.5946,
+        0.4054,
+        0.0,
+        0.4722,
+        7,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 11,
@@ -1801,7 +2433,17 @@
         "singing_ratio": 1.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        1.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 12,
@@ -1895,7 +2537,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "本督，晋国大司马魏锜是也。楚庄兴兵犯界，奉王旨意，扫荡楚军。\n啊二位将军，今番出战非比寻常，须要努力将他君臣生擒献俘。就此迎上前去！"
+          "text": "本督，晋国大司马魏锜是也。楚庄兴兵犯界，奉王旨意，扫荡楚军。"
+        },
+        {
+          "character": "魏锜",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "啊二位将军，今番出战非比寻常，须要努力将他君臣生擒献俘。就此迎上前去！"
         },
         {
           "character": "赵旃、赵同",
@@ -1937,14 +2586,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "呔！楚庄！闻你兵强将勇，你我两军相交，不许诡诈。你兵得胜，我国献城投\n降，你意如何？"
+          "text": "呔！楚庄！闻你兵强将勇，你我两军相交，不许诡诈。你兵得胜，我国献城投"
+        },
+        {
+          "character": "魏锜",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "降，你意如何？"
         },
         {
           "character": "楚庄王",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "哦哦，魏锜，孤家上国天兵岂惧小邦喽蚁！你我各亮阵势决一雌雄。\n众将官，摆开阵势者！"
+          "text": "哦哦，魏锜，孤家上国天兵岂惧小邦喽蚁！你我各亮阵势决一雌雄。"
+        },
+        {
+          "character": "楚庄王",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "众将官，摆开阵势者！"
         },
         {
           "character": "楚庄王",
@@ -1958,7 +2621,21 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "大小将官两边排。\n有何能耐称龙台？\n就该束手降表来。"
+          "text": "大小将官两边排。"
+        },
+        {
+          "character": "楚庄王",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "有何能耐称龙台？"
+        },
+        {
+          "character": "楚庄王",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "就该束手降表来。"
         },
         {
           "character": null,
@@ -1986,7 +2663,42 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "庄王不必虚情待，\n某家一言听心怀：\n假仁假义逞英才。\n各守疆土有主裁。\n横行霸业使诡胎。\n冲杀人马滚尘埃。"
+          "text": "庄王不必虚情待，"
+        },
+        {
+          "character": "魏锜",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "某家一言听心怀："
+        },
+        {
+          "character": "魏锜",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "假仁假义逞英才。"
+        },
+        {
+          "character": "魏锜",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "各守疆土有主裁。"
+        },
+        {
+          "character": "魏锜",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "横行霸业使诡胎。"
+        },
+        {
+          "character": "魏锜",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "冲杀人马滚尘埃。"
         },
         {
           "character": null,
@@ -2039,7 +2751,17 @@
         "musical_styles": [
           "西皮导板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.071,
+        0.3667,
+        0.5333,
+        0.1,
+        0.3793,
+        5,
+        0.0333,
+        0.0
+      ]
     },
     {
       "scene_index": 13,
@@ -2062,7 +2784,21 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "喊杀连天争胜败，\n各凭谋略逞奇才。\n催马加鞭把阵踹！"
+          "text": "喊杀连天争胜败，"
+        },
+        {
+          "character": "襄老",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "各凭谋略逞奇才。"
+        },
+        {
+          "character": "襄老",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "催马加鞭把阵踹！"
         },
         {
           "character": null,
@@ -2104,7 +2840,21 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "可怜英雄年纪迈，\n一战未交丧尸骸。\n当年豪杰今何在？"
+          "text": "可怜英雄年纪迈，"
+        },
+        {
+          "character": "楚庄王",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "一战未交丧尸骸。"
+        },
+        {
+          "character": "楚庄王",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "当年豪杰今何在？"
         },
         {
           "character": null,
@@ -2143,7 +2893,17 @@
         "singing_ratio": 0.333,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.333,
+        0.7273,
+        0.2727,
+        0.0,
+        0.2,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 14,
@@ -2197,7 +2957,17 @@
         "singing_ratio": 1.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        1.0,
+        0.6667,
+        0.3333,
+        0.0,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 15,
@@ -2330,7 +3100,17 @@
         "singing_ratio": 0.4,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.4,
+        0.5,
+        0.5,
+        0.0,
+        0.6,
+        3,
+        0.0,
+        0.0
+      ]
     }
   ]
 }

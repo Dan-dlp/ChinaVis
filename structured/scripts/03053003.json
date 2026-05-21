@@ -107,7 +107,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "老夫、包拯。宋室为臣，官拜龙图阁大学士。只因陈州干旱三载，圣上命老夫\n前来放粮安民。放粮已毕，正好回朝交旨。一路之上，代理民词。\n王朝、马汉！"
+          "text": "老夫、包拯。宋室为臣，官拜龙图阁大学士。只因陈州干旱三载，圣上命老夫"
+        },
+        {
+          "character": "包拯",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "前来放粮安民。放粮已毕，正好回朝交旨。一路之上，代理民词。"
+        },
+        {
+          "character": "包拯",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "王朝、马汉！"
         },
         {
           "character": "王朝、马汉",
@@ -157,7 +171,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.125,
+        0.75,
+        0.125,
+        0.4286,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -219,7 +243,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.2,
+        0.6,
+        0.2,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -247,21 +281,98 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "想当年在昭阳何等安好，\n都只为产太子起下波涛。\n秋八月他把那冷宫来烧。\n他将我救至在破瓦寒窑。\n但不知何日里才得还朝！"
-        },
-        {
-          "character": "李后",
-          "line_type": "白",
-          "musical_style": null,
-          "style_family": null,
-          "text": "哀家、李后。只因癸未年间，本后身怀六甲，临盆之时，宫中刘妃在老王驾前\n讨下收生代劳的旨意。哪里是收生代劳？分明是条奸计——她与内侍郭槐乃是\n姑表之亲，命郭槐将外国进来的金色狸猫剥去皮尾，换出幼主，启奏一本，道\n本后产生怪物。老王闻奏大怒，将哀家推出午门问斩。多亏满朝文武保奏，将\n哀家打入冷宫。奸妃一计不成，与郭槐又生二计——定于八月十五日火焚冷官。\n也不知何人将我救至在赵州桥破瓦寒窑安身。至今算来，已有二十余载了！"
+          "text": "想当年在昭阳何等安好，"
         },
         {
           "character": "李后",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "离别了皇宫院二十余年，\n不知晓朝中事可曾安然？\n仇报仇来冤报冤！"
+          "text": "都只为产太子起下波涛。"
+        },
+        {
+          "character": "李后",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "秋八月他把那冷宫来烧。"
+        },
+        {
+          "character": "李后",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "他将我救至在破瓦寒窑。"
+        },
+        {
+          "character": "李后",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "但不知何日里才得还朝！"
+        },
+        {
+          "character": "李后",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "哀家、李后。只因癸未年间，本后身怀六甲，临盆之时，宫中刘妃在老王驾前"
+        },
+        {
+          "character": "李后",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "讨下收生代劳的旨意。哪里是收生代劳？分明是条奸计——她与内侍郭槐乃是"
+        },
+        {
+          "character": "李后",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "姑表之亲，命郭槐将外国进来的金色狸猫剥去皮尾，换出幼主，启奏一本，道"
+        },
+        {
+          "character": "李后",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "本后产生怪物。老王闻奏大怒，将哀家推出午门问斩。多亏满朝文武保奏，将"
+        },
+        {
+          "character": "李后",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "哀家打入冷宫。奸妃一计不成，与郭槐又生二计——定于八月十五日火焚冷官。"
+        },
+        {
+          "character": "李后",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "也不知何人将我救至在赵州桥破瓦寒窑安身。至今算来，已有二十余载了！"
+        },
+        {
+          "character": "李后",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "离别了皇宫院二十余年，"
+        },
+        {
+          "character": "李后",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "不知晓朝中事可曾安然？"
+        },
+        {
+          "character": "李后",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "仇报仇来冤报冤！"
         },
         {
           "character": null,
@@ -275,7 +386,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "啊！何人鸣锣开道？待我问来。\n啊，列位请了！"
+          "text": "啊！何人鸣锣开道？待我问来。"
+        },
+        {
+          "character": "李后",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "啊，列位请了！"
         },
         {
           "character": null,
@@ -303,7 +421,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "有劳了。\n好了哇好了！人言包拯在朝为官清正。我不免前去，把我这二十年的冤枉对他\n说明，搭救哀家还朝，也未可知。天哪天！我这冤仇有日得报了！"
+          "text": "有劳了。"
+        },
+        {
+          "character": "李后",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "好了哇好了！人言包拯在朝为官清正。我不免前去，把我这二十年的冤枉对他"
+        },
+        {
+          "character": "李后",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "说明，搭救哀家还朝，也未可知。天哪天！我这冤仇有日得报了！"
         },
         {
           "character": "李后",
@@ -324,7 +456,17 @@
         "singing_ratio": 0.2,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.2,
+        0.4091,
+        0.5909,
+        0.0,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 4,
@@ -386,7 +528,21 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "狂风大起难开道，\n尘沙迷漫透九霄。\n若有冤情要细问根苗。"
+          "text": "狂风大起难开道，"
+        },
+        {
+          "character": "包拯",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "尘沙迷漫透九霄。"
+        },
+        {
+          "character": "包拯",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "若有冤情要细问根苗。"
         },
         {
           "character": "包拯",
@@ -396,7 +552,14 @@
           "text": "传地方！"
         },
         {
-          "character": "且在此处暂住轿、王朝",
+          "character": "包拯",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "且在此处暂住轿"
+        },
+        {
+          "character": "王朝",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -463,14 +626,49 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "地方，赐你铜锣一面，庙前、庙后，庙左、庙右，高声喊叫，老夫在此审问民\n情，有冤枉者前来伸诉！"
+          "text": "地方，赐你铜锣一面，庙前、庙后，庙左、庙右，高声喊叫，老夫在此审问民"
+        },
+        {
+          "character": "包拯",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "情，有冤枉者前来伸诉！"
         },
         {
           "character": "地方",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "是。\n哟喝！别的大人到这儿，怕打官司的；这位大人到这儿，找打官司的！官差不\n由自己，吆喝两声。\n庙前庙后百姓们听者：今有包大人陈州放粮回朝；在天齐庙代理民词，有冤的\n前去伸诉！"
+          "text": "是。"
+        },
+        {
+          "character": "地方",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "哟喝！别的大人到这儿，怕打官司的；这位大人到这儿，找打官司的！官差不"
+        },
+        {
+          "character": "地方",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "由自己，吆喝两声。"
+        },
+        {
+          "character": "地方",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "庙前庙后百姓们听者：今有包大人陈州放粮回朝；在天齐庙代理民词，有冤的"
+        },
+        {
+          "character": "地方",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "前去伸诉！"
         },
         {
           "character": null,
@@ -484,7 +682,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "你们不冤，我也不冤。这边吆喝一声。\n庙左庙右百姓们听者：今有包大人陈州放粮回朝，在天齐庙代理民词，有冤枉\n的前去伸诉！"
+          "text": "你们不冤，我也不冤。这边吆喝一声。"
+        },
+        {
+          "character": "地方",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "庙左庙右百姓们听者：今有包大人陈州放粮回朝，在天齐庙代理民词，有冤枉"
+        },
+        {
+          "character": "地方",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "的前去伸诉！"
         },
         {
           "character": null,
@@ -526,7 +738,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "候着。我给您言语一声去，没有不开张的油盐店。\n启禀老大人：破瓦寒窑有一瞎婆，有二十年的冤枉。"
+          "text": "候着。我给您言语一声去，没有不开张的油盐店。"
+        },
+        {
+          "character": "地方",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "启禀老大人：破瓦寒窑有一瞎婆，有二十年的冤枉。"
         },
         {
           "character": "包拯",
@@ -540,7 +759,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "是。\n瞎老太太，出来凉快凉快！"
+          "text": "是。"
+        },
+        {
+          "character": "地方",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "瞎老太太，出来凉快凉快！"
         },
         {
           "character": "李后",
@@ -561,7 +787,21 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "覆盆之冤二十载，\n从来未得见青天。\n将身来在古庙前。"
+          "text": "覆盆之冤二十载，"
+        },
+        {
+          "character": "李后",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "从来未得见青天。"
+        },
+        {
+          "character": "李后",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "将身来在古庙前。"
         },
         {
           "character": "李后",
@@ -571,7 +811,14 @@
           "text": "小哥唤我何事？"
         },
         {
-          "character": "忽听小哥一声唤、地方",
+          "character": "李后",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "忽听小哥一声唤"
+        },
+        {
+          "character": "地方",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -736,7 +983,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "你那里休道我言语太差，\n提起来好叫人珠泪如麻。"
+          "text": "你那里休道我言语太差，"
+        },
+        {
+          "character": "李后",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "提起来好叫人珠泪如麻。"
         },
         {
           "character": "包拯",
@@ -750,7 +1004,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "家住在汴梁城龙凤阁下，\n万民中我算是第一人家。"
+          "text": "家住在汴梁城龙凤阁下，"
+        },
+        {
+          "character": "李后",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "万民中我算是第一人家。"
         },
         {
           "character": "包拯",
@@ -764,7 +1025,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "我本是采荷女王选伴驾，\n玉宸宫李娘娘就是哀家。"
+          "text": "我本是采荷女王选伴驾，"
+        },
+        {
+          "character": "李后",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "玉宸宫李娘娘就是哀家。"
         },
         {
           "character": null,
@@ -785,7 +1053,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "当今的宋天子是我亲生养下，\n我那赵祯呀！"
+          "text": "当今的宋天子是我亲生养下，"
+        },
+        {
+          "character": "李后",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我那赵祯呀！"
         },
         {
           "character": "包拯",
@@ -813,17 +1088,73 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "包相你哪里知道？只因癸未年间，哀家身怀六甲，宫中刘妃在老王驾前讨下一\n道收生代劳旨意。哪里是收生代劳，分明是一条奸计——她与内侍郭槐乃是姑\n表之亲，命他将外国进来金色狸猫剥去皮尾，换出幼主，启奏一本，道哀家产\n生怪物。老王闻奏大怒，将哀家推出午门斩首。多亏文武保奏，将哀家打入冷\n宫。奸妃一计不成，又生二计——定于八月十五日火焚冷宫。也不知是何人将\n我救至这在赵州桥破瓦寒窑来了。算来也有二十余年了！"
+          "text": "包相你哪里知道？只因癸未年间，哀家身怀六甲，宫中刘妃在老王驾前讨下一"
+        },
+        {
+          "character": "李后",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "道收生代劳旨意。哪里是收生代劳，分明是一条奸计——她与内侍郭槐乃是姑"
+        },
+        {
+          "character": "李后",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "表之亲，命他将外国进来金色狸猫剥去皮尾，换出幼主，启奏一本，道哀家产"
+        },
+        {
+          "character": "李后",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "生怪物。老王闻奏大怒，将哀家推出午门斩首。多亏文武保奏，将哀家打入冷"
+        },
+        {
+          "character": "李后",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "宫。奸妃一计不成，又生二计——定于八月十五日火焚冷宫。也不知是何人将"
+        },
+        {
+          "character": "李后",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我救至这在赵州桥破瓦寒窑来了。算来也有二十余年了！"
         },
         {
           "character": "李后",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "哪有个龙国太把饭讨？\n铁石人闻也泪抛。\n此番回去奏当朝。"
+          "text": "哪有个龙国太把饭讨？"
         },
         {
-          "character": "这是我冤屈事对你来表、包拯",
+          "character": "李后",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "铁石人闻也泪抛。"
+        },
+        {
+          "character": "李后",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "此番回去奏当朝。"
+        },
+        {
+          "character": "李后",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "这是我冤屈事对你来表"
+        },
+        {
+          "character": "包拯",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -855,10 +1186,45 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "众百姓都道你为官清正，\n断了些冤屈之案落得贤名。\n我保你子子孙孙头戴乌纱、身穿蟒袍、腰横玉带、足登朝靴、永在朝门。\n枉在朝中身为大臣！"
+          "text": "众百姓都道你为官清正，"
         },
         {
-          "character": "你若是断明我的冤仇恨、你若是断不明我的冤仇恨、包拯",
+          "character": "李后",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "断了些冤屈之案落得贤名。"
+        },
+        {
+          "character": "李后",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我保你子子孙孙头戴乌纱、身穿蟒袍、腰横玉带、足登朝靴、永在朝门。"
+        },
+        {
+          "character": "李后",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "枉在朝中身为大臣！"
+        },
+        {
+          "character": "李后",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "你若是断明我的冤仇恨"
+        },
+        {
+          "character": "李后",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "你若是断不明我的冤仇恨"
+        },
+        {
+          "character": "包拯",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -869,7 +1235,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "是。\n老太太，您这儿歇歇来。"
+          "text": "是。"
+        },
+        {
+          "character": "地方",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "老太太，您这儿歇歇来。"
         },
         {
           "character": null,
@@ -890,17 +1263,45 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "宋王爷坐江山人称有道，\n做一朝人王主也犯律条。\n怎受那宋王爷爵禄官高？"
+          "text": "宋王爷坐江山人称有道，"
+        },
+        {
+          "character": "包拯",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "做一朝人王主也犯律条。"
+        },
+        {
+          "character": "包拯",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "怎受那宋王爷爵禄官高？"
         },
         {
           "character": "包拯",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "且住！瞎婆言道，她是正宫国母，必知朝廷仪注。老夫拜她一拜，便知真假。\n来，将瞎婆搀扶正位。"
+          "text": "且住！瞎婆言道，她是正宫国母，必知朝廷仪注。老夫拜她一拜，便知真假。"
         },
         {
-          "character": "我若是袖手观佯装不晓、王朝",
+          "character": "包拯",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来，将瞎婆搀扶正位。"
+        },
+        {
+          "character": "包拯",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我若是袖手观佯装不晓"
+        },
+        {
+          "character": "王朝",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -925,10 +1326,31 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "在头上整整乌纱帽，\n身上抖抖蟒龙袍。\n接驾来迟望恕饶。"
+          "text": "在头上整整乌纱帽，"
         },
         {
-          "character": "走上前，忙跪倒、李后",
+          "character": "包拯",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "身上抖抖蟒龙袍。"
+        },
+        {
+          "character": "包拯",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "接驾来迟望恕饶。"
+        },
+        {
+          "character": "包拯",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "走上前，忙跪倒"
+        },
+        {
+          "character": "李后",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -946,10 +1368,31 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "我这跪拜她言道，\n包相平身是当朝。\n国太千岁把臣饶。"
+          "text": "我这跪拜她言道，"
         },
         {
-          "character": "二次撩袍忙跪倒、李后",
+          "character": "包拯",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "包相平身是当朝。"
+        },
+        {
+          "character": "包拯",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "国太千岁把臣饶。"
+        },
+        {
+          "character": "包拯",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "二次撩袍忙跪倒"
+        },
+        {
+          "character": "李后",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -967,17 +1410,115 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "劝国太，免心焦，\n为臣把本奏当朝。\n拿住了那刘妃、郭槐剐万刀；\n摘去乌纱脱蟒袍。\n有何凭据奏当朝？"
+          "text": "劝国太，免心焦，"
         },
         {
-          "character": "万岁准了为臣本、万岁不准臣的本、二十年来住寒窑、李后",
+          "character": "包拯",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "君臣相会天齐庙，\n不由哀家喜眉悄。\n你今拿去奏当朝。\n把我这二十载的含冤一本一本奏根苗。\n将郭槐万剐千刀我的恨才消。"
+          "text": "为臣把本奏当朝。"
         },
         {
-          "character": "黄绫诗帕是我的无价宝、包相回朝本奏到、拿住刘妃把仇报、包拯",
+          "character": "包拯",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "拿住了那刘妃、郭槐剐万刀；"
+        },
+        {
+          "character": "包拯",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "摘去乌纱脱蟒袍。"
+        },
+        {
+          "character": "包拯",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "有何凭据奏当朝？"
+        },
+        {
+          "character": "包拯",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "万岁准了为臣本"
+        },
+        {
+          "character": "包拯",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "万岁不准臣的本"
+        },
+        {
+          "character": "包拯",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "二十年来住寒窑"
+        },
+        {
+          "character": "李后",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "君臣相会天齐庙，"
+        },
+        {
+          "character": "李后",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "不由哀家喜眉悄。"
+        },
+        {
+          "character": "李后",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "你今拿去奏当朝。"
+        },
+        {
+          "character": "李后",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "把我这二十载的含冤一本一本奏根苗。"
+        },
+        {
+          "character": "李后",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "将郭槐万剐千刀我的恨才消。"
+        },
+        {
+          "character": "李后",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "黄绫诗帕是我的无价宝"
+        },
+        {
+          "character": "李后",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "包相回朝本奏到"
+        },
+        {
+          "character": "李后",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "拿住刘妃把仇报"
+        },
+        {
+          "character": "包拯",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
@@ -1016,7 +1557,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "这件事，真蹊跷，\n偏偏遇见我老包。"
+          "text": "这件事，真蹊跷，"
+        },
+        {
+          "character": "包拯",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "偏偏遇见我老包。"
         },
         {
           "character": "王朝、马汉忙开道、王朝、马汉",
@@ -1097,7 +1645,17 @@
         "singing_ratio": 0.149,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.149,
+        0.4014,
+        0.5986,
+        0.0,
+        0.4823,
+        5,
+        0.0,
+        0.0
+      ]
     }
   ]
 }

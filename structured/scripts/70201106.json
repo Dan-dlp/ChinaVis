@@ -229,7 +229,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "本帅，韩信。奉主之命，统领人马，共灭西楚。想我军自出褒中以来，五年之\n间，与项王亲临七十余战；劳师动众，千辛万苦。今项王势孤力弱，胜败就在\n此一举。\n陈平听令。"
+          "text": "本帅，韩信。奉主之命，统领人马，共灭西楚。想我军自出褒中以来，五年之"
+        },
+        {
+          "character": "韩信",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "间，与项王亲临七十余战；劳师动众，千辛万苦。今项王势孤力弱，胜败就在"
+        },
+        {
+          "character": "韩信",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "此一举。"
+        },
+        {
+          "character": "韩信",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "陈平听令。"
         },
         {
           "character": "陈平",
@@ -358,7 +379,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0588,
+        0.8824,
+        0.0588,
+        0.6875,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -395,14 +426,14 @@
           "text": "灭嬴秦，复楚地，争战华夷。"
         },
         {
-          "character": null,
+          "character": "项羽",
           "line_type": "念",
           "musical_style": null,
           "style_family": null,
           "text": "嬴秦无道动戎机，吞并六国又分离。项刘鸿沟曾割地，汉占东来楚霸西。"
         },
         {
-          "character": null,
+          "character": "项羽",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -434,7 +465,14 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "左车背汉来降顺，\n把本奏与圣明君。"
+          "text": "左车背汉来降顺，"
+        },
+        {
+          "character": "项伯",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "把本奏与圣明君。"
         },
         {
           "character": "项伯",
@@ -476,14 +514,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "哦！孤此时正少谋士，李左车来降，孤之幸也。只恐他是诈降。\n宣他上殿，待孤用言语探其真假。"
+          "text": "哦！孤此时正少谋士，李左车来降，孤之幸也。只恐他是诈降。"
+        },
+        {
+          "character": "项羽",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "宣他上殿，待孤用言语探其真假。"
         },
         {
           "character": "项伯",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "领旨。\n大王有旨：李左车上殿。"
+          "text": "领旨。"
+        },
+        {
+          "character": "项伯",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "大王有旨：李左车上殿。"
         },
         {
           "character": "李左车",
@@ -553,7 +605,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "啊，大王。臣前辅赵之时，赵王不用臣言，反命陈馀与韩信交战，被韩信斩陈\n馀于水。臣无栖身之处，遂投韩信账下。那韩信受封齐王以后，致生骄傲之心，\n凡有策划，皆自断。在帐下者，言不听，计不从，逃去者十之八九。今闻大\n王将与刘邦交战，愿投麾下，以效犬马之劳。焉敢行诈！"
+          "text": "啊，大王。臣前辅赵之时，赵王不用臣言，反命陈馀与韩信交战，被韩信斩陈"
+        },
+        {
+          "character": "李左车",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "馀于水。臣无栖身之处，遂投韩信账下。那韩信受封齐王以后，致生骄傲之心，"
+        },
+        {
+          "character": "李左车",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "凡有策划，皆自断。在帐下者，言不听，计不从，逃去者十之八九。今闻大"
+        },
+        {
+          "character": "李左车",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "王将与刘邦交战，愿投麾下，以效犬马之劳。焉敢行诈！"
         },
         {
           "character": "项羽",
@@ -567,7 +640,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "啊，大王此言差矣。想臣乃一谋士，不能披坚执锐，冲锋破敌，不过随在左右，\n与大王策划耳；听与不听，尽在大王。楚营虚实，韩信时有探报，不待臣诈\n降而后知之。大王若是见疑，是臣误投其主，为不明也；飘荡无依，为不智也。\n莫若死在大王之前，以明心迹。"
+          "text": "啊，大王此言差矣。想臣乃一谋士，不能披坚执锐，冲锋破敌，不过随在左右，"
+        },
+        {
+          "character": "李左车",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "与大王策划耳；听与不听，尽在大王。楚营虚实，韩信时有探报，不待臣诈"
+        },
+        {
+          "character": "李左车",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "降而后知之。大王若是见疑，是臣误投其主，为不明也；飘荡无依，为不智也。"
+        },
+        {
+          "character": "李左车",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "莫若死在大王之前，以明心迹。"
         },
         {
           "character": null,
@@ -595,7 +689,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "孤乃相戏耳。久闻广武先生英名，当时欲往赵国约来，为孤划策；今日果然实\n心归孤，孤当朝夕与先生商讨破汉之计。"
+          "text": "孤乃相戏耳。久闻广武先生英名，当时欲往赵国约来，为孤划策；今日果然实"
+        },
+        {
+          "character": "项羽",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "心归孤，孤当朝夕与先生商讨破汉之计。"
         },
         {
           "character": "李左车",
@@ -672,7 +773,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "臣启大王：前命李宁往会稽搬兵，太守一见檄文，即日起兵前来助战，又往舒、\n六调取周殷，怎奈周殷抗拒王命，按兵不动。请大王定夺。"
+          "text": "臣启大王：前命李宁往会稽搬兵，太守一见檄文，即日起兵前来助战，又往舒、"
+        },
+        {
+          "character": "周兰",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "六调取周殷，怎奈周殷抗拒王命，按兵不动。请大王定夺。"
         },
         {
           "character": "项羽",
@@ -721,7 +829,14 @@
           "line_type": "念",
           "musical_style": null,
           "style_family": null,
-          "text": "“倡议会诸侯，先将无道收。人心咸背楚，天意属炎刘。\n指日亡垓下，临时丧沛楼。剑光生烈焰，馘斩项王头。"
+          "text": "“倡议会诸侯，先将无道收。人心咸背楚，天意属炎刘。"
+        },
+        {
+          "character": "项羽",
+          "line_type": "念",
+          "musical_style": null,
+          "style_family": null,
+          "text": "指日亡垓下，临时丧沛楼。剑光生烈焰，馘斩项王头。"
         },
         {
           "character": "项羽",
@@ -735,7 +850,14 @@
           "line_type": "西皮散板",
           "musical_style": "西皮散板",
           "style_family": "西皮",
-          "text": "咬定牙关骂韩信，\n拿住贼子万刀分。"
+          "text": "咬定牙关骂韩信，"
+        },
+        {
+          "character": "项羽",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "拿住贼子万刀分。"
         },
         {
           "character": "项羽",
@@ -749,21 +871,49 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "且慢！臣启大王：那韩信恐陛下按兵不动，故尔出此狂言，以激大王之怒。大\n王若是出兵，必中韩信诱兵之计。大王三思。"
+          "text": "且慢！臣启大王：那韩信恐陛下按兵不动，故尔出此狂言，以激大王之怒。大"
+        },
+        {
+          "character": "周兰",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "王若是出兵，必中韩信诱兵之计。大王三思。"
         },
         {
           "character": "项羽",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "卿家，想孤纵横天下，未尝一日受辱；今被匹夫辱骂，若按兵不动，岂不被诸\n侯耻笑！"
+          "text": "卿家，想孤纵横天下，未尝一日受辱；今被匹夫辱骂，若按兵不动，岂不被诸"
+        },
+        {
+          "character": "项羽",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "侯耻笑！"
         },
         {
           "character": "虞子期",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "臣启大王：汉兵势众，又兼韩信多谋，依臣之见，只可深沟高垒，暂不出兵；\n候彼军疲乏，陛下以逸待劳，鼓兵而西，一战可胜。使韩信无以用其谋，张良\n无以决其策；荥阳、成皋唾手可得也。"
+          "text": "臣启大王：汉兵势众，又兼韩信多谋，依臣之见，只可深沟高垒，暂不出兵；"
+        },
+        {
+          "character": "虞子期",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "候彼军疲乏，陛下以逸待劳，鼓兵而西，一战可胜。使韩信无以用其谋，张良"
+        },
+        {
+          "character": "虞子期",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "无以决其策；荥阳、成皋唾手可得也。"
         },
         {
           "character": "项羽",
@@ -777,14 +927,35 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "啊，大王，如不亲征，汉兵必攻彭城，倘不能守，则大王无家可归矣。莫若领\n兵亲征，胜则汉兵可破，不胜则可退归彭城。此乃进可以战，退可以守之策。\n大王舍此良谋，而欲株守，不亦误乎！"
+          "text": "啊，大王，如不亲征，汉兵必攻彭城，倘不能守，则大王无家可归矣。莫若领"
+        },
+        {
+          "character": "李左车",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "兵亲征，胜则汉兵可破，不胜则可退归彭城。此乃进可以战，退可以守之策。"
+        },
+        {
+          "character": "李左车",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "大王舍此良谋，而欲株守，不亦误乎！"
         },
         {
           "character": "项羽",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "嗯！先生之言，甚合孤意。\n众卿传旨：即日兴兵破汉！"
+          "text": "嗯！先生之言，甚合孤意。"
+        },
+        {
+          "character": "项羽",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "众卿传旨：即日兴兵破汉！"
         },
         {
           "character": "虞子期",
@@ -826,7 +997,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "且住！我看李左车此来，有些诈意；但是大王发兵之心已定，不能阻止，如何\n是好！有了！不免去到后宫与娘娘商议商议，或能阻大王出兵，也未可知。正\n是："
+          "text": "且住！我看李左车此来，有些诈意；但是大王发兵之心已定，不能阻止，如何"
+        },
+        {
+          "character": "虞子期",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "是好！有了！不免去到后宫与娘娘商议商议，或能阻大王出兵，也未可知。正"
+        },
+        {
+          "character": "虞子期",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "是："
         },
         {
           "character": "虞子期",
@@ -917,7 +1102,17 @@
           "西皮摇板",
           "西皮散板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.07,
+        0.08,
+        0.84,
+        0.08,
+        0.5405,
+        8,
+        0.08,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -956,7 +1151,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "妾身，西楚霸王账下虞姬。生长深闺，幼娴书剑；自从随定大王，东征西战，\n艰难辛苦，不知何日方得太平也！"
+          "text": "妾身，西楚霸王账下虞姬。生长深闺，幼娴书剑；自从随定大王，东征西战，"
+        },
+        {
+          "character": "虞姬",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "艰难辛苦，不知何日方得太平也！"
         },
         {
           "character": null,
@@ -1026,14 +1228,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "是。\n虞子期进宫。"
+          "text": "是。"
+        },
+        {
+          "character": "宫女",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "虞子期进宫。"
         },
         {
           "character": "虞子期",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "领旨。\n臣，虞子期见驾，娘娘千岁！"
+          "text": "领旨。"
+        },
+        {
+          "character": "虞子期",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "臣，虞子期见驾，娘娘千岁！"
         },
         {
           "character": "虞姬",
@@ -1096,7 +1312,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "臣启娘娘：今有刘邦、韩信等，统领大兵前来讨战；我军众寡不敌，正宜深沟\n高垒，以逸待劳，奈大王听信降臣李左车之言，传旨明日发兵，只恐大王此去\n中了他人之计。"
+          "text": "臣启娘娘：今有刘邦、韩信等，统领大兵前来讨战；我军众寡不敌，正宜深沟"
+        },
+        {
+          "character": "虞子期",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "高垒，以逸待劳，奈大王听信降臣李左车之言，传旨明日发兵，只恐大王此去"
+        },
+        {
+          "character": "虞子期",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "中了他人之计。"
         },
         {
           "character": "虞姬",
@@ -1152,7 +1382,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "且住！适听子期之言，出兵甚是不利。怎奈大王性情刚猛，不纳忠言；恐日久\n必败于汉兵之手。思想起来，好不忧虑人也！"
+          "text": "且住！适听子期之言，出兵甚是不利。怎奈大王性情刚猛，不纳忠言；恐日久"
+        },
+        {
+          "character": "虞姬",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "必败于汉兵之手。思想起来，好不忧虑人也！"
         },
         {
           "character": null,
@@ -1166,7 +1403,21 @@
           "line_type": "西皮散板",
           "musical_style": "西皮散板",
           "style_family": "西皮",
-          "text": "大王爷他本是刚强成性，\n时常里忠言语就不肯纳听。\n辜负了十数载英勇威名。"
+          "text": "大王爷他本是刚强成性，"
+        },
+        {
+          "character": "虞姬",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "时常里忠言语就不肯纳听。"
+        },
+        {
+          "character": "虞姬",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "辜负了十数载英勇威名。"
         },
         {
           "character": null,
@@ -1180,7 +1431,14 @@
           "line_type": "西皮散板",
           "musical_style": "西皮散板",
           "style_family": "西皮",
-          "text": "今得了李左车楚国之幸，\n到后宫与妃子议论出兵。"
+          "text": "今得了李左车楚国之幸，"
+        },
+        {
+          "character": "项羽",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "到后宫与妃子议论出兵。"
         },
         {
           "character": "虞姬",
@@ -1250,7 +1508,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "妃子哪里知道，今有刘邦会合诸侯兴兵前来，与孤争战；又散出许多揭帖，毁\n谤孤王。你道恼是不恼！"
+          "text": "妃子哪里知道，今有刘邦会合诸侯兴兵前来，与孤争战；又散出许多揭帖，毁"
+        },
+        {
+          "character": "项羽",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "谤孤王。你道恼是不恼！"
         },
         {
           "character": "虞姬",
@@ -1264,14 +1529,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "想那刘邦反复无常，韩信奸诈。孤此番出兵，定要生擒韩信，灭却刘邦，方消\n孤家心头之恨哪！"
+          "text": "想那刘邦反复无常，韩信奸诈。孤此番出兵，定要生擒韩信，灭却刘邦，方消"
+        },
+        {
+          "character": "项羽",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "孤家心头之恨哪！"
         },
         {
           "character": "虞姬",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "用兵之道，贵在知已知彼；若以一时气愤，不能自制，恐汉兵势众，韩信多谋，\n终非大王之福。依臣妾之见，只宜坚守，不可轻动。大王三思！"
+          "text": "用兵之道，贵在知已知彼；若以一时气愤，不能自制，恐汉兵势众，韩信多谋，"
+        },
+        {
+          "character": "虞姬",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "终非大王之福。依臣妾之见，只宜坚守，不可轻动。大王三思！"
         },
         {
           "character": "项羽",
@@ -1327,7 +1606,14 @@
           "line_type": "西皮散板",
           "musical_style": "西皮散板",
           "style_family": "西皮",
-          "text": "但愿得此一去旗开得胜，\n灭刘邦擒韩信共享太平。"
+          "text": "但愿得此一去旗开得胜，"
+        },
+        {
+          "character": "项羽",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "灭刘邦擒韩信共享太平。"
         },
         {
           "character": null,
@@ -1393,7 +1679,17 @@
           "西皮",
           "西皮散板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.043,
+        0.125,
+        0.8438,
+        0.0312,
+        0.7143,
+        5,
+        0.1094,
+        0.0
+      ]
     },
     {
       "scene_index": 4,
@@ -1563,7 +1859,14 @@
           "line_type": "西皮散板",
           "musical_style": "西皮散板",
           "style_family": "西皮",
-          "text": "霎时一阵狂风扰，\n折断纛旗为哪条？"
+          "text": "霎时一阵狂风扰，"
+        },
+        {
+          "character": "项羽",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "折断纛旗为哪条？"
         },
         {
           "character": null,
@@ -1626,14 +1929,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "唉！纣以甲子而亡，武王以甲子而兴；何验于彼而不验于此！想这旗折马吼，\n与行军何干？"
+          "text": "唉！纣以甲子而亡，武王以甲子而兴；何验于彼而不验于此！想这旗折马吼，"
+        },
+        {
+          "character": "项羽",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "与行军何干？"
         },
         {
           "character": "虞姬",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "妾启大王：周卿乃是大王效忠之臣，所言不可不听。今日出兵，必须从谏纳忠，\n实为万幸。"
+          "text": "妾启大王：周卿乃是大王效忠之臣，所言不可不听。今日出兵，必须从谏纳忠，"
+        },
+        {
+          "character": "虞姬",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "实为万幸。"
         },
         {
           "character": "项羽",
@@ -1647,7 +1964,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "啊，大王，千万不可退兵。臣闻汉军缺粮，大王大兵一临，彼将不战自乱，大\n王不可失此机会。"
+          "text": "啊，大王，千万不可退兵。臣闻汉军缺粮，大王大兵一临，彼将不战自乱，大"
+        },
+        {
+          "character": "李左车",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "王不可失此机会。"
         },
         {
           "character": "项羽",
@@ -1776,7 +2100,17 @@
         "musical_styles": [
           "西皮散板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.034,
+        0.0857,
+        0.8857,
+        0.0286,
+        0.7647,
+        10,
+        0.0857,
+        0.0
+      ]
     },
     {
       "scene_index": 5,
@@ -1886,7 +2220,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "李左车，李左车！\n臣启大王：李左车不见了。"
+          "text": "李左车，李左车！"
+        },
+        {
+          "character": "项伯",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "臣启大王：李左车不见了。"
         },
         {
           "character": "项羽",
@@ -2019,14 +2360,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "刘邦！前者固陵之败，免汝一死；五年之间未尝与你亲自交锋，今日倒要见个\n高下。"
+          "text": "刘邦！前者固陵之败，免汝一死；五年之间未尝与你亲自交锋，今日倒要见个"
+        },
+        {
+          "character": "项羽",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "高下。"
         },
         {
           "character": "刘邦",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "项羽！孤与你斗智不斗勇，今日一战，管教你全军覆灭。\n项羽 （"
+          "text": "项羽！孤与你斗智不斗勇，今日一战，管教你全军覆灭。"
+        },
+        {
+          "character": "刘邦",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "项羽 （"
         }
       ],
       "interactions": [
@@ -2082,7 +2437,17 @@
         "musical_styles": [
           "西皮散板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0645,
+        0.9355,
+        0.0,
+        0.7667,
+        6,
+        0.0645,
+        0.0
+      ]
     },
     {
       "scene_index": 6,
@@ -2290,7 +2655,17 @@
         "musical_styles": [
           "西皮散板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.1176,
+        0.8824,
+        0.0,
+        0.6875,
+        4,
+        0.1176,
+        0.0
+      ]
     },
     {
       "scene_index": 7,
@@ -2433,7 +2808,17 @@
           "西皮散板",
           "西皮流水板"
         ]
-      }
+      },
+      "scene_feature": [
+        1.0,
+        1.0,
+        0.0,
+        0.0,
+        0.5,
+        3,
+        1.0,
+        0.0
+      ]
     },
     {
       "scene_index": 8,
@@ -3446,7 +3831,17 @@
           "西皮摇板",
           "西皮散板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.111,
+        0.17,
+        0.82,
+        0.01,
+        0.8283,
+        10,
+        0.13,
+        0.0
+      ]
     },
     {
       "scene_index": 9,
@@ -3669,7 +4064,17 @@
           "西皮摇板",
           "西皮散板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.182,
+        0.2941,
+        0.7059,
+        0.0,
+        0.5,
+        4,
+        0.2941,
+        0.0
+      ]
     }
   ]
 }

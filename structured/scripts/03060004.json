@@ -108,7 +108,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "本藩，柴荣。曾与赵匡胤、郑子明在棋盘坡尧王庙结拜，犹如同胞，同生共死。\n自董家桥打死五虎，各自分手。是我来到怀庆，多蒙舅王恩重，官封王位。\n也曾修书迎接二位兄弟满门，同享荣华，书去多日，还未到来。\n来，伺候了！"
+          "text": "本藩，柴荣。曾与赵匡胤、郑子明在棋盘坡尧王庙结拜，犹如同胞，同生共死。"
+        },
+        {
+          "character": "柴荣",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "自董家桥打死五虎，各自分手。是我来到怀庆，多蒙舅王恩重，官封王位。"
+        },
+        {
+          "character": "柴荣",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "也曾修书迎接二位兄弟满门，同享荣华，书去多日，还未到来。"
+        },
+        {
+          "character": "柴荣",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来，伺候了！"
         },
         {
           "character": "四文堂",
@@ -276,7 +297,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "且慢！小弟一路而来，闻听兄长修了一座白牡丹花园。何不将宴摆至花园，弟\n兄同饮。"
+          "text": "且慢！小弟一路而来，闻听兄长修了一座白牡丹花园。何不将宴摆至花园，弟"
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "兄同饮。"
         },
         {
           "character": "柴荣",
@@ -365,7 +393,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0323,
+        0.8387,
+        0.129,
+        0.7667,
+        5,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -388,7 +426,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -450,17 +498,66 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "花亭上摆酒宴珍馐美菜，\n兄一杯弟一盏畅叙开怀。\n我这里上怀庆官封王来。\n有愚兄当保你位列三台。"
+          "text": "花亭上摆酒宴珍馐美菜，"
         },
         {
-          "character": "董家桥打五虎各自分界、劝贤弟从今后情性要改、赵匡胤",
+          "character": "柴荣",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "弟兄们久分别今蒙盛待，\n好一似浮云散晴天现开。"
+          "text": "兄一杯弟一盏畅叙开怀。"
         },
         {
-          "character": "弟兄们今相会好有一比、柴荣",
+          "character": "柴荣",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我这里上怀庆官封王来。"
+        },
+        {
+          "character": "柴荣",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "有愚兄当保你位列三台。"
+        },
+        {
+          "character": "柴荣",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "董家桥打五虎各自分界"
+        },
+        {
+          "character": "柴荣",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "劝贤弟从今后情性要改"
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "弟兄们久分别今蒙盛待，"
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "好一似浮云散晴天现开。"
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "弟兄们今相会好有一比"
+        },
+        {
+          "character": "柴荣",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -474,7 +571,14 @@
           "text": "比前朝三大贤胜似同胎。"
         },
         {
-          "character": "柴大哥比刘备仁义四海、柴荣",
+          "character": "赵匡胤",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "柴大哥比刘备仁义四海"
+        },
+        {
+          "character": "柴荣",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
@@ -485,7 +589,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "眼前若有三弟在，\n亚赛那张翼德猛烈将才。"
+          "text": "眼前若有三弟在，"
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "亚赛那张翼德猛烈将才。"
         },
         {
           "character": null,
@@ -527,7 +638,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "大哥仁德世罕见，\n迎接三弟享福绵。"
+          "text": "大哥仁德世罕见，"
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "迎接三弟享福绵。"
         },
         {
           "character": null,
@@ -646,7 +764,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "来在鱼池用目看，\n只见水内浪滔天。"
+          "text": "来在鱼池用目看，"
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "只见水内浪滔天。"
         },
         {
           "character": "赵匡胤",
@@ -702,7 +827,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "玄郎未到尔先到，\n狭路相逢怎肯饶？"
+          "text": "玄郎未到尔先到，"
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "狭路相逢怎肯饶？"
         },
         {
           "character": null,
@@ -822,7 +954,17 @@
         "singing_ratio": 0.391,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.391,
+        0.5167,
+        0.45,
+        0.0333,
+        0.7458,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 4,
@@ -860,7 +1002,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "孤家，郭威。执掌后周天下。昨晚三更时分，偶得一兆，见一红脸大汉，将孤\n左眼伤了一箭，不知主何吉兆？这且不言。柴荣有两个结拜义弟，一个名叫赵\n匡胤，一个名叫郑子明。相约匡胤入朝扶保孤王，这般时候，未见到来。\n来，闪放银安！"
+          "text": "孤家，郭威。执掌后周天下。昨晚三更时分，偶得一兆，见一红脸大汉，将孤"
+        },
+        {
+          "character": "郭威",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "左眼伤了一箭，不知主何吉兆？这且不言。柴荣有两个结拜义弟，一个名叫赵"
+        },
+        {
+          "character": "郭威",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "匡胤，一个名叫郑子明。相约匡胤入朝扶保孤王，这般时候，未见到来。"
+        },
+        {
+          "character": "郭威",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来，闪放银安！"
         },
         {
           "character": "大太监",
@@ -1021,7 +1184,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "昨晚三更时分，偶得一兆，见一红脸大汉将孤左眼伤了一箭，故而欲报梦中之\n仇。"
+          "text": "昨晚三更时分，偶得一兆，见一红脸大汉将孤左眼伤了一箭，故而欲报梦中之"
+        },
+        {
+          "character": "郭威",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "仇。"
         },
         {
           "character": "柴荣",
@@ -1133,7 +1303,21 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "我先前定的是脱身计，\n被他解开肺腑情。\n八月十五把功成！"
+          "text": "我先前定的是脱身计，"
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "被他解开肺腑情。"
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "八月十五把功成！"
         },
         {
           "character": null,
@@ -1191,7 +1375,17 @@
         "singing_ratio": 0.061,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.061,
+        0.1136,
+        0.8182,
+        0.0682,
+        0.7442,
+        5,
+        0.0,
+        0.0
+      ]
     }
   ]
 }

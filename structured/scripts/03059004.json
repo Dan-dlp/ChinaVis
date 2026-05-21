@@ -831,7 +831,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.7143,
+        0.2857,
+        1.0,
+        8,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -981,7 +991,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.6923,
+        0.3077,
+        1.0,
+        6,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -1131,7 +1151,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.6923,
+        0.3077,
+        1.0,
+        6,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 4,
@@ -1281,7 +1311,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.6923,
+        0.3077,
+        1.0,
+        6,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 5,
@@ -1498,7 +1538,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        14,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 6,
@@ -1822,7 +1872,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "前者，夜打曾头市，活捉史文恭，得了千里驹。将史文恭剖腹剜心，享祭晁天\n王，大仇已报。目今山寨，缺少钱粮，曾命王定六往东平府去借，还未见回来。"
+          "text": "前者，夜打曾头市，活捉史文恭，得了千里驹。将史文恭剖腹剜心，享祭晁天"
+        },
+        {
+          "character": "宋江",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "王，大仇已报。目今山寨，缺少钱粮，曾命王定六往东平府去借，还未见回来。"
         },
         {
           "character": "卢俊义、吴用、公孙胜、朱武、关胜、林冲、徐宁、秦明、呼延灼、史进、石秀、花荣、柴进、鲁智深、武松、时迁、白胜、顾大嫂、玉花娘、扈三娘、孙二娘、李俊、张横、张顺、阮小二、阮小五、阮小七、童威、童猛",
@@ -1878,7 +1935,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "太守程万里慨然应允，惟兵马都监董平不肯借粮。反将小弟打了二十讯棍，赶\n出城来。"
+          "text": "太守程万里慨然应允，惟兵马都监董平不肯借粮。反将小弟打了二十讯棍，赶"
+        },
+        {
+          "character": "王定六",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "出城来。"
         },
         {
           "character": "宋江",
@@ -1906,7 +1970,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "董平那厮好生无礼，渺视大寨，叫人怒气填胸。\n众家头领！"
+          "text": "董平那厮好生无礼，渺视大寨，叫人怒气填胸。"
+        },
+        {
+          "character": "宋江",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "众家头领！"
         },
         {
           "character": "卢俊义、吴用、公孙胜、朱武、关胜、林冲、徐宁、秦明、呼延灼、史进、石秀、花荣、柴进、鲁智深、武松、时迁、白胜、顾大嫂、玉花娘、扈三娘、孙二娘、李俊、张横、张顺、阮小二、阮小五、阮小七、童威、童猛",
@@ -1927,7 +1998,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "且慢！东平府太守程万里原不足道；兵马都监董平乃是河东上党郡人氏，此人\n人品风流，心灵机巧，三教九流，无所不通，善使双枪，人称“风流双枪将”，\n有万夫不挡之勇。此番去打城池，非有里应外合之人，不能成功。"
+          "text": "且慢！东平府太守程万里原不足道；兵马都监董平乃是河东上党郡人氏，此人"
+        },
+        {
+          "character": "吴用",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "人品风流，心灵机巧，三教九流，无所不通，善使双枪，人称“风流双枪将”，"
+        },
+        {
+          "character": "吴用",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "有万夫不挡之勇。此番去打城池，非有里应外合之人，不能成功。"
         },
         {
           "character": "宋江",
@@ -1941,14 +2026,35 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "大哥，小弟前在东平府时，与一娼妓有旧，此女名唤李睡兰，待小弟备些金银\n潜入城内，借她家里安歇，约定日期，大哥攻打城池。只待董平出来交战，我\n便去到更鼓楼放起号火，里应外合，大事可成。"
+          "text": "大哥，小弟前在东平府时，与一娼妓有旧，此女名唤李睡兰，待小弟备些金银"
+        },
+        {
+          "character": "史进",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "潜入城内，借她家里安歇，约定日期，大哥攻打城池。只待董平出来交战，我"
+        },
+        {
+          "character": "史进",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "便去到更鼓楼放起号火，里应外合，大事可成。"
         },
         {
           "character": "宋江",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "好，吩咐蒋敬，备下金银，贤弟带在身上，潜入城内，善觑方便，约定举兵日\n期，以为内应。"
+          "text": "好，吩咐蒋敬，备下金银，贤弟带在身上，潜入城内，善觑方便，约定举兵日"
+        },
+        {
+          "character": "宋江",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "期，以为内应。"
         },
         {
           "character": "史进",
@@ -2018,7 +2124,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "不用赶他，我自有道理。\n时迁、白胜！"
+          "text": "不用赶他，我自有道理。"
+        },
+        {
+          "character": "吴用",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "时迁、白胜！"
         },
         {
           "character": "时迁、白胜",
@@ -2095,7 +2208,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "正合我意。\n众家头领！"
+          "text": "正合我意。"
+        },
+        {
+          "character": "宋江",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "众家头领！"
         },
         {
           "character": "吴用、公孙胜、朱武、关胜、林冲、徐宁、秦明、呼延灼、石秀、花荣、柴进、鲁智深、武松、玉花娘、扈三娘、孙二娘、李俊、张横、张顺、阮小二、阮小五、阮小七、童威、童猛",
@@ -2329,7 +2449,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.9643,
+        0.0357,
+        0.8675,
+        35,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 7,
@@ -2379,7 +2509,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "前者，梁山泊差人上咱们东平府这儿来要粮来啦，太守没借给他，董都监打了\n这个借粮的二十讯棍，发回原寨。太守恐怕有细作前来，为此，叫咱们把守城\n门，没有腰牌不许出入。天也不早啦，咱们该上关啦！"
+          "text": "前者，梁山泊差人上咱们东平府这儿来要粮来啦，太守没借给他，董都监打了"
+        },
+        {
+          "character": "军士甲",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "这个借粮的二十讯棍，发回原寨。太守恐怕有细作前来，为此，叫咱们把守城"
+        },
+        {
+          "character": "军士甲",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "门，没有腰牌不许出入。天也不早啦，咱们该上关啦！"
         },
         {
           "character": "军士乙",
@@ -2429,7 +2573,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.6,
+        0.4,
+        0.7778,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 8,
@@ -2462,7 +2616,42 @@
           "line_type": "西皮原板",
           "musical_style": "西皮原板",
           "style_family": "西皮",
-          "text": "小豪杰潜地里见机而行。\n怒恼了宋大哥要把军兴。\n好一个智多星施展才能。\n却防那兵马都监小董平。\n好做那里应外合把功成。\n紧加鞭催坐骑——"
+          "text": "小豪杰潜地里见机而行。"
+        },
+        {
+          "character": "史进",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "怒恼了宋大哥要把军兴。"
+        },
+        {
+          "character": "史进",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "好一个智多星施展才能。"
+        },
+        {
+          "character": "史进",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "却防那兵马都监小董平。"
+        },
+        {
+          "character": "史进",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "好做那里应外合把功成。"
+        },
+        {
+          "character": "史进",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "紧加鞭催坐骑——"
         },
         {
           "character": "史进",
@@ -2553,7 +2742,14 @@
           "line_type": "西皮散板",
           "musical_style": "西皮散板",
           "style_family": "西皮",
-          "text": "现有那上司的一角公文，\n在省城奉堂谕来到东平。"
+          "text": "现有那上司的一角公文，"
+        },
+        {
+          "character": "史进",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "在省城奉堂谕来到东平。"
         },
         {
           "character": null,
@@ -2812,7 +3008,17 @@
           "西皮原板",
           "西皮散板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.136,
+        0.3171,
+        0.6829,
+        0.0,
+        0.775,
+        6,
+        0.3171,
+        0.0
+      ]
     },
     {
       "scene_index": 9,
@@ -3989,7 +4195,17 @@
         "singing_ratio": 0.009,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.009,
+        0.0085,
+        0.9402,
+        0.0513,
+        0.819,
+        9,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 10,
@@ -4012,7 +4228,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 11,
@@ -4119,7 +4345,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 12,
@@ -4140,14 +4376,14 @@
           "text": "（董平上，起霸。）"
         },
         {
-          "character": null,
+          "character": "董平",
           "line_type": "念",
           "musical_style": null,
           "style_family": null,
           "text": "锦蹬玲珑胄，骏马世无俦。风流双枪将，英雄万户侯。"
         },
         {
-          "character": null,
+          "character": "董平",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -4392,7 +4628,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.9444,
+        0.0556,
+        0.8824,
+        5,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 13,
@@ -4549,7 +4795,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.9091,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 14,
@@ -5515,7 +5771,17 @@
         "singing_ratio": 0.1,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.1,
+        0.1053,
+        0.8842,
+        0.0105,
+        0.8404,
+        6,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 15,
@@ -5538,7 +5804,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 16,
@@ -5825,7 +6101,17 @@
         "singing_ratio": 0.211,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.211,
+        0.2381,
+        0.7143,
+        0.0476,
+        0.75,
+        5,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 17,
@@ -6079,7 +6365,17 @@
         "musical_styles": [
           "西皮快板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.357,
+        0.3333,
+        0.6,
+        0.0667,
+        0.7857,
+        5,
+        0.0667,
+        0.0
+      ]
     }
   ]
 }

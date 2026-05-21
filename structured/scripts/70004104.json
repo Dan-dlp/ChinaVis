@@ -184,7 +184,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "老夫，太宰闻仲。只因东、南伯侯俱被杀退，唯有西伯侯姬昌叛反朝廷甚是猖\n狂，老夫奉天子命诏，带领人马征战西岐。今日万岁亲到校场饯行。\n各位将军。"
+          "text": "老夫，太宰闻仲。只因东、南伯侯俱被杀退，唯有西伯侯姬昌叛反朝廷甚是猖"
+        },
+        {
+          "character": "闻仲",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "狂，老夫奉天子命诏，带领人马征战西岐。今日万岁亲到校场饯行。"
+        },
+        {
+          "character": "闻仲",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "各位将军。"
         },
         {
           "character": "邓忠、陶容、张节、辛环",
@@ -233,14 +247,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "你乃三朝元老，征战西岐，孤王理当饯行。\n内侍，看酒伺候！"
+          "text": "你乃三朝元老，征战西岐，孤王理当饯行。"
+        },
+        {
+          "character": "纣王",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "内侍，看酒伺候！"
         },
         {
           "character": "纣王",
           "line_type": "西皮散板",
           "musical_style": "西皮散板",
           "style_family": "西皮",
-          "text": "内侍看过酒一樽，\n我与太宰来饯行。"
+          "text": "内侍看过酒一樽，"
+        },
+        {
+          "character": "纣王",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "我与太宰来饯行。"
         },
         {
           "character": "闻仲",
@@ -254,7 +282,14 @@
           "line_type": "西皮散板",
           "musical_style": "西皮散板",
           "style_family": "西皮",
-          "text": "万岁校场来饯行，\n老臣西征立功勋。"
+          "text": "万岁校场来饯行，"
+        },
+        {
+          "character": "闻仲",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "老臣西征立功勋。"
         },
         {
           "character": null,
@@ -282,28 +317,63 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "哎呀，将军说哪里话来，为臣者以身许国而记其家，上马论兵而记其命，哪有\n大将上阵不死带伤之理，此乃常事，何足异也？近日麒麟不曾出战，也未曾演\n试，筋骨不能舒伸，故有此咆哮。将军何言出军不利？"
-        },
-        {
-          "character": "纣王",
-          "line_type": "白",
-          "musical_style": null,
-          "style_family": null,
-          "text": "啊太宰，千万不要将人马撤回，若是将人马撤回，各路诸侯知晓，岂不耻笑太\n宰惧敌耳？"
+          "text": "哎呀，将军说哪里话来，为臣者以身许国而记其家，上马论兵而记其命，哪有"
         },
         {
           "character": "闻仲",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "老臣焉能将人马撤回，只要万岁改过自新，整理朝政，老臣纵然战死疆场，死\n而无怨也！"
+          "text": "大将上阵不死带伤之理，此乃常事，何足异也？近日麒麟不曾出战，也未曾演"
+        },
+        {
+          "character": "闻仲",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "试，筋骨不能舒伸，故有此咆哮。将军何言出军不利？"
         },
         {
           "character": "纣王",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "老太宰不要口出不利之言，此番征战西岐，必然得胜归来，孤王改过自新整理\n朝政也就是了。"
+          "text": "啊太宰，千万不要将人马撤回，若是将人马撤回，各路诸侯知晓，岂不耻笑太"
+        },
+        {
+          "character": "纣王",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "宰惧敌耳？"
+        },
+        {
+          "character": "闻仲",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "老臣焉能将人马撤回，只要万岁改过自新，整理朝政，老臣纵然战死疆场，死"
+        },
+        {
+          "character": "闻仲",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "而无怨也！"
+        },
+        {
+          "character": "纣王",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "老太宰不要口出不利之言，此番征战西岐，必然得胜归来，孤王改过自新整理"
+        },
+        {
+          "character": "纣王",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "朝政也就是了。"
         },
         {
           "character": "闻仲",
@@ -317,7 +387,14 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "辞别万岁跨麒麟，\n征战西岐走一程！"
+          "text": "辞别万岁跨麒麟，"
+        },
+        {
+          "character": "闻仲",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "征战西岐走一程！"
         },
         {
           "character": null,
@@ -331,7 +408,14 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "一见太宰登路程，\n回宫去见妲己畅饮杯巡。"
+          "text": "一见太宰登路程，"
+        },
+        {
+          "character": "纣王",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "回宫去见妲己畅饮杯巡。"
         },
         {
           "character": null,
@@ -381,7 +465,17 @@
           "西皮摇板",
           "西皮散板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.105,
+        0.2973,
+        0.6757,
+        0.027,
+        0.4722,
+        4,
+        0.2432,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -490,7 +584,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        5,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -559,7 +663,21 @@
           "line_type": "西皮散板",
           "musical_style": "西皮散板",
           "style_family": "西皮",
-          "text": "听罢言来心暗转，\n举目抬头四下观。\n不由闻仲心胆寒。"
+          "text": "听罢言来心暗转，"
+        },
+        {
+          "character": "闻仲",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "举目抬头四下观。"
+        },
+        {
+          "character": "闻仲",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "不由闻仲心胆寒。"
         },
         {
           "character": "闻仲",
@@ -629,7 +747,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "尔来看！这“绝龙岭”山路崎岖，丛林密布，乃是一条死路，与我军不利，老\n夫击碎岩石以作标记，尔等若行兵至此，必须绕道而行，不可进山安营，若遇\n敌军，四面受敌，就有全军覆没之险！"
+          "text": "尔来看！这“绝龙岭”山路崎岖，丛林密布，乃是一条死路，与我军不利，老"
+        },
+        {
+          "character": "闻仲",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "夫击碎岩石以作标记，尔等若行兵至此，必须绕道而行，不可进山安营，若遇"
+        },
+        {
+          "character": "闻仲",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "敌军，四面受敌，就有全军覆没之险！"
         },
         {
           "character": "邓忠、陶容、张节、辛环",
@@ -685,7 +817,14 @@
           "line_type": "西皮散板",
           "musical_style": "西皮散板",
           "style_family": "西皮",
-          "text": "麒麟军摧战马莫要迟缓，\n但愿得此一去奏凯回还。"
+          "text": "麒麟军摧战马莫要迟缓，"
+        },
+        {
+          "character": "闻仲",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "但愿得此一去奏凯回还。"
         },
         {
           "character": null,
@@ -742,7 +881,17 @@
           "西皮散板",
           "西皮流水板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.286,
+        0.4231,
+        0.5769,
+        0.0,
+        0.4,
+        5,
+        0.4231,
+        0.0
+      ]
     },
     {
       "scene_index": 4,
@@ -807,7 +956,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "贫道，姓姜名尚字子牙，道号飞熊，只因三教共议封神榜，师父命我背榜下山，\n扶保武王。昨日探马报道，闻仲带领人马打西岐，岂可容他猖狂？\n众将官，出城迎敌者！"
+          "text": "贫道，姓姜名尚字子牙，道号飞熊，只因三教共议封神榜，师父命我背榜下山，"
+        },
+        {
+          "character": "姜子牙",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "扶保武王。昨日探马报道，闻仲带领人马打西岐，岂可容他猖狂？"
+        },
+        {
+          "character": "姜子牙",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "众将官，出城迎敌者！"
         },
         {
           "character": null,
@@ -821,7 +984,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "邓忠、陶容无本领，\n敢在疆场显其能。"
+          "text": "邓忠、陶容无本领，"
+        },
+        {
+          "character": "姜子牙",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "敢在疆场显其能。"
         },
         {
           "character": null,
@@ -863,14 +1033,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "你且听了，私立武王为君，其罪一也；收纳叛臣黄飞虎，其罪二也；老夫大兵\n到此，尔敢兴兵抗拒，其罪三也；有此三行大罪，还不下骑投降，等到何时？"
+          "text": "你且听了，私立武王为君，其罪一也；收纳叛臣黄飞虎，其罪二也；老夫大兵"
+        },
+        {
+          "character": "闻仲",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "到此，尔敢兴兵抗拒，其罪三也；有此三行大罪，还不下骑投降，等到何时？"
         },
         {
           "character": "姜子牙",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "闻太师，只因纣王无道宠信妲己残害忠良，各路诸侯心中不忿，要夺取纣王的\n天下，如今周室当兴，纣氏当灭，劝你下骑投降，免得封神榜上留名。"
+          "text": "闻太师，只因纣王无道宠信妲己残害忠良，各路诸侯心中不忿，要夺取纣王的"
+        },
+        {
+          "character": "姜子牙",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "天下，如今周室当兴，纣氏当灭，劝你下骑投降，免得封神榜上留名。"
         },
         {
           "character": "闻仲",
@@ -898,7 +1082,21 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "人道姜尚有本领，\n雌雄鞭下难逃生。\n明日踏平西岐城。"
+          "text": "人道姜尚有本领，"
+        },
+        {
+          "character": "闻仲",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "雌雄鞭下难逃生。"
+        },
+        {
+          "character": "闻仲",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "明日踏平西岐城。"
         },
         {
           "character": null,
@@ -933,7 +1131,17 @@
         "singing_ratio": 0.167,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.167,
+        0.3182,
+        0.6364,
+        0.0455,
+        0.4286,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 5,
@@ -1140,7 +1348,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        6,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 6,
@@ -1170,7 +1388,7 @@
           "text": "闻仲 （回龙） 夜巡营观牛斗，绘展宏图照九洲，奉王命南征北战白了头，要扫灭叛臣西伯侯。"
         },
         {
-          "character": null,
+          "character": "闻仲",
           "line_type": "二黄原板",
           "musical_style": "二黄原板",
           "style_family": "二黄",
@@ -1460,7 +1678,17 @@
           "二黄原板",
           "二黄散板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.095,
+        0.0909,
+        0.9091,
+        0.0,
+        0.7619,
+        7,
+        0.0,
+        0.0909
+      ]
     },
     {
       "scene_index": 7,
@@ -1482,7 +1710,14 @@
           "line_type": "二黄散板",
           "musical_style": "二黄散板",
           "style_family": "二黄",
-          "text": "适才周兵夜偷营，\n不知来了多少兵。"
+          "text": "适才周兵夜偷营，"
+        },
+        {
+          "character": "闻仲",
+          "line_type": "二黄散板",
+          "musical_style": "二黄散板",
+          "style_family": "二黄",
+          "text": "不知来了多少兵。"
         },
         {
           "character": null,
@@ -1548,7 +1783,17 @@
         "musical_styles": [
           "二黄散板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.667,
+        0.6667,
+        0.3333,
+        0.0,
+        0.4,
+        2,
+        0.0,
+        0.6667
+      ]
     },
     {
       "scene_index": 8,
@@ -1639,7 +1884,14 @@
           "line_type": "二黄散板",
           "musical_style": "二黄散板",
           "style_family": "二黄",
-          "text": "扫平叛逆方消恨！\n（开打。崇黑虎逼闻仲上绝龙岭，闻仲往外冲，车轮大战将闻仲逼下，张节、辛环战死，邓忠上，接打，邓"
+          "text": "扫平叛逆方消恨！"
+        },
+        {
+          "character": "闻仲",
+          "line_type": "二黄散板",
+          "musical_style": "二黄散板",
+          "style_family": "二黄",
+          "text": "（开打。崇黑虎逼闻仲上绝龙岭，闻仲往外冲，车轮大战将闻仲逼下，张节、辛环战死，邓忠上，接打，邓"
         }
       ],
       "interactions": [],
@@ -1654,7 +1906,17 @@
         "musical_styles": [
           "二黄散板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.5,
+        0.625,
+        0.375,
+        0.0,
+        0.0,
+        1,
+        0.0,
+        0.625
+      ]
     },
     {
       "scene_index": 9,
@@ -1715,7 +1977,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "妻子牙汇集诸侯前来偷营。\n血流成河好不伤情！"
+          "text": "妻子牙汇集诸侯前来偷营。"
+        },
+        {
+          "character": "闻仲",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "血流成河好不伤情！"
         },
         {
           "character": null,
@@ -1778,10 +2047,31 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "孤军难挡百万兵。\n泗水关前搬救兵。"
+          "text": "孤军难挡百万兵。"
         },
         {
-          "character": "叫声吉利和余庆、吉利、余庆",
+          "character": "闻仲",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "泗水关前搬救兵。"
+        },
+        {
+          "character": "闻仲",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "叫声吉利和余庆"
+        },
+        {
+          "character": "闻仲",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "吉利"
+        },
+        {
+          "character": "余庆",
           "line_type": "同白",
           "musical_style": null,
           "style_family": null,
@@ -1883,7 +2173,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "我与你抖擞威风，杀出重围，回转朝歌，搬来人马，定要将西岐踏为齑粉，将\n叛臣斩尽杀绝，方消我心头之恨！"
+          "text": "我与你抖擞威风，杀出重围，回转朝歌，搬来人马，定要将西岐踏为齑粉，将"
+        },
+        {
+          "character": "闻仲",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "叛臣斩尽杀绝，方消我心头之恨！"
         },
         {
           "character": "邓忠",
@@ -1911,7 +2208,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "全军覆没好凄伶。\n凌烟阁上标美名。"
+          "text": "全军覆没好凄伶。"
+        },
+        {
+          "character": "闻仲",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "凌烟阁上标美名。"
         },
         {
           "character": null,
@@ -1981,7 +2285,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "还是这样倔强。\n众将官，放火烧！"
+          "text": "还是这样倔强。"
+        },
+        {
+          "character": "姜子牙",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "众将官，放火烧！"
         },
         {
           "character": null,
@@ -2054,7 +2365,17 @@
         "singing_ratio": 0.08,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.08,
+        0.3158,
+        0.6842,
+        0.0,
+        0.5405,
+        5,
+        0.0,
+        0.0
+      ]
     }
   ]
 }

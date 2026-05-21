@@ -114,7 +114,28 @@
           "line_type": "数板",
           "musical_style": null,
           "style_family": null,
-          "text": "一生学习铁工匠，全仗五金度时光。昼夜里叮当响，烈火里乌烟扬；造枪刀，\n铁棍棒，单双剑，丈八枪，铛槊双锤鞭锏铁练流星钩镰枪，九耳连环刀钢叉斧\n钺两头忙。保管上阵去打仗，建立功勋得胜还乡，功劳簿上把名扬，提写几行，\n提写几行。"
+          "text": "一生学习铁工匠，全仗五金度时光。昼夜里叮当响，烈火里乌烟扬；造枪刀，"
+        },
+        {
+          "character": "四工匠同",
+          "line_type": "数板",
+          "musical_style": null,
+          "style_family": null,
+          "text": "铁棍棒，单双剑，丈八枪，铛槊双锤鞭锏铁练流星钩镰枪，九耳连环刀钢叉斧"
+        },
+        {
+          "character": "四工匠同",
+          "line_type": "数板",
+          "musical_style": null,
+          "style_family": null,
+          "text": "钺两头忙。保管上阵去打仗，建立功勋得胜还乡，功劳簿上把名扬，提写几行，"
+        },
+        {
+          "character": "四工匠同",
+          "line_type": "数板",
+          "musical_style": null,
+          "style_family": null,
+          "text": "提写几行。"
         },
         {
           "character": null,
@@ -128,14 +149,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "哎呀呀，诸位长者！我们说的话，自思可笑。用我们打造的兵器，能够疆场厮\n杀，临阵交锋，还保得胜，这话岂不可笑啊？哈哈哈哈！"
+          "text": "哎呀呀，诸位长者！我们说的话，自思可笑。用我们打造的兵器，能够疆场厮"
+        },
+        {
+          "character": "工匠丁",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "杀，临阵交锋，还保得胜，这话岂不可笑啊？哈哈哈哈！"
         },
         {
           "character": "工匠甲",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "我们作工的，生活劳累，打造兵器时，说些个吉言吉语，使人家听着，心里高\n兴，多多赏我们一些酒钱罢啦。"
+          "text": "我们作工的，生活劳累，打造兵器时，说些个吉言吉语，使人家听着，心里高"
+        },
+        {
+          "character": "工匠甲",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "兴，多多赏我们一些酒钱罢啦。"
         },
         {
           "character": null,
@@ -170,7 +205,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "闲言少讲。刘、关、张三位找我们打造兵器。闻听这三位义士，要与国家出力\n报效，大家要尽心尽意地制造。"
+          "text": "闲言少讲。刘、关、张三位找我们打造兵器。闻听这三位义士，要与国家出力"
+        },
+        {
+          "character": "工匠甲",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "报效，大家要尽心尽意地制造。"
         },
         {
           "character": "工匠乙、工匠丙、工匠丁",
@@ -246,7 +288,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.25,
+        0.75,
+        0.0,
+        0.6,
+        6,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -388,14 +440,98 @@
           "line_type": "念",
           "musical_style": null,
           "style_family": null,
-          "text": "平生志气刚，文武记胸膛。恨无出头日，明珠土内藏。\n宦臣掌朝政，汉室乱纲常，官吏天良丧，黎民遭祸殃。"
+          "text": "平生志气刚，文武记胸膛。恨无出头日，明珠土内藏。"
+        },
+        {
+          "character": "关羽",
+          "line_type": "念",
+          "musical_style": null,
+          "style_family": null,
+          "text": "宦臣掌朝政，汉室乱纲常，官吏天良丧，黎民遭祸殃。"
         },
         {
           "character": "关羽",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "关羽自幼磨穿铁砚，深通诗书。平生好打不平，那日正在酒肆之中沽饮，忽然\n闯进一白发老者，遍体汗淋，痛哭流涕，惨不忍观。问其情由，老者言道：他\n名张继昌，乃蒲州解良人氏，老妻去世，只有一女，名叫鸾姣。一日，熊府家\n人，前来提亲，张家不允。熊祥诈写假借约一张，告到解良苗信台前。想那苗\n信，乃是熊太守门生，自然是官官相护，将张继昌父女抓到衙中，张鸾姣扣押\n监中，张继昌用乱棍打下堂来。可怜张继昌年过花甲，上下衙门，叩告喊冤，\n均不准状。在酒肆之中，遇着关某，领他击鼓鸣冤。狗官又将张继昌暴打，那\n时某上得堂去，与赃官辩理，问得狗官，哑口无言。狗子熊祥，向某威唬，某\n家一怒，当堂将熊祥打死。刀劈监牢，放出一伙被难囚犯，救了张氏父女，火\n焚解良县衙。逃出城来，只听得后面，人声呐喊，官兵追赶而来。那时某身无\n寸铁，如何抵挡。幸喜路旁，有一圣母娘娘古庙。是某进庙躲藏，不多时间，\n又听得这哗啦啦一声响亮，火光冲天，乌烟四起！"
+          "text": "关羽自幼磨穿铁砚，深通诗书。平生好打不平，那日正在酒肆之中沽饮，忽然"
+        },
+        {
+          "character": "关羽",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "闯进一白发老者，遍体汗淋，痛哭流涕，惨不忍观。问其情由，老者言道：他"
+        },
+        {
+          "character": "关羽",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "名张继昌，乃蒲州解良人氏，老妻去世，只有一女，名叫鸾姣。一日，熊府家"
+        },
+        {
+          "character": "关羽",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "人，前来提亲，张家不允。熊祥诈写假借约一张，告到解良苗信台前。想那苗"
+        },
+        {
+          "character": "关羽",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "信，乃是熊太守门生，自然是官官相护，将张继昌父女抓到衙中，张鸾姣扣押"
+        },
+        {
+          "character": "关羽",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "监中，张继昌用乱棍打下堂来。可怜张继昌年过花甲，上下衙门，叩告喊冤，"
+        },
+        {
+          "character": "关羽",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "均不准状。在酒肆之中，遇着关某，领他击鼓鸣冤。狗官又将张继昌暴打，那"
+        },
+        {
+          "character": "关羽",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "时某上得堂去，与赃官辩理，问得狗官，哑口无言。狗子熊祥，向某威唬，某"
+        },
+        {
+          "character": "关羽",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "家一怒，当堂将熊祥打死。刀劈监牢，放出一伙被难囚犯，救了张氏父女，火"
+        },
+        {
+          "character": "关羽",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "焚解良县衙。逃出城来，只听得后面，人声呐喊，官兵追赶而来。那时某身无"
+        },
+        {
+          "character": "关羽",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "寸铁，如何抵挡。幸喜路旁，有一圣母娘娘古庙。是某进庙躲藏，不多时间，"
+        },
+        {
+          "character": "关羽",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "又听得这哗啦啦一声响亮，火光冲天，乌烟四起！"
         },
         {
           "character": null,
@@ -416,7 +552,35 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "那时某从烈火之中，闯出庙门，正遇熊虎，我二人话不投机，被某夺那厮宝剑，\n斩了熊虎，杀死一伙恶奴。我闯了此祸，山西地面不能存身，因此奔走范阳，\n巧遇刘、张二位义士。我三人言谈议论，志趣相同，结为金兰之好，又遇众\n位义士相助，真乃万千之幸！这是关某从解良来到范阳一事。众位义士贻笑了，\n哈哈哈哈！"
+          "text": "那时某从烈火之中，闯出庙门，正遇熊虎，我二人话不投机，被某夺那厮宝剑，"
+        },
+        {
+          "character": "关羽",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "斩了熊虎，杀死一伙恶奴。我闯了此祸，山西地面不能存身，因此奔走范阳，"
+        },
+        {
+          "character": "关羽",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "巧遇刘、张二位义士。我三人言谈议论，志趣相同，结为金兰之好，又遇众"
+        },
+        {
+          "character": "关羽",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "位义士相助，真乃万千之幸！这是关某从解良来到范阳一事。众位义士贻笑了，"
+        },
+        {
+          "character": "关羽",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "哈哈哈哈！"
         },
         {
           "character": "苏双、张世平、吕常、方雄",
@@ -444,7 +608,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "备就是这县郡大树楼桑人氏，姓刘名备，字玄德。我乃中山靖王之后，孝景皇\n帝陛下之玄孙，祖父刘雄，父印刘宠，曾为涿郡太守，去世之后家业贫穷，只\n落得织席贩履为生。幼读经纶，深通兵法，素怀大志，久欲上报国家，下安黎\n庶，扫平外患，定国安邦。怎奈我时运不至，唉，真是苍天困煞英雄也！"
+          "text": "备就是这县郡大树楼桑人氏，姓刘名备，字玄德。我乃中山靖王之后，孝景皇"
+        },
+        {
+          "character": "刘备",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "帝陛下之玄孙，祖父刘雄，父印刘宠，曾为涿郡太守，去世之后家业贫穷，只"
+        },
+        {
+          "character": "刘备",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "落得织席贩履为生。幼读经纶，深通兵法，素怀大志，久欲上报国家，下安黎"
+        },
+        {
+          "character": "刘备",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "庶，扫平外患，定国安邦。怎奈我时运不至，唉，真是苍天困煞英雄也！"
         },
         {
           "character": null,
@@ -486,7 +671,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "列位乡邻！咱张飞家世列位尽知。咱老张的志愿，与关、刘二兄，可算志同道\n合，相同无二。"
+          "text": "列位乡邻！咱张飞家世列位尽知。咱老张的志愿，与关、刘二兄，可算志同道"
+        },
+        {
+          "character": "张飞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "合，相同无二。"
         },
         {
           "character": "苏双、张世平、吕常、方雄",
@@ -500,7 +692,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "列位义士问完关兄、刘兄，少不得就要问咱老张。咱张飞自己讲了出来，就免\n得诸位兄台多费唇舌了。"
+          "text": "列位义士问完关兄、刘兄，少不得就要问咱老张。咱张飞自己讲了出来，就免"
+        },
+        {
+          "character": "张飞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "得诸位兄台多费唇舌了。"
         },
         {
           "character": "苏双、张世平、吕常、方雄",
@@ -640,7 +839,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "是。\n诸位随我来。"
+          "text": "是。"
+        },
+        {
+          "character": "小院子",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "诸位随我来。"
         },
         {
           "character": null,
@@ -675,7 +881,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "庄外来了许多壮年汉子，带了许多兵器，良马数十骑，前来拜见刘、关、张与\n众位义士来了。"
+          "text": "庄外来了许多壮年汉子，带了许多兵器，良马数十骑，前来拜见刘、关、张与"
+        },
+        {
+          "character": "小院子",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "众位义士来了。"
         },
         {
           "character": "刘备",
@@ -784,7 +997,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.95,
+        0.05,
+        0.5424,
+        9,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -809,14 +1032,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "哎呀！稀奇，稀奇！一阵大风，从草内钻出一条小青蛇，可怜它死在这冷艳锯\n刀头之上。口内吐出鲜血，真如画在刀头之上，诸位义士请看。"
+          "text": "哎呀！稀奇，稀奇！一阵大风，从草内钻出一条小青蛇，可怜它死在这冷艳锯"
+        },
+        {
+          "character": "工匠丁",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "刀头之上。口内吐出鲜血，真如画在刀头之上，诸位义士请看。"
         },
         {
           "character": "苏双、张世平、吕常、方雄",
           "line_type": "同白",
           "musical_style": null,
           "style_family": null,
-          "text": "恭喜关兄，贺喜关兄！青龙钻踪冷艳锯刀头之上，口现红光，冷艳锯堪称青龙\n偃月刀。此乃大吉之兆也！"
+          "text": "恭喜关兄，贺喜关兄！青龙钻踪冷艳锯刀头之上，口现红光，冷艳锯堪称青龙"
+        },
+        {
+          "character": "苏双、张世平、吕常、方雄",
+          "line_type": "同白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "偃月刀。此乃大吉之兆也！"
         },
         {
           "character": null,
@@ -830,7 +1067,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "多谢列位义士相赠青龙偃月刀名。关某得志，建功立业，展土辟疆，仰仗诸位\n金言也！大家收拾马匹，明日一同投军，与国除患，安邦去者！"
+          "text": "多谢列位义士相赠青龙偃月刀名。关某得志，建功立业，展土辟疆，仰仗诸位"
+        },
+        {
+          "character": "苏双、张世平、吕常、方雄",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "金言也！大家收拾马匹，明日一同投军，与国除患，安邦去者！"
         },
         {
           "character": null,
@@ -876,7 +1120,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.2,
+        2,
+        0.0,
+        0.0
+      ]
     }
   ]
 }

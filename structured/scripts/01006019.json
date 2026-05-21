@@ -143,7 +143,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "本镇唐寅，三六九日操演弓马已毕。\n中军！"
+          "text": "本镇唐寅，三六九日操演弓马已毕。"
+        },
+        {
+          "character": "唐寅",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "中军！"
         },
         {
           "character": null,
@@ -307,7 +314,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0556,
+        0.8889,
+        0.0556,
+        0.6471,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -331,10 +348,31 @@
           "line_type": "梆子原板",
           "musical_style": "梆子原板",
           "style_family": "南梆子",
-          "text": "母亲面前讨红绫，\n我与先生把汗蒙。\n请问先生可安宁？"
+          "text": "母亲面前讨红绫，"
         },
         {
-          "character": "迈步我把书房进、王标",
+          "character": "唐子其",
+          "line_type": "梆子原板",
+          "musical_style": "梆子原板",
+          "style_family": "南梆子",
+          "text": "我与先生把汗蒙。"
+        },
+        {
+          "character": "唐子其",
+          "line_type": "梆子原板",
+          "musical_style": "梆子原板",
+          "style_family": "南梆子",
+          "text": "请问先生可安宁？"
+        },
+        {
+          "character": "唐子其",
+          "line_type": "梆子原板",
+          "musical_style": "梆子原板",
+          "style_family": "南梆子",
+          "text": "迈步我把书房进"
+        },
+        {
+          "character": "王标",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -366,7 +404,14 @@
           "line_type": "梆子原板",
           "musical_style": "梆子原板",
           "style_family": "南梆子",
-          "text": "施一礼来出书馆，\n一到上房读书篇。"
+          "text": "施一礼来出书馆，"
+        },
+        {
+          "character": "唐子其",
+          "line_type": "梆子原板",
+          "musical_style": "梆子原板",
+          "style_family": "南梆子",
+          "text": "一到上房读书篇。"
         },
         {
           "character": null,
@@ -380,14 +425,77 @@
           "line_type": "梆子原板",
           "musical_style": "梆子原板",
           "style_family": "南梆子",
-          "text": "王先生在大街曾把文卖，\n我看他文才好带进府来。\n为的是唐子其功名文才。\n叫家院掌灯笼前面走来。\n尊先生你苏醒本镇到来。"
+          "text": "王先生在大街曾把文卖，"
+        },
+        {
+          "character": "唐寅",
+          "line_type": "梆子原板",
+          "musical_style": "梆子原板",
+          "style_family": "南梆子",
+          "text": "我看他文才好带进府来。"
+        },
+        {
+          "character": "唐寅",
+          "line_type": "梆子原板",
+          "musical_style": "梆子原板",
+          "style_family": "南梆子",
+          "text": "为的是唐子其功名文才。"
+        },
+        {
+          "character": "唐寅",
+          "line_type": "梆子原板",
+          "musical_style": "梆子原板",
+          "style_family": "南梆子",
+          "text": "叫家院掌灯笼前面走来。"
+        },
+        {
+          "character": "唐寅",
+          "line_type": "梆子原板",
+          "musical_style": "梆子原板",
+          "style_family": "南梆子",
+          "text": "尊先生你苏醒本镇到来。"
         },
         {
           "character": "唐寅",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "吓，书童哪里去了？桌案上亦无灯亮，炉子里火也没有，待我掌灯取火。\n哎，桌案下面红的不知什么，待我看来。\n原来一只绣鞋，怪不得有病，也不知哪家丫鬟，与先生勾引，被俺来的慌忙，\n将他二人冲散，这鞋失掉书馆，不免回到府中，见了夫人，说个笑话，待我看\n明。吓，这、这、这绣鞋，好象我妻李月英的，怎么在此？李月英吓李月英，\n若没此事便罢，倘有此事，俺唐寅岂肯与你干休！"
+          "text": "吓，书童哪里去了？桌案上亦无灯亮，炉子里火也没有，待我掌灯取火。"
+        },
+        {
+          "character": "唐寅",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "哎，桌案下面红的不知什么，待我看来。"
+        },
+        {
+          "character": "唐寅",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "原来一只绣鞋，怪不得有病，也不知哪家丫鬟，与先生勾引，被俺来的慌忙，"
+        },
+        {
+          "character": "唐寅",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "将他二人冲散，这鞋失掉书馆，不免回到府中，见了夫人，说个笑话，待我看"
+        },
+        {
+          "character": "唐寅",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "明。吓，这、这、这绣鞋，好象我妻李月英的，怎么在此？李月英吓李月英，"
+        },
+        {
+          "character": "唐寅",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "若没此事便罢，倘有此事，俺唐寅岂肯与你干休！"
         },
         {
           "character": "唐寅",
@@ -415,7 +523,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "错打了先生礼不通。\n到馆驿去杀李月英。"
+          "text": "错打了先生礼不通。"
+        },
+        {
+          "character": "唐寅",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "到馆驿去杀李月英。"
         },
         {
           "character": null,
@@ -429,7 +544,14 @@
           "line_type": "梆子原板",
           "musical_style": "梆子原板",
           "style_family": "南梆子",
-          "text": "一见子其他去了，\n不见书童哪里行？"
+          "text": "一见子其他去了，"
+        },
+        {
+          "character": "王标",
+          "line_type": "梆子原板",
+          "musical_style": "梆子原板",
+          "style_family": "南梆子",
+          "text": "不见书童哪里行？"
         },
         {
           "character": "王标",
@@ -457,7 +579,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.5862,
+        0.4138,
+        0.0,
+        0.2143,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -487,7 +619,35 @@
           "line_type": "梆子慢板",
           "musical_style": "梆子慢板",
           "style_family": "南梆子",
-          "text": "昔日里洪武爷在南京地面，\n全凭着文共武保护江山。\n武凭着老徐达扶保乾坤。\n李文忠他本是皇家外甥。\n等翠花她到来细问端详。"
+          "text": "昔日里洪武爷在南京地面，"
+        },
+        {
+          "character": "李月英",
+          "line_type": "梆子慢板",
+          "musical_style": "梆子慢板",
+          "style_family": "南梆子",
+          "text": "全凭着文共武保护江山。"
+        },
+        {
+          "character": "李月英",
+          "line_type": "梆子慢板",
+          "musical_style": "梆子慢板",
+          "style_family": "南梆子",
+          "text": "武凭着老徐达扶保乾坤。"
+        },
+        {
+          "character": "李月英",
+          "line_type": "梆子慢板",
+          "musical_style": "梆子慢板",
+          "style_family": "南梆子",
+          "text": "李文忠他本是皇家外甥。"
+        },
+        {
+          "character": "李月英",
+          "line_type": "梆子慢板",
+          "musical_style": "梆子慢板",
+          "style_family": "南梆子",
+          "text": "等翠花她到来细问端详。"
         },
         {
           "character": null,
@@ -501,7 +661,14 @@
           "line_type": "梆子原板",
           "musical_style": "梆子原板",
           "style_family": "南梆子",
-          "text": "府下领了老爷命，\n禀报奶奶得知情。"
+          "text": "府下领了老爷命，"
+        },
+        {
+          "character": "丫鬟",
+          "line_type": "梆子原板",
+          "musical_style": "梆子原板",
+          "style_family": "南梆子",
+          "text": "禀报奶奶得知情。"
         },
         {
           "character": "丫鬟",
@@ -536,10 +703,31 @@
           "line_type": "梆子乱导板",
           "musical_style": "梆子乱导板",
           "style_family": "南梆子",
-          "text": "有唐寅回府来怒气生，\n开言大骂李月英。\n一见贱人执剑行。"
+          "text": "有唐寅回府来怒气生，"
         },
         {
-          "character": "转身且把二堂进、李月英",
+          "character": "唐寅",
+          "line_type": "梆子乱导板",
+          "musical_style": "梆子乱导板",
+          "style_family": "南梆子",
+          "text": "开言大骂李月英。"
+        },
+        {
+          "character": "唐寅",
+          "line_type": "梆子乱导板",
+          "musical_style": "梆子乱导板",
+          "style_family": "南梆子",
+          "text": "一见贱人执剑行。"
+        },
+        {
+          "character": "唐寅",
+          "line_type": "梆子乱导板",
+          "musical_style": "梆子乱导板",
+          "style_family": "南梆子",
+          "text": "转身且把二堂进"
+        },
+        {
+          "character": "李月英",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -557,7 +745,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "吓，老爷，为妻将什么事做错，说一明白，何用老爷来杀，为妻我自刎头首下\n来。"
+          "text": "吓，老爷，为妻将什么事做错，说一明白，何用老爷来杀，为妻我自刎头首下"
+        },
+        {
+          "character": "李月英",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来。"
         },
         {
           "character": "唐寅",
@@ -571,77 +766,182 @@
           "line_type": "梆子慢板",
           "musical_style": "梆子慢板",
           "style_family": "南梆子",
-          "text": "有唐寅在二堂怒气生，\n开言再骂李月英：\n狗贱人做下了什么事情。"
+          "text": "有唐寅在二堂怒气生，"
         },
         {
-          "character": "本镇不在唐府内、李月英",
-          "line_type": "梆子原板",
-          "musical_style": "梆子原板",
+          "character": "唐寅",
+          "line_type": "梆子慢板",
+          "musical_style": "梆子慢板",
           "style_family": "南梆子",
-          "text": "老爷不必怒气生，\n听为妻把话说分明：\n为妻的做错了什么事情？"
+          "text": "开言再骂李月英："
         },
         {
-          "character": "回府来提刀来杀我、唐寅",
-          "line_type": "梆子原板",
-          "musical_style": "梆子原板",
+          "character": "唐寅",
+          "line_type": "梆子慢板",
+          "musical_style": "梆子慢板",
           "style_family": "南梆子",
-          "text": "王先生书馆身得病，\n你在府中可知情？"
+          "text": "狗贱人做下了什么事情。"
+        },
+        {
+          "character": "唐寅",
+          "line_type": "梆子慢板",
+          "musical_style": "梆子慢板",
+          "style_family": "南梆子",
+          "text": "本镇不在唐府内"
         },
         {
           "character": "李月英",
           "line_type": "梆子原板",
           "musical_style": "梆子原板",
           "style_family": "南梆子",
-          "text": "王先生书馆身有病，\n子其儿禀报我知情。"
-        },
-        {
-          "character": "唐寅",
-          "line_type": "梆子原板",
-          "musical_style": "梆子原板",
-          "style_family": "南梆子",
-          "text": "贱人接言知此事，\n你就该书馆探望先生。"
+          "text": "老爷不必怒气生，"
         },
         {
           "character": "李月英",
           "line_type": "梆子原板",
           "musical_style": "梆子原板",
           "style_family": "南梆子",
-          "text": "老爷讲话你错了，\n哪一个妇道人探望先生？"
-        },
-        {
-          "character": "唐寅",
-          "line_type": "梆子原板",
-          "musical_style": "梆子原板",
-          "style_family": "南梆子",
-          "text": "去不去在于你，\n莫哄我唐寅昏迷虫。"
+          "text": "听为妻把话说分明："
         },
         {
           "character": "李月英",
           "line_type": "梆子原板",
           "musical_style": "梆子原板",
           "style_family": "南梆子",
-          "text": "老爷说话有其情，\n莫非说妻私通了王先生？"
-        },
-        {
-          "character": "唐寅",
-          "line_type": "梆子原板",
-          "musical_style": "梆子原板",
-          "style_family": "南梆子",
-          "text": "三六九日操演兵，\n狗贱人私通了王先生。"
+          "text": "为妻的做错了什么事情？"
         },
         {
           "character": "李月英",
           "line_type": "梆子原板",
           "musical_style": "梆子原板",
           "style_family": "南梆子",
-          "text": "言说私通王先生，\n有何物件作证凭？"
+          "text": "回府来提刀来杀我"
         },
         {
           "character": "唐寅",
           "line_type": "梆子原板",
           "musical_style": "梆子原板",
           "style_family": "南梆子",
-          "text": "贱人与我要凭证，\n取出了绣鞋你看分明。"
+          "text": "王先生书馆身得病，"
+        },
+        {
+          "character": "唐寅",
+          "line_type": "梆子原板",
+          "musical_style": "梆子原板",
+          "style_family": "南梆子",
+          "text": "你在府中可知情？"
+        },
+        {
+          "character": "李月英",
+          "line_type": "梆子原板",
+          "musical_style": "梆子原板",
+          "style_family": "南梆子",
+          "text": "王先生书馆身有病，"
+        },
+        {
+          "character": "李月英",
+          "line_type": "梆子原板",
+          "musical_style": "梆子原板",
+          "style_family": "南梆子",
+          "text": "子其儿禀报我知情。"
+        },
+        {
+          "character": "唐寅",
+          "line_type": "梆子原板",
+          "musical_style": "梆子原板",
+          "style_family": "南梆子",
+          "text": "贱人接言知此事，"
+        },
+        {
+          "character": "唐寅",
+          "line_type": "梆子原板",
+          "musical_style": "梆子原板",
+          "style_family": "南梆子",
+          "text": "你就该书馆探望先生。"
+        },
+        {
+          "character": "李月英",
+          "line_type": "梆子原板",
+          "musical_style": "梆子原板",
+          "style_family": "南梆子",
+          "text": "老爷讲话你错了，"
+        },
+        {
+          "character": "李月英",
+          "line_type": "梆子原板",
+          "musical_style": "梆子原板",
+          "style_family": "南梆子",
+          "text": "哪一个妇道人探望先生？"
+        },
+        {
+          "character": "唐寅",
+          "line_type": "梆子原板",
+          "musical_style": "梆子原板",
+          "style_family": "南梆子",
+          "text": "去不去在于你，"
+        },
+        {
+          "character": "唐寅",
+          "line_type": "梆子原板",
+          "musical_style": "梆子原板",
+          "style_family": "南梆子",
+          "text": "莫哄我唐寅昏迷虫。"
+        },
+        {
+          "character": "李月英",
+          "line_type": "梆子原板",
+          "musical_style": "梆子原板",
+          "style_family": "南梆子",
+          "text": "老爷说话有其情，"
+        },
+        {
+          "character": "李月英",
+          "line_type": "梆子原板",
+          "musical_style": "梆子原板",
+          "style_family": "南梆子",
+          "text": "莫非说妻私通了王先生？"
+        },
+        {
+          "character": "唐寅",
+          "line_type": "梆子原板",
+          "musical_style": "梆子原板",
+          "style_family": "南梆子",
+          "text": "三六九日操演兵，"
+        },
+        {
+          "character": "唐寅",
+          "line_type": "梆子原板",
+          "musical_style": "梆子原板",
+          "style_family": "南梆子",
+          "text": "狗贱人私通了王先生。"
+        },
+        {
+          "character": "李月英",
+          "line_type": "梆子原板",
+          "musical_style": "梆子原板",
+          "style_family": "南梆子",
+          "text": "言说私通王先生，"
+        },
+        {
+          "character": "李月英",
+          "line_type": "梆子原板",
+          "musical_style": "梆子原板",
+          "style_family": "南梆子",
+          "text": "有何物件作证凭？"
+        },
+        {
+          "character": "唐寅",
+          "line_type": "梆子原板",
+          "musical_style": "梆子原板",
+          "style_family": "南梆子",
+          "text": "贱人与我要凭证，"
+        },
+        {
+          "character": "唐寅",
+          "line_type": "梆子原板",
+          "musical_style": "梆子原板",
+          "style_family": "南梆子",
+          "text": "取出了绣鞋你看分明。"
         },
         {
           "character": "唐寅",
@@ -662,21 +962,56 @@
           "line_type": "梆子原板",
           "musical_style": "梆子原板",
           "style_family": "南梆子",
-          "text": "见绣鞋唬得我三魂不在，\n七魄悠悠转回来。\n绣鞋怎到书房中？"
-        },
-        {
-          "character": "出言便把老爷问、唐寅",
-          "line_type": "梆子原板",
-          "musical_style": "梆子原板",
-          "style_family": "南梆子",
-          "text": "绣鞋实在书房内，\n我亲在书馆看得明。"
+          "text": "见绣鞋唬得我三魂不在，"
         },
         {
           "character": "李月英",
           "line_type": "梆子原板",
           "musical_style": "梆子原板",
           "style_family": "南梆子",
-          "text": "言说既在书馆中，\n你就该前去问先生。"
+          "text": "七魄悠悠转回来。"
+        },
+        {
+          "character": "李月英",
+          "line_type": "梆子原板",
+          "musical_style": "梆子原板",
+          "style_family": "南梆子",
+          "text": "绣鞋怎到书房中？"
+        },
+        {
+          "character": "李月英",
+          "line_type": "梆子原板",
+          "musical_style": "梆子原板",
+          "style_family": "南梆子",
+          "text": "出言便把老爷问"
+        },
+        {
+          "character": "唐寅",
+          "line_type": "梆子原板",
+          "musical_style": "梆子原板",
+          "style_family": "南梆子",
+          "text": "绣鞋实在书房内，"
+        },
+        {
+          "character": "唐寅",
+          "line_type": "梆子原板",
+          "musical_style": "梆子原板",
+          "style_family": "南梆子",
+          "text": "我亲在书馆看得明。"
+        },
+        {
+          "character": "李月英",
+          "line_type": "梆子原板",
+          "musical_style": "梆子原板",
+          "style_family": "南梆子",
+          "text": "言说既在书馆中，"
+        },
+        {
+          "character": "李月英",
+          "line_type": "梆子原板",
+          "musical_style": "梆子原板",
+          "style_family": "南梆子",
+          "text": "你就该前去问先生。"
         },
         {
           "character": "唐寅",
@@ -704,17 +1039,38 @@
           "line_type": "梆子原板",
           "musical_style": "梆子原板",
           "style_family": "南梆子",
-          "text": "贱人还敢巧言辩，\n气得我鲜血上下翻。"
+          "text": "贱人还敢巧言辩，"
         },
         {
-          "character": "三尺宝剑出了鞘、丫鬟",
+          "character": "唐寅",
+          "line_type": "梆子原板",
+          "musical_style": "梆子原板",
+          "style_family": "南梆子",
+          "text": "气得我鲜血上下翻。"
+        },
+        {
+          "character": "唐寅",
+          "line_type": "梆子原板",
+          "musical_style": "梆子原板",
+          "style_family": "南梆子",
+          "text": "三尺宝剑出了鞘"
+        },
+        {
+          "character": "丫鬟",
           "line_type": "梆子原板",
           "musical_style": "梆子原板",
           "style_family": "南梆子",
           "text": "拦住老爷且慢行。"
         },
         {
-          "character": "三尺宝剑出了鞘、丫鬟",
+          "character": "丫鬟",
+          "line_type": "梆子原板",
+          "musical_style": "梆子原板",
+          "style_family": "南梆子",
+          "text": "三尺宝剑出了鞘"
+        },
+        {
+          "character": "丫鬟",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -732,7 +1088,21 @@
           "line_type": "梆子乱导板",
           "musical_style": "梆子乱导板",
           "style_family": "南梆子",
-          "text": "老爷正在沙滩困，\n一句话提醒了懵懂人。\n到书馆去杀王先生。"
+          "text": "老爷正在沙滩困，"
+        },
+        {
+          "character": "唐寅",
+          "line_type": "梆子乱导板",
+          "musical_style": "梆子乱导板",
+          "style_family": "南梆子",
+          "text": "一句话提醒了懵懂人。"
+        },
+        {
+          "character": "唐寅",
+          "line_type": "梆子乱导板",
+          "musical_style": "梆子乱导板",
+          "style_family": "南梆子",
+          "text": "到书馆去杀王先生。"
         },
         {
           "character": null,
@@ -753,7 +1123,28 @@
           "line_type": "梆子慢板",
           "musical_style": "梆子慢板",
           "style_family": "南梆子",
-          "text": "倒叫我李月英大吃一惊。\n插双翅飞到了书馆里边。\n纵死在阴曹府真假难分。\n等我儿他到来细问一番。"
+          "text": "倒叫我李月英大吃一惊。"
+        },
+        {
+          "character": "李月英",
+          "line_type": "梆子慢板",
+          "musical_style": "梆子慢板",
+          "style_family": "南梆子",
+          "text": "插双翅飞到了书馆里边。"
+        },
+        {
+          "character": "李月英",
+          "line_type": "梆子慢板",
+          "musical_style": "梆子慢板",
+          "style_family": "南梆子",
+          "text": "纵死在阴曹府真假难分。"
+        },
+        {
+          "character": "李月英",
+          "line_type": "梆子慢板",
+          "musical_style": "梆子慢板",
+          "style_family": "南梆子",
+          "text": "等我儿他到来细问一番。"
         },
         {
           "character": null,
@@ -767,17 +1158,45 @@
           "line_type": "梆子原板",
           "musical_style": "梆子原板",
           "style_family": "南梆子",
-          "text": "唐子其门外侧耳听，\n忽听母亲放悲声。\n问母亲痛哭为何情。"
+          "text": "唐子其门外侧耳听，"
         },
         {
-          "character": "迈步且把二堂进、李月英",
+          "character": "唐子其",
+          "line_type": "梆子原板",
+          "musical_style": "梆子原板",
+          "style_family": "南梆子",
+          "text": "忽听母亲放悲声。"
+        },
+        {
+          "character": "唐子其",
+          "line_type": "梆子原板",
+          "musical_style": "梆子原板",
+          "style_family": "南梆子",
+          "text": "问母亲痛哭为何情。"
+        },
+        {
+          "character": "唐子其",
+          "line_type": "梆子原板",
+          "musical_style": "梆子原板",
+          "style_family": "南梆子",
+          "text": "迈步且把二堂进"
+        },
+        {
+          "character": "李月英",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
           "text": "儿吓，"
         },
         {
-          "character": "迈步且把二堂进、李月英",
+          "character": "李月英",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "迈步且把二堂进"
+        },
+        {
+          "character": "李月英",
           "line_type": "梆子原板",
           "musical_style": "梆子原板",
           "style_family": "南梆子",
@@ -844,14 +1263,28 @@
           "line_type": "梆子快原板",
           "musical_style": "梆子快原板",
           "style_family": "南梆子",
-          "text": "一见奴才讲出口，\n羞得为娘脸通红。"
+          "text": "一见奴才讲出口，"
+        },
+        {
+          "character": "李月英",
+          "line_type": "梆子快原板",
+          "musical_style": "梆子快原板",
+          "style_family": "南梆子",
+          "text": "羞得为娘脸通红。"
         },
         {
           "character": "李月英",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "你这小奴才，与你父一口同音，从今往后，不要你到娘的上房，再进娘房，将\n你膝骨打直，还不上学去罢。"
+          "text": "你这小奴才，与你父一口同音，从今往后，不要你到娘的上房，再进娘房，将"
+        },
+        {
+          "character": "李月英",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "你膝骨打直，还不上学去罢。"
         },
         {
           "character": "唐子其",
@@ -865,7 +1298,14 @@
           "line_type": "梆子原板",
           "musical_style": "梆子原板",
           "style_family": "南梆子",
-          "text": "施一礼来下二堂，\n活活羞杀我学生。"
+          "text": "施一礼来下二堂，"
+        },
+        {
+          "character": "唐子其",
+          "line_type": "梆子原板",
+          "musical_style": "梆子原板",
+          "style_family": "南梆子",
+          "text": "活活羞杀我学生。"
         },
         {
           "character": null,
@@ -879,7 +1319,21 @@
           "line_type": "梆子原板",
           "musical_style": "梆子原板",
           "style_family": "南梆子",
-          "text": "一见我儿他去了，\n怎不叫人恼在心。\n等翠花回来问分明。"
+          "text": "一见我儿他去了，"
+        },
+        {
+          "character": "李月英",
+          "line_type": "梆子原板",
+          "musical_style": "梆子原板",
+          "style_family": "南梆子",
+          "text": "怎不叫人恼在心。"
+        },
+        {
+          "character": "李月英",
+          "line_type": "梆子原板",
+          "musical_style": "梆子原板",
+          "style_family": "南梆子",
+          "text": "等翠花回来问分明。"
         },
         {
           "character": null,
@@ -917,7 +1371,17 @@
         "singing_ratio": 0.056,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.056,
+        0.7653,
+        0.2347,
+        0.0,
+        0.3918,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 4,
@@ -958,10 +1422,24 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "一到书馆看分明。\n再叫翠花扣门庭。"
+          "text": "一到书馆看分明。"
         },
         {
-          "character": "我在此处莫久站、丫鬟",
+          "character": "唐寅",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "再叫翠花扣门庭。"
+        },
+        {
+          "character": "唐寅",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我在此处莫久站"
+        },
+        {
+          "character": "丫鬟",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -1000,7 +1478,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "半夜三更，哪里有人叫门，待我开门去看。哦呀，想晴天怎么打闪，吓，是了，\n想我师爷病重了，阎王爷差下大小二鬼，拿我的师爷魂灵的来了，我不开门，\n你进不来，我还睡半节觉儿，说着说着哪。"
+          "text": "半夜三更，哪里有人叫门，待我开门去看。哦呀，想晴天怎么打闪，吓，是了，"
+        },
+        {
+          "character": "书童",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "想我师爷病重了，阎王爷差下大小二鬼，拿我的师爷魂灵的来了，我不开门，"
+        },
+        {
+          "character": "书童",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "你进不来，我还睡半节觉儿，说着说着哪。"
         },
         {
           "character": "丫鬟",
@@ -1042,21 +1534,56 @@
           "line_type": "梆子原板",
           "musical_style": "梆子原板",
           "style_family": "南梆子",
-          "text": "忽听谯楼起了更，\n不知何人叩门庭。\n你是何人叫门来？"
-        },
-        {
-          "character": "我这里出言一声问、丫鬟",
-          "line_type": "梆子原板",
-          "musical_style": "梆子原板",
-          "style_family": "南梆子",
-          "text": "先生把我忘却了，\n我本是翠花到来临。"
+          "text": "忽听谯楼起了更，"
         },
         {
           "character": "王标",
           "line_type": "梆子原板",
           "musical_style": "梆子原板",
           "style_family": "南梆子",
-          "text": "翠花不在馆驿内，\n来在书馆为何情？"
+          "text": "不知何人叩门庭。"
+        },
+        {
+          "character": "王标",
+          "line_type": "梆子原板",
+          "musical_style": "梆子原板",
+          "style_family": "南梆子",
+          "text": "你是何人叫门来？"
+        },
+        {
+          "character": "王标",
+          "line_type": "梆子原板",
+          "musical_style": "梆子原板",
+          "style_family": "南梆子",
+          "text": "我这里出言一声问"
+        },
+        {
+          "character": "丫鬟",
+          "line_type": "梆子原板",
+          "musical_style": "梆子原板",
+          "style_family": "南梆子",
+          "text": "先生把我忘却了，"
+        },
+        {
+          "character": "丫鬟",
+          "line_type": "梆子原板",
+          "musical_style": "梆子原板",
+          "style_family": "南梆子",
+          "text": "我本是翠花到来临。"
+        },
+        {
+          "character": "王标",
+          "line_type": "梆子原板",
+          "musical_style": "梆子原板",
+          "style_family": "南梆子",
+          "text": "翠花不在馆驿内，"
+        },
+        {
+          "character": "王标",
+          "line_type": "梆子原板",
+          "musical_style": "梆子原板",
+          "style_family": "南梆子",
+          "text": "来在书馆为何情？"
         },
         {
           "character": "丫鬟",
@@ -1070,14 +1597,28 @@
           "line_type": "梆子原板",
           "musical_style": "梆子原板",
           "style_family": "南梆子",
-          "text": "我的奶奶把你请，\n请你一到唐府中。"
+          "text": "我的奶奶把你请，"
+        },
+        {
+          "character": "丫鬟",
+          "line_type": "梆子原板",
+          "musical_style": "梆子原板",
+          "style_family": "南梆子",
+          "text": "请你一到唐府中。"
         },
         {
           "character": "王标",
           "line_type": "梆子原板",
           "musical_style": "梆子原板",
           "style_family": "南梆子",
-          "text": "唐府出了什么事，\n如何不等到天明？"
+          "text": "唐府出了什么事，"
+        },
+        {
+          "character": "王标",
+          "line_type": "梆子原板",
+          "musical_style": "梆子原板",
+          "style_family": "南梆子",
+          "text": "如何不等到天明？"
         },
         {
           "character": "丫鬟",
@@ -1091,7 +1632,14 @@
           "line_type": "梆子原板",
           "musical_style": "梆子原板",
           "style_family": "南梆子",
-          "text": "八月十五月正明，\n先生你与我奶奶有……"
+          "text": "八月十五月正明，"
+        },
+        {
+          "character": "丫鬟",
+          "line_type": "梆子原板",
+          "musical_style": "梆子原板",
+          "style_family": "南梆子",
+          "text": "先生你与我奶奶有……"
         },
         {
           "character": "王标",
@@ -1126,14 +1674,28 @@
           "line_type": "梆子快板",
           "musical_style": "梆子快板",
           "style_family": "南梆子",
-          "text": "忽听翠花讲一遍，\n羞得王标面飞红。"
+          "text": "忽听翠花讲一遍，"
+        },
+        {
+          "character": "王标",
+          "line_type": "梆子快板",
+          "musical_style": "梆子快板",
+          "style_family": "南梆子",
+          "text": "羞得王标面飞红。"
         },
         {
           "character": "王标",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "翠花你一言出口，幸亏唐老爷不在此地，唐老爷若在府中，还有你这丫头命在？\n还不与我走去！"
+          "text": "翠花你一言出口，幸亏唐老爷不在此地，唐老爷若在府中，还有你这丫头命在？"
+        },
+        {
+          "character": "王标",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "还不与我走去！"
         },
         {
           "character": "唐寅",
@@ -1161,14 +1723,42 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "这件事情我要问明。\n等贱人到来看其情。"
+          "text": "这件事情我要问明。"
         },
         {
-          "character": "不杀先生回去罢、翠花把你奶奶请、丫鬟",
+          "character": "唐寅",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "等贱人到来看其情。"
+        },
+        {
+          "character": "唐寅",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "不杀先生回去罢"
+        },
+        {
+          "character": "唐寅",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "翠花把你奶奶请"
+        },
+        {
+          "character": "丫鬟",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "是。\n有请奶奶。"
+          "text": "是。"
+        },
+        {
+          "character": "丫鬟",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "有请奶奶。"
         },
         {
           "character": "李月英",
@@ -1189,7 +1779,21 @@
           "line_type": "梆子乱导板",
           "musical_style": "梆子乱导板",
           "style_family": "南梆子",
-          "text": "急急走来莫消停，\n三步当作两步行。\n叫声先生开门来。"
+          "text": "急急走来莫消停，"
+        },
+        {
+          "character": "李月英",
+          "line_type": "梆子乱导板",
+          "musical_style": "梆子乱导板",
+          "style_family": "南梆子",
+          "text": "三步当作两步行。"
+        },
+        {
+          "character": "李月英",
+          "line_type": "梆子乱导板",
+          "musical_style": "梆子乱导板",
+          "style_family": "南梆子",
+          "text": "叫声先生开门来。"
         },
         {
           "character": "李月英",
@@ -1199,7 +1803,14 @@
           "text": "开门来，开门来。"
         },
         {
-          "character": "行走来在书馆外、唐寅",
+          "character": "李月英",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "行走来在书馆外"
+        },
+        {
+          "character": "唐寅",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -1217,7 +1828,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "不要大呼喧叫，要你二人在一处的声音，你拿出来与我慢慢叫，你要慢慢的叫\n来。"
+          "text": "不要大呼喧叫，要你二人在一处的声音，你拿出来与我慢慢叫，你要慢慢的叫"
+        },
+        {
+          "character": "唐寅",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来。"
         },
         {
           "character": null,
@@ -1231,35 +1849,126 @@
           "line_type": "梆子慢板",
           "musical_style": "梆子慢板",
           "style_family": "南梆子",
-          "text": "唐老爷一言问住我，\n倒叫我大张口无有话说。\n唐老爷他好比五殿阎君。\n李月英好一似屈死鬼魂。\n叫声先生开门来。"
+          "text": "唐老爷一言问住我，"
         },
         {
-          "character": "这书馆好比在阎罗宝殿、小翠花她好比催命判官、高声不敢低声叫、王标",
-          "line_type": "梆子原板",
-          "musical_style": "梆子原板",
+          "character": "唐寅",
+          "line_type": "梆子慢板",
+          "musical_style": "梆子慢板",
           "style_family": "南梆子",
-          "text": "今日晚上好奇怪，\n两次三番扣门来。\n又是何人来扣门？"
+          "text": "倒叫我大张口无有话说。"
         },
         {
-          "character": "方才打发翠花去、李月英",
-          "line_type": "白",
-          "musical_style": null,
-          "style_family": null,
-          "text": "先生。"
-        },
-        {
-          "character": "方才打发翠花去、李月英",
-          "line_type": "梆子原板",
-          "musical_style": "梆子原板",
+          "character": "唐寅",
+          "line_type": "梆子慢板",
+          "musical_style": "梆子慢板",
           "style_family": "南梆子",
-          "text": "时才翠花把你请，\n你为何不到唐府中？"
+          "text": "唐老爷他好比五殿阎君。"
+        },
+        {
+          "character": "唐寅",
+          "line_type": "梆子慢板",
+          "musical_style": "梆子慢板",
+          "style_family": "南梆子",
+          "text": "李月英好一似屈死鬼魂。"
+        },
+        {
+          "character": "唐寅",
+          "line_type": "梆子慢板",
+          "musical_style": "梆子慢板",
+          "style_family": "南梆子",
+          "text": "叫声先生开门来。"
+        },
+        {
+          "character": "唐寅",
+          "line_type": "梆子慢板",
+          "musical_style": "梆子慢板",
+          "style_family": "南梆子",
+          "text": "这书馆好比在阎罗宝殿"
+        },
+        {
+          "character": "唐寅",
+          "line_type": "梆子慢板",
+          "musical_style": "梆子慢板",
+          "style_family": "南梆子",
+          "text": "小翠花她好比催命判官"
+        },
+        {
+          "character": "唐寅",
+          "line_type": "梆子慢板",
+          "musical_style": "梆子慢板",
+          "style_family": "南梆子",
+          "text": "高声不敢低声叫"
         },
         {
           "character": "王标",
           "line_type": "梆子原板",
           "musical_style": "梆子原板",
           "style_family": "南梆子",
-          "text": "唐府出了什么事，\n你为何不等到天明？"
+          "text": "今日晚上好奇怪，"
+        },
+        {
+          "character": "王标",
+          "line_type": "梆子原板",
+          "musical_style": "梆子原板",
+          "style_family": "南梆子",
+          "text": "两次三番扣门来。"
+        },
+        {
+          "character": "王标",
+          "line_type": "梆子原板",
+          "musical_style": "梆子原板",
+          "style_family": "南梆子",
+          "text": "又是何人来扣门？"
+        },
+        {
+          "character": "王标",
+          "line_type": "梆子原板",
+          "musical_style": "梆子原板",
+          "style_family": "南梆子",
+          "text": "方才打发翠花去"
+        },
+        {
+          "character": "李月英",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "先生。"
+        },
+        {
+          "character": "李月英",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "方才打发翠花去"
+        },
+        {
+          "character": "李月英",
+          "line_type": "梆子原板",
+          "musical_style": "梆子原板",
+          "style_family": "南梆子",
+          "text": "时才翠花把你请，"
+        },
+        {
+          "character": "李月英",
+          "line_type": "梆子原板",
+          "musical_style": "梆子原板",
+          "style_family": "南梆子",
+          "text": "你为何不到唐府中？"
+        },
+        {
+          "character": "王标",
+          "line_type": "梆子原板",
+          "musical_style": "梆子原板",
+          "style_family": "南梆子",
+          "text": "唐府出了什么事，"
+        },
+        {
+          "character": "王标",
+          "line_type": "梆子原板",
+          "musical_style": "梆子原板",
+          "style_family": "南梆子",
+          "text": "你为何不等到天明？"
         },
         {
           "character": "王标",
@@ -1280,7 +1989,14 @@
           "line_type": "梆子原板",
           "musical_style": "梆子原板",
           "style_family": "南梆子",
-          "text": "八月十五月正明，\n先生你与我有……"
+          "text": "八月十五月正明，"
+        },
+        {
+          "character": "李月英",
+          "line_type": "梆子原板",
+          "musical_style": "梆子原板",
+          "style_family": "南梆子",
+          "text": "先生你与我有……"
         },
         {
           "character": "王标",
@@ -1315,14 +2031,28 @@
           "line_type": "梆子原板",
           "musical_style": "梆子原板",
           "style_family": "南梆子",
-          "text": "忽听奶奶讲出口，\n羞得王标面通红。"
+          "text": "忽听奶奶讲出口，"
+        },
+        {
+          "character": "王标",
+          "line_type": "梆子原板",
+          "musical_style": "梆子原板",
+          "style_family": "南梆子",
+          "text": "羞得王标面通红。"
         },
         {
           "character": "王标",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "吓，奶奶，这就是你的不是，幸亏唐老爷不晓，若是知晓，焉有你我命在，我\n有几句言语，奶奶可耐听？"
+          "text": "吓，奶奶，这就是你的不是，幸亏唐老爷不晓，若是知晓，焉有你我命在，我"
+        },
+        {
+          "character": "王标",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "有几句言语，奶奶可耐听？"
         },
         {
           "character": "李月英",
@@ -1336,14 +2066,84 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "外边有石凳，请坐上面，听我道来。昔日有一王华先生，上京赶考，一步来迟，\n误了皇家考场，有心回家，缺少盘费，只得在大街卖文度日，有一张大老爷，\n下朝回来，见那王华文出众，相貌惊人，将他带在府下。张大老爷他有一三\n房太太，观见王华相貌超群，文才出众，写了一把扇，交与丫鬟，叫他交与书\n童，书童交与王华先生，先生打开一看，羞得面红过耳，随即拿笔在手，上写\n“未曾起意神先知”一句，与书童，书童将扇转交丫鬟，丫鬟送与那三房太太，\n太太打开一看，羞愧难当，悬梁一死，后来那王华先生，天门落榜，得中头\n名状元。俺王标虽不及前人，乃是个两榜的进士，奶奶外边春心已动，王标岂\n肯损折阴功，奶奶不免请回去罢。"
+          "text": "外边有石凳，请坐上面，听我道来。昔日有一王华先生，上京赶考，一步来迟，"
+        },
+        {
+          "character": "王标",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "误了皇家考场，有心回家，缺少盘费，只得在大街卖文度日，有一张大老爷，"
+        },
+        {
+          "character": "王标",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "下朝回来，见那王华文出众，相貌惊人，将他带在府下。张大老爷他有一三"
+        },
+        {
+          "character": "王标",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "房太太，观见王华相貌超群，文才出众，写了一把扇，交与丫鬟，叫他交与书"
+        },
+        {
+          "character": "王标",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "童，书童交与王华先生，先生打开一看，羞得面红过耳，随即拿笔在手，上写"
+        },
+        {
+          "character": "王标",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "“未曾起意神先知”一句，与书童，书童将扇转交丫鬟，丫鬟送与那三房太太，"
+        },
+        {
+          "character": "王标",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "太太打开一看，羞愧难当，悬梁一死，后来那王华先生，天门落榜，得中头"
+        },
+        {
+          "character": "王标",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "名状元。俺王标虽不及前人，乃是个两榜的进士，奶奶外边春心已动，王标岂"
+        },
+        {
+          "character": "王标",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "肯损折阴功，奶奶不免请回去罢。"
         },
         {
           "character": "李月英",
           "line_type": "梆子快板",
           "musical_style": "梆子快板",
           "style_family": "南梆子",
-          "text": "强盗门外你侧耳听，\n先生果然是好先生。\n不如早死见阎君。"
+          "text": "强盗门外你侧耳听，"
+        },
+        {
+          "character": "李月英",
+          "line_type": "梆子快板",
+          "musical_style": "梆子快板",
+          "style_family": "南梆子",
+          "text": "先生果然是好先生。"
+        },
+        {
+          "character": "李月英",
+          "line_type": "梆子快板",
+          "musical_style": "梆子快板",
+          "style_family": "南梆子",
+          "text": "不如早死见阎君。"
         },
         {
           "character": null,
@@ -1357,7 +2157,21 @@
           "line_type": "梆子快板",
           "musical_style": "梆子快板",
           "style_family": "南梆子",
-          "text": "有唐寅听得清，\n先生可算好先生。\n我一到上房前去赔情。"
+          "text": "有唐寅听得清，"
+        },
+        {
+          "character": "唐寅",
+          "line_type": "梆子快板",
+          "musical_style": "梆子快板",
+          "style_family": "南梆子",
+          "text": "先生可算好先生。"
+        },
+        {
+          "character": "唐寅",
+          "line_type": "梆子快板",
+          "musical_style": "梆子快板",
+          "style_family": "南梆子",
+          "text": "我一到上房前去赔情。"
         },
         {
           "character": null,
@@ -1371,7 +2185,14 @@
           "line_type": "梆子原板",
           "musical_style": "梆子原板",
           "style_family": "南梆子",
-          "text": "一见奶奶她去了，\n倒叫我王标难为人。"
+          "text": "一见奶奶她去了，"
+        },
+        {
+          "character": "王标",
+          "line_type": "梆子原板",
+          "musical_style": "梆子原板",
+          "style_family": "南梆子",
+          "text": "倒叫我王标难为人。"
         },
         {
           "character": "王标",
@@ -1392,7 +2213,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "溶墨伺候。\n上写王标拜辞馆不教。\n书童，此信下在唐老爷处。"
+          "text": "溶墨伺候。"
+        },
+        {
+          "character": "王标",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "上写王标拜辞馆不教。"
+        },
+        {
+          "character": "王标",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "书童，此信下在唐老爷处。"
         },
         {
           "character": "书童",
@@ -1482,7 +2317,17 @@
         "singing_ratio": 0.062,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.062,
+        0.5304,
+        0.4696,
+        0.0,
+        0.3947,
+        5,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 5,
@@ -2173,7 +3018,17 @@
         "singing_ratio": 0.014,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.014,
+        0.0256,
+        0.9487,
+        0.0256,
+        0.8961,
+        5,
+        0.0,
+        0.0
+      ]
     }
   ]
 }

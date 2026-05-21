@@ -110,14 +110,35 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "孤，李自成。\n御弟，你看周遇吉越杀越勇，伤了无数大将，不免弃了此关，攻打别处，再来\n招安便了。"
+          "text": "孤，李自成。"
+        },
+        {
+          "character": "李自成",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "御弟，你看周遇吉越杀越勇，伤了无数大将，不免弃了此关，攻打别处，再来"
+        },
+        {
+          "character": "李自成",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "招安便了。"
         },
         {
           "character": "一支虎",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "周遇吉虽然英勇，到底寡不敌众。兄王带领弓箭手，埋伏前面山谷之中，待小\n弟引他到来，乱箭齐发，不怕他飞上天去！"
+          "text": "周遇吉虽然英勇，到底寡不敌众。兄王带领弓箭手，埋伏前面山谷之中，待小"
+        },
+        {
+          "character": "一支虎",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "弟引他到来，乱箭齐发，不怕他飞上天去！"
         },
         {
           "character": "李自成",
@@ -181,7 +202,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.6,
+        0.4,
+        0.5556,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -280,7 +311,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -348,7 +389,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 4,
@@ -514,7 +565,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.75,
+        3,
+        0.0,
+        0.0
+      ]
     }
   ]
 }

@@ -181,7 +181,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "老夫，贾似道。宋室为臣。只因年迈，告老还乡，来在这杭州居住。夫人早丧，\n是我纳一小星，名唤蕙娘，倒也称心如意。今乃西湖庙会之期，不免带领蕙\n娘前去，一来降香，二来游赏西湖。\n来！"
+          "text": "老夫，贾似道。宋室为臣。只因年迈，告老还乡，来在这杭州居住。夫人早丧，"
+        },
+        {
+          "character": "贾似道",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "是我纳一小星，名唤蕙娘，倒也称心如意。今乃西湖庙会之期，不免带领蕙"
+        },
+        {
+          "character": "贾似道",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "娘前去，一来降香，二来游赏西湖。"
+        },
+        {
+          "character": "贾似道",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来！"
         },
         {
           "character": "丑院子",
@@ -328,7 +349,17 @@
         "singing_ratio": 0.154,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.154,
+        0.1579,
+        0.7368,
+        0.1053,
+        0.6667,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -365,7 +396,35 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "老身，张王氏。先夫张公，曾在宋室为臣，不幸中年亡故。膝下无儿，所生一\n女，名唤秀英，今年一十七岁了，随定老身习学针黹，倒也十分可爱。只是老\n身已逾花甲，女儿尚未字人，也是一桩心事。这且不言。今乃西湖庙会之期，\n不免带领女儿前去降香。\n家院！"
+          "text": "老身，张王氏。先夫张公，曾在宋室为臣，不幸中年亡故。膝下无儿，所生一"
+        },
+        {
+          "character": "张王氏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "女，名唤秀英，今年一十七岁了，随定老身习学针黹，倒也十分可爱。只是老"
+        },
+        {
+          "character": "张王氏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "身已逾花甲，女儿尚未字人，也是一桩心事。这且不言。今乃西湖庙会之期，"
+        },
+        {
+          "character": "张王氏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "不免带领女儿前去降香。"
+        },
+        {
+          "character": "张王氏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "家院！"
         },
         {
           "character": "院子",
@@ -505,7 +564,17 @@
         "singing_ratio": 0.154,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.154,
+        0.1579,
+        0.7895,
+        0.0526,
+        0.6667,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -527,28 +596,63 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "一日离家一日深，\n好似孤雁宿寒林。"
-        },
-        {
-          "character": "裴玉莲",
-          "line_type": "白",
-          "musical_style": null,
-          "style_family": null,
-          "text": "小生裴玉莲，乃湖广人氏。今乃大比之年，进京赴考。来此杭州地面，身体十\n分疲倦，不免找一店房歇息歇息。\n裴安，带路！"
+          "text": "一日离家一日深，"
         },
         {
           "character": "裴玉莲",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "裴安带路往前奔，\n见一店房且安身。"
+          "text": "好似孤雁宿寒林。"
         },
         {
           "character": "裴玉莲",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "来此已是店房。\n店家！"
+          "text": "小生裴玉莲，乃湖广人氏。今乃大比之年，进京赴考。来此杭州地面，身体十"
+        },
+        {
+          "character": "裴玉莲",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "分疲倦，不免找一店房歇息歇息。"
+        },
+        {
+          "character": "裴玉莲",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "裴安，带路！"
+        },
+        {
+          "character": "裴玉莲",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "裴安带路往前奔，"
+        },
+        {
+          "character": "裴玉莲",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "见一店房且安身。"
+        },
+        {
+          "character": "裴玉莲",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来此已是店房。"
+        },
+        {
+          "character": "裴玉莲",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "店家！"
         },
         {
           "character": "店家",
@@ -604,7 +708,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "是。\n茶到。相公吃过饭了没有？"
+          "text": "是。"
+        },
+        {
+          "character": "店家",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "茶到。相公吃过饭了没有？"
         },
         {
           "character": "裴玉莲",
@@ -639,7 +750,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "独坐旅店心闷倦，\n前去游湖散心田。"
+          "text": "独坐旅店心闷倦，"
+        },
+        {
+          "character": "裴玉莲",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "前去游湖散心田。"
         },
         {
           "character": null,
@@ -670,7 +788,17 @@
         "singing_ratio": 0.182,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.182,
+        0.2727,
+        0.6818,
+        0.0455,
+        0.381,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 4,
@@ -701,7 +829,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "学生胡知奋。家父胡不高，在这杭州城里开了一座绸缎店，生意倒也十分发财。\n我学生是黉门秀士。今日是西湖庙会之期，有心前去逛会，怎奈不识路径，\n怎样的前去？看那旁有两个人来，想必也是逛会的。待我同他们一块儿去。"
+          "text": "学生胡知奋。家父胡不高，在这杭州城里开了一座绸缎店，生意倒也十分发财。"
+        },
+        {
+          "character": "胡知奋",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我学生是黉门秀士。今日是西湖庙会之期，有心前去逛会，怎奈不识路径，"
+        },
+        {
+          "character": "胡知奋",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "怎样的前去？看那旁有两个人来，想必也是逛会的。待我同他们一块儿去。"
         },
         {
           "character": null,
@@ -799,14 +941,35 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "杭州城内好风景，\n那旁站定一伙人。"
+          "text": "杭州城内好风景，"
+        },
+        {
+          "character": "裴玉莲",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "那旁站定一伙人。"
         },
         {
           "character": "裴玉莲",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "且住！适才闻得店家言道：今日乃西湖庙会之期，甚是热闹。只是不晓路径，\n如何前去？看那旁有一伙人，想是逛庙的，待我问来。\n啊，三位敢是逛庙的么？"
+          "text": "且住！适才闻得店家言道：今日乃西湖庙会之期，甚是热闹。只是不晓路径，"
+        },
+        {
+          "character": "裴玉莲",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "如何前去？看那旁有一伙人，想是逛庙的，待我问来。"
+        },
+        {
+          "character": "裴玉莲",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "啊，三位敢是逛庙的么？"
         },
         {
           "character": "张三、李四",
@@ -900,7 +1063,17 @@
         "singing_ratio": 0.167,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.167,
+        0.16,
+        0.72,
+        0.12,
+        0.7083,
+        5,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 5,
@@ -1362,7 +1535,17 @@
         "singing_ratio": 0.083,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.083,
+        0.0789,
+        0.8684,
+        0.0526,
+        0.8108,
+        7,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 6,
@@ -1429,7 +1612,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "是您不知道哇。方才不是有人给咱们了事来着吗？您走后，蕙娘就跟那小子眉\n来眼去。嘿，要不是我，您早当上这个啦！"
+          "text": "是您不知道哇。方才不是有人给咱们了事来着吗？您走后，蕙娘就跟那小子眉"
+        },
+        {
+          "character": "丑院子",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来眼去。嘿，要不是我，您早当上这个啦！"
         },
         {
           "character": null,
@@ -1562,7 +1752,21 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "骂声奴才真大胆，\n老爷面前进谗言。\n走上前来将你打！"
+          "text": "骂声奴才真大胆，"
+        },
+        {
+          "character": "李蕙娘",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "老爷面前进谗言。"
+        },
+        {
+          "character": "李蕙娘",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "走上前来将你打！"
         },
         {
           "character": null,
@@ -1583,7 +1787,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "大胆贱人尚巧言。\n手持钢刀将你斩！"
+          "text": "大胆贱人尚巧言。"
+        },
+        {
+          "character": "贾似道",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "手持钢刀将你斩！"
         },
         {
           "character": null,
@@ -1668,7 +1879,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.1562,
+        0.7812,
+        0.0625,
+        0.7097,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 7,
@@ -1696,14 +1917,35 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "我乃蕙娘鬼魂是也。只因前日游赏西湖，遇一少年公子，是我一见倾心。不想\n被恶奴看破，告知老贼，将我一刀杀死。是我阴魂不散，不免去至阎君殿前告\n他一状便了！"
+          "text": "我乃蕙娘鬼魂是也。只因前日游赏西湖，遇一少年公子，是我一见倾心。不想"
+        },
+        {
+          "character": "李蕙娘",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "被恶奴看破，告知老贼，将我一刀杀死。是我阴魂不散，不免去至阎君殿前告"
+        },
+        {
+          "character": "李蕙娘",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "他一状便了！"
         },
         {
           "character": "李蕙娘",
           "line_type": "二黄摇板",
           "musical_style": "二黄摇板",
           "style_family": "二黄",
-          "text": "这才是无端的大祸天降，\n冤魂鬼无归宿心意彷徨。"
+          "text": "这才是无端的大祸天降，"
+        },
+        {
+          "character": "李蕙娘",
+          "line_type": "二黄摇板",
+          "musical_style": "二黄摇板",
+          "style_family": "二黄",
+          "text": "冤魂鬼无归宿心意彷徨。"
         },
         {
           "character": null,
@@ -1724,7 +1966,17 @@
         "musical_styles": [
           "二黄摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        1.0,
+        0.5,
+        0.5,
+        0.0,
+        0.0,
+        1,
+        0.0,
+        0.5
+      ]
     },
     {
       "scene_index": 8,
@@ -1754,7 +2006,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "我乃阴曹阎君殿下掌案判官是也。今乃三、六、九日，开放酆都。\n众鬼卒，酆都去者！"
+          "text": "我乃阴曹阎君殿下掌案判官是也。今乃三、六、九日，开放酆都。"
+        },
+        {
+          "character": "判官",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "众鬼卒，酆都去者！"
         },
         {
           "character": null,
@@ -1803,7 +2062,14 @@
           "line_type": "二黄摇板",
           "musical_style": "二黄摇板",
           "style_family": "二黄",
-          "text": "都只为贾似道害我命丧，\n因此上求判爷代禀阎王。"
+          "text": "都只为贾似道害我命丧，"
+        },
+        {
+          "character": "李蕙娘",
+          "line_type": "二黄摇板",
+          "musical_style": "二黄摇板",
+          "style_family": "二黄",
+          "text": "因此上求判爷代禀阎王。"
         },
         {
           "character": "判官",
@@ -1838,7 +2104,21 @@
           "line_type": "二黄原板",
           "musical_style": "二黄原板",
           "style_family": "二黄",
-          "text": "有牛头和马面站立两边。\n作恶的一个个打入奈河间。\n见了阎君说根源。"
+          "text": "有牛头和马面站立两边。"
+        },
+        {
+          "character": "判官",
+          "line_type": "二黄原板",
+          "musical_style": "二黄原板",
+          "style_family": "二黄",
+          "text": "作恶的一个个打入奈河间。"
+        },
+        {
+          "character": "判官",
+          "line_type": "二黄原板",
+          "musical_style": "二黄原板",
+          "style_family": "二黄",
+          "text": "见了阎君说根源。"
         },
         {
           "character": null,
@@ -1879,7 +2159,17 @@
           "二黄导板",
           "二黄摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.375,
+        0.5625,
+        0.0625,
+        0.4,
+        3,
+        0.0,
+        0.375
+      ]
     },
     {
       "scene_index": 9,
@@ -1909,7 +2199,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "我乃五殿阎君是也。适才朝罢地藏王而归。\n掌案的：有何事议？"
+          "text": "我乃五殿阎君是也。适才朝罢地藏王而归。"
+        },
+        {
+          "character": "阎君",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "掌案的：有何事议？"
         },
         {
           "character": "判官",
@@ -1958,7 +2255,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "都只为游西湖被杀命丧，\n望阎君开大恩放我还阳。"
+          "text": "都只为游西湖被杀命丧，"
+        },
+        {
+          "character": "李蕙娘",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "望阎君开大恩放我还阳。"
         },
         {
           "character": "阎君",
@@ -1972,14 +2276,35 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "领旨！\n启阎君：蕙娘阳寿该活七十二岁，今方二十一岁身死，且与东斗星有百日姻缘\n之分。请阎君定夺。"
+          "text": "领旨！"
+        },
+        {
+          "character": "判官",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "启阎君：蕙娘阳寿该活七十二岁，今方二十一岁身死，且与东斗星有百日姻缘"
+        },
+        {
+          "character": "判官",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "之分。请阎君定夺。"
         },
         {
           "character": "阎君",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "既然如此，赐她阴阳宝扇，送她去到阳世与东斗星了却百日姻缘，再来复命。\n掩门！"
+          "text": "既然如此，赐她阴阳宝扇，送她去到阳世与东斗星了却百日姻缘，再来复命。"
+        },
+        {
+          "character": "阎君",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "掩门！"
         },
         {
           "character": null,
@@ -2030,7 +2355,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.1176,
+        0.8235,
+        0.0588,
+        0.5625,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 10,
@@ -2058,7 +2393,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "小子，贾六。只因那日游赏西湖，我家姨奶奶蕙娘，跟一个少年书生裴玉莲眉\n来眼去，被我看见，告知我家相爷。我家相爷将蕙娘杀死。这几天相爷又想起\n那个书生。是我说：“我知道这个书生住处。”今日奉了我家相爷之命，去请\n裴生。不免这就去，这就去。"
+          "text": "小子，贾六。只因那日游赏西湖，我家姨奶奶蕙娘，跟一个少年书生裴玉莲眉"
+        },
+        {
+          "character": "丑院子",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来眼去，被我看见，告知我家相爷。我家相爷将蕙娘杀死。这几天相爷又想起"
+        },
+        {
+          "character": "丑院子",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "那个书生。是我说：“我知道这个书生住处。”今日奉了我家相爷之命，去请"
+        },
+        {
+          "character": "丑院子",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "裴生。不免这就去，这就去。"
         },
         {
           "character": null,
@@ -2077,7 +2433,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.8,
+        0.2,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 11,
@@ -2297,7 +2663,17 @@
         "singing_ratio": 0.056,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.056,
+        0.05,
+        0.9,
+        0.05,
+        0.8421,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 12,
@@ -2481,7 +2857,17 @@
         "singing_ratio": 0.091,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.091,
+        0.0667,
+        0.7333,
+        0.2,
+        0.6429,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 13,
@@ -2509,14 +2895,35 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "我乃蕙娘鬼魂是也。只因前日游赏西湖，遇一少年公子，是我一见倾心。不想\n被恶奴看破，告知老贼，将我一刀杀死。是我阴魂不散，不免去至阎君殿前告\n他一状便了！"
+          "text": "我乃蕙娘鬼魂是也。只因前日游赏西湖，遇一少年公子，是我一见倾心。不想"
+        },
+        {
+          "character": "李蕙娘",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "被恶奴看破，告知老贼，将我一刀杀死。是我阴魂不散，不免去至阎君殿前告"
+        },
+        {
+          "character": "李蕙娘",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "他一状便了！"
         },
         {
           "character": "李蕙娘",
           "line_type": "二黄摇板",
           "musical_style": "二黄摇板",
           "style_family": "二黄",
-          "text": "这才是无端的大祸天降，\n冤魂鬼无归宿心意彷徨。"
+          "text": "这才是无端的大祸天降，"
+        },
+        {
+          "character": "李蕙娘",
+          "line_type": "二黄摇板",
+          "musical_style": "二黄摇板",
+          "style_family": "二黄",
+          "text": "冤魂鬼无归宿心意彷徨。"
         },
         {
           "character": null,
@@ -2535,7 +2942,17 @@
         "singing_ratio": 1.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        1.0,
+        0.5,
+        0.5,
+        0.0,
+        0.0,
+        1,
+        0.0,
+        0.5
+      ]
     },
     {
       "scene_index": 14,
@@ -2838,7 +3255,17 @@
         "singing_ratio": 0.174,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.174,
+        0.303,
+        0.697,
+        0.0,
+        0.625,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 15,
@@ -2991,7 +3418,17 @@
         "singing_ratio": 0.25,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.25,
+        0.2727,
+        0.6364,
+        0.0909,
+        0.6,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 16,
@@ -3236,7 +3673,17 @@
         "singing_ratio": 0.133,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.133,
+        0.2609,
+        0.7391,
+        0.0,
+        0.4545,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 17,
@@ -3297,7 +3744,17 @@
         "singing_ratio": 0.5,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.5,
+        0.5,
+        0.5,
+        0.0,
+        1.0,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 18,
@@ -3418,7 +3875,17 @@
         "singing_ratio": 0.111,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.111,
+        0.1111,
+        0.8889,
+        0.0,
+        0.875,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 19,
@@ -3588,7 +4055,17 @@
         "singing_ratio": 0.333,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.333,
+        0.4286,
+        0.5714,
+        0.0,
+        0.5385,
+        2,
+        0.0,
+        0.0
+      ]
     }
   ]
 }

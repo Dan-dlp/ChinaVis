@@ -113,7 +113,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.5,
+        0.5,
+        0.0,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -233,7 +243,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "咱俩来试验试验。\n那旁来的，敢是哥哥？"
+          "text": "咱俩来试验试验。"
+        },
+        {
+          "character": "赵美容",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "那旁来的，敢是哥哥？"
         },
         {
           "character": "罗雁",
@@ -296,24 +313,59 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "把一个美使女扮成了解元。\n但不知何日里才到龙山。"
+          "text": "把一个美使女扮成了解元。"
         },
         {
-          "character": "怕的是在途中行走不便、罗雁",
+          "character": "赵美容",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "但不知何日里才到龙山。"
+        },
+        {
+          "character": "赵美容",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "怕的是在途中行走不便"
+        },
+        {
+          "character": "罗雁",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
           "text": "中途路我这里仔细观看，"
         },
         {
-          "character": "看小姐容貌儿好似天仙、赵美容",
+          "character": "罗雁",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "正行走睁双睛举目观望，\n又只见大路牌挂在面前。"
+          "text": "看小姐容貌儿好似天仙"
         },
         {
-          "character": "看小姐容貌儿好似天仙、赵美容",
+          "character": "赵美容",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "正行走睁双睛举目观望，"
+        },
+        {
+          "character": "赵美容",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "又只见大路牌挂在面前。"
+        },
+        {
+          "character": "赵美容",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "看小姐容貌儿好似天仙"
+        },
+        {
+          "character": "赵美容",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -527,7 +579,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "妇道人家吃醉了耽误你的大事。你们安眠了吧，待我将门闭上，留神灯火。\n呔，女娃子，店前来了两只羊，公羊为娘捆住了，那只母羊吾儿把刀磨快杀死，\n我们大接财神。"
+          "text": "妇道人家吃醉了耽误你的大事。你们安眠了吧，待我将门闭上，留神灯火。"
+        },
+        {
+          "character": "李氏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "呔，女娃子，店前来了两只羊，公羊为娘捆住了，那只母羊吾儿把刀磨快杀死，"
+        },
+        {
+          "character": "李氏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我们大接财神。"
         },
         {
           "character": null,
@@ -541,7 +607,21 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "赵美容坐店房自思自叹，\n思想起家园事好不伤惨。\n见长兄想计谋好报仇冤。"
+          "text": "赵美容坐店房自思自叹，"
+        },
+        {
+          "character": "赵美容",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "思想起家园事好不伤惨。"
+        },
+        {
+          "character": "赵美容",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "见长兄想计谋好报仇冤。"
         },
         {
           "character": null,
@@ -576,10 +656,24 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "听樵楼打罢了三更已转。\n管叫你小佳人命不周全。"
+          "text": "听樵楼打罢了三更已转。"
         },
         {
-          "character": "进房内且把他一刀两断、赵美容",
+          "character": "周凤英",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "管叫你小佳人命不周全。"
+        },
+        {
+          "character": "周凤英",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "进房内且把他一刀两断"
+        },
+        {
+          "character": "赵美容",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -639,7 +733,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "站、站、站起来，哇呀呀，本大王就是铁打的心肠，也被你这女子哭软了。上\n面是你什么人？"
+          "text": "站、站、站起来，哇呀呀，本大王就是铁打的心肠，也被你这女子哭软了。上"
+        },
+        {
+          "character": "周凤英",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "面是你什么人？"
         },
         {
           "character": "赵美容",
@@ -667,7 +768,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "本大王从未见过吃醉了，什么叫做吃醉呢？待我看来。\n嗳唷妙吓！"
+          "text": "本大王从未见过吃醉了，什么叫做吃醉呢？待我看来。"
+        },
+        {
+          "character": "周凤英",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "嗳唷妙吓！"
         },
         {
           "character": null,
@@ -681,10 +789,31 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "见相公只生得十分俊雅，\n倒把我大王爷活活喜煞。\n到后店见我妈再提缘法。"
+          "text": "见相公只生得十分俊雅，"
         },
         {
-          "character": "适才间我顽耍你休害怕、赵美容",
+          "character": "周凤英",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "倒把我大王爷活活喜煞。"
+        },
+        {
+          "character": "周凤英",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "到后店见我妈再提缘法。"
+        },
+        {
+          "character": "周凤英",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "适才间我顽耍你休害怕"
+        },
+        {
+          "character": "赵美容",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -709,7 +838,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "适才间使钢刀将我唬煞，\n一霎时大王爷变出奴家。"
+          "text": "适才间使钢刀将我唬煞，"
+        },
+        {
+          "character": "赵美容",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "一霎时大王爷变出奴家。"
         },
         {
           "character": null,
@@ -723,7 +859,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "有婆儿听儿言满怀欢喜，\n到前店见相公来把亲提。"
+          "text": "有婆儿听儿言满怀欢喜，"
+        },
+        {
+          "character": "李氏",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "到前店见相公来把亲提。"
         },
         {
           "character": "李氏",
@@ -807,10 +950,31 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "我的父名赵恒官高爵显，\n都只为与奸贼结下仇冤。\n有小生本是个新科解元。"
+          "text": "我的父名赵恒官高爵显，"
         },
         {
-          "character": "我爹爹现在那南监之内、李氏",
+          "character": "罗雁",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "都只为与奸贼结下仇冤。"
+        },
+        {
+          "character": "罗雁",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "有小生本是个新科解元。"
+        },
+        {
+          "character": "罗雁",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我爹爹现在那南监之内"
+        },
+        {
+          "character": "李氏",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -870,7 +1034,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "哈，真乃少年之人，我婆儿提了亲事，他就羞得面红过耳，如若不从，如何是\n好。哦，待我唤女儿出来。\n呔，女儿快来，女儿快来。"
+          "text": "哈，真乃少年之人，我婆儿提了亲事，他就羞得面红过耳，如若不从，如何是"
+        },
+        {
+          "character": "李氏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "好。哦，待我唤女儿出来。"
+        },
+        {
+          "character": "李氏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "呔，女儿快来，女儿快来。"
         },
         {
           "character": null,
@@ -947,7 +1125,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "丫头，你不好的面孔，你不要招他，如今这个好面孔，你倒把他杀了。看起来，\n你一辈子不用寻了。"
+          "text": "丫头，你不好的面孔，你不要招他，如今这个好面孔，你倒把他杀了。看起来，"
+        },
+        {
+          "character": "李氏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "你一辈子不用寻了。"
         },
         {
           "character": "周凤英",
@@ -968,14 +1153,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "想是没有见过儿的面孔，待儿与他见上一礼，他见了儿长得好看，将儿搂下也\n是有的。"
+          "text": "想是没有见过儿的面孔，待儿与他见上一礼，他见了儿长得好看，将儿搂下也"
+        },
+        {
+          "character": "周凤英",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "是有的。"
         },
         {
           "character": "李氏",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "待为娘说来吓。\n赵小姐请来。"
+          "text": "待为娘说来吓。"
+        },
+        {
+          "character": "李氏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "赵小姐请来。"
         },
         {
           "character": "赵美容",
@@ -1059,7 +1258,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "他既是赵家公子，走上前来，就该深施一礼，怎么他又施礼又下拜？那不成了\n个二乙子礼了。"
+          "text": "他既是赵家公子，走上前来，就该深施一礼，怎么他又施礼又下拜？那不成了"
+        },
+        {
+          "character": "李氏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "个二乙子礼了。"
         },
         {
           "character": "周凤英",
@@ -1150,7 +1356,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "待我说去。\n哥哥，他家小姐要与哥哥扎枪比武。"
+          "text": "待我说去。"
+        },
+        {
+          "character": "赵美容",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "哥哥，他家小姐要与哥哥扎枪比武。"
         },
         {
           "character": "罗雁",
@@ -1185,7 +1398,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "赵小姐，你这个人不好，你哥哥说会，你怎么说不会，你我站在高岗之上，看\n个花红热闹。"
+          "text": "赵小姐，你这个人不好，你哥哥说会，你怎么说不会，你我站在高岗之上，看"
+        },
+        {
+          "character": "李氏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "个花红热闹。"
         },
         {
           "character": "赵美容",
@@ -1297,7 +1517,17 @@
         "singing_ratio": 0.06,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.06,
+        0.1598,
+        0.8343,
+        0.0059,
+        0.7679,
+        5,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -1324,21 +1554,77 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "今日乃是我儿大喜之事，不免去请阴阳，选个好时辰吓。来此已是。\n开门来！\n（阴阳师上，下。李氏请赵美容、罗雁、周凤英同上，拜天地。众人同下。众人同上，入洞房。赵美容、李\n氏同下。〖起初更鼓〗。）"
+          "text": "今日乃是我儿大喜之事，不免去请阴阳，选个好时辰吓。来此已是。"
+        },
+        {
+          "character": "李氏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "开门来！"
+        },
+        {
+          "character": "李氏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "（阴阳师上，下。李氏请赵美容、罗雁、周凤英同上，拜天地。众人同下。众人同上，入洞房。赵美容、李"
+        },
+        {
+          "character": "李氏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "氏同下。〖起初更鼓〗。）"
         },
         {
           "character": "罗雁",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "我罗雁保定小姐来到店房，那妈妈将女儿与我为婚，时才拜了天地，入了洞房。\n今夜花烛之事，哎呀，好难吓！"
+          "text": "我罗雁保定小姐来到店房，那妈妈将女儿与我为婚，时才拜了天地，入了洞房。"
+        },
+        {
+          "character": "罗雁",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "今夜花烛之事，哎呀，好难吓！"
         },
         {
           "character": "罗雁",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "进店来老妈妈一眼错看，\n他把我当做了赵家解元。\n见小姐容貌儿亚赛天仙。\n细思想我二人俱是一般。\n好华铺开酒馆无有本钱。"
+          "text": "进店来老妈妈一眼错看，"
+        },
+        {
+          "character": "罗雁",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "他把我当做了赵家解元。"
+        },
+        {
+          "character": "罗雁",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "见小姐容貌儿亚赛天仙。"
+        },
+        {
+          "character": "罗雁",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "细思想我二人俱是一般。"
+        },
+        {
+          "character": "罗雁",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "好华铺开酒馆无有本钱。"
         },
         {
           "character": null,
@@ -1359,7 +1645,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "揭罗纬观一观新科的解元。\n见相公容貌亚赛潘安。"
+          "text": "揭罗纬观一观新科的解元。"
+        },
+        {
+          "character": "周凤英",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "见相公容貌亚赛潘安。"
         },
         {
           "character": null,
@@ -1422,45 +1715,150 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "见小姐她待我十分恩爱，\n罗裙带紧塞扣永不松开。"
+          "text": "见小姐她待我十分恩爱，"
         },
         {
-          "character": "她怎知我是个女儿裙钗、怕的是今夜晚偷营劫寨、周凤英",
+          "character": "罗雁",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "解元爷上床去一人安眠，\n引得我女孩家意马心猿。"
+          "text": "罗裙带紧塞扣永不松开。"
         },
         {
-          "character": "她怎知我是个女儿裙钗、怕的是今夜晚偷营劫寨、周凤英",
+          "character": "罗雁",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "她怎知我是个女儿裙钗"
+        },
+        {
+          "character": "罗雁",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "怕的是今夜晚偷营劫寨"
+        },
+        {
+          "character": "周凤英",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "解元爷上床去一人安眠，"
+        },
+        {
+          "character": "周凤英",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "引得我女孩家意马心猿。"
+        },
+        {
+          "character": "周凤英",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "她怎知我是个女儿裙钗"
+        },
+        {
+          "character": "周凤英",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "怕的是今夜晚偷营劫寨"
+        },
+        {
+          "character": "周凤英",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "吓，且住，那相公上床去安眠，叫我如何忍耐得过，不免脱了衣服上床与他现\n眠了罢。"
+          "text": "吓，且住，那相公上床去安眠，叫我如何忍耐得过，不免脱了衣服上床与他现"
         },
         {
-          "character": "她怎知我是个女儿裙钗、怕的是今夜晚偷营劫寨、周凤英",
+          "character": "周凤英",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "眠了罢。"
+        },
+        {
+          "character": "周凤英",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "她怎知我是个女儿裙钗"
+        },
+        {
+          "character": "周凤英",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "怕的是今夜晚偷营劫寨"
+        },
+        {
+          "character": "周凤英",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
           "text": "我只得解下了罗裙带，"
         },
         {
-          "character": "她怎知我是个女儿裙钗、怕的是今夜晚偷营劫寨、周凤英",
+          "character": "周凤英",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "她怎知我是个女儿裙钗"
+        },
+        {
+          "character": "周凤英",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "怕的是今夜晚偷营劫寨"
+        },
+        {
+          "character": "周凤英",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
           "text": "呀！"
         },
         {
-          "character": "她怎知我是个女儿裙钗、怕的是今夜晚偷营劫寨、周凤英",
+          "character": "周凤英",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "她怎知我是个女儿裙钗"
+        },
+        {
+          "character": "周凤英",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "怕的是今夜晚偷营劫寨"
+        },
+        {
+          "character": "周凤英",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
           "text": "拨朝靴见金莲露了出来。"
         },
         {
-          "character": "她怎知我是个女儿裙钗、怕的是今夜晚偷营劫寨、周凤英",
+          "character": "周凤英",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "她怎知我是个女儿裙钗"
+        },
+        {
+          "character": "周凤英",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "怕的是今夜晚偷营劫寨"
+        },
+        {
+          "character": "周凤英",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -1520,7 +1918,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "呀呸。\n赵小姐快来！"
+          "text": "呀呸。"
+        },
+        {
+          "character": "李氏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "赵小姐快来！"
         },
         {
           "character": null,
@@ -1548,7 +1953,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "骂声狂徒好大胆，\n假扮男子罪非常。"
+          "text": "骂声狂徒好大胆，"
+        },
+        {
+          "character": "周凤英",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "假扮男子罪非常。"
         },
         {
           "character": "赵美容",
@@ -1569,28 +1981,70 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "进店来我的娘一眼错看，\n你把她当作了赵家解元。\n又谁知她与我俱是一般。"
+          "text": "进店来我的娘一眼错看，"
         },
         {
-          "character": "儿只说今夜晚与她鏖战、李氏",
+          "character": "周凤英",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "你把她当作了赵家解元。"
+        },
+        {
+          "character": "周凤英",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "又谁知她与我俱是一般。"
+        },
+        {
+          "character": "周凤英",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "儿只说今夜晚与她鏖战"
+        },
+        {
+          "character": "李氏",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "事已如此，你埋怨为娘也是无益了。\n赵小姐你把她叫起来吧。"
+          "text": "事已如此，你埋怨为娘也是无益了。"
+        },
+        {
+          "character": "李氏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "赵小姐你把她叫起来吧。"
         },
         {
           "character": "赵美容",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "是。\n哥哥醒来，哥哥醒来。"
+          "text": "是。"
+        },
+        {
+          "character": "赵美容",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "哥哥醒来，哥哥醒来。"
         },
         {
           "character": "罗雁",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "好睡吓，好睡。\n丈母娘，小生有礼。"
+          "text": "好睡吓，好睡。"
+        },
+        {
+          "character": "罗雁",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "丈母娘，小生有礼。"
         },
         {
           "character": "李氏",
@@ -1742,7 +2196,17 @@
         "musical_styles": [
           "西皮导板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.114,
+        0.3718,
+        0.5769,
+        0.0513,
+        0.4286,
+        4,
+        0.0128,
+        0.0
+      ]
     }
   ]
 }

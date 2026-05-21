@@ -185,7 +185,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "俺，孙乾。奉了主公之命，长亭备宴，与公子刘琦饯行。\n来，打道长亭！"
+          "text": "俺，孙乾。奉了主公之命，长亭备宴，与公子刘琦饯行。"
+        },
+        {
+          "character": "孙乾",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来，打道长亭！"
         },
         {
           "character": "四文堂、二青袍",
@@ -217,7 +224,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.5,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -254,24 +271,94 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "为叔与侄亲送行。\n恨只恨蔡瑁嫉妒心。\n为叔看破巧计生。\n跳跃潭溪万丈深。"
+          "text": "为叔与侄亲送行。"
         },
         {
-          "character": "并马同行把话论、席前暗把刀兵隐、这匹的卢快的紧、刘琦",
+          "character": "刘备",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "倒是叔父有福份，\n方得此马有救星。\n吉人天相话果真。"
+          "text": "恨只恨蔡瑁嫉妒心。"
         },
         {
-          "character": "又道是邪不能侵正、刘备",
+          "character": "刘备",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "为叔看破巧计生。"
+        },
+        {
+          "character": "刘备",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "跳跃潭溪万丈深。"
+        },
+        {
+          "character": "刘备",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "并马同行把话论"
+        },
+        {
+          "character": "刘备",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "席前暗把刀兵隐"
+        },
+        {
+          "character": "刘备",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "这匹的卢快的紧"
+        },
+        {
+          "character": "刘琦",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "倒是叔父有福份，"
+        },
+        {
+          "character": "刘琦",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "方得此马有救星。"
+        },
+        {
+          "character": "刘琦",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "吉人天相话果真。"
+        },
+        {
+          "character": "刘琦",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "又道是邪不能侵正"
+        },
+        {
+          "character": "刘备",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
           "text": "来在长亭下金镫，"
         },
         {
-          "character": "又道是邪不能侵正、刘备",
+          "character": "刘备",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "又道是邪不能侵正"
+        },
+        {
+          "character": "刘备",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -289,14 +376,77 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "我与贤侄来饯行。\n福寿长春多康宁。\n继母台前加殷勤。\n免叫你父两难心。\n饮毕急速转回程。"
+          "text": "我与贤侄来饯行。"
         },
         {
-          "character": "但愿你父身无病、相劝贤侄多谨慎、早晚之间多孝顺、贤侄请来把酒饮、刘琦",
+          "character": "刘备",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "谢过叔父多恭敬，\n感念待侄厚恩情。"
+          "text": "福寿长春多康宁。"
+        },
+        {
+          "character": "刘备",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "继母台前加殷勤。"
+        },
+        {
+          "character": "刘备",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "免叫你父两难心。"
+        },
+        {
+          "character": "刘备",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "饮毕急速转回程。"
+        },
+        {
+          "character": "刘备",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "但愿你父身无病"
+        },
+        {
+          "character": "刘备",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "相劝贤侄多谨慎"
+        },
+        {
+          "character": "刘备",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "早晚之间多孝顺"
+        },
+        {
+          "character": "刘备",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "贤侄请来把酒饮"
+        },
+        {
+          "character": "刘琦",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "谢过叔父多恭敬，"
+        },
+        {
+          "character": "刘琦",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "感念待侄厚恩情。"
         },
         {
           "character": null,
@@ -324,7 +474,35 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "刘琦上马心难忍，\n席前对我叙伤情。\n只恐刘琦丧残生。\n难免孙、曹动刀兵。\n人马纷纷进东门。"
+          "text": "刘琦上马心难忍，"
+        },
+        {
+          "character": "刘备",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "席前对我叙伤情。"
+        },
+        {
+          "character": "刘备",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "只恐刘琦丧残生。"
+        },
+        {
+          "character": "刘备",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "难免孙、曹动刀兵。"
+        },
+        {
+          "character": "刘备",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "人马纷纷进东门。"
         },
         {
           "character": null,
@@ -353,7 +531,17 @@
         "singing_ratio": 1.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        1.0,
+        0.9688,
+        0.0312,
+        0.0,
+        0.129,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -407,21 +595,63 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "日前水镜来指引，\n急速投奔新野城。"
-        },
-        {
-          "character": "徐庶",
-          "line_type": "白",
-          "musical_style": null,
-          "style_family": null,
-          "text": "俺，姓徐名庶，字表元直。乃颍州人氏。只因抱打不平，伤害人命，是我用粉\n涂面披发而逃，改名单福，流落他乡，遍访名师，结交良友，讲天论地，说王\n讲霸，虽无移山倒海之能，实有经天纬地之手。只因那一日在水镜先生家借宿，\n那司马德操指引于我，转来新野，投奔刘备。远远望见玄德公人马来也。待\n我在此吟歌，打动于他便了！"
+          "text": "日前水镜来指引，"
         },
         {
           "character": "徐庶",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "将身站立且候等，\n吟歌打动他人听。"
+          "text": "急速投奔新野城。"
+        },
+        {
+          "character": "徐庶",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "俺，姓徐名庶，字表元直。乃颍州人氏。只因抱打不平，伤害人命，是我用粉"
+        },
+        {
+          "character": "徐庶",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "涂面披发而逃，改名单福，流落他乡，遍访名师，结交良友，讲天论地，说王"
+        },
+        {
+          "character": "徐庶",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "讲霸，虽无移山倒海之能，实有经天纬地之手。只因那一日在水镜先生家借宿，"
+        },
+        {
+          "character": "徐庶",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "那司马德操指引于我，转来新野，投奔刘备。远远望见玄德公人马来也。待"
+        },
+        {
+          "character": "徐庶",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我在此吟歌，打动于他便了！"
+        },
+        {
+          "character": "徐庶",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "将身站立且候等，"
+        },
+        {
+          "character": "徐庶",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "吟歌打动他人听。"
         },
         {
           "character": null,
@@ -435,7 +665,35 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "天地反复，\n人类欲殂；\n一木难扶。\n要投明主；\n却不知吾。"
+          "text": "天地反复，"
+        },
+        {
+          "character": "徐庶",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "人类欲殂；"
+        },
+        {
+          "character": "徐庶",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "一木难扶。"
+        },
+        {
+          "character": "徐庶",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "要投明主；"
+        },
+        {
+          "character": "徐庶",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "却不知吾。"
         },
         {
           "character": "徐庶",
@@ -463,28 +721,231 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "勒住丝缰来观定，\n不由心中暗沉吟。\n歌语清奇品貌尊。\n凤雏、卧龙二贤臣。\n汉家基业定重兴。\n卧龙、凤雏有一人。\n走向前来礼相迎。\n足见台驾甚高明。\n不才眼内少识人。\n略进粗茗表寸心。"
+          "text": "勒住丝缰来观定，"
         },
         {
-          "character": "看这先生非凡品、水镜先生对我论、二位贤臣并相请、莫非今日巧相遇、弃镫离鞍下能行、方才歌词妙得紧、光临新野三生幸、刘备前来把驾请、徐庶",
+          "character": "刘备",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "不由心中暗沉吟。"
+        },
+        {
+          "character": "刘备",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "歌语清奇品貌尊。"
+        },
+        {
+          "character": "刘备",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "凤雏、卧龙二贤臣。"
+        },
+        {
+          "character": "刘备",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "汉家基业定重兴。"
+        },
+        {
+          "character": "刘备",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "卧龙、凤雏有一人。"
+        },
+        {
+          "character": "刘备",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "走向前来礼相迎。"
+        },
+        {
+          "character": "刘备",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "足见台驾甚高明。"
+        },
+        {
+          "character": "刘备",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "不才眼内少识人。"
+        },
+        {
+          "character": "刘备",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "略进粗茗表寸心。"
+        },
+        {
+          "character": "刘备",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "看这先生非凡品"
+        },
+        {
+          "character": "刘备",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "水镜先生对我论"
+        },
+        {
+          "character": "刘备",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "二位贤臣并相请"
+        },
+        {
+          "character": "刘备",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "莫非今日巧相遇"
+        },
+        {
+          "character": "刘备",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "弃镫离鞍下能行"
+        },
+        {
+          "character": "刘备",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "方才歌词妙得紧"
+        },
+        {
+          "character": "刘备",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "光临新野三生幸"
+        },
+        {
+          "character": "刘备",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "刘备前来把驾请"
+        },
+        {
+          "character": "徐庶",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
           "text": "哎呀，不敢当！"
         },
         {
-          "character": "看这先生非凡品、水镜先生对我论、二位贤臣并相请、莫非今日巧相遇、弃镫离鞍下能行、方才歌词妙得紧、光临新野三生幸、刘备前来把驾请、徐庶",
-          "line_type": "唱",
+          "character": "徐庶",
+          "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "萍水相逢怎相肯，\n不才是个白衣人。\n高攀大驾现丑行。"
+          "text": "看这先生非凡品"
         },
         {
-          "character": "既承呼唤我遵命、刘备",
+          "character": "徐庶",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "水镜先生对我论"
+        },
+        {
+          "character": "徐庶",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "二位贤臣并相请"
+        },
+        {
+          "character": "徐庶",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "莫非今日巧相遇"
+        },
+        {
+          "character": "徐庶",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "弃镫离鞍下能行"
+        },
+        {
+          "character": "徐庶",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "方才歌词妙得紧"
+        },
+        {
+          "character": "徐庶",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "光临新野三生幸"
+        },
+        {
+          "character": "徐庶",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "刘备前来把驾请"
+        },
+        {
+          "character": "徐庶",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "你我挽手衙署进，\n众位将军随后跟。"
+          "text": "萍水相逢怎相肯，"
+        },
+        {
+          "character": "徐庶",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "不才是个白衣人。"
+        },
+        {
+          "character": "徐庶",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "高攀大驾现丑行。"
+        },
+        {
+          "character": "徐庶",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "既承呼唤我遵命"
+        },
+        {
+          "character": "刘备",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "你我挽手衙署进，"
+        },
+        {
+          "character": "刘备",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "众位将军随后跟。"
         },
         {
           "character": null,
@@ -501,7 +962,14 @@
           "text": "重新见礼分主宾。"
         },
         {
-          "character": "左右快把茶来敬、刘备",
+          "character": "刘备",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "左右快把茶来敬"
+        },
+        {
+          "character": "刘备",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -519,21 +987,63 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "带笑开言把话云。\n尊姓高名备愿闻。"
+          "text": "带笑开言把话云。"
         },
         {
-          "character": "请问仙乡居何境、徐庶",
+          "character": "刘备",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "若问在下名和姓，\n祖籍原是颍州人。\n皆因久闻使君名。"
+          "text": "尊姓高名备愿闻。"
         },
         {
-          "character": "请问仙乡居何境、徐庶",
+          "character": "刘备",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "请问仙乡居何境"
+        },
+        {
+          "character": "徐庶",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "若问在下名和姓，"
+        },
+        {
+          "character": "徐庶",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "祖籍原是颍州人。"
+        },
+        {
+          "character": "徐庶",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "皆因久闻使君名。"
+        },
+        {
+          "character": "徐庶",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "请问仙乡居何境"
+        },
+        {
+          "character": "徐庶",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "贫道久闻使君招贤纳士，特来相访，未敢轻自造次，故尔狂歌于市。幸遇明公\n不弃，实遂我平生之愿也！"
+          "text": "贫道久闻使君招贤纳士，特来相访，未敢轻自造次，故尔狂歌于市。幸遇明公"
+        },
+        {
+          "character": "徐庶",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "不弃，实遂我平生之愿也！"
         },
         {
           "character": null,
@@ -568,7 +1078,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "喂呀，那晚水镜先生家来了一人借宿，是我窃听，水镜先生把那人以元直称之，\n原来却是此人，想来是一位大贤也，哈哈哈……"
+          "text": "喂呀，那晚水镜先生家来了一人借宿，是我窃听，水镜先生把那人以元直称之，"
+        },
+        {
+          "character": "刘备",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "原来却是此人，想来是一位大贤也，哈哈哈……"
         },
         {
           "character": null,
@@ -638,7 +1155,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "此话应验过了。此马乃江夏逆叛张武坐骑，张武死于阵前；日前马跳潭溪，全\n仗此马。"
+          "text": "此话应验过了。此马乃江夏逆叛张武坐骑，张武死于阵前；日前马跳潭溪，全"
+        },
+        {
+          "character": "刘备",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "仗此马。"
         },
         {
           "character": "徐庶",
@@ -659,14 +1183,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "此法轻易不传与人。将此马送与相好的朋友，他骑妨死了他，明公再骑，永久\n安稳。"
+          "text": "此法轻易不传与人。将此马送与相好的朋友，他骑妨死了他，明公再骑，永久"
+        },
+        {
+          "character": "徐庶",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "安稳。"
         },
         {
           "character": "刘备",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "哈哈哈……看茶来，这位客人还要趱路，此处地方窄小，也不敢相留尊驾，有\n误途程！"
+          "text": "哈哈哈……看茶来，这位客人还要趱路，此处地方窄小，也不敢相留尊驾，有"
+        },
+        {
+          "character": "刘备",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "误途程！"
         },
         {
           "character": "徐庶",
@@ -680,35 +1218,126 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "带笑开言自夸奖，\n尊声明公听端详：\n招贤礼士果非常。\n如此轻慢为哪椿？"
-        },
-        {
-          "character": "素闻使君宽洪量、不远千里来投往、刘备",
-          "line_type": "白",
-          "musical_style": null,
-          "style_family": null,
-          "text": "备不才，虽不敢言招贤纳士，却也识人。并非面憎尊驾。汝初到新野，理该教\n我行好事，作好人，才是正理；却怎么反教我损人利己？我若用你言，坏我一\n世声名。我这里用你不着，请！"
-        },
-        {
-          "character": "徐庶",
-          "line_type": "白",
-          "musical_style": null,
-          "style_family": null,
-          "text": "哈哈哈……哎呀，怪不得人人都说明公广行仁德，是我不肯深信，故用此言相\n试。果然如此，可见得话不虚传。明公有如此海量，何愁霸业不成！我愿尽力\n扶保，共成大事！"
+          "text": "带笑开言自夸奖，"
         },
         {
           "character": "徐庶",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "腹中暗自赞水镜，\n所说之言俱是真。"
+          "text": "尊声明公听端详："
+        },
+        {
+          "character": "徐庶",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "招贤礼士果非常。"
+        },
+        {
+          "character": "徐庶",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "如此轻慢为哪椿？"
+        },
+        {
+          "character": "徐庶",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "素闻使君宽洪量"
+        },
+        {
+          "character": "徐庶",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "不远千里来投往"
+        },
+        {
+          "character": "刘备",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "备不才，虽不敢言招贤纳士，却也识人。并非面憎尊驾。汝初到新野，理该教"
+        },
+        {
+          "character": "刘备",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我行好事，作好人，才是正理；却怎么反教我损人利己？我若用你言，坏我一"
+        },
+        {
+          "character": "刘备",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "世声名。我这里用你不着，请！"
+        },
+        {
+          "character": "徐庶",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "哈哈哈……哎呀，怪不得人人都说明公广行仁德，是我不肯深信，故用此言相"
+        },
+        {
+          "character": "徐庶",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "试。果然如此，可见得话不虚传。明公有如此海量，何愁霸业不成！我愿尽力"
+        },
+        {
+          "character": "徐庶",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "扶保，共成大事！"
+        },
+        {
+          "character": "徐庶",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "腹中暗自赞水镜，"
+        },
+        {
+          "character": "徐庶",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "所说之言俱是真。"
         },
         {
           "character": "刘备",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "品貌不俗多端正，\n水镜先生认识人。\n人伴贤良智略深。\n为何单提马妨主？"
+          "text": "品貌不俗多端正，"
+        },
+        {
+          "character": "刘备",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "水镜先生认识人。"
+        },
+        {
+          "character": "刘备",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "人伴贤良智略深。"
+        },
+        {
+          "character": "刘备",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "为何单提马妨主？"
         },
         {
           "character": "刘备",
@@ -722,14 +1351,28 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "想必试探我的心。\n祸福共之永不分。"
+          "text": "想必试探我的心。"
+        },
+        {
+          "character": "刘备",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "祸福共之永不分。"
         },
         {
           "character": "刘备",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "我刘备就拜你为军师，执掌新野大军。\n来，看宴伺候！"
+          "text": "我刘备就拜你为军师，执掌新野大军。"
+        },
+        {
+          "character": "刘备",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来，看宴伺候！"
         },
         {
           "character": null,
@@ -750,7 +1393,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "请！\n众位将军请！"
+          "text": "请！"
+        },
+        {
+          "character": "徐庶",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "众位将军请！"
         },
         {
           "character": "关羽、张飞、赵云",
@@ -820,17 +1470,73 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "前者探马来禀报，\n曹操遣将镇樊城。\n虎视湖广起贪心。\n定是先取新野城。"
+          "text": "前者探马来禀报，"
         },
         {
-          "character": "要图荆襄两城郡、今日发兵来犯境、徐庶",
+          "character": "刘备",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "兵来将挡古明论，\n速派大军退敌人。\n护卫新野众黎民。"
+          "text": "曹操遣将镇樊城。"
         },
         {
-          "character": "明公听我传将令、刘备",
+          "character": "刘备",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "虎视湖广起贪心。"
+        },
+        {
+          "character": "刘备",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "定是先取新野城。"
+        },
+        {
+          "character": "刘备",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "要图荆襄两城郡"
+        },
+        {
+          "character": "刘备",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "今日发兵来犯境"
+        },
+        {
+          "character": "徐庶",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "兵来将挡古明论，"
+        },
+        {
+          "character": "徐庶",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "速派大军退敌人。"
+        },
+        {
+          "character": "徐庶",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "护卫新野众黎民。"
+        },
+        {
+          "character": "徐庶",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "明公听我传将令"
+        },
+        {
+          "character": "刘备",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -848,56 +1554,168 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "张将军近前听密令，\n速去挑选一千兵。\n曹兵来时休战征。\n奋勇杀敌莫消停。"
+          "text": "张将军近前听密令，"
         },
         {
-          "character": "离城百里埋伏隐、待等曹兵败了阵、张飞",
+          "character": "徐庶",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "速去挑选一千兵。"
+        },
+        {
+          "character": "徐庶",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "曹兵来时休战征。"
+        },
+        {
+          "character": "徐庶",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "奋勇杀敌莫消停。"
+        },
+        {
+          "character": "徐庶",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "离城百里埋伏隐"
+        },
+        {
+          "character": "徐庶",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "待等曹兵败了阵"
+        },
+        {
+          "character": "张飞",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
           "text": "得令！"
         },
         {
-          "character": "离城百里埋伏隐、待等曹兵败了阵、张飞",
+          "character": "张飞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "离城百里埋伏隐"
+        },
+        {
+          "character": "张飞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "待等曹兵败了阵"
+        },
+        {
+          "character": "张飞",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "先生命我把兵领，\n曹兵败阵照此行。"
+          "text": "先生命我把兵领，"
+        },
+        {
+          "character": "张飞",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "曹兵败阵照此行。"
         },
         {
           "character": "徐庶",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "急忙再传二支令，\n尊声常山赵将军：\n攻打头阵起战争。"
+          "text": "急忙再传二支令，"
         },
         {
-          "character": "挑选精军一千整、赵云",
+          "character": "徐庶",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "尊声常山赵将军："
+        },
+        {
+          "character": "徐庶",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "攻打头阵起战争。"
+        },
+        {
+          "character": "徐庶",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "挑选精军一千整"
+        },
+        {
+          "character": "赵云",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
           "text": "得令。"
         },
         {
-          "character": "挑选精军一千整、赵云",
+          "character": "赵云",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "挑选精军一千整"
+        },
+        {
+          "character": "赵云",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "遵奉将令挡头阵，\n奋勇杀贼退敌人。"
+          "text": "遵奉将令挡头阵，"
+        },
+        {
+          "character": "赵云",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "奋勇杀贼退敌人。"
         },
         {
           "character": "徐庶",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "安排兵将新野镇，\n拦挡樊城众曹兵。"
+          "text": "安排兵将新野镇，"
+        },
+        {
+          "character": "徐庶",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "拦挡樊城众曹兵。"
         },
         {
           "character": "刘备",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "保护城池防范紧，\n且听探马报信音。\n全仗你的韬略精。"
+          "text": "保护城池防范紧，"
+        },
+        {
+          "character": "刘备",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "且听探马报信音。"
+        },
+        {
+          "character": "刘备",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "全仗你的韬略精。"
         },
         {
           "character": null,
@@ -979,7 +1797,17 @@
         "singing_ratio": 0.222,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.222,
+        0.5629,
+        0.4371,
+        0.0,
+        0.26,
+        8,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 4,
@@ -1031,14 +1859,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "你我二人奉了曹仁将军命令，攻取新野，离城三十余里，看前面来了一支人马，\n必是新野兵将。你我迎上前去！"
+          "text": "你我二人奉了曹仁将军命令，攻取新野，离城三十余里，看前面来了一支人马，"
+        },
+        {
+          "character": "吕旷",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "必是新野兵将。你我迎上前去！"
         },
         {
           "character": "吕翔",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "言之有理。\n众将官，杀！"
+          "text": "言之有理。"
+        },
+        {
+          "character": "吕翔",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "众将官，杀！"
         },
         {
           "character": "众人",
@@ -1133,7 +1975,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.9286,
+        0.0714,
+        0.7692,
+        5,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 5,
@@ -1241,7 +2093,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "好哇！\n众兵丁，人马转回新野！"
+          "text": "好哇！"
+        },
+        {
+          "character": "张飞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "众兵丁，人马转回新野！"
         },
         {
           "character": "众人",
@@ -1289,7 +2148,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.9167,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 6,
@@ -1314,7 +2183,35 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "先生果然韬略广，\n谈论兵机妙策强。\n惯战能征翼德张；\n他的威风赛虎狼。\n且听探马报端详。"
+          "text": "先生果然韬略广，"
+        },
+        {
+          "character": "刘备",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "谈论兵机妙策强。"
+        },
+        {
+          "character": "刘备",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "惯战能征翼德张；"
+        },
+        {
+          "character": "刘备",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "他的威风赛虎狼。"
+        },
+        {
+          "character": "刘备",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "且听探马报端详。"
         },
         {
           "character": null,
@@ -1377,7 +2274,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "小弟候曹兵败回，截杀一阵，杀兵无数。那吕翔被我蛇矛挑死，命丧疆场。我\n二人回来在大哥、先生台前交令！"
+          "text": "小弟候曹兵败回，截杀一阵，杀兵无数。那吕翔被我蛇矛挑死，命丧疆场。我"
+        },
+        {
+          "character": "张飞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "二人回来在大哥、先生台前交令！"
         },
         {
           "character": "刘备",
@@ -1398,7 +2302,28 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "杀败曹兵魂胆丧，\n先生从此美名扬。\n仗你重整汉家邦。\n大家庆贺饮琼浆。"
+          "text": "杀败曹兵魂胆丧，"
+        },
+        {
+          "character": "刘备",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "先生从此美名扬。"
+        },
+        {
+          "character": "刘备",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "仗你重整汉家邦。"
+        },
+        {
+          "character": "刘备",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "大家庆贺饮琼浆。"
         },
         {
           "character": null,
@@ -1456,7 +2381,17 @@
         "singing_ratio": 0.182,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.182,
+        0.4737,
+        0.5263,
+        0.0,
+        0.5556,
+        6,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 7,
@@ -1485,10 +2420,52 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "交锋好似龙虎斗，\n一来一往统貔貅。\n要把新野化荒坵。\n且听探马报从头。"
+          "text": "交锋好似龙虎斗，"
         },
         {
-          "character": "吕旷、吕翔领兵走、将身且坐宝帐口、报子",
+          "character": "曹仁",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "一来一往统貔貅。"
+        },
+        {
+          "character": "曹仁",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "要把新野化荒坵。"
+        },
+        {
+          "character": "曹仁",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "且听探马报从头。"
+        },
+        {
+          "character": "曹仁",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "吕旷"
+        },
+        {
+          "character": "曹仁",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "吕翔领兵走"
+        },
+        {
+          "character": "曹仁",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "将身且坐宝帐口"
+        },
+        {
+          "character": "报子",
           "line_type": "内白",
           "musical_style": null,
           "style_family": null,
@@ -1541,28 +2518,105 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "听一言来冲牛斗，\n不由某家皱眉头。\n可叹二吕丧荒坵。\n不杀大耳誓不休！"
+          "text": "听一言来冲牛斗，"
         },
         {
-          "character": "新野竟敢威风有、人来与爷带走兽、李典",
+          "character": "曹仁",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "不由某家皱眉头。"
+        },
+        {
+          "character": "曹仁",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "可叹二吕丧荒坵。"
+        },
+        {
+          "character": "曹仁",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "不杀大耳誓不休！"
+        },
+        {
+          "character": "曹仁",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "新野竟敢威风有"
+        },
+        {
+          "character": "曹仁",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "人来与爷带走兽"
+        },
+        {
+          "character": "李典",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
           "text": "且慢！"
         },
         {
-          "character": "新野竟敢威风有、人来与爷带走兽、李典",
-          "line_type": "唱",
-          "musical_style": null,
-          "style_family": null,
-          "text": "元帅暂息雷霆吼，\n凡事须要用机谋。"
-        },
-        {
-          "character": "新野竟敢威风有、人来与爷带走兽、李典",
+          "character": "李典",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "元帅，那刘备非比寻常，他桃园弟兄久战疆场。急速差人奔往许昌，报与丞相，\n另想别计，共取新野。"
+          "text": "新野竟敢威风有"
+        },
+        {
+          "character": "李典",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "人来与爷带走兽"
+        },
+        {
+          "character": "李典",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "元帅暂息雷霆吼，"
+        },
+        {
+          "character": "李典",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "凡事须要用机谋。"
+        },
+        {
+          "character": "李典",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "新野竟敢威风有"
+        },
+        {
+          "character": "李典",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "人来与爷带走兽"
+        },
+        {
+          "character": "李典",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "元帅，那刘备非比寻常，他桃园弟兄久战疆场。急速差人奔往许昌，报与丞相，"
+        },
+        {
+          "character": "李典",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "另想别计，共取新野。"
         },
         {
           "character": "曹仁",
@@ -1597,7 +2651,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "谅你也不敢！\n众将官，兵伐新野，与二将报仇！"
+          "text": "谅你也不敢！"
+        },
+        {
+          "character": "曹仁",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "众将官，兵伐新野，与二将报仇！"
         },
         {
           "character": "众人",
@@ -1618,7 +2679,21 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "本帅今把威风抖，\n要杀新野血水流。\n誓取大耳项上头！"
+          "text": "本帅今把威风抖，"
+        },
+        {
+          "character": "曹仁",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "要杀新野血水流。"
+        },
+        {
+          "character": "曹仁",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "誓取大耳项上头！"
         },
         {
           "character": null,
@@ -1665,7 +2740,17 @@
         "singing_ratio": 0.071,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.071,
+        0.5263,
+        0.4737,
+        0.0,
+        0.3243,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 8,
@@ -1696,10 +2781,73 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "那日投宿遇水镜，\n暗听先生果高明。\n水镜隐瞒不说明。\n你我相逢新野城。\n先生可称智谋人。\n樊城必然发来兵。"
+          "text": "那日投宿遇水镜，"
         },
         {
-          "character": "我问先生名和姓、先生作歌表心意、安排兵将得了胜、大家二堂同议论、报子",
+          "character": "刘备",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "暗听先生果高明。"
+        },
+        {
+          "character": "刘备",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "水镜隐瞒不说明。"
+        },
+        {
+          "character": "刘备",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "你我相逢新野城。"
+        },
+        {
+          "character": "刘备",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "先生可称智谋人。"
+        },
+        {
+          "character": "刘备",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "樊城必然发来兵。"
+        },
+        {
+          "character": "刘备",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我问先生名和姓"
+        },
+        {
+          "character": "刘备",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "先生作歌表心意"
+        },
+        {
+          "character": "刘备",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "安排兵将得了胜"
+        },
+        {
+          "character": "刘备",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "大家二堂同议论"
+        },
+        {
+          "character": "报子",
           "line_type": "内白",
           "musical_style": null,
           "style_family": null,
@@ -1787,35 +2935,112 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "主公不必忒急性，\n细听元直说分明：\n却是双手送樊城。"
-        },
-        {
-          "character": "曹仁来把新野取、刘备",
-          "line_type": "唱",
-          "musical_style": null,
-          "style_family": null,
-          "text": "先生怎把戏言论，\n倒要明言与我听。"
+          "text": "主公不必忒急性，"
         },
         {
           "character": "徐庶",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "曹仁亲来把兵领，\n樊城之中撤了兵。\n那时对主再言明。\n迎着曹仁去战争。"
+          "text": "细听元直说分明："
+        },
+        {
+          "character": "徐庶",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "却是双手送樊城。"
+        },
+        {
+          "character": "徐庶",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "曹仁来把新野取"
+        },
+        {
+          "character": "刘备",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "先生怎把戏言论，"
+        },
+        {
+          "character": "刘备",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "倒要明言与我听。"
+        },
+        {
+          "character": "徐庶",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "曹仁亲来把兵领，"
+        },
+        {
+          "character": "徐庶",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "樊城之中撤了兵。"
+        },
+        {
+          "character": "徐庶",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "那时对主再言明。"
+        },
+        {
+          "character": "徐庶",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "迎着曹仁去战争。"
         },
         {
           "character": "徐庶",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "启主公：城中留下孙、简二位，还有糜家弟兄保守城池。余者众位将军，一齐\n出城！"
+          "text": "启主公：城中留下孙、简二位，还有糜家弟兄保守城池。余者众位将军，一齐"
         },
         {
-          "character": "待等交锋得了胜、要点人马四千整、刘备",
+          "character": "徐庶",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "好。\n众将官，兵出新野，迎敌曹仁去者！"
+          "text": "出城！"
+        },
+        {
+          "character": "徐庶",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "待等交锋得了胜"
+        },
+        {
+          "character": "徐庶",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "要点人马四千整"
+        },
+        {
+          "character": "刘备",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "好。"
+        },
+        {
+          "character": "刘备",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "众将官，兵出新野，迎敌曹仁去者！"
         },
         {
           "character": "众人",
@@ -1865,7 +3090,17 @@
         "singing_ratio": 0.214,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.214,
+        0.5405,
+        0.4595,
+        0.0,
+        0.3611,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 9,
@@ -1937,7 +3172,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 10,
@@ -2067,7 +3312,17 @@
         "singing_ratio": 0.053,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.053,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 11,
@@ -2121,7 +3376,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 12,
@@ -2175,7 +3440,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 13,
@@ -2326,7 +3601,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.9091,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 14,
@@ -2572,7 +3857,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.05,
+        0.95,
+        0.0,
+        0.8947,
+        5,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 15,
@@ -2601,10 +3896,52 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "交锋好似龙虎斗，\n一来一往统貔貅。\n要把新野化荒坵。\n且听探马报从头。"
+          "text": "交锋好似龙虎斗，"
         },
         {
-          "character": "吕旷、吕翔领兵走、将身且坐宝帐口、报子",
+          "character": "曹仁",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "一来一往统貔貅。"
+        },
+        {
+          "character": "曹仁",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "要把新野化荒坵。"
+        },
+        {
+          "character": "曹仁",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "且听探马报从头。"
+        },
+        {
+          "character": "曹仁",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "吕旷"
+        },
+        {
+          "character": "曹仁",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "吕翔领兵走"
+        },
+        {
+          "character": "曹仁",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "将身且坐宝帐口"
+        },
+        {
+          "character": "报子",
           "line_type": "内白",
           "musical_style": null,
           "style_family": null,
@@ -2657,28 +3994,105 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "听一言来冲牛斗，\n不由某家皱眉头。\n可叹二吕丧荒坵。\n不杀大耳誓不休！"
+          "text": "听一言来冲牛斗，"
         },
         {
-          "character": "新野竟敢威风有、人来与爷带走兽、李典",
+          "character": "曹仁",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "不由某家皱眉头。"
+        },
+        {
+          "character": "曹仁",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "可叹二吕丧荒坵。"
+        },
+        {
+          "character": "曹仁",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "不杀大耳誓不休！"
+        },
+        {
+          "character": "曹仁",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "新野竟敢威风有"
+        },
+        {
+          "character": "曹仁",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "人来与爷带走兽"
+        },
+        {
+          "character": "李典",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
           "text": "且慢！"
         },
         {
-          "character": "新野竟敢威风有、人来与爷带走兽、李典",
-          "line_type": "唱",
-          "musical_style": null,
-          "style_family": null,
-          "text": "元帅暂息雷霆吼，\n凡事须要用机谋。"
-        },
-        {
-          "character": "新野竟敢威风有、人来与爷带走兽、李典",
+          "character": "李典",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "元帅，那刘备非比寻常，他桃园弟兄久战疆场。急速差人奔往许昌，报与丞相，\n另想别计，共取新野。"
+          "text": "新野竟敢威风有"
+        },
+        {
+          "character": "李典",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "人来与爷带走兽"
+        },
+        {
+          "character": "李典",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "元帅暂息雷霆吼，"
+        },
+        {
+          "character": "李典",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "凡事须要用机谋。"
+        },
+        {
+          "character": "李典",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "新野竟敢威风有"
+        },
+        {
+          "character": "李典",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "人来与爷带走兽"
+        },
+        {
+          "character": "李典",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "元帅，那刘备非比寻常，他桃园弟兄久战疆场。急速差人奔往许昌，报与丞相，"
+        },
+        {
+          "character": "李典",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "另想别计，共取新野。"
         },
         {
           "character": "曹仁",
@@ -2713,7 +4127,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "谅你也不敢！\n众将官，兵伐新野，与二将报仇！"
+          "text": "谅你也不敢！"
+        },
+        {
+          "character": "曹仁",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "众将官，兵伐新野，与二将报仇！"
         },
         {
           "character": "众人",
@@ -2734,7 +4155,21 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "本帅今把威风抖，\n要杀新野血水流。\n誓取大耳项上头！"
+          "text": "本帅今把威风抖，"
+        },
+        {
+          "character": "曹仁",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "要杀新野血水流。"
+        },
+        {
+          "character": "曹仁",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "誓取大耳项上头！"
         },
         {
           "character": null,
@@ -2784,7 +4219,17 @@
         "singing_ratio": 0.091,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.091,
+        0.5263,
+        0.4737,
+        0.0,
+        0.3243,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 16,
@@ -2925,7 +4370,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 17,
@@ -2954,10 +4409,52 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "交锋好似龙虎斗，\n一来一往统貔貅。\n要把新野化荒坵。\n且听探马报从头。"
+          "text": "交锋好似龙虎斗，"
         },
         {
-          "character": "吕旷、吕翔领兵走、将身且坐宝帐口、报子",
+          "character": "曹仁",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "一来一往统貔貅。"
+        },
+        {
+          "character": "曹仁",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "要把新野化荒坵。"
+        },
+        {
+          "character": "曹仁",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "且听探马报从头。"
+        },
+        {
+          "character": "曹仁",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "吕旷"
+        },
+        {
+          "character": "曹仁",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "吕翔领兵走"
+        },
+        {
+          "character": "曹仁",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "将身且坐宝帐口"
+        },
+        {
+          "character": "报子",
           "line_type": "内白",
           "musical_style": null,
           "style_family": null,
@@ -3010,28 +4507,105 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "听一言来冲牛斗，\n不由某家皱眉头。\n可叹二吕丧荒坵。\n不杀大耳誓不休！"
+          "text": "听一言来冲牛斗，"
         },
         {
-          "character": "新野竟敢威风有、人来与爷带走兽、李典",
+          "character": "曹仁",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "不由某家皱眉头。"
+        },
+        {
+          "character": "曹仁",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "可叹二吕丧荒坵。"
+        },
+        {
+          "character": "曹仁",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "不杀大耳誓不休！"
+        },
+        {
+          "character": "曹仁",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "新野竟敢威风有"
+        },
+        {
+          "character": "曹仁",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "人来与爷带走兽"
+        },
+        {
+          "character": "李典",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
           "text": "且慢！"
         },
         {
-          "character": "新野竟敢威风有、人来与爷带走兽、李典",
-          "line_type": "唱",
-          "musical_style": null,
-          "style_family": null,
-          "text": "元帅暂息雷霆吼，\n凡事须要用机谋。"
-        },
-        {
-          "character": "新野竟敢威风有、人来与爷带走兽、李典",
+          "character": "李典",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "元帅，那刘备非比寻常，他桃园弟兄久战疆场。急速差人奔往许昌，报与丞相，\n另想别计，共取新野。"
+          "text": "新野竟敢威风有"
+        },
+        {
+          "character": "李典",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "人来与爷带走兽"
+        },
+        {
+          "character": "李典",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "元帅暂息雷霆吼，"
+        },
+        {
+          "character": "李典",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "凡事须要用机谋。"
+        },
+        {
+          "character": "李典",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "新野竟敢威风有"
+        },
+        {
+          "character": "李典",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "人来与爷带走兽"
+        },
+        {
+          "character": "李典",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "元帅，那刘备非比寻常，他桃园弟兄久战疆场。急速差人奔往许昌，报与丞相，"
+        },
+        {
+          "character": "李典",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "另想别计，共取新野。"
         },
         {
           "character": "曹仁",
@@ -3066,7 +4640,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "谅你也不敢！\n众将官，兵伐新野，与二将报仇！"
+          "text": "谅你也不敢！"
+        },
+        {
+          "character": "曹仁",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "众将官，兵伐新野，与二将报仇！"
         },
         {
           "character": "众人",
@@ -3087,7 +4668,21 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "本帅今把威风抖，\n要杀新野血水流。\n誓取大耳项上头！"
+          "text": "本帅今把威风抖，"
+        },
+        {
+          "character": "曹仁",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "要杀新野血水流。"
+        },
+        {
+          "character": "曹仁",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "誓取大耳项上头！"
         },
         {
           "character": null,
@@ -3145,7 +4740,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.5263,
+        0.4737,
+        0.0,
+        0.3243,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 18,
@@ -3229,7 +4834,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        3,
+        0.0,
+        0.0
+      ]
     }
   ]
 }

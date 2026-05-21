@@ -434,14 +434,42 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "追！追！追！\n（牛皋挥军亮相急下。怒涛滚滚，黄河在望。金兵、金将、哈迷蚩、兀术同败上，抵黄河。水手迎上，众人\n同下马抢渡。岳家军同追上，兀术、金兵、金将、哈迷蚩同仓皇渡河。岸上残兵，尽被歼灭。牛皋遥指北岸。）"
+          "text": "追！追！追！"
         },
         {
           "character": "牛皋",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "兀术啊！金酋！尔等兴动倾国人马，再犯中原，被咱岳家军杀得落花流水，兵\n撤黄河。待等船只备好，定要杀往北岸，管叫尔等片甲不归！\n众将官，回营交令者！"
+          "text": "（牛皋挥军亮相急下。怒涛滚滚，黄河在望。金兵、金将、哈迷蚩、兀术同败上，抵黄河。水手迎上，众人"
+        },
+        {
+          "character": "牛皋",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "同下马抢渡。岳家军同追上，兀术、金兵、金将、哈迷蚩同仓皇渡河。岸上残兵，尽被歼灭。牛皋遥指北岸。）"
+        },
+        {
+          "character": "牛皋",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "兀术啊！金酋！尔等兴动倾国人马，再犯中原，被咱岳家军杀得落花流水，兵"
+        },
+        {
+          "character": "牛皋",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "撤黄河。待等船只备好，定要杀往北岸，管叫尔等片甲不归！"
+        },
+        {
+          "character": "牛皋",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "众将官，回营交令者！"
         },
         {
           "character": "众人",
@@ -518,7 +546,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "哎呀，军师！岳家大军锐不可当，两岸乱民群起响应，黄河北岸，只怕难保。\n倘若岳飞长驱直入，宋室江山非复金邦所有，教孤怎能甘心！"
+          "text": "哎呀，军师！岳家大军锐不可当，两岸乱民群起响应，黄河北岸，只怕难保。"
+        },
+        {
+          "character": "兀术",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "倘若岳飞长驱直入，宋室江山非复金邦所有，教孤怎能甘心！"
         },
         {
           "character": "哈迷蚩",
@@ -602,7 +637,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "老狼主言道，铁浮屠、拐子马，乃金邦精锐，郾城一战，片甲无存，纵然再发\n人马，只怕也无济于事呀！"
+          "text": "老狼主言道，铁浮屠、拐子马，乃金邦精锐，郾城一战，片甲无存，纵然再发"
+        },
+        {
+          "character": "伊里布",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "人马，只怕也无济于事呀！"
         },
         {
           "character": "兀术",
@@ -672,7 +714,14 @@
           "line_type": "西皮散板",
           "musical_style": "西皮散板",
           "style_family": "西皮",
-          "text": "一纸密札决大策，\n“以和佐战”妙用多。"
+          "text": "一纸密札决大策，"
+        },
+        {
+          "character": "兀术",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "“以和佐战”妙用多。"
         },
         {
           "character": null,
@@ -742,7 +791,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "事不宜迟。军师以蜡丸藏密札，乔装改扮，速去临安；待孤修下国书，平章随\n后启行。"
+          "text": "事不宜迟。军师以蜡丸藏密札，乔装改扮，速去临安；待孤修下国书，平章随"
+        },
+        {
+          "character": "兀术",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "后启行。"
         },
         {
           "character": "哈迷蚩",
@@ -856,7 +912,17 @@
         "musical_styles": [
           "西皮散板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.026,
+        0.0638,
+        0.9149,
+        0.0213,
+        0.6522,
+        7,
+        0.0638,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -985,7 +1051,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "报！\n启禀元帅：牛皋、施全、梁兴、李宝四位将军到！"
+          "text": "报！"
+        },
+        {
+          "character": "报子",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "启禀元帅：牛皋、施全、梁兴、李宝四位将军到！"
         },
         {
           "character": "岳飞",
@@ -1027,7 +1100,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "启禀元帅：末将等奉命约会各路大军催运粮草。韩、刘二位元帅愿随我军之后，\n三路进兵；淮北粮草，即日解往军前。"
+          "text": "启禀元帅：末将等奉命约会各路大军催运粮草。韩、刘二位元帅愿随我军之后，"
+        },
+        {
+          "character": "牛皋",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "三路进兵；淮北粮草，即日解往军前。"
         },
         {
           "character": "梁兴、李宝",
@@ -1055,7 +1135,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "元帅！今日誓师渡河，大小三军，摩拳擦掌，奋勇当先，更喜两河豪杰，太行\n忠义，愿领“岳”字旗榜，共灭金寇。咱牛皋愿讨将令，带领咱牛通孩儿，头\n前抢渡，只将这“岳”字旗一举，我就哗喇喇——插在黄河北岸，管教那金兵\n望风而逃！"
+          "text": "元帅！今日誓师渡河，大小三军，摩拳擦掌，奋勇当先，更喜两河豪杰，太行"
+        },
+        {
+          "character": "牛皋",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "忠义，愿领“岳”字旗榜，共灭金寇。咱牛皋愿讨将令，带领咱牛通孩儿，头"
+        },
+        {
+          "character": "牛皋",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "前抢渡，只将这“岳”字旗一举，我就哗喇喇——插在黄河北岸，管教那金兵"
+        },
+        {
+          "character": "牛皋",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "望风而逃！"
         },
         {
           "character": "众将",
@@ -1265,7 +1366,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "诏曰：“岳飞进兵中原，驱强敌于黄河北岸，劳苦功高，深堪嘉许，且喜金邦\n知罪，遣使求和……"
+          "text": "诏曰：“岳飞进兵中原，驱强敌于黄河北岸，劳苦功高，深堪嘉许，且喜金邦"
+        },
+        {
+          "character": "王次翁",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "知罪，遣使求和……"
         },
         {
           "character": null,
@@ -1279,7 +1387,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "揆情度理，颇具诚意，事关国家安危，如无朕命，不得擅自渡河！北征诸将，\n即日班师！"
+          "text": "揆情度理，颇具诚意，事关国家安危，如无朕命，不得擅自渡河！北征诸将，"
+        },
+        {
+          "character": "王次翁",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "即日班师！"
         },
         {
           "character": null,
@@ -1335,14 +1450,35 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "万万岁！\n（〖牌子〗。岳飞接旨，转付岳云，岳云供旨于帅台上。王次翁下。施全、梁兴、李宝、牛通、施强、岳霆、\n岳霖、岳雷、岳云、张宪同愤慨，牛皋尤激怒。）"
+          "text": "万万岁！"
+        },
+        {
+          "character": "岳飞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "（〖牌子〗。岳飞接旨，转付岳云，岳云供旨于帅台上。王次翁下。施全、梁兴、李宝、牛通、施强、岳霆、"
+        },
+        {
+          "character": "岳飞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "岳霖、岳雷、岳云、张宪同愤慨，牛皋尤激怒。）"
         },
         {
           "character": "牛皋",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "元帅！今日大小三军，誓师渡河，正好长驱北进，直捣黄龙，不想圣命到此，\n逼令还朝。分明是那秦桧的奸谋。金酋不灭，誓不班师！"
+          "text": "元帅！今日大小三军，誓师渡河，正好长驱北进，直捣黄龙，不想圣命到此，"
+        },
+        {
+          "character": "牛皋",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "逼令还朝。分明是那秦桧的奸谋。金酋不灭，誓不班师！"
         },
         {
           "character": "施全、梁兴、李宝、牛通、施强、岳霆、岳霖、岳雷、岳云、张宪",
@@ -1356,7 +1492,21 @@
           "line_type": "西皮散板",
           "musical_style": "西皮散板",
           "style_family": "西皮",
-          "text": "誓师突来班师令，\n功败垂成最痛心；\n众将官休激愤待我修本——"
+          "text": "誓师突来班师令，"
+        },
+        {
+          "character": "岳飞",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "功败垂成最痛心；"
+        },
+        {
+          "character": "岳飞",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "众将官休激愤待我修本——"
         },
         {
           "character": null,
@@ -1391,7 +1541,21 @@
           "line_type": "念",
           "musical_style": null,
           "style_family": null,
-          "text": "金牌传圣命，犹如朕亲临。星夜班师转，岳飞速回军！\n（牛皋、施全、梁兴、李宝、牛通、施强、岳霆、岳霖、岳雷、岳云、张宪强抑愤懑，接牌，置帅台上。六\n校尉同下。）"
+          "text": "金牌传圣命，犹如朕亲临。星夜班师转，岳飞速回军！"
+        },
+        {
+          "character": "六校尉",
+          "line_type": "念",
+          "musical_style": null,
+          "style_family": null,
+          "text": "（牛皋、施全、梁兴、李宝、牛通、施强、岳霆、岳霖、岳雷、岳云、张宪强抑愤懑，接牌，置帅台上。六"
+        },
+        {
+          "character": "六校尉",
+          "line_type": "念",
+          "musical_style": null,
+          "style_family": null,
+          "text": "校尉同下。）"
         },
         {
           "character": "岳飞",
@@ -1419,7 +1583,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "接牌！\n（〖急急风〗。六校尉各执金牌催马同上。〖风入松〗。牛皋、施全、梁兴、李宝、牛通、施强、岳霆、岳\n霖、岳雷、岳云、张宪同接牌。六校尉同下。众人同亮相。）"
+          "text": "接牌！"
+        },
+        {
+          "character": "岳飞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "（〖急急风〗。六校尉各执金牌催马同上。〖风入松〗。牛皋、施全、梁兴、李宝、牛通、施强、岳霆、岳"
+        },
+        {
+          "character": "岳飞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "霖、岳雷、岳云、张宪同接牌。六校尉同下。众人同亮相。）"
         },
         {
           "character": "岳飞",
@@ -1517,17 +1695,80 @@
           "line_type": "西皮快二六板",
           "musical_style": "西皮快二六板",
           "style_family": "西皮",
-          "text": "班师诏，\n复国壮志一旦抛；\n君命皇皇比天高！"
+          "text": "班师诏，"
+        },
+        {
+          "character": "岳飞",
+          "line_type": "西皮快二六板",
+          "musical_style": "西皮快二六板",
+          "style_family": "西皮",
+          "text": "复国壮志一旦抛；"
+        },
+        {
+          "character": "岳飞",
+          "line_type": "西皮快二六板",
+          "musical_style": "西皮快二六板",
+          "style_family": "西皮",
+          "text": "君命皇皇比天高！"
         },
         {
           "character": "岳飞",
           "line_type": "西皮快板",
           "musical_style": "西皮快板",
           "style_family": "西皮",
-          "text": "最可叹水深火热燕云众父老，\n最可叹圣主蒙尘车驾未还朝。\n北岸胡尘何时扫？\n切齿权奸恨难消！\n仰天按剑发长啸！"
+          "text": "最可叹水深火热燕云众父老，"
         },
         {
-          "character": "我若不受班师诏、满怀悲愤向谁告、梁兴、李宝",
+          "character": "岳飞",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "最可叹圣主蒙尘车驾未还朝。"
+        },
+        {
+          "character": "岳飞",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "北岸胡尘何时扫？"
+        },
+        {
+          "character": "岳飞",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "切齿权奸恨难消！"
+        },
+        {
+          "character": "岳飞",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "仰天按剑发长啸！"
+        },
+        {
+          "character": "岳飞",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "我若不受班师诏"
+        },
+        {
+          "character": "岳飞",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "满怀悲愤向谁告"
+        },
+        {
+          "character": "岳飞",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "梁兴"
+        },
+        {
+          "character": "李宝",
           "line_type": "同白",
           "musical_style": null,
           "style_family": null,
@@ -1580,10 +1821,136 @@
           "line_type": "西皮流水板",
           "musical_style": "西皮流水板",
           "style_family": "西皮",
-          "text": "误国金牌十二道，\n秦桧奸谋难轻饶。\n牛皋催军把战鼓敲。\n从来是将令一出地动山摇。\n就是那宋天子大驾光临，也叫他往返徒劳走一遭。\n咱要你统帅三军，决不放你还朝！"
+          "text": "误国金牌十二道，"
         },
         {
-          "character": "元帅登台传令号、岳家军有进无退谁不晓、任凭它圣旨金牌千万道、天大祸事有牛皋、施全、梁兴、李宝、牛通、施强、岳霆、岳霖、岳雷、岳云、张宪",
+          "character": "牛皋",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "秦桧奸谋难轻饶。"
+        },
+        {
+          "character": "牛皋",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "牛皋催军把战鼓敲。"
+        },
+        {
+          "character": "牛皋",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "从来是将令一出地动山摇。"
+        },
+        {
+          "character": "牛皋",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "就是那宋天子大驾光临，也叫他往返徒劳走一遭。"
+        },
+        {
+          "character": "牛皋",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "咱要你统帅三军，决不放你还朝！"
+        },
+        {
+          "character": "牛皋",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "元帅登台传令号"
+        },
+        {
+          "character": "牛皋",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "岳家军有进无退谁不晓"
+        },
+        {
+          "character": "牛皋",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "任凭它圣旨金牌千万道"
+        },
+        {
+          "character": "牛皋",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "天大祸事有牛皋"
+        },
+        {
+          "character": "牛皋",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "施全"
+        },
+        {
+          "character": "牛皋",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "梁兴"
+        },
+        {
+          "character": "牛皋",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "李宝"
+        },
+        {
+          "character": "牛皋",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "牛通"
+        },
+        {
+          "character": "牛皋",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "施强"
+        },
+        {
+          "character": "牛皋",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "岳霆"
+        },
+        {
+          "character": "牛皋",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "岳霖"
+        },
+        {
+          "character": "牛皋",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "岳雷"
+        },
+        {
+          "character": "牛皋",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "岳云"
+        },
+        {
+          "character": "张宪",
           "line_type": "同白",
           "musical_style": null,
           "style_family": null,
@@ -1608,7 +1975,14 @@
           "line_type": "西皮散板",
           "musical_style": "西皮散板",
           "style_family": "西皮",
-          "text": "众三军气昂昂齐声呐喊，\n汗马劳血战功忍付云烟。"
+          "text": "众三军气昂昂齐声呐喊，"
+        },
+        {
+          "character": "岳飞",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "汗马劳血战功忍付云烟。"
         },
         {
           "character": null,
@@ -1636,10 +2010,94 @@
           "line_type": "西皮散板",
           "musical_style": "西皮散板",
           "style_family": "西皮",
-          "text": "战马儿临河长嘶催人跨征鞍！\n到此时千回百转进退难。"
+          "text": "战马儿临河长嘶催人跨征鞍！"
         },
         {
-          "character": "平日决疑多果断、牛皋、施全、梁兴、李宝、牛通、施强、岳霆、岳霖、岳雷、岳云、张宪",
+          "character": "岳飞",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "到此时千回百转进退难。"
+        },
+        {
+          "character": "岳飞",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "平日决疑多果断"
+        },
+        {
+          "character": "岳飞",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "牛皋"
+        },
+        {
+          "character": "岳飞",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "施全"
+        },
+        {
+          "character": "岳飞",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "梁兴"
+        },
+        {
+          "character": "岳飞",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "李宝"
+        },
+        {
+          "character": "岳飞",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "牛通"
+        },
+        {
+          "character": "岳飞",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "施强"
+        },
+        {
+          "character": "岳飞",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "岳霆"
+        },
+        {
+          "character": "岳飞",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "岳霖"
+        },
+        {
+          "character": "岳飞",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "岳雷"
+        },
+        {
+          "character": "岳飞",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "岳云"
+        },
+        {
+          "character": "张宪",
           "line_type": "同白",
           "musical_style": null,
           "style_family": null,
@@ -1734,7 +2192,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "报——\n启禀元帅：京东各路大军，奉旨撤回原防！"
+          "text": "报——"
+        },
+        {
+          "character": "报子甲",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "启禀元帅：京东各路大军，奉旨撤回原防！"
         },
         {
           "character": null,
@@ -1790,7 +2255,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "报——\n启禀元帅：淮北粮草，中途奉旨押运回朝！"
+          "text": "报——"
+        },
+        {
+          "character": "报子乙",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "启禀元帅：淮北粮草，中途奉旨押运回朝！"
         },
         {
           "character": null,
@@ -2013,7 +2485,17 @@
           "西皮散板",
           "西皮流水"
         ]
-      }
+      },
+      "scene_feature": [
+        0.158,
+        0.437,
+        0.5037,
+        0.0593,
+        0.4403,
+        17,
+        0.437,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -2444,7 +2926,17 @@
         "musical_styles": [
           "反西皮二六板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.04,
+        0.037,
+        0.9259,
+        0.037,
+        0.8077,
+        7,
+        0.037,
+        0.0
+      ]
     },
     {
       "scene_index": 4,
@@ -3683,7 +4175,17 @@
           "西皮流水",
           "西皮流水板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.105,
+        0.1944,
+        0.787,
+        0.0185,
+        0.7757,
+        10,
+        0.1944,
+        0.0
+      ]
     },
     {
       "scene_index": 5,
@@ -4749,7 +5251,17 @@
           "西皮快板",
           "西皮散板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.05,
+        0.1209,
+        0.8352,
+        0.044,
+        0.7444,
+        9,
+        0.1209,
+        0.0
+      ]
     },
     {
       "scene_index": 6,
@@ -5624,7 +6136,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.975,
+        0.025,
+        0.8481,
+        7,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 7,
@@ -6631,7 +7153,17 @@
           "二黄碰板",
           "反二黄散板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.157,
+        0.2289,
+        0.6867,
+        0.0843,
+        0.7073,
+        9,
+        0.0,
+        0.2048
+      ]
     },
     {
       "scene_index": 8,
@@ -6654,7 +7186,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 9,
@@ -7839,7 +8381,17 @@
           "西皮流水",
           "西皮流水板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.065,
+        0.1402,
+        0.8037,
+        0.0561,
+        0.783,
+        8,
+        0.1402,
+        0.0
+      ]
     },
     {
       "scene_index": 10,
@@ -9391,7 +9943,17 @@
           "西皮散板",
           "西皮流水"
         ]
-      }
+      },
+      "scene_feature": [
+        0.086,
+        0.2387,
+        0.7032,
+        0.0581,
+        0.6623,
+        10,
+        0.2323,
+        0.0
+      ]
     }
   ]
 }

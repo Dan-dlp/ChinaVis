@@ -70,7 +70,7 @@
           "text": "（四院子同上，同喝道。贾似道上。）"
         },
         {
-          "character": null,
+          "character": "四院子",
           "line_type": "念",
           "musical_style": null,
           "style_family": null,
@@ -364,7 +364,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.8571,
+        0.1429,
+        0.8,
+        3,
+        0.0,
+        0.0
+      ]
     }
   ]
 }

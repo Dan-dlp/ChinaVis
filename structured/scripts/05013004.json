@@ -175,7 +175,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "下官万天祥。蒙圣恩放我襄阳县知县，到任以来，官清民顺。适来陈府珍珠塔\n一案，拿来强徒，必要细细审问方卿下落。\n来，将强徒带上堂来。"
+          "text": "下官万天祥。蒙圣恩放我襄阳县知县，到任以来，官清民顺。适来陈府珍珠塔"
+        },
+        {
+          "character": "万天祥",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "一案，拿来强徒，必要细细审问方卿下落。"
+        },
+        {
+          "character": "万天祥",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来，将强徒带上堂来。"
         },
         {
           "character": "四青袍",
@@ -217,7 +231,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "不动大刑谅你不招。\n来，夹起来。"
+          "text": "不动大刑谅你不招。"
+        },
+        {
+          "character": "万天祥",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来，夹起来。"
         },
         {
           "character": null,
@@ -245,7 +266,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "那日大雪纷飞，俺家大王与武西施娘娘赏雪，得报下山，俺家大王亲手得此奇\n宝；叫小人售卖银钱。别事不晓。"
+          "text": "那日大雪纷飞，俺家大王与武西施娘娘赏雪，得报下山，俺家大王亲手得此奇"
+        },
+        {
+          "character": "飞山虎",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "宝；叫小人售卖银钱。别事不晓。"
         },
         {
           "character": "万天祥",
@@ -280,7 +308,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "好大胆狗头。\n来，带去收监。"
+          "text": "好大胆狗头。"
+        },
+        {
+          "character": "万天祥",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来，带去收监。"
         },
         {
           "character": null,
@@ -451,7 +486,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0312,
+        0.8125,
+        0.1562,
+        0.7097,
+        8,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -558,7 +603,17 @@
         "singing_ratio": 0.375,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.375,
+        0.4444,
+        0.5556,
+        0.0,
+        0.875,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -676,14 +731,49 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "你不要在马上紧紧追逼，\n俺与你刀来枪去相互刺劈。\n我把你这赃贼官西瓜样切！"
+          "text": "你不要在马上紧紧追逼，"
         },
         {
-          "character": "杀一个你身死我才能活、张虎",
+          "character": "武西施",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "俺与你刀来枪去相互刺劈。"
+        },
+        {
+          "character": "武西施",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我把你这赃贼官西瓜样切！"
+        },
+        {
+          "character": "武西施",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "杀一个你身死我才能活"
+        },
+        {
+          "character": "张虎",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "看枪！\n（张虎杀，四下手、四女兵、四头目、武西施、邱六乔同败逃下，四上手、四官兵、张虎、王龙同追下。四\n下手、四女兵、四头目、武西施、邱六乔同上。）"
+          "text": "看枪！"
+        },
+        {
+          "character": "张虎",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "（张虎杀，四下手、四女兵、四头目、武西施、邱六乔同败逃下，四上手、四官兵、张虎、王龙同追下。四"
+        },
+        {
+          "character": "张虎",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "下手、四女兵、四头目、武西施、邱六乔同上。）"
         },
         {
           "character": "邱六乔",
@@ -704,21 +794,63 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "今日里好比那乌江大战，\n只杀得子弟兵东逃西亡。\n苦苦的在江边大哭一场。"
+          "text": "今日里好比那乌江大战，"
         },
         {
-          "character": "我与你好比那虞姬别帐、邱六乔",
+          "character": "武西施",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "只杀得子弟兵东逃西亡。"
+        },
+        {
+          "character": "武西施",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "苦苦的在江边大哭一场。"
+        },
+        {
+          "character": "武西施",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我与你好比那虞姬别帐"
+        },
+        {
+          "character": "邱六乔",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
           "text": "哎吓娘娘吓！"
         },
         {
-          "character": "我与你好比那虞姬别帐、邱六乔",
+          "character": "邱六乔",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我与你好比那虞姬别帐"
+        },
+        {
+          "character": "邱六乔",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "这一阵只杀得十面难挡，\n我与你不到头好梦一场。\n那时我效当年自刎霸王。"
+          "text": "这一阵只杀得十面难挡，"
+        },
+        {
+          "character": "邱六乔",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我与你不到头好梦一场。"
+        },
+        {
+          "character": "邱六乔",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "那时我效当年自刎霸王。"
         },
         {
           "character": null,
@@ -797,7 +929,17 @@
         "singing_ratio": 0.118,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.118,
+        0.4194,
+        0.5806,
+        0.0,
+        0.5333,
+        6,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 4,
@@ -1000,7 +1142,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0667,
+        0.8667,
+        0.0667,
+        0.7143,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 5,
@@ -1026,7 +1178,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "方卿去后终日念，\n重见珠塔两泪涟。"
+          "text": "方卿去后终日念，"
+        },
+        {
+          "character": "陈翠娥",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "重见珠塔两泪涟。"
         },
         {
           "character": "陈翠娥",
@@ -1054,21 +1213,105 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "我想起这珠塔原来害人，\n想不到偏害了有恩之亲。\n他立志不肯回冒雪而行。\n在我家当铺中质价估银。\n我二人要相会转世投生。"
+          "text": "我想起这珠塔原来害人，"
         },
         {
-          "character": "老爹爹九松亭终身来订、遇强徒将他的珠塔来抢、见此宝回房来痴迷不醒、彩屏",
+          "character": "陈翠娥",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "想不到偏害了有恩之亲。"
+        },
+        {
+          "character": "陈翠娥",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "他立志不肯回冒雪而行。"
+        },
+        {
+          "character": "陈翠娥",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "在我家当铺中质价估银。"
+        },
+        {
+          "character": "陈翠娥",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我二人要相会转世投生。"
+        },
+        {
+          "character": "陈翠娥",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "老爹爹九松亭终身来订"
+        },
+        {
+          "character": "陈翠娥",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "遇强徒将他的珠塔来抢"
+        },
+        {
+          "character": "陈翠娥",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "见此宝回房来痴迷不醒"
+        },
+        {
+          "character": "彩屏",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
           "text": "小姐吓！"
         },
         {
-          "character": "老爹爹九松亭终身来订、遇强徒将他的珠塔来抢、见此宝回房来痴迷不醒、彩屏",
+          "character": "彩屏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "老爹爹九松亭终身来订"
+        },
+        {
+          "character": "彩屏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "遇强徒将他的珠塔来抢"
+        },
+        {
+          "character": "彩屏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "见此宝回房来痴迷不醒"
+        },
+        {
+          "character": "彩屏",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "那强徒在公堂供的实在，\n他供的抢珠塔人命未害。\n到后来必相逢何必愁怀！"
+          "text": "那强徒在公堂供的实在，"
+        },
+        {
+          "character": "彩屏",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "他供的抢珠塔人命未害。"
+        },
+        {
+          "character": "彩屏",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "到后来必相逢何必愁怀！"
         },
         {
           "character": null,
@@ -1082,7 +1325,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "狗强盗在县堂供未伤害，\n见女儿将此事细说开怀。"
+          "text": "狗强盗在县堂供未伤害，"
+        },
+        {
+          "character": "陈连",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "见女儿将此事细说开怀。"
         },
         {
           "character": "陈翠娥",
@@ -1159,7 +1409,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "我不见方表弟心情不定，\n怕的是我性命旦夕归阴。"
+          "text": "我不见方表弟心情不定，"
+        },
+        {
+          "character": "陈翠娥",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "怕的是我性命旦夕归阴。"
         },
         {
           "character": null,
@@ -1211,7 +1468,17 @@
         "singing_ratio": 0.2,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.2,
+        0.5429,
+        0.4571,
+        0.0,
+        0.4412,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 6,
@@ -1239,21 +1506,63 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "那一日在中途险遭不测，\n多亏了毕恩兄救回府门。"
-        },
-        {
-          "character": "方卿",
-          "line_type": "白",
-          "musical_style": null,
-          "style_family": null,
-          "text": "小生方卿。只因家贫无奈，向姑母家借贷，不想反遭羞辱。多蒙表姐、姑丈，\n十分敬待，定将表姐许配与我为妻，劝我回到他家，是我不肯，故此冒雪前行，\n又遇强人劫夺，险伤性命，幸遇毕兄救回，此恩非小也。"
+          "text": "那一日在中途险遭不测，"
         },
         {
           "character": "方卿",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "多亏了毕恩兄救回家下，\n每日间在书房熟看书文。\n未知那老亲娘几时相逢？\n有一日金榜题名再报他恩。"
+          "text": "多亏了毕恩兄救回府门。"
+        },
+        {
+          "character": "方卿",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "小生方卿。只因家贫无奈，向姑母家借贷，不想反遭羞辱。多蒙表姐、姑丈，"
+        },
+        {
+          "character": "方卿",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "十分敬待，定将表姐许配与我为妻，劝我回到他家，是我不肯，故此冒雪前行，"
+        },
+        {
+          "character": "方卿",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "又遇强人劫夺，险伤性命，幸遇毕兄救回，此恩非小也。"
+        },
+        {
+          "character": "方卿",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "多亏了毕恩兄救回家下，"
+        },
+        {
+          "character": "方卿",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "每日间在书房熟看书文。"
+        },
+        {
+          "character": "方卿",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "未知那老亲娘几时相逢？"
+        },
+        {
+          "character": "方卿",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "有一日金榜题名再报他恩。"
         },
         {
           "character": "方卿",
@@ -1267,7 +1576,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "你孩儿独思想谁来动问？\n苦坏了我亲娘望儿回程。"
+          "text": "你孩儿独思想谁来动问？"
+        },
+        {
+          "character": "方卿",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "苦坏了我亲娘望儿回程。"
         },
         {
           "character": null,
@@ -1281,7 +1597,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "月照山河乾坤满，\n江山银砌水晶城。"
+          "text": "月照山河乾坤满，"
+        },
+        {
+          "character": "毕秀金",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "江山银砌水晶城。"
         },
         {
           "character": "方卿",
@@ -1449,10 +1772,31 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "那一日在路途遇盗官塘，\n幸亏了毕恩兄救回书房。\n又恐怕少米炊饿死坟堂。"
+          "text": "那一日在路途遇盗官塘，"
         },
         {
-          "character": "所想的老娘亲在家盼望、毕秀金",
+          "character": "方卿",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "幸亏了毕恩兄救回书房。"
+        },
+        {
+          "character": "方卿",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "又恐怕少米炊饿死坟堂。"
+        },
+        {
+          "character": "方卿",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "所想的老娘亲在家盼望"
+        },
+        {
+          "character": "毕秀金",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -1533,24 +1877,80 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "都只为家寒苦襄阳去往，\n那表姐气不平赠塔还乡。"
+          "text": "都只为家寒苦襄阳去往，"
         },
         {
-          "character": "谁想那老姑母欺贫不良、因此上将小生羞辱脸上、毕秀金",
+          "character": "方卿",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "那表姐气不平赠塔还乡。"
+        },
+        {
+          "character": "方卿",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "谁想那老姑母欺贫不良"
+        },
+        {
+          "character": "方卿",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "因此上将小生羞辱脸上"
+        },
+        {
+          "character": "毕秀金",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
           "text": "吓！"
         },
         {
-          "character": "谁想那老姑母欺贫不良、因此上将小生羞辱脸上、毕秀金",
+          "character": "毕秀金",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "谁想那老姑母欺贫不良"
+        },
+        {
+          "character": "毕秀金",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "因此上将小生羞辱脸上"
+        },
+        {
+          "character": "毕秀金",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "听他言不由我心中暗想，\n赠珠塔许终身匹配鸾凰。"
+          "text": "听他言不由我心中暗想，"
         },
         {
-          "character": "谁想那老姑母欺贫不良、因此上将小生羞辱脸上、毕秀金",
+          "character": "毕秀金",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "赠珠塔许终身匹配鸾凰。"
+        },
+        {
+          "character": "毕秀金",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "谁想那老姑母欺贫不良"
+        },
+        {
+          "character": "毕秀金",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "因此上将小生羞辱脸上"
+        },
+        {
+          "character": "毕秀金",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -1596,7 +1996,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "为求婚将珠塔当做盟证，\n岂不是夫妻荣显耀门庭。"
+          "text": "为求婚将珠塔当做盟证，"
+        },
+        {
+          "character": "毕秀金",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "岂不是夫妻荣显耀门庭。"
         },
         {
           "character": "毕秀金",
@@ -1606,7 +2013,21 @@
           "text": "可是么？"
         },
         {
-          "character": "赠公子归家去伺奉娘亲、但愿得早登科金榜名震、方卿",
+          "character": "毕秀金",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "赠公子归家去伺奉娘亲"
+        },
+        {
+          "character": "毕秀金",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "但愿得早登科金榜名震"
+        },
+        {
+          "character": "方卿",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -1673,7 +2094,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "哈哈，我看他二人倒有些恩爱，不免待我回去，戏弄他一番。正是这个主意。\n吓，公子！"
+          "text": "哈哈，我看他二人倒有些恩爱，不免待我回去，戏弄他一番。正是这个主意。"
+        },
+        {
+          "character": "丫头",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "吓，公子！"
         },
         {
           "character": "方卿",
@@ -1816,7 +2244,17 @@
         "singing_ratio": 0.052,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.052,
+        0.2747,
+        0.7253,
+        0.0,
+        0.6,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 7,
@@ -1842,14 +2280,28 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "我的儿蒙圣恩高官爵显，\n镇三关为总兵天下扬名。"
+          "text": "我的儿蒙圣恩高官爵显，"
+        },
+        {
+          "character": "洪氏",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "镇三关为总兵天下扬名。"
         },
         {
           "character": "洪氏",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "老身洪氏。丈夫早已去世，所生一子，名叫云显，镇守三关为总镇。蒙圣恩已\n经诰封一品，好不荣耀也。"
+          "text": "老身洪氏。丈夫早已去世，所生一子，名叫云显，镇守三关为总镇。蒙圣恩已"
+        },
+        {
+          "character": "洪氏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "经诰封一品，好不荣耀也。"
         },
         {
           "character": null,
@@ -1863,7 +2315,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "适才间书房内猛虎出现，\n到房中见母亲细说分明。"
+          "text": "适才间书房内猛虎出现，"
+        },
+        {
+          "character": "毕秀金",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "到房中见母亲细说分明。"
         },
         {
           "character": "毕秀金",
@@ -1933,7 +2392,21 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "听此言不由我心中暗忖，\n方贤侄定必是伴驾之臣。\n岂由他不允承我儿终身！"
+          "text": "听此言不由我心中暗忖，"
+        },
+        {
+          "character": "洪氏",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "方贤侄定必是伴驾之臣。"
+        },
+        {
+          "character": "洪氏",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "岂由他不允承我儿终身！"
         },
         {
           "character": "洪氏",
@@ -2010,7 +2483,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "说哪里话来。有慢公子。\n吓儿吓，想公子年青，谅未婚配，为娘意欲将你妹许配公子为妻，公子料无推\n辞。"
+          "text": "说哪里话来。有慢公子。"
+        },
+        {
+          "character": "洪氏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "吓儿吓，想公子年青，谅未婚配，为娘意欲将你妹许配公子为妻，公子料无推"
+        },
+        {
+          "character": "洪氏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "辞。"
         },
         {
           "character": "毕云显",
@@ -2024,7 +2511,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "吓伯母大人，小侄蒙恩，本当应允，奈家母无有音信，岂敢有害贤妹？小侄今\n日上京赴试，若得功名成就，再当应允。"
+          "text": "吓伯母大人，小侄蒙恩，本当应允，奈家母无有音信，岂敢有害贤妹？小侄今"
+        },
+        {
+          "character": "方卿",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "日上京赴试，若得功名成就，再当应允。"
         },
         {
           "character": "洪氏",
@@ -2045,35 +2539,98 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "并非是违尊命好言不听，\n都只为身无主岂得定婚。\n望大人休误了小姐终身。"
+          "text": "并非是违尊命好言不听，"
         },
         {
-          "character": "有一日佐皇朝必当应允、毕云显",
+          "character": "方卿",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "都只为身无主岂得定婚。"
+        },
+        {
+          "character": "方卿",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "望大人休误了小姐终身。"
+        },
+        {
+          "character": "方卿",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "有一日佐皇朝必当应允"
+        },
+        {
+          "character": "毕云显",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
           "text": "贤弟吓！"
         },
         {
-          "character": "有一日佐皇朝必当应允、毕云显",
+          "character": "毕云显",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "有一日佐皇朝必当应允"
+        },
+        {
+          "character": "毕云显",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "劝贤弟休得要过于谦逊，\n老娘亲终日里为女终身。\n望贤弟向前来岳母相称。"
+          "text": "劝贤弟休得要过于谦逊，"
         },
         {
-          "character": "你若是不应允恐难违命、洪氏",
+          "character": "毕云显",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "老娘亲终日里为女终身。"
+        },
+        {
+          "character": "毕云显",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "望贤弟向前来岳母相称。"
+        },
+        {
+          "character": "毕云显",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "你若是不应允恐难违命"
+        },
+        {
+          "character": "洪氏",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
           "text": "吓公子！"
         },
         {
-          "character": "你若是不应允恐难违命、洪氏",
+          "character": "洪氏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "你若是不应允恐难违命"
+        },
+        {
+          "character": "洪氏",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "你若是今日里当面不允，\n莫非是寒贱家不配高门！"
+          "text": "你若是今日里当面不允，"
+        },
+        {
+          "character": "洪氏",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "莫非是寒贱家不配高门！"
         }
       ],
       "interactions": [
@@ -2129,7 +2686,17 @@
         "singing_ratio": 0.103,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.103,
+        0.3542,
+        0.6042,
+        0.0417,
+        0.4894,
+        5,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 8,
@@ -2494,7 +3061,17 @@
         "musical_styles": [
           "西皮流水板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.08,
+        0.2703,
+        0.7297,
+        0.0,
+        0.6111,
+        4,
+        0.027,
+        0.0
+      ]
     },
     {
       "scene_index": 9,
@@ -2512,7 +3089,7 @@
           "text": "（陈翠娥、彩屏同上。）"
         },
         {
-          "character": null,
+          "character": "彩屏",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -2573,7 +3150,17 @@
         "singing_ratio": 0.25,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.25,
+        0.25,
+        0.75,
+        0.0,
+        1.0,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 10,
@@ -3183,7 +3770,17 @@
         "singing_ratio": 0.053,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.053,
+        0.1343,
+        0.8358,
+        0.0299,
+        0.8182,
+        5,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 11,
@@ -3756,7 +4353,17 @@
         "musical_styles": [
           "二黄"
         ]
-      }
+      },
+      "scene_feature": [
+        0.208,
+        0.2833,
+        0.7,
+        0.0167,
+        0.7966,
+        6,
+        0.0,
+        0.0167
+      ]
     }
   ]
 }

@@ -135,21 +135,77 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "天气严寒云雾长，\n迎面朔风甚凄凉。\n紧抖丝缰马蹄忙。"
+          "text": "天气严寒云雾长，"
         },
         {
-          "character": "霎时稠云满天上、鹅毛大雪从天降、张飞",
+          "character": "刘备",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "迎面朔风甚凄凉。"
+        },
+        {
+          "character": "刘备",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "紧抖丝缰马蹄忙。"
+        },
+        {
+          "character": "刘备",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "霎时稠云满天上"
+        },
+        {
+          "character": "刘备",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "鹅毛大雪从天降"
+        },
+        {
+          "character": "张飞",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
           "text": "弟兄共议作商量。"
         },
         {
-          "character": "霎时稠云满天上、鹅毛大雪从天降、张飞",
+          "character": "张飞",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "霎时稠云满天上"
+        },
+        {
+          "character": "张飞",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "鹅毛大雪从天降"
+        },
+        {
+          "character": "张飞",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "兄长，这还去么？要依小弟看来，孔明也不过山野之人，诓哄那些无知愚民。\n今乃寒冬腊月，仇敌尚且止兵不战；何必冲风冒雪，来访无用村夫？不如回转\n新野，弟兄赏雪饮酒，何等快乐！"
+          "text": "兄长，这还去么？要依小弟看来，孔明也不过山野之人，诓哄那些无知愚民。"
+        },
+        {
+          "character": "张飞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "今乃寒冬腊月，仇敌尚且止兵不战；何必冲风冒雪，来访无用村夫？不如回转"
+        },
+        {
+          "character": "张飞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "新野，弟兄赏雪饮酒，何等快乐！"
         },
         {
           "character": "刘备",
@@ -163,7 +219,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "嗳，大哥！咱翼德死还不怕，岂有怕冷！既是兄长要去，哪有小弟回去之理？\n只怕孔明谢绝，咱弟兄岂不是又白走一趟，枉费心思，空劳气力！"
+          "text": "嗳，大哥！咱翼德死还不怕，岂有怕冷！既是兄长要去，哪有小弟回去之理？"
+        },
+        {
+          "character": "张飞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "只怕孔明谢绝，咱弟兄岂不是又白走一趟，枉费心思，空劳气力！"
         },
         {
           "character": "刘备",
@@ -184,7 +247,21 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "心急加鞭嫌马慢，\n弟兄一同去求贤。\n大雪纷纷遮满天。"
+          "text": "心急加鞭嫌马慢，"
+        },
+        {
+          "character": "刘备",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "弟兄一同去求贤。"
+        },
+        {
+          "character": "刘备",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "大雪纷纷遮满天。"
         },
         {
           "character": null,
@@ -213,7 +290,17 @@
         "singing_ratio": 0.429,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.429,
+        0.5789,
+        0.4211,
+        0.0,
+        0.3333,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -609,10 +696,31 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "朔风吹得雪满面，\n梨花剪碎一样般。\n有座酒肆在面前。"
+          "text": "朔风吹得雪满面，"
         },
         {
-          "character": "勒住丝缰用目看、石广元",
+          "character": "刘备",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "梨花剪碎一样般。"
+        },
+        {
+          "character": "刘备",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "有座酒肆在面前。"
+        },
+        {
+          "character": "刘备",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "勒住丝缰用目看"
+        },
+        {
+          "character": "石广元",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -637,35 +745,168 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "可叹前辈英雄汉，\n无人不把功名贪。\n保定周朝八百年。\n殷商闻知心胆寒！\n不过留名在世间。"
+          "text": "可叹前辈英雄汉，"
         },
         {
-          "character": "晚年姜尚离渭水、孟津誓师威风显、兴周灭纣功劳占、孟公威",
+          "character": "石广元",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "无人不把功名贪。"
+        },
+        {
+          "character": "石广元",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "保定周朝八百年。"
+        },
+        {
+          "character": "石广元",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "殷商闻知心胆寒！"
+        },
+        {
+          "character": "石广元",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "不过留名在世间。"
+        },
+        {
+          "character": "石广元",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "晚年姜尚离渭水"
+        },
+        {
+          "character": "石广元",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "孟津誓师威风显"
+        },
+        {
+          "character": "石广元",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "兴周灭纣功劳占"
+        },
+        {
+          "character": "孟公威",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
           "text": "饮酒！"
         },
         {
-          "character": "晚年姜尚离渭水、孟津誓师威风显、兴周灭纣功劳占、孟公威",
-          "line_type": "唱",
+          "character": "孟公威",
+          "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "又不见高阳女娟娟，\n长倚山内乐安然。\n世人如他却也难。\n二女濯足重相见。\n不过美名万古传。\n四百年来汉江山。"
+          "text": "晚年姜尚离渭水"
         },
         {
-          "character": "入关驰骋推雄辩、高祖斩蛇曾兴汉、石广元",
-          "line_type": "唱",
+          "character": "孟公威",
+          "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "到如今奸雄把国乱，\n各路诸侯起狼烟。"
+          "text": "孟津誓师威风显"
+        },
+        {
+          "character": "孟公威",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "兴周灭纣功劳占"
         },
         {
           "character": "孟公威",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "兴汉之事且莫管，\n赏雪观梅自心宽。"
+          "text": "又不见高阳女娟娟，"
+        },
+        {
+          "character": "孟公威",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "长倚山内乐安然。"
+        },
+        {
+          "character": "孟公威",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "世人如他却也难。"
+        },
+        {
+          "character": "孟公威",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "二女濯足重相见。"
+        },
+        {
+          "character": "孟公威",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "不过美名万古传。"
+        },
+        {
+          "character": "孟公威",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "四百年来汉江山。"
+        },
+        {
+          "character": "孟公威",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "入关驰骋推雄辩"
+        },
+        {
+          "character": "孟公威",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "高祖斩蛇曾兴汉"
+        },
+        {
+          "character": "石广元",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "到如今奸雄把国乱，"
+        },
+        {
+          "character": "石广元",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "各路诸侯起狼烟。"
+        },
+        {
+          "character": "孟公威",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "兴汉之事且莫管，"
+        },
+        {
+          "character": "孟公威",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "赏雪观梅自心宽。"
         },
         {
           "character": "刘备",
@@ -679,7 +920,21 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "一派高傲真罕见，\n定有卧龙在里边。\n走入酒肆用目观。"
+          "text": "一派高傲真罕见，"
+        },
+        {
+          "character": "刘备",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "定有卧龙在里边。"
+        },
+        {
+          "character": "刘备",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "走入酒肆用目观。"
         },
         {
           "character": "刘备",
@@ -689,7 +944,14 @@
           "text": "哦，二位之中，有卧龙先生否？"
         },
         {
-          "character": "甩镫离鞍下走战、石广元",
+          "character": "刘备",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "甩镫离鞍下走战"
+        },
+        {
+          "character": "石广元",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -700,7 +962,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "我乃左将军领豫州牧宜亭侯，现在新野屯兵，姓刘名备，为访卧龙先生到此，\n此是两次了。久闻卧龙先生，高名远震，特来拜访。"
+          "text": "我乃左将军领豫州牧宜亭侯，现在新野屯兵，姓刘名备，为访卧龙先生到此，"
+        },
+        {
+          "character": "刘备",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "此是两次了。久闻卧龙先生，高名远震，特来拜访。"
         },
         {
           "character": "石广元",
@@ -721,35 +990,84 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "愚下祖居汝南郡，\n石广元本是我的名。"
-        },
-        {
-          "character": "孟公威",
-          "line_type": "唱",
-          "musical_style": null,
-          "style_family": null,
-          "text": "卑人祖居汝南郡，\n孟公威隐居读诗文。\n看见名利倒伤情。"
-        },
-        {
-          "character": "隐居在此图清净、刘备",
-          "line_type": "唱",
-          "musical_style": null,
-          "style_family": null,
-          "text": "敢烦台驾把我领，\n同到茅庐见孔明。"
+          "text": "愚下祖居汝南郡，"
         },
         {
           "character": "石广元",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "我等朽材无大用，\n济世安民全不通。"
+          "text": "石广元本是我的名。"
         },
         {
           "character": "孟公威",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "尊驾要去即速请，\n今日诸葛在家中。"
+          "text": "卑人祖居汝南郡，"
+        },
+        {
+          "character": "孟公威",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "孟公威隐居读诗文。"
+        },
+        {
+          "character": "孟公威",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "看见名利倒伤情。"
+        },
+        {
+          "character": "孟公威",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "隐居在此图清净"
+        },
+        {
+          "character": "刘备",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "敢烦台驾把我领，"
+        },
+        {
+          "character": "刘备",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "同到茅庐见孔明。"
+        },
+        {
+          "character": "石广元",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我等朽材无大用，"
+        },
+        {
+          "character": "石广元",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "济世安民全不通。"
+        },
+        {
+          "character": "孟公威",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "尊驾要去即速请，"
+        },
+        {
+          "character": "孟公威",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "今日诸葛在家中。"
         },
         {
           "character": "刘备",
@@ -770,7 +1088,35 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "出得酒肆把马上，\n坐立银鞍自思量。\n人材全在这一方。\n不似凡人非寻常。\n大家齐向茅庐往！"
+          "text": "出得酒肆把马上，"
+        },
+        {
+          "character": "刘备",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "坐立银鞍自思量。"
+        },
+        {
+          "character": "刘备",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "人材全在这一方。"
+        },
+        {
+          "character": "刘备",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "不似凡人非寻常。"
+        },
+        {
+          "character": "刘备",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "大家齐向茅庐往！"
         },
         {
           "character": null,
@@ -876,7 +1222,17 @@
         "singing_ratio": 0.369,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.369,
+        0.5364,
+        0.4455,
+        0.0182,
+        0.5596,
+        5,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -923,7 +1279,56 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "弟兄隐居卧龙岗，\n务农为业倒安康。\n二哥抚琴散心肠。\n广读诗书乐洋洋。\n误国专权霸朝纲。\n心无大才保家邦。\n春种秋收度时光。\n吟诗作赋饮酒浆。"
+          "text": "弟兄隐居卧龙岗，"
+        },
+        {
+          "character": "诸葛均",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "务农为业倒安康。"
+        },
+        {
+          "character": "诸葛均",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "二哥抚琴散心肠。"
+        },
+        {
+          "character": "诸葛均",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "广读诗书乐洋洋。"
+        },
+        {
+          "character": "诸葛均",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "误国专权霸朝纲。"
+        },
+        {
+          "character": "诸葛均",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "心无大才保家邦。"
+        },
+        {
+          "character": "诸葛均",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "春种秋收度时光。"
+        },
+        {
+          "character": "诸葛均",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "吟诗作赋饮酒浆。"
         },
         {
           "character": "诸葛均",
@@ -944,7 +1349,21 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "路上懒观雪中景，\n一心只为访栋梁。\n小童扫雪好凄凉。"
+          "text": "路上懒观雪中景，"
+        },
+        {
+          "character": "刘备",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "一心只为访栋梁。"
+        },
+        {
+          "character": "刘备",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "小童扫雪好凄凉。"
         },
         {
           "character": "刘备",
@@ -961,7 +1380,21 @@
           "text": "你主人今天可在家乡？"
         },
         {
-          "character": "勒住丝缰用目望、下得马来把话讲、童儿",
+          "character": "刘备",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "勒住丝缰用目望"
+        },
+        {
+          "character": "刘备",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "下得马来把话讲"
+        },
+        {
+          "character": "童儿",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -972,7 +1405,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "好。\n二位贤弟在此略等片刻。愚兄见了孔明，自然有人来请进内。"
+          "text": "好。"
+        },
+        {
+          "character": "刘备",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "二位贤弟在此略等片刻。愚兄见了孔明，自然有人来请进内。"
         },
         {
           "character": "关羽、张飞",
@@ -1000,7 +1440,28 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "走入茅庐举目望，\n果然清雅非寻常。\n恰似蓬莱与天堂。\n苍松蟠龙在两旁。"
+          "text": "走入茅庐举目望，"
+        },
+        {
+          "character": "刘备",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "果然清雅非寻常。"
+        },
+        {
+          "character": "刘备",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "恰似蓬莱与天堂。"
+        },
+        {
+          "character": "刘备",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "苍松蟠龙在两旁。"
         },
         {
           "character": null,
@@ -1021,7 +1482,14 @@
           "line_type": "念",
           "musical_style": null,
           "style_family": null,
-          "text": "丹凤飞翔日万里，须得梧桐方栖身。困顿一方不为罕，身隐隆中待明君。\n自耕陇亩居山野，笑傲琴棋一书生。有朝一日逢明主，开基创业救生灵。"
+          "text": "丹凤飞翔日万里，须得梧桐方栖身。困顿一方不为罕，身隐隆中待明君。"
+        },
+        {
+          "character": "诸葛均",
+          "line_type": "念",
+          "musical_style": null,
+          "style_family": null,
+          "text": "自耕陇亩居山野，笑傲琴棋一书生。有朝一日逢明主，开基创业救生灵。"
         },
         {
           "character": "刘备",
@@ -1035,17 +1503,59 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "刘备这里暗沉吟，\n治国安邦智略深。\n上坐一人品貌清。\n先生一向可安宁？"
+          "text": "刘备这里暗沉吟，"
+        },
+        {
+          "character": "刘备",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "治国安邦智略深。"
+        },
+        {
+          "character": "刘备",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "上坐一人品貌清。"
+        },
+        {
+          "character": "刘备",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "先生一向可安宁？"
         },
         {
           "character": "刘备",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "久慕先生之名，无缘拜会。前者徐元直指引我刘备来到仙庄，不遇空回。今日\n冲风冒雪，实意而来，得观尊颜，实为万幸。"
+          "text": "久慕先生之名，无缘拜会。前者徐元直指引我刘备来到仙庄，不遇空回。今日"
         },
         {
-          "character": "掀帘且把房门进、走向前来礼恭敬、诸葛均",
+          "character": "刘备",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "冲风冒雪，实意而来，得观尊颜，实为万幸。"
+        },
+        {
+          "character": "刘备",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "掀帘且把房门进"
+        },
+        {
+          "character": "刘备",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "走向前来礼恭敬"
+        },
+        {
+          "character": "诸葛均",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -1105,7 +1615,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "我们弟兄三人。大家兄乃江东幕宾诸葛瑾，现今辅佐孙权。二家兄诸葛亮，于\n此地耕种为生。我乃孔明之弟诸葛均也！"
+          "text": "我们弟兄三人。大家兄乃江东幕宾诸葛瑾，现今辅佐孙权。二家兄诸葛亮，于"
+        },
+        {
+          "character": "诸葛均",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "此地耕种为生。我乃孔明之弟诸葛均也！"
         },
         {
           "character": "刘备",
@@ -1168,7 +1685,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "大哥听信了徐庶之言，说了个什么卧龙，犹如当世神仙。你我来访，到此二次。\n今日冒雪冲风前来，这等半晌时候，还不出来，想是见了诸葛谈心。小弟进\n去讨个示下，好回新野。"
+          "text": "大哥听信了徐庶之言，说了个什么卧龙，犹如当世神仙。你我来访，到此二次。"
+        },
+        {
+          "character": "张飞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "今日冒雪冲风前来，这等半晌时候，还不出来，想是见了诸葛谈心。小弟进"
+        },
+        {
+          "character": "张飞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "去讨个示下，好回新野。"
         },
         {
           "character": "关羽",
@@ -1210,7 +1741,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "将身急忙往里奔，\n草堂以外把身存。"
+          "text": "将身急忙往里奔，"
+        },
+        {
+          "character": "张飞",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "草堂以外把身存。"
         },
         {
           "character": "刘备",
@@ -1224,7 +1762,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "自恨刘备无缘份，\n到此不得遇高明。"
+          "text": "自恨刘备无缘份，"
+        },
+        {
+          "character": "刘备",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "到此不得遇高明。"
         },
         {
           "character": "张飞",
@@ -1245,7 +1790,21 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "你我既然到此处，\n必然要见诸葛孔明。\n叫那卧龙知兄心。"
+          "text": "你我既然到此处，"
+        },
+        {
+          "character": "刘备",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "必然要见诸葛孔明。"
+        },
+        {
+          "character": "刘备",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "叫那卧龙知兄心。"
         },
         {
           "character": null,
@@ -1266,14 +1825,42 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "善晓兵机韬略论，\n胸藏雄师百万兵。\n何不一一来指明？"
+          "text": "善晓兵机韬略论，"
         },
         {
-          "character": "想来先生也知晓、诸葛均",
+          "character": "刘备",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "胸藏雄师百万兵。"
+        },
+        {
+          "character": "刘备",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "何不一一来指明？"
+        },
+        {
+          "character": "刘备",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "想来先生也知晓"
+        },
+        {
+          "character": "诸葛均",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "玄德公，这些闲事我一概不知。我只知耕田耙陇农田之事。韬略兵机，我不晓\n是什么事体。"
+          "text": "玄德公，这些闲事我一概不知。我只知耕田耙陇农田之事。韬略兵机，我不晓"
+        },
+        {
+          "character": "诸葛均",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "是什么事体。"
         },
         {
           "character": null,
@@ -1301,7 +1888,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "嗳，大哥，他是个村夫，和他讲的什么兵机韬略？看此光景，他的兄长也不过\n如此。如今外面雪越发大了，风越发紧了，不如即早回去，倒是正理。再等一\n时，雪大道路难行了！"
+          "text": "嗳，大哥，他是个村夫，和他讲的什么兵机韬略？看此光景，他的兄长也不过"
+        },
+        {
+          "character": "张飞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "如此。如今外面雪越发大了，风越发紧了，不如即早回去，倒是正理。再等一"
+        },
+        {
+          "character": "张飞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "时，雪大道路难行了！"
         },
         {
           "character": "诸葛均",
@@ -1329,7 +1930,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "容日山民再回敬，\n村夫野人恕不恭。"
+          "text": "容日山民再回敬，"
+        },
+        {
+          "character": "诸葛均",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "村夫野人恕不恭。"
         },
         {
           "character": "刘备",
@@ -1343,10 +1951,31 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "数日之内再拜定，\n还要亲来到府中。\n草字相留与令兄。"
+          "text": "数日之内再拜定，"
         },
         {
-          "character": "求借笔砚我使用、诸葛均",
+          "character": "刘备",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "还要亲来到府中。"
+        },
+        {
+          "character": "刘备",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "草字相留与令兄。"
+        },
+        {
+          "character": "刘备",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "求借笔砚我使用"
+        },
+        {
+          "character": "诸葛均",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -1378,7 +2007,91 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "上写拜定多拜定，\n拜上先生卧龙公。\n连来二次未相逢。\n好似游丝飘空中。\n汉室苗裔众不同。\n义秉丹心尽孤忠。\n奸臣当道逞暴凶。\n匡扶社稷无寸功。\n常存忠义在胸中。\n才高子房胜姜公。\n全仗隆中一卧龙。\n再拜尊颜在隆中。\n亲笔书函与卧龙。"
+          "text": "上写拜定多拜定，"
+        },
+        {
+          "character": "刘备",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "拜上先生卧龙公。"
+        },
+        {
+          "character": "刘备",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "连来二次未相逢。"
+        },
+        {
+          "character": "刘备",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "好似游丝飘空中。"
+        },
+        {
+          "character": "刘备",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "汉室苗裔众不同。"
+        },
+        {
+          "character": "刘备",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "义秉丹心尽孤忠。"
+        },
+        {
+          "character": "刘备",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "奸臣当道逞暴凶。"
+        },
+        {
+          "character": "刘备",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "匡扶社稷无寸功。"
+        },
+        {
+          "character": "刘备",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "常存忠义在胸中。"
+        },
+        {
+          "character": "刘备",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "才高子房胜姜公。"
+        },
+        {
+          "character": "刘备",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "全仗隆中一卧龙。"
+        },
+        {
+          "character": "刘备",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "再拜尊颜在隆中。"
+        },
+        {
+          "character": "刘备",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "亲笔书函与卧龙。"
         },
         {
           "character": "刘备",
@@ -1388,7 +2101,84 @@
           "text": "啊，烦劳先生将此信呈与令兄观览，备另日再来拜访，告辞！"
         },
         {
-          "character": "汉左将军豫州牧、空回心魂皆不定、窃思备乃汉支脉、荷蒙皇恩封极品、目今四野干戈动、刘备忧思肝胆重、久闻先生韬略广、伏乞先生施仁义、早出茅庐为辅佐、他日沐浴备来请、万勿推却实为幸、诸葛均",
+          "character": "刘备",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "汉左将军豫州牧"
+        },
+        {
+          "character": "刘备",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "空回心魂皆不定"
+        },
+        {
+          "character": "刘备",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "窃思备乃汉支脉"
+        },
+        {
+          "character": "刘备",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "荷蒙皇恩封极品"
+        },
+        {
+          "character": "刘备",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "目今四野干戈动"
+        },
+        {
+          "character": "刘备",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "刘备忧思肝胆重"
+        },
+        {
+          "character": "刘备",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "久闻先生韬略广"
+        },
+        {
+          "character": "刘备",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "伏乞先生施仁义"
+        },
+        {
+          "character": "刘备",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "早出茅庐为辅佐"
+        },
+        {
+          "character": "刘备",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "他日沐浴备来请"
+        },
+        {
+          "character": "刘备",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "万勿推却实为幸"
+        },
+        {
+          "character": "诸葛均",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -1427,7 +2217,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "卧龙不在家内。他三弟诸葛均却也恭敬。愚兄现借文房四宝，写下书信，留在\n他家。适才相送庄外，就是卧龙先生的三弟。"
+          "text": "卧龙不在家内。他三弟诸葛均却也恭敬。愚兄现借文房四宝，写下书信，留在"
+        },
+        {
+          "character": "刘备",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "他家。适才相送庄外，就是卧龙先生的三弟。"
         },
         {
           "character": "关羽",
@@ -1448,7 +2245,56 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "弟兄正要上能行，\n雪地来了两个人。\n一个小童随后跟。\n茶色道服紧着身。\n足下云鞋不染尘。\n鹤发童颜鬓似银。\n今朝到底见孔明。\n他口内吟诗语高声。"
+          "text": "弟兄正要上能行，"
+        },
+        {
+          "character": "刘备",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "雪地来了两个人。"
+        },
+        {
+          "character": "刘备",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "一个小童随后跟。"
+        },
+        {
+          "character": "刘备",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "茶色道服紧着身。"
+        },
+        {
+          "character": "刘备",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "足下云鞋不染尘。"
+        },
+        {
+          "character": "刘备",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "鹤发童颜鬓似银。"
+        },
+        {
+          "character": "刘备",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "今朝到底见孔明。"
+        },
+        {
+          "character": "刘备",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "他口内吟诗语高声。"
         },
         {
           "character": null,
@@ -1462,7 +2308,21 @@
           "line_type": "念",
           "musical_style": null,
           "style_family": null,
-          "text": "一夜北风寒，万里彤云厚。长空雪乱飘，改尽江山旧。\n仰面观太虚，疑是玉龙斗。纷纷鳞甲飞，顷刻遍宇宙。\n骑驴过小桥，独叹梅花瘦。"
+          "text": "一夜北风寒，万里彤云厚。长空雪乱飘，改尽江山旧。"
+        },
+        {
+          "character": "黄承彦",
+          "line_type": "念",
+          "musical_style": null,
+          "style_family": null,
+          "text": "仰面观太虚，疑是玉龙斗。纷纷鳞甲飞，顷刻遍宇宙。"
+        },
+        {
+          "character": "黄承彦",
+          "line_type": "念",
+          "musical_style": null,
+          "style_family": null,
+          "text": "骑驴过小桥，独叹梅花瘦。"
         },
         {
           "character": "黄承彦",
@@ -1483,7 +2343,21 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "听他吟诗心喜甚，\n此人定是卧龙公。\n冲风冒雪访先生。"
+          "text": "听他吟诗心喜甚，"
+        },
+        {
+          "character": "刘备",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "此人定是卧龙公。"
+        },
+        {
+          "character": "刘备",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "冲风冒雪访先生。"
         },
         {
           "character": null,
@@ -1560,10 +2434,52 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "奸雄当道权衡掌，\n刘备意欲扶家邦。\n汉室衰微乱朝纲。\n雪照乾坤迷路旁。"
+          "text": "奸雄当道权衡掌，"
         },
         {
-          "character": "不顾风寒茅庐访、未遇空回遥观望、辞别先生把马上、诸葛均",
+          "character": "刘备",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "刘备意欲扶家邦。"
+        },
+        {
+          "character": "刘备",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "汉室衰微乱朝纲。"
+        },
+        {
+          "character": "刘备",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "雪照乾坤迷路旁。"
+        },
+        {
+          "character": "刘备",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "不顾风寒茅庐访"
+        },
+        {
+          "character": "刘备",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "未遇空回遥观望"
+        },
+        {
+          "character": "刘备",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "辞别先生把马上"
+        },
+        {
+          "character": "诸葛均",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -1729,7 +2645,17 @@
         "singing_ratio": 0.085,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.085,
+        0.4251,
+        0.5329,
+        0.0419,
+        0.3976,
+        8,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 4,
@@ -1754,7 +2680,28 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "光阴似箭催得紧，\n残冬已过交新春。\n忽然想起诸葛孔明。\n请来扶保整乾坤。"
+          "text": "光阴似箭催得紧，"
+        },
+        {
+          "character": "刘备",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "残冬已过交新春。"
+        },
+        {
+          "character": "刘备",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "忽然想起诸葛孔明。"
+        },
+        {
+          "character": "刘备",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "请来扶保整乾坤。"
         },
         {
           "character": "刘备",
@@ -1764,7 +2711,28 @@
           "text": "二位贤弟！"
         },
         {
-          "character": "上元过了数日整、一心无二去相聘、关羽、张飞",
+          "character": "刘备",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "上元过了数日整"
+        },
+        {
+          "character": "刘备",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "一心无二去相聘"
+        },
+        {
+          "character": "刘备",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "关羽"
+        },
+        {
+          "character": "张飞",
           "line_type": "同白",
           "musical_style": null,
           "style_family": null,
@@ -1796,7 +2764,35 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "兄长常礼太恭敬，\n旁人闻知恐笑声。\n打量不过是虚名。\n二次不见为何情？\n兄长为国"
+          "text": "兄长常礼太恭敬，"
+        },
+        {
+          "character": "关羽",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "旁人闻知恐笑声。"
+        },
+        {
+          "character": "关羽",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "打量不过是虚名。"
+        },
+        {
+          "character": "关羽",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "二次不见为何情？"
+        },
+        {
+          "character": "关羽",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "兄长为国"
         }
       ],
       "interactions": [
@@ -1835,7 +2831,17 @@
         "singing_ratio": 0.429,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.429,
+        0.5294,
+        0.4706,
+        0.0,
+        0.25,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 5,
@@ -2653,7 +3659,17 @@
         "singing_ratio": 0.254,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.254,
+        0.2706,
+        0.7059,
+        0.0235,
+        0.7857,
+        7,
+        0.0,
+        0.0
+      ]
     }
   ]
 }

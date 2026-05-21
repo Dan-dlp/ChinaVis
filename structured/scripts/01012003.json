@@ -107,28 +107,28 @@
           "text": "（龙套、高行周同上。）"
         },
         {
-          "character": null,
+          "character": "高行周",
           "line_type": "念",
           "musical_style": null,
           "style_family": null,
           "text": "忆昔当年逞豪强，五龙二虎逼彦章。老夫先蹋金角椅，才得官封东鲁王。"
         },
         {
-          "character": null,
+          "character": "高行周",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
           "text": "老夫高行周，在刘怀王驾前为臣，官拜东鲁王之位。只因昨晚夜观天象，只见"
         },
         {
-          "character": null,
+          "character": "高行周",
           "line_type": "念",
           "musical_style": null,
           "style_family": null,
           "text": "大国州来小国州，单枪匹马几时休。算来把刀项上去，为国尽忠不到头。"
         },
         {
-          "character": null,
+          "character": "高行周",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -631,7 +631,17 @@
           "西皮慢板",
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.122,
+        0.2453,
+        0.7358,
+        0.0189,
+        0.7308,
+        5,
+        0.2264,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -803,7 +813,17 @@
           "西皮慢板",
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.833,
+        0.6923,
+        0.3077,
+        0.0,
+        0.25,
+        3,
+        0.6923,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -855,7 +875,35 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "昨晚一梦大不祥，\n梦见吾主刘怀王。\n君臣们对坐叙叙家常。\n午时三刻一命亡。\n等等等等，等候了河东赵玄郎。"
+          "text": "昨晚一梦大不祥，"
+        },
+        {
+          "character": "高行周",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "梦见吾主刘怀王。"
+        },
+        {
+          "character": "高行周",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "君臣们对坐叙叙家常。"
+        },
+        {
+          "character": "高行周",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "午时三刻一命亡。"
+        },
+        {
+          "character": "高行周",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "等等等等，等候了河东赵玄郎。"
         },
         {
           "character": null,
@@ -869,7 +917,28 @@
           "line_type": "西皮快板",
           "musical_style": "西皮快板",
           "style_family": "西皮",
-          "text": "过了头关到二关，\n满营将士不敢拦。\n上面坐的将一员。\n昔年大战狗鸡滩。"
+          "text": "过了头关到二关，"
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "满营将士不敢拦。"
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "上面坐的将一员。"
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "昔年大战狗鸡滩。"
         },
         {
           "character": null,
@@ -981,17 +1050,73 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "好一个“占先”二字。\n且住，人道赵匡胤有九五之尊。老夫幼年，学就麻衣神相，不免与他相上一相。\n他若有九五之尊，老夫助他成功；他若无有九五之尊，要想出高平，万万不\n能。\n香孩儿，把燕毡帽，齐眉按定了。"
+          "text": "好一个“占先”二字。"
+        },
+        {
+          "character": "高行周",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "且住，人道赵匡胤有九五之尊。老夫幼年，学就麻衣神相，不免与他相上一相。"
+        },
+        {
+          "character": "高行周",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "他若有九五之尊，老夫助他成功；他若无有九五之尊，要想出高平，万万不"
+        },
+        {
+          "character": "高行周",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "能。"
+        },
+        {
+          "character": "高行周",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "香孩儿，把燕毡帽，齐眉按定了。"
         },
         {
           "character": "高行周",
           "line_type": "西皮慢板",
           "musical_style": "西皮慢板",
           "style_family": "西皮",
-          "text": "高行周坐虎堂用目观望，\n看一看河东的赵玄郎。\n到后来他必定坐镇家邦。\n问玄郎到此间因为何故？"
+          "text": "高行周坐虎堂用目观望，"
         },
         {
-          "character": "丹凤眼卧蚕眉，帝王之相、赵匡胤",
+          "character": "高行周",
+          "line_type": "西皮慢板",
+          "musical_style": "西皮慢板",
+          "style_family": "西皮",
+          "text": "看一看河东的赵玄郎。"
+        },
+        {
+          "character": "高行周",
+          "line_type": "西皮慢板",
+          "musical_style": "西皮慢板",
+          "style_family": "西皮",
+          "text": "到后来他必定坐镇家邦。"
+        },
+        {
+          "character": "高行周",
+          "line_type": "西皮慢板",
+          "musical_style": "西皮慢板",
+          "style_family": "西皮",
+          "text": "问玄郎到此间因为何故？"
+        },
+        {
+          "character": "高行周",
+          "line_type": "西皮慢板",
+          "musical_style": "西皮慢板",
+          "style_family": "西皮",
+          "text": "丹凤眼卧蚕眉，帝王之相"
+        },
+        {
+          "character": "赵匡胤",
           "line_type": "西皮慢板",
           "musical_style": "西皮慢板",
           "style_family": "西皮",
@@ -1009,17 +1134,108 @@
           "line_type": "西皮快板",
           "musical_style": "西皮快板",
           "style_family": "西皮",
-          "text": "问什么安来问什么宁，\n伯父心中明如灯。\n为什么二次到高平。\n老夫怎比刘怀君。\n右有刘安和刘明。\n怀德、怀良杀人精。\n还有三千鹞子兵。"
+          "text": "问什么安来问什么宁，"
         },
         {
-          "character": "杀了刘王就该走、高平怎比燕京地、左有天吉和天庆、四员虎将我不表、休提老夫年纪迈、赵匡胤",
+          "character": "高行周",
           "line_type": "西皮快板",
           "musical_style": "西皮快板",
           "style_family": "西皮",
-          "text": "那老儿他倒有隔山照镜，\n就知道俺玄郎要杀他人。"
+          "text": "伯父心中明如灯。"
         },
         {
-          "character": "不杀老儿回淮庆、高行周",
+          "character": "高行周",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "为什么二次到高平。"
+        },
+        {
+          "character": "高行周",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "老夫怎比刘怀君。"
+        },
+        {
+          "character": "高行周",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "右有刘安和刘明。"
+        },
+        {
+          "character": "高行周",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "怀德、怀良杀人精。"
+        },
+        {
+          "character": "高行周",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "还有三千鹞子兵。"
+        },
+        {
+          "character": "高行周",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "杀了刘王就该走"
+        },
+        {
+          "character": "高行周",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "高平怎比燕京地"
+        },
+        {
+          "character": "高行周",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "左有天吉和天庆"
+        },
+        {
+          "character": "高行周",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "四员虎将我不表"
+        },
+        {
+          "character": "高行周",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "休提老夫年纪迈"
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "那老儿他倒有隔山照镜，"
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "就知道俺玄郎要杀他人。"
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "不杀老儿回淮庆"
+        },
+        {
+          "character": "高行周",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -1065,7 +1281,21 @@
           "line_type": "西皮慢板",
           "musical_style": "西皮慢板",
           "style_family": "西皮",
-          "text": "拆书信，观风景，\n一字字一行行上写分明：\n借你的人头表一表人情。"
+          "text": "拆书信，观风景，"
+        },
+        {
+          "character": "高行周",
+          "line_type": "西皮慢板",
+          "musical_style": "西皮慢板",
+          "style_family": "西皮",
+          "text": "一字字一行行上写分明："
+        },
+        {
+          "character": "高行周",
+          "line_type": "西皮慢板",
+          "musical_style": "西皮慢板",
+          "style_family": "西皮",
+          "text": "借你的人头表一表人情。"
         },
         {
           "character": "高行周",
@@ -1079,10 +1309,31 @@
           "line_type": "西皮快板",
           "musical_style": "西皮快板",
           "style_family": "西皮",
-          "text": "世上别的俱已借，\n借了人头怎为人？\n问玄郎杀伯父因为何故？"
+          "text": "世上别的俱已借，"
         },
         {
-          "character": "书信到此无别论、赵匡胤",
+          "character": "高行周",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "借了人头怎为人？"
+        },
+        {
+          "character": "高行周",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "问玄郎杀伯父因为何故？"
+        },
+        {
+          "character": "高行周",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "书信到此无别论"
+        },
+        {
+          "character": "赵匡胤",
           "line_type": "西皮快板",
           "musical_style": "西皮快板",
           "style_family": "西皮",
@@ -1093,28 +1344,56 @@
           "line_type": "西皮快板",
           "musical_style": "西皮快板",
           "style_family": "西皮",
-          "text": "你有一双亲父母，\n怀德、怀良无父亲。"
-        },
-        {
-          "character": "赵匡胤",
-          "line_type": "西皮快板",
-          "musical_style": "西皮快板",
-          "style_family": "西皮",
-          "text": "伯父助儿把功成，\n怀德、怀良我看承。"
+          "text": "你有一双亲父母，"
         },
         {
           "character": "高行周",
           "line_type": "西皮快板",
           "musical_style": "西皮快板",
           "style_family": "西皮",
-          "text": "吾儿本是将门子，\n岂用你赵家来看承？"
+          "text": "怀德、怀良无父亲。"
         },
         {
           "character": "赵匡胤",
           "line_type": "西皮快板",
           "musical_style": "西皮快板",
           "style_family": "西皮",
-          "text": "我有一妹赵美容，\n愿许怀德配为婚。"
+          "text": "伯父助儿把功成，"
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "怀德、怀良我看承。"
+        },
+        {
+          "character": "高行周",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "吾儿本是将门子，"
+        },
+        {
+          "character": "高行周",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "岂用你赵家来看承？"
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "我有一妹赵美容，"
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "愿许怀德配为婚。"
         },
         {
           "character": "高行周",
@@ -1128,38 +1407,129 @@
           "line_type": "西皮快板",
           "musical_style": "西皮快板",
           "style_family": "西皮",
-          "text": "伯父说话欠聪明。\n全凭两膀定乾坤。"
+          "text": "伯父说话欠聪明。"
         },
         {
-          "character": "天地日月轮流转、高行周",
+          "character": "赵匡胤",
           "line_type": "西皮快板",
           "musical_style": "西皮快板",
           "style_family": "西皮",
-          "text": "走关西来走关东，\n这句话儿解不明。\n老夫助儿把功成；\n要出高平万不能。"
+          "text": "全凭两膀定乾坤。"
         },
         {
-          "character": "你若解开其中意、你若不解其中意、赵匡胤",
+          "character": "赵匡胤",
           "line_type": "西皮快板",
           "musical_style": "西皮快板",
           "style_family": "西皮",
-          "text": "走关西来走关东，\n这句话儿解不通。"
+          "text": "天地日月轮流转"
         },
         {
-          "character": "你若解开其中意、你若不解其中意、赵匡胤",
+          "character": "高行周",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "走关西来走关东，"
+        },
+        {
+          "character": "高行周",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "这句话儿解不明。"
+        },
+        {
+          "character": "高行周",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "老夫助儿把功成；"
+        },
+        {
+          "character": "高行周",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "要出高平万不能。"
+        },
+        {
+          "character": "高行周",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "你若解开其中意"
+        },
+        {
+          "character": "高行周",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "你若不解其中意"
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "走关西来走关东，"
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "这句话儿解不通。"
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "你若解开其中意"
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "你若不解其中意"
+        },
+        {
+          "character": "赵匡胤",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
           "text": "吓！"
         },
         {
-          "character": "你若解开其中意、你若不解其中意、赵匡胤",
+          "character": "赵匡胤",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "你若解开其中意"
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "你若不解其中意"
+        },
+        {
+          "character": "赵匡胤",
           "line_type": "西皮快板",
           "musical_style": "西皮快板",
           "style_family": "西皮",
           "text": "想是伯父要合同。"
         },
         {
-          "character": "低下头来暗思想、高行周",
+          "character": "赵匡胤",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "低下头来暗思想"
+        },
+        {
+          "character": "高行周",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -1233,31 +1603,157 @@
           "line_type": "西皮慢板",
           "musical_style": "西皮慢板",
           "style_family": "西皮",
-          "text": "二次里下高平鬼使神差。\n手提着羊毫笔仔细写来：\n二辈祖赵怀亲颇有家财；\n一杆枪挣下了免死金牌。\n我的母窦氏女曾受过皇王封来。"
+          "text": "二次里下高平鬼使神差。"
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "西皮慢板",
+          "musical_style": "西皮慢板",
+          "style_family": "西皮",
+          "text": "手提着羊毫笔仔细写来："
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "西皮慢板",
+          "musical_style": "西皮慢板",
+          "style_family": "西皮",
+          "text": "二辈祖赵怀亲颇有家财；"
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "西皮慢板",
+          "musical_style": "西皮慢板",
+          "style_family": "西皮",
+          "text": "一杆枪挣下了免死金牌。"
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "西皮慢板",
+          "musical_style": "西皮慢板",
+          "style_family": "西皮",
+          "text": "我的母窦氏女曾受过皇王封来。"
         },
         {
           "character": "赵匡胤",
           "line_type": "西皮快板",
           "musical_style": "西皮快板",
           "style_family": "西皮",
-          "text": "我的妹赵美容八字癸亥，\n秋八月十五日降下裙钗。\n但愿得他夫妻到老和谐。\n老伯父拿去观自刎头来。"
+          "text": "我的妹赵美容八字癸亥，"
         },
         {
-          "character": "对伯父施一礼虎堂来踹、头辈祖名赵霸父子员外、三辈祖名赵保随唐挂帅、吾的父赵洪恩皇堂现在、我赵门与高家结下亲爱、我这里写合同媒妁不代、高行周",
+          "character": "赵匡胤",
           "line_type": "西皮快板",
           "musical_style": "西皮快板",
           "style_family": "西皮",
-          "text": "见合同写得是倒也慷慨，\n赵玄郎巧机关老夫解开。\n少画押无媒证怎把亲抬？"
+          "text": "秋八月十五日降下裙钗。"
         },
         {
-          "character": "我两家结亲事名扬四海、赵匡胤",
+          "character": "赵匡胤",
           "line_type": "西皮快板",
           "musical_style": "西皮快板",
           "style_family": "西皮",
-          "text": "那老儿虽年迈聪明还在，\n赵玄郎用巧计被他解开。"
+          "text": "但愿得他夫妻到老和谐。"
         },
         {
-          "character": "提羊毫就写柴子耀、高行周",
+          "character": "赵匡胤",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "老伯父拿去观自刎头来。"
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "对伯父施一礼虎堂来踹"
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "头辈祖名赵霸父子员外"
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "三辈祖名赵保随唐挂帅"
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "吾的父赵洪恩皇堂现在"
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "我赵门与高家结下亲爱"
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "我这里写合同媒妁不代"
+        },
+        {
+          "character": "高行周",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "见合同写得是倒也慷慨，"
+        },
+        {
+          "character": "高行周",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "赵玄郎巧机关老夫解开。"
+        },
+        {
+          "character": "高行周",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "少画押无媒证怎把亲抬？"
+        },
+        {
+          "character": "高行周",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "我两家结亲事名扬四海"
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "那老儿虽年迈聪明还在，"
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "赵玄郎用巧计被他解开。"
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "提羊毫就写柴子耀"
+        },
+        {
+          "character": "高行周",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -1310,21 +1806,42 @@
           "line_type": "西皮快板",
           "musical_style": "西皮快板",
           "style_family": "西皮",
-          "text": "这不要那不要把儿难坏，\n老伯父要何人自己讲来。"
-        },
-        {
-          "character": "高行周",
-          "line_type": "西皮快板",
-          "musical_style": "西皮快板",
-          "style_family": "西皮",
-          "text": "董家桥打五虎几人结拜，\n谁是兄谁是弟说个明白。"
+          "text": "这不要那不要把儿难坏，"
         },
         {
           "character": "赵匡胤",
           "line_type": "西皮快板",
           "musical_style": "西皮快板",
           "style_family": "西皮",
-          "text": "董家桥打五虎三人结拜，\n还有个郑子明未曾写来。"
+          "text": "老伯父要何人自己讲来。"
+        },
+        {
+          "character": "高行周",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "董家桥打五虎几人结拜，"
+        },
+        {
+          "character": "高行周",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "谁是兄谁是弟说个明白。"
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "董家桥打五虎三人结拜，"
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "还有个郑子明未曾写来。"
         },
         {
           "character": "高行周",
@@ -1359,24 +1876,136 @@
           "line_type": "西皮快板",
           "musical_style": "西皮快板",
           "style_family": "西皮",
-          "text": "昨夜晚观星斗霞光无在，\n郑子明老苍龙降下凡来。"
+          "text": "昨夜晚观星斗霞光无在，"
         },
         {
-          "character": "叫玄郎写郑恩老夫心爱、赵匡胤",
+          "character": "高行周",
           "line_type": "西皮快板",
           "musical_style": "西皮快板",
           "style_family": "西皮",
-          "text": "提笔就写郑英才。\n偶遇先生八卦高。\n说我后来有九朝。\n伯父近前听封号：\n九岁女儿入皇朝。\n老伯父拿去看自把头招。"
+          "text": "郑子明老苍龙降下凡来。"
         },
         {
-          "character": "昔日打马过金桥、他把我八字安排好、有九朝来坐九朝、七岁孩儿戴纱帽、一封合同忙写好、高行周",
+          "character": "高行周",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "叫玄郎写郑恩老夫心爱"
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "提笔就写郑英才。"
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "偶遇先生八卦高。"
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "说我后来有九朝。"
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "伯父近前听封号："
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "九岁女儿入皇朝。"
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "老伯父拿去看自把头招。"
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "昔日打马过金桥"
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "他把我八字安排好"
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "有九朝来坐九朝"
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "七岁孩儿戴纱帽"
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "一封合同忙写好"
+        },
+        {
+          "character": "高行周",
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "一见合同魂不在，\n一张纸换下人头来。\n袖儿内藏合同神鬼难猜。"
+          "text": "一见合同魂不在，"
         },
         {
-          "character": "叫玄郎你把颜色卖、叫玄郎你把上关路带、赵匡胤",
+          "character": "高行周",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "一张纸换下人头来。"
+        },
+        {
+          "character": "高行周",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "袖儿内藏合同神鬼难猜。"
+        },
+        {
+          "character": "高行周",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "叫玄郎你把颜色卖"
+        },
+        {
+          "character": "高行周",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "叫玄郎你把上关路带"
+        },
+        {
+          "character": "赵匡胤",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -1401,10 +2030,24 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "吓吓吓，我的儿吓！\n父子们要相逢梦里再来。"
+          "text": "吓吓吓，我的儿吓！"
         },
         {
-          "character": "叫玄郎你把上房路带、赵匡胤",
+          "character": "高行周",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "父子们要相逢梦里再来。"
+        },
+        {
+          "character": "高行周",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "叫玄郎你把上房路带"
+        },
+        {
+          "character": "赵匡胤",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -1429,7 +2072,14 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "哎哎哎，吾的妻吓！\n夫妻们要相逢转世再来。"
+          "text": "哎哎哎，吾的妻吓！"
+        },
+        {
+          "character": "高行周",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "夫妻们要相逢转世再来。"
         },
         {
           "character": "高行周",
@@ -1463,7 +2113,17 @@
           "西皮慢板",
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.487,
+        0.7337,
+        0.2663,
+        0.0,
+        0.381,
+        2,
+        0.7337,
+        0.0
+      ]
     }
   ]
 }

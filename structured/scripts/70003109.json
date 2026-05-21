@@ -126,7 +126,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "某，无敌大将军文丑，奉主帅之命催运粮草，粮草催齐，回营交令。\n呔！军士们，回营！"
+          "text": "某，无敌大将军文丑，奉主帅之命催运粮草，粮草催齐，回营交令。"
+        },
+        {
+          "character": "文丑",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "呔！军士们，回营！"
         },
         {
           "character": null,
@@ -145,7 +152,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -185,7 +202,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "某，袁本初。前者兴兵灭曹，命大将颜良，攻打白马坡，未知胜负，且听探子\n一报。"
+          "text": "某，袁本初。前者兴兵灭曹，命大将颜良，攻打白马坡，未知胜负，且听探子"
+        },
+        {
+          "character": "袁绍",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "一报。"
         },
         {
           "character": null,
@@ -248,7 +272,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "且住！颜良被红脸大汉，刀劈落马，定是刘备之弟关羽所为。\n来，传刘备进帐！"
+          "text": "且住！颜良被红脸大汉，刀劈落马，定是刘备之弟关羽所为。"
+        },
+        {
+          "character": "袁绍",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来，传刘备进帐！"
         },
         {
           "character": "四文堂",
@@ -276,7 +307,21 @@
           "line_type": "西皮快板",
           "musical_style": "西皮快板",
           "style_family": "西皮",
-          "text": "盟主帐中唤一声，\n倒叫刘备犯叮咛。\n盟主发怒为何情？"
+          "text": "盟主帐中唤一声，"
+        },
+        {
+          "character": "刘备",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "倒叫刘备犯叮咛。"
+        },
+        {
+          "character": "刘备",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "盟主发怒为何情？"
         },
         {
           "character": "刘备",
@@ -286,11 +331,25 @@
           "text": "参见盟主。"
         },
         {
-          "character": "迈步且把宝帐进、袁绍",
+          "character": "刘备",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "唗，大胆刘备，我大将颜良，被红脸大汉，刀劈落马，定是你二弟关云长所为！\n来啊，将刘备推出斩了。"
+          "text": "迈步且把宝帐进"
+        },
+        {
+          "character": "袁绍",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "唗，大胆刘备，我大将颜良，被红脸大汉，刀劈落马，定是你二弟关云长所为！"
+        },
+        {
+          "character": "袁绍",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来啊，将刘备推出斩了。"
         },
         {
           "character": "刘备",
@@ -311,7 +370,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "明公只听一面之词，而绝往日之情耶？备自徐州失散，二弟云长未知存亡，天\n下同貌者颇多，岂赤面长髯之人，即为云长？望公思之。"
+          "text": "明公只听一面之词，而绝往日之情耶？备自徐州失散，二弟云长未知存亡，天"
+        },
+        {
+          "character": "刘备",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "下同貌者颇多，岂赤面长髯之人，即为云长？望公思之。"
         },
         {
           "character": "袁绍",
@@ -353,7 +419,21 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "听说颜良把命丧，\n不由某家怒满堂。\n迈步且把宝帐上——"
+          "text": "听说颜良把命丧，"
+        },
+        {
+          "character": "文丑",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "不由某家怒满堂。"
+        },
+        {
+          "character": "文丑",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "迈步且把宝帐上——"
         },
         {
           "character": "文丑",
@@ -374,7 +454,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "主帅，探马报道，颜良被红脸大汉，刀劈落马。末将愿讨一支将令，与颜良报\n仇雪恨啊！"
+          "text": "主帅，探马报道，颜良被红脸大汉，刀劈落马。末将愿讨一支将令，与颜良报"
+        },
+        {
+          "character": "文丑",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "仇雪恨啊！"
         },
         {
           "character": "袁绍",
@@ -513,7 +600,17 @@
         "musical_styles": [
           "西皮快板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.037,
+        0.1778,
+        0.8,
+        0.0222,
+        0.5682,
+        5,
+        0.0667,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -535,7 +632,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "旌旗遮盖半壁天。\n刘备紧追马加鞭。"
+          "text": "旌旗遮盖半壁天。"
+        },
+        {
+          "character": "文丑",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "刘备紧追马加鞭。"
         },
         {
           "character": null,
@@ -591,7 +695,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "待备去到阵前，高坡之上，执一红灯，若是我二弟出马，我将红灯坠下，将军\n千万不可交战，备说他来降！"
+          "text": "待备去到阵前，高坡之上，执一红灯，若是我二弟出马，我将红灯坠下，将军"
+        },
+        {
+          "character": "刘备",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "千万不可交战，备说他来降！"
         },
         {
           "character": "文丑",
@@ -648,7 +759,17 @@
         "singing_ratio": 0.091,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.091,
+        0.1538,
+        0.8462,
+        0.0,
+        0.8333,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 4,
@@ -798,7 +919,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "跪听宣读！诏曰：关羽解除白马之围，加封汉寿亭侯，众将各升三级。旨意读\n罢，望诏谢恩。"
+          "text": "跪听宣读！诏曰：关羽解除白马之围，加封汉寿亭侯，众将各升三级。旨意读"
+        },
+        {
+          "character": "曹操",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "罢，望诏谢恩。"
         },
         {
           "character": "关羽、张辽、夏侯惇、乐进、徐晃、许褚、李典、曹洪、曹仁",
@@ -917,7 +1045,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "嗳！文丑乃河北大将，汝不可轻视。坐下！\n二将军请酒！"
+          "text": "嗳！文丑乃河北大将，汝不可轻视。坐下！"
+        },
+        {
+          "character": "曹操",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "二将军请酒！"
         },
         {
           "character": null,
@@ -966,7 +1101,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "嗯，小小年纪，出此狂言，还不坐下。\n二将军请！"
+          "text": "嗯，小小年纪，出此狂言，还不坐下。"
+        },
+        {
+          "character": "曹操",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "二将军请！"
         },
         {
           "character": null,
@@ -1036,14 +1178,35 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "某在白马坡斩了颜良，文丑前来报仇。某不才愿讨一支将令，斩文丑首级，献\n与丞相。"
+          "text": "某在白马坡斩了颜良，文丑前来报仇。某不才愿讨一支将令，斩文丑首级，献"
+        },
+        {
+          "character": "关羽",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "与丞相。"
         },
         {
           "character": "曹操",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "将军斩了颜良，又要出战，忒已劳倦。先命众将出马，倘若不胜，再请将军出\n战。\n众将官！粮草先行，人马在后。"
+          "text": "将军斩了颜良，又要出战，忒已劳倦。先命众将出马，倘若不胜，再请将军出"
+        },
+        {
+          "character": "曹操",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "战。"
+        },
+        {
+          "character": "曹操",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "众将官！粮草先行，人马在后。"
         },
         {
           "character": "徐晃、张辽",
@@ -1113,7 +1276,28 @@
           "line_type": "西皮流水板",
           "musical_style": "西皮流水板",
           "style_family": "西皮",
-          "text": "赤兔战马声嘶喊，\n青龙偃月金光寒。\n河北的儿郎心胆寒。\n斩奸除恶不费难。"
+          "text": "赤兔战马声嘶喊，"
+        },
+        {
+          "character": "关羽",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "青龙偃月金光寒。"
+        },
+        {
+          "character": "关羽",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "河北的儿郎心胆寒。"
+        },
+        {
+          "character": "关羽",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "斩奸除恶不费难。"
         },
         {
           "character": null,
@@ -1127,7 +1311,21 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "关羽出营把文丑战，\n他中曹某激将言。\n但愿一战奏凯还！"
+          "text": "关羽出营把文丑战，"
+        },
+        {
+          "character": "曹操",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "他中曹某激将言。"
+        },
+        {
+          "character": "曹操",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "但愿一战奏凯还！"
         },
         {
           "character": null,
@@ -1216,7 +1414,17 @@
         "musical_styles": [
           "西皮流水"
         ]
-      }
+      },
+      "scene_feature": [
+        0.021,
+        0.1148,
+        0.8689,
+        0.0164,
+        0.75,
+        11,
+        0.0656,
+        0.0
+      ]
     },
     {
       "scene_index": 5,
@@ -1239,7 +1447,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 6,
@@ -1262,7 +1480,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 7,
@@ -1285,7 +1513,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 8,
@@ -1308,7 +1546,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 9,
@@ -1331,7 +1579,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0,
+        0.0,
+        0.0
+      ]
     }
   ]
 }

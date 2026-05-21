@@ -115,7 +115,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "在下黄天路，贩卖布匹为生。只因前妻去世，留下一女，名叫桂香，倒也孝顺。\n是我后娶马氏，随带一子，名叫侯七。自他进得门来，行事不正。是我有意\n出外，前去讨账，家中之事，放心不下。不免将桂香女叫出便了。\n桂香女儿哪里，走来。"
+          "text": "在下黄天路，贩卖布匹为生。只因前妻去世，留下一女，名叫桂香，倒也孝顺。"
+        },
+        {
+          "character": "黄天路",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "是我后娶马氏，随带一子，名叫侯七。自他进得门来，行事不正。是我有意"
+        },
+        {
+          "character": "黄天路",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "出外，前去讨账，家中之事，放心不下。不免将桂香女叫出便了。"
+        },
+        {
+          "character": "黄天路",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "桂香女儿哪里，走来。"
         },
         {
           "character": null,
@@ -297,7 +318,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "在，待我叫他出来。\n侯七侯七。"
+          "text": "在，待我叫他出来。"
+        },
+        {
+          "character": "马氏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "侯七侯七。"
         },
         {
           "character": null,
@@ -325,7 +353,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "我去看看去。\n大东西在哪里？"
+          "text": "我去看看去。"
+        },
+        {
+          "character": "侯七",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "大东西在哪里？"
         },
         {
           "character": "黄天路",
@@ -367,7 +402,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "辞别了安人上路行，\n我前去讨账走一程。"
+          "text": "辞别了安人上路行，"
+        },
+        {
+          "character": "黄天路",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我前去讨账走一程。"
         },
         {
           "character": null,
@@ -381,7 +423,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "一见员外出门庭，\n再叫我儿听分明。"
+          "text": "一见员外出门庭，"
+        },
+        {
+          "character": "马氏",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "再叫我儿听分明。"
         },
         {
           "character": "马氏",
@@ -402,7 +451,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "对呀。儿吓，你有什么好主意，想个法子，老头子也不在家，把她害死，好不\n好？"
+          "text": "对呀。儿吓，你有什么好主意，想个法子，老头子也不在家，把她害死，好不"
+        },
+        {
+          "character": "马氏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "好？"
         },
         {
           "character": "侯七",
@@ -451,7 +507,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "回头你去到经堂，与桂香要玉匙，就说老头子出外，交付她了。她拿出来还则\n罢了，她要不拿出来呀，你就活活将她打死。你看这个主意，好是不好？"
+          "text": "回头你去到经堂，与桂香要玉匙，就说老头子出外，交付她了。她拿出来还则"
+        },
+        {
+          "character": "侯七",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "罢了，她要不拿出来呀，你就活活将她打死。你看这个主意，好是不好？"
         },
         {
           "character": "马氏",
@@ -533,7 +596,17 @@
         "singing_ratio": 0.024,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.024,
+        0.0877,
+        0.8772,
+        0.0351,
+        0.7321,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -568,7 +641,63 @@
           "line_type": "梆子按板",
           "musical_style": "梆子按板",
           "style_family": "南梆子",
-          "text": "河南八府出庄郎，\n二十四孝有王祥。\n寒九天要吃鲜鱼汤。\n惊动行孝小王祥。\n只得把热身躺在冷冰上。\n惊动四海老龙王。\n王祥卧鱼回家乡。\n小王祥孝名万古扬。\n要学贤惠一孟姜。"
+          "text": "河南八府出庄郎，"
+        },
+        {
+          "character": "黄桂香",
+          "line_type": "梆子按板",
+          "musical_style": "梆子按板",
+          "style_family": "南梆子",
+          "text": "二十四孝有王祥。"
+        },
+        {
+          "character": "黄桂香",
+          "line_type": "梆子按板",
+          "musical_style": "梆子按板",
+          "style_family": "南梆子",
+          "text": "寒九天要吃鲜鱼汤。"
+        },
+        {
+          "character": "黄桂香",
+          "line_type": "梆子按板",
+          "musical_style": "梆子按板",
+          "style_family": "南梆子",
+          "text": "惊动行孝小王祥。"
+        },
+        {
+          "character": "黄桂香",
+          "line_type": "梆子按板",
+          "musical_style": "梆子按板",
+          "style_family": "南梆子",
+          "text": "只得把热身躺在冷冰上。"
+        },
+        {
+          "character": "黄桂香",
+          "line_type": "梆子按板",
+          "musical_style": "梆子按板",
+          "style_family": "南梆子",
+          "text": "惊动四海老龙王。"
+        },
+        {
+          "character": "黄桂香",
+          "line_type": "梆子按板",
+          "musical_style": "梆子按板",
+          "style_family": "南梆子",
+          "text": "王祥卧鱼回家乡。"
+        },
+        {
+          "character": "黄桂香",
+          "line_type": "梆子按板",
+          "musical_style": "梆子按板",
+          "style_family": "南梆子",
+          "text": "小王祥孝名万古扬。"
+        },
+        {
+          "character": "黄桂香",
+          "line_type": "梆子按板",
+          "musical_style": "梆子按板",
+          "style_family": "南梆子",
+          "text": "要学贤惠一孟姜。"
         },
         {
           "character": null,
@@ -624,7 +753,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "待儿与你开门。\n母亲到了，请到经堂。"
+          "text": "待儿与你开门。"
+        },
+        {
+          "character": "黄桂香",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "母亲到了，请到经堂。"
         },
         {
           "character": "马氏",
@@ -715,45 +851,143 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "不由我气满胸膛。\n若无有管叫你一命赴无常。"
+          "text": "不由我气满胸膛。"
         },
         {
-          "character": "有了玉匙还罢了、黄桂香",
+          "character": "马氏",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "一见母亲把脸变，\n吓得桂香心胆寒。\n苦苦问孩儿所为哪般？"
+          "text": "若无有管叫你一命赴无常。"
         },
         {
-          "character": "十二把金镶玉匙孩儿我未见、马氏",
+          "character": "马氏",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "贱人还敢巧言辩，\n气得我心血往上泛。\n𥛧一𥛧撕毁你万卷经。"
+          "text": "有了玉匙还罢了"
         },
         {
-          "character": "恶一恶砸了你佛前磬、黄桂香",
+          "character": "黄桂香",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "桂香经堂用目睁，\n母亲为何坏了万卷经？\n拉坏经卷为何情？"
+          "text": "一见母亲把脸变，"
         },
         {
-          "character": "孩儿有过将儿打、马氏",
+          "character": "黄桂香",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "骂声桂香好大胆，\n三番二次将我瞒。"
+          "text": "吓得桂香心胆寒。"
         },
         {
-          "character": "手执家法将你打、黄桂香",
+          "character": "黄桂香",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "苦苦问孩儿所为哪般？"
+        },
+        {
+          "character": "黄桂香",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "十二把金镶玉匙孩儿我未见"
+        },
+        {
+          "character": "马氏",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "贱人还敢巧言辩，"
+        },
+        {
+          "character": "马氏",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "气得我心血往上泛。"
+        },
+        {
+          "character": "马氏",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "𥛧一𥛧撕毁你万卷经。"
+        },
+        {
+          "character": "马氏",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "恶一恶砸了你佛前磬"
+        },
+        {
+          "character": "黄桂香",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "桂香经堂用目睁，"
+        },
+        {
+          "character": "黄桂香",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "母亲为何坏了万卷经？"
+        },
+        {
+          "character": "黄桂香",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "拉坏经卷为何情？"
+        },
+        {
+          "character": "黄桂香",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "孩儿有过将儿打"
+        },
+        {
+          "character": "马氏",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "骂声桂香好大胆，"
+        },
+        {
+          "character": "马氏",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "三番二次将我瞒。"
+        },
+        {
+          "character": "马氏",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "手执家法将你打"
+        },
+        {
+          "character": "黄桂香",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
           "text": "双膝跪在娘面前。"
         },
         {
-          "character": "手执家法将你打、黄桂香",
+          "character": "黄桂香",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "手执家法将你打"
+        },
+        {
+          "character": "黄桂香",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -778,7 +1012,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "你想早说了，母亲焉能舍得打你。桂香，你看我家财打了，我要分开了，你看\n好不好？"
+          "text": "你想早说了，母亲焉能舍得打你。桂香，你看我家财打了，我要分开了，你看"
+        },
+        {
+          "character": "马氏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "好不好？"
         },
         {
           "character": "黄桂香",
@@ -848,7 +1089,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "我看你就是当外。若推仔一斗麦子，天天去到磨房，推好了，妈妈我要一斗白\n面，还要一斗黑面，还要一斗麸子。去罢。"
+          "text": "我看你就是当外。若推仔一斗麦子，天天去到磨房，推好了，妈妈我要一斗白"
+        },
+        {
+          "character": "马氏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "面，还要一斗黑面，还要一斗麸子。去罢。"
         },
         {
           "character": "黄桂香",
@@ -862,7 +1110,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "间壁你二大妈，买了一升豆子，作了两锅豆腐。还有两锅豆腐浆，还有许多豆\n腐皮。"
+          "text": "间壁你二大妈，买了一升豆子，作了两锅豆腐。还有两锅豆腐浆，还有许多豆"
+        },
+        {
+          "character": "马氏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "腐皮。"
         },
         {
           "character": "黄桂香",
@@ -904,7 +1159,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "你听我说，这是一尺二寸布。与妈妈做双鞋，与七哥也做一双鞋。下剩多少，\n你也做双鞋穿穿。"
+          "text": "你听我说，这是一尺二寸布。与妈妈做双鞋，与七哥也做一双鞋。下剩多少，"
+        },
+        {
+          "character": "马氏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "你也做双鞋穿穿。"
         },
         {
           "character": "黄桂香",
@@ -918,7 +1180,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "胡说！你不知道么，前头你妈妈，与你爹爹做衣裳，买了一尺半布，做了一条\n裤子，还与你七哥做了一条裤腰带，还多三寸，你知道么？你看天也不早了，\n拿了麦子，去到磨房牵磨。你要磨出那些东西，还在罢了；你若磨不出那些东\n西，还是要打死你。还不快快去！"
+          "text": "胡说！你不知道么，前头你妈妈，与你爹爹做衣裳，买了一尺半布，做了一条"
+        },
+        {
+          "character": "马氏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "裤子，还与你七哥做了一条裤腰带，还多三寸，你知道么？你看天也不早了，"
+        },
+        {
+          "character": "马氏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "拿了麦子，去到磨房牵磨。你要磨出那些东西，还在罢了；你若磨不出那些东"
+        },
+        {
+          "character": "马氏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "西，还是要打死你。还不快快去！"
         },
         {
           "character": "侯七",
@@ -960,7 +1243,21 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "黄桂香在二堂心中思想，\n想起了亲生母好不悲伤。\n倒叫我苦命女两眼汪汪。"
+          "text": "黄桂香在二堂心中思想，"
+        },
+        {
+          "character": "黄桂香",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "想起了亲生母好不悲伤。"
+        },
+        {
+          "character": "黄桂香",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "倒叫我苦命女两眼汪汪。"
         },
         {
           "character": null,
@@ -974,7 +1271,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "一见桂香出二堂，\n倒叫老身喜心上。"
+          "text": "一见桂香出二堂，"
+        },
+        {
+          "character": "马氏",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "倒叫老身喜心上。"
         },
         {
           "character": "马氏",
@@ -1016,14 +1320,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "那桂香去到磨房碾磨，一人在此，儿去磨房，一来假意替她挨磨，二来调戏她\n一回。她若应允，还在罢了。她若到了磨房，再想法子害她。"
+          "text": "那桂香去到磨房碾磨，一人在此，儿去磨房，一来假意替她挨磨，二来调戏她"
+        },
+        {
+          "character": "侯七",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "一回。她若应允，还在罢了。她若到了磨房，再想法子害她。"
         },
         {
           "character": "马氏",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "我儿的主意不错，照计而行。你先去，妈妈随后就到。你看与贱人吵闹了一番，\n忘了我佛前上香，罢罢，阿弥陀佛。"
+          "text": "我儿的主意不错，照计而行。你先去，妈妈随后就到。你看与贱人吵闹了一番，"
+        },
+        {
+          "character": "马氏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "忘了我佛前上香，罢罢，阿弥陀佛。"
         },
         {
           "character": null,
@@ -1061,7 +1379,17 @@
         "singing_ratio": 0.109,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.109,
+        0.38,
+        0.61,
+        0.01,
+        0.5758,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -1084,7 +1412,21 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "天不幸我娘下世去早，\n留下了苦命女无有计较。\n思想起儿的母好不伤抱。"
+          "text": "天不幸我娘下世去早，"
+        },
+        {
+          "character": "黄桂香",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "留下了苦命女无有计较。"
+        },
+        {
+          "character": "黄桂香",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "思想起儿的母好不伤抱。"
         },
         {
           "character": "黄桂香",
@@ -1098,7 +1440,21 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "黄桂香在磨房好不悲伤，\n哭一声爹来叫声娘。\n倒叫桂香无主张。"
+          "text": "黄桂香在磨房好不悲伤，"
+        },
+        {
+          "character": "黄桂香",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "哭一声爹来叫声娘。"
+        },
+        {
+          "character": "黄桂香",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "倒叫桂香无主张。"
         },
         {
           "character": "黄桂香",
@@ -1126,7 +1482,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "我侯七，奉了母亲之命，去到磨房，一来假意替我妹子挨磨，二来调戏于她。\n她若愿意，我二人就真做夫妻，我也好乐上一回也。说话来到磨房了，待我叫\n人。且住，我想我妹子是个胆小之人，待我学我妈的声音，拿她开开心。\n开门来。"
+          "text": "我侯七，奉了母亲之命，去到磨房，一来假意替我妹子挨磨，二来调戏于她。"
+        },
+        {
+          "character": "侯七",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "她若愿意，我二人就真做夫妻，我也好乐上一回也。说话来到磨房了，待我叫"
+        },
+        {
+          "character": "侯七",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "人。且住，我想我妹子是个胆小之人，待我学我妈的声音，拿她开开心。"
+        },
+        {
+          "character": "侯七",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "开门来。"
         },
         {
           "character": "黄桂香",
@@ -1182,7 +1559,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "快快开门，回头妈来了。\n快快关上门。\n妹子，你的磨挨好无有？"
+          "text": "快快开门，回头妈来了。"
+        },
+        {
+          "character": "侯七",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "快快关上门。"
+        },
+        {
+          "character": "侯七",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "妹子，你的磨挨好无有？"
         },
         {
           "character": "黄桂香",
@@ -1343,7 +1734,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "来了。\n吓母亲，请进磨房。"
+          "text": "来了。"
+        },
+        {
+          "character": "黄桂香",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "吓母亲，请进磨房。"
         },
         {
           "character": "马氏",
@@ -1427,7 +1825,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "好贱人那！你不是某人吓。我又明白了，我看这贱人，见无有好意。你二人在\n这磨房，做什么来，老实说！"
+          "text": "好贱人那！你不是某人吓。我又明白了，我看这贱人，见无有好意。你二人在"
+        },
+        {
+          "character": "马氏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "这磨房，做什么来，老实说！"
         },
         {
           "character": "黄桂香",
@@ -1462,7 +1867,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "你先等等，我问问他去。\n好孩子，你来到磨房，做什么来的？"
+          "text": "你先等等，我问问他去。"
+        },
+        {
+          "character": "马氏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "好孩子，你来到磨房，做什么来的？"
         },
         {
           "character": "侯七",
@@ -1483,14 +1895,35 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "妈，你不要半截听。是儿来替她挨磨，她看我一笑，她就说了，哥哥，你看磨\n房无人，你我二人，共和美事，好不好？我二人正说高兴，你就来叫门。她怕\n你晓得打她，她才把我藏起来了。"
+          "text": "妈，你不要半截听。是儿来替她挨磨，她看我一笑，她就说了，哥哥，你看磨"
+        },
+        {
+          "character": "侯七",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "房无人，你我二人，共和美事，好不好？我二人正说高兴，你就来叫门。她怕"
+        },
+        {
+          "character": "侯七",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "你晓得打她，她才把我藏起来了。"
         },
         {
           "character": "马氏",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "好贱人，你还吃斋念佛，做这个事？我这门里，不能要你这贱人。\n来，拿家法两条，打死这贱人。"
+          "text": "好贱人，你还吃斋念佛，做这个事？我这门里，不能要你这贱人。"
+        },
+        {
+          "character": "马氏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来，拿家法两条，打死这贱人。"
         },
         {
           "character": null,
@@ -1546,7 +1979,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "别胡说了！我今天也打不了，你有王八旦保护你。等你爹爹回来再说。这才是\n恶有恶报，善有善报，若是不报，时辰未到。侯七儿，担妈妈到后头养伤去。"
+          "text": "别胡说了！我今天也打不了，你有王八旦保护你。等你爹爹回来再说。这才是"
+        },
+        {
+          "character": "马氏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "恶有恶报，善有善报，若是不报，时辰未到。侯七儿，担妈妈到后头养伤去。"
         },
         {
           "character": null,
@@ -1567,7 +2007,21 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "一见继母出磨房，\n倒叫桂香无主张。\n到坟前哭活我的亲娘。"
+          "text": "一见继母出磨房，"
+        },
+        {
+          "character": "黄桂香",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "倒叫桂香无主张。"
+        },
+        {
+          "character": "黄桂香",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "到坟前哭活我的亲娘。"
         },
         {
           "character": "黄桂香",
@@ -1620,7 +2074,17 @@
         "singing_ratio": 0.017,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.017,
+        0.131,
+        0.8571,
+        0.0119,
+        0.6867,
+        3,
+        0.0,
+        0.0
+      ]
     }
   ]
 }

@@ -144,7 +144,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.5,
+        0.5,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -180,7 +190,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "老夫，蔡阳。只因刘辟、龚都二次汝南谋反，今奉曹丞相将令，统领五万人马\n兴师问罪，今乃黄道吉日，正好兴兵。\n众将官，兵发汝南去者。"
+          "text": "老夫，蔡阳。只因刘辟、龚都二次汝南谋反，今奉曹丞相将令，统领五万人马"
+        },
+        {
+          "character": "蔡阳",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "兴师问罪，今乃黄道吉日，正好兴兵。"
+        },
+        {
+          "character": "蔡阳",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "众将官，兵发汝南去者。"
         },
         {
           "character": null,
@@ -236,7 +260,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "且住。胆大关羽竟敢将吾外甥秦琪刀劈马下，岂能容他猖狂。\n众将官，人马不去汝南，追赶关羽去者！"
+          "text": "且住。胆大关羽竟敢将吾外甥秦琪刀劈马下，岂能容他猖狂。"
+        },
+        {
+          "character": "蔡阳",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "众将官，人马不去汝南，追赶关羽去者！"
         },
         {
           "character": null,
@@ -264,7 +295,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0909,
+        0.8182,
+        0.0909,
+        0.4,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -298,10 +339,52 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "灞陵挑袍马蹄忙。\n一路风霜离许昌。\n黄河战惇别郭常。\n饥餐渴饮路途忙。"
+          "text": "灞陵挑袍马蹄忙。"
         },
         {
-          "character": "千里单骑寻兄长、过五关斩了六员将、晓行夜宿阳关上、马夫",
+          "character": "关羽",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "一路风霜离许昌。"
+        },
+        {
+          "character": "关羽",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "黄河战惇别郭常。"
+        },
+        {
+          "character": "关羽",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "饥餐渴饮路途忙。"
+        },
+        {
+          "character": "关羽",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "千里单骑寻兄长"
+        },
+        {
+          "character": "关羽",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "过五关斩了六员将"
+        },
+        {
+          "character": "关羽",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "晓行夜宿阳关上"
+        },
+        {
+          "character": "马夫",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -354,7 +437,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "此乃小弟份内之事，何足挂齿。只是小弟一路闯关斩将，二位嫂嫂车仗之上多\n受惊慌，乃弟之罪也！"
+          "text": "此乃小弟份内之事，何足挂齿。只是小弟一路闯关斩将，二位嫂嫂车仗之上多"
+        },
+        {
+          "character": "关羽",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "受惊慌，乃弟之罪也！"
         },
         {
           "character": null,
@@ -382,14 +472,28 @@
           "line_type": "同唱",
           "musical_style": null,
           "style_family": null,
-          "text": "虎口余生才脱险，\n又遇豺狼把路拦。"
+          "text": "虎口余生才脱险，"
+        },
+        {
+          "character": "甘夫人、糜夫人",
+          "line_type": "同唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "又遇豺狼把路拦。"
         },
         {
           "character": "关羽",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "二位嫂嫂，休要惊慌。前面芒砀山下有一古城，孙乾对弟言道，三弟在彼处占\n据，不知真假，待小弟差人前去探听明白，若是三弟在此，命他出城迎接。"
+          "text": "二位嫂嫂，休要惊慌。前面芒砀山下有一古城，孙乾对弟言道，三弟在彼处占"
+        },
+        {
+          "character": "关羽",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "据，不知真假，待小弟差人前去探听明白，若是三弟在此，命他出城迎接。"
         },
         {
           "character": "甘夫人、糜夫人",
@@ -417,7 +521,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "马夫，命你去至前面古城，若见你家三爷，就说你家二爷保定二位主母来到古\n城，叫他快些出城迎接。"
+          "text": "马夫，命你去至前面古城，若见你家三爷，就说你家二爷保定二位主母来到古"
+        },
+        {
+          "character": "关羽",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "城，叫他快些出城迎接。"
         },
         {
           "character": "马夫",
@@ -495,7 +606,17 @@
         "singing_ratio": 0.105,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.105,
+        0.3226,
+        0.6452,
+        0.0323,
+        0.5,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 4,
@@ -525,7 +646,35 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "俺，张飞。当年弟兄徐州失败，俺老张来到芒砀山赶走了古城狗官，嘿！我就\n坐了这古城的县令。每日操演人马以图后举，谁想那红脸的竟降顺了曹阿瞒，\n日后若得相见，我岂肯与他干休！适才校场操演，尔等的武艺越发精壮了，哈\n哈哈哈！\n嘚，三军的，准备羊羔美酒大家痛饮哪！"
+          "text": "俺，张飞。当年弟兄徐州失败，俺老张来到芒砀山赶走了古城狗官，嘿！我就"
+        },
+        {
+          "character": "张飞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "坐了这古城的县令。每日操演人马以图后举，谁想那红脸的竟降顺了曹阿瞒，"
+        },
+        {
+          "character": "张飞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "日后若得相见，我岂肯与他干休！适才校场操演，尔等的武艺越发精壮了，哈"
+        },
+        {
+          "character": "张飞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "哈哈哈！"
+        },
+        {
+          "character": "张飞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "嘚，三军的，准备羊羔美酒大家痛饮哪！"
         },
         {
           "character": null,
@@ -567,7 +716,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "候着。\n启禀三爷：外厢马夫求见。"
+          "text": "候着。"
+        },
+        {
+          "character": "兵士",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "启禀三爷：外厢马夫求见。"
         },
         {
           "character": "张飞",
@@ -581,14 +737,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "是。\n随我进来。"
+          "text": "是。"
+        },
+        {
+          "character": "兵士",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "随我进来。"
         },
         {
           "character": "马夫",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "是。\n马夫与三爷叩头。"
+          "text": "是。"
+        },
+        {
+          "character": "马夫",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "马夫与三爷叩头。"
         },
         {
           "character": "张飞",
@@ -637,7 +807,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "你且住了！你家二爷无仁无义，忘却桃园盟誓，有始无终真心降顺曹营，有何\n脸面来见弟兄。若要相见除非是临阵交锋。"
+          "text": "你且住了！你家二爷无仁无义，忘却桃园盟誓，有始无终真心降顺曹营，有何"
+        },
+        {
+          "character": "张飞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "脸面来见弟兄。若要相见除非是临阵交锋。"
         },
         {
           "character": "马夫",
@@ -658,7 +835,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "三爷容禀：我家二爷有仁有义不忘桃园盟誓，有始有终假意归顺曹公。千里迢\n迢来会弟兄，眼前讲话有一人不通。"
+          "text": "三爷容禀：我家二爷有仁有义不忘桃园盟誓，有始有终假意归顺曹公。千里迢"
+        },
+        {
+          "character": "马夫",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "迢来会弟兄，眼前讲话有一人不通。"
         },
         {
           "character": "张飞",
@@ -707,7 +891,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "嘿！若不是他两腿快如风，这丈八矛定要刺他个前后皆通！\n小校的！带马出城会他！"
+          "text": "嘿！若不是他两腿快如风，这丈八矛定要刺他个前后皆通！"
+        },
+        {
+          "character": "张飞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "小校的！带马出城会他！"
         },
         {
           "character": null,
@@ -752,7 +943,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.9444,
+        0.0556,
+        0.6286,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 5,
@@ -816,7 +1017,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "二爷容禀：那三爷言道，二爷无仁无义，忘却桃园盟誓，有始无终，真心归顺\n曹公。若要相见除非是临阵交锋！"
+          "text": "二爷容禀：那三爷言道，二爷无仁无义，忘却桃园盟誓，有始无终，真心归顺"
+        },
+        {
+          "character": "马夫",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "曹公。若要相见除非是临阵交锋！"
         },
         {
           "character": "关羽",
@@ -872,7 +1080,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "千里迢迢奉嫂寻兄，眼前讲话有一人不通，三爷问道哪个不通，小人斗胆言道\n就是三爷不通！怒恼了三爷，他、他、他提枪就刺！"
+          "text": "千里迢迢奉嫂寻兄，眼前讲话有一人不通，三爷问道哪个不通，小人斗胆言道"
+        },
+        {
+          "character": "马夫",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "就是三爷不通！怒恼了三爷，他、他、他提枪就刺！"
         },
         {
           "character": "关羽",
@@ -893,7 +1108,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "噢！三弟还是这样性暴！弟兄失散多年难免疑心，待我亲自会他。\n小校的，好好保护二位主母。\n马夫，与爷抬刀带马！"
+          "text": "噢！三弟还是这样性暴！弟兄失散多年难免疑心，待我亲自会他。"
+        },
+        {
+          "character": "关羽",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "小校的，好好保护二位主母。"
+        },
+        {
+          "character": "关羽",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "马夫，与爷抬刀带马！"
         },
         {
           "character": null,
@@ -921,7 +1150,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.75,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 6,
@@ -944,7 +1183,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 7,
@@ -1017,21 +1266,49 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "三弟！只因愚兄被困土山，二位嫂嫂在城中无人保护，万般无奈约下三事，降\n汉不降曹。三弟为何如此多疑？"
-        },
-        {
-          "character": "张飞",
-          "line_type": "白",
-          "musical_style": null,
-          "style_family": null,
-          "text": "红睑的，红睑的！你在曹营，那曹操待你是何等恩厚，三日一小宴，五日一大\n宴，上马献金下马献银，赐你美酒红袍，是何等快乐，你回来作甚？"
+          "text": "三弟！只因愚兄被困土山，二位嫂嫂在城中无人保护，万般无奈约下三事，降"
         },
         {
           "character": "关羽",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "三弟！那曹操虽然待兄不薄，我也曾斩颜良诛文丑报效于他。今闻大兄长现在\n河北冀州袁绍处，为此奉嫂寻兄，三弟不信，车仗之上问过二位嫂嫂你就明白\n了！"
+          "text": "汉不降曹。三弟为何如此多疑？"
+        },
+        {
+          "character": "张飞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "红睑的，红睑的！你在曹营，那曹操待你是何等恩厚，三日一小宴，五日一大"
+        },
+        {
+          "character": "张飞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "宴，上马献金下马献银，赐你美酒红袍，是何等快乐，你回来作甚？"
+        },
+        {
+          "character": "关羽",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "三弟！那曹操虽然待兄不薄，我也曾斩颜良诛文丑报效于他。今闻大兄长现在"
+        },
+        {
+          "character": "关羽",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "河北冀州袁绍处，为此奉嫂寻兄，三弟不信，车仗之上问过二位嫂嫂你就明白"
+        },
+        {
+          "character": "关羽",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "了！"
         },
         {
           "character": "张飞",
@@ -1052,7 +1329,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "你且听道：当年我弟兄除州失散，俺大哥投奔河北袁绍帐中，暂为栖身。那袁\n绍差遣大将颜良攻打白马坡，被你刀劈马下，延津你又诛了文丑，那袁绍闻得\n此讯要将俺大哥推出斩首。幸得大哥巧言相辩，哄过袁绍才得活命。这，这都\n是你办的好事！你啊你看枪吧！"
+          "text": "你且听道：当年我弟兄除州失散，俺大哥投奔河北袁绍帐中，暂为栖身。那袁"
+        },
+        {
+          "character": "张飞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "绍差遣大将颜良攻打白马坡，被你刀劈马下，延津你又诛了文丑，那袁绍闻得"
+        },
+        {
+          "character": "张飞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "此讯要将俺大哥推出斩首。幸得大哥巧言相辩，哄过袁绍才得活命。这，这都"
+        },
+        {
+          "character": "张飞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "是你办的好事！你啊你看枪吧！"
         },
         {
           "character": "关羽",
@@ -1087,7 +1385,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "你我弟兄撕杀起来岂不被人耻笑，望三弟将二嫂接进城去，待为兄下马自刎一\n死，以表真心！"
+          "text": "你我弟兄撕杀起来岂不被人耻笑，望三弟将二嫂接进城去，待为兄下马自刎一"
+        },
+        {
+          "character": "关羽",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "死，以表真心！"
         },
         {
           "character": "张飞",
@@ -1108,14 +1413,133 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "勒马停蹄珠泪掉，\n青龙刀斜跨在马鞍鞒。\n困土山得相会故友张辽。\n约三事降汉室并未降曹。\n上马金下马银美酒红袍。\n大丈夫岂能够忘却了旧交。\n挂印封金饯行在灞陵桥。\n斩秦琪走单骑千里迢迢。\n刘、关、张虽异姓似同胞，莫动枪刀！"
+          "text": "勒马停蹄珠泪掉，"
         },
         {
-          "character": "想当年在徐州弟兄们失散了、失下邳为保护二位皇嫂、曹孟德他待我礼义甚好、官封我汉寿亭侯爵禄非小、今闻得大兄长投奔袁绍、过五关斩六将直奔黄河道、念桃园三结义同把汉保、张飞",
+          "character": "关羽",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "青龙刀斜跨在马鞍鞒。"
+        },
+        {
+          "character": "关羽",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "困土山得相会故友张辽。"
+        },
+        {
+          "character": "关羽",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "约三事降汉室并未降曹。"
+        },
+        {
+          "character": "关羽",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "上马金下马银美酒红袍。"
+        },
+        {
+          "character": "关羽",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "大丈夫岂能够忘却了旧交。"
+        },
+        {
+          "character": "关羽",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "挂印封金饯行在灞陵桥。"
+        },
+        {
+          "character": "关羽",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "斩秦琪走单骑千里迢迢。"
+        },
+        {
+          "character": "关羽",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "刘、关、张虽异姓似同胞，莫动枪刀！"
+        },
+        {
+          "character": "关羽",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "想当年在徐州弟兄们失散了"
+        },
+        {
+          "character": "关羽",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "失下邳为保护二位皇嫂"
+        },
+        {
+          "character": "关羽",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "曹孟德他待我礼义甚好"
+        },
+        {
+          "character": "关羽",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "官封我汉寿亭侯爵禄非小"
+        },
+        {
+          "character": "关羽",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "今闻得大兄长投奔袁绍"
+        },
+        {
+          "character": "关羽",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "过五关斩六将直奔黄河道"
+        },
+        {
+          "character": "关羽",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "念桃园三结义同把汉保"
+        },
+        {
+          "character": "张飞",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "嘿！咱老张这铁石心肠被他这么一哭，也就哭软了！嗯，也罢，待我将二位嫂\n嫂接进城去，少时再来与他辩理。\n啊二哥，既然如此就请二位嫂嫂进城也就是了！"
+          "text": "嘿！咱老张这铁石心肠被他这么一哭，也就哭软了！嗯，也罢，待我将二位嫂"
+        },
+        {
+          "character": "张飞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "嫂接进城去，少时再来与他辩理。"
+        },
+        {
+          "character": "张飞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "啊二哥，既然如此就请二位嫂嫂进城也就是了！"
         },
         {
           "character": "关羽",
@@ -1164,7 +1588,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "红睑的呀，红睑的！你归顺了曹操，今又前来诈取俺老张的古城，你道是与不\n是？"
+          "text": "红睑的呀，红睑的！你归顺了曹操，今又前来诈取俺老张的古城，你道是与不"
+        },
+        {
+          "character": "张飞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "是？"
         },
         {
           "character": "关羽",
@@ -1185,28 +1616,77 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "三弟！观见来将高悬蔡字旗号，想是蔡阳发来人马。只因兄在黄河渡口刀劈秦\n琪，想那蔡阳乃是秦琪的舅父，如今定是与他外甥报仇而来。三弟你、你、你\n快些开城才是！"
-        },
-        {
-          "character": "张飞",
-          "line_type": "白",
-          "musical_style": null,
-          "style_family": null,
-          "text": "你的好诡计呀！好妙策！你与蔡阳定下里应外合之计，前来行诈，杀我个措手\n不及，你这诡计被张三爷看破，俺老张虽然粗鲁，嘿！我是粗中有细，我呀！\n我不上你的当！"
+          "text": "三弟！观见来将高悬蔡字旗号，想是蔡阳发来人马。只因兄在黄河渡口刀劈秦"
         },
         {
           "character": "关羽",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "三弟！你如此多疑，愚兄难以辩白。也罢！望你放我进城歇息片刻，多带人马，\n待兄斩了蔡阳以解此疑。"
+          "text": "琪，想那蔡阳乃是秦琪的舅父，如今定是与他外甥报仇而来。三弟你、你、你"
+        },
+        {
+          "character": "关羽",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "快些开城才是！"
         },
         {
           "character": "张飞",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "放你进城是万万不能！也罢，咱老张看在桃园的份上，在城楼上助你三通战鼓，\n十面旌旗，这头通鼓，紧扣连环。二通鼓，速跨雕鞍。这三通鼓，立斩蔡阳。\n你若斩了蔡阳还则罢了，如若不然，红脸的呀，红脸的，你是休想进城！"
+          "text": "你的好诡计呀！好妙策！你与蔡阳定下里应外合之计，前来行诈，杀我个措手"
+        },
+        {
+          "character": "张飞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "不及，你这诡计被张三爷看破，俺老张虽然粗鲁，嘿！我是粗中有细，我呀！"
+        },
+        {
+          "character": "张飞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我不上你的当！"
+        },
+        {
+          "character": "关羽",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "三弟！你如此多疑，愚兄难以辩白。也罢！望你放我进城歇息片刻，多带人马，"
+        },
+        {
+          "character": "关羽",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "待兄斩了蔡阳以解此疑。"
+        },
+        {
+          "character": "张飞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "放你进城是万万不能！也罢，咱老张看在桃园的份上，在城楼上助你三通战鼓，"
+        },
+        {
+          "character": "张飞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "十面旌旗，这头通鼓，紧扣连环。二通鼓，速跨雕鞍。这三通鼓，立斩蔡阳。"
+        },
+        {
+          "character": "张飞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "你若斩了蔡阳还则罢了，如若不然，红脸的呀，红脸的，你是休想进城！"
         },
         {
           "character": "关羽",
@@ -1276,7 +1756,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "蔡阳，老将军！关某奉嫂寻兄行至黄河渡口，秦琪百般阻拦，不放过渡。万般\n无奈将他诛之，并非出于有意。"
+          "text": "蔡阳，老将军！关某奉嫂寻兄行至黄河渡口，秦琪百般阻拦，不放过渡。万般"
+        },
+        {
+          "character": "关羽",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "无奈将他诛之，并非出于有意。"
         },
         {
           "character": "蔡阳",
@@ -1290,7 +1777,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "蔡阳，蔡阳！你再三逼迫，恕关某无礼了！\n（关羽、蔡阳同起打，关羽败下，蔡阳追下。九锤半。关羽上，拖刀。蔡阳上，关羽斩蔡阳。关羽下马，揉\n腿望张飞，指，下。）"
+          "text": "蔡阳，蔡阳！你再三逼迫，恕关某无礼了！"
+        },
+        {
+          "character": "关羽",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "（关羽、蔡阳同起打，关羽败下，蔡阳追下。九锤半。关羽上，拖刀。蔡阳上，关羽斩蔡阳。关羽下马，揉"
+        },
+        {
+          "character": "关羽",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "腿望张飞，指，下。）"
         },
         {
           "character": "张飞",
@@ -1335,7 +1836,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.2051,
+        0.7949,
+        0.0,
+        0.5195,
+        5,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 8,
@@ -1381,7 +1892,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "哎呀！二位嫂嫂！适才城楼之上有所不知，得罪了我家二哥，此事还望二位嫂\n嫂与小弟周全，讲个人情才是。"
+          "text": "哎呀！二位嫂嫂！适才城楼之上有所不知，得罪了我家二哥，此事还望二位嫂"
+        },
+        {
+          "character": "张飞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "嫂与小弟周全，讲个人情才是。"
         },
         {
           "character": "甘夫人",
@@ -1391,7 +1909,21 @@
           "text": "三弟不该疑心重，不念我等远路而来，反将你家二哥关在城外，险遭不测。似"
         },
         {
-          "character": "你这等不念情义之人、甘夫人、糜夫人",
+          "character": "甘夫人",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "你这等不念情义之人"
+        },
+        {
+          "character": "甘夫人",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "甘夫人"
+        },
+        {
+          "character": "糜夫人",
           "line_type": "同白",
           "musical_style": null,
           "style_family": null,
@@ -1525,7 +2057,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.875,
+        0.125,
+        0.7333,
+        5,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 9,
@@ -1549,7 +2091,21 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "卸连环露出了綠袍甲冑，\n关云长今日里才展眉头。\n是何处的军卒们吵闹不休？"
+          "text": "卸连环露出了綠袍甲冑，"
+        },
+        {
+          "character": "关羽",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "关云长今日里才展眉头。"
+        },
+        {
+          "character": "关羽",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "是何处的军卒们吵闹不休？"
         },
         {
           "character": "关羽",
@@ -1559,11 +2115,25 @@
           "text": "马夫前去看来。"
         },
         {
-          "character": "耳边厢又听得人喧马吼、马夫",
+          "character": "关羽",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "遵命。\n那厢人等因何事喧哗？"
+          "text": "耳边厢又听得人喧马吼"
+        },
+        {
+          "character": "马夫",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "遵命。"
+        },
+        {
+          "character": "马夫",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "那厢人等因何事喧哗？"
         },
         {
           "character": null,
@@ -1605,7 +2175,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "叫他们不愿为伍各自还乡，\n愿从军者注册收留。"
+          "text": "叫他们不愿为伍各自还乡，"
+        },
+        {
+          "character": "关羽",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "愿从军者注册收留。"
         },
         {
           "character": null,
@@ -1633,7 +2210,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "候着。\n启禀二爷：古城县令张三爷前来迎接二爷进城。"
+          "text": "候着。"
+        },
+        {
+          "character": "马夫",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "启禀二爷：古城县令张三爷前来迎接二爷进城。"
         },
         {
           "character": "关羽",
@@ -1703,7 +2287,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "叫马夫你与我头前路引，\n大摆大摇一步步走进了古城。"
+          "text": "叫马夫你与我头前路引，"
+        },
+        {
+          "character": "关羽",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "大摆大摇一步步走进了古城。"
         },
         {
           "character": null,
@@ -1744,7 +2335,17 @@
         "singing_ratio": 0.062,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.062,
+        0.2692,
+        0.7308,
+        0.0,
+        0.52,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 10,
@@ -2109,7 +2710,17 @@
         "singing_ratio": 0.034,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.034,
+        0.1176,
+        0.8824,
+        0.0,
+        0.7879,
+        4,
+        0.0,
+        0.0
+      ]
     }
   ]
 }

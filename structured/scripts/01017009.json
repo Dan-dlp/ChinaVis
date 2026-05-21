@@ -136,7 +136,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "山人，诸葛亮。奉了主公之命，攻打雒城。只因张任，武艺高强，颇有胆略。\n必须擒了此人，大兵方可前进。\n黄忠听令。"
+          "text": "山人，诸葛亮。奉了主公之命，攻打雒城。只因张任，武艺高强，颇有胆略。"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "必须擒了此人，大兵方可前进。"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "黄忠听令。"
         },
         {
           "character": "黄忠",
@@ -283,7 +297,21 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "袖内阴阳安排定，\n提兵调将捉张任。\n两军阵前会敌人。"
+          "text": "袖内阴阳安排定，"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "提兵调将捉张任。"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "两军阵前会敌人。"
         },
         {
           "character": null,
@@ -337,7 +365,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.1667,
+        0.7917,
+        0.0417,
+        0.6957,
+        5,
+        0.125,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -360,7 +398,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -383,7 +431,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 4,
@@ -404,14 +462,28 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "奉主之命守雒城，\n谨防刘备发来兵。"
+          "text": "奉主之命守雒城，"
+        },
+        {
+          "character": "张任",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "谨防刘备发来兵。"
         },
         {
           "character": "张任",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "俺，张任。可恨刘备，带领人马夺取西川。是俺奉了主公之令，带兵把守雒城。\n众将官，起兵前往！"
+          "text": "俺，张任。可恨刘备，带领人马夺取西川。是俺奉了主公之令，带兵把守雒城。"
+        },
+        {
+          "character": "张任",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "众将官，起兵前往！"
         },
         {
           "character": null,
@@ -432,7 +504,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        1.0,
+        0.5,
+        0.5,
+        0.0,
+        0.0,
+        1,
+        0.5,
+        0.0
+      ]
     },
     {
       "scene_index": 5,
@@ -453,7 +535,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "俺，张飞。在帐中奉了军师将令，扮做樵夫模样，藏在芦苇之中，等候张任到\n来，定要擒他下马。\n三军的，就此前往！"
+          "text": "俺，张飞。在帐中奉了军师将令，扮做樵夫模样，藏在芦苇之中，等候张任到"
+        },
+        {
+          "character": "张飞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来，定要擒他下马。"
+        },
+        {
+          "character": "张飞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "三军的，就此前往！"
         },
         {
           "character": null,
@@ -472,7 +568,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 6,
@@ -522,7 +628,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "你主闇弱，不听忠言。吾主刘玄德统领仁义之师，重整汉室社稷。那曹操以百\n万之众，闻吾之名，望风丧胆，弃甲而逃。似你无名之辈，还不下马投降，等\n候何时？少时马前被擒，悔之晚矣！"
+          "text": "你主闇弱，不听忠言。吾主刘玄德统领仁义之师，重整汉室社稷。那曹操以百"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "万之众，闻吾之名，望风丧胆，弃甲而逃。似你无名之辈，还不下马投降，等"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "候何时？少时马前被擒，悔之晚矣！"
         },
         {
           "character": "张任",
@@ -606,7 +726,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.7,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 7,
@@ -634,7 +764,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "且住！那贼败下阵去，待我赶上。\n吓！来此已是金雁桥。此桥高大，待我卸甲过桥。"
+          "text": "且住！那贼败下阵去，待我赶上。"
+        },
+        {
+          "character": "张任",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "吓！来此已是金雁桥。此桥高大，待我卸甲过桥。"
         },
         {
           "character": null,
@@ -653,7 +790,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 8,
@@ -676,7 +823,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 9,
@@ -728,7 +885,14 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "大将失机入罗网，\n盖世英雄无下场！"
+          "text": "大将失机入罗网，"
+        },
+        {
+          "character": "张任",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "盖世英雄无下场！"
         },
         {
           "character": "诸葛亮",
@@ -756,21 +920,56 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "某今被擒，你要杀就杀，要斩就斩，何必多言！若要叫俺归降，除非是日从西\n起！"
+          "text": "某今被擒，你要杀就杀，要斩就斩，何必多言！若要叫俺归降，除非是日从西"
+        },
+        {
+          "character": "张任",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "起！"
         },
         {
           "character": "张任",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "怒气不息把话讲，\n诸葛孔明听端详：\n岂肯在此把你降！"
+          "text": "怒气不息把话讲，"
         },
         {
-          "character": "我本西蜀有名将、诸葛亮",
+          "character": "张任",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "山人只把好言讲，\n大胆小儿敢逞狂。"
+          "text": "诸葛孔明听端详："
+        },
+        {
+          "character": "张任",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "岂肯在此把你降！"
+        },
+        {
+          "character": "张任",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我本西蜀有名将"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "山人只把好言讲，"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "大胆小儿敢逞狂。"
         },
         {
           "character": null,
@@ -791,7 +990,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "张任忠心为主，执意不降。来，将他尸首不可损坏，用棺木盛殓，埋葬高坡，\n以表忠义。"
+          "text": "张任忠心为主，执意不降。来，将他尸首不可损坏，用棺木盛殓，埋葬高坡，"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "以表忠义。"
         },
         {
           "character": null,
@@ -848,7 +1054,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.273,
+        0.45,
+        0.55,
+        0.0,
+        0.4211,
+        3,
+        0.1,
+        0.0
+      ]
     }
   ]
 }

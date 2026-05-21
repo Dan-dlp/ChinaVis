@@ -189,7 +189,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "吾乃、黑虎玄坛是也。今奉玉旨，巡察四山五岳。犹恐山精野魅作怪，为此吾\n神亲往巡察。前面已是泰山。\n嘚！众云童！"
+          "text": "吾乃、黑虎玄坛是也。今奉玉旨，巡察四山五岳。犹恐山精野魅作怪，为此吾"
+        },
+        {
+          "character": "玄坛",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "神亲往巡察。前面已是泰山。"
+        },
+        {
+          "character": "玄坛",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "嘚！众云童！"
         },
         {
           "character": "八云童",
@@ -224,7 +238,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "只见一阵黑气冲霄，此方必有逆伦之事。不免唤当方土地，一问便知。\n土地何在？"
+          "text": "只见一阵黑气冲霄，此方必有逆伦之事。不免唤当方土地，一问便知。"
+        },
+        {
+          "character": "玄坛",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "土地何在？"
         },
         {
           "character": null,
@@ -273,7 +294,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "世上竟有如此逆子，自有天报，岂能容得！\n神虎过来，听吾吩咐！"
+          "text": "世上竟有如此逆子，自有天报，岂能容得！"
+        },
+        {
+          "character": "玄坛",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "神虎过来，听吾吩咐！"
         },
         {
           "character": null,
@@ -360,7 +388,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0476,
+        0.8571,
+        0.0952,
+        0.65,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -388,7 +426,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "俺乃祥符县清虚观白犬精是也。终朝参星拜斗，受日精月华，能变化人形。就\n在这三清座下居住。因左邻画匠刘成金之妻梁氏生得十分美貌，意欲偷香窃玉；\n只是那刘成金日日在家，不能到手。不免今日再去探望一番，正是："
+          "text": "俺乃祥符县清虚观白犬精是也。终朝参星拜斗，受日精月华，能变化人形。就"
+        },
+        {
+          "character": "白犬精",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "在这三清座下居住。因左邻画匠刘成金之妻梁氏生得十分美貌，意欲偷香窃玉；"
+        },
+        {
+          "character": "白犬精",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "只是那刘成金日日在家，不能到手。不免今日再去探望一番，正是："
         },
         {
           "character": "白犬精",
@@ -414,7 +466,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.6,
+        0.4,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -450,14 +512,49 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "我、梁氏。可恨那巧嘴的媒婆，拿着我这么如花似玉的佳人，配了个攮攮包包\n的汉子。他学什么王维，笔管不离手，颜色不离口；浑身是腥臊臭味。天哪，\n叫奴家怎么受哇！"
+          "text": "我、梁氏。可恨那巧嘴的媒婆，拿着我这么如花似玉的佳人，配了个攮攮包包"
+        },
+        {
+          "character": "梁氏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "的汉子。他学什么王维，笔管不离手，颜色不离口；浑身是腥臊臭味。天哪，"
+        },
+        {
+          "character": "梁氏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "叫奴家怎么受哇！"
         },
         {
           "character": "梁氏",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "有梁氏生来命儿乖，\n嫁了个丈夫不成才。\n颜色沾身洗不开。\n埋怨月下老杀才。"
+          "text": "有梁氏生来命儿乖，"
+        },
+        {
+          "character": "梁氏",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "嫁了个丈夫不成才。"
+        },
+        {
+          "character": "梁氏",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "颜色沾身洗不开。"
+        },
+        {
+          "character": "梁氏",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "埋怨月下老杀才。"
         },
         {
           "character": null,
@@ -471,7 +568,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "唉呀，先别哭啦。今儿个六月十七，是我舅母生日，也该前去磕个头，送点儿\n寿礼。你瞧，他只管在屋里头画的不知是些什么。我叫他出来商量商量，好去\n拜寿！\n刘成金，你给我走出来！别画啦，我跟你说句话！"
+          "text": "唉呀，先别哭啦。今儿个六月十七，是我舅母生日，也该前去磕个头，送点儿"
+        },
+        {
+          "character": "梁氏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "寿礼。你瞧，他只管在屋里头画的不知是些什么。我叫他出来商量商量，好去"
+        },
+        {
+          "character": "梁氏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "拜寿！"
+        },
+        {
+          "character": "梁氏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "刘成金，你给我走出来！别画啦，我跟你说句话！"
         },
         {
           "character": "刘成金",
@@ -639,7 +757,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "今儿是六月十七，舅母生日。叫个盒子，打瓶酒，借匹驴，咱们俩人去拜寿，\n好吃寿面哪！"
+          "text": "今儿是六月十七，舅母生日。叫个盒子，打瓶酒，借匹驴，咱们俩人去拜寿，"
+        },
+        {
+          "character": "梁氏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "好吃寿面哪！"
         },
         {
           "character": "刘成金",
@@ -870,7 +995,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "难为你爹还在骗马营里当过差，连个骣驴都上不去。还学骗马？来，我扶你上\n去。"
+          "text": "难为你爹还在骗马营里当过差，连个骣驴都上不去。还学骗马？来，我扶你上"
+        },
+        {
+          "character": "刘成金",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "去。"
         },
         {
           "character": null,
@@ -905,7 +1037,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "我夫妻不能够贪欢贪爱，\n思想起不由奴怨气满怀。"
+          "text": "我夫妻不能够贪欢贪爱，"
+        },
+        {
+          "character": "梁氏",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "思想起不由奴怨气满怀。"
         },
         {
           "character": null,
@@ -950,7 +1089,17 @@
         "singing_ratio": 0.018,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.018,
+        0.0972,
+        0.8611,
+        0.0417,
+        0.7183,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 4,
@@ -974,7 +1123,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "妖风骤起望裙钗，\n幻形惊她转回来。"
+          "text": "妖风骤起望裙钗，"
+        },
+        {
+          "character": "白犬精",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "幻形惊她转回来。"
         },
         {
           "character": null,
@@ -988,7 +1144,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "驴蹄儿往前走急如风快，\n好叫奴汗津津暑热难捱。"
+          "text": "驴蹄儿往前走急如风快，"
+        },
+        {
+          "character": "梁氏",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "好叫奴汗津津暑热难捱。"
         },
         {
           "character": null,
@@ -1149,7 +1312,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "县里差人叫我去画影壁。说不了，我只好去一趟。你屋里躺躺，小心着狗，想\n着关门。"
+          "text": "县里差人叫我去画影壁。说不了，我只好去一趟。你屋里躺躺，小心着狗，想"
+        },
+        {
+          "character": "刘成金",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "着关门。"
         },
         {
           "character": "梁氏",
@@ -1177,7 +1347,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "你等着，我再嘱咐嘱咐。\n关上啦？"
+          "text": "你等着，我再嘱咐嘱咐。"
+        },
+        {
+          "character": "刘成金",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "关上啦？"
         },
         {
           "character": "梁氏",
@@ -1342,7 +1519,17 @@
         "singing_ratio": 0.056,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.056,
+        0.0976,
+        0.878,
+        0.0244,
+        0.825,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 5,
@@ -1635,7 +1822,17 @@
         "singing_ratio": 0.24,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.24,
+        0.24,
+        0.76,
+        0.0,
+        0.8333,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 6,
@@ -1663,7 +1860,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "小子、牛保。父母双亡，家业全无，靠砍柴为生。我有个打柴的伙伴，叫作韩\n三，最不孝母。我时常劝他不听。这时候也该进山啦，怎么还不见他到来？不\n免寻他便了！"
+          "text": "小子、牛保。父母双亡，家业全无，靠砍柴为生。我有个打柴的伙伴，叫作韩"
+        },
+        {
+          "character": "牛保",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "三，最不孝母。我时常劝他不听。这时候也该进山啦，怎么还不见他到来？不"
+        },
+        {
+          "character": "牛保",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "免寻他便了！"
         },
         {
           "character": "牛保",
@@ -1682,7 +1893,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.2,
+        0.6,
+        0.2,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 7,
@@ -1712,14 +1933,35 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "为人怎受老来贫，\n逆子终日打娘亲。\n谁知生下一祸根！"
+          "text": "为人怎受老来贫，"
+        },
+        {
+          "character": "吴氏",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "逆子终日打娘亲。"
+        },
+        {
+          "character": "吴氏",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "谁知生下一祸根！"
         },
         {
           "character": "吴氏",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "老身、吴氏。年过七旬。只因生下不孝之子，终朝打骂娘亲，老身实难忍受。\n哎呀天哪，这报应循环，为何全不应验了哇！"
+          "text": "老身、吴氏。年过七旬。只因生下不孝之子，终朝打骂娘亲，老身实难忍受。"
+        },
+        {
+          "character": "吴氏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "哎呀天哪，这报应循环，为何全不应验了哇！"
         },
         {
           "character": null,
@@ -1761,7 +2003,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "看他好似一凶神，\n吓得老身战兢兢。"
+          "text": "看他好似一凶神，"
+        },
+        {
+          "character": "吴氏",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "吓得老身战兢兢。"
         },
         {
           "character": null,
@@ -1789,7 +2038,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "你别跟我这么倚老卖老的！我要不看着王法的份上，早就拿斧子劈死你这老王\n八日的啦！"
+          "text": "你别跟我这么倚老卖老的！我要不看着王法的份上，早就拿斧子劈死你这老王"
+        },
+        {
+          "character": "韩三",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "八日的啦！"
         },
         {
           "character": "吴氏",
@@ -1810,7 +2066,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "天理昭彰难逃遁，\n全然不怕逆子名。"
+          "text": "天理昭彰难逃遁，"
+        },
+        {
+          "character": "吴氏",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "全然不怕逆子名。"
         },
         {
           "character": null,
@@ -1824,7 +2087,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "我把你这死不了的老东西！你不会做妈，你也学着点儿——太爷醒啦，把我的\n鞋拿到床沿下头，我好下地。怎么还等我自己拿！我白养活你这么大年纪，你\n不在我跟前尽点儿孝心，咳，你的天理良心何在哪？"
+          "text": "我把你这死不了的老东西！你不会做妈，你也学着点儿——太爷醒啦，把我的"
+        },
+        {
+          "character": "韩三",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "鞋拿到床沿下头，我好下地。怎么还等我自己拿！我白养活你这么大年纪，你"
+        },
+        {
+          "character": "韩三",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "不在我跟前尽点儿孝心，咳，你的天理良心何在哪？"
         },
         {
           "character": "吴氏",
@@ -1866,7 +2143,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "转过山弯把庄进，\n柴门不远面前存。"
+          "text": "转过山弯把庄进，"
+        },
+        {
+          "character": "牛保",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "柴门不远面前存。"
         },
         {
           "character": "牛保",
@@ -1957,7 +2241,21 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "可恨万恶小畜牲，\n把娘亲当作陌路人。\n对空埋怨过往神。"
+          "text": "可恨万恶小畜牲，"
+        },
+        {
+          "character": "吴氏",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "把娘亲当作陌路人。"
+        },
+        {
+          "character": "吴氏",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "对空埋怨过往神。"
         },
         {
           "character": "吴氏",
@@ -2006,7 +2304,17 @@
         "singing_ratio": 0.105,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.105,
+        0.3333,
+        0.619,
+        0.0476,
+        0.4634,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 8,
@@ -2029,7 +2337,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 9,
@@ -2051,7 +2369,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "行程急速奔山林，\n韩三（ 唱） 正逢中伏汗淋身。"
+          "text": "行程急速奔山林，"
+        },
+        {
+          "character": "牛保",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "韩三（ 唱） 正逢中伏汗淋身。"
         },
         {
           "character": "牛保",
@@ -2149,7 +2474,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "三哥，我有一言相劝，自古道：百善孝为先。你今改过自新，孝顺老母，从此\n永无恶星加临，常有吉神拥护，入深山，穿茂林，就不致胆怯啦。"
+          "text": "三哥，我有一言相劝，自古道：百善孝为先。你今改过自新，孝顺老母，从此"
+        },
+        {
+          "character": "牛保",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "永无恶星加临，常有吉神拥护，入深山，穿茂林，就不致胆怯啦。"
         },
         {
           "character": "韩三",
@@ -2191,14 +2523,28 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "只见猛虎把人吞，\n吓得我顶上走真魂。"
+          "text": "只见猛虎把人吞，"
+        },
+        {
+          "character": "牛保",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "吓得我顶上走真魂。"
         },
         {
           "character": "牛保",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "不好啦！你看韩三竟被大虫叼去。我不免拿了他的衣服，回去报与他母亲知道\n便"
+          "text": "不好啦！你看韩三竟被大虫叼去。我不免拿了他的衣服，回去报与他母亲知道"
+        },
+        {
+          "character": "牛保",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "便"
         }
       ],
       "interactions": [
@@ -2229,7 +2575,17 @@
         "singing_ratio": 0.103,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.103,
+        0.1905,
+        0.8095,
+        0.0,
+        0.6,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 10,
@@ -2256,14 +2612,14 @@
           "text": "（四青袍、王朝、马汉引包拯同上。）"
         },
         {
-          "character": null,
+          "character": "包拯",
           "line_type": "念",
           "musical_style": null,
           "style_family": null,
           "text": "数年为官秉廉明，恶霸强梁岂肯容？倒坐南衙无头断，除奸削佞鬼神惊！"
         },
         {
-          "character": null,
+          "character": "包拯",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -3035,7 +3391,17 @@
         "singing_ratio": 0.051,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.051,
+        0.093,
+        0.8953,
+        0.0116,
+        0.8706,
+        11,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 11,
@@ -3349,7 +3715,17 @@
         "singing_ratio": 0.083,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.083,
+        0.1613,
+        0.7419,
+        0.0968,
+        0.6667,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 12,
@@ -3698,7 +4074,17 @@
         "singing_ratio": 0.217,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.217,
+        0.2333,
+        0.6667,
+        0.1,
+        0.4483,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 13,
@@ -4535,7 +4921,17 @@
         "singing_ratio": 0.13,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.13,
+        0.1951,
+        0.8049,
+        0.0,
+        0.7284,
+        9,
+        0.0,
+        0.0
+      ]
     }
   ]
 }

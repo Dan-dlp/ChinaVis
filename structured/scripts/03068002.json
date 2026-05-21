@@ -303,14 +303,35 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "先生，想我汉家被莽贼谋篡，药酒毒死先皇，小王逃出咸阳。多亏先生、姚皇\n兄与众位将官扶保小王，重整汉室。马皇兄攻打洮城，不知胜负如何，叫小王\n放心不下。"
+          "text": "先生，想我汉家被莽贼谋篡，药酒毒死先皇，小王逃出咸阳。多亏先生、姚皇"
+        },
+        {
+          "character": "刘秀",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "兄与众位将官扶保小王，重整汉室。马皇兄攻打洮城，不知胜负如何，叫小王"
+        },
+        {
+          "character": "刘秀",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "放心不下。"
         },
         {
           "character": "邓禹",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "主公兴兵以来，攻无不取，战无不胜。量那小小洮城，何难收复？且听探马一\n报。"
+          "text": "主公兴兵以来，攻无不取，战无不胜。量那小小洮城，何难收复？且听探马一"
+        },
+        {
+          "character": "邓禹",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "报。"
         },
         {
           "character": null,
@@ -448,7 +469,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.8333,
+        0.1667,
+        0.8696,
+        11,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -471,7 +502,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -494,7 +535,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 4,
@@ -546,7 +597,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "臣、马武。奉军师将令夺取洮城，托我主洪福，唾手而得。现有洮城印信，请\n军师观看。"
+          "text": "臣、马武。奉军师将令夺取洮城，托我主洪福，唾手而得。现有洮城印信，请"
+        },
+        {
+          "character": "马武",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "军师观看。"
         },
         {
           "character": "邓禹",
@@ -560,7 +618,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "马皇兄听封：今将洮城印信归你执掌，封你为骠骑将军，世袭洮城牧。\n左右摆宴，与马皇兄贺功。"
+          "text": "马皇兄听封：今将洮城印信归你执掌，封你为骠骑将军，世袭洮城牧。"
+        },
+        {
+          "character": "刘秀",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "左右摆宴，与马皇兄贺功。"
         },
         {
           "character": "马武",
@@ -742,7 +807,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "马将军！你休要不自量。想当年在武科场，那王莽中了岑彭，不中于你，你心\n中不忿，要与岑彭比武。不想你将马缰挣断，被岑彭打下马来。因此气走咸阳。\n此番你再要出兵，岂不是白白送死？此事非俺姚期不可！"
+          "text": "马将军！你休要不自量。想当年在武科场，那王莽中了岑彭，不中于你，你心"
+        },
+        {
+          "character": "姚期",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "中不忿，要与岑彭比武。不想你将马缰挣断，被岑彭打下马来。因此气走咸阳。"
+        },
+        {
+          "character": "姚期",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "此番你再要出兵，岂不是白白送死？此事非俺姚期不可！"
         },
         {
           "character": "马武",
@@ -770,10 +849,31 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "听他言来怒满膛，\n活活气死马子张。\n情愿战死在疆场。"
+          "text": "听他言来怒满膛，"
         },
         {
-          "character": "我若不擒岑彭将、姚期",
+          "character": "马武",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "活活气死马子张。"
+        },
+        {
+          "character": "马武",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "情愿战死在疆场。"
+        },
+        {
+          "character": "马武",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我若不擒岑彭将"
+        },
+        {
+          "character": "姚期",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -798,7 +898,21 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "二将不必来争斗，\n为国勤劳解忧愁。\n凌烟阁上把名留。"
+          "text": "二将不必来争斗，"
+        },
+        {
+          "character": "邓禹",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "为国勤劳解忧愁。"
+        },
+        {
+          "character": "邓禹",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "凌烟阁上把名留。"
         },
         {
           "character": "邓禹",
@@ -815,7 +929,14 @@
           "text": "同到敌楼来观斗，"
         },
         {
-          "character": "斩将擒王功劳有、刘秀",
+          "character": "邓禹",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "斩将擒王功劳有"
+        },
+        {
+          "character": "刘秀",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
@@ -882,38 +1003,171 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "马到疆场似风云。\n刀枪剑戟鬼神惊。\n大骂刘秀你快出城！"
+          "text": "马到疆场似风云。"
         },
         {
-          "character": "帐下儿郎威风凛、号炮一响似雷震、邓禹",
+          "character": "岑彭",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "人喊马嘶战场进，\n岑彭小儿似天神。\n心怀谋逆害先君。\n扶保我主再整乾坤。"
+          "text": "刀枪剑戟鬼神惊。"
         },
         {
-          "character": "王莽本是贼奸佞、将军若是承天运、岑彭",
+          "character": "岑彭",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "听罢言来怒满腔，\n抬头只见马子张。\n枪挑马下脸无光。\n下得城来摆战场。"
+          "text": "大骂刘秀你快出城！"
         },
         {
-          "character": "王莽本是贼奸佞、将军若是承天运、岑彭",
+          "character": "岑彭",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "帐下儿郎威风凛"
+        },
+        {
+          "character": "岑彭",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "号炮一响似雷震"
+        },
+        {
+          "character": "邓禹",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "人喊马嘶战场进，"
+        },
+        {
+          "character": "邓禹",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "岑彭小儿似天神。"
+        },
+        {
+          "character": "邓禹",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "心怀谋逆害先君。"
+        },
+        {
+          "character": "邓禹",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "扶保我主再整乾坤。"
+        },
+        {
+          "character": "邓禹",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "王莽本是贼奸佞"
+        },
+        {
+          "character": "邓禹",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "将军若是承天运"
+        },
+        {
+          "character": "岑彭",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "听罢言来怒满腔，"
+        },
+        {
+          "character": "岑彭",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "抬头只见马子张。"
+        },
+        {
+          "character": "岑彭",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "枪挑马下脸无光。"
+        },
+        {
+          "character": "岑彭",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "下得城来摆战场。"
+        },
+        {
+          "character": "岑彭",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "王莽本是贼奸佞"
+        },
+        {
+          "character": "岑彭",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "将军若是承天运"
+        },
+        {
+          "character": "岑彭",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
           "text": "贪生怕死！"
         },
         {
-          "character": "王莽本是贼奸佞、将军若是承天运、岑彭",
+          "character": "岑彭",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "王莽本是贼奸佞"
+        },
+        {
+          "character": "岑彭",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "将军若是承天运"
+        },
+        {
+          "character": "岑彭",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
           "text": "你就免到疆场。"
         },
         {
-          "character": "曾记当年武科场、尔若自称英雄将、沽名钓誉无能将、马武",
+          "character": "岑彭",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "曾记当年武科场"
+        },
+        {
+          "character": "岑彭",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "尔若自称英雄将"
+        },
+        {
+          "character": "岑彭",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "沽名钓誉无能将"
+        },
+        {
+          "character": "马武",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -945,14 +1199,35 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "马武！想当年武科场中，被我挑下马来，抱头鼠窜而逃。今日兵困棘阳关，难\n道你就不惜性命吗！"
+          "text": "马武！想当年武科场中，被我挑下马来，抱头鼠窜而逃。今日兵困棘阳关，难"
+        },
+        {
+          "character": "岑彭",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "道你就不惜性命吗！"
         },
         {
           "character": "马武",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "岑彭，我的儿呀！想当年武科场，那王莽中了你的相貌，不中俺马武的奇才。\n是俺与你比武，俺的马缰扯断，你将俺马武摔下马来。那王莽道俺是无能之辈，\n事到如今，冤仇未报，恶气未消。今日相逢，岂能饶你！"
+          "text": "岑彭，我的儿呀！想当年武科场，那王莽中了你的相貌，不中俺马武的奇才。"
+        },
+        {
+          "character": "马武",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "是俺与你比武，俺的马缰扯断，你将俺马武摔下马来。那王莽道俺是无能之辈，"
+        },
+        {
+          "character": "马武",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "事到如今，冤仇未报，恶气未消。今日相逢，岂能饶你！"
         },
         {
           "character": "岑彭",
@@ -973,10 +1248,59 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "本帅敌楼来观阵，\n只见两家动刀兵。\n一个猛勇似天神。\n姚期将军听分明：\n帮助马武把功成。"
+          "text": "本帅敌楼来观阵，"
         },
         {
-          "character": "一个银枪威风凛、本帅急忙传将令、急忙出城来助阵、姚期",
+          "character": "邓禹",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "只见两家动刀兵。"
+        },
+        {
+          "character": "邓禹",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "一个猛勇似天神。"
+        },
+        {
+          "character": "邓禹",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "姚期将军听分明："
+        },
+        {
+          "character": "邓禹",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "帮助马武把功成。"
+        },
+        {
+          "character": "邓禹",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "一个银枪威风凛"
+        },
+        {
+          "character": "邓禹",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "本帅急忙传将令"
+        },
+        {
+          "character": "邓禹",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "急忙出城来助阵"
+        },
+        {
+          "character": "姚期",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -1113,7 +1437,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "两军阵前，未分胜败。他家鸣金收兵，明日再战。命你带领三军，饱餐战饭，\n三更时分，听我号令。城外扎营去吧！"
+          "text": "两军阵前，未分胜败。他家鸣金收兵，明日再战。命你带领三军，饱餐战饭，"
+        },
+        {
+          "character": "岑彭",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "三更时分，听我号令。城外扎营去吧！"
         },
         {
           "character": "县官",
@@ -1263,7 +1594,17 @@
         "singing_ratio": 0.143,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.143,
+        0.3874,
+        0.6036,
+        0.009,
+        0.5455,
+        13,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 5,
@@ -1293,7 +1634,35 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "想当年老王爷把江山来创，\n斩白蛇灭秦楚登基咸阳。\n毒药酒酖先皇命丧无常。\n但愿得汉室兴早灭奸王。\n愿我儿归汉家落一个万古名扬。"
+          "text": "想当年老王爷把江山来创，"
+        },
+        {
+          "character": "岑母",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "斩白蛇灭秦楚登基咸阳。"
+        },
+        {
+          "character": "岑母",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "毒药酒酖先皇命丧无常。"
+        },
+        {
+          "character": "岑母",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "但愿得汉室兴早灭奸王。"
+        },
+        {
+          "character": "岑母",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "愿我儿归汉家落一个万古名扬。"
         },
         {
           "character": null,
@@ -1307,7 +1676,21 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "在疆场与刘贼打了一仗，\n但愿得扫狼烟扶保家邦。\n见萱堂施一礼儿问安康。"
+          "text": "在疆场与刘贼打了一仗，"
+        },
+        {
+          "character": "岑彭",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "但愿得扫狼烟扶保家邦。"
+        },
+        {
+          "character": "岑彭",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "见萱堂施一礼儿问安康。"
         },
         {
           "character": "岑彭",
@@ -1317,7 +1700,14 @@
           "text": "母亲在上，孩儿拜揖！"
         },
         {
-          "character": "将身儿我且把二堂来上、岑母",
+          "character": "岑彭",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "将身儿我且把二堂来上"
+        },
+        {
+          "character": "岑母",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -1342,21 +1732,63 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "母亲有所不知，今有刘秀命邓禹为帅，带领马武、姚期与孩儿交战。两家不分\n胜负，天色已晚，鸣金收兵。明日定要扫灭此贼！"
-        },
-        {
-          "character": "岑母",
-          "line_type": "白",
-          "musical_style": null,
-          "style_family": null,
-          "text": "儿啊，想当年高祖先皇受尽千辛万苦，闯荡山河，不想被莽贼谋篡。幸有刘贵\n人重整汉室，自南阳起义，攻无不取，战无不胜，可见汉室气数未尽。想我儿\n身为大将，就该应天顺人。有道是：知时务者方为俊杰。依为娘相劝，趁此机\n会弃暗投明，扶保汉室，日后不失封侯之位。"
+          "text": "母亲有所不知，今有刘秀命邓禹为帅，带领马武、姚期与孩儿交战。两家不分"
         },
         {
           "character": "岑彭",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "母亲说哪里话来！儿幼年蒙我父教训：为臣要忠，为子要孝。想孩儿既扶保莽\n主，生为莽臣，死为莽鬼。有道是：食君之禄，当报王恩。若叫孩儿降汉，除\n非是日从西起！"
+          "text": "胜负，天色已晚，鸣金收兵。明日定要扫灭此贼！"
+        },
+        {
+          "character": "岑母",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "儿啊，想当年高祖先皇受尽千辛万苦，闯荡山河，不想被莽贼谋篡。幸有刘贵"
+        },
+        {
+          "character": "岑母",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "人重整汉室，自南阳起义，攻无不取，战无不胜，可见汉室气数未尽。想我儿"
+        },
+        {
+          "character": "岑母",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "身为大将，就该应天顺人。有道是：知时务者方为俊杰。依为娘相劝，趁此机"
+        },
+        {
+          "character": "岑母",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "会弃暗投明，扶保汉室，日后不失封侯之位。"
+        },
+        {
+          "character": "岑彭",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "母亲说哪里话来！儿幼年蒙我父教训：为臣要忠，为子要孝。想孩儿既扶保莽"
+        },
+        {
+          "character": "岑彭",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "主，生为莽臣，死为莽鬼。有道是：食君之禄，当报王恩。若叫孩儿降汉，除"
+        },
+        {
+          "character": "岑彭",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "非是日从西起！"
         },
         {
           "character": "岑母",
@@ -1370,31 +1802,150 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "叫岑彭我的儿听娘教训，\n有为娘一件件细说分明。\n儿就该答报那汉室恩情。\n为臣者怎能够心怀异志、叛主杀君、留下了千载骂名！"
+          "text": "叫岑彭我的儿听娘教训，"
         },
         {
-          "character": "你的父汉司马官居极品、王莽贼谋篡位天下怨恨、岑彭",
+          "character": "岑母",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "老娘亲说此话全不思忖，\n孩儿言来细听详情：\n为什么一旦间削职为民？\n食君禄必须要答报王恩。"
+          "text": "有为娘一件件细说分明。"
         },
         {
-          "character": "儿的父为司马执掌帅印、幼年间儿的父将我教训、岑母",
+          "character": "岑母",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "听他言来心自忖，\n奴才果然铁打心。\n再想良策弃暗投明。"
+          "text": "儿就该答报那汉室恩情。"
         },
         {
-          "character": "儿的父为司马执掌帅印、幼年间儿的父将我教训、岑母",
+          "character": "岑母",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "为臣者怎能够心怀异志、叛主杀君、留下了千载骂名！"
+        },
+        {
+          "character": "岑母",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "你的父汉司马官居极品"
+        },
+        {
+          "character": "岑母",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "王莽贼谋篡位天下怨恨"
+        },
+        {
+          "character": "岑彭",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "老娘亲说此话全不思忖，"
+        },
+        {
+          "character": "岑彭",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "孩儿言来细听详情："
+        },
+        {
+          "character": "岑彭",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "为什么一旦间削职为民？"
+        },
+        {
+          "character": "岑彭",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "食君禄必须要答报王恩。"
+        },
+        {
+          "character": "岑彭",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "儿的父为司马执掌帅印"
+        },
+        {
+          "character": "岑彭",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "幼年间儿的父将我教训"
+        },
+        {
+          "character": "岑母",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "听他言来心自忖，"
+        },
+        {
+          "character": "岑母",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "奴才果然铁打心。"
+        },
+        {
+          "character": "岑母",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "再想良策弃暗投明。"
+        },
+        {
+          "character": "岑母",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "儿的父为司马执掌帅印"
+        },
+        {
+          "character": "岑母",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "幼年间儿的父将我教训"
+        },
+        {
+          "character": "岑母",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "儿啊，为娘再三相劝，我儿执意不听。如今为娘不愿在城内居住，去到城外寻\n一个僻静所在安身。今晚准备车辆将为娘护送出城，我儿的战事，为娘是不闻\n不问，任凭吾儿所为。"
+          "text": "儿啊，为娘再三相劝，我儿执意不听。如今为娘不愿在城内居住，去到城外寻"
         },
         {
-          "character": "千言万语劝不醒、岑彭",
+          "character": "岑母",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "一个僻静所在安身。今晚准备车辆将为娘护送出城，我儿的战事，为娘是不闻"
+        },
+        {
+          "character": "岑母",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "不问，任凭吾儿所为。"
+        },
+        {
+          "character": "岑母",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "千言万语劝不醒"
+        },
+        {
+          "character": "岑彭",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -1454,7 +2005,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "今晚三更时分，本帅护送老母出城。命你等一更饱食战饭；二更人马齐备；三\n更齐跨雕鞍，绕敌营而走，前去接应，不得有误！"
+          "text": "今晚三更时分，本帅护送老母出城。命你等一更饱食战饭；二更人马齐备；三"
+        },
+        {
+          "character": "岑彭",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "更齐跨雕鞍，绕敌营而走，前去接应，不得有误！"
         },
         {
           "character": "周彬、周奎",
@@ -1522,7 +2080,17 @@
         "singing_ratio": 0.2,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.2,
+        0.4464,
+        0.4821,
+        0.0714,
+        0.3273,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 6,
@@ -1553,7 +2121,21 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "昨日阵前打一仗，\n岑彭武艺果然强。\n耳听探马报端详。"
+          "text": "昨日阵前打一仗，"
+        },
+        {
+          "character": "邓禹",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "岑彭武艺果然强。"
+        },
+        {
+          "character": "邓禹",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "耳听探马报端详。"
         },
         {
           "character": null,
@@ -1602,7 +2184,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "想那岑彭诡计多端。如今撤去城上旗号，今晚定有别故，此计焉能瞒得为臣？\n杜、贾二位将军听令！"
+          "text": "想那岑彭诡计多端。如今撤去城上旗号，今晚定有别故，此计焉能瞒得为臣？"
+        },
+        {
+          "character": "邓禹",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "杜、贾二位将军听令！"
         },
         {
           "character": "杜茂、贾复",
@@ -1728,7 +2317,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "主公与臣同至安林安营扎寨，倘若岑彭到此，必然擒获。\n众将官，带马安营去者！"
+          "text": "主公与臣同至安林安营扎寨，倘若岑彭到此，必然擒获。"
+        },
+        {
+          "character": "邓禹",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "众将官，带马安营去者！"
         },
         {
           "character": "四上手、四龙套",
@@ -1742,7 +2338,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "人来带过马丝缰，\n去到安林摆战场。"
+          "text": "人来带过马丝缰，"
+        },
+        {
+          "character": "邓禹",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "去到安林摆战场。"
         },
         {
           "character": null,
@@ -1820,7 +2423,17 @@
         "singing_ratio": 0.091,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.091,
+        0.1852,
+        0.8148,
+        0.0,
+        0.8077,
+        8,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 7,
@@ -1891,7 +2504,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 8,
@@ -1927,7 +2550,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "人马列开！众将官，就在此地安营扎寨。岑彭到此，许败不许胜。将他诱至南\n北山口，本帅好收伏于他。"
+          "text": "人马列开！众将官，就在此地安营扎寨。岑彭到此，许败不许胜。将他诱至南"
+        },
+        {
+          "character": "邓禹",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "北山口，本帅好收伏于他。"
         },
         {
           "character": "四龙套",
@@ -1963,7 +2593,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.75,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 9,
@@ -1986,7 +2626,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 10,
@@ -2009,7 +2659,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 11,
@@ -2093,7 +2753,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "众位将军迎敌岑彭，待俺老马劫他的车辆。\n（四龙套、岑彭、二丫鬟、岑母、车夫同上，马武劫岑母车同下，岑彭、贾复、杜茂、王霸、吴汉、周彬、\n周奎同起打，贾复、杜茂、王霸、吴汉、周彬、周奎同下。岑彭两望。）"
+          "text": "众位将军迎敌岑彭，待俺老马劫他的车辆。"
+        },
+        {
+          "character": "马武",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "（四龙套、岑彭、二丫鬟、岑母、车夫同上，马武劫岑母车同下，岑彭、贾复、杜茂、王霸、吴汉、周彬、"
+        },
+        {
+          "character": "马武",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "周奎同起打，贾复、杜茂、王霸、吴汉、周彬、周奎同下。岑彭两望。）"
         },
         {
           "character": "岑彭",
@@ -2107,7 +2781,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "一见车辆无踪影，\n不由岑彭吃一惊。"
+          "text": "一见车辆无踪影，"
+        },
+        {
+          "character": "岑彭",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "不由岑彭吃一惊。"
         },
         {
           "character": null,
@@ -2128,7 +2809,28 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "只见老母被贼擒。\n母子之情心何忍？\n岑彭倒做不孝人。\n提银枪催战马车辆随定！"
+          "text": "只见老母被贼擒。"
+        },
+        {
+          "character": "岑彭",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "母子之情心何忍？"
+        },
+        {
+          "character": "岑彭",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "岑彭倒做不孝人。"
+        },
+        {
+          "character": "岑彭",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "提银枪催战马车辆随定！"
         }
       ],
       "interactions": [
@@ -2158,7 +2860,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.3333,
+        0.6667,
+        0.0,
+        0.4706,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 12,
@@ -2863,7 +3575,17 @@
         "singing_ratio": 0.455,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.455,
+        0.4627,
+        0.5373,
+        0.0,
+        0.9545,
+        8,
+        0.0,
+        0.0
+      ]
     }
   ]
 }

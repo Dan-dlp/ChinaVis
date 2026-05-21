@@ -87,21 +87,77 @@
           "line_type": "二黄摇板",
           "musical_style": "二黄摇板",
           "style_family": "二黄",
-          "text": "恼恨奸贼理不该，\n苦苦害我为哪般。\n思想起来泪涟涟。"
+          "text": "恼恨奸贼理不该，"
+        },
+        {
+          "character": "莫怀古",
+          "line_type": "二黄摇板",
+          "musical_style": "二黄摇板",
+          "style_family": "二黄",
+          "text": "苦苦害我为哪般。"
+        },
+        {
+          "character": "莫怀古",
+          "line_type": "二黄摇板",
+          "musical_style": "二黄摇板",
+          "style_family": "二黄",
+          "text": "思想起来泪涟涟。"
         },
         {
           "character": "莫怀古",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "在下莫怀古，钱塘人氏。只因那年，进京求取功名，多亏严府提拔，官居太常\n寺正卿之职。恼恨汤勤，搬动是非。是我弃官逃走，被严府校卫，将我拿获，\n解到蓟州。幸喜莫成，替我丧命，是我逃在河北避难。昨日戚贤弟有书到来，\n叫我前去。看前面已是蓟州，不免马上加鞭。"
+          "text": "在下莫怀古，钱塘人氏。只因那年，进京求取功名，多亏严府提拔，官居太常"
+        },
+        {
+          "character": "莫怀古",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "寺正卿之职。恼恨汤勤，搬动是非。是我弃官逃走，被严府校卫，将我拿获，"
+        },
+        {
+          "character": "莫怀古",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "解到蓟州。幸喜莫成，替我丧命，是我逃在河北避难。昨日戚贤弟有书到来，"
+        },
+        {
+          "character": "莫怀古",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "叫我前去。看前面已是蓟州，不免马上加鞭。"
         },
         {
           "character": "莫怀古",
           "line_type": "二黄原板",
           "musical_style": "二黄原板",
           "style_family": "二黄",
-          "text": "一日离家一日深，\n莫怀古在马上自己思忖：\n大不该害得我一家离分。\n有雪艳刺汤勤才把冤伸。"
+          "text": "一日离家一日深，"
+        },
+        {
+          "character": "莫怀古",
+          "line_type": "二黄原板",
+          "musical_style": "二黄原板",
+          "style_family": "二黄",
+          "text": "莫怀古在马上自己思忖："
+        },
+        {
+          "character": "莫怀古",
+          "line_type": "二黄原板",
+          "musical_style": "二黄原板",
+          "style_family": "二黄",
+          "text": "大不该害得我一家离分。"
+        },
+        {
+          "character": "莫怀古",
+          "line_type": "二黄原板",
+          "musical_style": "二黄原板",
+          "style_family": "二黄",
+          "text": "有雪艳刺汤勤才把冤伸。"
         },
         {
           "character": "莫怀古",
@@ -130,7 +186,17 @@
           "二黄原板",
           "二黄摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        1.0,
+        0.6667,
+        0.3333,
+        0.0,
+        0.0,
+        1,
+        0.0,
+        0.6667
+      ]
     },
     {
       "scene_index": 2,
@@ -169,7 +235,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "老身傅氏。老爷莫怀古，官居太常寺卿之职；不料被人陷害，命染黄泉，埋葬\n在蓟州西门以外，柳林之内。是我带领文禄，前去坟茔祭奠。前面离蓟州不远，\n看天色不早，正好趱路。\n文禄哪里？"
+          "text": "老身傅氏。老爷莫怀古，官居太常寺卿之职；不料被人陷害，命染黄泉，埋葬"
+        },
+        {
+          "character": "傅氏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "在蓟州西门以外，柳林之内。是我带领文禄，前去坟茔祭奠。前面离蓟州不远，"
+        },
+        {
+          "character": "傅氏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "看天色不早，正好趱路。"
+        },
+        {
+          "character": "傅氏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "文禄哪里？"
         },
         {
           "character": null,
@@ -218,7 +305,35 @@
           "line_type": "二黄慢板",
           "musical_style": "二黄慢板",
           "style_family": "二黄",
-          "text": "有傅氏带文禄忙把路上，\n思想起当年事好不悲伤。\n官居着太常卿身列朝堂。\n落下了我一人好不凄凉。\n又只见一坟茔细看端详。"
+          "text": "有傅氏带文禄忙把路上，"
+        },
+        {
+          "character": "傅氏",
+          "line_type": "二黄慢板",
+          "musical_style": "二黄慢板",
+          "style_family": "二黄",
+          "text": "思想起当年事好不悲伤。"
+        },
+        {
+          "character": "傅氏",
+          "line_type": "二黄慢板",
+          "musical_style": "二黄慢板",
+          "style_family": "二黄",
+          "text": "官居着太常卿身列朝堂。"
+        },
+        {
+          "character": "傅氏",
+          "line_type": "二黄慢板",
+          "musical_style": "二黄慢板",
+          "style_family": "二黄",
+          "text": "落下了我一人好不凄凉。"
+        },
+        {
+          "character": "傅氏",
+          "line_type": "二黄慢板",
+          "musical_style": "二黄慢板",
+          "style_family": "二黄",
+          "text": "又只见一坟茔细看端详。"
         },
         {
           "character": "傅氏",
@@ -232,7 +347,28 @@
           "line_type": "二黄摇板",
           "musical_style": "二黄摇板",
           "style_family": "二黄",
-          "text": "见坟茔不由人泪双抛，\n叫一声老爷听根苗：\n又谁知中途无下梢。\n老爷呀——"
+          "text": "见坟茔不由人泪双抛，"
+        },
+        {
+          "character": "傅氏",
+          "line_type": "二黄摇板",
+          "musical_style": "二黄摇板",
+          "style_family": "二黄",
+          "text": "叫一声老爷听根苗："
+        },
+        {
+          "character": "傅氏",
+          "line_type": "二黄摇板",
+          "musical_style": "二黄摇板",
+          "style_family": "二黄",
+          "text": "又谁知中途无下梢。"
+        },
+        {
+          "character": "傅氏",
+          "line_type": "二黄摇板",
+          "musical_style": "二黄摇板",
+          "style_family": "二黄",
+          "text": "老爷呀——"
         },
         {
           "character": "傅氏",
@@ -253,14 +389,28 @@
           "line_type": "二黄摇板",
           "musical_style": "二黄摇板",
           "style_family": "二黄",
-          "text": "催马加鞭到柳林，\n不知坟茔何处存。"
+          "text": "催马加鞭到柳林，"
+        },
+        {
+          "character": "莫怀古",
+          "line_type": "二黄摇板",
+          "musical_style": "二黄摇板",
+          "style_family": "二黄",
+          "text": "不知坟茔何处存。"
         },
         {
           "character": "莫怀古",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "来此已是柳林，不知莫成坟茔，现在哪里？待我下马找寻找寻。\n“太常寺卿莫公之墓”。"
+          "text": "来此已是柳林，不知莫成坟茔，现在哪里？待我下马找寻找寻。"
+        },
+        {
+          "character": "莫怀古",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "“太常寺卿莫公之墓”。"
         },
         {
           "character": "莫怀古",
@@ -281,10 +431,24 @@
           "line_type": "二黄摇板",
           "musical_style": "二黄摇板",
           "style_family": "二黄",
-          "text": "不由得一阵阵哭嚎陶。\n万古流芳美名标。"
+          "text": "不由得一阵阵哭嚎陶。"
         },
         {
-          "character": "可怜你为我把命丧了、傅氏",
+          "character": "莫怀古",
+          "line_type": "二黄摇板",
+          "musical_style": "二黄摇板",
+          "style_family": "二黄",
+          "text": "万古流芳美名标。"
+        },
+        {
+          "character": "莫怀古",
+          "line_type": "二黄摇板",
+          "musical_style": "二黄摇板",
+          "style_family": "二黄",
+          "text": "可怜你为我把命丧了"
+        },
+        {
+          "character": "傅氏",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -309,7 +473,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "且住。看此人讲话，好似我妻傅氏。待我向前冒叫一声。\n呀！你莫非是傅氏么？"
+          "text": "且住。看此人讲话，好似我妻傅氏。待我向前冒叫一声。"
+        },
+        {
+          "character": "莫怀古",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "呀！你莫非是傅氏么？"
         },
         {
           "character": "傅氏",
@@ -428,10 +599,38 @@
           "line_type": "二黄摇板",
           "musical_style": "二黄摇板",
           "style_family": "二黄",
-          "text": "一见老爷来到了，\n不由妾身泪滔滔。\n妾身言来听根苗：\n雪艳妹子哪里去了？"
+          "text": "一见老爷来到了，"
         },
         {
-          "character": "回头便把老爷叫、莫怀古",
+          "character": "傅氏",
+          "line_type": "二黄摇板",
+          "musical_style": "二黄摇板",
+          "style_family": "二黄",
+          "text": "不由妾身泪滔滔。"
+        },
+        {
+          "character": "傅氏",
+          "line_type": "二黄摇板",
+          "musical_style": "二黄摇板",
+          "style_family": "二黄",
+          "text": "妾身言来听根苗："
+        },
+        {
+          "character": "傅氏",
+          "line_type": "二黄摇板",
+          "musical_style": "二黄摇板",
+          "style_family": "二黄",
+          "text": "雪艳妹子哪里去了？"
+        },
+        {
+          "character": "傅氏",
+          "line_type": "二黄摇板",
+          "musical_style": "二黄摇板",
+          "style_family": "二黄",
+          "text": "回头便把老爷叫"
+        },
+        {
+          "character": "莫怀古",
           "line_type": "二黄摇板",
           "musical_style": "二黄摇板",
           "style_family": "二黄",
@@ -491,7 +690,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "这就是文禄。\n来，见过你家爷爷。"
+          "text": "这就是文禄。"
+        },
+        {
+          "character": "傅氏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来，见过你家爷爷。"
         },
         {
           "character": "莫文禄",
@@ -533,7 +739,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "你当真要你家爹爹么？你随我来——\n这坟茔之中，就是你家爹爹！"
+          "text": "你当真要你家爹爹么？你随我来——"
+        },
+        {
+          "character": "莫怀古",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "这坟茔之中，就是你家爹爹！"
         },
         {
           "character": "莫文禄",
@@ -547,14 +760,28 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "听说爹爹命丧了，\n眼望坟茔泪双抛。"
+          "text": "听说爹爹命丧了，"
+        },
+        {
+          "character": "莫文禄",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "眼望坟茔泪双抛。"
         },
         {
           "character": "傅氏",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "老爷，妾身欲将文禄孩儿，认在你我的名下，作为螟蛉义子。不知老爷，意下\n如何？"
+          "text": "老爷，妾身欲将文禄孩儿，认在你我的名下，作为螟蛉义子。不知老爷，意下"
+        },
+        {
+          "character": "傅氏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "如何？"
         },
         {
           "character": "莫怀古",
@@ -661,7 +888,17 @@
           "二黄慢板",
           "二黄摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.182,
+        0.4253,
+        0.5517,
+        0.023,
+        0.5581,
+        4,
+        0.0,
+        0.3218
+      ]
     }
   ]
 }

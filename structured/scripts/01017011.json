@@ -130,7 +130,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "我乃，阳谷县猎户是也。只因今日景阳岗上，出了一只吊睛白额猛虎，伤人无\n数。本县太爷，立限悬了赏格，要我们捉获，但此虎十分凶猛，我们如何能拿\n得他来。\n伙计，我们穿着虎皮衣服，伏在岭下，多多摆些窝弓药箭，待它自来送命。"
+          "text": "我乃，阳谷县猎户是也。只因今日景阳岗上，出了一只吊睛白额猛虎，伤人无"
+        },
+        {
+          "character": "猎户甲",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "数。本县太爷，立限悬了赏格，要我们捉获，但此虎十分凶猛，我们如何能拿"
+        },
+        {
+          "character": "猎户甲",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "得他来。"
+        },
+        {
+          "character": "猎户甲",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "伙计，我们穿着虎皮衣服，伏在岭下，多多摆些窝弓药箭，待它自来送命。"
         },
         {
           "character": "猎户乙",
@@ -169,7 +190,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.7143,
+        0.2857,
+        0.1667,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -205,7 +236,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "俺，武松。久住在柴皇亲庄上，意欲投奔宋公明，为此别了柴大官人，一路直\n往阳谷县寻俺哥哥，不免就此走遭也。"
+          "text": "俺，武松。久住在柴皇亲庄上，意欲投奔宋公明，为此别了柴大官人，一路直"
+        },
+        {
+          "character": "武松",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "往阳谷县寻俺哥哥，不免就此走遭也。"
         },
         {
           "character": null,
@@ -240,7 +278,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "迤逦行来，已是景阳岗下了。呀，你看这一酒店，酒旗之上写着“三碗不过岗”，\n这是怎么讲？想我行路饥渴，且进去少坐一会。\n店家哪里？"
+          "text": "迤逦行来，已是景阳岗下了。呀，你看这一酒店，酒旗之上写着“三碗不过岗”，"
+        },
+        {
+          "character": "武松",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "这是怎么讲？想我行路饥渴，且进去少坐一会。"
+        },
+        {
+          "character": "武松",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "店家哪里？"
         },
         {
           "character": null,
@@ -324,7 +376,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "我拿来你吃吃就晓得哉。\n喂，伙计们，拿一壶酒来吓。\n客人酒来哉。"
+          "text": "我拿来你吃吃就晓得哉。"
+        },
+        {
+          "character": "店家",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "喂，伙计们，拿一壶酒来吓。"
+        },
+        {
+          "character": "店家",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "客人酒来哉。"
         },
         {
           "character": "武松",
@@ -744,7 +810,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "多蒙柴大官人，赐我的盘川，一路行来，剩不多了。\n店家，你拿去。"
+          "text": "多蒙柴大官人，赐我的盘川，一路行来，剩不多了。"
+        },
+        {
+          "character": "武松",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "店家，你拿去。"
         },
         {
           "character": "店家",
@@ -779,7 +852,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "知道哉。\n伙计们，将客人的包裹收起来。"
+          "text": "知道哉。"
+        },
+        {
+          "character": "店家",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "伙计们，将客人的包裹收起来。"
         },
         {
           "character": "武松",
@@ -821,14 +901,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "这岗上近日出了一只吊睛白额虎，吃人无数，官府大张告示，来往客商，必须\n要结伴成群，于巳、午、未三个时辰过岗，单身客人，不许行走，恐伤性命，"
+          "text": "这岗上近日出了一只吊睛白额虎，吃人无数，官府大张告示，来往客商，必须"
+        },
+        {
+          "character": "店家",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "要结伴成群，于巳、午、未三个时辰过岗，单身客人，不许行走，恐伤性命，"
         },
         {
           "character": "万万去不得、武松",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "住口，你不说猛虎，俺不去也罢；你说起有猛虎，俺不觉精神抖擞，毛发倒竖，\n俺偏要前去！"
+          "text": "住口，你不说猛虎，俺不去也罢；你说起有猛虎，俺不觉精神抖擞，毛发倒竖，"
+        },
+        {
+          "character": "万万去不得、武松",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "俺偏要前去！"
         },
         {
           "character": null,
@@ -912,7 +1006,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "这虎在哪里，虎在哪里？这些人尽是胡说，连官府的榜文，也是混帐，不免下\n岗赶路。呵呀呀，这酒竟涌上来了！妙吓，这一块大石，俺且睡他娘一觉再走。"
+          "text": "这虎在哪里，虎在哪里？这些人尽是胡说，连官府的榜文，也是混帐，不免下"
+        },
+        {
+          "character": "店家",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "岗赶路。呵呀呀，这酒竟涌上来了！妙吓，这一块大石，俺且睡他娘一觉再走。"
         },
         {
           "character": null,
@@ -1080,7 +1181,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "吓，怎么不动了？死了么？管它死不死，下岗赶路要紧。\n呀，又有两个大虫来了！俺武松，今番死也！"
+          "text": "吓，怎么不动了？死了么？管它死不死，下岗赶路要紧。"
+        },
+        {
+          "character": "武松",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "呀，又有两个大虫来了！俺武松，今番死也！"
         },
         {
           "character": null,
@@ -1174,6 +1282,20 @@
           "text": "请讲。"
         },
         {
+          "character": "猎户丙、猎户丁",
+          "line_type": "同白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "一声吼，千人惊恐"
+        },
+        {
+          "character": "猎户丙、猎户丁",
+          "line_type": "同白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "数步远众生含痛"
+        },
+        {
           "character": null,
           "line_type": "stage_direction",
           "musical_style": null,
@@ -1188,7 +1310,7 @@
           "text": "尾一剪，钢刀般横。"
         },
         {
-          "character": "一声吼，千人惊恐、数步远众生含痛、猎户丙",
+          "character": "猎户丙",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -1234,7 +1356,14 @@
           "line_type": "同白",
           "musical_style": null,
           "style_family": null,
-          "text": "实不相瞒我们是阳谷县的猎户，官府立了限期，要叫我们拿这只虎，我们近它\n不得。今被你打死，我们却是不信。"
+          "text": "实不相瞒我们是阳谷县的猎户，官府立了限期，要叫我们拿这只虎，我们近它"
+        },
+        {
+          "character": "猎户丙、猎户丁",
+          "line_type": "同白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "不得。今被你打死，我们却是不信。"
         },
         {
           "character": "武松",
@@ -1499,7 +1628,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.9853,
+        0.0147,
+        0.763,
+        7,
+        0.0,
+        0.0
+      ]
     }
   ]
 }

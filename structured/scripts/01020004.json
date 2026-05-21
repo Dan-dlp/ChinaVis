@@ -1007,7 +1007,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.8462,
+        5,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -1203,7 +1213,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.6667,
+        5,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -1226,14 +1246,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "孤，李自成。你看那周总兵，连伤孤数员上将，他越杀越勇，料难得胜。不如\n折兵退回，攻打别处。"
+          "text": "孤，李自成。你看那周总兵，连伤孤数员上将，他越杀越勇，料难得胜。不如"
+        },
+        {
+          "character": "李自成",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "折兵退回，攻打别处。"
         },
         {
           "character": "一支虎",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "启王兄：周遇吉虽然英烈，有道是：寡不敌众。兄王带领弓箭手，埋伏山谷之\n中，待小弟诈败，引他到来。一齐放箭，哪怕他飞上天去。"
+          "text": "启王兄：周遇吉虽然英烈，有道是：寡不敌众。兄王带领弓箭手，埋伏山谷之"
+        },
+        {
+          "character": "一支虎",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "中，待小弟诈败，引他到来。一齐放箭，哪怕他飞上天去。"
         },
         {
           "character": "李自成",
@@ -1319,7 +1353,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.9,
+        0.1,
+        0.6667,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 4,
@@ -1418,7 +1462,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 5,
@@ -1486,7 +1540,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 6,
@@ -1545,7 +1609,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "放马过来！\n看鞭！"
+          "text": "放马过来！"
+        },
+        {
+          "character": "周遇吉",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "看鞭！"
         },
         {
           "character": null,
@@ -1650,7 +1721,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "周遇吉自刎了，可惜可惜，真乃忠良雄将。明朝将官，若能个个如此，孤家焉\n能到此。"
+          "text": "周遇吉自刎了，可惜可惜，真乃忠良雄将。明朝将官，若能个个如此，孤家焉"
+        },
+        {
+          "character": "李自成",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "能到此。"
         },
         {
           "character": null,
@@ -1790,7 +1868,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.6842,
+        4,
+        0.0,
+        0.0
+      ]
     }
   ]
 }

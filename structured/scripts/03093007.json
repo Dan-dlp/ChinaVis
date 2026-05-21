@@ -198,7 +198,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "你我奉了魏王钧旨，汉水截战，我欲命军士渡水列阵，待等黄忠、赵云到来，\n一鼓擒之，将军意下如何？"
+          "text": "你我奉了魏王钧旨，汉水截战，我欲命军士渡水列阵，待等黄忠、赵云到来，"
+        },
+        {
+          "character": "徐晃",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "一鼓擒之，将军意下如何？"
         },
         {
           "character": "王平",
@@ -226,7 +233,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "你且莫管，看我渡水取胜者！\n来，速搭浮桥，列阵防守，以待蜀兵到来！"
+          "text": "你且莫管，看我渡水取胜者！"
+        },
+        {
+          "character": "徐晃",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来，速搭浮桥，列阵防守，以待蜀兵到来！"
         },
         {
           "character": "徐晃",
@@ -283,7 +297,17 @@
         "singing_ratio": 0.2,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.2,
+        0.2857,
+        0.7143,
+        0.0,
+        0.6923,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -337,7 +361,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "哎，说什么辛苦不辛苦，俺只道曹兵有限，故而带领五百小卒，同了张将军杀\n到曹营大寨，心想劫他的粮草，夺他的军器。谁想到了北山角下，正待放火烧\n他粮草，不料曹操亲统大兵数万，一拥而来，老夫左冲右闯，如入无人之境。\n正在杀得高兴之际，忽见赵将军也在其内。"
+          "text": "哎，说什么辛苦不辛苦，俺只道曹兵有限，故而带领五百小卒，同了张将军杀"
+        },
+        {
+          "character": "黄忠",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "到曹营大寨，心想劫他的粮草，夺他的军器。谁想到了北山角下，正待放火烧"
+        },
+        {
+          "character": "黄忠",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "他粮草，不料曹操亲统大兵数万，一拥而来，老夫左冲右闯，如入无人之境。"
+        },
+        {
+          "character": "黄忠",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "正在杀得高兴之际，忽见赵将军也在其内。"
         },
         {
           "character": "黄忠",
@@ -365,7 +410,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "尽哪却也难尽，只是杀得那贼东逃西散，兵将丧胆，虽未擒着张郃，眼见那贼\n锐气尽也！"
+          "text": "尽哪却也难尽，只是杀得那贼东逃西散，兵将丧胆，虽未擒着张郃，眼见那贼"
+        },
+        {
+          "character": "黄忠",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "锐气尽也！"
         },
         {
           "character": "赵云",
@@ -442,7 +494,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "俺在当阳，单枪匹马，觑那曹兵八十三万人马如同草芥。今日曹兵，何足惧哉！\n老将军后帐歇息。只须弓弩手百名，埋伏营外壕中，将旗鼓尽皆掩息，待俺\n赵云独自立于门首，曹兵来时，但看俺枪尖一摆，万弩齐发也！"
+          "text": "俺在当阳，单枪匹马，觑那曹兵八十三万人马如同草芥。今日曹兵，何足惧哉！"
+        },
+        {
+          "character": "赵云",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "老将军后帐歇息。只须弓弩手百名，埋伏营外壕中，将旗鼓尽皆掩息，待俺"
+        },
+        {
+          "character": "赵云",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "赵云独自立于门首，曹兵来时，但看俺枪尖一摆，万弩齐发也！"
         },
         {
           "character": "赵云",
@@ -470,14 +536,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "启魏王：蜀营辕门大开，旗鼓皆无，只有赵云单枪匹马独自立于营门，此时不\n可进兵！"
+          "text": "启魏王：蜀营辕门大开，旗鼓皆无，只有赵云单枪匹马独自立于营门，此时不"
+        },
+        {
+          "character": "张郃",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "可进兵！"
         },
         {
           "character": "曹操",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "待孤看来！\n唔呼呀，其中定有奸诈，快快收兵！"
+          "text": "待孤看来！"
+        },
+        {
+          "character": "曹操",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "唔呼呀，其中定有奸诈，快快收兵！"
         },
         {
           "character": "赵云",
@@ -581,7 +661,17 @@
         "singing_ratio": 0.143,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.143,
+        0.1212,
+        0.8788,
+        0.0,
+        0.5938,
+        6,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -705,7 +795,17 @@
         "singing_ratio": 0.375,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.375,
+        0.4444,
+        0.5556,
+        0.0,
+        0.875,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 4,
@@ -889,7 +989,17 @@
         "singing_ratio": 0.583,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.583,
+        0.6154,
+        0.3846,
+        0.0,
+        0.9167,
+        5,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 5,
@@ -942,14 +1052,35 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "我把你这贪生怕死的小辈，不知耻的匹夫！你我俱是奉命而来，便当协力相助，\n蜀兵排山倒海杀到，你为何袖手不理？真真气死我也！"
+          "text": "我把你这贪生怕死的小辈，不知耻的匹夫！你我俱是奉命而来，便当协力相助，"
+        },
+        {
+          "character": "徐晃",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "蜀兵排山倒海杀到，你为何袖手不理？真真气死我也！"
         },
         {
           "character": "王平",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "将军要渡水列阵，王平也曾劝阻，你要学韩信背水拒敌的故事；我道赵云、黄\n忠非比等闲，将军一定要如此而行！今番之败，乃是自取，怎么怪起末将来了！\n我若离此大营，只恐此时老营亦无救矣！"
+          "text": "将军要渡水列阵，王平也曾劝阻，你要学韩信背水拒敌的故事；我道赵云、黄"
+        },
+        {
+          "character": "王平",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "忠非比等闲，将军一定要如此而行！今番之败，乃是自取，怎么怪起末将来了！"
+        },
+        {
+          "character": "王平",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我若离此大营，只恐此时老营亦无救矣！"
         },
         {
           "character": "徐晃",
@@ -963,7 +1094,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "你明明缩头保性命，\n指东说西反怪人。"
+          "text": "你明明缩头保性命，"
+        },
+        {
+          "character": "徐晃",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "指东说西反怪人。"
         },
         {
           "character": "徐晃",
@@ -1096,7 +1234,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "我枉自随征空受任，\n满腹雄才难显能。"
+          "text": "我枉自随征空受任，"
+        },
+        {
+          "character": "王平",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "满腹雄才难显能。"
         },
         {
           "character": "王平",
@@ -1117,10 +1262,31 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "王平哪，王平！你还分什么智士、阘茸，是你自己不见机，误投奸人麾下。唉，\n倒不如弃曹归刘，做个明哲保身。\n军士们，尔等愿随者随，不愿随者各自散去！"
+          "text": "王平哪，王平！你还分什么智士、阘茸，是你自己不见机，误投奸人麾下。唉，"
         },
         {
-          "character": "含恨忍痛将己问、四文堂",
+          "character": "王平",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "倒不如弃曹归刘，做个明哲保身。"
+        },
+        {
+          "character": "王平",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "军士们，尔等愿随者随，不愿随者各自散去！"
+        },
+        {
+          "character": "王平",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "含恨忍痛将己问"
+        },
+        {
+          "character": "四文堂",
           "line_type": "同白",
           "musical_style": null,
           "style_family": null,
@@ -1205,7 +1371,17 @@
         "singing_ratio": 0.08,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.08,
+        0.1707,
+        0.8049,
+        0.0244,
+        0.6,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 6,
@@ -1233,7 +1409,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "怎知王平要谋叛，\n急速报与魏王前。"
+          "text": "怎知王平要谋叛，"
+        },
+        {
+          "character": "徐晃",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "急速报与魏王前。"
         },
         {
           "character": null,
@@ -1252,7 +1435,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.6667,
+        0.3333,
+        0.0,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 7,
@@ -1276,7 +1469,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "惭愧呀，惭愧！我道赵云带兵有限，故而亲率大兵追赶，不料他用了以逸待劳\n之计。若非老夫识破，定然深入险地！\n众将官，后面追兵怎么样了？"
+          "text": "惭愧呀，惭愧！我道赵云带兵有限，故而亲率大兵追赶，不料他用了以逸待劳"
+        },
+        {
+          "character": "曹操",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "之计。若非老夫识破，定然深入险地！"
+        },
+        {
+          "character": "曹操",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "众将官，后面追兵怎么样了？"
         },
         {
           "character": "众人",
@@ -1325,7 +1532,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "启魏王：赵云不过一旅之师，见我军潮涌而来，无可抵敌，故设此疑兵之计，\n惊退我军。"
+          "text": "启魏王：赵云不过一旅之师，见我军潮涌而来，无可抵敌，故设此疑兵之计，"
+        },
+        {
+          "character": "报子",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "惊退我军。"
         },
         {
           "character": "曹操",
@@ -1388,7 +1602,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "哦，有这等事！大耳贼呀，大耳贼！孤与你誓不两立也！\n来，就此兵撤阳平关！一面打下战书，约定明日叫刘备亲来五截山前决一死战！"
+          "text": "哦，有这等事！大耳贼呀，大耳贼！孤与你誓不两立也！"
+        },
+        {
+          "character": "曹操",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来，就此兵撤阳平关！一面打下战书，约定明日叫刘备亲来五截山前决一死战！"
         },
         {
           "character": "众人",
@@ -1402,7 +1623,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "咬牙切齿难消恨，\n与贼交战决输赢！"
+          "text": "咬牙切齿难消恨，"
+        },
+        {
+          "character": "曹操",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "与贼交战决输赢！"
         },
         {
           "character": null,
@@ -1449,7 +1677,17 @@
         "singing_ratio": 0.062,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.062,
+        0.0952,
+        0.9048,
+        0.0,
+        0.7,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 8,
@@ -1743,7 +1981,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "且自安排庆功宴，\n胜负但看在明天。"
+          "text": "且自安排庆功宴，"
+        },
+        {
+          "character": "刘备",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "胜负但看在明天。"
         },
         {
           "character": null,
@@ -1851,7 +2096,17 @@
         "singing_ratio": 0.1,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.1,
+        0.1176,
+        0.8529,
+        0.0294,
+        0.8182,
+        7,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 9,
@@ -1919,14 +2174,49 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "你本大树楼桑一个织席贩履之辈，假充汉室苗裔，冒为天子之皇叔，仗关、张\n之英雄，依诸葛之雄才，擅用武事，徐州之失不知辱，当阳之败不识羞！计穷\n力尽，奔投袁绍，何殊丧家之犬！不知天命，还敢放肆，既已得陇，何又望蜀！\n似此贪夫，死有余辜！"
+          "text": "你本大树楼桑一个织席贩履之辈，假充汉室苗裔，冒为天子之皇叔，仗关、张"
+        },
+        {
+          "character": "曹操",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "之英雄，依诸葛之雄才，擅用武事，徐州之失不知辱，当阳之败不识羞！计穷"
+        },
+        {
+          "character": "曹操",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "力尽，奔投袁绍，何殊丧家之犬！不知天命，还敢放肆，既已得陇，何又望蜀！"
+        },
+        {
+          "character": "曹操",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "似此贪夫，死有余辜！"
         },
         {
           "character": "曹操",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "你一朝得志胆似天，\n倚仗人才弄倒悬。\n今日叫你不生还！"
+          "text": "你一朝得志胆似天，"
+        },
+        {
+          "character": "曹操",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "倚仗人才弄倒悬。"
+        },
+        {
+          "character": "曹操",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "今日叫你不生还！"
         },
         {
           "character": "曹操",
@@ -1943,11 +2233,39 @@
           "text": "哈哈哈……"
         },
         {
-          "character": "试看孤威天兵现、刘备",
+          "character": "曹操",
+          "line_type": "笑",
+          "musical_style": null,
+          "style_family": null,
+          "text": "试看孤威天兵现"
+        },
+        {
+          "character": "刘备",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "住了！我本大汉宗亲，谁人不晓，笑只笑你乃夏侯氏之乳臭，冒为曹氏之子孙！\n一朝得志，不思报本，明为伊尹之忠，暗造王莽之逆，目无君上，心嫉贤能！\n潼关脱生犹不悟；赤壁失机尚不省！欺君罔上，作尽狗畜之行！今日僭用天\n子銮舆，似此豺狼，人神共怒，尔死在顷刻，尚敢在我面前摇唇鼓舌么！"
+          "text": "住了！我本大汉宗亲，谁人不晓，笑只笑你乃夏侯氏之乳臭，冒为曹氏之子孙！"
+        },
+        {
+          "character": "刘备",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "一朝得志，不思报本，明为伊尹之忠，暗造王莽之逆，目无君上，心嫉贤能！"
+        },
+        {
+          "character": "刘备",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "潼关脱生犹不悟；赤壁失机尚不省！欺君罔上，作尽狗畜之行！今日僭用天"
+        },
+        {
+          "character": "刘备",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "子銮舆，似此豺狼，人神共怒，尔死在顷刻，尚敢在我面前摇唇鼓舌么！"
         },
         {
           "character": "曹操",
@@ -1961,10 +2279,31 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "贼人须将本分占，\n撮土焉能比泰山。\n斩首好雪天下冤！"
+          "text": "贼人须将本分占，"
         },
         {
-          "character": "今日叫你难回转、曹操",
+          "character": "刘备",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "撮土焉能比泰山。"
+        },
+        {
+          "character": "刘备",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "斩首好雪天下冤！"
+        },
+        {
+          "character": "刘备",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "今日叫你难回转"
+        },
+        {
+          "character": "曹操",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
@@ -2066,7 +2405,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "住了！大耳贼！你每每使你那假儿子前来拒敌，孤若唤我那黄须儿来，直叫你\n那假子立为肉泥矣！"
+          "text": "住了！大耳贼！你每每使你那假儿子前来拒敌，孤若唤我那黄须儿来，直叫你"
+        },
+        {
+          "character": "曹操",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "那假子立为肉泥矣！"
         },
         {
           "character": null,
@@ -2080,7 +2426,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "看枪！\n（张郃、徐晃急架住。曹操、刘备暗分下。刘封、赵云、张郃、徐晃同起打。张郃、徐晃、四上手、四文堂\n同败下。）"
+          "text": "看枪！"
+        },
+        {
+          "character": "刘封",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "（张郃、徐晃急架住。曹操、刘备暗分下。刘封、赵云、张郃、徐晃同起打。张郃、徐晃、四上手、四文堂"
+        },
+        {
+          "character": "刘封",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "同败下。）"
         },
         {
           "character": "刘封",
@@ -2139,7 +2499,17 @@
         "singing_ratio": 0.444,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.444,
+        0.413,
+        0.587,
+        0.0,
+        0.5556,
+        4,
+        0.0,
+        0.0
+      ]
     }
   ]
 }

@@ -315,7 +315,14 @@
           "line_type": "同白",
           "musical_style": null,
           "style_family": null,
-          "text": "请！\n（四上手自两边分下。吴汉、姚期对拱手自两边分下。岑彭、马武同比粗。〖四击头〗。岑彭、马武同亮相，"
+          "text": "请！"
+        },
+        {
+          "character": "姚期、岑彭、马武",
+          "line_type": "同白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "（四上手自两边分下。吴汉、姚期对拱手自两边分下。岑彭、马武同比粗。〖四击头〗。岑彭、马武同亮相，"
         }
       ],
       "interactions": [
@@ -363,7 +370,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.8,
+        0.2,
+        0.8947,
+        7,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -421,7 +438,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "本帅，邓禹。自白水起义以来，逢州得州，遇县得县，看前面已是洛阳，必须\n激将而行。\n来！"
+          "text": "本帅，邓禹。自白水起义以来，逢州得州，遇县得县，看前面已是洛阳，必须"
+        },
+        {
+          "character": "邓禹",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "激将而行。"
+        },
+        {
+          "character": "邓禹",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来！"
         },
         {
           "character": "四站堂军",
@@ -505,7 +536,14 @@
           "line_type": "同白",
           "musical_style": null,
           "style_family": null,
-          "text": "得令。\n带马！"
+          "text": "得令。"
+        },
+        {
+          "character": "吴汉、姚期",
+          "line_type": "同白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "带马！"
         },
         {
           "character": null,
@@ -547,7 +585,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "你慢喳！岑将军，闻听人言，那洛阳城池坚固，况且那苏献用兵如神，你去焉\n能取胜？此事让与咱马武，定能一战成功！"
+          "text": "你慢喳！岑将军，闻听人言，那洛阳城池坚固，况且那苏献用兵如神，你去焉"
+        },
+        {
+          "character": "马武",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "能取胜？此事让与咱马武，定能一战成功！"
         },
         {
           "character": "岑彭",
@@ -610,10 +655,31 @@
           "line_type": "西皮散板",
           "musical_style": "西皮散板",
           "style_family": "西皮",
-          "text": "二将不必来争斗，\n小王言来听从头：\n凌烟阁上美名留。"
+          "text": "二将不必来争斗，"
         },
         {
-          "character": "哪个若得苏献首、邓禹",
+          "character": "刘秀",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "小王言来听从头："
+        },
+        {
+          "character": "刘秀",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "凌烟阁上美名留。"
+        },
+        {
+          "character": "刘秀",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "哪个若得苏献首"
+        },
+        {
+          "character": "邓禹",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -624,14 +690,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "元帅，想当年在那武科场中，那王莽老贼中了岑彭的像貌，不中俺马武的奇才，\n今日帐中争功，岑彭你好不羞啊。"
+          "text": "元帅，想当年在那武科场中，那王莽老贼中了岑彭的像貌，不中俺马武的奇才，"
+        },
+        {
+          "character": "马武",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "今日帐中争功，岑彭你好不羞啊。"
         },
         {
           "character": "岑彭",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "马武！想当年岑爷夺魁，扬名天下，谁人不知，哪个不晓？你是扠出科场的丑\n鬼马武！"
+          "text": "马武！想当年岑爷夺魁，扬名天下，谁人不知，哪个不晓？你是扠出科场的丑"
+        },
+        {
+          "character": "岑彭",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "鬼马武！"
         },
         {
           "character": "马武",
@@ -666,24 +746,143 @@
           "line_type": "西皮快板",
           "musical_style": "西皮快板",
           "style_family": "西皮",
-          "text": "岑彭小儿听从头：\n志气凌云贯斗牛。\n扠出科场某把反诗留。\n奉命带甲统貔貅。\n得意洋洋你好不害羞！"
+          "text": "岑彭小儿听从头："
         },
         {
-          "character": "洛阳举子俺为首、王莽贼见俺的面貌丑、兴汉灭莽心已久、以貌压众岂能长久、岑彭",
+          "character": "马武",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "志气凌云贯斗牛。"
+        },
+        {
+          "character": "马武",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "扠出科场某把反诗留。"
+        },
+        {
+          "character": "马武",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "奉命带甲统貔貅。"
+        },
+        {
+          "character": "马武",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "得意洋洋你好不害羞！"
+        },
+        {
+          "character": "马武",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "洛阳举子俺为首"
+        },
+        {
+          "character": "马武",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "王莽贼见俺的面貌丑"
+        },
+        {
+          "character": "马武",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "兴汉灭莽心已久"
+        },
+        {
+          "character": "马武",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "以貌压众岂能长久"
+        },
+        {
+          "character": "岑彭",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
           "text": "马武！"
         },
         {
-          "character": "洛阳举子俺为首、王莽贼见俺的面貌丑、兴汉灭莽心已久、以貌压众岂能长久、岑彭",
+          "character": "岑彭",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "洛阳举子俺为首"
+        },
+        {
+          "character": "岑彭",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "王莽贼见俺的面貌丑"
+        },
+        {
+          "character": "岑彭",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "兴汉灭莽心已久"
+        },
+        {
+          "character": "岑彭",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "以貌压众岂能长久"
+        },
+        {
+          "character": "岑彭",
           "line_type": "西皮散板",
           "musical_style": "西皮散板",
           "style_family": "西皮",
-          "text": "马武不必夸海口，\n岑爷言来听从头：\n插花披红占鳌头。\n岑爷一怒招尔的头。"
+          "text": "马武不必夸海口，"
         },
         {
-          "character": "考场夺魁俺为首、文韬武略胸中有、马武",
+          "character": "岑彭",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "岑爷言来听从头："
+        },
+        {
+          "character": "岑彭",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "插花披红占鳌头。"
+        },
+        {
+          "character": "岑彭",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "岑爷一怒招尔的头。"
+        },
+        {
+          "character": "岑彭",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "考场夺魁俺为首"
+        },
+        {
+          "character": "岑彭",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "文韬武略胸中有"
+        },
+        {
+          "character": "马武",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -722,7 +921,14 @@
           "line_type": "西皮散板",
           "musical_style": "西皮散板",
           "style_family": "西皮",
-          "text": "何必怒气冲牛斗，\n得罢休来且罢休。"
+          "text": "何必怒气冲牛斗，"
+        },
+        {
+          "character": "刘秀",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "得罢休来且罢休。"
         },
         {
           "character": "岑彭、马武",
@@ -778,10 +984,38 @@
           "line_type": "西皮散板",
           "musical_style": "西皮散板",
           "style_family": "西皮",
-          "text": "二将休要来争斗，\n本帅言来听根由：\n定取你二人项上头。"
+          "text": "二将休要来争斗，"
         },
         {
-          "character": "不念素日功劳有、岑彭、马武",
+          "character": "邓禹",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "本帅言来听根由："
+        },
+        {
+          "character": "邓禹",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "定取你二人项上头。"
+        },
+        {
+          "character": "邓禹",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "不念素日功劳有"
+        },
+        {
+          "character": "邓禹",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "岑彭"
+        },
+        {
+          "character": "马武",
           "line_type": "同白",
           "musical_style": null,
           "style_family": null,
@@ -830,7 +1064,14 @@
           "text": "从前事儿一笔销。"
         },
         {
-          "character": "岑彭进前听令道、岑彭",
+          "character": "邓禹",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "岑彭进前听令道"
+        },
+        {
+          "character": "岑彭",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -988,7 +1229,14 @@
           "line_type": "西皮散板",
           "musical_style": "西皮散板",
           "style_family": "西皮",
-          "text": "宝帐接令出帐口，\n急得马武皱眉头。"
+          "text": "宝帐接令出帐口，"
+        },
+        {
+          "character": "岑彭",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "急得马武皱眉头。"
         },
         {
           "character": "岑彭",
@@ -1016,7 +1264,14 @@
           "line_type": "西皮散板",
           "musical_style": "西皮散板",
           "style_family": "西皮",
-          "text": "不曾出兵我先料就，\n损兵折将转回头。"
+          "text": "不曾出兵我先料就，"
+        },
+        {
+          "character": "马武",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "损兵折将转回头。"
         },
         {
           "character": null,
@@ -1121,7 +1376,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "不必多言，现有锦囊一封，带在身旁，待等本月二十一日，拆开观看。附耳上\n来！"
+          "text": "不必多言，现有锦囊一封，带在身旁，待等本月二十一日，拆开观看。附耳上"
+        },
+        {
+          "character": "邓禹",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来！"
         },
         {
           "character": null,
@@ -1142,7 +1404,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "元帅，你命那吴汉、姚期解押粮草，命那岑彭攻取洛阳，又赐杜茂将军锦囊一\n封，哪里有什么惊天动地之事，差咱老马这么一差！"
+          "text": "元帅，你命那吴汉、姚期解押粮草，命那岑彭攻取洛阳，又赐杜茂将军锦囊一"
+        },
+        {
+          "character": "马武",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "封，哪里有什么惊天动地之事，差咱老马这么一差！"
         },
         {
           "character": "邓禹",
@@ -1219,7 +1488,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "臣遵命。\n马武听令！"
+          "text": "臣遵命。"
+        },
+        {
+          "character": "邓禹",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "马武听令！"
         },
         {
           "character": "马武",
@@ -1282,7 +1558,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "喳！喳！喳！哇呀呀……元帅，你命俺领兵出马，俺便舍身征杀；你命俺备酒\n一席，与那岑彭接风，你就是将俺的人头割下，我也是不遵你的将令啊！"
+          "text": "喳！喳！喳！哇呀呀……元帅，你命俺领兵出马，俺便舍身征杀；你命俺备酒"
+        },
+        {
+          "character": "马武",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "一席，与那岑彭接风，你就是将俺的人头割下，我也是不遵你的将令啊！"
         },
         {
           "character": "邓禹",
@@ -1310,7 +1593,14 @@
           "line_type": "西皮散板",
           "musical_style": "西皮散板",
           "style_family": "西皮",
-          "text": "听一言来心头恼，\n胆大马武犯律条。"
+          "text": "听一言来心头恼，"
+        },
+        {
+          "character": "邓禹",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "胆大马武犯律条。"
         },
         {
           "character": null,
@@ -1359,7 +1649,14 @@
           "line_type": "西皮散板",
           "musical_style": "西皮散板",
           "style_family": "西皮",
-          "text": "食王爵禄当报效，\n哪知本帅暗略韬。"
+          "text": "食王爵禄当报效，"
+        },
+        {
+          "character": "邓禹",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "哪知本帅暗略韬。"
         },
         {
           "character": null,
@@ -1394,7 +1691,14 @@
           "line_type": "西皮散板",
           "musical_style": "西皮散板",
           "style_family": "西皮",
-          "text": "得放手来且放手，\n为孤何须结冤仇。"
+          "text": "得放手来且放手，"
+        },
+        {
+          "character": "刘秀",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "为孤何须结冤仇。"
         },
         {
           "character": null,
@@ -1408,14 +1712,35 @@
           "line_type": "西皮散板",
           "musical_style": "西皮散板",
           "style_family": "西皮",
-          "text": "先辅汉室今落后，\n险在刀头一命休。"
+          "text": "先辅汉室今落后，"
+        },
+        {
+          "character": "马武",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "险在刀头一命休。"
         },
         {
           "character": "马武",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "嘿！可惜一个仁义的主公，只是他错用了一个元帅。想那岑彭攻取洛阳，必然\n大败而归。俺不免备酒一席，与那岑彭接风，在帐中羞辱于他，耻笑邓禹，方\n显俺老马胸中的智量也！"
+          "text": "嘿！可惜一个仁义的主公，只是他错用了一个元帅。想那岑彭攻取洛阳，必然"
+        },
+        {
+          "character": "马武",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "大败而归。俺不免备酒一席，与那岑彭接风，在帐中羞辱于他，耻笑邓禹，方"
+        },
+        {
+          "character": "马武",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "显俺老马胸中的智量也！"
         },
         {
           "character": "马武",
@@ -1521,7 +1846,17 @@
           "西皮快板",
           "西皮散板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.1,
+        0.3041,
+        0.6901,
+        0.0058,
+        0.6353,
+        9,
+        0.2982,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -1565,7 +1900,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "本帅，苏献。莽主驾前为臣，奉命镇守洛阳一带等处。适才探马报道，邓禹派\n岑彭前来夺取洛阳。岂能容他猖狂！待本帅略施小计，管叫他片甲不归。\n来！"
+          "text": "本帅，苏献。莽主驾前为臣，奉命镇守洛阳一带等处。适才探马报道，邓禹派"
+        },
+        {
+          "character": "苏献",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "岑彭前来夺取洛阳。岂能容他猖狂！待本帅略施小计，管叫他片甲不归。"
+        },
+        {
+          "character": "苏献",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来！"
         },
         {
           "character": "四文堂",
@@ -1628,7 +1977,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "命你带领一哨人马，高打“汉”字旗号，藏在松林。岑彭到此，截杀一阵，不\n得有误！"
+          "text": "命你带领一哨人马，高打“汉”字旗号，藏在松林。岑彭到此，截杀一阵，不"
+        },
+        {
+          "character": "苏献",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "得有误！"
         },
         {
           "character": "王源",
@@ -1713,7 +2069,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0556,
+        0.8333,
+        0.1111,
+        0.5294,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 4,
@@ -1786,7 +2152,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 5,
@@ -1808,7 +2184,21 @@
           "line_type": "西皮散板",
           "musical_style": "西皮散板",
           "style_family": "西皮",
-          "text": "帐中领了元帅令，\n攻取洛阳走一程。\n人马不行为何情？"
+          "text": "帐中领了元帅令，"
+        },
+        {
+          "character": "岑彭",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "攻取洛阳走一程。"
+        },
+        {
+          "character": "岑彭",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "人马不行为何情？"
         },
         {
           "character": null,
@@ -1875,7 +2265,17 @@
         "musical_styles": [
           "西皮散板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.2,
+        0.4286,
+        0.5714,
+        0.0,
+        0.5,
+        2,
+        0.4286,
+        0.0
+      ]
     },
     {
       "scene_index": 6,
@@ -1897,7 +2297,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "俺，王源。奉了元帅将令，高打“汉”字旗号，埋伏松林。\n众将官！"
+          "text": "俺，王源。奉了元帅将令，高打“汉”字旗号，埋伏松林。"
+        },
+        {
+          "character": "王源",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "众将官！"
         },
         {
           "character": "四龙套",
@@ -1947,7 +2354,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.75,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 7,
@@ -1984,7 +2401,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "哎呀妙哇！松林之内，高打“汉”字旗号，想是元帅发来救兵。\n众将官！"
+          "text": "哎呀妙哇！松林之内，高打“汉”字旗号，想是元帅发来救兵。"
+        },
+        {
+          "character": "岑彭",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "众将官！"
         },
         {
           "character": "四上手",
@@ -2070,7 +2494,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.75,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 8,
@@ -2092,7 +2526,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "且住！不想中了那贼诱兵之计，损兵折将，如何是好？也罢！只好回营请罪。\n众将官！"
+          "text": "且住！不想中了那贼诱兵之计，损兵折将，如何是好？也罢！只好回营请罪。"
+        },
+        {
+          "character": "岑彭",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "众将官！"
         },
         {
           "character": "四上手",
@@ -2142,7 +2583,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.75,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 9,
@@ -2929,7 +3380,17 @@
           "西皮快板",
           "西皮散板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.113,
+        0.1429,
+        0.8571,
+        0.0,
+        0.8026,
+        5,
+        0.1429,
+        0.0
+      ]
     },
     {
       "scene_index": 10,
@@ -3102,7 +3563,17 @@
         "musical_styles": [
           "西皮散板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.118,
+        0.1176,
+        0.8824,
+        0.0,
+        1.0,
+        2,
+        0.1176,
+        0.0
+      ]
     },
     {
       "scene_index": 11,
@@ -3420,7 +3891,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.9655,
+        0.0345,
+        0.8929,
+        5,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 12,
@@ -3531,7 +4012,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 13,
@@ -3645,7 +4136,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.8571,
+        2,
+        0.0,
+        0.0
+      ]
     }
   ]
 }

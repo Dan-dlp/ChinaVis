@@ -142,7 +142,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "吓。\n呔！把城的儿郎听者：为何日出山高，不开放皇城，是何道理？"
+          "text": "吓。"
+        },
+        {
+          "character": "李福",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "呔！把城的儿郎听者：为何日出山高，不开放皇城，是何道理？"
         },
         {
           "character": null,
@@ -191,21 +198,70 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "怪道，怪道。此事应我梦兆也。\n李福前去说与那把城的官儿，我家老爷比不得别家老爷，我家老爷，乃是奉命\n侯李广，边外散饷回京，一来交旨，二来保全国母不死。开放皇城便罢，若误\n了时刻，斩了国母。拿住把城官儿，一体问罪。"
+          "text": "怪道，怪道。此事应我梦兆也。"
+        },
+        {
+          "character": "李广",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "李福前去说与那把城的官儿，我家老爷比不得别家老爷，我家老爷，乃是奉命"
+        },
+        {
+          "character": "李广",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "侯李广，边外散饷回京，一来交旨，二来保全国母不死。开放皇城便罢，若误"
+        },
+        {
+          "character": "李广",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "了时刻，斩了国母。拿住把城官儿，一体问罪。"
         },
         {
           "character": "李福",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "吓。\n把城官儿听着：我家老爷比不得别家老爷，我家老爷，乃是奉命侯李广，边外\n散饷回京，一来交旨，二来保全国母不死。开放皇城便罢，若误了时刻，斩了\n国母。拿住把城官儿，一体问罪。"
+          "text": "吓。"
+        },
+        {
+          "character": "李福",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "把城官儿听着：我家老爷比不得别家老爷，我家老爷，乃是奉命侯李广，边外"
+        },
+        {
+          "character": "李福",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "散饷回京，一来交旨，二来保全国母不死。开放皇城便罢，若误了时刻，斩了"
+        },
+        {
+          "character": "李福",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "国母。拿住把城官儿，一体问罪。"
         },
         {
           "character": "城官",
           "line_type": "内白",
           "musical_style": null,
           "style_family": null,
-          "text": "既是李大人回京，瞒上不瞒下，将城门半开半掩，只许带一两个家将进城。\n开城！"
+          "text": "既是李大人回京，瞒上不瞒下，将城门半开半掩，只许带一两个家将进城。"
+        },
+        {
+          "character": "城官",
+          "line_type": "内白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "开城！"
         },
         {
           "character": "李广",
@@ -297,7 +353,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.963,
+        0.037,
+        0.5385,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -1251,7 +1317,17 @@
         "musical_styles": [
           "西皮导板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.111,
+        0.1391,
+        0.8435,
+        0.0174,
+        0.8772,
+        3,
+        0.0087,
+        0.0
+      ]
     }
   ]
 }

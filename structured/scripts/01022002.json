@@ -132,7 +132,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -192,14 +202,42 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "本爵，北地王刘谌。适才教场归府，门官报道：邓艾贼暗渡阴平，破了绵竹，\n围困成都。吾父皇听了谯周、黄皓之言，明日就要开城纳降。国家存亡，就在\n今日，时势危急，不免进宫谏劝父皇一番，再作道理。两厢退下。"
+          "text": "本爵，北地王刘谌。适才教场归府，门官报道：邓艾贼暗渡阴平，破了绵竹，"
+        },
+        {
+          "character": "刘谌",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "围困成都。吾父皇听了谯周、黄皓之言，明日就要开城纳降。国家存亡，就在"
+        },
+        {
+          "character": "刘谌",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "今日，时势危急，不免进宫谏劝父皇一番，再作道理。两厢退下。"
         },
         {
           "character": "刘谌",
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "邓艾贼子渡阴平，\n团团围困吾都城。\n背城一战退贼兵！"
+          "text": "邓艾贼子渡阴平，"
+        },
+        {
+          "character": "刘谌",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "团团围困吾都城。"
+        },
+        {
+          "character": "刘谌",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "背城一战退贼兵！"
         },
         {
           "character": null,
@@ -220,7 +258,21 @@
           "line_type": "西皮流水板",
           "musical_style": "西皮流水板",
           "style_family": "西皮",
-          "text": "邓艾贼子渡阴平，\n团团围困吾都城。\n如何未见进宫庭。"
+          "text": "邓艾贼子渡阴平，"
+        },
+        {
+          "character": "刘禅",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "团团围困吾都城。"
+        },
+        {
+          "character": "刘禅",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "如何未见进宫庭。"
         },
         {
           "character": null,
@@ -304,7 +356,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "只因邓艾贼子暗渡阴平，袭了绵竹，进围成都。那满朝文武，有的愿战，有的\n愿降，纷纷不一。寡人毫无主见，不能定夺。因请上神驾临一卜，还是战的好，\n还是降的好？"
+          "text": "只因邓艾贼子暗渡阴平，袭了绵竹，进围成都。那满朝文武，有的愿战，有的"
+        },
+        {
+          "character": "刘禅",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "愿降，纷纷不一。寡人毫无主见，不能定夺。因请上神驾临一卜，还是战的好，"
+        },
+        {
+          "character": "刘禅",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "还是降的好？"
         },
         {
           "character": "女巫",
@@ -367,7 +433,21 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "父皇一味妖巫信，\n恐怕江山难保存。\n见了父皇说分明。"
+          "text": "父皇一味妖巫信，"
+        },
+        {
+          "character": "刘谌",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "恐怕江山难保存。"
+        },
+        {
+          "character": "刘谌",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "见了父皇说分明。"
         },
         {
           "character": "刘谌",
@@ -377,7 +457,14 @@
           "text": "儿臣见驾，父皇万岁！"
         },
         {
-          "character": "撩袍端带宫门进、刘禅",
+          "character": "刘谌",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "撩袍端带宫门进"
+        },
+        {
+          "character": "刘禅",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -409,7 +496,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "非是为父坐视不理。只因满朝文武百官，有愿战的，有愿降的，议论纷纷，并\n无定见。孤想与其劳动干戈，胜败不测，不如投降邓艾，免得涂炭生灵。"
+          "text": "非是为父坐视不理。只因满朝文武百官，有愿战的，有愿降的，议论纷纷，并"
+        },
+        {
+          "character": "刘禅",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "无定见。孤想与其劳动干戈，胜败不测，不如投降邓艾，免得涂炭生灵。"
         },
         {
           "character": "刘谌",
@@ -430,14 +524,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "父皇休听那妖巫一派荒诞之辞！想邓艾孤军深入，利在速战，父皇不可开城，\n只可坚守。儿臣不才，愿率领众将，君臣父子，背城一战，何愁邓艾不灭！"
+          "text": "父皇休听那妖巫一派荒诞之辞！想邓艾孤军深入，利在速战，父皇不可开城，"
+        },
+        {
+          "character": "刘谌",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "只可坚守。儿臣不才，愿率领众将，君臣父子，背城一战，何愁邓艾不灭！"
         },
         {
           "character": "刘禅",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "唗！动不动就要开城战！胜了还则罢了，若是败了，岂不是要了你老子的命不\n成？"
+          "text": "唗！动不动就要开城战！胜了还则罢了，若是败了，岂不是要了你老子的命不"
+        },
+        {
+          "character": "刘禅",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "成？"
         },
         {
           "character": "刘谌",
@@ -451,21 +559,63 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "刘谌控背忙躬身，\n尊声父皇龙耳听：\n儿愿领兵灭敌人！"
-        },
-        {
-          "character": "妖巫之言不可信、刘禅",
-          "line_type": "西皮摇板",
-          "musical_style": "西皮摇板",
-          "style_family": "西皮",
-          "text": "皇儿不必苦争论，\n神师之言敢不尊？"
+          "text": "刘谌控背忙躬身，"
         },
         {
           "character": "刘谌",
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "千言万语父不信，\n在宫中难坏小刘谌。\n抱住父皇放悲声。"
+          "text": "尊声父皇龙耳听："
+        },
+        {
+          "character": "刘谌",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "儿愿领兵灭敌人！"
+        },
+        {
+          "character": "刘谌",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "妖巫之言不可信"
+        },
+        {
+          "character": "刘禅",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "皇儿不必苦争论，"
+        },
+        {
+          "character": "刘禅",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "神师之言敢不尊？"
+        },
+        {
+          "character": "刘谌",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "千言万语父不信，"
+        },
+        {
+          "character": "刘谌",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "在宫中难坏小刘谌。"
+        },
+        {
+          "character": "刘谌",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "抱住父皇放悲声。"
         },
         {
           "character": null,
@@ -479,31 +629,150 @@
           "line_type": "西皮二六板",
           "musical_style": "西皮二六板",
           "style_family": "西皮",
-          "text": "未曾开言泪难忍，\n尊声父皇龙耳听：\n团团围困锦绣的都城。\n杀得他大小三军、马步儿郎，弃甲丢盔，败走无门。\n祖宗基业莫当轻！"
+          "text": "未曾开言泪难忍，"
         },
         {
-          "character": "贼邓艾孤军深入渡阴平、到不如父子君臣背城一战战必胜、孩儿的言语不肯信、刘禅",
+          "character": "刘谌",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "尊声父皇龙耳听："
+        },
+        {
+          "character": "刘谌",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "团团围困锦绣的都城。"
+        },
+        {
+          "character": "刘谌",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "杀得他大小三军、马步儿郎，弃甲丢盔，败走无门。"
+        },
+        {
+          "character": "刘谌",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "祖宗基业莫当轻！"
+        },
+        {
+          "character": "刘谌",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "贼邓艾孤军深入渡阴平"
+        },
+        {
+          "character": "刘谌",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "到不如父子君臣背城一战战必胜"
+        },
+        {
+          "character": "刘谌",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "孩儿的言语不肯信"
+        },
+        {
+          "character": "刘禅",
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "为父龙心业以定，\n午时三刻便开城。"
+          "text": "为父龙心业以定，"
+        },
+        {
+          "character": "刘禅",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "午时三刻便开城。"
         },
         {
           "character": "刘谌",
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "今日的堂堂天子尚称朕，\n明朝就是那亡国君。\n骂父的词儿不忍云。\n开刀先杀吾小刘谌。"
+          "text": "今日的堂堂天子尚称朕，"
         },
         {
-          "character": "天下后世看公论、若谓孩儿言不逊、刘禅",
+          "character": "刘谌",
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "奴才说话言不逊，\n胆敢当面骂天伦。\n不杀你还念父子情。"
+          "text": "明朝就是那亡国君。"
         },
         {
-          "character": "天下后世看公论、若谓孩儿言不逊、刘禅",
+          "character": "刘谌",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "骂父的词儿不忍云。"
+        },
+        {
+          "character": "刘谌",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "开刀先杀吾小刘谌。"
+        },
+        {
+          "character": "刘谌",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "天下后世看公论"
+        },
+        {
+          "character": "刘谌",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "若谓孩儿言不逊"
+        },
+        {
+          "character": "刘禅",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "奴才说话言不逊，"
+        },
+        {
+          "character": "刘禅",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "胆敢当面骂天伦。"
+        },
+        {
+          "character": "刘禅",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "不杀你还念父子情。"
+        },
+        {
+          "character": "刘禅",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "天下后世看公论"
+        },
+        {
+          "character": "刘禅",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "若谓孩儿言不逊"
+        },
+        {
+          "character": "刘禅",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -521,7 +790,35 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "刘谌奏本皇父不信，\n一足踢吾出宫门。\n国破家亡心何忍？\n先皇祖啊！\n吾先杀妻、后杀子，然后杀身！"
+          "text": "刘谌奏本皇父不信，"
+        },
+        {
+          "character": "刘谌",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "一足踢吾出宫门。"
+        },
+        {
+          "character": "刘谌",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "国破家亡心何忍？"
+        },
+        {
+          "character": "刘谌",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "先皇祖啊！"
+        },
+        {
+          "character": "刘谌",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "吾先杀妻、后杀子，然后杀身！"
         },
         {
           "character": null,
@@ -535,7 +832,14 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "黄皓与孤安排定，\n投降之后享太平。"
+          "text": "黄皓与孤安排定，"
+        },
+        {
+          "character": "刘禅",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "投降之后享太平。"
         },
         {
           "character": null,
@@ -588,7 +892,17 @@
           "西皮摇板",
           "西皮流水板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.286,
+        0.5412,
+        0.4471,
+        0.0118,
+        0.4167,
+        5,
+        0.5412,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -612,7 +926,14 @@
           "line_type": "二黄摇板",
           "musical_style": "二黄摇板",
           "style_family": "二黄",
-          "text": "自幼净身入宫院，\n算来到今数十年。"
+          "text": "自幼净身入宫院，"
+        },
+        {
+          "character": "董敏",
+          "line_type": "二黄摇板",
+          "musical_style": "二黄摇板",
+          "style_family": "二黄",
+          "text": "算来到今数十年。"
         },
         {
           "character": "董敏",
@@ -626,7 +947,14 @@
           "line_type": "二黄摇板",
           "musical_style": "二黄摇板",
           "style_family": "二黄",
-          "text": "手拉世子回府转，\n但愿国家早治安。"
+          "text": "手拉世子回府转，"
+        },
+        {
+          "character": "董敏",
+          "line_type": "二黄摇板",
+          "musical_style": "二黄摇板",
+          "style_family": "二黄",
+          "text": "但愿国家早治安。"
         },
         {
           "character": null,
@@ -640,7 +968,21 @@
           "line_type": "二黄正板",
           "musical_style": "二黄正板",
           "style_family": "二黄",
-          "text": "贼邓艾渡阴平十分危险，\n眼见得围成都黎民不安。\n为什么这时候不见回还？"
+          "text": "贼邓艾渡阴平十分危险，"
+        },
+        {
+          "character": "崔夫人",
+          "line_type": "二黄正板",
+          "musical_style": "二黄正板",
+          "style_family": "二黄",
+          "text": "眼见得围成都黎民不安。"
+        },
+        {
+          "character": "崔夫人",
+          "line_type": "二黄正板",
+          "musical_style": "二黄正板",
+          "style_family": "二黄",
+          "text": "为什么这时候不见回还？"
         },
         {
           "character": null,
@@ -703,14 +1045,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "呀，王爷说哪里话来？有道是：朝中有事，君臣论；家中有事，夫妻商量。哪\n有丈夫有事，妻子不问的道理？"
+          "text": "呀，王爷说哪里话来？有道是：朝中有事，君臣论；家中有事，夫妻商量。哪"
+        },
+        {
+          "character": "崔夫人",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "有丈夫有事，妻子不问的道理？"
         },
         {
           "character": "刘谌",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "哎呀！夫人有所不知！今有邓艾贼子，围困成都，父皇听信谯周、黄皓之言，\n明日就要开城投降，本爵意欲拔剑出鞘，殉国难一死！"
+          "text": "哎呀！夫人有所不知！今有邓艾贼子，围困成都，父皇听信谯周、黄皓之言，"
+        },
+        {
+          "character": "刘谌",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "明日就要开城投降，本爵意欲拔剑出鞘，殉国难一死！"
         },
         {
           "character": "崔夫人",
@@ -731,7 +1087,21 @@
           "line_type": "二黄摇板",
           "musical_style": "二黄摇板",
           "style_family": "二黄",
-          "text": "将娇儿放在青玉案，\n心中好似滚油煎。\n恩爱夫妻不团圆。"
+          "text": "将娇儿放在青玉案，"
+        },
+        {
+          "character": "崔夫人",
+          "line_type": "二黄摇板",
+          "musical_style": "二黄摇板",
+          "style_family": "二黄",
+          "text": "心中好似滚油煎。"
+        },
+        {
+          "character": "崔夫人",
+          "line_type": "二黄摇板",
+          "musical_style": "二黄摇板",
+          "style_family": "二黄",
+          "text": "恩爱夫妻不团圆。"
         },
         {
           "character": null,
@@ -752,7 +1122,14 @@
           "line_type": "二黄摇板",
           "musical_style": "二黄摇板",
           "style_family": "二黄",
-          "text": "一见夫人寻短见，\n吾心中好似乱刀剜。"
+          "text": "一见夫人寻短见，"
+        },
+        {
+          "character": "刘谌",
+          "line_type": "二黄摇板",
+          "musical_style": "二黄摇板",
+          "style_family": "二黄",
+          "text": "吾心中好似乱刀剜。"
         },
         {
           "character": null,
@@ -885,7 +1262,21 @@
           "line_type": "二黄摇板",
           "musical_style": "二黄摇板",
           "style_family": "二黄",
-          "text": "好一个忠心董太监，\n留下美名万古传。\n祖庙之中祭祖先。"
+          "text": "好一个忠心董太监，"
+        },
+        {
+          "character": "刘谌",
+          "line_type": "二黄摇板",
+          "musical_style": "二黄摇板",
+          "style_family": "二黄",
+          "text": "留下美名万古传。"
+        },
+        {
+          "character": "刘谌",
+          "line_type": "二黄摇板",
+          "musical_style": "二黄摇板",
+          "style_family": "二黄",
+          "text": "祖庙之中祭祖先。"
         },
         {
           "character": null,
@@ -938,7 +1329,17 @@
           "二黄摇板",
           "二黄正板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.417,
+        0.5526,
+        0.4474,
+        0.0,
+        0.4865,
+        4,
+        0.0,
+        0.5526
+      ]
     },
     {
       "scene_index": 4,
@@ -961,7 +1362,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 5,
@@ -984,7 +1395,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 6,
@@ -1034,21 +1455,336 @@
           "line_type": "反二黄慢板",
           "musical_style": "反二黄慢板",
           "style_family": "二黄",
-          "text": "高皇帝手提着三尺宝剑，\n灭强秦破暴楚才定江山。\n毒药酒鸩先帝龙驾归西。\n全仗着云台将二十八员。\n黄巾贼遍地起四乡狼烟。\n宴桃园三结义牛马祭天。\n到后来会古城才得团圆。"
+          "text": "高皇帝手提着三尺宝剑，"
+        },
+        {
+          "character": "刘谌",
+          "line_type": "反二黄慢板",
+          "musical_style": "反二黄慢板",
+          "style_family": "二黄",
+          "text": "灭强秦破暴楚才定江山。"
+        },
+        {
+          "character": "刘谌",
+          "line_type": "反二黄慢板",
+          "musical_style": "反二黄慢板",
+          "style_family": "二黄",
+          "text": "毒药酒鸩先帝龙驾归西。"
+        },
+        {
+          "character": "刘谌",
+          "line_type": "反二黄慢板",
+          "musical_style": "反二黄慢板",
+          "style_family": "二黄",
+          "text": "全仗着云台将二十八员。"
+        },
+        {
+          "character": "刘谌",
+          "line_type": "反二黄慢板",
+          "musical_style": "反二黄慢板",
+          "style_family": "二黄",
+          "text": "黄巾贼遍地起四乡狼烟。"
+        },
+        {
+          "character": "刘谌",
+          "line_type": "反二黄慢板",
+          "musical_style": "反二黄慢板",
+          "style_family": "二黄",
+          "text": "宴桃园三结义牛马祭天。"
+        },
+        {
+          "character": "刘谌",
+          "line_type": "反二黄慢板",
+          "musical_style": "反二黄慢板",
+          "style_family": "二黄",
+          "text": "到后来会古城才得团圆。"
         },
         {
           "character": "刘谌",
           "line_type": "反二黄原板",
           "musical_style": "反二黄原板",
           "style_family": "二黄",
-          "text": "走荆州依刘表重兴炎汉，\n不料想蔡夫人为人不贤。\n水镜庄夤夜间才遇高贤。\n他言道伏龙凤雏得一人天下可安。\n那先生三顾请才下高山。\n用火攻烧曹兵心胆俱寒。\n皇祖母乱军中命丧井泉。\n百万军中救主还。\n那时节吾皇父，睡怀中，昏昏沉沉睡梦间，直到如今，睡了几十年！\n玄武池练水军吞并江南。\n文部官一个个袖手旁观。\n那先生一帆风去到江南。\n他也曾草船借箭在大雾间。\n他也曾赤壁鏖兵大烧曹瞒。\n张永年献地图才得西川。\n烧连营七百里火焰连天。\n兵败在白帝城身遭大限，身遭大限，吾的先皇祖呵！\n才知道得江山创业艰难。\n吾皇父闻此言心胆皆寒。\n老谯周在一旁一味谈天。\n进皇宫双膝跪倒在皇父前。\n再不然，学当年、破阵李左车，坚壁清野、计出万全。\n那时节，吾父子们，烧了成都、退守深山。\n贼邓艾，在成都、他进也不能进、退也不能退、战也不能战、守也不能守、既\n无有粮、又无有草、三军自乱、杀得他片甲不还！\n反将吾踢出宫满面羞惭。\n莫奈何杀妻子祭奠祖先。\n吾皇祖在天灵可曾看见？\n念皇孙，国又破、家又亡、妻又杀、吾的子又斩、以身殉国、倒不如死也心甘！\n叹先皇，数十年、南征北战、东挡西杀、昼夜杀砍、马不停蹄、才得来这三分\n帝鼎、一隅的江山、他断送在眼前！\n每日里在深宫苟且偷安。\n九泉下见先皇有何话言。\n到如今吾皇父，焚符弃玺、反缚舆榇、率领着文武百官、军民人等、匍匐尘埃、\n投那邓艾，比刘璋更加可怜！\n才知晓创业难守成更难。\n在祖庙哭得吾肝肠寸断，肝肠寸断！"
+          "text": "走荆州依刘表重兴炎汉，"
+        },
+        {
+          "character": "刘谌",
+          "line_type": "反二黄原板",
+          "musical_style": "反二黄原板",
+          "style_family": "二黄",
+          "text": "不料想蔡夫人为人不贤。"
+        },
+        {
+          "character": "刘谌",
+          "line_type": "反二黄原板",
+          "musical_style": "反二黄原板",
+          "style_family": "二黄",
+          "text": "水镜庄夤夜间才遇高贤。"
+        },
+        {
+          "character": "刘谌",
+          "line_type": "反二黄原板",
+          "musical_style": "反二黄原板",
+          "style_family": "二黄",
+          "text": "他言道伏龙凤雏得一人天下可安。"
+        },
+        {
+          "character": "刘谌",
+          "line_type": "反二黄原板",
+          "musical_style": "反二黄原板",
+          "style_family": "二黄",
+          "text": "那先生三顾请才下高山。"
+        },
+        {
+          "character": "刘谌",
+          "line_type": "反二黄原板",
+          "musical_style": "反二黄原板",
+          "style_family": "二黄",
+          "text": "用火攻烧曹兵心胆俱寒。"
+        },
+        {
+          "character": "刘谌",
+          "line_type": "反二黄原板",
+          "musical_style": "反二黄原板",
+          "style_family": "二黄",
+          "text": "皇祖母乱军中命丧井泉。"
+        },
+        {
+          "character": "刘谌",
+          "line_type": "反二黄原板",
+          "musical_style": "反二黄原板",
+          "style_family": "二黄",
+          "text": "百万军中救主还。"
+        },
+        {
+          "character": "刘谌",
+          "line_type": "反二黄原板",
+          "musical_style": "反二黄原板",
+          "style_family": "二黄",
+          "text": "那时节吾皇父，睡怀中，昏昏沉沉睡梦间，直到如今，睡了几十年！"
+        },
+        {
+          "character": "刘谌",
+          "line_type": "反二黄原板",
+          "musical_style": "反二黄原板",
+          "style_family": "二黄",
+          "text": "玄武池练水军吞并江南。"
+        },
+        {
+          "character": "刘谌",
+          "line_type": "反二黄原板",
+          "musical_style": "反二黄原板",
+          "style_family": "二黄",
+          "text": "文部官一个个袖手旁观。"
+        },
+        {
+          "character": "刘谌",
+          "line_type": "反二黄原板",
+          "musical_style": "反二黄原板",
+          "style_family": "二黄",
+          "text": "那先生一帆风去到江南。"
+        },
+        {
+          "character": "刘谌",
+          "line_type": "反二黄原板",
+          "musical_style": "反二黄原板",
+          "style_family": "二黄",
+          "text": "他也曾草船借箭在大雾间。"
+        },
+        {
+          "character": "刘谌",
+          "line_type": "反二黄原板",
+          "musical_style": "反二黄原板",
+          "style_family": "二黄",
+          "text": "他也曾赤壁鏖兵大烧曹瞒。"
+        },
+        {
+          "character": "刘谌",
+          "line_type": "反二黄原板",
+          "musical_style": "反二黄原板",
+          "style_family": "二黄",
+          "text": "张永年献地图才得西川。"
+        },
+        {
+          "character": "刘谌",
+          "line_type": "反二黄原板",
+          "musical_style": "反二黄原板",
+          "style_family": "二黄",
+          "text": "烧连营七百里火焰连天。"
+        },
+        {
+          "character": "刘谌",
+          "line_type": "反二黄原板",
+          "musical_style": "反二黄原板",
+          "style_family": "二黄",
+          "text": "兵败在白帝城身遭大限，身遭大限，吾的先皇祖呵！"
+        },
+        {
+          "character": "刘谌",
+          "line_type": "反二黄原板",
+          "musical_style": "反二黄原板",
+          "style_family": "二黄",
+          "text": "才知道得江山创业艰难。"
+        },
+        {
+          "character": "刘谌",
+          "line_type": "反二黄原板",
+          "musical_style": "反二黄原板",
+          "style_family": "二黄",
+          "text": "吾皇父闻此言心胆皆寒。"
+        },
+        {
+          "character": "刘谌",
+          "line_type": "反二黄原板",
+          "musical_style": "反二黄原板",
+          "style_family": "二黄",
+          "text": "老谯周在一旁一味谈天。"
+        },
+        {
+          "character": "刘谌",
+          "line_type": "反二黄原板",
+          "musical_style": "反二黄原板",
+          "style_family": "二黄",
+          "text": "进皇宫双膝跪倒在皇父前。"
+        },
+        {
+          "character": "刘谌",
+          "line_type": "反二黄原板",
+          "musical_style": "反二黄原板",
+          "style_family": "二黄",
+          "text": "再不然，学当年、破阵李左车，坚壁清野、计出万全。"
+        },
+        {
+          "character": "刘谌",
+          "line_type": "反二黄原板",
+          "musical_style": "反二黄原板",
+          "style_family": "二黄",
+          "text": "那时节，吾父子们，烧了成都、退守深山。"
+        },
+        {
+          "character": "刘谌",
+          "line_type": "反二黄原板",
+          "musical_style": "反二黄原板",
+          "style_family": "二黄",
+          "text": "贼邓艾，在成都、他进也不能进、退也不能退、战也不能战、守也不能守、既"
+        },
+        {
+          "character": "刘谌",
+          "line_type": "反二黄原板",
+          "musical_style": "反二黄原板",
+          "style_family": "二黄",
+          "text": "无有粮、又无有草、三军自乱、杀得他片甲不还！"
+        },
+        {
+          "character": "刘谌",
+          "line_type": "反二黄原板",
+          "musical_style": "反二黄原板",
+          "style_family": "二黄",
+          "text": "反将吾踢出宫满面羞惭。"
+        },
+        {
+          "character": "刘谌",
+          "line_type": "反二黄原板",
+          "musical_style": "反二黄原板",
+          "style_family": "二黄",
+          "text": "莫奈何杀妻子祭奠祖先。"
+        },
+        {
+          "character": "刘谌",
+          "line_type": "反二黄原板",
+          "musical_style": "反二黄原板",
+          "style_family": "二黄",
+          "text": "吾皇祖在天灵可曾看见？"
+        },
+        {
+          "character": "刘谌",
+          "line_type": "反二黄原板",
+          "musical_style": "反二黄原板",
+          "style_family": "二黄",
+          "text": "念皇孙，国又破、家又亡、妻又杀、吾的子又斩、以身殉国、倒不如死也心甘！"
+        },
+        {
+          "character": "刘谌",
+          "line_type": "反二黄原板",
+          "musical_style": "反二黄原板",
+          "style_family": "二黄",
+          "text": "叹先皇，数十年、南征北战、东挡西杀、昼夜杀砍、马不停蹄、才得来这三分"
+        },
+        {
+          "character": "刘谌",
+          "line_type": "反二黄原板",
+          "musical_style": "反二黄原板",
+          "style_family": "二黄",
+          "text": "帝鼎、一隅的江山、他断送在眼前！"
+        },
+        {
+          "character": "刘谌",
+          "line_type": "反二黄原板",
+          "musical_style": "反二黄原板",
+          "style_family": "二黄",
+          "text": "每日里在深宫苟且偷安。"
+        },
+        {
+          "character": "刘谌",
+          "line_type": "反二黄原板",
+          "musical_style": "反二黄原板",
+          "style_family": "二黄",
+          "text": "九泉下见先皇有何话言。"
+        },
+        {
+          "character": "刘谌",
+          "line_type": "反二黄原板",
+          "musical_style": "反二黄原板",
+          "style_family": "二黄",
+          "text": "到如今吾皇父，焚符弃玺、反缚舆榇、率领着文武百官、军民人等、匍匐尘埃、"
+        },
+        {
+          "character": "刘谌",
+          "line_type": "反二黄原板",
+          "musical_style": "反二黄原板",
+          "style_family": "二黄",
+          "text": "投那邓艾，比刘璋更加可怜！"
+        },
+        {
+          "character": "刘谌",
+          "line_type": "反二黄原板",
+          "musical_style": "反二黄原板",
+          "style_family": "二黄",
+          "text": "才知晓创业难守成更难。"
+        },
+        {
+          "character": "刘谌",
+          "line_type": "反二黄原板",
+          "musical_style": "反二黄原板",
+          "style_family": "二黄",
+          "text": "在祖庙哭得吾肝肠寸断，肝肠寸断！"
         },
         {
           "character": "刘谌",
           "line_type": "反二黄摇板",
           "musical_style": "反二黄摇板",
           "style_family": "二黄",
-          "text": "耳边厢又听得金鼓喧天。\n吾何忍见他堂堂天子跪倒在马前。\n从今后再不要凤子龙孙自命不凡。\n俺本爵殉国死到也心甘！"
+          "text": "耳边厢又听得金鼓喧天。"
+        },
+        {
+          "character": "刘谌",
+          "line_type": "反二黄摇板",
+          "musical_style": "反二黄摇板",
+          "style_family": "二黄",
+          "text": "吾何忍见他堂堂天子跪倒在马前。"
+        },
+        {
+          "character": "刘谌",
+          "line_type": "反二黄摇板",
+          "musical_style": "反二黄摇板",
+          "style_family": "二黄",
+          "text": "从今后再不要凤子龙孙自命不凡。"
+        },
+        {
+          "character": "刘谌",
+          "line_type": "反二黄摇板",
+          "musical_style": "反二黄摇板",
+          "style_family": "二黄",
+          "text": "俺本爵殉国死到也心甘！"
         },
         {
           "character": null,
@@ -1092,7 +1828,17 @@
           "二黄慢板",
           "二黄摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.5,
+        0.9804,
+        0.0196,
+        0.0,
+        0.02,
+        2,
+        0.0,
+        0.9608
+      ]
     }
   ]
 }

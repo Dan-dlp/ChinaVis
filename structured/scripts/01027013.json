@@ -252,7 +252,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "下官刘晨，当年与兄弟同伴，上京赴试。蒙主龙恩，钦点文武状元。绕道还乡，\n行至天台山游玩山景，被猛虎冲散。多亏麻姑圣母，引进桃源洞，将瑞鹤二\n仙，许配我兄弟二人为婚。成亲七日以后，别过仙姑归家。盼望天色尚早，就\n此前行。"
+          "text": "下官刘晨，当年与兄弟同伴，上京赴试。蒙主龙恩，钦点文武状元。绕道还乡，"
+        },
+        {
+          "character": "刘晨",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "行至天台山游玩山景，被猛虎冲散。多亏麻姑圣母，引进桃源洞，将瑞鹤二"
+        },
+        {
+          "character": "刘晨",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "仙，许配我兄弟二人为婚。成亲七日以后，别过仙姑归家。盼望天色尚早，就"
+        },
+        {
+          "character": "刘晨",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "此前行。"
         },
         {
           "character": "刘晨",
@@ -270,7 +291,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.2857,
+        0.5714,
+        0.1429,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -289,7 +320,7 @@
       ],
       "lines": [
         {
-          "character": null,
+          "character": "刘晨",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -321,14 +352,28 @@
           "line_type": "吹腔",
           "musical_style": null,
           "style_family": null,
-          "text": "观不尽奇花美景，\n一时行到自家门。"
+          "text": "观不尽奇花美景，"
+        },
+        {
+          "character": "刘晨",
+          "line_type": "吹腔",
+          "musical_style": null,
+          "style_family": null,
+          "text": "一时行到自家门。"
         },
         {
           "character": "刘晨",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "那旁好像康宁，怎么这等年迈了。是与不是，待吾冒叫一声。\n吓！那旁坐的，敢是康宁？"
+          "text": "那旁好像康宁，怎么这等年迈了。是与不是，待吾冒叫一声。"
+        },
+        {
+          "character": "刘晨",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "吓！那旁坐的，敢是康宁？"
         },
         {
           "character": "康宁",
@@ -391,7 +436,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "是。\n吓，永庆。"
+          "text": "是。"
+        },
+        {
+          "character": "康宁",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "吓，永庆。"
         },
         {
           "character": null,
@@ -580,21 +632,56 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "兄弟双双到汴京，\n叩蒙圣主点头名。\n瑞鹤二仙配为婚。"
+          "text": "兄弟双双到汴京，"
         },
         {
-          "character": "游山玩景虎冲散、夫人",
+          "character": "刘晨",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "叩蒙圣主点头名。"
+        },
+        {
+          "character": "刘晨",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "瑞鹤二仙配为婚。"
+        },
+        {
+          "character": "刘晨",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "游山玩景虎冲散"
+        },
+        {
+          "character": "夫人",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
           "text": "哦。"
         },
         {
-          "character": "游山玩景虎冲散、夫人",
+          "character": "夫人",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "游山玩景虎冲散"
+        },
+        {
+          "character": "夫人",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "想夫君终日常忧闷，\n喜得今日转回家门。"
+          "text": "想夫君终日常忧闷，"
+        },
+        {
+          "character": "夫人",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "喜得今日转回家门。"
         },
         {
           "character": null,
@@ -608,7 +695,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "朝罢归来喜盈盈，\n只见书生坐中厅。"
+          "text": "朝罢归来喜盈盈，"
+        },
+        {
+          "character": "刘子",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "只见书生坐中厅。"
         },
         {
           "character": "康宁",
@@ -636,7 +730,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "起过一边。\n母亲在上，孩儿拜揖。"
+          "text": "起过一边。"
+        },
+        {
+          "character": "刘子",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "母亲在上，孩儿拜揖。"
         },
         {
           "character": "夫人",
@@ -650,7 +751,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "是。\n爹爹在上，孩儿拜见。"
+          "text": "是。"
+        },
+        {
+          "character": "刘子",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "爹爹在上，孩儿拜见。"
         },
         {
           "character": null,
@@ -755,7 +863,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "是。\n曾祖父在上，待曾孙儿拜见。"
+          "text": "是。"
+        },
+        {
+          "character": "刘曾孙",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "曾祖父在上，待曾孙儿拜见。"
         },
         {
           "character": "刘晨",
@@ -776,7 +891,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "不消拜了。\n吓，夫人，自我去后，康宁、永庆，可曾定配花烛？"
+          "text": "不消拜了。"
+        },
+        {
+          "character": "刘晨",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "吓，夫人，自我去后，康宁、永庆，可曾定配花烛？"
         },
         {
           "character": "夫人",
@@ -818,7 +940,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "自你太老爷去后，耽误你二人佳期。今日当着你太老爷太夫人之面，你二人拜\n完花烛。"
+          "text": "自你太老爷去后，耽误你二人佳期。今日当着你太老爷太夫人之面，你二人拜"
+        },
+        {
+          "character": "刘晨",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "完花烛。"
         },
         {
           "character": "康宁、永庆",
@@ -1123,7 +1252,17 @@
         "singing_ratio": 0.013,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.013,
+        0.1,
+        0.77,
+        0.13,
+        0.7677,
+        11,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -1163,7 +1302,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.5,
+        0.5,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 4,
@@ -1304,7 +1453,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "寡人，大晋天子，国号永寿在位。寿命齐天，万民乐业，乃朕之洪福也。孤今\n日寿满百岁，众卿衣冠齐整，莫非为寡人祝寿？"
+          "text": "寡人，大晋天子，国号永寿在位。寿命齐天，万民乐业，乃朕之洪福也。孤今"
+        },
+        {
+          "character": "皇上",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "日寿满百岁，众卿衣冠齐整，莫非为寡人祝寿？"
         },
         {
           "character": "众人",
@@ -1339,7 +1495,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "领旨。\n万岁有旨，宣刘晨上殿。"
+          "text": "领旨。"
+        },
+        {
+          "character": "刘子",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "万岁有旨，宣刘晨上殿。"
         },
         {
           "character": "刘晨",
@@ -1699,7 +1862,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.02,
+        0.88,
+        0.1,
+        0.898,
+        10,
+        0.0,
+        0.0
+      ]
     }
   ]
 }

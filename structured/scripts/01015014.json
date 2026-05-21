@@ -173,7 +173,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "俺，飞天老鼠华云龙，在这凤凰岭上落草为寇，倒也逍遥快乐。只因此地有一\n大户人家，他家中有祖传下珍珠凤冠一顶，是我前夜去至他家欲盗此冠，不料\n他家中高挂红灯，照得如同白昼，不能下手。是我空手而回，好不烦闷。\n来，伺候了！"
+          "text": "俺，飞天老鼠华云龙，在这凤凰岭上落草为寇，倒也逍遥快乐。只因此地有一"
+        },
+        {
+          "character": "华云龙",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "大户人家，他家中有祖传下珍珠凤冠一顶，是我前夜去至他家欲盗此冠，不料"
+        },
+        {
+          "character": "华云龙",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "他家中高挂红灯，照得如同白昼，不能下手。是我空手而回，好不烦闷。"
+        },
+        {
+          "character": "华云龙",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来，伺候了！"
         },
         {
           "character": null,
@@ -267,7 +288,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.8182,
+        0.1818,
+        0.4,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -298,7 +329,14 @@
           "line_type": "西皮快板",
           "musical_style": "西皮快板",
           "style_family": "西皮",
-          "text": "全仗着折铁刀闯荡九州。\n只恐怕难挡我一字甩头。"
+          "text": "全仗着折铁刀闯荡九州。"
+        },
+        {
+          "character": "王通",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "只恐怕难挡我一字甩头。"
         },
         {
           "character": "王通",
@@ -403,7 +441,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "二贼此去，必有为首者前来。\n众好汉，车辆转至松林！"
+          "text": "二贼此去，必有为首者前来。"
+        },
+        {
+          "character": "王通",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "众好汉，车辆转至松林！"
         },
         {
           "character": null,
@@ -453,7 +498,17 @@
           "西皮快板",
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.091,
+        0.25,
+        0.6875,
+        0.0625,
+        0.6667,
+        5,
+        0.25,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -547,7 +602,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "正要过山拜望。\n众好汉，车辆打至店内，某家去去就来。"
+          "text": "正要过山拜望。"
+        },
+        {
+          "character": "王通",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "众好汉，车辆打至店内，某家去去就来。"
         },
         {
           "character": null,
@@ -617,7 +679,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "王通不才，今日在这凤凰岭上，意欲与华贤弟，各位英雄结为金兰之好，每人\n各戴鲜花一朵，戴花不许采花，如若采花，日后死在众人乱刀之下。"
+          "text": "王通不才，今日在这凤凰岭上，意欲与华贤弟，各位英雄结为金兰之好，每人"
+        },
+        {
+          "character": "王通",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "各戴鲜花一朵，戴花不许采花，如若采花，日后死在众人乱刀之下。"
         },
         {
           "character": "华云龙",
@@ -666,7 +735,14 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "辞别了贤弟下山林，\n插花的事儿要紧记在心。"
+          "text": "辞别了贤弟下山林，"
+        },
+        {
+          "character": "王通",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "插花的事儿要紧记在心。"
         },
         {
           "character": null,
@@ -680,7 +756,14 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "弟兄山寨来结拜，\n好似一母共同胎。"
+          "text": "弟兄山寨来结拜，"
+        },
+        {
+          "character": "华云龙",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "好似一母共同胎。"
         },
         {
           "character": null,
@@ -721,7 +804,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.043,
+        0.1429,
+        0.8214,
+        0.0357,
+        0.7407,
+        3,
+        0.1429,
+        0.0
+      ]
     },
     {
       "scene_index": 4,
@@ -793,7 +886,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.6667,
+        0.3333,
+        1.0,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 5,
@@ -865,7 +968,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 6,
@@ -888,7 +1001,14 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "自从与王通来结拜，\n每日里闷恹恹愁眉不开。"
+          "text": "自从与王通来结拜，"
+        },
+        {
+          "character": "华云龙",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "每日里闷恹恹愁眉不开。"
         },
         {
           "character": "华云龙",
@@ -930,7 +1050,14 @@
           "line_type": "同白",
           "musical_style": null,
           "style_family": null,
-          "text": "如今拜把子就是那么一回事，大哥你也太认真啦。待我二人下山打探，如有绝\n色的女子，我来与大哥送信。"
+          "text": "如今拜把子就是那么一回事，大哥你也太认真啦。待我二人下山打探，如有绝"
+        },
+        {
+          "character": "云飞、韩秀",
+          "line_type": "同白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "色的女子，我来与大哥送信。"
         },
         {
           "character": "华云龙",
@@ -983,7 +1110,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.111,
+        0.1667,
+        0.8333,
+        0.0,
+        0.7273,
+        2,
+        0.1667,
+        0.0
+      ]
     },
     {
       "scene_index": 7,
@@ -1028,7 +1165,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "你们都来啦，好好，坐下坐下。\n我说王通，你的镖车全交清了嘛？"
+          "text": "你们都来啦，好好，坐下坐下。"
+        },
+        {
+          "character": "济颠",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我说王通，你的镖车全交清了嘛？"
         },
         {
           "character": "王通",
@@ -1063,14 +1207,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "弟子曾与他结为金兰，每人各戴鲜花一朵，戴花不许采花如若采花，日后死在\n乱刀之下。"
+          "text": "弟子曾与他结为金兰，每人各戴鲜花一朵，戴花不许采花如若采花，日后死在"
+        },
+        {
+          "character": "王通",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "乱刀之下。"
         },
         {
           "character": "济颠",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "只管这么说，狗还能改了吃屎么？哎呀！不好，今日晚上，华云龙就要到赵家\n去采花。"
+          "text": "只管这么说，狗还能改了吃屎么？哎呀！不好，今日晚上，华云龙就要到赵家"
+        },
+        {
+          "character": "济颠",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "去采花。"
         },
         {
           "character": "王通",
@@ -1084,7 +1242,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "慢着，慢着。看你们这三个人的脸上，全带着晦气，恐怕都要有灾，待师傅同\n你们一齐前去。"
+          "text": "慢着，慢着。看你们这三个人的脸上，全带着晦气，恐怕都要有灾，待师傅同"
+        },
+        {
+          "character": "济颠",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "你们一齐前去。"
         },
         {
           "character": null,
@@ -1122,7 +1287,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.9333,
+        0.0667,
+        0.7143,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 8,
@@ -1162,7 +1337,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 9,
@@ -1186,7 +1371,14 @@
           "line_type": "西皮原板",
           "musical_style": "西皮原板",
           "style_family": "西皮",
-          "text": "祖居在余杭县家财颇有，\n享荣华和富贵无虑无忧。"
+          "text": "祖居在余杭县家财颇有，"
+        },
+        {
+          "character": "赵员外",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "享荣华和富贵无虑无忧。"
         },
         {
           "character": "赵小姐",
@@ -1252,7 +1444,17 @@
         "musical_styles": [
           "西皮原板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.75,
+        0.8,
+        0.2,
+        0.0,
+        0.5,
+        3,
+        0.8,
+        0.0
+      ]
     },
     {
       "scene_index": 10,
@@ -1303,7 +1505,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 11,
@@ -1358,7 +1570,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 12,
@@ -1430,7 +1652,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 13,
@@ -1454,10 +1686,31 @@
           "line_type": "同唱",
           "musical_style": null,
           "style_family": null,
-          "text": "听谯楼更鼓声忙，\n抬头见星光明幌。\n哪怕那墙高万丈。"
+          "text": "听谯楼更鼓声忙，"
         },
         {
-          "character": "我这里急走慌忙、华云龙",
+          "character": "华云龙、云飞、韩秀",
+          "line_type": "同唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "抬头见星光明幌。"
+        },
+        {
+          "character": "华云龙、云飞、韩秀",
+          "line_type": "同唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "哪怕那墙高万丈。"
+        },
+        {
+          "character": "华云龙、云飞、韩秀",
+          "line_type": "同唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我这里急走慌忙"
+        },
+        {
+          "character": "华云龙",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -1486,7 +1739,17 @@
         "singing_ratio": 0.5,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.5,
+        0.8,
+        0.2,
+        0.0,
+        0.25,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 14,
@@ -1534,7 +1797,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 15,
@@ -1612,7 +1885,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        2,
+        0.0,
+        0.0
+      ]
     }
   ]
 }

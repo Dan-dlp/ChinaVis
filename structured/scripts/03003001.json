@@ -292,7 +292,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "孤，西凉国王熊猛。承先人基业，坐镇西凉。可恨周室为上，我国为下，岁岁\n朝贺。只因欠下三载贡献，周室未必甘休，使孤时常忧虑。\n来！闪放银安！"
+          "text": "孤，西凉国王熊猛。承先人基业，坐镇西凉。可恨周室为上，我国为下，岁岁"
+        },
+        {
+          "character": "熊猛",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "朝贺。只因欠下三载贡献，周室未必甘休，使孤时常忧虑。"
+        },
+        {
+          "character": "熊猛",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来！闪放银安！"
         },
         {
           "character": null,
@@ -474,14 +488,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "大王何不宣哪家大臣之女，同我国臣子，敬献周室，以抵三年贡献。我国之人，\n在里面联合周室谗臣佞党，吾邦发兵讨周，里应外合，哪怕周室不灭！"
+          "text": "大王何不宣哪家大臣之女，同我国臣子，敬献周室，以抵三年贡献。我国之人，"
+        },
+        {
+          "character": "石彦虎",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "在里面联合周室谗臣佞党，吾邦发兵讨周，里应外合，哪怕周室不灭！"
         },
         {
           "character": "熊猛",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "孤久闻令妹石美容才貌双全，颇有安邦定国之志。就将你兄妹三人献与周室，\n作一内应，见机进行。成功之时，与你兄妹平分疆土，绝不食言。"
+          "text": "孤久闻令妹石美容才貌双全，颇有安邦定国之志。就将你兄妹三人献与周室，"
+        },
+        {
+          "character": "熊猛",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "作一内应，见机进行。成功之时，与你兄妹平分疆土，绝不食言。"
         },
         {
           "character": "石彦龙",
@@ -495,7 +523,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "好！二卿回府，与令妹说明。孤赠送黄金百两、彩缎百端，护卫军护送十里长\n亭，孤亲自送行。"
+          "text": "好！二卿回府，与令妹说明。孤赠送黄金百两、彩缎百端，护卫军护送十里长"
+        },
+        {
+          "character": "熊猛",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "亭，孤亲自送行。"
         },
         {
           "character": "石彦龙、石彦虎",
@@ -564,7 +599,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0278,
+        0.8611,
+        0.1111,
+        0.7143,
+        5,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -673,45 +718,108 @@
           "line_type": "同唱",
           "musical_style": null,
           "style_family": null,
-          "text": "只因周室欺我邦，\n故设牢笼到他方。\n一统江山归西凉。"
+          "text": "只因周室欺我邦，"
         },
         {
-          "character": "里应外合周必丧、石美容",
+          "character": "石彦龙、石彦虎",
+          "line_type": "同唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "故设牢笼到他方。"
+        },
+        {
+          "character": "石彦龙、石彦虎",
+          "line_type": "同唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "一统江山归西凉。"
+        },
+        {
+          "character": "石彦龙、石彦虎",
+          "line_type": "同唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "里应外合周必丧"
+        },
+        {
+          "character": "石美容",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
           "text": "呀！"
         },
         {
-          "character": "里应外合周必丧、石美容",
+          "character": "石美容",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "里应外合周必丧"
+        },
+        {
+          "character": "石美容",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "听罢言来暗思想，\n美人之计灭周王。"
+          "text": "听罢言来暗思想，"
         },
         {
-          "character": "里应外合周必丧、石美容",
+          "character": "石美容",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "美人之计灭周王。"
+        },
+        {
+          "character": "石美容",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "里应外合周必丧"
+        },
+        {
+          "character": "石美容",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
           "text": "也罢！"
         },
         {
-          "character": "里应外合周必丧、石美容",
+          "character": "石美容",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "里应外合周必丧"
+        },
+        {
+          "character": "石美容",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
           "text": "臣忠子孝理应当。"
         },
         {
-          "character": "里应外合周必丧、石美容",
+          "character": "石美容",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "里应外合周必丧"
+        },
+        {
+          "character": "石美容",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
           "text": "兄长，不知几时起身？"
         },
         {
-          "character": "顺水推舟心自想、石彦龙",
+          "character": "石美容",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "顺水推舟心自想"
+        },
+        {
+          "character": "石彦龙",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -804,7 +912,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.2903,
+        0.5484,
+        0.1613,
+        0.4667,
+        5,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -828,28 +946,77 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "来在长亭用目望，\n只见熊王站一旁。\n谢大王恩义厚远去他乡。"
-        },
-        {
-          "character": "羞答答下车轮有话难讲、熊猛",
-          "line_type": "白",
-          "musical_style": null,
-          "style_family": null,
-          "text": "王妹呀！"
-        },
-        {
-          "character": "羞答答下车轮有话难讲、熊猛",
-          "line_type": "唱",
-          "musical_style": null,
-          "style_family": null,
-          "text": "到周地全仗你智谋才广，\n西凉国兴与亡王妹承当。"
+          "text": "来在长亭用目望，"
         },
         {
           "character": "石美容",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "感天恩受雨露皇恩浩荡，\n西凉国故土地挂肚牵肠。\n若忘了大王恩死在他乡。"
+          "text": "只见熊王站一旁。"
+        },
+        {
+          "character": "石美容",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "谢大王恩义厚远去他乡。"
+        },
+        {
+          "character": "石美容",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "羞答答下车轮有话难讲"
+        },
+        {
+          "character": "熊猛",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "王妹呀！"
+        },
+        {
+          "character": "熊猛",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "羞答答下车轮有话难讲"
+        },
+        {
+          "character": "熊猛",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "到周地全仗你智谋才广，"
+        },
+        {
+          "character": "熊猛",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "西凉国兴与亡王妹承当。"
+        },
+        {
+          "character": "石美容",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "感天恩受雨露皇恩浩荡，"
+        },
+        {
+          "character": "石美容",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "西凉国故土地挂肚牵肠。"
+        },
+        {
+          "character": "石美容",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "若忘了大王恩死在他乡。"
         },
         {
           "character": null,
@@ -863,14 +1030,28 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "许大夫回朝去好言奏上，\n从今后我两国免动刀枪。"
+          "text": "许大夫回朝去好言奏上，"
+        },
+        {
+          "character": "熊猛",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "从今后我两国免动刀枪。"
         },
         {
           "character": "许万昌",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "蒙厚意款待我孟尝一样，\n回朝去我详细奏明君王。"
+          "text": "蒙厚意款待我孟尝一样，"
+        },
+        {
+          "character": "许万昌",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "回朝去我详细奏明君王。"
         },
         {
           "character": null,
@@ -884,7 +1065,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "每日里孤亲自教练兵将，\n有一日奋雄威灭却周王。"
+          "text": "每日里孤亲自教练兵将，"
+        },
+        {
+          "character": "熊猛",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "有一日奋雄威灭却周王。"
         },
         {
           "character": null,
@@ -921,7 +1109,17 @@
         "singing_ratio": 0.833,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.833,
+        0.8824,
+        0.1176,
+        0.0,
+        0.3125,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 4,
@@ -1001,7 +1199,35 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "过多少凶险岭百鸟纷飞。\n又听得马萧萧踢跳连嘶。\n护卫军惊天地笳声连吹。\n离故土强带笑暗自伤悲。\n登高山涉深水为国驱驰。"
+          "text": "过多少凶险岭百鸟纷飞。"
+        },
+        {
+          "character": "石美容",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "又听得马萧萧踢跳连嘶。"
+        },
+        {
+          "character": "石美容",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "护卫军惊天地笳声连吹。"
+        },
+        {
+          "character": "石美容",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "离故土强带笑暗自伤悲。"
+        },
+        {
+          "character": "石美容",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "登高山涉深水为国驱驰。"
         },
         {
           "character": null,
@@ -1046,7 +1272,17 @@
         "musical_styles": [
           "西皮导板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.143,
+        0.5,
+        0.4167,
+        0.0833,
+        0.4545,
+        4,
+        0.0833,
+        0.0
+      ]
     },
     {
       "scene_index": 5,
@@ -1104,7 +1340,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "诸位大人请了！许万昌西凉催贡回朝，少时万岁升殿，一同启奏。\n看香烟缭绕，圣驾临朝。分班伺候！"
+          "text": "诸位大人请了！许万昌西凉催贡回朝，少时万岁升殿，一同启奏。"
+        },
+        {
+          "character": "李进忠",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "看香烟缭绕，圣驾临朝。分班伺候！"
         },
         {
           "character": null,
@@ -1153,7 +1396,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "孤、大周天子懿王在位。自登基以来，风调雨顺，国库丰盈。今日设立早朝，\n众卿有本早奏，无本退班。"
+          "text": "孤、大周天子懿王在位。自登基以来，风调雨顺，国库丰盈。今日设立早朝，"
+        },
+        {
+          "character": "周懿王",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "众卿有本早奏，无本退班。"
         },
         {
           "character": "李进忠",
@@ -1307,21 +1557,42 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "哈哈哈……好个绝色的美人。孤封你西宫，陪王伴驾。\n内侍引你新娘娘进宫。"
+          "text": "哈哈哈……好个绝色的美人。孤封你西宫，陪王伴驾。"
+        },
+        {
+          "character": "周懿王",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "内侍引你新娘娘进宫。"
         },
         {
           "character": "大太监",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "领旨。\n娘娘随奴婢来。"
+          "text": "领旨。"
+        },
+        {
+          "character": "大太监",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "娘娘随奴婢来。"
         },
         {
           "character": "石美容",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "谢万岁。\n正是："
+          "text": "谢万岁。"
+        },
+        {
+          "character": "石美容",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "正是："
         },
         {
           "character": "石美容",
@@ -1405,7 +1676,14 @@
           "line_type": "同白",
           "musical_style": null,
           "style_family": null,
-          "text": "谢万岁！\n正是："
+          "text": "谢万岁！"
+        },
+        {
+          "character": "石彦龙、石彦虎",
+          "line_type": "同白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "正是："
         },
         {
           "character": "石彦龙、石彦虎",
@@ -1541,7 +1819,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0196,
+        0.8627,
+        0.1176,
+        0.72,
+        11,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 6,
@@ -1591,7 +1879,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "孟王爷请了！李大人散饷已毕，今日回朝，一同前去送行。\n众将官，李大人营中去者！"
+          "text": "孟王爷请了！李大人散饷已毕，今日回朝，一同前去送行。"
+        },
+        {
+          "character": "侯振邦",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "众将官，李大人营中去者！"
         },
         {
           "character": null,
@@ -1620,7 +1915,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.6667,
+        0.3333,
+        0.8,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 7,
@@ -1659,7 +1964,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "本爵李广。在周室驾前为臣，官拜奉命侯之职。奉王旨意，边外散饷。且喜干\n戈平定，理应回朝交旨。也曾传谕众将收拾行李上路。正是：\n为国为民理所当，鞍马劳顿受风霜。"
+          "text": "本爵李广。在周室驾前为臣，官拜奉命侯之职。奉王旨意，边外散饷。且喜干"
+        },
+        {
+          "character": "李广",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "戈平定，理应回朝交旨。也曾传谕众将收拾行李上路。正是："
+        },
+        {
+          "character": "李广",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "为国为民理所当，鞍马劳顿受风霜。"
         },
         {
           "character": null,
@@ -1785,7 +2104,14 @@
           "line_type": "同白",
           "musical_style": null,
           "style_family": null,
-          "text": "请。李大人回京，别无可敬，这有避毒帕一方，此宝能解百毒。奉送大人，望\n请收纳。"
+          "text": "请。李大人回京，别无可敬，这有避毒帕一方，此宝能解百毒。奉送大人，望"
+        },
+        {
+          "character": "侯振邦、孟勇",
+          "line_type": "同白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "请收纳。"
         },
         {
           "character": "李广",
@@ -1806,7 +2132,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "知道了。\n二位王爷，某先行一步。"
+          "text": "知道了。"
+        },
+        {
+          "character": "李广",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "二位王爷，某先行一步。"
         },
         {
           "character": "侯振邦、孟勇",
@@ -1870,7 +2203,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.037,
+        0.8889,
+        0.0741,
+        0.7308,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 8,
@@ -1891,21 +2234,77 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "杨太贞坐昭阳自思自想，\n我主爷收石妃不理朝纲。\n尤恐怕效前朝无道纣王。"
-        },
-        {
-          "character": "杨太贞",
-          "line_type": "白",
-          "musical_style": null,
-          "style_family": null,
-          "text": "本后杨太贞。蒙圣恩封为昭阳正院。只因西凉下国，三载无宝进宫，进来石美\n容兄妹三人。吾主宠爱美容，封为西宫伴驾。每日饮宴，夜夜笙歌。满朝文武\n本章，堆积如山，圣上不理朝事。不免手捧玉玺，去到西宫，面奏便了。\n宫娥，摆驾西宫！"
+          "text": "杨太贞坐昭阳自思自想，"
         },
         {
           "character": "杨太贞",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "西凉国三年内无贡来进，\n进来了石美容兄妹三人。\n日饮酒夜笙歌嬉游宫廷。\n我要把朝阁事细奏明君。"
+          "text": "我主爷收石妃不理朝纲。"
+        },
+        {
+          "character": "杨太贞",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "尤恐怕效前朝无道纣王。"
+        },
+        {
+          "character": "杨太贞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "本后杨太贞。蒙圣恩封为昭阳正院。只因西凉下国，三载无宝进宫，进来石美"
+        },
+        {
+          "character": "杨太贞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "容兄妹三人。吾主宠爱美容，封为西宫伴驾。每日饮宴，夜夜笙歌。满朝文武"
+        },
+        {
+          "character": "杨太贞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "本章，堆积如山，圣上不理朝事。不免手捧玉玺，去到西宫，面奏便了。"
+        },
+        {
+          "character": "杨太贞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "宫娥，摆驾西宫！"
+        },
+        {
+          "character": "杨太贞",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "西凉国三年内无贡来进，"
+        },
+        {
+          "character": "杨太贞",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "进来了石美容兄妹三人。"
+        },
+        {
+          "character": "杨太贞",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "日饮酒夜笙歌嬉游宫廷。"
+        },
+        {
+          "character": "杨太贞",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我要把朝阁事细奏明君。"
         },
         {
           "character": null,
@@ -1924,7 +2323,17 @@
         "singing_ratio": 1.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        1.0,
+        0.6364,
+        0.3636,
+        0.0,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 9,
@@ -1951,7 +2360,28 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "戴一顶珠翠冠乌云压鬓，\n穿一件龙凤衣显出罗裙。\n我兄妹起不良要谋龙廷。\n用狐媚引王心暗把事行。"
+          "text": "戴一顶珠翠冠乌云压鬓，"
+        },
+        {
+          "character": "石美容",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "穿一件龙凤衣显出罗裙。"
+        },
+        {
+          "character": "石美容",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我兄妹起不良要谋龙廷。"
+        },
+        {
+          "character": "石美容",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "用狐媚引王心暗把事行。"
         },
         {
           "character": null,
@@ -1965,10 +2395,24 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "孤王有道坐龙廷，\n西凉进来玉美人。"
+          "text": "孤王有道坐龙廷，"
         },
         {
-          "character": "内侍臣摆驾西宫进、石美容",
+          "character": "周懿王",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "西凉进来玉美人。"
+        },
+        {
+          "character": "周懿王",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "内侍臣摆驾西宫进"
+        },
+        {
+          "character": "石美容",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -2021,7 +2465,28 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "万岁爷体不爽敛神静养，\n石美容在一旁打扇生凉。\n尊一声万岁爷细听端详：\n怕的是起下了不良心肠。"
+          "text": "万岁爷体不爽敛神静养，"
+        },
+        {
+          "character": "石美容",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "石美容在一旁打扇生凉。"
+        },
+        {
+          "character": "石美容",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "尊一声万岁爷细听端详："
+        },
+        {
+          "character": "石美容",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "怕的是起下了不良心肠。"
         },
         {
           "character": null,
@@ -2035,7 +2500,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "手捧玉玺到西宫，\n我朝之事大不同。"
+          "text": "手捧玉玺到西宫，"
+        },
+        {
+          "character": "杨太贞",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我朝之事大不同。"
         },
         {
           "character": "杨大太监",
@@ -2056,7 +2528,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "领旨。\n宫门哪位在？"
+          "text": "领旨。"
+        },
+        {
+          "character": "杨大太监",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "宫门哪位在？"
         },
         {
           "character": "石大太监",
@@ -2091,7 +2570,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "咱家与你启奏启奏。\n正宫杨国母有本启奏。"
+          "text": "咱家与你启奏启奏。"
+        },
+        {
+          "character": "石大太监",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "正宫杨国母有本启奏。"
         },
         {
           "character": "石美容",
@@ -2105,7 +2591,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "嗻。\n亲家！亲家！石娘娘传话出来，有本启奏，无本穿宫而过，哪个还出宫迎接于\n她不成！"
+          "text": "嗻。"
+        },
+        {
+          "character": "石大太监",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "亲家！亲家！石娘娘传话出来，有本启奏，无本穿宫而过，哪个还出宫迎接于"
+        },
+        {
+          "character": "石大太监",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "她不成！"
         },
         {
           "character": "杨大太监",
@@ -2147,7 +2647,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "这贱人好大的胆量！哎！且自由她。\n内侍，吩咐闪宫。"
+          "text": "这贱人好大的胆量！哎！且自由她。"
+        },
+        {
+          "character": "杨太贞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "内侍，吩咐闪宫。"
         },
         {
           "character": "杨大太监",
@@ -2203,7 +2710,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "御妹，我且问你：本宫到此，你不出去迎接，还则罢了，反在一旁代驾平身；\n宫中无礼，不值紧要，倘别邦闻知，岂不道我国无君臣礼仪么？"
+          "text": "御妹，我且问你：本宫到此，你不出去迎接，还则罢了，反在一旁代驾平身；"
+        },
+        {
+          "character": "杨太贞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "宫中无礼，不值紧要，倘别邦闻知，岂不道我国无君臣礼仪么？"
         },
         {
           "character": "石美容",
@@ -2224,7 +2738,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "啊！国母，我开口一个国母，闭口也个国母；你开口一个贱人，闭口一个贱人。\n你叫得我，难道我就叫不得你吗？"
+          "text": "啊！国母，我开口一个国母，闭口也个国母；你开口一个贱人，闭口一个贱人。"
+        },
+        {
+          "character": "石美容",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "你叫得我，难道我就叫不得你吗？"
         },
         {
           "character": "杨太贞",
@@ -2266,14 +2787,42 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "你本是下国无知女，\n敢在我朝乱胡行。\n本宫是你什么人？"
+          "text": "你本是下国无知女，"
         },
         {
-          "character": "你手摸胸膛想一想、石美容",
+          "character": "杨太贞",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "三宫六院你为大，\n七十二妃你为尊。"
+          "text": "敢在我朝乱胡行。"
+        },
+        {
+          "character": "杨太贞",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "本宫是你什么人？"
+        },
+        {
+          "character": "杨太贞",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "你手摸胸膛想一想"
+        },
+        {
+          "character": "石美容",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "三宫六院你为大，"
+        },
+        {
+          "character": "石美容",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "七十二妃你为尊。"
         }
       ],
       "interactions": [
@@ -2368,7 +2917,17 @@
         "musical_styles": [
           "西皮导板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.095,
+        0.3077,
+        0.6923,
+        0.0,
+        0.6562,
+        5,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 10,
@@ -2484,7 +3043,17 @@
         "musical_styles": [
           "西皮导板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.4,
+        0.375,
+        0.625,
+        0.0,
+        0.4286,
+        2,
+        0.125,
+        0.0
+      ]
     },
     {
       "scene_index": 11,
@@ -2499,7 +3068,7 @@
           "text": "（四龙套引石彦龙同上。〖牌子〗。）"
         },
         {
-          "character": null,
+          "character": "石彦龙",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -2521,7 +3090,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 12,
@@ -2707,7 +3286,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.9333,
+        0.0667,
+        0.7857,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 13,
@@ -4557,7 +5146,17 @@
         "musical_styles": [
           "西皮导板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.151,
+        0.23,
+        0.7371,
+        0.0329,
+        0.6981,
+        9,
+        0.0094,
+        0.0
+      ]
     },
     {
       "scene_index": 14,
@@ -4611,7 +5210,17 @@
         "singing_ratio": 1.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        1.0,
+        0.6667,
+        0.3333,
+        0.0,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 15,
@@ -4888,7 +5497,17 @@
         "singing_ratio": 0.091,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.091,
+        0.2222,
+        0.7778,
+        0.0,
+        0.6923,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 16,
@@ -5243,7 +5862,17 @@
         "musical_styles": [
           "西皮导板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.138,
+        0.1765,
+        0.8235,
+        0.0,
+        0.8182,
+        5,
+        0.0294,
+        0.0
+      ]
     },
     {
       "scene_index": 17,
@@ -5369,7 +5998,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.8889,
+        0.1111,
+        0.625,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 18,
@@ -5444,7 +6083,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.5,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 19,
@@ -5653,7 +6302,17 @@
         "singing_ratio": 0.176,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.176,
+        0.2222,
+        0.7222,
+        0.0556,
+        0.7647,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 20,
@@ -5676,7 +6335,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 21,
@@ -5729,7 +6398,17 @@
         "singing_ratio": 1.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        1.0,
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 22,
@@ -6083,7 +6762,17 @@
         "singing_ratio": 0.15,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.15,
+        0.1923,
+        0.5385,
+        0.2692,
+        0.64,
+        7,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 23,
@@ -6106,7 +6795,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 24,
@@ -6179,7 +6878,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 25,
@@ -6202,7 +6911,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 26,
@@ -6242,7 +6961,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 27,
@@ -6398,7 +7127,17 @@
         "musical_styles": [
           "西皮导板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.667,
+        0.6,
+        0.4,
+        0.0,
+        0.6667,
+        4,
+        0.1,
+        0.0
+      ]
     },
     {
       "scene_index": 28,
@@ -6614,7 +7353,17 @@
         "singing_ratio": 0.091,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.091,
+        0.4286,
+        0.5238,
+        0.0476,
+        0.5,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 29,
@@ -6780,7 +7529,17 @@
         "singing_ratio": 0.8,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.8,
+        0.7143,
+        0.2857,
+        0.0,
+        0.6923,
+        3,
+        0.0,
+        0.0
+      ]
     }
   ]
 }

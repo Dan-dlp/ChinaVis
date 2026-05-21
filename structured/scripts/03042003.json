@@ -389,7 +389,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -418,7 +428,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "本爵，襄成伯李国桢。方今天下刀兵四起，关外大乱，为此朝房议事。\n家将！"
+          "text": "本爵，襄成伯李国桢。方今天下刀兵四起，关外大乱，为此朝房议事。"
+        },
+        {
+          "character": "李国桢",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "家将！"
         },
         {
           "character": "四马童",
@@ -469,7 +486,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.8333,
+        0.1667,
+        0.6,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -603,7 +630,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "杜公公此言差矣！想你我为大臣者，不能与国家分忧，反而出此不臣之言，岂\n不自愧？"
+          "text": "杜公公此言差矣！想你我为大臣者，不能与国家分忧，反而出此不臣之言，岂"
+        },
+        {
+          "character": "范景文",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "不自愧？"
         },
         {
           "character": null,
@@ -687,7 +721,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "阉宦专权误国政，\n断送万里锦乾坤！"
+          "text": "阉宦专权误国政，"
+        },
+        {
+          "character": "李国桢",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "断送万里锦乾坤！"
         },
         {
           "character": null,
@@ -737,7 +778,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.1111,
+        0.8333,
+        0.0556,
+        0.5294,
+        8,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 4,
@@ -760,7 +811,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 5,
@@ -793,14 +854,35 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "朱由检未登基山河以紊，\n勉精神图励治挽回难能。\n龙书案由何来一角公文？"
+          "text": "朱由检未登基山河以紊，"
+        },
+        {
+          "character": "崇祯",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "勉精神图励治挽回难能。"
+        },
+        {
+          "character": "崇祯",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "龙书案由何来一角公文？"
         },
         {
           "character": "崇祯",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "啊？龙书案上，哪里来的公文？\n宣黄门官。"
+          "text": "啊？龙书案上，哪里来的公文？"
+        },
+        {
+          "character": "崇祯",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "宣黄门官。"
         },
         {
           "character": null,
@@ -954,7 +1036,21 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "听说僭号似雷震，\n为何孤王不知情？\n擂鼓撞钟群臣问！"
+          "text": "听说僭号似雷震，"
+        },
+        {
+          "character": "崇祯",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "为何孤王不知情？"
+        },
+        {
+          "character": "崇祯",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "擂鼓撞钟群臣问！"
         },
         {
           "character": null,
@@ -1038,28 +1134,77 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "此檄文在龙书案上，不知从何而来。问过值殿侍臣，也奏道不知。难道说国家\n将亡，出了妖孽不成？也罢！朕自登基以来，流寇蜂起，外患频来，水灾兵祸，\n年年不息。人民不能安居，不怪文不修政，武不平乱；终怪寡人用人不当。\n十七年来，朝政日非。李闯僭号西安，大逆不道。待朕御驾亲征！"
-        },
-        {
-          "character": "李国桢",
-          "line_type": "白",
-          "musical_style": null,
-          "style_family": null,
-          "text": "万岁暂息雷霆之怒。李闯僭号西安，不过乌合之众，何劳陛下倾万乘之尊？臣\n愿领兵征讨，以安天下。"
-        },
-        {
-          "character": "李建泰",
-          "line_type": "白",
-          "musical_style": null,
-          "style_family": null,
-          "text": "襄成伯虽有忠心，怎奈山西地理不熟，势难取胜。况京畿重地，不可不防。微\n臣乃山西曲沃人氏，颇知地理。愿统兵回转曲沃，以饲饷犒军，率师征讨，以\n报我主知遇之恩。"
+          "text": "此檄文在龙书案上，不知从何而来。问过值殿侍臣，也奏道不知。难道说国家"
         },
         {
           "character": "崇祯",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "卿有此忠心，朕感激涕零。候卿行时，朕当效推辇之礼，以壮行色。\n杜勋听旨！"
+          "text": "将亡，出了妖孽不成？也罢！朕自登基以来，流寇蜂起，外患频来，水灾兵祸，"
+        },
+        {
+          "character": "崇祯",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "年年不息。人民不能安居，不怪文不修政，武不平乱；终怪寡人用人不当。"
+        },
+        {
+          "character": "崇祯",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "十七年来，朝政日非。李闯僭号西安，大逆不道。待朕御驾亲征！"
+        },
+        {
+          "character": "李国桢",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "万岁暂息雷霆之怒。李闯僭号西安，不过乌合之众，何劳陛下倾万乘之尊？臣"
+        },
+        {
+          "character": "李国桢",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "愿领兵征讨，以安天下。"
+        },
+        {
+          "character": "李建泰",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "襄成伯虽有忠心，怎奈山西地理不熟，势难取胜。况京畿重地，不可不防。微"
+        },
+        {
+          "character": "李建泰",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "臣乃山西曲沃人氏，颇知地理。愿统兵回转曲沃，以饲饷犒军，率师征讨，以"
+        },
+        {
+          "character": "李建泰",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "报我主知遇之恩。"
+        },
+        {
+          "character": "崇祯",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "卿有此忠心，朕感激涕零。候卿行时，朕当效推辇之礼，以壮行色。"
+        },
+        {
+          "character": "崇祯",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "杜勋听旨！"
         },
         {
           "character": null,
@@ -1129,7 +1274,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "曹化淳严守外城，李国桢为九门提督，严守京畿。李建泰辅助督师。但是京阁\n之事，何人代理？"
+          "text": "曹化淳严守外城，李国桢为九门提督，严守京畿。李建泰辅助督师。但是京阁"
+        },
+        {
+          "character": "崇祯",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "之事，何人代理？"
         },
         {
           "character": "李建泰",
@@ -1213,14 +1365,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "咳！百姓们虽有救国之心，怎奈他们无有多大力量。况且国家捐了他们也不止\n一次了。捐得他们筋疲力尽，自顾尚且不暇，只怕心有余而力不足了！"
+          "text": "咳！百姓们虽有救国之心，怎奈他们无有多大力量。况且国家捐了他们也不止"
+        },
+        {
+          "character": "崇祯",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "一次了。捐得他们筋疲力尽，自顾尚且不暇，只怕心有余而力不足了！"
         },
         {
           "character": "崇祯",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "富家翁只晓得鱼肉百姓，\n他把那国家事置若罔闻。"
+          "text": "富家翁只晓得鱼肉百姓，"
+        },
+        {
+          "character": "崇祯",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "他把那国家事置若罔闻。"
         },
         {
           "character": "崇祯",
@@ -1237,21 +1403,56 @@
           "text": "又何必杀万民罪在我身。"
         },
         {
-          "character": "十七年天降灾是朕命运、李国桢",
+          "character": "崇祯",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "见万岁只哭得山摇地震，\n铁石人不落泪也要伤心。\n请陛下止悲泪励治图精。"
+          "text": "十七年天降灾是朕命运"
         },
         {
-          "character": "十七年天降灾是朕命运、李国桢",
+          "character": "李国桢",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "见万岁只哭得山摇地震，"
+        },
+        {
+          "character": "李国桢",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "铁石人不落泪也要伤心。"
+        },
+        {
+          "character": "李国桢",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "请陛下止悲泪励治图精。"
+        },
+        {
+          "character": "李国桢",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "十七年天降灾是朕命运"
+        },
+        {
+          "character": "李国桢",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
           "text": "事已至此，哭也无益。请万岁以江山为重，善保龙体才是！"
         },
         {
-          "character": "圣天子本是那万民根本、范景文",
+          "character": "李国桢",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "圣天子本是那万民根本"
+        },
+        {
+          "character": "范景文",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -1304,7 +1505,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "到如今已到了山穷水尽，\n巨灵掌恐难挡洪水纵横。"
+          "text": "到如今已到了山穷水尽，"
+        },
+        {
+          "character": "崇祯",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "巨灵掌恐难挡洪水纵横。"
         },
         {
           "character": null,
@@ -1389,7 +1597,17 @@
         "singing_ratio": 0.111,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.111,
+        0.2533,
+        0.7333,
+        0.0133,
+        0.4459,
+        7,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 6,
@@ -1415,10 +1633,31 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "戊辰年天雨血陕西全省，\n钦太监细推算必主刀兵。\n我主爷与朝臣昼夜调停。"
+          "text": "戊辰年天雨血陕西全省，"
         },
         {
-          "character": "到如今流寇起西安混乱、龙套",
+          "character": "周后",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "钦太监细推算必主刀兵。"
+        },
+        {
+          "character": "周后",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我主爷与朝臣昼夜调停。"
+        },
+        {
+          "character": "周后",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "到如今流寇起西安混乱"
+        },
+        {
+          "character": "龙套",
           "line_type": "内白",
           "musical_style": null,
           "style_family": null,
@@ -1436,10 +1675,24 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "贼流寇贪无厌得秦图晋，\n文武臣难定乱辜负皇恩。"
+          "text": "贼流寇贪无厌得秦图晋，"
         },
         {
-          "character": "粮饷绌兵将弱遍地棘荆、周后",
+          "character": "崇祯",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "文武臣难定乱辜负皇恩。"
+        },
+        {
+          "character": "崇祯",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "粮饷绌兵将弱遍地棘荆"
+        },
+        {
+          "character": "周后",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -1464,17 +1717,45 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "梓童哪里知道。今日孤王上殿，见龙书案上，有文书一封，不知从何而来。拆\n开一看，原来又出了一个“皇帝”！"
+          "text": "梓童哪里知道。今日孤王上殿，见龙书案上，有文书一封，不知从何而来。拆"
+        },
+        {
+          "character": "崇祯",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "开一看，原来又出了一个“皇帝”！"
         },
         {
           "character": "崇祯",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "李闯王在西安僭号大顺，\n领人马攻山西要夺蒲城。\n府仓空无粮饷怎能起兵？"
+          "text": "李闯王在西安僭号大顺，"
         },
         {
-          "character": "李建泰请出师朕已照准、周后",
+          "character": "崇祯",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "领人马攻山西要夺蒲城。"
+        },
+        {
+          "character": "崇祯",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "府仓空无粮饷怎能起兵？"
+        },
+        {
+          "character": "崇祯",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "李建泰请出师朕已照准"
+        },
+        {
+          "character": "周后",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -1485,21 +1766,49 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "国丈奏道：国家缺乏粮饷，去向百姓捐款。只是那百姓自顾尚且不暇；再去捐\n他，于心何忍？除非和几个富翁商议。只是他们为富不仁，定要推委呀！"
-        },
-        {
-          "character": "周后",
-          "line_type": "白",
-          "musical_style": null,
-          "style_family": null,
-          "text": "启奏万岁：百姓们纳饷完税，已然筋疲力竭。如今一旦有事，又要去捐他们。\n从来不曾捐过大臣，未免太不公平！此番捐助军饷，必须要由上而下，一律捐\n助，方见公允。"
+          "text": "国丈奏道：国家缺乏粮饷，去向百姓捐款。只是那百姓自顾尚且不暇；再去捐"
         },
         {
           "character": "崇祯",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "梓童之言，甚合孤意。常言道：不能正己，焉能责人？就依皇后之见，先由大\n臣捐起。梓童你能捐几何？"
+          "text": "他，于心何忍？除非和几个富翁商议。只是他们为富不仁，定要推委呀！"
+        },
+        {
+          "character": "周后",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "启奏万岁：百姓们纳饷完税，已然筋疲力竭。如今一旦有事，又要去捐他们。"
+        },
+        {
+          "character": "周后",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "从来不曾捐过大臣，未免太不公平！此番捐助军饷，必须要由上而下，一律捐"
+        },
+        {
+          "character": "周后",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "助，方见公允。"
+        },
+        {
+          "character": "崇祯",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "梓童之言，甚合孤意。常言道：不能正己，焉能责人？就依皇后之见，先由大"
+        },
+        {
+          "character": "崇祯",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "臣捐起。梓童你能捐几何？"
         },
         {
           "character": "周后",
@@ -1565,7 +1874,17 @@
         "singing_ratio": 0.286,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.286,
+        0.4828,
+        0.5172,
+        0.0,
+        0.4643,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 7,
@@ -1658,7 +1977,14 @@
           "line_type": "同白",
           "musical_style": null,
           "style_family": null,
-          "text": "将军有所不知。有钱之人与他们银钱，就被他们放走了；我们无钱，就是这样\n毒打。"
+          "text": "将军有所不知。有钱之人与他们银钱，就被他们放走了；我们无钱，就是这样"
+        },
+        {
+          "character": "四百姓",
+          "line_type": "同白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "毒打。"
         },
         {
           "character": "李国桢",
@@ -1672,7 +1998,21 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "听罢言来怒气生，\n胆大贼子敢胡行？\n宝剑出鞘追尔的命！"
+          "text": "听罢言来怒气生，"
+        },
+        {
+          "character": "李国桢",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "胆大贼子敢胡行？"
+        },
+        {
+          "character": "李国桢",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "宝剑出鞘追尔的命！"
         },
         {
           "character": "曹化淳",
@@ -1731,7 +2071,17 @@
         "singing_ratio": 0.143,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.143,
+        0.4286,
+        0.5714,
+        0.0,
+        0.3846,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 8,
@@ -1764,14 +2114,35 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "朱由检未登基山河以紊，\n勉精神图励治挽回难能。\n龙书案由何来一角公文？"
+          "text": "朱由检未登基山河以紊，"
+        },
+        {
+          "character": "崇祯",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "勉精神图励治挽回难能。"
+        },
+        {
+          "character": "崇祯",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "龙书案由何来一角公文？"
         },
         {
           "character": "崇祯",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "啊？龙书案上，哪里来的公文？\n宣黄门官。"
+          "text": "啊？龙书案上，哪里来的公文？"
+        },
+        {
+          "character": "崇祯",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "宣黄门官。"
         },
         {
           "character": null,
@@ -1925,7 +2296,21 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "听说僭号似雷震，\n为何孤王不知情？\n擂鼓撞钟群臣问！"
+          "text": "听说僭号似雷震，"
+        },
+        {
+          "character": "崇祯",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "为何孤王不知情？"
+        },
+        {
+          "character": "崇祯",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "擂鼓撞钟群臣问！"
         },
         {
           "character": null,
@@ -2009,28 +2394,77 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "此檄文在龙书案上，不知从何而来。问过值殿侍臣，也奏道不知。难道说国家\n将亡，出了妖孽不成？也罢！朕自登基以来，流寇蜂起，外患频来，水灾兵祸，\n年年不息。人民不能安居，不怪文不修政，武不平乱；终怪寡人用人不当。\n十七年来，朝政日非。李闯僭号西安，大逆不道。待朕御驾亲征！"
-        },
-        {
-          "character": "李国桢",
-          "line_type": "白",
-          "musical_style": null,
-          "style_family": null,
-          "text": "万岁暂息雷霆之怒。李闯僭号西安，不过乌合之众，何劳陛下倾万乘之尊？臣\n愿领兵征讨，以安天下。"
-        },
-        {
-          "character": "李建泰",
-          "line_type": "白",
-          "musical_style": null,
-          "style_family": null,
-          "text": "襄成伯虽有忠心，怎奈山西地理不熟，势难取胜。况京畿重地，不可不防。微\n臣乃山西曲沃人氏，颇知地理。愿统兵回转曲沃，以饲饷犒军，率师征讨，以\n报我主知遇之恩。"
+          "text": "此檄文在龙书案上，不知从何而来。问过值殿侍臣，也奏道不知。难道说国家"
         },
         {
           "character": "崇祯",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "卿有此忠心，朕感激涕零。候卿行时，朕当效推辇之礼，以壮行色。\n杜勋听旨！"
+          "text": "将亡，出了妖孽不成？也罢！朕自登基以来，流寇蜂起，外患频来，水灾兵祸，"
+        },
+        {
+          "character": "崇祯",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "年年不息。人民不能安居，不怪文不修政，武不平乱；终怪寡人用人不当。"
+        },
+        {
+          "character": "崇祯",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "十七年来，朝政日非。李闯僭号西安，大逆不道。待朕御驾亲征！"
+        },
+        {
+          "character": "李国桢",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "万岁暂息雷霆之怒。李闯僭号西安，不过乌合之众，何劳陛下倾万乘之尊？臣"
+        },
+        {
+          "character": "李国桢",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "愿领兵征讨，以安天下。"
+        },
+        {
+          "character": "李建泰",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "襄成伯虽有忠心，怎奈山西地理不熟，势难取胜。况京畿重地，不可不防。微"
+        },
+        {
+          "character": "李建泰",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "臣乃山西曲沃人氏，颇知地理。愿统兵回转曲沃，以饲饷犒军，率师征讨，以"
+        },
+        {
+          "character": "李建泰",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "报我主知遇之恩。"
+        },
+        {
+          "character": "崇祯",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "卿有此忠心，朕感激涕零。候卿行时，朕当效推辇之礼，以壮行色。"
+        },
+        {
+          "character": "崇祯",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "杜勋听旨！"
         },
         {
           "character": null,
@@ -2100,7 +2534,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "曹化淳严守外城，李国桢为九门提督，严守京畿。李建泰辅助督师。但是京阁\n之事，何人代理？"
+          "text": "曹化淳严守外城，李国桢为九门提督，严守京畿。李建泰辅助督师。但是京阁"
+        },
+        {
+          "character": "崇祯",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "之事，何人代理？"
         },
         {
           "character": "李建泰",
@@ -2184,14 +2625,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "咳！百姓们虽有救国之心，怎奈他们无有多大力量。况且国家捐了他们也不止\n一次了。捐得他们筋疲力尽，自顾尚且不暇，只怕心有余而力不足了！"
+          "text": "咳！百姓们虽有救国之心，怎奈他们无有多大力量。况且国家捐了他们也不止"
+        },
+        {
+          "character": "崇祯",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "一次了。捐得他们筋疲力尽，自顾尚且不暇，只怕心有余而力不足了！"
         },
         {
           "character": "崇祯",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "富家翁只晓得鱼肉百姓，\n他把那国家事置若罔闻。"
+          "text": "富家翁只晓得鱼肉百姓，"
+        },
+        {
+          "character": "崇祯",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "他把那国家事置若罔闻。"
         },
         {
           "character": "崇祯",
@@ -2208,21 +2663,56 @@
           "text": "又何必杀万民罪在我身。"
         },
         {
-          "character": "十七年天降灾是朕命运、李国桢",
+          "character": "崇祯",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "见万岁只哭得山摇地震，\n铁石人不落泪也要伤心。\n请陛下止悲泪励治图精。"
+          "text": "十七年天降灾是朕命运"
         },
         {
-          "character": "十七年天降灾是朕命运、李国桢",
+          "character": "李国桢",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "见万岁只哭得山摇地震，"
+        },
+        {
+          "character": "李国桢",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "铁石人不落泪也要伤心。"
+        },
+        {
+          "character": "李国桢",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "请陛下止悲泪励治图精。"
+        },
+        {
+          "character": "李国桢",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "十七年天降灾是朕命运"
+        },
+        {
+          "character": "李国桢",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
           "text": "事已至此，哭也无益。请万岁以江山为重，善保龙体才是！"
         },
         {
-          "character": "圣天子本是那万民根本、范景文",
+          "character": "李国桢",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "圣天子本是那万民根本"
+        },
+        {
+          "character": "范景文",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -2275,7 +2765,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "到如今已到了山穷水尽，\n巨灵掌恐难挡洪水纵横。"
+          "text": "到如今已到了山穷水尽，"
+        },
+        {
+          "character": "崇祯",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "巨灵掌恐难挡洪水纵横。"
         },
         {
           "character": null,
@@ -2357,7 +2854,17 @@
         "singing_ratio": 0.175,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.175,
+        0.2533,
+        0.7333,
+        0.0133,
+        0.4459,
+        7,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 9,
@@ -2679,7 +3186,17 @@
         "singing_ratio": 0.179,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.179,
+        0.25,
+        0.75,
+        0.0,
+        0.6774,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 10,
@@ -2992,7 +3509,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.9655,
+        5,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 11,
@@ -3276,7 +3803,17 @@
         "singing_ratio": 0.095,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.095,
+        0.1364,
+        0.8636,
+        0.0,
+        0.5238,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 12,
@@ -3360,7 +3897,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "阉宦专权误国政，\n断送万里锦乾坤！"
+          "text": "阉宦专权误国政，"
+        },
+        {
+          "character": "李国桢",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "断送万里锦乾坤！"
         },
         {
           "character": null,
@@ -3413,7 +3957,17 @@
         "singing_ratio": 0.056,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.056,
+        0.3333,
+        0.6667,
+        0.0,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 13,
@@ -3628,7 +4182,17 @@
         "singing_ratio": 0.1,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.1,
+        0.3529,
+        0.6471,
+        0.0,
+        0.4375,
+        5,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 14,
@@ -3835,7 +4399,17 @@
         "singing_ratio": 0.294,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.294,
+        0.3333,
+        0.6667,
+        0.0,
+        0.5882,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 15,
@@ -4597,7 +5171,17 @@
           "二黄原板",
           "二黄散板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.079,
+        0.2027,
+        0.7838,
+        0.0135,
+        0.6575,
+        8,
+        0.0,
+        0.0946
+      ]
     },
     {
       "scene_index": 16,
@@ -4865,7 +5449,17 @@
         "singing_ratio": 0.15,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.15,
+        0.1905,
+        0.7619,
+        0.0476,
+        0.75,
+        6,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 17,
@@ -5176,7 +5770,17 @@
         "singing_ratio": 0.13,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.13,
+        0.2143,
+        0.7857,
+        0.0,
+        0.7407,
+        5,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 18,
@@ -5269,7 +5873,17 @@
         "singing_ratio": 0.667,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.667,
+        0.75,
+        0.25,
+        0.0,
+        0.6667,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 19,
@@ -6009,7 +6623,17 @@
         "singing_ratio": 0.2,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.2,
+        0.3571,
+        0.6429,
+        0.0,
+        0.4578,
+        5,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 20,
@@ -6560,7 +7184,17 @@
         "singing_ratio": 0.136,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.136,
+        0.2364,
+        0.7455,
+        0.0182,
+        0.7222,
+        7,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 21,
@@ -6657,7 +7291,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.25,
+        0.75,
+        0.0,
+        0.2857,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 22,
@@ -6767,7 +7411,17 @@
         "singing_ratio": 0.667,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.667,
+        0.5,
+        0.375,
+        0.125,
+        0.1429,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 23,
@@ -6995,7 +7649,17 @@
           "二黄散板",
           "二黄碰板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.273,
+        0.45,
+        0.5,
+        0.05,
+        0.0526,
+        2,
+        0.0,
+        0.45
+      ]
     }
   ]
 }

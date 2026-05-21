@@ -234,14 +234,35 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "前者攻打祝、扈二庄，那贼累次抗拒义兵，至堪痛恨。闻得时迁被擒，不知生\n死，为此点动大兵，前去攻打二庄，搭救时迁上山。\n先生，请来传令！"
+          "text": "前者攻打祝、扈二庄，那贼累次抗拒义兵，至堪痛恨。闻得时迁被擒，不知生"
+        },
+        {
+          "character": "宋江",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "死，为此点动大兵，前去攻打二庄，搭救时迁上山。"
+        },
+        {
+          "character": "宋江",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "先生，请来传令！"
         },
         {
           "character": "吴用",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "遵命。\n石秀听令！"
+          "text": "遵命。"
+        },
+        {
+          "character": "吴用",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "石秀听令！"
         },
         {
           "character": "石秀",
@@ -496,7 +517,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0278,
+        0.9444,
+        0.0278,
+        0.8857,
+        10,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -524,14 +555,35 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "豪杰生来多任性，\n诚心扶保宋公明。"
+          "text": "豪杰生来多任性，"
+        },
+        {
+          "character": "李逵",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "诚心扶保宋公明。"
         },
         {
           "character": "李逵",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "俺，黑旋风李逵。只因宋大哥带领人马下山，攻打扈家庄。众家弟兄分路攻打\n去了，就不差俺李二。啊呵有了！俺只好私自下山，倘遇机会，俺就杀他个落\n花流水。看天色尚早，就此走遭也！"
+          "text": "俺，黑旋风李逵。只因宋大哥带领人马下山，攻打扈家庄。众家弟兄分路攻打"
+        },
+        {
+          "character": "李逵",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "去了，就不差俺李二。啊呵有了！俺只好私自下山，倘遇机会，俺就杀他个落"
+        },
+        {
+          "character": "李逵",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "花流水。看天色尚早，就此走遭也！"
         },
         {
           "character": "李逵",
@@ -551,7 +603,17 @@
         "singing_ratio": 0.5,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.5,
+        0.4286,
+        0.5714,
+        0.0,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -589,7 +651,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "人马列开！\n哎呀，且住！看此庄深沟高垒，甚是严密。树木层层，好一村庄也。\n众将官，扎下营盘！"
+          "text": "人马列开！"
+        },
+        {
+          "character": "宋江",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "哎呀，且住！看此庄深沟高垒，甚是严密。树木层层，好一村庄也。"
+        },
+        {
+          "character": "宋江",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "众将官，扎下营盘！"
         },
         {
           "character": null,
@@ -618,7 +694,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.5,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 4,
@@ -673,7 +759,7 @@
           "text": "管叫他血染战袍回。"
         },
         {
-          "character": null,
+          "character": "扈三娘",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -843,7 +929,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.8333,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 5,
@@ -871,7 +967,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "俺，矮脚虎王英。奉了大哥将令，攻打扈家庄。闻得一丈青生得天姿国色，真\n是闭月羞花之貌。俺若擒住此女，也好做一个老婆，啊哈哈哈……好不快乐人\n也！\n众将官，今日出兵必须要人人奋勇、个个当先。就此前往！"
+          "text": "俺，矮脚虎王英。奉了大哥将令，攻打扈家庄。闻得一丈青生得天姿国色，真"
+        },
+        {
+          "character": "王英",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "是闭月羞花之貌。俺若擒住此女，也好做一个老婆，啊哈哈哈……好不快乐人"
+        },
+        {
+          "character": "王英",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "也！"
+        },
+        {
+          "character": "王英",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "众将官，今日出兵必须要人人奋勇、个个当先。就此前往！"
         },
         {
           "character": null,
@@ -890,7 +1007,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.8,
+        0.2,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 6,
@@ -961,7 +1088,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "一丈青，你休嫌我身量矮小，有道是：泰山高遮不住太阳，秤砣小能压千斤。\n我若战你不过，情愿与你做……"
+          "text": "一丈青，你休嫌我身量矮小，有道是：泰山高遮不住太阳，秤砣小能压千斤。"
+        },
+        {
+          "character": "王英",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我若战你不过，情愿与你做……"
         },
         {
           "character": "扈三娘",
@@ -1017,7 +1151,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "咦啊，想我战她不过，怎么她倒败了？啊呵是了！想是她心中有了我了，待俺\n紧紧地赶上。\n呔！扈三娘休走，王爷赶来了！"
+          "text": "咦啊，想我战她不过，怎么她倒败了？啊呵是了！想是她心中有了我了，待俺"
+        },
+        {
+          "character": "王英",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "紧紧地赶上。"
+        },
+        {
+          "character": "王英",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "呔！扈三娘休走，王爷赶来了！"
         },
         {
           "character": null,
@@ -1045,7 +1193,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.7273,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 7,
@@ -1070,7 +1228,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "且住！王英来的厉害。\n众女兵走上！"
+          "text": "且住！王英来的厉害。"
+        },
+        {
+          "character": "扈三娘",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "众女兵走上！"
         },
         {
           "character": null,
@@ -1237,7 +1402,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.5556,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 8,
@@ -1329,7 +1504,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 9,
@@ -1362,7 +1547,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 10,
@@ -1390,7 +1585,35 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "先生果然不寻常。\n提刀误入白虎堂。\n披星戴月投宋江。\n带领人马下山岗。\n两军阵前把名扬。"
+          "text": "先生果然不寻常。"
+        },
+        {
+          "character": "林冲",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "提刀误入白虎堂。"
+        },
+        {
+          "character": "林冲",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "披星戴月投宋江。"
+        },
+        {
+          "character": "林冲",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "带领人马下山岗。"
+        },
+        {
+          "character": "林冲",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "两军阵前把名扬。"
         },
         {
           "character": null,
@@ -1410,7 +1633,17 @@
         "singing_ratio": 1.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        1.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 11,
@@ -1434,17 +1667,59 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "旌旗飘扬战马吼，\n老爷出兵鬼神愁。\n稍若迟延一命休。"
+          "text": "旌旗飘扬战马吼，"
         },
         {
-          "character": "劝你马前卸甲胄、扈三娘",
+          "character": "林冲",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "女将威名贯九州，\n画戟能取项上头。\n管你尸骨不存留。"
+          "text": "老爷出兵鬼神愁。"
         },
         {
-          "character": "狭路相逢难罢手、林冲",
+          "character": "林冲",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "稍若迟延一命休。"
+        },
+        {
+          "character": "林冲",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "劝你马前卸甲胄"
+        },
+        {
+          "character": "扈三娘",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "女将威名贯九州，"
+        },
+        {
+          "character": "扈三娘",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "画戟能取项上头。"
+        },
+        {
+          "character": "扈三娘",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "管你尸骨不存留。"
+        },
+        {
+          "character": "扈三娘",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "狭路相逢难罢手"
+        },
+        {
+          "character": "林冲",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
@@ -1497,7 +1772,17 @@
         "singing_ratio": 1.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        1.0,
+        1.0,
+        0.0,
+        0.0,
+        0.4545,
+        2,
+        0.0,
+        0.0
+      ]
     }
   ]
 }

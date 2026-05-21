@@ -165,7 +165,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "孤，大宋天子，仁宗在位。自孤登基以来，风调雨顺，国泰民安。今当早朝。\n内臣！"
+          "text": "孤，大宋天子，仁宗在位。自孤登基以来，风调雨顺，国泰民安。今当早朝。"
+        },
+        {
+          "character": "宋仁宗",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "内臣！"
         },
         {
           "character": "四太监",
@@ -263,7 +270,21 @@
           "line_type": "西皮流水板",
           "musical_style": "西皮流水板",
           "style_family": "西皮",
-          "text": "忽听万岁宣一声，\n午门来了放粮臣。\n品级台前臣见君。"
+          "text": "忽听万岁宣一声，"
+        },
+        {
+          "character": "包拯",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "午门来了放粮臣。"
+        },
+        {
+          "character": "包拯",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "品级台前臣见君。"
         },
         {
           "character": "包拯",
@@ -273,7 +294,14 @@
           "text": "臣包拯见驾，吾皇万岁！"
         },
         {
-          "character": "撩袍端带我把龙廷进、宋仁宗",
+          "character": "包拯",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "撩袍端带我把龙廷进"
+        },
+        {
+          "character": "宋仁宗",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -319,7 +347,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "呈上来。\n哦呵呀，原来包卿之功。\n内侍，光禄寺大排御宴，与包卿贺功。"
+          "text": "呈上来。"
+        },
+        {
+          "character": "宋仁宗",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "哦呵呀，原来包卿之功。"
+        },
+        {
+          "character": "宋仁宗",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "内侍，光禄寺大排御宴，与包卿贺功。"
         },
         {
           "character": "包拯",
@@ -347,7 +389,21 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "万岁爷准了臣的本，\n可怜国太受苦情。\n暗地打动有道君。"
+          "text": "万岁爷准了臣的本，"
+        },
+        {
+          "character": "包拯",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "可怜国太受苦情。"
+        },
+        {
+          "character": "包拯",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "暗地打动有道君。"
         },
         {
           "character": null,
@@ -361,7 +417,14 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "辞别万岁下殿往，\n去到午门看端详。"
+          "text": "辞别万岁下殿往，"
+        },
+        {
+          "character": "王延龄",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "去到午门看端详。"
         },
         {
           "character": null,
@@ -375,7 +438,14 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "内侍摆驾回龙廷，\n明日早朝观花灯。"
+          "text": "内侍摆驾回龙廷，"
+        },
+        {
+          "character": "宋仁宗",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "明日早朝观花灯。"
         },
         {
           "character": null,
@@ -430,7 +500,17 @@
           "西皮摇板",
           "西皮流水板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.13,
+        0.2821,
+        0.6667,
+        0.0513,
+        0.5789,
+        4,
+        0.2564,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -490,7 +570,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "咋。列位休要吵休要闹，细听我把灯名儿报一报。报的是：一团和气灯、和合\n二仙灯、三阳开泰灯、四季平安灯、五子夺魁灯、六国封相灯、七财子路灯、\n八仙过海灯、九子十成灯、十面埋伏灯。这个灯，不算灯，那旁来了一套灯。\n若问此灯什么名，昭君打马过雁门。"
+          "text": "咋。列位休要吵休要闹，细听我把灯名儿报一报。报的是：一团和气灯、和合"
+        },
+        {
+          "character": "灯官",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "二仙灯、三阳开泰灯、四季平安灯、五子夺魁灯、六国封相灯、七财子路灯、"
+        },
+        {
+          "character": "灯官",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "八仙过海灯、九子十成灯、十面埋伏灯。这个灯，不算灯，那旁来了一套灯。"
+        },
+        {
+          "character": "灯官",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "若问此灯什么名，昭君打马过雁门。"
         },
         {
           "character": null,
@@ -518,7 +619,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "灯来了。看罢了一套又一套，那旁花灯又来到。亲父母，也要孝，晚父母，也\n要孝。为人双亲若不孝，清风亭雷打张继宝。"
+          "text": "灯来了。看罢了一套又一套，那旁花灯又来到。亲父母，也要孝，晚父母，也"
+        },
+        {
+          "character": "灯官",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "要孝。为人双亲若不孝，清风亭雷打张继宝。"
         },
         {
           "character": null,
@@ -532,7 +640,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "哎呀！胆大的灯官，扮这样不忠不孝的灯。\n校尉，将扮灯官拿下。"
+          "text": "哎呀！胆大的灯官，扮这样不忠不孝的灯。"
+        },
+        {
+          "character": "宋仁宗",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "校尉，将扮灯官拿下。"
         },
         {
           "character": "包拯",
@@ -595,7 +710,21 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "听罢言来怒气生，\n藐视寡人为何情？\n内侍摆驾回龙廷。"
+          "text": "听罢言来怒气生，"
+        },
+        {
+          "character": "宋仁宗",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "藐视寡人为何情？"
+        },
+        {
+          "character": "宋仁宗",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "内侍摆驾回龙廷。"
         },
         {
           "character": null,
@@ -609,21 +738,56 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "回头埋怨小包文。\n为什么扮灯藐视君？"
+          "text": "回头埋怨小包文。"
         },
         {
-          "character": "有本就该当殿奏、包拯",
+          "character": "王延龄",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "为什么扮灯藐视君？"
+        },
+        {
+          "character": "王延龄",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "有本就该当殿奏"
+        },
+        {
+          "character": "包拯",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
           "text": "恩师啊！"
         },
         {
-          "character": "有本就该当殿奏、包拯",
+          "character": "包拯",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "有本就该当殿奏"
+        },
+        {
+          "character": "包拯",
           "line_type": "西皮快板",
           "musical_style": "西皮快板",
           "style_family": "西皮",
-          "text": "老恩师休要胆怕惊，\n学生言来听分明。\n怕死焉能作忠臣。"
+          "text": "老恩师休要胆怕惊，"
+        },
+        {
+          "character": "包拯",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "学生言来听分明。"
+        },
+        {
+          "character": "包拯",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "怕死焉能作忠臣。"
         },
         {
           "character": null,
@@ -672,7 +836,17 @@
           "西皮快板",
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.059,
+        0.2812,
+        0.6875,
+        0.0312,
+        0.4194,
+        4,
+        0.2812,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -1243,7 +1417,17 @@
           "西皮摇板",
           "西皮流水板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.2,
+        0.2143,
+        0.75,
+        0.0357,
+        0.8,
+        7,
+        0.2143,
+        0.0
+      ]
     },
     {
       "scene_index": 4,
@@ -1272,10 +1456,52 @@
           "line_type": "西皮慢板",
           "musical_style": "西皮慢板",
           "style_family": "西皮",
-          "text": "御街上来了我讨饭人。\n二十载冤仇报得清。\n看不见汴梁城文武公卿。\n耳边厢又听得接驾声音。"
+          "text": "御街上来了我讨饭人。"
         },
         {
-          "character": "赵州桥前遇包拯、眼不明观不见花花美景、叫皇儿搀为娘忙下车轮、王延龄",
+          "character": "李后",
+          "line_type": "西皮慢板",
+          "musical_style": "西皮慢板",
+          "style_family": "西皮",
+          "text": "二十载冤仇报得清。"
+        },
+        {
+          "character": "李后",
+          "line_type": "西皮慢板",
+          "musical_style": "西皮慢板",
+          "style_family": "西皮",
+          "text": "看不见汴梁城文武公卿。"
+        },
+        {
+          "character": "李后",
+          "line_type": "西皮慢板",
+          "musical_style": "西皮慢板",
+          "style_family": "西皮",
+          "text": "耳边厢又听得接驾声音。"
+        },
+        {
+          "character": "李后",
+          "line_type": "西皮慢板",
+          "musical_style": "西皮慢板",
+          "style_family": "西皮",
+          "text": "赵州桥前遇包拯"
+        },
+        {
+          "character": "李后",
+          "line_type": "西皮慢板",
+          "musical_style": "西皮慢板",
+          "style_family": "西皮",
+          "text": "眼不明观不见花花美景"
+        },
+        {
+          "character": "李后",
+          "line_type": "西皮慢板",
+          "musical_style": "西皮慢板",
+          "style_family": "西皮",
+          "text": "叫皇儿搀为娘忙下车轮"
+        },
+        {
+          "character": "王延龄",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -1328,7 +1554,14 @@
           "line_type": "西皮慢板",
           "musical_style": "西皮慢板",
           "style_family": "西皮",
-          "text": "你是哀家活命恩人。\n将你官职往上升。"
+          "text": "你是哀家活命恩人。"
+        },
+        {
+          "character": "李后",
+          "line_type": "西皮慢板",
+          "musical_style": "西皮慢板",
+          "style_family": "西皮",
+          "text": "将你官职往上升。"
         },
         {
           "character": null,
@@ -1444,7 +1677,17 @@
         "musical_styles": [
           "西皮慢板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.333,
+        0.5714,
+        0.4286,
+        0.0,
+        0.55,
+        6,
+        0.5714,
+        0.0
+      ]
     },
     {
       "scene_index": 5,
@@ -1565,7 +1808,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.7143,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 6,
@@ -1702,7 +1955,63 @@
           "line_type": "西皮流水板",
           "musical_style": "西皮流水板",
           "style_family": "西皮",
-          "text": "一见皇儿跪埃尘，\n开言大骂无道的君。\n刘妃、郭槐他起下狠毒心。\n他倒说为娘我产生妖精。\n将为娘我推出了那午门以外问斩刑。\n将为娘我打至在那寒宫冷院不能去见君。\n约定了八月十五火焚冷宫庭。\n险些儿斩坏了那架海金梁擎天柱一根。\n不由得哀家动无名。"
+          "text": "一见皇儿跪埃尘，"
+        },
+        {
+          "character": "李后",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "开言大骂无道的君。"
+        },
+        {
+          "character": "李后",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "刘妃、郭槐他起下狠毒心。"
+        },
+        {
+          "character": "李后",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "他倒说为娘我产生妖精。"
+        },
+        {
+          "character": "李后",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "将为娘我推出了那午门以外问斩刑。"
+        },
+        {
+          "character": "李后",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "将为娘我打至在那寒宫冷院不能去见君。"
+        },
+        {
+          "character": "李后",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "约定了八月十五火焚冷宫庭。"
+        },
+        {
+          "character": "李后",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "险些儿斩坏了那架海金梁擎天柱一根。"
+        },
+        {
+          "character": "李后",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "不由得哀家动无名。"
         },
         {
           "character": "李后",
@@ -1712,7 +2021,63 @@
           "text": "包卿！"
         },
         {
-          "character": "二十年前娘有孕、金丝狸猫来剥定、老皇爷一见怒气生、多亏了满朝文武来保本、一计不成二计生、若不是老陈琳他记得正、我越思越想心头恨、内侍看过紫金棍、包拯",
+          "character": "李后",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "二十年前娘有孕"
+        },
+        {
+          "character": "李后",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "金丝狸猫来剥定"
+        },
+        {
+          "character": "李后",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "老皇爷一见怒气生"
+        },
+        {
+          "character": "李后",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "多亏了满朝文武来保本"
+        },
+        {
+          "character": "李后",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "一计不成二计生"
+        },
+        {
+          "character": "李后",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "若不是老陈琳他记得正"
+        },
+        {
+          "character": "李后",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我越思越想心头恨"
+        },
+        {
+          "character": "李后",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "内侍看过紫金棍"
+        },
+        {
+          "character": "包拯",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -1737,7 +2102,28 @@
           "line_type": "西皮流水板",
           "musical_style": "西皮流水板",
           "style_family": "西皮",
-          "text": "在金殿领了国太命，\n背转身来自思忖。\n哪有臣子敢打圣明君？\n俺包拯打龙袍有如臣打君。"
+          "text": "在金殿领了国太命，"
+        },
+        {
+          "character": "包拯",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "背转身来自思忖。"
+        },
+        {
+          "character": "包拯",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "哪有臣子敢打圣明君？"
+        },
+        {
+          "character": "包拯",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "俺包拯打龙袍有如臣打君。"
         },
         {
           "character": null,
@@ -1751,7 +2137,14 @@
           "line_type": "西皮流水板",
           "musical_style": "西皮流水板",
           "style_family": "西皮",
-          "text": "好一个聪明小包拯，\n打龙袍如同臣打君。"
+          "text": "好一个聪明小包拯，"
+        },
+        {
+          "character": "李后",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "打龙袍如同臣打君。"
         },
         {
           "character": null,
@@ -1807,10 +2200,31 @@
           "line_type": "西皮流水板",
           "musical_style": "西皮流水板",
           "style_family": "西皮",
-          "text": "再赐你尚方剑一根。\n满朝文武任你行。"
+          "text": "再赐你尚方剑一根。"
         },
         {
-          "character": "三宫六院你管定、倘若是皇儿不从命、宋仁宗",
+          "character": "李后",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "满朝文武任你行。"
+        },
+        {
+          "character": "李后",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "三宫六院你管定"
+        },
+        {
+          "character": "李后",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "倘若是皇儿不从命"
+        },
+        {
+          "character": "宋仁宗",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -1849,10 +2263,52 @@
           "line_type": "西皮流水板",
           "musical_style": "西皮流水板",
           "style_family": "西皮",
-          "text": "龙国太待我好恩情。\n还有那尚方剑一根。\n那五府六部任我行。\n押定了满朝文武大小官员公子王孙，哪一个不遵，要照剑施行。"
+          "text": "龙国太待我好恩情。"
         },
         {
-          "character": "金殿赐我金档翅、三宫六院任我管、哪一家馋臣他不遵我的命、李后",
+          "character": "包拯",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "还有那尚方剑一根。"
+        },
+        {
+          "character": "包拯",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "那五府六部任我行。"
+        },
+        {
+          "character": "包拯",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "押定了满朝文武大小官员公子王孙，哪一个不遵，要照剑施行。"
+        },
+        {
+          "character": "包拯",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "金殿赐我金档翅"
+        },
+        {
+          "character": "包拯",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "三宫六院任我管"
+        },
+        {
+          "character": "包拯",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "哪一家馋臣他不遵我的命"
+        },
+        {
+          "character": "李后",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -1910,7 +2366,17 @@
           "西皮流水",
           "西皮流水板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.312,
+        0.5254,
+        0.4746,
+        0.0,
+        0.3103,
+        5,
+        0.5254,
+        0.0
+      ]
     }
   ]
 }

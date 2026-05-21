@@ -256,7 +256,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.6667,
+        0.3333,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -298,7 +308,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "老夫、蔡京。大宋重和天子驾前为臣，蒙君宠爱，倚畀甚殷，位列三公之首，\n职司枢密权衡。正是："
+          "text": "老夫、蔡京。大宋重和天子驾前为臣，蒙君宠爱，倚畀甚殷，位列三公之首，"
+        },
+        {
+          "character": "蔡京",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "职司枢密权衡。正是："
         },
         {
           "character": "蔡京",
@@ -361,7 +378,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "候着。\n启禀太师：梁中书差人有告急之事，求见太师。"
+          "text": "候着。"
+        },
+        {
+          "character": "院子甲",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "启禀太师：梁中书差人有告急之事，求见太师。"
         },
         {
           "character": "蔡京",
@@ -375,14 +399,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "是。\n太师唤你进来。"
+          "text": "是。"
+        },
+        {
+          "character": "院子甲",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "太师唤你进来。"
         },
         {
           "character": "王定",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "是。\n参见太师！"
+          "text": "是。"
+        },
+        {
+          "character": "王定",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "参见太师！"
         },
         {
           "character": null,
@@ -473,7 +511,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "看罢来书心惊战，\n咬牙切齿骂梁山。"
+          "text": "看罢来书心惊战，"
+        },
+        {
+          "character": "蔡京",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "咬牙切齿骂梁山。"
         },
         {
           "character": "蔡京",
@@ -487,7 +532,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "大名危如石垒卵，\n快请枢密众院官。"
+          "text": "大名危如石垒卵，"
+        },
+        {
+          "character": "蔡京",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "快请枢密众院官。"
         },
         {
           "character": "蔡京",
@@ -543,7 +595,28 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "宋江屡次来造反，\n对敌将官数千员。\n也有背叛降梁山。\n怕是大名玉石残。"
+          "text": "宋江屡次来造反，"
+        },
+        {
+          "character": "蔡京",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "对敌将官数千员。"
+        },
+        {
+          "character": "蔡京",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "也有背叛降梁山。"
+        },
+        {
+          "character": "蔡京",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "怕是大名玉石残。"
         },
         {
           "character": null,
@@ -557,21 +630,42 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "忽闻太师忙传唤，\n高俅会同文武官。"
+          "text": "忽闻太师忙传唤，"
+        },
+        {
+          "character": "高俅",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "高俅会同文武官。"
         },
         {
           "character": "杨戬",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "枢密院使名杨戬，\n执掌天下军机权。"
+          "text": "枢密院使名杨戬，"
+        },
+        {
+          "character": "杨戬",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "执掌天下军机权。"
         },
         {
           "character": "童贯",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "东厅太尉名童贯，\n内廷行走有数年。"
+          "text": "东厅太尉名童贯，"
+        },
+        {
+          "character": "童贯",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "内廷行走有数年。"
         },
         {
           "character": "宣赞",
@@ -613,7 +707,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "梁山宋江攻打大名甚急，刻下危如累卵，破在旦夕，如今将何计策，用何良将，\n可退贼兵，以保城郭？"
+          "text": "梁山宋江攻打大名甚急，刻下危如累卵，破在旦夕，如今将何计策，用何良将，"
+        },
+        {
+          "character": "蔡京",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "可退贼兵，以保城郭？"
         },
         {
           "character": null,
@@ -669,14 +770,35 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "现做蒲东巡检，屈在下僚。此人幼读兵书，深通武艺，有万夫不当之勇。若以\n礼币请他，拜为上将，可以扫清水泊，殄灭狂徒。小将当初与他相识，乞请钧\n旨，宣赞愿往蒲东为使。"
+          "text": "现做蒲东巡检，屈在下僚。此人幼读兵书，深通武艺，有万夫不当之勇。若以"
+        },
+        {
+          "character": "宣赞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "礼币请他，拜为上将，可以扫清水泊，殄灭狂徒。小将当初与他相识，乞请钧"
+        },
+        {
+          "character": "宣赞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "旨，宣赞愿往蒲东为使。"
         },
         {
           "character": "蔡京",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "好，准备彩币、鞍马，就命将军为使去请关胜。待老夫修起文书。\n来，溶墨伺候！"
+          "text": "好，准备彩币、鞍马，就命将军为使去请关胜。待老夫修起文书。"
+        },
+        {
+          "character": "蔡京",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来，溶墨伺候！"
         },
         {
           "character": "院子乙",
@@ -697,7 +819,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "白虎节堂把将荐，\n举荐关胜扫梁山。"
+          "text": "白虎节堂把将荐，"
+        },
+        {
+          "character": "蔡京",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "举荐关胜扫梁山。"
         },
         {
           "character": null,
@@ -845,7 +974,17 @@
         "singing_ratio": 0.227,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.227,
+        0.3333,
+        0.625,
+        0.0417,
+        0.5211,
+        10,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -867,14 +1006,35 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "生得面如锅底样，\n彪形八尺武艺强。"
+          "text": "生得面如锅底样，"
+        },
+        {
+          "character": "宣赞",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "彪形八尺武艺强。"
         },
         {
           "character": "宣赞",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "俺、姓宣名赞，人称丑郡马。官居兵马保义使。今奉太师钧命，前往蒲东礼请\n关胜，赴京议论军情重事。\n车夫们，趱行者！"
+          "text": "俺、姓宣名赞，人称丑郡马。官居兵马保义使。今奉太师钧命，前往蒲东礼请"
+        },
+        {
+          "character": "宣赞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "关胜，赴京议论军情重事。"
+        },
+        {
+          "character": "宣赞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "车夫们，趱行者！"
         },
         {
           "character": "四车夫",
@@ -888,7 +1048,21 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "赍了文书与彩币，\n备得鞍马紫丝缰。\n巡检司内请栋梁。"
+          "text": "赍了文书与彩币，"
+        },
+        {
+          "character": "宣赞",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "备得鞍马紫丝缰。"
+        },
+        {
+          "character": "宣赞",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "巡检司内请栋梁。"
         },
         {
           "character": null,
@@ -917,7 +1091,17 @@
         "singing_ratio": 0.667,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.667,
+        0.5556,
+        0.4444,
+        0.0,
+        0.25,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 4,
@@ -961,7 +1145,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "某、关胜。乃蒲东人氏。幼读兵书，深通武艺，职司巡检。结拜义弟郝思文，\n此人颇有勇敢，我二人常谕古今兴废之事。目下，梁山草寇搅乱天下，屡陷州\n郡，朝廷不能克服，某关胜有意效命疆场，扫除逆贼，也好显姓扬名。只恨屈\n沉在此，无人荐拔。正是："
+          "text": "某、关胜。乃蒲东人氏。幼读兵书，深通武艺，职司巡检。结拜义弟郝思文，"
+        },
+        {
+          "character": "关胜",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "此人颇有勇敢，我二人常谕古今兴废之事。目下，梁山草寇搅乱天下，屡陷州"
+        },
+        {
+          "character": "关胜",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "郡，朝廷不能克服，某关胜有意效命疆场，扫除逆贼，也好显姓扬名。只恨屈"
+        },
+        {
+          "character": "关胜",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "沉在此，无人荐拔。正是："
         },
         {
           "character": "关胜",
@@ -1206,7 +1411,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "只因梁山草寇攻打大名，宣某在蔡太师面前一力保举兄长有安邦定国之策，降\n兵斩将之才，特奉朝廷勅旨，太师钧命，彩币鞍马，礼请起行，兄长勿得推却。"
+          "text": "只因梁山草寇攻打大名，宣某在蔡太师面前一力保举兄长有安邦定国之策，降"
+        },
+        {
+          "character": "宣赞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "兵斩将之才，特奉朝廷勅旨，太师钧命，彩币鞍马，礼请起行，兄长勿得推却。"
         },
         {
           "character": null,
@@ -1241,7 +1453,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "宣弟不知，关某久有意效命疆场，肃清水泊，只是未得大用。今感宣弟保举，\n太师相召，今日此去，定当协力报国。"
+          "text": "宣弟不知，关某久有意效命疆场，肃清水泊，只是未得大用。今感宣弟保举，"
+        },
+        {
+          "character": "关胜",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "太师相召，今日此去，定当协力报国。"
         },
         {
           "character": "宣赞",
@@ -1325,7 +1544,35 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "英雄屈沉在此间，\n好似蛟龙困沙滩。\n职司巡检有数年。\n保举关某掌兵权。\n我定要活捉宋江，肃清水泊，灭梁山。"
+          "text": "英雄屈沉在此间，"
+        },
+        {
+          "character": "关胜",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "好似蛟龙困沙滩。"
+        },
+        {
+          "character": "关胜",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "职司巡检有数年。"
+        },
+        {
+          "character": "关胜",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "保举关某掌兵权。"
+        },
+        {
+          "character": "关胜",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我定要活捉宋江，肃清水泊，灭梁山。"
         },
         {
           "character": null,
@@ -1393,7 +1640,17 @@
         "singing_ratio": 0.023,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.023,
+        0.1186,
+        0.8305,
+        0.0508,
+        0.6897,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 5,
@@ -1419,7 +1676,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "执掌权衡立朝纲，\n曾命宣赞请栋梁。"
+          "text": "执掌权衡立朝纲，"
+        },
+        {
+          "character": "蔡京",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "曾命宣赞请栋梁。"
         },
         {
           "character": null,
@@ -1447,7 +1711,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "星夜请来关胜将，\n见了太师报端详。"
+          "text": "星夜请来关胜将，"
+        },
+        {
+          "character": "宣赞",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "见了太师报端详。"
         },
         {
           "character": null,
@@ -1489,7 +1760,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "遵命。\n太师吩咐节堂相见！"
+          "text": "遵命。"
+        },
+        {
+          "character": "宣赞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "太师吩咐节堂相见！"
         },
         {
           "character": "关胜",
@@ -1601,7 +1879,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "启禀太师：还有一人姓郝名思文，十八般武艺无有不能，今随同到此，请太师\n录用。"
+          "text": "启禀太师：还有一人姓郝名思文，十八般武艺无有不能，今随同到此，请太师"
+        },
+        {
+          "character": "宣赞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "录用。"
         },
         {
           "character": "蔡京",
@@ -1615,7 +1900,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "遵命。\n思文贤弟快来。"
+          "text": "遵命。"
+        },
+        {
+          "character": "宣赞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "思文贤弟快来。"
         },
         {
           "character": "郝思文",
@@ -1727,14 +2019,35 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "久闻草寇占住水洼，惊群动众；今擅离巢穴，自取其祸。若救大名，虚耗人力。\n乞请精兵数万，先取梁山，后拿贼寇，教他首尾不能相顾，乃围魏救赵之计\n也。"
+          "text": "久闻草寇占住水洼，惊群动众；今擅离巢穴，自取其祸。若救大名，虚耗人力。"
+        },
+        {
+          "character": "关胜",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "乞请精兵数万，先取梁山，后拿贼寇，教他首尾不能相顾，乃围魏救赵之计"
+        },
+        {
+          "character": "关胜",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "也。"
         },
         {
           "character": "蔡京",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "此计正合吾意。\n高太尉！"
+          "text": "此计正合吾意。"
+        },
+        {
+          "character": "蔡京",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "高太尉！"
         },
         {
           "character": "高俅",
@@ -1895,7 +2208,17 @@
         "singing_ratio": 0.059,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.059,
+        0.082,
+        0.8525,
+        0.0656,
+        0.7667,
+        7,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 6,
@@ -1923,7 +2246,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "俺、神行太保戴宗。今有蔡京搬请蒲东大刀关胜，领兵攻打水泊，寨中头领主\n张不定，为此飞奔大名，报与大哥知道便了。"
+          "text": "俺、神行太保戴宗。今有蔡京搬请蒲东大刀关胜，领兵攻打水泊，寨中头领主"
+        },
+        {
+          "character": "戴宗",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "张不定，为此飞奔大名，报与大哥知道便了。"
         },
         {
           "character": null,
@@ -1943,7 +2273,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 7,
@@ -1967,7 +2307,21 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "统领兵将困大名，\n要与索超见输赢。\n怕是寨中少能人。"
+          "text": "统领兵将困大名，"
+        },
+        {
+          "character": "宋江",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "要与索超见输赢。"
+        },
+        {
+          "character": "宋江",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "怕是寨中少能人。"
         },
         {
           "character": null,
@@ -1981,7 +2335,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "卸去甲马大营进，\n见了大哥报军情。"
+          "text": "卸去甲马大营进，"
+        },
+        {
+          "character": "戴宗",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "见了大哥报军情。"
         },
         {
           "character": "戴宗",
@@ -2002,7 +2363,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "谢坐。\n军师！"
+          "text": "谢坐。"
+        },
+        {
+          "character": "戴宗",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "军师！"
         },
         {
           "character": "吴用",
@@ -2023,7 +2391,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "今有蔡京搬请蒲东大刀关胜，领兵攻打水泊，寨中头领主张不定，请兄长、军\n师早早收兵回去，以解梁山之难！"
+          "text": "今有蔡京搬请蒲东大刀关胜，领兵攻打水泊，寨中头领主张不定，请兄长、军"
+        },
+        {
+          "character": "戴宗",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "师早早收兵回去，以解梁山之难！"
         },
         {
           "character": "宋江",
@@ -2051,14 +2426,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "先叫扈三娘迎敌关胜，留下军马在飞虎峪左右埋伏，城中知道我等退兵，必然\n追赶，若不如此，我军不战先乱矣！"
+          "text": "先叫扈三娘迎敌关胜，留下军马在飞虎峪左右埋伏，城中知道我等退兵，必然"
+        },
+        {
+          "character": "吴用",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "追赶，若不如此，我军不战先乱矣！"
         },
         {
           "character": "宋江",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "言之有理。\n戴宗！"
+          "text": "言之有理。"
+        },
+        {
+          "character": "宋江",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "戴宗！"
         },
         {
           "character": "戴宗",
@@ -2226,7 +2615,17 @@
         "singing_ratio": 0.087,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.087,
+        0.1562,
+        0.7812,
+        0.0625,
+        0.6452,
+        5,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 8,
@@ -2361,7 +2760,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "本帅、关胜。今奉太师之命，授与兵马指挥使，领兵一万五千，剿灭梁山草寇。\n闻得宋江攻打大名，山寨空虚，趁此机会，先取贼的巢穴，断其归路，宋江\n可擒也。\n宣、郝二将！"
+          "text": "本帅、关胜。今奉太师之命，授与兵马指挥使，领兵一万五千，剿灭梁山草寇。"
+        },
+        {
+          "character": "关胜",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "闻得宋江攻打大名，山寨空虚，趁此机会，先取贼的巢穴，断其归路，宋江"
+        },
+        {
+          "character": "关胜",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "可擒也。"
+        },
+        {
+          "character": "关胜",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "宣、郝二将！"
         },
         {
           "character": "宣赞、郝思文",
@@ -2396,7 +2816,14 @@
           "line_type": "同白",
           "musical_style": null,
           "style_family": null,
-          "text": "得令！\n众将官！"
+          "text": "得令！"
+        },
+        {
+          "character": "宣赞、郝思文",
+          "line_type": "同白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "众将官！"
         }
       ],
       "interactions": [
@@ -2435,7 +2862,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0417,
+        0.8333,
+        0.125,
+        0.7826,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 9,
@@ -2504,7 +2941,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.6667,
+        0.3333,
+        0.5,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 10,
@@ -2667,7 +3114,17 @@
         "singing_ratio": 0.077,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.077,
+        0.25,
+        0.75,
+        0.0,
+        0.7333,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 11,
@@ -2842,7 +3299,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.9286,
+        0.0714,
+        0.7692,
+        5,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 12,
@@ -3301,7 +3768,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.881,
+        0.119,
+        0.878,
+        5,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 13,
@@ -3602,7 +4079,17 @@
         "singing_ratio": 0.158,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.158,
+        0.2593,
+        0.6296,
+        0.1111,
+        0.4615,
+        5,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 14,
@@ -3889,7 +4376,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.8636,
+        0.1364,
+        0.6667,
+        5,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 15,
@@ -4142,7 +4639,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.8947,
+        0.1053,
+        0.7222,
+        6,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 16,
@@ -4278,7 +4785,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.8889,
+        0.1111,
+        0.875,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 17,
@@ -4301,7 +4818,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 18,
@@ -4324,7 +4851,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 19,
@@ -4378,7 +4915,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 20,
@@ -4432,7 +4979,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 21,
@@ -4504,7 +5061,17 @@
         "singing_ratio": 0.667,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.667,
+        0.75,
+        0.25,
+        0.0,
+        0.6667,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 22,
@@ -4576,7 +5143,17 @@
         "singing_ratio": 0.75,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.75,
+        0.75,
+        0.25,
+        0.0,
+        1.0,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 23,
@@ -4648,7 +5225,17 @@
         "singing_ratio": 0.75,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.75,
+        0.75,
+        0.25,
+        0.0,
+        1.0,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 24,
@@ -4671,7 +5258,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 25,
@@ -4860,7 +5457,17 @@
         "singing_ratio": 0.214,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.214,
+        0.2667,
+        0.7333,
+        0.0,
+        0.7143,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 26,
@@ -5037,7 +5644,17 @@
         "singing_ratio": 0.7,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.7,
+        0.7692,
+        0.2308,
+        0.0,
+        0.6667,
+        2,
+        0.0,
+        0.0
+      ]
     }
   ]
 }

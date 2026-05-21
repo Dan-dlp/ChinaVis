@@ -200,7 +200,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "老夫，诸葛亮。北伐中原，奉命还朝。兵撤祁山，增灶而退。可恨司马懿带兵\n随后追赶。曾命姜维等前去截杀，料可获胜。且候回令。"
+          "text": "老夫，诸葛亮。北伐中原，奉命还朝。兵撤祁山，增灶而退。可恨司马懿带兵"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "随后追赶。曾命姜维等前去截杀，料可获胜。且候回令。"
         },
         {
           "character": null,
@@ -321,7 +328,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0667,
+        0.8667,
+        0.0667,
+        0.7857,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -370,7 +387,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "孤，刘禅。立帝成都。父王晏驾白帝城，众卿辅孤继位。只因诸葛丞相兵出祁\n山，征伐中原。前者群臣奏道：“相父兵屯箕谷，有称帝之意。”曾下旨召他\n全军回朝，未见交旨。"
+          "text": "孤，刘禅。立帝成都。父王晏驾白帝城，众卿辅孤继位。只因诸葛丞相兵出祁"
+        },
+        {
+          "character": "刘禅",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "山，征伐中原。前者群臣奏道：“相父兵屯箕谷，有称帝之意。”曾下旨召他"
+        },
+        {
+          "character": "刘禅",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "全军回朝，未见交旨。"
         },
         {
           "character": null,
@@ -412,7 +443,14 @@
           "line_type": "同白",
           "musical_style": null,
           "style_family": null,
-          "text": "领旨！\n主公有旨：“宣诸葛丞相上殿。”"
+          "text": "领旨！"
+        },
+        {
+          "character": "蒋琬、费袆",
+          "line_type": "同白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "主公有旨：“宣诸葛丞相上殿。”"
         },
         {
           "character": "诸葛亮",
@@ -531,38 +569,234 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "相父言如金石星明月朗，\n问得孤自沉吟满面惭惶。\n平南蛮又扫北扶保孤王。\n食同餐行相伴国事相商。\n朕不舍年迈人亲临战场，力竭神伤！"
+          "text": "相父言如金石星明月朗，"
         },
         {
-          "character": "父晏驾军国事全仗丞相、久不见老相父朝思暮想、今回朝享清福富贵安享、诸葛亮",
+          "character": "刘禅",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "问得孤自沉吟满面惭惶。"
+        },
+        {
+          "character": "刘禅",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "平南蛮又扫北扶保孤王。"
+        },
+        {
+          "character": "刘禅",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "食同餐行相伴国事相商。"
+        },
+        {
+          "character": "刘禅",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "朕不舍年迈人亲临战场，力竭神伤！"
+        },
+        {
+          "character": "刘禅",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "父晏驾军国事全仗丞相"
+        },
+        {
+          "character": "刘禅",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "久不见老相父朝思暮想"
+        },
+        {
+          "character": "刘禅",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "今回朝享清福富贵安享"
+        },
+        {
+          "character": "诸葛亮",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
           "text": "陛下！"
         },
         {
-          "character": "父晏驾军国事全仗丞相、久不见老相父朝思暮想、今回朝享清福富贵安享、诸葛亮",
+          "character": "诸葛亮",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "父晏驾军国事全仗丞相"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "久不见老相父朝思暮想"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "今回朝享清福富贵安享"
+        },
+        {
+          "character": "诸葛亮",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "三顾恩铭肺腑时刻难忘，\n臣怎能怀异志辜负先王！\n东西战南北剿保定家邦。\n又请旨伐中原报答先王。\n王降旨召臣回所为哪桩？\n这一片竭诚心，兴王霸业定国安邦，可对上苍！"
+          "text": "三顾恩铭肺腑时刻难忘，"
         },
         {
-          "character": "用火攻烧藤甲兵亡马丧、这几件些小功可对主上、秉忠心尽劳瘁曹魏扫荡、臣不是前朝的篡位王莽、刘禅",
+          "character": "诸葛亮",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "臣怎能怀异志辜负先王！"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "东西战南北剿保定家邦。"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "又请旨伐中原报答先王。"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "王降旨召臣回所为哪桩？"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "这一片竭诚心，兴王霸业定国安邦，可对上苍！"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "用火攻烧藤甲兵亡马丧"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "这几件些小功可对主上"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "秉忠心尽劳瘁曹魏扫荡"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "臣不是前朝的篡位王莽"
+        },
+        {
+          "character": "刘禅",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
           "text": "呀！"
         },
         {
-          "character": "用火攻烧藤甲兵亡马丧、这几件些小功可对主上、秉忠心尽劳瘁曹魏扫荡、臣不是前朝的篡位王莽、刘禅",
+          "character": "刘禅",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "用火攻烧藤甲兵亡马丧"
+        },
+        {
+          "character": "刘禅",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "这几件些小功可对主上"
+        },
+        {
+          "character": "刘禅",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "秉忠心尽劳瘁曹魏扫荡"
+        },
+        {
+          "character": "刘禅",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "臣不是前朝的篡位王莽"
+        },
+        {
+          "character": "刘禅",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "孤自恨听谗言无有度量，\n错疑了老相父为国忠良！"
+          "text": "孤自恨听谗言无有度量，"
         },
         {
-          "character": "用火攻烧藤甲兵亡马丧、这几件些小功可对主上、秉忠心尽劳瘁曹魏扫荡、臣不是前朝的篡位王莽、刘禅",
+          "character": "刘禅",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "错疑了老相父为国忠良！"
+        },
+        {
+          "character": "刘禅",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "用火攻烧藤甲兵亡马丧"
+        },
+        {
+          "character": "刘禅",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "这几件些小功可对主上"
+        },
+        {
+          "character": "刘禅",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "秉忠心尽劳瘁曹魏扫荡"
+        },
+        {
+          "character": "刘禅",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "臣不是前朝的篡位王莽"
+        },
+        {
+          "character": "刘禅",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -573,7 +807,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "龙心宽放。\n蒋、费二公！"
+          "text": "龙心宽放。"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "蒋、费二公！"
         },
         {
           "character": "蒋琬、费袆",
@@ -636,10 +877,59 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "魏曹睿虽然是兵多将广，\n我国兵破数关虎赶群羊。\n扫烟尘归一统国祚无疆。\n错过了此机会枉费心肠。\n不收服空费了数载风霜，请我主仔细参详！"
+          "text": "魏曹睿虽然是兵多将广，"
         },
         {
-          "character": "指日里取长安陛下执掌、倚仗着得胜兵臣要复往、臣回朝司马懿必起风浪、刘禅",
+          "character": "诸葛亮",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我国兵破数关虎赶群羊。"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "扫烟尘归一统国祚无疆。"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "错过了此机会枉费心肠。"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "不收服空费了数载风霜，请我主仔细参详！"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "指日里取长安陛下执掌"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "倚仗着得胜兵臣要复往"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "臣回朝司马懿必起风浪"
+        },
+        {
+          "character": "刘禅",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -706,7 +996,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "便宜了他！\n启陛下：请将妄奏的宦官诛戮，其余废出宫外。"
+          "text": "便宜了他！"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "启陛下：请将妄奏的宦官诛戮，其余废出宫外。"
         },
         {
           "character": "刘禅",
@@ -720,7 +1017,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "领旨！\n蒋、费二公！"
+          "text": "领旨！"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "蒋、费二公！"
         },
         {
           "character": "蒋琬、费袆",
@@ -769,10 +1073,24 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "出祁山取中原多感丞相，\n为社稷不辞劳饱受风霜。"
+          "text": "出祁山取中原多感丞相，"
         },
         {
-          "character": "狼烟尽奏凯归富贵同享、诸葛亮",
+          "character": "刘禅",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "为社稷不辞劳饱受风霜。"
+        },
+        {
+          "character": "刘禅",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "狼烟尽奏凯归富贵同享"
+        },
+        {
+          "character": "诸葛亮",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -839,7 +1157,17 @@
         "singing_ratio": 0.022,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.022,
+        0.3776,
+        0.5714,
+        0.051,
+        0.4433,
+        5,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -916,7 +1244,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 4,
@@ -956,7 +1294,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.5,
+        0.5,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 5,
@@ -997,7 +1345,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "本督，司马懿。多亏苟安散布流言，孔明全军撤回成都。我料他必然再出祁山。\n主公命我领兵御敌。为此大会各路兵将，共议破蜀之策。曾命探子打探，未\n见回报！"
+          "text": "本督，司马懿。多亏苟安散布流言，孔明全军撤回成都。我料他必然再出祁山。"
+        },
+        {
+          "character": "司马懿",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "主公命我领兵御敌。为此大会各路兵将，共议破蜀之策。曾命探子打探，未"
+        },
+        {
+          "character": "司马懿",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "见回报！"
         },
         {
           "character": "报子",
@@ -1130,7 +1492,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "郭淮。\n都督有令，一同进帐。参见都督！"
+          "text": "郭淮。"
+        },
+        {
+          "character": "郭淮",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "都督有令，一同进帐。参见都督！"
         },
         {
           "character": "司马懿",
@@ -1172,7 +1541,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "我前军既不能独挡孔明之众，分兵前后，亦非胜算。不如留下兵将以守上邽，\n余众悉往祁山。张将军可为先锋否？"
+          "text": "我前军既不能独挡孔明之众，分兵前后，亦非胜算。不如留下兵将以守上邽，"
+        },
+        {
+          "character": "司马懿",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "余众悉往祁山。张将军可为先锋否？"
         },
         {
           "character": "张郃",
@@ -1200,7 +1576,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "孔明长驱大进，必割陇上小麦，以资军粮。张将军领兵四万去守祁山，郭将军\n巡瞭天水诸郡。本督亲领大兵，保守陇上，以防贼兵割麦。"
+          "text": "孔明长驱大进，必割陇上小麦，以资军粮。张将军领兵四万去守祁山，郭将军"
+        },
+        {
+          "character": "司马懿",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "巡瞭天水诸郡。本督亲领大兵，保守陇上，以防贼兵割麦。"
         },
         {
           "character": "张郃、郭淮",
@@ -1327,7 +1710,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.025,
+        0.9,
+        0.075,
+        0.7949,
+        7,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 6,
@@ -1366,7 +1759,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "我到卤城日久。屡遣军人催粮，只是一去不见回音。据当地太守言道，陇上麦\n熟。我不免带领兵丁，前往陇上割麦，以充军粮。\n众将官！陇上去者！"
+          "text": "我到卤城日久。屡遣军人催粮，只是一去不见回音。据当地太守言道，陇上麦"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "熟。我不免带领兵丁，前往陇上割麦，以充军粮。"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "众将官！陇上去者！"
         },
         {
           "character": "四文堂、四大铠",
@@ -1380,10 +1787,31 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "我五次伐中原一呼百应，\n自古道兵未动粮草先行。\n军无粮必自散如鸟失林。"
+          "text": "我五次伐中原一呼百应，"
         },
         {
-          "character": "今割麦助我军绝他军命、报子",
+          "character": "诸葛亮",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "自古道兵未动粮草先行。"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "军无粮必自散如鸟失林。"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "今割麦助我军绝他军命"
+        },
+        {
+          "character": "报子",
           "line_type": "内白",
           "musical_style": null,
           "style_family": null,
@@ -1443,7 +1871,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "哦、哦，我自有道理。\n众将官！"
+          "text": "哦、哦，我自有道理。"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "众将官！"
         },
         {
           "character": "四文堂、四大铠",
@@ -1471,7 +1906,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "司马懿是将才甚是聪敏，\n猜透我诸葛亮肺腑之情。"
+          "text": "司马懿是将才甚是聪敏，"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "猜透我诸葛亮肺腑之情。"
         },
         {
           "character": "诸葛亮",
@@ -1688,7 +2130,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "查看营内将士，与山人相貌相似者，挑选三人。须要与我一般装束，坐在四轮\n车上，吓退魏军。我军兵丁好在陇上割麦。"
+          "text": "查看营内将士，与山人相貌相似者，挑选三人。须要与我一般装束，坐在四轮"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "车上，吓退魏军。我军兵丁好在陇上割麦。"
         },
         {
           "character": "姜维、魏延、马岱、关兴",
@@ -1709,7 +2158,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "今日之计，所用者虽是奇门遁甲之术，但与司马懿交兵之时，扮我之人须要对\n阵讲话，方好哄那司马懿出营。"
+          "text": "今日之计，所用者虽是奇门遁甲之术，但与司马懿交兵之时，扮我之人须要对"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "阵讲话，方好哄那司马懿出营。"
         },
         {
           "character": "姜维",
@@ -1730,10 +2186,52 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "军无粮兵无将怎能临阵，\n我安排神妙计吩咐众军。\n吓退了司马懿大功告成。"
+          "text": "军无粮兵无将怎能临阵，"
         },
         {
-          "character": "各扮做天神将须要谨慎、姜维、魏延、马岱、关兴",
+          "character": "诸葛亮",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我安排神妙计吩咐众军。"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "吓退了司马懿大功告成。"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "各扮做天神将须要谨慎"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "姜维"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "魏延"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "马岱"
+        },
+        {
+          "character": "关兴",
           "line_type": "同白",
           "musical_style": null,
           "style_family": null,
@@ -1772,7 +2270,21 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "出祁山取关口收复数郡，\n骂王朗死阵前吓坏曹真。\n要惊吓司马懿割麦装神。"
+          "text": "出祁山取关口收复数郡，"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "骂王朗死阵前吓坏曹真。"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "要惊吓司马懿割麦装神。"
         },
         {
           "character": null,
@@ -1864,7 +2376,17 @@
         "singing_ratio": 0.104,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.104,
+        0.2754,
+        0.7246,
+        0.0,
+        0.6765,
+        13,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 7,
@@ -1888,7 +2410,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "在陇上扎大营差人打听，\n此一战我要擒诸葛孔明。"
+          "text": "在陇上扎大营差人打听，"
+        },
+        {
+          "character": "司马懿",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "此一战我要擒诸葛孔明。"
         },
         {
           "character": "报子",
@@ -1909,7 +2438,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "启都督：四轮车上端坐孔明。前后多少天兵天将，披发仗剑，杀到我营来了！\n请令定夺！"
+          "text": "启都督：四轮车上端坐孔明。前后多少天兵天将，披发仗剑，杀到我营来了！"
+        },
+        {
+          "character": "报子",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "请令定夺！"
         },
         {
           "character": "司马懿",
@@ -1930,7 +2466,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "嗯！这是孔明兴妖作怪。岂有天兵天将下界之理！\n众将官！"
+          "text": "嗯！这是孔明兴妖作怪。岂有天兵天将下界之理！"
+        },
+        {
+          "character": "司马懿",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "众将官！"
         },
         {
           "character": "四龙套、四下手",
@@ -1958,7 +2501,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "哎呀元帅呀！那些护车天将，形容古怪。慢说兵丁前去，就是都督出营，也要\n吓得失魂。快快逃走，可保性命！"
+          "text": "哎呀元帅呀！那些护车天将，形容古怪。慢说兵丁前去，就是都督出营，也要"
+        },
+        {
+          "character": "报子",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "吓得失魂。快快逃走，可保性命！"
         },
         {
           "character": "司马懿",
@@ -1986,7 +2536,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "焉有此事！待本督亲自出马。\n众将官！"
+          "text": "焉有此事！待本督亲自出马。"
+        },
+        {
+          "character": "司马懿",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "众将官！"
         },
         {
           "character": "四龙套、四下手",
@@ -2014,7 +2571,21 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "魏、蜀、吴英雄们俱争汉鼎，\n我前番中了计失了小心。\n司马懿非夸口能说能行。"
+          "text": "魏、蜀、吴英雄们俱争汉鼎，"
+        },
+        {
+          "character": "司马懿",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我前番中了计失了小心。"
+        },
+        {
+          "character": "司马懿",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "司马懿非夸口能说能行。"
         },
         {
           "character": null,
@@ -2057,7 +2628,17 @@
         "singing_ratio": 0.118,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.118,
+        0.2083,
+        0.7917,
+        0.0,
+        0.6522,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 8,
@@ -2079,7 +2660,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "要割麦调虎计安排已定，\n特诓哄司马懿早出大营。"
+          "text": "要割麦调虎计安排已定，"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "特诓哄司马懿早出大营。"
         },
         {
           "character": null,
@@ -2114,7 +2702,21 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "拿住了诸葛亮凌烟标名，\n为武将须竭力好建功勋。\n（司马懿、诸葛亮照面。诸葛亮、关兴、车夫、假"
+          "text": "拿住了诸葛亮凌烟标名，"
+        },
+        {
+          "character": "司马懿",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "为武将须竭力好建功勋。"
+        },
+        {
+          "character": "司马懿",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "（司马懿、诸葛亮照面。诸葛亮、关兴、车夫、假"
         }
       ],
       "interactions": [
@@ -2141,7 +2743,17 @@
         "singing_ratio": 0.25,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.25,
+        0.8571,
+        0.1429,
+        0.0,
+        0.1667,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 9,
@@ -2213,7 +2825,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 10,
@@ -2445,7 +3067,17 @@
         "singing_ratio": 0.167,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.167,
+        0.2381,
+        0.7619,
+        0.0,
+        0.75,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 11,
@@ -2466,7 +3098,7 @@
           "text": "（四皂旗、鼓夫、锣夫、假法师、姜维引假诸葛亮披发仗剑拿七星旗同上，车夫随上。）"
         },
         {
-          "character": null,
+          "character": "拿七星旗同",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
@@ -2724,7 +3356,17 @@
         "singing_ratio": 0.105,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.105,
+        0.2083,
+        0.7917,
+        0.0,
+        0.7826,
+        5,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 12,
@@ -2745,14 +3387,14 @@
           "text": "（四皂旗、鼓夫、锣夫、假法师、魏延引假诸葛亮同上，车夫随上。）"
         },
         {
-          "character": null,
+          "character": "假诸葛亮",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
           "text": "不想我打更汉也是好命，"
         },
         {
-          "character": null,
+          "character": "假诸葛亮",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -2989,7 +3631,17 @@
         "singing_ratio": 0.211,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.211,
+        0.2273,
+        0.7727,
+        0.0,
+        0.8571,
+        5,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 13,
@@ -3094,7 +3746,17 @@
         "singing_ratio": 0.5,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.5,
+        0.6667,
+        0.3333,
+        0.0,
+        0.6,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 14,
@@ -3115,7 +3777,7 @@
           "text": "（中场摆山。诸葛亮、三假诸葛亮、关兴、姜维、魏延、马岱、假法师同上，同挖门。）"
         },
         {
-          "character": null,
+          "character": "假法师",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
@@ -3356,7 +4018,17 @@
         "singing_ratio": 0.062,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.062,
+        0.2381,
+        0.7619,
+        0.0,
+        0.7,
+        5,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 15,
@@ -3501,7 +4173,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0909,
+        0.9091,
+        0.0,
+        0.7,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 16,
@@ -3594,7 +4276,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 17,
@@ -3615,7 +4307,21 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "拿住了诸葛亮凌烟标名，\n为武将须竭力好建功勋。\n（司马懿、诸葛亮照面。诸葛亮、关兴、车夫、假"
+          "text": "拿住了诸葛亮凌烟标名，"
+        },
+        {
+          "character": "司马懿",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "为武将须竭力好建功勋。"
+        },
+        {
+          "character": "司马懿",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "（司马懿、诸葛亮照面。诸葛亮、关兴、车夫、假"
         }
       ],
       "interactions": [
@@ -3649,7 +4355,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     }
   ]
 }

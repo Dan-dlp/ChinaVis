@@ -305,21 +305,63 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "臣启千岁：如今大宋天子在位，宠信国丈庞文。那庞文久有篡位之心，曾遣人\n与我国相约，教我国进兵，推倒大宋，平分疆土。请旨定夺！"
-        },
-        {
-          "character": "哈里元龙",
-          "line_type": "白",
-          "musical_style": null,
-          "style_family": null,
-          "text": "本王意欲进兵中原，怎奈大宋朝天下都招讨兵马大元帅乃是杨宗保。他乃能征\n惯战、颇知兵法的上将。倘若冒然进兵，不能取胜，岂不是耗费钱粮、损伤人\n马、劳而无功，反教天下耻笑么？"
+          "text": "臣启千岁：如今大宋天子在位，宠信国丈庞文。那庞文久有篡位之心，曾遣人"
         },
         {
           "character": "番将甲",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "臣启大王：如今那杨宗保已然老迈。我国出兵，只在边关一带驻扎，他必然领\n兵前来。这是我国边界，一来地理熟悉，二来气候不同。一年之内，四季寒冷，\n宋兵至此不利作战。杨宗保若领兵前来，不难将他擒住，然后再进兵中原，\n岂不是好？"
+          "text": "与我国相约，教我国进兵，推倒大宋，平分疆土。请旨定夺！"
+        },
+        {
+          "character": "哈里元龙",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "本王意欲进兵中原，怎奈大宋朝天下都招讨兵马大元帅乃是杨宗保。他乃能征"
+        },
+        {
+          "character": "哈里元龙",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "惯战、颇知兵法的上将。倘若冒然进兵，不能取胜，岂不是耗费钱粮、损伤人"
+        },
+        {
+          "character": "哈里元龙",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "马、劳而无功，反教天下耻笑么？"
+        },
+        {
+          "character": "番将甲",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "臣启大王：如今那杨宗保已然老迈。我国出兵，只在边关一带驻扎，他必然领"
+        },
+        {
+          "character": "番将甲",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "兵前来。这是我国边界，一来地理熟悉，二来气候不同。一年之内，四季寒冷，"
+        },
+        {
+          "character": "番将甲",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "宋兵至此不利作战。杨宗保若领兵前来，不难将他擒住，然后再进兵中原，"
+        },
+        {
+          "character": "番将甲",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "岂不是好？"
         },
         {
           "character": "哈里元龙",
@@ -375,7 +417,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "为父要兴兵夺取宋室天下，命你二人为正副元帅，带领都督、酋长、兵丁十万，\n即日兵发昆仑关，不得有误！领旨下殿去罢！"
+          "text": "为父要兴兵夺取宋室天下，命你二人为正副元帅，带领都督、酋长、兵丁十万，"
+        },
+        {
+          "character": "哈里元龙",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "即日兵发昆仑关，不得有误！领旨下殿去罢！"
         },
         {
           "character": "哈里亚金、哈里亚银",
@@ -464,7 +513,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.04,
+        0.76,
+        0.2,
+        0.625,
+        6,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -504,7 +563,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.5,
+        0.5,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -534,7 +603,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "本帅、昆仑关总镇李仁杰。只因此处与西羌番邦搭界，要时刻提防西羌入寇。\n本帅也曾派出远探，只是尚未见到来。\n左右，伺候了！"
+          "text": "本帅、昆仑关总镇李仁杰。只因此处与西羌番邦搭界，要时刻提防西羌入寇。"
+        },
+        {
+          "character": "李仁杰",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "本帅也曾派出远探，只是尚未见到来。"
+        },
+        {
+          "character": "李仁杰",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "左右，伺候了！"
         },
         {
           "character": "报子",
@@ -576,7 +659,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "小人探听得西羌国王，派他两个太子哈里亚金、哈里亚银挂帅，带领都督、酋\n长，发动十万人马，杀奔昆仑关来了！"
+          "text": "小人探听得西羌国王，派他两个太子哈里亚金、哈里亚银挂帅，带领都督、酋"
+        },
+        {
+          "character": "报子",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "长，发动十万人马，杀奔昆仑关来了！"
         },
         {
           "character": "李仁杰",
@@ -597,7 +687,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "唔呼呀！不想西羌发动十万人马，杀奔昆仑关来了。想我这昆仑关，兵不满三\n千，将不过几员，如何抵挡！不免修下告急文书，搬请救兵便了。"
+          "text": "唔呼呀！不想西羌发动十万人马，杀奔昆仑关来了。想我这昆仑关，兵不满三"
+        },
+        {
+          "character": "李仁杰",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "千，将不过几员，如何抵挡！不免修下告急文书，搬请救兵便了。"
         },
         {
           "character": null,
@@ -653,7 +750,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "众将宫！多备灰瓶炮子，滚木擂石。番兵若来，加紧防守；但等救兵到来，再\n行交战。掩门！"
+          "text": "众将宫！多备灰瓶炮子，滚木擂石。番兵若来，加紧防守；但等救兵到来，再"
+        },
+        {
+          "character": "李仁杰",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "行交战。掩门！"
         },
         {
           "character": null,
@@ -691,7 +795,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0526,
+        0.8947,
+        0.0526,
+        0.4444,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 4,
@@ -828,7 +942,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "啊！原来西羌回发动十万人马，攻取昆仑关。故尔李仁杰来书告急，搬取救兵。\n来！宣杨宗保进宫！"
+          "text": "啊！原来西羌回发动十万人马，攻取昆仑关。故尔李仁杰来书告急，搬取救兵。"
+        },
+        {
+          "character": "宋王",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来！宣杨宗保进宫！"
         },
         {
           "character": "陈琳",
@@ -905,21 +1026,56 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "只因西羌国发动十万人马，杀奔昆仑关。那昆仑关总镇因兵微将寡，不能取胜。\n修下告急本章，前来搬取救兵。就命卿家带兵十万，急速够奔昆仑关，对敌\n征战，杀退番兵，以免朕心忧虑。"
-        },
-        {
-          "character": "杨宗保",
-          "line_type": "白",
-          "musical_style": null,
-          "style_family": null,
-          "text": "万岁有旨，臣当谨遵；只是西羌一带，地境寒冷，眼看就到立冬，军士远征，\n缺少御塞之衣，怎去交战？待臣将御寒衣服造齐，再向昆仑进兵，不知万岁意\n下如何？"
+          "text": "只因西羌国发动十万人马，杀奔昆仑关。那昆仑关总镇因兵微将寡，不能取胜。"
         },
         {
           "character": "宋王",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "常言道，救兵如同救火。若等寒衣备齐，倘若昆仑有失，那还了得？如今你只\n管去，朕随后派人赶造寒衣。待等造成之后，急速与军中送去应用，也就是了。"
+          "text": "修下告急本章，前来搬取救兵。就命卿家带兵十万，急速够奔昆仑关，对敌"
+        },
+        {
+          "character": "宋王",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "征战，杀退番兵，以免朕心忧虑。"
+        },
+        {
+          "character": "杨宗保",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "万岁有旨，臣当谨遵；只是西羌一带，地境寒冷，眼看就到立冬，军士远征，"
+        },
+        {
+          "character": "杨宗保",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "缺少御塞之衣，怎去交战？待臣将御寒衣服造齐，再向昆仑进兵，不知万岁意"
+        },
+        {
+          "character": "杨宗保",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "下如何？"
+        },
+        {
+          "character": "宋王",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "常言道，救兵如同救火。若等寒衣备齐，倘若昆仑有失，那还了得？如今你只"
+        },
+        {
+          "character": "宋王",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "管去，朕随后派人赶造寒衣。待等造成之后，急速与军中送去应用，也就是了。"
         },
         {
           "character": "杨宗保",
@@ -961,7 +1117,21 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "杨宗保发兵西羌地，\n边关之上去迎敌。\n见了娘娘把话提。"
+          "text": "杨宗保发兵西羌地，"
+        },
+        {
+          "character": "宋王",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "边关之上去迎敌。"
+        },
+        {
+          "character": "宋王",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "见了娘娘把话提。"
         },
         {
           "character": null,
@@ -1019,7 +1189,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0833,
+        0.8056,
+        0.1111,
+        0.6286,
+        5,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 5,
@@ -1056,7 +1236,49 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "老身康氏。配夫狄世荣，所生一子，名唤狄青。夫君胞妹乃是当今太后。只是\n太后一向仁慈忠厚，反不如皇后庞妃有权有势。夫君在世之时，素与国丈庞文\n不睦，因此，那庞文捏造一本，欲将我夫君问成死罪，然后抄家，是我夫君—\n气身亡了。可怜老身怀抱两岁孤儿，逃在异乡。至今已是一十九载光阴。幸喜\n狄青孩儿，已然长大成人，并且他生来膂力过人，又精通刀马弓箭。只是我母\n子家无隔宿之粮，一贫如洗。全仗我儿狄青，每日入山打猎，打来飞禽野兽，\n卖些银钱，母子将就度日。正是："
+          "text": "老身康氏。配夫狄世荣，所生一子，名唤狄青。夫君胞妹乃是当今太后。只是"
+        },
+        {
+          "character": "康氏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "太后一向仁慈忠厚，反不如皇后庞妃有权有势。夫君在世之时，素与国丈庞文"
+        },
+        {
+          "character": "康氏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "不睦，因此，那庞文捏造一本，欲将我夫君问成死罪，然后抄家，是我夫君—"
+        },
+        {
+          "character": "康氏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "气身亡了。可怜老身怀抱两岁孤儿，逃在异乡。至今已是一十九载光阴。幸喜"
+        },
+        {
+          "character": "康氏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "狄青孩儿，已然长大成人，并且他生来膂力过人，又精通刀马弓箭。只是我母"
+        },
+        {
+          "character": "康氏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "子家无隔宿之粮，一贫如洗。全仗我儿狄青，每日入山打猎，打来飞禽野兽，"
+        },
+        {
+          "character": "康氏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "卖些银钱，母子将就度日。正是："
         },
         {
           "character": "康氏",
@@ -1084,7 +1306,21 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "每日里去打猎把山来进，\n打来了禽和兽好度光阴。\n回家中见母亲细说分明。"
+          "text": "每日里去打猎把山来进，"
+        },
+        {
+          "character": "狄青",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "打来了禽和兽好度光阴。"
+        },
+        {
+          "character": "狄青",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "回家中见母亲细说分明。"
         },
         {
           "character": null,
@@ -1126,7 +1362,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "嗐！母亲再休提起，孩儿每日进山打猎，打来的不是飞禽，便是走兽；唯独今\n日进山，不但未遇虎豹豺狼，就是那野鸭山鸡，也是无有。孩儿只在山中东游\n西走，只打得一只鸮鸟。母亲请看！"
+          "text": "嗐！母亲再休提起，孩儿每日进山打猎，打来的不是飞禽，便是走兽；唯独今"
+        },
+        {
+          "character": "狄青",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "日进山，不但未遇虎豹豺狼，就是那野鸭山鸡，也是无有。孩儿只在山中东游"
+        },
+        {
+          "character": "狄青",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "西走，只打得一只鸮鸟。母亲请看！"
         },
         {
           "character": "康氏",
@@ -1154,7 +1404,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "孩儿闻之，禽中之鸮、兽中之獍，生性至为不孝。孩儿发过宏誓大愿，若遇鸮\n獍这两种禽兽，决不放它逃难，一定将它打死，以警世上不孝之人。"
+          "text": "孩儿闻之，禽中之鸮、兽中之獍，生性至为不孝。孩儿发过宏誓大愿，若遇鸮"
+        },
+        {
+          "character": "狄青",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "獍这两种禽兽，决不放它逃难，一定将它打死，以警世上不孝之人。"
         },
         {
           "character": "康氏",
@@ -1168,7 +1425,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "孩儿不才，倘遇不孝之人，孩儿也决不能将他轻轻饶恕。但不知母亲可知谁是\n不孝之人？母亲指示于我，孩儿将他找着，定不与他甘休！"
+          "text": "孩儿不才，倘遇不孝之人，孩儿也决不能将他轻轻饶恕。但不知母亲可知谁是"
+        },
+        {
+          "character": "狄青",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "不孝之人？母亲指示于我，孩儿将他找着，定不与他甘休！"
         },
         {
           "character": "康氏",
@@ -1217,7 +1481,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "孩儿至今痴长二十一岁，从来未听母亲说过有何冤仇。请母亲教训明白，孩儿\n立时前去报仇雪恨也！"
+          "text": "孩儿至今痴长二十一岁，从来未听母亲说过有何冤仇。请母亲教训明白，孩儿"
+        },
+        {
+          "character": "狄青",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "立时前去报仇雪恨也！"
         },
         {
           "character": null,
@@ -1231,7 +1502,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "母亲讲话有隐情，\n必有冤仇未得伸。"
+          "text": "母亲讲话有隐情，"
+        },
+        {
+          "character": "狄青",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "必有冤仇未得伸。"
         },
         {
           "character": "狄青",
@@ -1248,7 +1526,14 @@
           "text": "杀父冤仇是何人？"
         },
         {
-          "character": "小狄青跪草堂珠泪滚、康氏",
+          "character": "狄青",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "小狄青跪草堂珠泪滚"
+        },
+        {
+          "character": "康氏",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -1259,7 +1544,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "母亲请将杀父冤仇，讲说明白，孩儿在这里跪听。母亲若不实说，孩儿我就跪\n死在这里，也不起来了哇……"
+          "text": "母亲请将杀父冤仇，讲说明白，孩儿在这里跪听。母亲若不实说，孩儿我就跪"
+        },
+        {
+          "character": "狄青",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "死在这里，也不起来了哇……"
         },
         {
           "character": null,
@@ -1273,7 +1565,35 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "想当初你姑母本是东宫皇后。你父身为国舅，只知一秉忠心。不想得罪当今皇\n后庞妃之父国丈庞文。他将你父捏奏一本，问成死罪。那时我儿年方二岁，是\n为娘怀抱我儿，逃奔他乡，才得保全性命。前些年皆因我儿尚在年幼无知，我\n未肯将此事告诉于你，如今儿已长大成人，膂力过人，武艺精通，难道杀父冤\n仇就罢了不成？话已说明，这仇报与不报，但凭于你！"
+          "text": "想当初你姑母本是东宫皇后。你父身为国舅，只知一秉忠心。不想得罪当今皇"
+        },
+        {
+          "character": "康氏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "后庞妃之父国丈庞文。他将你父捏奏一本，问成死罪。那时我儿年方二岁，是"
+        },
+        {
+          "character": "康氏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "为娘怀抱我儿，逃奔他乡，才得保全性命。前些年皆因我儿尚在年幼无知，我"
+        },
+        {
+          "character": "康氏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "未肯将此事告诉于你，如今儿已长大成人，膂力过人，武艺精通，难道杀父冤"
+        },
+        {
+          "character": "康氏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "仇就罢了不成？话已说明，这仇报与不报，但凭于你！"
         },
         {
           "character": "狄青",
@@ -1287,7 +1607,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "母亲从头对我论，\n血海冤仇得分明。"
+          "text": "母亲从头对我论，"
+        },
+        {
+          "character": "狄青",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "血海冤仇得分明。"
         },
         {
           "character": null,
@@ -1329,7 +1656,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "想那庞文，身为国丈，左右校尉兵丁甚多。我儿此去报仇，万一不成，岂不白\n白的送了性命！"
+          "text": "想那庞文，身为国丈，左右校尉兵丁甚多。我儿此去报仇，万一不成，岂不白"
+        },
+        {
+          "character": "康氏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "白的送了性命！"
         },
         {
           "character": "狄青",
@@ -1357,14 +1691,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "你那姑母，现为当今皇太后。你此去到了京都，先要设法见着你姑母，大小得\n个一官半职，供职京都，慢慢再打听庞贼的消息，设法报仇便了。"
+          "text": "你那姑母，现为当今皇太后。你此去到了京都，先要设法见着你姑母，大小得"
+        },
+        {
+          "character": "康氏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "个一官半职，供职京都，慢慢再打听庞贼的消息，设法报仇便了。"
         },
         {
           "character": "狄青",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "孩儿谨遵母命，见机而作，今日天色虽晚，孩儿去心似箭，拜别母亲，就此赶\n奔都城，去见我那姑母要紧。"
+          "text": "孩儿谨遵母命，见机而作，今日天色虽晚，孩儿去心似箭，拜别母亲，就此赶"
+        },
+        {
+          "character": "狄青",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "奔都城，去见我那姑母要紧。"
         },
         {
           "character": "康氏",
@@ -1385,7 +1733,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "这里有龙泉宝剑一口，乃是当年你父亲随身佩带之物；若有盗贼灾难之事，这\n剑自然声响。你带在身旁，一路之上，也好防身。这里有散碎纹银二十余雨，\n乃是为娘积攒下来的，你就作为一路盘费。"
+          "text": "这里有龙泉宝剑一口，乃是当年你父亲随身佩带之物；若有盗贼灾难之事，这"
+        },
+        {
+          "character": "康氏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "剑自然声响。你带在身旁，一路之上，也好防身。这里有散碎纹银二十余雨，"
+        },
+        {
+          "character": "康氏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "乃是为娘积攒下来的，你就作为一路盘费。"
         },
         {
           "character": "狄青",
@@ -1399,14 +1761,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "咱家还有你平日打猎得来的兽皮不少，将他卖去，足够为娘半载用度。你只管\n去罢！"
+          "text": "咱家还有你平日打猎得来的兽皮不少，将他卖去，足够为娘半载用度。你只管"
+        },
+        {
+          "character": "康氏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "去罢！"
         },
         {
           "character": "狄青",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "拜别高堂寻姑母，\n但愿此去报冤仇。"
+          "text": "拜别高堂寻姑母，"
+        },
+        {
+          "character": "狄青",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "但愿此去报冤仇。"
         },
         {
           "character": "狄青",
@@ -1464,7 +1840,17 @@
         "singing_ratio": 0.108,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.108,
+        0.2308,
+        0.7436,
+        0.0256,
+        0.4675,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 6,
@@ -1492,7 +1878,35 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "吾乃狄世荣鬼魂是也。生前镇守边关，略著功勋。不想庞文老贼，参奏一本，\n道我糜费钱粮，欲将我问成死罪；是我一怒，竟自气闭身亡。今因我儿狄青，\n不久御河斩蛟。不免去到宫中，与我妹狄太后，托上一兆，使他姑侄相会，也\n好与我报仇。\n众鬼卒！"
+          "text": "吾乃狄世荣鬼魂是也。生前镇守边关，略著功勋。不想庞文老贼，参奏一本，"
+        },
+        {
+          "character": "狄世荣",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "道我糜费钱粮，欲将我问成死罪；是我一怒，竟自气闭身亡。今因我儿狄青，"
+        },
+        {
+          "character": "狄世荣",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "不久御河斩蛟。不免去到宫中，与我妹狄太后，托上一兆，使他姑侄相会，也"
+        },
+        {
+          "character": "狄世荣",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "好与我报仇。"
+        },
+        {
+          "character": "狄世荣",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "众鬼卒！"
         },
         {
           "character": null,
@@ -1513,7 +1927,21 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "心中只把庞贼恨，\n苦害狄家为何情！\n见了我妹说分明。"
+          "text": "心中只把庞贼恨，"
+        },
+        {
+          "character": "狄世荣",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "苦害狄家为何情！"
+        },
+        {
+          "character": "狄世荣",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "见了我妹说分明。"
         },
         {
           "character": null,
@@ -1533,7 +1961,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.3,
+        0.6,
+        0.1,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 7,
@@ -1561,7 +1999,42 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "俺、狄青。自从我父去世之后，母子苦度光阴。今幸长大成人，是我母对我言\n讲，我父系被奸贼庞文所害，必须去往京都皇城之内，哀求姑母狄太后，方能\n得报此仇。是俺一闻此言，拜别母亲，来到汴梁。在途中收了张仁、李义两个\n拜弟，—同到此。将他二人安置店房之中，独自出来打听。怎奈宫禁森严，无\n法进入。看前面乃是御河，闻得有一蛟怪，不免前去看个明白。倘能得遇宫中\n内侍，也好设法进宫，就此前往。"
+          "text": "俺、狄青。自从我父去世之后，母子苦度光阴。今幸长大成人，是我母对我言"
+        },
+        {
+          "character": "狄青",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "讲，我父系被奸贼庞文所害，必须去往京都皇城之内，哀求姑母狄太后，方能"
+        },
+        {
+          "character": "狄青",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "得报此仇。是俺一闻此言，拜别母亲，来到汴梁。在途中收了张仁、李义两个"
+        },
+        {
+          "character": "狄青",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "拜弟，—同到此。将他二人安置店房之中，独自出来打听。怎奈宫禁森严，无"
+        },
+        {
+          "character": "狄青",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "法进入。看前面乃是御河，闻得有一蛟怪，不免前去看个明白。倘能得遇宫中"
+        },
+        {
+          "character": "狄青",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "内侍，也好设法进宫，就此前往。"
         },
         {
           "character": "狄青",
@@ -1580,7 +2053,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.125,
+        0.75,
+        0.125,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 8,
@@ -1633,7 +2116,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "请了！奉了太后懿旨，巡察御河。我想这御河，自有外官看守，何用你我代劳\n哪？"
+          "text": "请了！奉了太后懿旨，巡察御河。我想这御河，自有外官看守，何用你我代劳"
+        },
+        {
+          "character": "陈琳",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "哪？"
         },
         {
           "character": "李福",
@@ -1675,7 +2165,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "满怀心事难书讲，\n来到御河看端详。"
+          "text": "满怀心事难书讲，"
+        },
+        {
+          "character": "狄青",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来到御河看端详。"
         },
         {
           "character": null,
@@ -1717,14 +2214,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "昔日汉皇斩蛇起义，周处斩蛟，为民除害，乃大丈夫所为。俺今日也要学上—\n学！"
+          "text": "昔日汉皇斩蛇起义，周处斩蛟，为民除害，乃大丈夫所为。俺今日也要学上—"
+        },
+        {
+          "character": "狭青",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "学！"
         },
         {
           "character": "狭青",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "龙泉宝剑握在掌，\n飞身跳入水中央。"
+          "text": "龙泉宝剑握在掌，"
+        },
+        {
+          "character": "狭青",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "飞身跳入水中央。"
         },
         {
           "character": null,
@@ -1745,7 +2256,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "哎呀！看你小小年纪，有此本领，斩除蛟怪。不但救了我二人性命，还与这一\n方除了大患，真乃罕见的英雄。\n李公公，我有意带他去见太后和王爷。尊意以为如何？"
+          "text": "哎呀！看你小小年纪，有此本领，斩除蛟怪。不但救了我二人性命，还与这一"
+        },
+        {
+          "character": "陈琳",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "方除了大患，真乃罕见的英雄。"
+        },
+        {
+          "character": "陈琳",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "李公公，我有意带他去见太后和王爷。尊意以为如何？"
         },
         {
           "character": "李福",
@@ -1759,7 +2284,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "言之有理。\n那一汉子，明日仍旧来此，咱家带你进宫见驾。"
+          "text": "言之有理。"
+        },
+        {
+          "character": "陈琳",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "那一汉子，明日仍旧来此，咱家带你进宫见驾。"
         },
         {
           "character": "狄青",
@@ -1829,7 +2361,17 @@
         "singing_ratio": 0.056,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.056,
+        0.1538,
+        0.7692,
+        0.0769,
+        0.68,
+        6,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 9,
@@ -2429,7 +2971,17 @@
         "singing_ratio": 0.192,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.192,
+        0.2295,
+        0.6721,
+        0.0984,
+        0.85,
+        7,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 10,
@@ -2586,7 +3138,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.7143,
+        0.2857,
+        0.7692,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 11,
@@ -2715,7 +3277,17 @@
         "singing_ratio": 0.111,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.111,
+        0.1818,
+        0.7273,
+        0.0909,
+        0.8,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 12,
@@ -2739,14 +3311,14 @@
           "text": "（四太监、宋王同上。）"
         },
         {
-          "character": null,
+          "character": "宋王",
           "line_type": "念",
           "musical_style": null,
           "style_family": null,
           "text": "御炉香烟起，金阙肃朝仪。景阳镜声滴，文武列丹墀。"
         },
         {
-          "character": null,
+          "character": "宋王",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -3182,7 +3754,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.8718,
+        0.1282,
+        0.8684,
+        8,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 13,
@@ -3585,7 +4167,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.8667,
+        8,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 14,
@@ -3788,7 +4380,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.1667,
+        0.7222,
+        0.1111,
+        0.6471,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 15,
@@ -4603,7 +5205,17 @@
         "singing_ratio": 0.108,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.108,
+        0.1644,
+        0.8082,
+        0.0274,
+        0.8056,
+        8,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 16,
@@ -5394,7 +6006,17 @@
         "singing_ratio": 0.013,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.013,
+        0.0238,
+        0.9405,
+        0.0357,
+        0.8795,
+        5,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 17,
@@ -5806,7 +6428,17 @@
         "singing_ratio": 0.026,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.026,
+        0.0256,
+        0.9487,
+        0.0256,
+        0.9211,
+        5,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 18,
@@ -5892,7 +6524,17 @@
         "singing_ratio": 0.25,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.25,
+        0.2,
+        0.8,
+        0.0,
+        0.5,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 19,
@@ -6194,7 +6836,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.8,
+        0.2,
+        0.9167,
+        6,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 20,
@@ -6217,7 +6869,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 21,
@@ -6257,7 +6919,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 22,
@@ -6364,7 +7036,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 23,
@@ -6418,7 +7100,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 24,
@@ -6848,7 +7540,17 @@
         "singing_ratio": 0.077,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.077,
+        0.1136,
+        0.8409,
+        0.0455,
+        0.7674,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 25,
@@ -6888,7 +7590,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 26,
@@ -7009,7 +7721,17 @@
         "singing_ratio": 0.167,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.167,
+        0.1667,
+        0.8333,
+        0.0,
+        1.0,
+        4,
+        0.0,
+        0.0
+      ]
     }
   ]
 }

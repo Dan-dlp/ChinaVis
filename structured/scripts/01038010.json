@@ -113,7 +113,28 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "自从起手立帝号，\n遇吉累次动枪刀。\n孤王坐在金殿道。\n但愿把贼一起剿。"
+          "text": "自从起手立帝号，"
+        },
+        {
+          "character": "李自成",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "遇吉累次动枪刀。"
+        },
+        {
+          "character": "李自成",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "孤王坐在金殿道。"
+        },
+        {
+          "character": "李自成",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "但愿把贼一起剿。"
         },
         {
           "character": null,
@@ -141,7 +162,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "启兄王：今有周遇吉，带领人马前来讨战，众将难以抵挡。兄王可派能人前去\n对战。"
+          "text": "启兄王：今有周遇吉，带领人马前来讨战，众将难以抵挡。兄王可派能人前去"
+        },
+        {
+          "character": "一支虎",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "对战。"
         },
         {
           "character": "李自成",
@@ -223,7 +251,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.111,
+        0.3077,
+        0.6923,
+        0.0,
+        0.6667,
+        4,
+        0.3077,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -266,7 +304,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "本帅周遇吉。奉命镇守代州等处。可恨闯贼统领大兵，直压城下，他有一义子，\n名叫李洪基，我又与他连战数阵。看他有败怯之心，眼见得生擒在我，怎奈\n他马骤如飞，不能擒获。探马报到，他又兴兵前来。今日与他交战。必定成功。\n呔，众将官！"
+          "text": "本帅周遇吉。奉命镇守代州等处。可恨闯贼统领大兵，直压城下，他有一义子，"
+        },
+        {
+          "character": "周遇吉",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "名叫李洪基，我又与他连战数阵。看他有败怯之心，眼见得生擒在我，怎奈"
+        },
+        {
+          "character": "周遇吉",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "他马骤如飞，不能擒获。探马报到，他又兴兵前来。今日与他交战。必定成功。"
+        },
+        {
+          "character": "周遇吉",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "呔，众将官！"
         },
         {
           "character": "四上手",
@@ -331,7 +390,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.125,
+        0.75,
+        0.125,
+        0.2857,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -361,7 +430,49 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "俺李洪基。俺奉了父王的将令，攻打岱州。那总兵周遇吉，他将人马扎在城外，\n排成犄角之势，吾军不能近前，此乃以主代客。前者与他交战，他的枪法，\n神出鬼入，不下与俺，难以招架。俺只得诈败而走，等他前来追赶与吾，暗放\n飞刀前去斩他。又被他接去，反来斩俺。幸亏吾的坐骑千里驹，名曰闪电光。\n那时若是迟了一步，定被他伤了俺的性命。自从父王与俺改名洪基，名字应了\n年号。只是俺叔父一支虎，有些妒忌与俺。若是招降此人，作为心腹，吾的天\n下稳稳。我今与他随机应变，同一事也。"
+          "text": "俺李洪基。俺奉了父王的将令，攻打岱州。那总兵周遇吉，他将人马扎在城外，"
+        },
+        {
+          "character": "李洪基",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "排成犄角之势，吾军不能近前，此乃以主代客。前者与他交战，他的枪法，"
+        },
+        {
+          "character": "李洪基",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "神出鬼入，不下与俺，难以招架。俺只得诈败而走，等他前来追赶与吾，暗放"
+        },
+        {
+          "character": "李洪基",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "飞刀前去斩他。又被他接去，反来斩俺。幸亏吾的坐骑千里驹，名曰闪电光。"
+        },
+        {
+          "character": "李洪基",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "那时若是迟了一步，定被他伤了俺的性命。自从父王与俺改名洪基，名字应了"
+        },
+        {
+          "character": "李洪基",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "年号。只是俺叔父一支虎，有些妒忌与俺。若是招降此人，作为心腹，吾的天"
+        },
+        {
+          "character": "李洪基",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "下稳稳。我今与他随机应变，同一事也。"
         },
         {
           "character": null,
@@ -389,7 +500,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "父王又有令前来，命俺前去大战周遇吉。\n呔，众将官！"
+          "text": "父王又有令前来，命俺前去大战周遇吉。"
+        },
+        {
+          "character": "李洪基",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "呔，众将官！"
         },
         {
           "character": null,
@@ -464,7 +582,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0769,
+        0.9231,
+        0.0,
+        0.3333,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 4,
@@ -529,7 +657,14 @@
           "line_type": "风入松",
           "musical_style": null,
           "style_family": null,
-          "text": "俺堂堂帝统御中州，\n鸿图四海全收。"
+          "text": "俺堂堂帝统御中州，"
+        },
+        {
+          "character": "周遇吉",
+          "line_type": "风入松",
+          "musical_style": null,
+          "style_family": null,
+          "text": "鸿图四海全收。"
         },
         {
           "character": "李洪基",
@@ -550,7 +685,14 @@
           "line_type": "风入松",
           "musical_style": null,
           "style_family": null,
-          "text": "比尨尧舜功德茂，\n少什么稷契夔名胄。"
+          "text": "比尨尧舜功德茂，"
+        },
+        {
+          "character": "周遇吉",
+          "line_type": "风入松",
+          "musical_style": null,
+          "style_family": null,
+          "text": "少什么稷契夔名胄。"
         },
         {
           "character": "李洪基",
@@ -571,7 +713,14 @@
           "line_type": "风入松",
           "musical_style": null,
           "style_family": null,
-          "text": "忠和孝，平身自守，\n身和命笑浮沤。"
+          "text": "忠和孝，平身自守，"
+        },
+        {
+          "character": "周遇吉",
+          "line_type": "风入松",
+          "musical_style": null,
+          "style_family": null,
+          "text": "身和命笑浮沤。"
         },
         {
           "character": "周遇吉",
@@ -592,7 +741,14 @@
           "line_type": "风入松",
           "musical_style": null,
           "style_family": null,
-          "text": "你昂昂气宇恁风流，\n更艺勇可称琼玖。"
+          "text": "你昂昂气宇恁风流，"
+        },
+        {
+          "character": "李洪基",
+          "line_type": "风入松",
+          "musical_style": null,
+          "style_family": null,
+          "text": "更艺勇可称琼玖。"
         },
         {
           "character": "李洪基",
@@ -606,7 +762,14 @@
           "line_type": "风入松",
           "musical_style": null,
           "style_family": null,
-          "text": "真果是，云龙风虎金兰友，\n保毕世恩荣化胄。"
+          "text": "真果是，云龙风虎金兰友，"
+        },
+        {
+          "character": "李洪基",
+          "line_type": "风入松",
+          "musical_style": null,
+          "style_family": null,
+          "text": "保毕世恩荣化胄。"
         },
         {
           "character": "周遇吉",
@@ -627,7 +790,14 @@
           "line_type": "风入松",
           "musical_style": null,
           "style_family": null,
-          "text": "刀头丧身家尽休，\n英雄骨弃荒丘。"
+          "text": "刀头丧身家尽休，"
+        },
+        {
+          "character": "李洪基",
+          "line_type": "风入松",
+          "musical_style": null,
+          "style_family": null,
+          "text": "英雄骨弃荒丘。"
         },
         {
           "character": null,
@@ -720,7 +890,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.4138,
+        0.5862,
+        0.0,
+        0.5,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 5,
@@ -743,7 +923,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "罢了吓，罢了吓！他的枪法十分厉害，这便怎么处？有了，等他到来，俺与他\n对刀可以取胜。\n众将官，杀上前去。"
+          "text": "罢了吓，罢了吓！他的枪法十分厉害，这便怎么处？有了，等他到来，俺与他"
+        },
+        {
+          "character": "李洪基",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "对刀可以取胜。"
+        },
+        {
+          "character": "李洪基",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "众将官，杀上前去。"
         },
         {
           "character": null,
@@ -799,7 +993,21 @@
           "line_type": "同白",
           "musical_style": null,
           "style_family": null,
-          "text": "众将官，看刀伺候。\n（周遇吉、李洪基同换刀。四小军、四兵卒自两边分下。周遇吉、李洪基同开打，同对刀，同下。四上手、\n四下手同开打，同下。李洪基上，周遇吉杀上，李洪基败下。四小军同上。）"
+          "text": "众将官，看刀伺候。"
+        },
+        {
+          "character": "周遇吉、李洪基",
+          "line_type": "同白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "（周遇吉、李洪基同换刀。四小军、四兵卒自两边分下。周遇吉、李洪基同开打，同对刀，同下。四上手、"
+        },
+        {
+          "character": "周遇吉、李洪基",
+          "line_type": "同白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "四下手同开打，同下。李洪基上，周遇吉杀上，李洪基败下。四小军同上。）"
         },
         {
           "character": "四小军",
@@ -850,7 +1058,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.4444,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 6,
@@ -970,7 +1188,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.3,
+        0.7,
+        0.0,
+        0.5556,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 7,
@@ -1120,7 +1348,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "众将官听令：那闯贼知我擒他爱子，必然统领大兵，前来劫夺。这场厮杀非比\n小可，我军当预先准备，吩咐阵前，多排鹿角，广布蒺藜，头层藤牌手，二层\n火炮手，三层弩弓手，第四层长枪手，第五层攒箭手，必须人人奋勇，个个当\n先，国家兴亡，在此一阵成功，奏凯论功升赏。众将官！"
+          "text": "众将官听令：那闯贼知我擒他爱子，必然统领大兵，前来劫夺。这场厮杀非比"
+        },
+        {
+          "character": "周遇吉",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "小可，我军当预先准备，吩咐阵前，多排鹿角，广布蒺藜，头层藤牌手，二层"
+        },
+        {
+          "character": "周遇吉",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "火炮手，三层弩弓手，第四层长枪手，第五层攒箭手，必须人人奋勇，个个当"
+        },
+        {
+          "character": "周遇吉",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "先，国家兴亡，在此一阵成功，奏凯论功升赏。众将官！"
         },
         {
           "character": null,
@@ -1171,7 +1420,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.6154,
+        4,
+        0.0,
+        0.0
+      ]
     }
   ]
 }

@@ -151,7 +151,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "卑人，姓祢名衡字正平，乃平原孝义村人氏。幼习经纶，深通战策。少游北海，\n偶遇孔融。他将我荐与曹府门下。想那曹操名为汉相，实为汉贼，未必有敬\n贤礼士之心。我不免进得相府，见机而行。正是："
+          "text": "卑人，姓祢名衡字正平，乃平原孝义村人氏。幼习经纶，深通战策。少游北海，"
+        },
+        {
+          "character": "祢衡",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "偶遇孔融。他将我荐与曹府门下。想那曹操名为汉相，实为汉贼，未必有敬"
+        },
+        {
+          "character": "祢衡",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "贤礼士之心。我不免进得相府，见机而行。正是："
         },
         {
           "character": "祢衡",
@@ -178,7 +192,17 @@
         "musical_styles": [
           "西皮原板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.2857,
+        0.4286,
+        0.2857,
+        0.0,
+        1,
+        0.1429,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -206,7 +230,21 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "汉末纷纷刀兵扰，\n每日里思想计千条。\n四海升平乐唐尧。"
+          "text": "汉末纷纷刀兵扰，"
+        },
+        {
+          "character": "曹操",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "每日里思想计千条。"
+        },
+        {
+          "character": "曹操",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "四海升平乐唐尧。"
         },
         {
           "character": null,
@@ -220,7 +258,14 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "一封书信忙修好，\n见了丞相把令交。"
+          "text": "一封书信忙修好，"
+        },
+        {
+          "character": "张辽",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "见了丞相把令交。"
         },
         {
           "character": "张辽",
@@ -276,7 +321,14 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "祢衡先生我请到，\n见了丞相说根苗。"
+          "text": "祢衡先生我请到，"
+        },
+        {
+          "character": "孔融",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "见了丞相说根苗。"
         },
         {
           "character": "孔融",
@@ -325,7 +377,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "遵命。\n有请祢先生。"
+          "text": "遵命。"
+        },
+        {
+          "character": "孔融",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "有请祢先生。"
         },
         {
           "character": "祢衡",
@@ -346,7 +405,21 @@
           "line_type": "西皮流水板",
           "musical_style": "西皮流水板",
           "style_family": "西皮",
-          "text": "相府门前杀气高，\n密密层层摆枪刀。\n亚赛天子九龙朝。"
+          "text": "相府门前杀气高，"
+        },
+        {
+          "character": "祢衡",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "密密层层摆枪刀。"
+        },
+        {
+          "character": "祢衡",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "亚赛天子九龙朝。"
         },
         {
           "character": "祢衡",
@@ -356,7 +429,14 @@
           "text": "参见丞相。"
         },
         {
-          "character": "画阁雕梁双凤绕、曹操",
+          "character": "祢衡",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "画阁雕梁双凤绕"
+        },
+        {
+          "character": "曹操",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -388,14 +468,42 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "唔呵呀，人言曹操，轻贤慢士。今日一见，果然话不虚传。\n啊，孔大夫，你把我荐错了！"
+          "text": "唔呵呀，人言曹操，轻贤慢士。今日一见，果然话不虚传。"
+        },
+        {
+          "character": "祢衡",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "啊，孔大夫，你把我荐错了！"
         },
         {
           "character": "祢衡",
           "line_type": "西皮流水板",
           "musical_style": "西皮流水板",
           "style_family": "西皮",
-          "text": "人言曹操多奸狡，\n果然亚赛秦赵高。\n全凭势力压当朝。\n哪怕虎穴与笼牢！"
+          "text": "人言曹操多奸狡，"
+        },
+        {
+          "character": "祢衡",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "果然亚赛秦赵高。"
+        },
+        {
+          "character": "祢衡",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "全凭势力压当朝。"
+        },
+        {
+          "character": "祢衡",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "哪怕虎穴与笼牢！"
         },
         {
           "character": "祢衡",
@@ -405,7 +513,21 @@
           "text": "哈哈……"
         },
         {
-          "character": "欺君误国非正道、站立在丹墀微微笑、曹操",
+          "character": "祢衡",
+          "line_type": "笑",
+          "musical_style": null,
+          "style_family": null,
+          "text": "欺君误国非正道"
+        },
+        {
+          "character": "祢衡",
+          "line_type": "笑",
+          "musical_style": null,
+          "style_family": null,
+          "text": "站立在丹墀微微笑"
+        },
+        {
+          "character": "曹操",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -451,7 +573,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "老夫帐下，文有荀彧、荀攸、郭嘉、程昱，机深智远，虽萧何、陈平不及也。\n武有李典、乐进、许褚、张辽，不让当年岑彭、马武。我儿曹子孝，天下奇才；\n夏侯惇，无敌将军。老夫兴兵以来，攻无不取，战无不胜，何言无人？"
+          "text": "老夫帐下，文有荀彧、荀攸、郭嘉、程昱，机深智远，虽萧何、陈平不及也。"
+        },
+        {
+          "character": "曹操",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "武有李典、乐进、许褚、张辽，不让当年岑彭、马武。我儿曹子孝，天下奇才；"
+        },
+        {
+          "character": "曹操",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "夏侯惇，无敌将军。老夫兴兵以来，攻无不取，战无不胜，何言无人？"
         },
         {
           "character": null,
@@ -500,7 +636,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "荀彧、荀攸，可使吊丧问疾。郭嘉、程昱，可使看墓守坟。李典、乐进，只可\n牧羊放马。许褚、张辽……"
+          "text": "荀彧、荀攸，可使吊丧问疾。郭嘉、程昱，可使看墓守坟。李典、乐进，只可"
+        },
+        {
+          "character": "祢衡",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "牧羊放马。许褚、张辽……"
         },
         {
           "character": "张辽",
@@ -514,7 +657,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "也只好击鼓鸣金。曹子孝呼为要钱太守，夏侯惇称为完体将军。余下之辈尽都\n是些衣架、饭囊、酒桶、肉袋，碌碌庸材，何足道哉？"
+          "text": "也只好击鼓鸣金。曹子孝呼为要钱太守，夏侯惇称为完体将军。余下之辈尽都"
+        },
+        {
+          "character": "祢衡",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "是些衣架、饭囊、酒桶、肉袋，碌碌庸材，何足道哉？"
         },
         {
           "character": "曹操",
@@ -528,28 +678,84 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "区区不才，幼习经纶，深通战策，诸子百家之书，无一不读。三教九流之事，\n无一不晓。上，可以致君于尧舜，下，可配德于孔颜。我乃天下的名士，岂肯\n与你这奸贼同党！\n啊，孔大夫，你不要装痴了啊！"
+          "text": "区区不才，幼习经纶，深通战策，诸子百家之书，无一不读。三教九流之事，"
+        },
+        {
+          "character": "祢衡",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "无一不晓。上，可以致君于尧舜，下，可配德于孔颜。我乃天下的名士，岂肯"
+        },
+        {
+          "character": "祢衡",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "与你这奸贼同党！"
+        },
+        {
+          "character": "祢衡",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "啊，孔大夫，你不要装痴了啊！"
         },
         {
           "character": "祢衡",
           "line_type": "西皮流水板",
           "musical_style": "西皮流水板",
           "style_family": "西皮",
-          "text": "自幼儿窗前习管、鲍，\n兵书战策夜夜瞧。\n岂与犬马共同槽。"
+          "text": "自幼儿窗前习管、鲍，"
         },
         {
-          "character": "我本是堂堂青史表、张辽",
+          "character": "祢衡",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "兵书战策夜夜瞧。"
+        },
+        {
+          "character": "祢衡",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "岂与犬马共同槽。"
+        },
+        {
+          "character": "祢衡",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "我本是堂堂青史表"
+        },
+        {
+          "character": "张辽",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
           "text": "唗！"
         },
         {
-          "character": "我本是堂堂青史表、张辽",
+          "character": "张辽",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我本是堂堂青史表"
+        },
+        {
+          "character": "张辽",
           "line_type": "西皮散板",
           "musical_style": "西皮散板",
           "style_family": "西皮",
-          "text": "祢衡小儿真可恼，\n辱骂丞相为哪条？"
+          "text": "祢衡小儿真可恼，"
+        },
+        {
+          "character": "张辽",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "辱骂丞相为哪条？"
         },
         {
           "character": null,
@@ -626,7 +832,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "好，明日来早便罢，如若来迟，定按军法从事。\n张将军。"
+          "text": "好，明日来早便罢，如若来迟，定按军法从事。"
+        },
+        {
+          "character": "曹操",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "张将军。"
         },
         {
           "character": "张辽",
@@ -668,14 +881,49 @@
           "line_type": "西皮二六板",
           "musical_style": "西皮二六板",
           "style_family": "西皮",
-          "text": "丞相委用恩非小，\n屈为鼓吏我怎敢辞劳！\n孔融做事也不高。\n全凭势力压当朝。"
+          "text": "丞相委用恩非小，"
+        },
+        {
+          "character": "祢衡",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "屈为鼓吏我怎敢辞劳！"
+        },
+        {
+          "character": "祢衡",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "孔融做事也不高。"
+        },
+        {
+          "character": "祢衡",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "全凭势力压当朝。"
         },
         {
           "character": "祢衡",
           "line_type": "西皮快板",
           "musical_style": "西皮快板",
           "style_family": "西皮",
-          "text": "我越思越想心头恼，\n想个巧计骂奸曹。\n明日自有我的巧妙高。"
+          "text": "我越思越想心头恼，"
+        },
+        {
+          "character": "祢衡",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "想个巧计骂奸曹。"
+        },
+        {
+          "character": "祢衡",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "明日自有我的巧妙高。"
         },
         {
           "character": null,
@@ -689,7 +937,14 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "祢衡先生性情傲，\n险些项上吃一刀。"
+          "text": "祢衡先生性情傲，"
+        },
+        {
+          "character": "孔融",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "险些项上吃一刀。"
         },
         {
           "character": null,
@@ -703,7 +958,14 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "祢衡小儿真可恼，\n丞相不杀为哪条？"
+          "text": "祢衡小儿真可恼，"
+        },
+        {
+          "character": "张辽",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "丞相不杀为哪条？"
         },
         {
           "character": null,
@@ -717,7 +979,14 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "袖内机关他怎晓，\n杀鸡焉用宰牛刀。"
+          "text": "袖内机关他怎晓，"
+        },
+        {
+          "character": "曹操",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "杀鸡焉用宰牛刀。"
         },
         {
           "character": null,
@@ -794,7 +1063,17 @@
           "西皮流水",
           "西皮流水板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.137,
+        0.3434,
+        0.6566,
+        0.0,
+        0.5102,
+        4,
+        0.3434,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -822,7 +1101,14 @@
           "line_type": "西皮散板",
           "musical_style": "西皮散板",
           "style_family": "西皮",
-          "text": "适才与贼一席话，\n气得我祢衡乱如麻！"
+          "text": "适才与贼一席话，"
+        },
+        {
+          "character": "祢衡",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "气得我祢衡乱如麻！"
         },
         {
           "character": "祢衡",
@@ -836,7 +1122,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "适才进得相府，与那贼深施一礼，他坐在上面，昂然不动，倒还罢了，反道我\n的礼貌不周。明日那贼大宴群臣，将我用为鼓吏，明明是羞辱于我，我不免在\n酒席宴前，当着满朝文武，百般叫骂。纵然将我斩首，也落得个青史名标。正\n是："
+          "text": "适才进得相府，与那贼深施一礼，他坐在上面，昂然不动，倒还罢了，反道我"
+        },
+        {
+          "character": "祢衡",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "的礼貌不周。明日那贼大宴群臣，将我用为鼓吏，明明是羞辱于我，我不免在"
+        },
+        {
+          "character": "祢衡",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "酒席宴前，当着满朝文武，百般叫骂。纵然将我斩首，也落得个青史名标。正"
+        },
+        {
+          "character": "祢衡",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "是："
         },
         {
           "character": "祢衡",
@@ -865,7 +1172,17 @@
           "西皮快板",
           "西皮散板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.3,
+        0.5,
+        0.2,
+        0.0,
+        1,
+        0.3,
+        0.0
+      ]
     },
     {
       "scene_index": 4,
@@ -983,7 +1300,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "来此已是相府。\n门上哪位在？"
+          "text": "来此已是相府。"
+        },
+        {
+          "character": "朝官甲",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "门上哪位在？"
         },
         {
           "character": null,
@@ -1011,7 +1335,14 @@
           "line_type": "同白",
           "musical_style": null,
           "style_family": null,
-          "text": "候着。\n有请张将军。"
+          "text": "候着。"
+        },
+        {
+          "character": "二旗牌",
+          "line_type": "同白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "有请张将军。"
         },
         {
           "character": null,
@@ -1242,10 +1573,52 @@
           "line_type": "西皮原板",
           "musical_style": "西皮原板",
           "style_family": "西皮",
-          "text": "楚汉相争动枪刀。\n上欺天子下压群僚。\n手中缺少杀人的刀。"
+          "text": "楚汉相争动枪刀。"
         },
         {
-          "character": "高祖爷咸阳登大宝、一统山河乐唐尧、到如今出了个奸曹操、我有心替主爷把贼扫、曹操",
+          "character": "祢衡",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "上欺天子下压群僚。"
+        },
+        {
+          "character": "祢衡",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "手中缺少杀人的刀。"
+        },
+        {
+          "character": "祢衡",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "高祖爷咸阳登大宝"
+        },
+        {
+          "character": "祢衡",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "一统山河乐唐尧"
+        },
+        {
+          "character": "祢衡",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "到如今出了个奸曹操"
+        },
+        {
+          "character": "祢衡",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "我有心替主爷把贼扫"
+        },
+        {
+          "character": "曹操",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -1270,7 +1643,35 @@
           "line_type": "西皮快板",
           "musical_style": "西皮快板",
           "style_family": "西皮",
-          "text": "奸曹操，\n上坐文武众群僚。\n舍死忘生在今朝。\n假装疯魔骂奸曹。\n我把蓝衫来脱掉——"
+          "text": "奸曹操，"
+        },
+        {
+          "character": "祢衡",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "上坐文武众群僚。"
+        },
+        {
+          "character": "祢衡",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "舍死忘生在今朝。"
+        },
+        {
+          "character": "祢衡",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "假装疯魔骂奸曹。"
+        },
+        {
+          "character": "祢衡",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "我把蓝衫来脱掉——"
         },
         {
           "character": null,
@@ -1284,7 +1685,14 @@
           "line_type": "西皮快板",
           "musical_style": "西皮快板",
           "style_family": "西皮",
-          "text": "破衣烂衫摆摆摇，\n大摇大摆上甬道——"
+          "text": "破衣烂衫摆摆摇，"
+        },
+        {
+          "character": "祢衡",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "大摇大摆上甬道——"
         },
         {
           "character": null,
@@ -1333,7 +1741,28 @@
           "line_type": "西皮快板",
           "musical_style": "西皮快板",
           "style_family": "西皮",
-          "text": "你二人不必呵呵笑，\n有辈古人听根苗：\n张良进履在圯桥。\n脱去了蓝衫换紫袍——"
+          "text": "你二人不必呵呵笑，"
+        },
+        {
+          "character": "祢衡",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "有辈古人听根苗："
+        },
+        {
+          "character": "祢衡",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "张良进履在圯桥。"
+        },
+        {
+          "character": "祢衡",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "脱去了蓝衫换紫袍——"
         },
         {
           "character": null,
@@ -1361,7 +1790,21 @@
           "line_type": "西皮快板",
           "musical_style": "西皮快板",
           "style_family": "西皮",
-          "text": "你二人把话讲差了，\n休把虎子当狸猫。\n拔剑要斩海底蛟——"
+          "text": "你二人把话讲差了，"
+        },
+        {
+          "character": "祢衡",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "休把虎子当狸猫。"
+        },
+        {
+          "character": "祢衡",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "拔剑要斩海底蛟——"
         },
         {
           "character": null,
@@ -1389,7 +1832,14 @@
           "line_type": "西皮快板",
           "musical_style": "西皮快板",
           "style_family": "西皮",
-          "text": "休道我白昼梦颠倒，\n顷刻就要上青霄。"
+          "text": "休道我白昼梦颠倒，"
+        },
+        {
+          "character": "祢衡",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "顷刻就要上青霄。"
         },
         {
           "character": null,
@@ -1424,7 +1874,14 @@
           "line_type": "西皮快板",
           "musical_style": "西皮快板",
           "style_family": "西皮",
-          "text": "赤身露体逞英豪。\n耀武扬威往上跑——"
+          "text": "赤身露体逞英豪。"
+        },
+        {
+          "character": "祢衡",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "耀武扬威往上跑——"
         },
         {
           "character": null,
@@ -1455,7 +1912,14 @@
           "text": "看奸贼把我怎开消？"
         },
         {
-          "character": "将身来在东廊道、二旗牌",
+          "character": "祢衡",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "将身来在东廊道"
+        },
+        {
+          "character": "二旗牌",
           "line_type": "同白",
           "musical_style": null,
           "style_family": null,
@@ -1473,7 +1937,14 @@
           "line_type": "同白",
           "musical_style": null,
           "style_family": null,
-          "text": "是。\n丞相命你擂鼓三通。"
+          "text": "是。"
+        },
+        {
+          "character": "二旗牌",
+          "line_type": "同白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "丞相命你擂鼓三通。"
         },
         {
           "character": null,
@@ -1501,7 +1972,28 @@
           "line_type": "西皮原板",
           "musical_style": "西皮原板",
           "style_family": "西皮",
-          "text": "擂鼓三通响如雷，\n文武百官痛饮三杯。\n孔融带愧转回归。\n老夫下位观鼓吏——"
+          "text": "擂鼓三通响如雷，"
+        },
+        {
+          "character": "曹操",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "文武百官痛饮三杯。"
+        },
+        {
+          "character": "曹操",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "孔融带愧转回归。"
+        },
+        {
+          "character": "曹操",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "老夫下位观鼓吏——"
         },
         {
           "character": null,
@@ -1606,42 +2098,168 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "你不识贤愚，是眼浊也。不纳忠言，是耳浊也。不读诗书，是口浊也。常怀篡\n逆，是贼的心浊也。我乃是天下名士，你将我用为鼓吏，犹如阳货轻仲尼，臧\n仓毁孟子。曹操哇，奸贼！真乃匹夫之辈也！"
+          "text": "你不识贤愚，是眼浊也。不纳忠言，是耳浊也。不读诗书，是口浊也。常怀篡"
+        },
+        {
+          "character": "祢衡",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "逆，是贼的心浊也。我乃是天下名士，你将我用为鼓吏，犹如阳货轻仲尼，臧"
+        },
+        {
+          "character": "祢衡",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "仓毁孟子。曹操哇，奸贼！真乃匹夫之辈也！"
         },
         {
           "character": "祢衡",
           "line_type": "西皮快板",
           "musical_style": "西皮快板",
           "style_family": "西皮",
-          "text": "昔日里文王访姜尚，\n渭水河边遇栋梁。\n为国求贤理应当。\n狗奸贼，全然不知臭和香。"
+          "text": "昔日里文王访姜尚，"
         },
         {
-          "character": "臣坐辇、君掖韁、你枉在朝中为首相、曹操",
+          "character": "祢衡",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "渭水河边遇栋梁。"
+        },
+        {
+          "character": "祢衡",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "为国求贤理应当。"
+        },
+        {
+          "character": "祢衡",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "狗奸贼，全然不知臭和香。"
+        },
+        {
+          "character": "祢衡",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "臣坐辇"
+        },
+        {
+          "character": "祢衡",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "君掖韁"
+        },
+        {
+          "character": "祢衡",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "你枉在朝中为首相"
+        },
+        {
+          "character": "曹操",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
           "text": "住口！"
         },
         {
-          "character": "臣坐辇、君掖韁、你枉在朝中为首相、曹操",
+          "character": "曹操",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "臣坐辇"
+        },
+        {
+          "character": "曹操",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "君掖韁"
+        },
+        {
+          "character": "曹操",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "你枉在朝中为首相"
+        },
+        {
+          "character": "曹操",
           "line_type": "西皮散板",
           "musical_style": "西皮散板",
           "style_family": "西皮",
-          "text": "老夫当朝为首相，\n赫赫威名天下扬。\n岂容你无知小儿郎。"
+          "text": "老夫当朝为首相，"
         },
         {
-          "character": "论机谋赛过姜吕望、祢衡",
+          "character": "曹操",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "赫赫威名天下扬。"
+        },
+        {
+          "character": "曹操",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "岂容你无知小儿郎。"
+        },
+        {
+          "character": "曹操",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "论机谋赛过姜吕望"
+        },
+        {
+          "character": "祢衡",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
           "text": "呸！"
         },
         {
-          "character": "论机谋赛过姜吕望、祢衡",
+          "character": "祢衡",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "论机谋赛过姜吕望"
+        },
+        {
+          "character": "祢衡",
           "line_type": "西皮散板",
           "musical_style": "西皮散板",
           "style_family": "西皮",
-          "text": "曹操把话错来讲，\n祢衡言来讲端详：\n鼓打二通国泰康；\n鼓发一阵连声响——"
+          "text": "曹操把话错来讲，"
+        },
+        {
+          "character": "祢衡",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "祢衡言来讲端详："
+        },
+        {
+          "character": "祢衡",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "鼓打二通国泰康；"
+        },
+        {
+          "character": "祢衡",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "鼓发一阵连声响——"
         },
         {
           "character": null,
@@ -1718,7 +2336,14 @@
           "line_type": "西皮二六板",
           "musical_style": "西皮二六板",
           "style_family": "西皮",
-          "text": "未曾开言我的心头恨，\n尊一声列公大人听详情。"
+          "text": "未曾开言我的心头恨，"
+        },
+        {
+          "character": "祢衡",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "尊一声列公大人听详情。"
         },
         {
           "character": null,
@@ -1760,7 +2385,28 @@
           "line_type": "西皮二六板",
           "musical_style": "西皮二六板",
           "style_family": "西皮",
-          "text": "胸中颇有安邦论，\n曾与孔融当过了幕宾。\n贼有眼不识宝和珍。\n不愿做奸贼帐下的人。"
+          "text": "胸中颇有安邦论，"
+        },
+        {
+          "character": "祢衡",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "曾与孔融当过了幕宾。"
+        },
+        {
+          "character": "祢衡",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "贼有眼不识宝和珍。"
+        },
+        {
+          "character": "祢衡",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "不愿做奸贼帐下的人。"
         },
         {
           "character": null,
@@ -1788,7 +2434,28 @@
           "line_type": "西皮快板",
           "musical_style": "西皮快板",
           "style_family": "西皮",
-          "text": "贼道我，舌辩徒，\n舌辩之徒有张苏。\n全凭舌尖压诸侯。\n要把奸贼一笔勾。"
+          "text": "贼道我，舌辩徒，"
+        },
+        {
+          "character": "祢衡",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "舌辩之徒有张苏。"
+        },
+        {
+          "character": "祢衡",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "全凭舌尖压诸侯。"
+        },
+        {
+          "character": "祢衡",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "要把奸贼一笔勾。"
         },
         {
           "character": null,
@@ -1816,7 +2483,21 @@
           "line_type": "西皮快板",
           "musical_style": "西皮快板",
           "style_family": "西皮",
-          "text": "贼道我，井底蛙，\n井底之蛙也不差。\n要把奸贼一爪拿。"
+          "text": "贼道我，井底蛙，"
+        },
+        {
+          "character": "祢衡",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "井底之蛙也不差。"
+        },
+        {
+          "character": "祢衡",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "要把奸贼一爪拿。"
         },
         {
           "character": null,
@@ -1865,21 +2546,84 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "狗奸贼出巧言故意问道，\n尊一声列公侯细听根苗：\n他本是夏侯子过继姓曹。\n全不怕骂名儿万古留标。"
+          "text": "狗奸贼出巧言故意问道，"
         },
         {
-          "character": "自幼儿举孝廉官卑职小、到如今做高官忘了宗祧、张辽",
+          "character": "祢衡",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "尊一声列公侯细听根苗："
+        },
+        {
+          "character": "祢衡",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "他本是夏侯子过继姓曹。"
+        },
+        {
+          "character": "祢衡",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "全不怕骂名儿万古留标。"
+        },
+        {
+          "character": "祢衡",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "自幼儿举孝廉官卑职小"
+        },
+        {
+          "character": "祢衡",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "到如今做高官忘了宗祧"
+        },
+        {
+          "character": "张辽",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
           "text": "唗！"
         },
         {
-          "character": "自幼儿举孝廉官卑职小、到如今做高官忘了宗祧、张辽",
+          "character": "张辽",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "自幼儿举孝廉官卑职小"
+        },
+        {
+          "character": "张辽",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "到如今做高官忘了宗祧"
+        },
+        {
+          "character": "张辽",
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "听他言来心头恼，\n三番两次为哪条。\n三尺青锋出了鞘——"
+          "text": "听他言来心头恼，"
+        },
+        {
+          "character": "张辽",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "三番两次为哪条。"
+        },
+        {
+          "character": "张辽",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "三尺青锋出了鞘——"
         },
         {
           "character": null,
@@ -2055,7 +2799,17 @@
           "西皮摇板",
           "西皮散板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.14,
+        0.4294,
+        0.5367,
+        0.0339,
+        0.517,
+        10,
+        0.4294,
+        0.0
+      ]
     }
   ]
 }

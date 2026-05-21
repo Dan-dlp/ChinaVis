@@ -182,7 +182,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "俺，姓苏名烈字定芳。大唐人氏，只因隋炀无道，某家投顺东辽，蒙辽王挂某\n为帅，攻取明关。\n儿郎的，起兵前往。"
+          "text": "俺，姓苏名烈字定芳。大唐人氏，只因隋炀无道，某家投顺东辽，蒙辽王挂某"
+        },
+        {
+          "character": "苏烈",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "为帅，攻取明关。"
+        },
+        {
+          "character": "苏烈",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "儿郎的，起兵前往。"
         },
         {
           "character": null,
@@ -201,7 +215,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.75,
+        0.25,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -303,7 +327,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "孤，大唐天子李渊在位。登基以来风调雨顺，国泰民安，众家国公俱封王位，\n永享太平。今当设立早朝，众卿有何本奏？"
+          "text": "孤，大唐天子李渊在位。登基以来风调雨顺，国泰民安，众家国公俱封王位，"
+        },
+        {
+          "character": "李渊",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "永享太平。今当设立早朝，众卿有何本奏？"
         },
         {
           "character": "朝官甲",
@@ -317,7 +348,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "大唐一统，岂容犯我天朝。\n尉迟恭何在？"
+          "text": "大唐一统，岂容犯我天朝。"
+        },
+        {
+          "character": "李渊",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "尉迟恭何在？"
         },
         {
           "character": "朝官甲",
@@ -331,14 +369,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "想是为孤江山鞍马劳乏，众卿亦是，不必桂帅。\n内侍，宣世子元吉上殿。"
+          "text": "想是为孤江山鞍马劳乏，众卿亦是，不必桂帅。"
+        },
+        {
+          "character": "李渊",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "内侍，宣世子元吉上殿。"
         },
         {
           "character": "大太监",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "遵旨。\n万岁有旨，世子元吉上殿哪！"
+          "text": "遵旨。"
+        },
+        {
+          "character": "大太监",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "万岁有旨，世子元吉上殿哪！"
         },
         {
           "character": "李元吉",
@@ -480,7 +532,17 @@
         "musical_styles": [
           "西皮"
         ]
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.037,
+        0.8889,
+        0.0741,
+        0.7308,
+        5,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -529,7 +591,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "俺，罗成。自投唐以来保定二主千岁，南征北战，屡建奇功。只因三王元吉与\n二主千岁旧有仇恨，在老王驾前搬弄是作，二主千岁被陷天牢，为此，是俺解\n甲归林。久别二王放心不下，不免私去太原探望一番，有何不可。\n家院，夫人若问，说俺另有公干。外厢带马！"
+          "text": "俺，罗成。自投唐以来保定二主千岁，南征北战，屡建奇功。只因三王元吉与"
+        },
+        {
+          "character": "罗成",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "二主千岁旧有仇恨，在老王驾前搬弄是作，二主千岁被陷天牢，为此，是俺解"
+        },
+        {
+          "character": "罗成",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "甲归林。久别二王放心不下，不免私去太原探望一番，有何不可。"
+        },
+        {
+          "character": "罗成",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "家院，夫人若问，说俺另有公干。外厢带马！"
         },
         {
           "character": null,
@@ -543,7 +626,14 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "我父英名燕山镇，\n白马银枪谁不闻。"
+          "text": "我父英名燕山镇，"
+        },
+        {
+          "character": "罗成",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "白马银枪谁不闻。"
         },
         {
           "character": null,
@@ -557,7 +647,21 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "家院带过马能行，\n（罗成右手正面指，转身面里稍整衣领。家院出门拉马。罗成转身出门。家院带马，下，罗成上马，至下场\n门台口。）"
+          "text": "家院带过马能行，"
+        },
+        {
+          "character": "罗成",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "（罗成右手正面指，转身面里稍整衣领。家院出门拉马。罗成转身出门。家院带马，下，罗成上马，至下场"
+        },
+        {
+          "character": "罗成",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "门台口。）"
         },
         {
           "character": "罗成",
@@ -587,7 +691,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.6,
+        0.5833,
+        0.3333,
+        0.0833,
+        0.0,
+        1,
+        0.5,
+        0.0
+      ]
     },
     {
       "scene_index": 4,
@@ -703,7 +817,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "候着。\n启禀千岁：罗成求见。"
+          "text": "候着。"
+        },
+        {
+          "character": "御林军甲",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "启禀千岁：罗成求见。"
         },
         {
           "character": "李世民",
@@ -717,7 +838,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "遵旨。\n随我进来。"
+          "text": "遵旨。"
+        },
+        {
+          "character": "御林军甲",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "随我进来。"
         },
         {
           "character": "罗成",
@@ -822,7 +950,21 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "辞别千岁归故道，\n（罗成向李世民一拜。四御林军、李世民同暗下。罗成出门急上马，挖至大边台口。四校尉、中军同上，站\n上场门一条边，李元吉骑马上，与罗成相遇，互惊。罗成急下马，马鞭放在大边台口，系缰绳。）"
+          "text": "辞别千岁归故道，"
+        },
+        {
+          "character": "罗成",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "（罗成向李世民一拜。四御林军、李世民同暗下。罗成出门急上马，挖至大边台口。四校尉、中军同上，站"
+        },
+        {
+          "character": "罗成",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "上场门一条边，李元吉骑马上，与罗成相遇，互惊。罗成急下马，马鞭放在大边台口，系缰绳。）"
         },
         {
           "character": "李元吉",
@@ -941,7 +1083,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "适才校场而归，与罗成小儿狭路相逢，想那罗成乃是秦王羽翼，不早诛之定是\n后患。我自有道理。\n来，打道上朝。"
+          "text": "适才校场而归，与罗成小儿狭路相逢，想那罗成乃是秦王羽翼，不早诛之定是"
+        },
+        {
+          "character": "李元吉",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "后患。我自有道理。"
+        },
+        {
+          "character": "李元吉",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来，打道上朝。"
         },
         {
           "character": null,
@@ -1062,7 +1218,17 @@
           "西皮摇板",
           "西皮散板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.294,
+        0.3556,
+        0.6444,
+        0.0,
+        0.5,
+        5,
+        0.3333,
+        0.0
+      ]
     },
     {
       "scene_index": 5,
@@ -1141,7 +1307,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.6667,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 6,
@@ -1185,7 +1361,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "本帅，世子元吉。圣上挂某为帅。那日校场而归，正遇罗成小儿，私去太原探\n望天牢。不早诛之，定为后患。为此上殿请了圣命，命罗成以为前战先锋，今\n日黑道之日，升帐命那罗成出城交战，倘若命丧沙场，岂不除了后患。\n来，罗成进帐。"
+          "text": "本帅，世子元吉。圣上挂某为帅。那日校场而归，正遇罗成小儿，私去太原探"
+        },
+        {
+          "character": "李元吉",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "望天牢。不早诛之，定为后患。为此上殿请了圣命，命罗成以为前战先锋，今"
+        },
+        {
+          "character": "李元吉",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "日黑道之日，升帐命那罗成出城交战，倘若命丧沙场，岂不除了后患。"
+        },
+        {
+          "character": "李元吉",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来，罗成进帐。"
         },
         {
           "character": "中军",
@@ -1269,7 +1466,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "只因苏烈攻取明关，本帅有意命将军以为前战先锋，出城御敌，不知将军意下\n如何？"
+          "text": "只因苏烈攻取明关，本帅有意命将军以为前战先锋，出城御敌，不知将军意下"
+        },
+        {
+          "character": "李元吉",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "如何？"
         },
         {
           "character": "罗成",
@@ -1304,7 +1508,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "那苏烈虽有二十万大军，依本帅看来俱是乌合之众，况且将军骁勇非常，枪法\n盖世，单人独骑，定能旗开得胜，马到成功也。"
+          "text": "那苏烈虽有二十万大军，依本帅看来俱是乌合之众，况且将军骁勇非常，枪法"
+        },
+        {
+          "character": "李元吉",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "盖世，单人独骑，定能旗开得胜，马到成功也。"
         },
         {
           "character": null,
@@ -1451,7 +1662,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "谅尔也是不敢，赐你令箭一支，出城鏖战苏烈去吧！\n（李元吉将令箭扔于正台口，下。众人自两边翻下。罗成双手垂袖，惊呆，右手撩袖急步向下场门一望，回\n身反折袖，看令箭，双抖袖，右手捡起令箭一挥，上步亮住。）"
+          "text": "谅尔也是不敢，赐你令箭一支，出城鏖战苏烈去吧！"
+        },
+        {
+          "character": "李元吉",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "（李元吉将令箭扔于正台口，下。众人自两边翻下。罗成双手垂袖，惊呆，右手撩袖急步向下场门一望，回"
+        },
+        {
+          "character": "李元吉",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "身反折袖，看令箭，双抖袖，右手捡起令箭一挥，上步亮住。）"
         },
         {
           "character": "罗成",
@@ -1472,7 +1697,14 @@
           "line_type": "西皮快板",
           "musical_style": "西皮快板",
           "style_family": "西皮",
-          "text": "分明要我丧黄泉。\n欺君有如欺了天。"
+          "text": "分明要我丧黄泉。"
+        },
+        {
+          "character": "罗成",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "欺君有如欺了天。"
         },
         {
           "character": null,
@@ -1500,7 +1732,14 @@
           "line_type": "西皮快板",
           "musical_style": "西皮快板",
           "style_family": "西皮",
-          "text": "落得个马革裹尸还。⑴\n（罗成左右两摆令箭，扔令箭，接令箭即扣碗，背手，左转身，左手提摺子底襟，抬左腿，面里亮住，急步"
+          "text": "落得个马革裹尸还。⑴"
+        },
+        {
+          "character": "罗成",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "（罗成左右两摆令箭，扔令箭，接令箭即扣碗，背手，左转身，左手提摺子底襟，抬左腿，面里亮住，急步"
         }
       ],
       "interactions": [
@@ -1535,7 +1774,17 @@
           "西皮快板",
           "西皮散板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.185,
+        0.2381,
+        0.7143,
+        0.0476,
+        0.439,
+        3,
+        0.1905,
+        0.0
+      ]
     },
     {
       "scene_index": 7,
@@ -1598,7 +1847,17 @@
         "musical_styles": [
           "西皮散板"
         ]
-      }
+      },
+      "scene_feature": [
+        1.0,
+        0.5,
+        0.25,
+        0.25,
+        0.0,
+        1,
+        0.25,
+        0.0
+      ]
     },
     {
       "scene_index": 8,
@@ -1619,7 +1878,14 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "家中奉了母亲命，\n探望爹爹走一程。"
+          "text": "家中奉了母亲命，"
+        },
+        {
+          "character": "罗春",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "探望爹爹走一程。"
         },
         {
           "character": "罗春",
@@ -1661,7 +1927,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        1.0,
+        0.8,
+        0.2,
+        0.0,
+        0.0,
+        1,
+        0.8,
+        0.0
+      ]
     },
     {
       "scene_index": 9,
@@ -1692,7 +1968,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "俺，罗成。适才帐中三王传下将令，命俺出城御敌，不赐一兵一卒，分明要害\n我之性命，怎奈军今难违，国事为大……"
+          "text": "俺，罗成。适才帐中三王传下将令，命俺出城御敌，不赐一兵一卒，分明要害"
+        },
+        {
+          "character": "罗成",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我之性命，怎奈军今难违，国事为大……"
         },
         {
           "character": null,
@@ -1762,7 +2045,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "出城迎敌者！\n（〖急急风〗。罗成自下场门山城。四番兵、四下手、四番将、苏烈同上。苏烈、罗成同架住，罗成站大边\n面里。）"
+          "text": "出城迎敌者！"
+        },
+        {
+          "character": "罗成",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "（〖急急风〗。罗成自下场门山城。四番兵、四下手、四番将、苏烈同上。苏烈、罗成同架住，罗成站大边"
+        },
+        {
+          "character": "罗成",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "面里。）"
         },
         {
           "character": "苏烈",
@@ -1853,7 +2150,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "只因隋炀无道，国乱民愁，某家投顺东辽，蒙辽王挂某为帅攻取明关。我且问\n你，单人独骑到此作甚？"
+          "text": "只因隋炀无道，国乱民愁，某家投顺东辽，蒙辽王挂某为帅攻取明关。我且问"
+        },
+        {
+          "character": "苏烈",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "你，单人独骑到此作甚？"
         },
         {
           "character": "罗成",
@@ -1902,7 +2206,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "你来看哪！本帅带领大军二十万，战将数千员，人如猛虎，马似蛟龙，你单枪\n匹马，岂不是白白送死！"
+          "text": "你来看哪！本帅带领大军二十万，战将数千员，人如猛虎，马似蛟龙，你单枪"
+        },
+        {
+          "character": "苏烈",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "匹马，岂不是白白送死！"
         },
         {
           "character": "罗成",
@@ -1937,7 +2248,14 @@
           "line_type": "西皮散板",
           "musical_style": "西皮散板",
           "style_family": "西皮",
-          "text": "苏烈休要夸大话，\n谁人不尊某枪法。"
+          "text": "苏烈休要夸大话，"
+        },
+        {
+          "character": "罗成",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "谁人不尊某枪法。"
         },
         {
           "character": "苏烈",
@@ -1951,7 +2269,35 @@
           "line_type": "西皮散板",
           "musical_style": "西皮散板",
           "style_family": "西皮",
-          "text": "虽然你有好枪法，\n三头六臂难胜咱。\n人来与爷催战马！\n（苏烈三磕手与罗成剜萝卜，架住。〖急急风〗。四番兵、四下手、四番将钻烟筒同下，开打，苏烈败下。\n李天寿上。）"
+          "text": "虽然你有好枪法，"
+        },
+        {
+          "character": "苏烈",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "三头六臂难胜咱。"
+        },
+        {
+          "character": "苏烈",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "人来与爷催战马！"
+        },
+        {
+          "character": "苏烈",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "（苏烈三磕手与罗成剜萝卜，架住。〖急急风〗。四番兵、四下手、四番将钻烟筒同下，开打，苏烈败下。"
+        },
+        {
+          "character": "苏烈",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "李天寿上。）"
         },
         {
           "character": "罗成",
@@ -2047,7 +2393,17 @@
         "musical_styles": [
           "西皮散板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.2045,
+        0.7727,
+        0.0227,
+        0.4186,
+        4,
+        0.1591,
+        0.0
+      ]
     },
     {
       "scene_index": 10,
@@ -2225,7 +2581,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "元帅容禀。未将上得阵去，战败苏烈，枪挑李天寿等两员大将，特来禀告元帅，\n请上功劳簿！"
+          "text": "元帅容禀。未将上得阵去，战败苏烈，枪挑李天寿等两员大将，特来禀告元帅，"
+        },
+        {
+          "character": "罗成",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "请上功劳簿！"
         },
         {
           "character": "李元吉",
@@ -2239,7 +2602,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "请上功劳簿！\n（罗成右手指左掌"
+          "text": "请上功劳簿！"
+        },
+        {
+          "character": "罗成",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "（罗成右手指左掌"
         }
       ],
       "interactions": [
@@ -2282,7 +2652,17 @@
           "西皮摇板",
           "西皮散板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.171,
+        0.0952,
+        0.8095,
+        0.0952,
+        0.6,
+        4,
+        0.0952,
+        0.0
+      ]
     },
     {
       "scene_index": 11,
@@ -2544,7 +2924,17 @@
         "musical_styles": [
           "西皮散板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.167,
+        0.1905,
+        0.8095,
+        0.0,
+        0.75,
+        3,
+        0.1429,
+        0.0
+      ]
     },
     {
       "scene_index": 12,
@@ -2600,7 +2990,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.5,
+        0.5,
+        0.5,
+        0.0,
+        1.0,
+        2,
+        0.5,
+        0.0
+      ]
     },
     {
       "scene_index": 13,
@@ -2619,7 +3019,7 @@
           "text": "（四龙套、中军提灯同上，李元吉上。）"
         },
         {
-          "character": null,
+          "character": "中军提灯",
           "line_type": "二黄原板",
           "musical_style": "二黄原板",
           "style_family": "二黄",
@@ -2811,7 +3211,17 @@
           "二黄原板",
           "二黄散板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.083,
+        0.1765,
+        0.6471,
+        0.1765,
+        0.6875,
+        3,
+        0.0,
+        0.1176
+      ]
     },
     {
       "scene_index": 14,
@@ -3270,7 +3680,17 @@
           "西皮快板",
           "西皮散板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.565,
+        0.6129,
+        0.3871,
+        0.0,
+        0.3,
+        2,
+        0.4194,
+        0.1935
+      ]
     },
     {
       "scene_index": 15,
@@ -3289,7 +3709,7 @@
           "text": "（二下手执梆子、二下手执弓箭、四番兵，二番将、苏烈执枪同上，挖门。）"
         },
         {
-          "character": null,
+          "character": "苏烈执枪",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -3448,7 +3868,17 @@
         "musical_styles": [
           "西皮散板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.111,
+        0.3846,
+        0.6154,
+        0.0,
+        0.5833,
+        3,
+        0.3846,
+        0.0
+      ]
     }
   ]
 }

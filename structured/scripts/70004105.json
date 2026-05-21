@@ -179,14 +179,42 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "画阁雕梁绛霄楼，\n金碧辉煌似瀛洲。\n富贵属于公伯王侯。"
+          "text": "画阁雕梁绛霄楼，"
         },
         {
-          "character": "龙楼凤阁如锦绣、屠岸贾",
+          "character": "晋灵公",
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "晋国江山升平奏，\n君臣安享乐无忧。"
+          "text": "金碧辉煌似瀛洲。"
+        },
+        {
+          "character": "晋灵公",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "富贵属于公伯王侯。"
+        },
+        {
+          "character": "晋灵公",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "龙楼凤阁如锦绣"
+        },
+        {
+          "character": "屠岸贾",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "晋国江山升平奏，"
+        },
+        {
+          "character": "屠岸贾",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "君臣安享乐无忧。"
         },
         {
           "character": null,
@@ -200,14 +228,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "啊大王，前者为臣与大王比试弹法，未见胜负，今日为臣还请一试，大王意下\n如何？"
+          "text": "啊大王，前者为臣与大王比试弹法，未见胜负，今日为臣还请一试，大王意下"
+        },
+        {
+          "character": "屠岸贾",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "如何？"
         },
         {
           "character": "晋灵公",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "寡人正有此意。\n内侍，看弓弹伺候。"
+          "text": "寡人正有此意。"
+        },
+        {
+          "character": "晋灵公",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "内侍，看弓弹伺候。"
         },
         {
           "character": null,
@@ -277,7 +319,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "卿家你来看，这桃园以外，来往的百姓甚是讨厌，何不将他们当做飞鸟来试你\n我的弹法，你看如何？"
+          "text": "卿家你来看，这桃园以外，来往的百姓甚是讨厌，何不将他们当做飞鸟来试你"
+        },
+        {
+          "character": "晋灵公",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我的弹法，你看如何？"
         },
         {
           "character": "屠岸贾",
@@ -480,7 +529,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "唗！好个膳夫，寡人腹中饥饿，竟将御羹洒落尘埃。\n殿前武士，将膳夫推出斩了！"
+          "text": "唗！好个膳夫，寡人腹中饥饿，竟将御羹洒落尘埃。"
+        },
+        {
+          "character": "晋灵公",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "殿前武士，将膳夫推出斩了！"
         },
         {
           "character": "膳夫",
@@ -508,7 +564,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "好！就与他留个全尸。\n獒奴！将灵赘锁链打开。"
+          "text": "好！就与他留个全尸。"
+        },
+        {
+          "character": "晋灵公",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "獒奴！将灵赘锁链打开。"
         },
         {
           "character": null,
@@ -658,7 +721,17 @@
           "西皮摇板",
           "西皮散板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.262,
+        0.2963,
+        0.7037,
+        0.0,
+        0.6415,
+        6,
+        0.2963,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -687,10 +760,24 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "晋侯做事太凶狠，\n弹打无辜众黎民。"
+          "text": "晋侯做事太凶狠，"
         },
         {
-          "character": "怒气满胸难消恨、提弥明",
+          "character": "百姓甲",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "弹打无辜众黎民。"
+        },
+        {
+          "character": "百姓甲",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "怒气满胸难消恨"
+        },
+        {
+          "character": "提弥明",
           "line_type": "内白",
           "musical_style": null,
           "style_family": null,
@@ -722,7 +809,14 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "幞头冠整将朝衣，\n五云深处奏丹墀。"
+          "text": "幞头冠整将朝衣，"
+        },
+        {
+          "character": "赵盾",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "五云深处奏丹墀。"
         },
         {
           "character": null,
@@ -764,14 +858,42 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "大王信宠屠岸贾，在绛霄楼上打弹伤人，只打得我们耳目带伤，头破血流，可\n怜乡亲们俱不敢在桃园门前经过，务农的不敢到田间种地，为商的不敢到街头\n做买卖。求相国与我们大家作主吧！"
+          "text": "大王信宠屠岸贾，在绛霄楼上打弹伤人，只打得我们耳目带伤，头破血流，可"
+        },
+        {
+          "character": "百姓甲",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "怜乡亲们俱不敢在桃园门前经过，务农的不敢到田间种地，为商的不敢到街头"
+        },
+        {
+          "character": "百姓甲",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "做买卖。求相国与我们大家作主吧！"
         },
         {
           "character": "赵盾",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "众位父老，大王信宠屠岸贾这样胡为，皆是老夫不能谏君之过，才连累大家受\n此痛楚。万望你们各自回去，好好调治伤痕，要勤俭务农，经营商贾，千万不\n可荒废。待老夫即刻进宫谏君，使大王悔过自新，改恶从善，谢罪军民就是！"
+          "text": "众位父老，大王信宠屠岸贾这样胡为，皆是老夫不能谏君之过，才连累大家受"
+        },
+        {
+          "character": "赵盾",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "此痛楚。万望你们各自回去，好好调治伤痕，要勤俭务农，经营商贾，千万不"
+        },
+        {
+          "character": "赵盾",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "可荒废。待老夫即刻进宫谏君，使大王悔过自新，改恶从善，谢罪军民就是！"
         },
         {
           "character": "众百姓",
@@ -792,7 +914,14 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "街头巷尾民磋怨，\n都道大王信谗奸。"
+          "text": "街头巷尾民磋怨，"
+        },
+        {
+          "character": "赵盾",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "都道大王信谗奸。"
         },
         {
           "character": "赵盾",
@@ -841,14 +970,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "啊二位大夫，大王数月未曾设朝理事，满朝文武屡谏不听，请问二位大夫何计\n教我？"
+          "text": "啊二位大夫，大王数月未曾设朝理事，满朝文武屡谏不听，请问二位大夫何计"
+        },
+        {
+          "character": "赵盾",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "教我？"
         },
         {
           "character": "士会",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "大王信宠屠岸贾，在绛霄楼上朝欢暮乐，荒度岁月，不理朝事。相国就该率领\n文武力谏事非，使大王痛改前非，如若不然，恐怕晋国危矣！"
+          "text": "大王信宠屠岸贾，在绛霄楼上朝欢暮乐，荒度岁月，不理朝事。相国就该率领"
+        },
+        {
+          "character": "士会",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "文武力谏事非，使大王痛改前非，如若不然，恐怕晋国危矣！"
         },
         {
           "character": "赵盾",
@@ -869,7 +1012,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "嗐！如今百姓怨声载道，国家危亡就在旦夕，我们就此进宫力谏，若能贬了屠\n岸贾，封锁桃园，乃是我晋国之幸也！"
+          "text": "嗐！如今百姓怨声载道，国家危亡就在旦夕，我们就此进宫力谏，若能贬了屠"
+        },
+        {
+          "character": "赵盾",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "岸贾，封锁桃园，乃是我晋国之幸也！"
         },
         {
           "character": "士会、韩厥",
@@ -988,7 +1138,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "这个……此乃大王旨意，小臣不敢言讲，相国要看，请您自己打开一看，您就\n明白了。"
+          "text": "这个……此乃大王旨意，小臣不敢言讲，相国要看，请您自己打开一看，您就"
+        },
+        {
+          "character": "大太监",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "明白了。"
         },
         {
           "character": "赵盾",
@@ -1079,7 +1236,14 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "可怜无辜死得惨，\n轻视人命如草菅。"
+          "text": "可怜无辜死得惨，"
+        },
+        {
+          "character": "赵盾",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "轻视人命如草菅。"
         },
         {
           "character": null,
@@ -1093,7 +1257,14 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "外忧未定内生患，\n权奸不除国不安。"
+          "text": "外忧未定内生患，"
+        },
+        {
+          "character": "赵盾",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "权奸不除国不安。"
         },
         {
           "character": "赵盾",
@@ -1198,7 +1369,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "闭宫阻谏，定是屠贼的奸谋使臣不能见君，君不能见本，他好从中专权，难道\n从此就无有见面之日了么？"
+          "text": "闭宫阻谏，定是屠贼的奸谋使臣不能见君，君不能见本，他好从中专权，难道"
+        },
+        {
+          "character": "赵盾",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "从此就无有见面之日了么？"
         },
         {
           "character": null,
@@ -1212,7 +1390,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "赵相国听旨，大王御体欠安，一切朝政委托相国代理，不必进宫面奏。回府去\n吧。"
+          "text": "赵相国听旨，大王御体欠安，一切朝政委托相国代理，不必进宫面奏。回府去"
+        },
+        {
+          "character": "太监",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "吧。"
         },
         {
           "character": null,
@@ -1240,7 +1425,14 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "这才是君昏臣心窘，\n贪娱阻谏闭深宫。"
+          "text": "这才是君昏臣心窘，"
+        },
+        {
+          "character": "赵盾",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "贪娱阻谏闭深宫。"
         },
         {
           "character": null,
@@ -1352,7 +1544,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.204,
+        0.24,
+        0.6933,
+        0.0667,
+        0.6351,
+        9,
+        0.24,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -1387,7 +1589,14 @@
           "line_type": "西皮原板",
           "musical_style": "西皮原板",
           "style_family": "西皮",
-          "text": "绛霄楼饮琼浆观览市廛。\n理朝事整江山好不耐烦。"
+          "text": "绛霄楼饮琼浆观览市廛。"
+        },
+        {
+          "character": "晋灵公",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "理朝事整江山好不耐烦。"
         },
         {
           "character": null,
@@ -1450,7 +1659,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "这个老厌物又来多事，还是不见他的好。\n内侍，摆驾回宫。"
+          "text": "这个老厌物又来多事，还是不见他的好。"
+        },
+        {
+          "character": "晋灵公",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "内侍，摆驾回宫。"
         },
         {
           "character": "屠岸贾",
@@ -1478,7 +1694,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "岂有此理！待寡人问个明白。\n内侍，传赵相国，就说孤王到了！"
+          "text": "岂有此理！待寡人问个明白。"
+        },
+        {
+          "character": "晋灵公",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "内侍，传赵相国，就说孤王到了！"
         },
         {
           "character": "大太监",
@@ -1576,10 +1799,73 @@
           "line_type": "西皮流水板",
           "musical_style": "西皮流水板",
           "style_family": "西皮",
-          "text": "臣告秉，\n谏奏主上是非要辨清。\n无道之君以乐己身。\n舜造漆器谏者有十人。\n望祈主上悔过自新。\n就请御驾转回朝门。"
+          "text": "臣告秉，"
         },
         {
-          "character": "有道之君民乐于天下、曲直力谏臣节之本、小事不谏成大事、休听那撺掇佞臣巧言论、晋灵公",
+          "character": "赵盾",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "谏奏主上是非要辨清。"
+        },
+        {
+          "character": "赵盾",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "无道之君以乐己身。"
+        },
+        {
+          "character": "赵盾",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "舜造漆器谏者有十人。"
+        },
+        {
+          "character": "赵盾",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "望祈主上悔过自新。"
+        },
+        {
+          "character": "赵盾",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "就请御驾转回朝门。"
+        },
+        {
+          "character": "赵盾",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "有道之君民乐于天下"
+        },
+        {
+          "character": "赵盾",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "曲直力谏臣节之本"
+        },
+        {
+          "character": "赵盾",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "小事不谏成大事"
+        },
+        {
+          "character": "赵盾",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "休听那撺掇佞臣巧言论"
+        },
+        {
+          "character": "晋灵公",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -1597,10 +1883,59 @@
           "line_type": "西皮流水板",
           "musical_style": "西皮流水板",
           "style_family": "西皮",
-          "text": "绛霄楼上宠奸佞，\n不该弹打无辜之人。\n民为邦本本固邦宁。\n为臣我怎比夏桀、伊尹？\n臣赵盾怎比商汤萁子、微子，老比干在那鹿台上剑剖心。\n雨顺风调享太平。"
+          "text": "绛霄楼上宠奸佞，"
         },
         {
-          "character": "任意宫中草菅人命、万望圣上近贤远佞、屠岸贾",
+          "character": "赵盾",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "不该弹打无辜之人。"
+        },
+        {
+          "character": "赵盾",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "民为邦本本固邦宁。"
+        },
+        {
+          "character": "赵盾",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "为臣我怎比夏桀、伊尹？"
+        },
+        {
+          "character": "赵盾",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "臣赵盾怎比商汤萁子、微子，老比干在那鹿台上剑剖心。"
+        },
+        {
+          "character": "赵盾",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "雨顺风调享太平。"
+        },
+        {
+          "character": "赵盾",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "任意宫中草菅人命"
+        },
+        {
+          "character": "赵盾",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "万望圣上近贤远佞"
+        },
+        {
+          "character": "屠岸贾",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -1618,7 +1953,35 @@
           "line_type": "西皮流水板",
           "musical_style": "西皮流水板",
           "style_family": "西皮",
-          "text": "屠岸贾谗言乱朝政，\n我与你分个谁是清来谁是浑。\n以酒为池肉为林。\n万剐凌迟是佞臣。\n远在儿孙近在身，你要仔细思忖！"
+          "text": "屠岸贾谗言乱朝政，"
+        },
+        {
+          "character": "赵盾",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "我与你分个谁是清来谁是浑。"
+        },
+        {
+          "character": "赵盾",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "以酒为池肉为林。"
+        },
+        {
+          "character": "赵盾",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "万剐凌迟是佞臣。"
+        },
+        {
+          "character": "赵盾",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "远在儿孙近在身，你要仔细思忖！"
         },
         {
           "character": null,
@@ -1646,17 +2009,66 @@
           "line_type": "西皮流水板",
           "musical_style": "西皮流水板",
           "style_family": "西皮",
-          "text": "非是臣弄舌抗君命，\n只为奸贼他玩法欺君。\n国家危亡俱在他一个人。\n臣纵埋沟渠死犹生。"
+          "text": "非是臣弄舌抗君命，"
         },
         {
-          "character": "外邦俱道我国德政、伏望圣上纳臣谏本、晋灵公",
+          "character": "赵盾",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "只为奸贼他玩法欺君。"
+        },
+        {
+          "character": "赵盾",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "国家危亡俱在他一个人。"
+        },
+        {
+          "character": "赵盾",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "臣纵埋沟渠死犹生。"
+        },
+        {
+          "character": "赵盾",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "外邦俱道我国德政"
+        },
+        {
+          "character": "赵盾",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "伏望圣上纳臣谏本"
+        },
+        {
+          "character": "晋灵公",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
           "text": "老卿家，太也唠叨了！"
         },
         {
-          "character": "外邦俱道我国德政、伏望圣上纳臣谏本、晋灵公",
+          "character": "晋灵公",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "外邦俱道我国德政"
+        },
+        {
+          "character": "晋灵公",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "伏望圣上纳臣谏本"
+        },
+        {
+          "character": "晋灵公",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
@@ -1681,10 +2093,24 @@
           "line_type": "西皮散板",
           "musical_style": "西皮散板",
           "style_family": "西皮",
-          "text": "急水滩头难流月，\n钢刀不杀无罪的人。"
+          "text": "急水滩头难流月，"
         },
         {
-          "character": "竟敢与我来厮挺、屠岸贾",
+          "character": "赵盾",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "钢刀不杀无罪的人。"
+        },
+        {
+          "character": "赵盾",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "竟敢与我来厮挺"
+        },
+        {
+          "character": "屠岸贾",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -1849,7 +2275,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "为臣府中有一勇士，名叫鉏麂，此人膂力过人，颇有胆量，命他今晚夜入相府，\n刺杀赵盾，大王意下如何？"
+          "text": "为臣府中有一勇士，名叫鉏麂，此人膂力过人，颇有胆量，命他今晚夜入相府，"
+        },
+        {
+          "character": "屠岸贾",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "刺杀赵盾，大王意下如何？"
         },
         {
           "character": "晋灵公",
@@ -1957,7 +2390,17 @@
           "西皮流水",
           "西皮流水板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.2,
+        0.4842,
+        0.4947,
+        0.0211,
+        0.5106,
+        6,
+        0.4421,
+        0.0
+      ]
     },
     {
       "scene_index": 4,
@@ -2581,7 +3024,17 @@
           "二黄原板",
           "二黄散板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.087,
+        0.1897,
+        0.8103,
+        0.0,
+        0.7018,
+        6,
+        0.0,
+        0.1897
+      ]
     },
     {
       "scene_index": 5,
@@ -3041,7 +3494,17 @@
         "singing_ratio": 0.05,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.05,
+        0.0476,
+        0.9286,
+        0.0238,
+        0.8293,
+        5,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 6,
@@ -3109,7 +3572,17 @@
         "singing_ratio": 0.333,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.333,
+        0.25,
+        0.75,
+        0.0,
+        0.3333,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 7,
@@ -3207,7 +3680,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 8,
@@ -3374,7 +3857,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.8,
+        3,
+        0.0,
+        0.0
+      ]
     }
   ]
 }

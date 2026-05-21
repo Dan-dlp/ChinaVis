@@ -223,7 +223,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "下官申嵩，乃南直人也。进士出身。官居礼部。今乃甲辰科举，会试之期。蒙\n圣恩钦点我为贡主总裁之职。自应封门回避，收拾入帘。"
+          "text": "下官申嵩，乃南直人也。进士出身。官居礼部。今乃甲辰科举，会试之期。蒙"
+        },
+        {
+          "character": "申嵩",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "圣恩钦点我为贡主总裁之职。自应封门回避，收拾入帘。"
         },
         {
           "character": "来、二堂役",
@@ -287,7 +294,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.1111,
+        0.7778,
+        0.1111,
+        0.625,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -329,7 +346,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "在下王有道，浙东人也，寄居金华。父母早逝，荆妻孟氏，十分贤德。妹子淑\n英，聪敏伶俐，年方一十八岁，尚未许字。想我苦读经纶，功名未能上进。今\n当会试，自应打点进场，不免将孟氏、妹子唤出堂前，嘱咐一番，也好入场。\n娘子、贤妹哪里？"
+          "text": "在下王有道，浙东人也，寄居金华。父母早逝，荆妻孟氏，十分贤德。妹子淑"
+        },
+        {
+          "character": "王有道",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "英，聪敏伶俐，年方一十八岁，尚未许字。想我苦读经纶，功名未能上进。今"
+        },
+        {
+          "character": "王有道",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "当会试，自应打点进场，不免将孟氏、妹子唤出堂前，嘱咐一番，也好入场。"
+        },
+        {
+          "character": "王有道",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "娘子、贤妹哪里？"
         },
         {
           "character": null,
@@ -420,42 +458,119 @@
           "line_type": "西皮慢板",
           "musical_style": "西皮慢板",
           "style_family": "西皮",
-          "text": "奴这里夫妻情把盏奉敬，\n你本是清风客谪仙之人。\n准备着显父母改换门庭。"
-        },
-        {
-          "character": "但愿得入科场百事利顺、王有道",
-          "line_type": "西皮慢板",
-          "musical_style": "西皮慢板",
-          "style_family": "西皮",
-          "text": "承谢你贤德心喜之不尽，\n这一回必定要鱼跳龙门。"
+          "text": "奴这里夫妻情把盏奉敬，"
         },
         {
           "character": "孟月华",
           "line_type": "西皮慢板",
           "musical_style": "西皮慢板",
           "style_family": "西皮",
-          "text": "二杯酒请官人须要饮尽，\n预贺喜以表我夫妻之情。"
+          "text": "你本是清风客谪仙之人。"
+        },
+        {
+          "character": "孟月华",
+          "line_type": "西皮慢板",
+          "musical_style": "西皮慢板",
+          "style_family": "西皮",
+          "text": "准备着显父母改换门庭。"
+        },
+        {
+          "character": "孟月华",
+          "line_type": "西皮慢板",
+          "musical_style": "西皮慢板",
+          "style_family": "西皮",
+          "text": "但愿得入科场百事利顺"
         },
         {
           "character": "王有道",
           "line_type": "西皮慢板",
           "musical_style": "西皮慢板",
           "style_family": "西皮",
-          "text": "论恩爱说情义我自当饮，\n断不能辜负你敬爱之心。"
+          "text": "承谢你贤德心喜之不尽，"
+        },
+        {
+          "character": "王有道",
+          "line_type": "西皮慢板",
+          "musical_style": "西皮慢板",
+          "style_family": "西皮",
+          "text": "这一回必定要鱼跳龙门。"
+        },
+        {
+          "character": "孟月华",
+          "line_type": "西皮慢板",
+          "musical_style": "西皮慢板",
+          "style_family": "西皮",
+          "text": "二杯酒请官人须要饮尽，"
+        },
+        {
+          "character": "孟月华",
+          "line_type": "西皮慢板",
+          "musical_style": "西皮慢板",
+          "style_family": "西皮",
+          "text": "预贺喜以表我夫妻之情。"
+        },
+        {
+          "character": "王有道",
+          "line_type": "西皮慢板",
+          "musical_style": "西皮慢板",
+          "style_family": "西皮",
+          "text": "论恩爱说情义我自当饮，"
+        },
+        {
+          "character": "王有道",
+          "line_type": "西皮慢板",
+          "musical_style": "西皮慢板",
+          "style_family": "西皮",
+          "text": "断不能辜负你敬爱之心。"
         },
         {
           "character": "王淑英",
           "line_type": "西皮慢板",
           "musical_style": "西皮慢板",
           "style_family": "西皮",
-          "text": "自幼儿父母亡我自惨悯，\n兄和妹好一似孤雁失群。\n这杯酒但愿你早跳龙门。"
+          "text": "自幼儿父母亡我自惨悯，"
         },
         {
-          "character": "今喜得我哥哥才如锦绣、王有道",
+          "character": "王淑英",
+          "line_type": "西皮慢板",
+          "musical_style": "西皮慢板",
+          "style_family": "西皮",
+          "text": "兄和妹好一似孤雁失群。"
+        },
+        {
+          "character": "王淑英",
+          "line_type": "西皮慢板",
+          "musical_style": "西皮慢板",
+          "style_family": "西皮",
+          "text": "这杯酒但愿你早跳龙门。"
+        },
+        {
+          "character": "王淑英",
+          "line_type": "西皮慢板",
+          "musical_style": "西皮慢板",
+          "style_family": "西皮",
+          "text": "今喜得我哥哥才如锦绣"
+        },
+        {
+          "character": "王有道",
           "line_type": "西皮快板",
           "musical_style": "西皮快板",
           "style_family": "西皮",
-          "text": "贤胞妹你爱我手足情份，\n猛想起父母恩无限伤心。\n终不愧王有道苦读五经。"
+          "text": "贤胞妹你爱我手足情份，"
+        },
+        {
+          "character": "王有道",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "猛想起父母恩无限伤心。"
+        },
+        {
+          "character": "王有道",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "终不愧王有道苦读五经。"
         },
         {
           "character": null,
@@ -483,21 +598,42 @@
           "line_type": "西皮原板",
           "musical_style": "西皮原板",
           "style_family": "西皮",
-          "text": "我丈夫也称得博古学问，\n此一去必定要鱼化龙门。"
-        },
-        {
-          "character": "王淑英",
-          "line_type": "西皮原板",
-          "musical_style": "西皮原板",
-          "style_family": "西皮",
-          "text": "那时间我嫂嫂诰命封赠，\n打点起精神来要做夫人。"
+          "text": "我丈夫也称得博古学问，"
         },
         {
           "character": "孟月华",
           "line_type": "西皮原板",
           "musical_style": "西皮原板",
           "style_family": "西皮",
-          "text": "贤妹妹休取笑一同欢庆，\n且坐下作针旨散闷谈心。"
+          "text": "此一去必定要鱼化龙门。"
+        },
+        {
+          "character": "王淑英",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "那时间我嫂嫂诰命封赠，"
+        },
+        {
+          "character": "王淑英",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "打点起精神来要做夫人。"
+        },
+        {
+          "character": "孟月华",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "贤妹妹休取笑一同欢庆，"
+        },
+        {
+          "character": "孟月华",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "且坐下作针旨散闷谈心。"
         },
         {
           "character": null,
@@ -511,10 +647,24 @@
           "line_type": "西皮原板",
           "musical_style": "西皮原板",
           "style_family": "西皮",
-          "text": "才离了孟家庄不多路远，\n不觉得又到了姑爷家门。"
+          "text": "才离了孟家庄不多路远，"
         },
         {
-          "character": "用手儿推推门关得甚紧、孟月华",
+          "character": "孟德禄",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "不觉得又到了姑爷家门。"
+        },
+        {
+          "character": "孟德禄",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "用手儿推推门关得甚紧"
+        },
+        {
+          "character": "孟月华",
           "line_type": "西皮原板",
           "musical_style": "西皮原板",
           "style_family": "西皮",
@@ -560,14 +710,28 @@
           "line_type": "西皮原板",
           "musical_style": "西皮原板",
           "style_family": "西皮",
-          "text": "却原来蠢小厮前来则甚，\n我这里且开门问他何因。"
+          "text": "却原来蠢小厮前来则甚，"
+        },
+        {
+          "character": "孟月华",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "我这里且开门问他何因。"
         },
         {
           "character": "孟德禄",
           "line_type": "西皮原板",
           "musical_style": "西皮原板",
           "style_family": "西皮",
-          "text": "见姑娘忙向前把安来请，\n老员外和安人差我来临。"
+          "text": "见姑娘忙向前把安来请，"
+        },
+        {
+          "character": "孟德禄",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "老员外和安人差我来临。"
         },
         {
           "character": "孟月华",
@@ -588,21 +752,42 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "原来为此事而来。吓，德禄，你姑爷入场会试去了。我若回去，只剩姑娘一人\n在家。无人照管门户，难以回去。"
+          "text": "原来为此事而来。吓，德禄，你姑爷入场会试去了。我若回去，只剩姑娘一人"
+        },
+        {
+          "character": "孟月华",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "在家。无人照管门户，难以回去。"
         },
         {
           "character": "孟德禄",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "姑娘你这话说错了。不过半天功夫，祭祖后，就好回来。又不要你久住在家，\n还有小姑娘照管门户。你这一说，你们姑娘出了嫁，难道不回家祭祖么？"
+          "text": "姑娘你这话说错了。不过半天功夫，祭祖后，就好回来。又不要你久住在家，"
+        },
+        {
+          "character": "孟德禄",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "还有小姑娘照管门户。你这一说，你们姑娘出了嫁，难道不回家祭祖么？"
         },
         {
           "character": "王淑英",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "吓，嫂嫂，既是员外接你回去祭祖，半天功夫，就好回来。何必叫这小厮，在\n此胡言乱语。"
+          "text": "吓，嫂嫂，既是员外接你回去祭祖，半天功夫，就好回来。何必叫这小厮，在"
+        },
+        {
+          "character": "王淑英",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "此胡言乱语。"
         },
         {
           "character": "孟月华",
@@ -630,10 +815,24 @@
           "line_type": "西皮原板",
           "musical_style": "西皮原板",
           "style_family": "西皮",
-          "text": "为祭祖不敢违父母之命，\n却不该抛别你照管门庭。"
+          "text": "为祭祖不敢违父母之命，"
         },
         {
-          "character": "你在家必须要小心谨慎、王淑英",
+          "character": "孟月华",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "却不该抛别你照管门庭。"
+        },
+        {
+          "character": "孟月华",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "你在家必须要小心谨慎"
+        },
+        {
+          "character": "王淑英",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -672,7 +871,14 @@
           "line_type": "西皮原板",
           "musical_style": "西皮原板",
           "style_family": "西皮",
-          "text": "急忙忙奴这里闭门要紧，\n绿窗下刺针旨爱惜寸阴。"
+          "text": "急忙忙奴这里闭门要紧，"
+        },
+        {
+          "character": "王淑英",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "绿窗下刺针旨爱惜寸阴。"
         },
         {
           "character": null,
@@ -734,7 +940,17 @@
           "西皮快板",
           "西皮慢板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.429,
+        0.5541,
+        0.4324,
+        0.0135,
+        0.5616,
+        5,
+        0.5405,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -755,21 +971,42 @@
           "line_type": "西皮原板",
           "musical_style": "西皮原板",
           "style_family": "西皮",
-          "text": "都只为祭祖先上坟要紧，\n心儿里犹恐误入场点名。"
-        },
-        {
-          "character": "柳生春",
-          "line_type": "白",
-          "musical_style": null,
-          "style_family": null,
-          "text": "小生柳生春。幼习孔孟，因为功名心胜，特来城外祭祖上坟，必要赶回入场会\n试。吓，看这日色昏沉，必要降雨，不免赶紧回去便了。"
+          "text": "都只为祭祖先上坟要紧，"
         },
         {
           "character": "柳生春",
           "line_type": "西皮原板",
           "musical_style": "西皮原板",
           "style_family": "西皮",
-          "text": "祭祖先急赶回功名要紧，\n见红日又昏沉怕雨降临。"
+          "text": "心儿里犹恐误入场点名。"
+        },
+        {
+          "character": "柳生春",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "小生柳生春。幼习孔孟，因为功名心胜，特来城外祭祖上坟，必要赶回入场会"
+        },
+        {
+          "character": "柳生春",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "试。吓，看这日色昏沉，必要降雨，不免赶紧回去便了。"
+        },
+        {
+          "character": "柳生春",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "祭祖先急赶回功名要紧，"
+        },
+        {
+          "character": "柳生春",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "见红日又昏沉怕雨降临。"
         },
         {
           "character": null,
@@ -790,7 +1027,17 @@
         "musical_styles": [
           "西皮原板"
         ]
-      }
+      },
+      "scene_feature": [
+        1.0,
+        0.6667,
+        0.3333,
+        0.0,
+        0.0,
+        1,
+        0.6667,
+        0.0
+      ]
     },
     {
       "scene_index": 4,
@@ -819,21 +1066,70 @@
           "line_type": "西皮原板",
           "musical_style": "西皮原板",
           "style_family": "西皮",
-          "text": "叹世人在阳间何必争论，\n看起来净都是黄土新坟。\n幸得有孝顺女半子收成。"
+          "text": "叹世人在阳间何必争论，"
         },
         {
-          "character": "我二老无子嗣终身怨恨、孟夫人",
+          "character": "孟明时",
           "line_type": "西皮原板",
           "musical_style": "西皮原板",
           "style_family": "西皮",
-          "text": "都只为前世里未曾修行，\n是所以到今生无子伶仃。\n暂逍遥且开怀以度光阴。"
+          "text": "看起来净都是黄土新坟。"
         },
         {
-          "character": "我和你归家去同女欢庆、孟月华",
+          "character": "孟明时",
           "line_type": "西皮原板",
           "musical_style": "西皮原板",
           "style_family": "西皮",
-          "text": "二爹娘休得要心忧烦闷，\n虽无子有女儿便是亲生。"
+          "text": "幸得有孝顺女半子收成。"
+        },
+        {
+          "character": "孟明时",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "我二老无子嗣终身怨恨"
+        },
+        {
+          "character": "孟夫人",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "都只为前世里未曾修行，"
+        },
+        {
+          "character": "孟夫人",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "是所以到今生无子伶仃。"
+        },
+        {
+          "character": "孟夫人",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "暂逍遥且开怀以度光阴。"
+        },
+        {
+          "character": "孟夫人",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "我和你归家去同女欢庆"
+        },
+        {
+          "character": "孟月华",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "二爹娘休得要心忧烦闷，"
+        },
+        {
+          "character": "孟月华",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "虽无子有女儿便是亲生。"
         },
         {
           "character": null,
@@ -896,14 +1192,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "吓，安人，想我孟明时，并无过恶，如何无子，将来百年之后，何人到坟前祭\n扫？"
+          "text": "吓，安人，想我孟明时，并无过恶，如何无子，将来百年之后，何人到坟前祭"
+        },
+        {
+          "character": "孟明时",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "扫？"
         },
         {
           "character": "孟夫人",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "员外每缝祭祖回来，就有许多浮话，难道女婿不是亲人么？我二老去世，女儿、\n女婿，岂无祭物前来祭扫，何必犹虑呢。"
+          "text": "员外每缝祭祖回来，就有许多浮话，难道女婿不是亲人么？我二老去世，女儿、"
+        },
+        {
+          "character": "孟夫人",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "女婿，岂无祭物前来祭扫，何必犹虑呢。"
         },
         {
           "character": "孟月华",
@@ -959,7 +1269,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "母亲有所不知，你女婿进场去了。妹子一人照应门户，为此放心不下，必要回\n去才好。"
+          "text": "母亲有所不知，你女婿进场去了。妹子一人照应门户，为此放心不下，必要回"
+        },
+        {
+          "character": "孟月华",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "去才好。"
         },
         {
           "character": "孟德禄",
@@ -1043,7 +1360,21 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "这小厮装肚疼实在可恨，\n不过是留我住不放回程。\n他那里怎知我心中要紧。"
+          "text": "这小厮装肚疼实在可恨，"
+        },
+        {
+          "character": "孟月华",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "不过是留我住不放回程。"
+        },
+        {
+          "character": "孟月华",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "他那里怎知我心中要紧。"
         },
         {
           "character": "孟月华",
@@ -1099,7 +1430,14 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "因何故一时间肚疼难忍，\n莫不是德禄儿传染之瘟。"
+          "text": "因何故一时间肚疼难忍，"
+        },
+        {
+          "character": "孟月华",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "莫不是德禄儿传染之瘟。"
         },
         {
           "character": "孟月华",
@@ -1127,14 +1465,49 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "果然是养女儿总是外姓，\n再三说留不住回转家门。\n到如今眼睁睁无有后根。"
+          "text": "果然是养女儿总是外姓，"
         },
         {
-          "character": "我当初言和语全然不信、孟夫人",
+          "character": "孟明时",
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "劝员外休得要闲言谈论，\n劝员外费资财娶妾图生。\n又何须埋怨我无用之人。"
+          "text": "再三说留不住回转家门。"
+        },
+        {
+          "character": "孟明时",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "到如今眼睁睁无有后根。"
+        },
+        {
+          "character": "孟明时",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "我当初言和语全然不信"
+        },
+        {
+          "character": "孟夫人",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "劝员外休得要闲言谈论，"
+        },
+        {
+          "character": "孟夫人",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "劝员外费资财娶妾图生。"
+        },
+        {
+          "character": "孟夫人",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "又何须埋怨我无用之人。"
         },
         {
           "character": null,
@@ -1197,10 +1570,24 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "养女儿是外姓走是不论，\n你们去赶她回却是怎生？"
+          "text": "养女儿是外姓走是不论，"
         },
         {
-          "character": "少多言进门来各自安静、孟夫人",
+          "character": "孟明时",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "你们去赶她回却是怎生？"
+        },
+        {
+          "character": "孟明时",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "少多言进门来各自安静"
+        },
+        {
+          "character": "孟夫人",
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
@@ -1294,7 +1681,17 @@
           "西皮原板",
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.171,
+        0.4085,
+        0.5634,
+        0.0282,
+        0.5714,
+        6,
+        0.4085,
+        0.0
+      ]
     },
     {
       "scene_index": 5,
@@ -1316,7 +1713,14 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "脱离了孟家庄悄悄前遁，\n心着急留妹妹独守家门。"
+          "text": "脱离了孟家庄悄悄前遁，"
+        },
+        {
+          "character": "孟月华",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "心着急留妹妹独守家门。"
         },
         {
           "character": null,
@@ -1344,14 +1748,42 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "咳，我好错也，只顾心内着急，瞒住父母赶回。不想行至中途，这样大雨，如\n何是好？\n吓，前面有一御碑亭，且到里面，暂躲一时，但等雨过，再走便了。"
+          "text": "咳，我好错也，只顾心内着急，瞒住父母赶回。不想行至中途，这样大雨，如"
+        },
+        {
+          "character": "孟月华",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "何是好？"
+        },
+        {
+          "character": "孟月华",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "吓，前面有一御碑亭，且到里面，暂躲一时，但等雨过，再走便了。"
         },
         {
           "character": "孟月华",
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "悔不该在娘家一时急往，\n岂知道半路中大雨来临。\n但愿得风云散一时就晴。"
+          "text": "悔不该在娘家一时急往，"
+        },
+        {
+          "character": "孟月华",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "岂知道半路中大雨来临。"
+        },
+        {
+          "character": "孟月华",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "但愿得风云散一时就晴。"
         },
         {
           "character": null,
@@ -1365,7 +1797,14 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "正行间猛然的大雨一阵，\n只落得湿衣衾遍体寒浸。"
+          "text": "正行间猛然的大雨一阵，"
+        },
+        {
+          "character": "柳生春",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "只落得湿衣衾遍体寒浸。"
         },
         {
           "character": null,
@@ -1393,7 +1832,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "哎呀，且住。不想这样大雨，指望到亭内躲避，谁知先有一位女娘子在内。也\n罢，我就在这亭外躲避便了。"
+          "text": "哎呀，且住。不想这样大雨，指望到亭内躲避，谁知先有一位女娘子在内。也"
+        },
+        {
+          "character": "柳生春",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "罢，我就在这亭外躲避便了。"
         },
         {
           "character": null,
@@ -1414,7 +1860,21 @@
           "line_type": "西皮慢板",
           "musical_style": "西皮慢板",
           "style_family": "西皮",
-          "text": "入科场我不该上坟则甚，\n既上坟我就该早早进城。\n这一科我无有黄甲之名。"
+          "text": "入科场我不该上坟则甚，"
+        },
+        {
+          "character": "柳生春",
+          "line_type": "西皮慢板",
+          "musical_style": "西皮慢板",
+          "style_family": "西皮",
+          "text": "既上坟我就该早早进城。"
+        },
+        {
+          "character": "柳生春",
+          "line_type": "西皮慢板",
+          "musical_style": "西皮慢板",
+          "style_family": "西皮",
+          "text": "这一科我无有黄甲之名。"
         },
         {
           "character": null,
@@ -1435,7 +1895,21 @@
           "line_type": "西皮慢板",
           "musical_style": "西皮慢板",
           "style_family": "西皮",
-          "text": "耳听得更鼓响人不见影，\n这雷雨又不住却是怎生。\n那时节才叫我喊叫无门。"
+          "text": "耳听得更鼓响人不见影，"
+        },
+        {
+          "character": "孟月华",
+          "line_type": "西皮慢板",
+          "musical_style": "西皮慢板",
+          "style_family": "西皮",
+          "text": "这雷雨又不住却是怎生。"
+        },
+        {
+          "character": "孟月华",
+          "line_type": "西皮慢板",
+          "musical_style": "西皮慢板",
+          "style_family": "西皮",
+          "text": "那时节才叫我喊叫无门。"
         },
         {
           "character": null,
@@ -1449,7 +1923,49 @@
           "line_type": "西皮二六板",
           "musical_style": "西皮二六板",
           "style_family": "西皮",
-          "text": "这大雨起一阵紧似一阵，\n脱下衣衫垫灰尘。\n手摸胸膛自思情。\n男女孤存在碑亭。\n我淫人妇妇淫人。\n读书之人要志诚。\n怕什么男女夜黄昏。"
+          "text": "这大雨起一阵紧似一阵，"
+        },
+        {
+          "character": "柳生春",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "脱下衣衫垫灰尘。"
+        },
+        {
+          "character": "柳生春",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "手摸胸膛自思情。"
+        },
+        {
+          "character": "柳生春",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "男女孤存在碑亭。"
+        },
+        {
+          "character": "柳生春",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "我淫人妇妇淫人。"
+        },
+        {
+          "character": "柳生春",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "读书之人要志诚。"
+        },
+        {
+          "character": "柳生春",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "怕什么男女夜黄昏。"
         },
         {
           "character": null,
@@ -1463,7 +1979,49 @@
           "line_type": "西皮二六板",
           "musical_style": "西皮二六板",
           "style_family": "西皮",
-          "text": "鼓打四更心不定，\n思前想后胆怕惊。\n岂不失了贞节名。\n今朝一宿在碑亭。\n须当说假莫说真。\n为怨风雨不住声。\n归家焚香谢神灵。"
+          "text": "鼓打四更心不定，"
+        },
+        {
+          "character": "孟月华",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "思前想后胆怕惊。"
+        },
+        {
+          "character": "孟月华",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "岂不失了贞节名。"
+        },
+        {
+          "character": "孟月华",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "今朝一宿在碑亭。"
+        },
+        {
+          "character": "孟月华",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "须当说假莫说真。"
+        },
+        {
+          "character": "孟月华",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "为怨风雨不住声。"
+        },
+        {
+          "character": "孟月华",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "归家焚香谢神灵。"
         },
         {
           "character": null,
@@ -1477,7 +2035,35 @@
           "line_type": "西皮快板",
           "musical_style": "西皮快板",
           "style_family": "西皮",
-          "text": "大雨已住风凉净，\n云开雾散听五更。\n远远似觉有人行。\n何况先来女钗裙。\n远去他乡好施行。"
+          "text": "大雨已住风凉净，"
+        },
+        {
+          "character": "柳生春",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "云开雾散听五更。"
+        },
+        {
+          "character": "柳生春",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "远远似觉有人行。"
+        },
+        {
+          "character": "柳生春",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "何况先来女钗裙。"
+        },
+        {
+          "character": "柳生春",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "远去他乡好施行。"
         },
         {
           "character": null,
@@ -1491,7 +2077,28 @@
           "line_type": "西皮快板",
           "musical_style": "西皮快板",
           "style_family": "西皮",
-          "text": "此人已去心放定，\n几乎逼坏女钗裙。\n十分急处一时轻。\n那人不来算志诚。"
+          "text": "此人已去心放定，"
+        },
+        {
+          "character": "孟月华",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "几乎逼坏女钗裙。"
+        },
+        {
+          "character": "孟月华",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "十分急处一时轻。"
+        },
+        {
+          "character": "孟月华",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "那人不来算志诚。"
         },
         {
           "character": null,
@@ -1525,7 +2132,17 @@
           "西皮慢板",
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.6,
+        0.8085,
+        0.1915,
+        0.0,
+        0.1304,
+        2,
+        0.8085,
+        0.0
+      ]
     },
     {
       "scene_index": 6,
@@ -1548,7 +2165,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 7,
@@ -1692,7 +2319,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "“子曰：‘君子求诸己，小人求诸人。’即所求以观人，而其品各著矣。副求\n者人心之见端也。人与己分，而君子小人之品著，可不慎哉。”\n哦，此卷可以。"
+          "text": "“子曰：‘君子求诸己，小人求诸人。’即所求以观人，而其品各著矣。副求"
+        },
+        {
+          "character": "申嵩",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "者人心之见端也。人与己分，而君子小人之品著，可不慎哉。”"
+        },
+        {
+          "character": "申嵩",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "哦，此卷可以。"
         },
         {
           "character": null,
@@ -1743,7 +2384,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.9375,
+        0.0625,
+        0.8,
+        5,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 8,
@@ -1770,7 +2421,14 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "脱离了孟家庄悄悄前遁，\n心着急留妹妹独守家门。"
+          "text": "脱离了孟家庄悄悄前遁，"
+        },
+        {
+          "character": "孟月华",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "心着急留妹妹独守家门。"
         },
         {
           "character": null,
@@ -1798,14 +2456,42 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "咳，我好错也，只顾心内着急，瞒住父母赶回。不想行至中途，这样大雨，如\n何是好？\n吓，前面有一御碑亭，且到里面，暂躲一时，但等雨过，再走便了。"
+          "text": "咳，我好错也，只顾心内着急，瞒住父母赶回。不想行至中途，这样大雨，如"
+        },
+        {
+          "character": "孟月华",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "何是好？"
+        },
+        {
+          "character": "孟月华",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "吓，前面有一御碑亭，且到里面，暂躲一时，但等雨过，再走便了。"
         },
         {
           "character": "孟月华",
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "悔不该在娘家一时急往，\n岂知道半路中大雨来临。\n但愿得风云散一时就晴。"
+          "text": "悔不该在娘家一时急往，"
+        },
+        {
+          "character": "孟月华",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "岂知道半路中大雨来临。"
+        },
+        {
+          "character": "孟月华",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "但愿得风云散一时就晴。"
         },
         {
           "character": null,
@@ -1819,7 +2505,14 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "正行间猛然的大雨一阵，\n只落得湿衣衾遍体寒浸。"
+          "text": "正行间猛然的大雨一阵，"
+        },
+        {
+          "character": "柳生春",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "只落得湿衣衾遍体寒浸。"
         },
         {
           "character": null,
@@ -1847,7 +2540,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "哎呀，且住。不想这样大雨，指望到亭内躲避，谁知先有一位女娘子在内。也\n罢，我就在这亭外躲避便了。"
+          "text": "哎呀，且住。不想这样大雨，指望到亭内躲避，谁知先有一位女娘子在内。也"
+        },
+        {
+          "character": "柳生春",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "罢，我就在这亭外躲避便了。"
         },
         {
           "character": null,
@@ -1868,7 +2568,21 @@
           "line_type": "西皮慢板",
           "musical_style": "西皮慢板",
           "style_family": "西皮",
-          "text": "入科场我不该上坟则甚，\n既上坟我就该早早进城。\n这一科我无有黄甲之名。"
+          "text": "入科场我不该上坟则甚，"
+        },
+        {
+          "character": "柳生春",
+          "line_type": "西皮慢板",
+          "musical_style": "西皮慢板",
+          "style_family": "西皮",
+          "text": "既上坟我就该早早进城。"
+        },
+        {
+          "character": "柳生春",
+          "line_type": "西皮慢板",
+          "musical_style": "西皮慢板",
+          "style_family": "西皮",
+          "text": "这一科我无有黄甲之名。"
         },
         {
           "character": null,
@@ -1889,7 +2603,21 @@
           "line_type": "西皮慢板",
           "musical_style": "西皮慢板",
           "style_family": "西皮",
-          "text": "耳听得更鼓响人不见影，\n这雷雨又不住却是怎生。\n那时节才叫我喊叫无门。"
+          "text": "耳听得更鼓响人不见影，"
+        },
+        {
+          "character": "孟月华",
+          "line_type": "西皮慢板",
+          "musical_style": "西皮慢板",
+          "style_family": "西皮",
+          "text": "这雷雨又不住却是怎生。"
+        },
+        {
+          "character": "孟月华",
+          "line_type": "西皮慢板",
+          "musical_style": "西皮慢板",
+          "style_family": "西皮",
+          "text": "那时节才叫我喊叫无门。"
         },
         {
           "character": null,
@@ -1903,7 +2631,49 @@
           "line_type": "西皮二六板",
           "musical_style": "西皮二六板",
           "style_family": "西皮",
-          "text": "这大雨起一阵紧似一阵，\n脱下衣衫垫灰尘。\n手摸胸膛自思情。\n男女孤存在碑亭。\n我淫人妇妇淫人。\n读书之人要志诚。\n怕什么男女夜黄昏。"
+          "text": "这大雨起一阵紧似一阵，"
+        },
+        {
+          "character": "柳生春",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "脱下衣衫垫灰尘。"
+        },
+        {
+          "character": "柳生春",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "手摸胸膛自思情。"
+        },
+        {
+          "character": "柳生春",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "男女孤存在碑亭。"
+        },
+        {
+          "character": "柳生春",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "我淫人妇妇淫人。"
+        },
+        {
+          "character": "柳生春",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "读书之人要志诚。"
+        },
+        {
+          "character": "柳生春",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "怕什么男女夜黄昏。"
         },
         {
           "character": null,
@@ -1917,7 +2687,49 @@
           "line_type": "西皮二六板",
           "musical_style": "西皮二六板",
           "style_family": "西皮",
-          "text": "鼓打四更心不定，\n思前想后胆怕惊。\n岂不失了贞节名。\n今朝一宿在碑亭。\n须当说假莫说真。\n为怨风雨不住声。\n归家焚香谢神灵。"
+          "text": "鼓打四更心不定，"
+        },
+        {
+          "character": "孟月华",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "思前想后胆怕惊。"
+        },
+        {
+          "character": "孟月华",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "岂不失了贞节名。"
+        },
+        {
+          "character": "孟月华",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "今朝一宿在碑亭。"
+        },
+        {
+          "character": "孟月华",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "须当说假莫说真。"
+        },
+        {
+          "character": "孟月华",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "为怨风雨不住声。"
+        },
+        {
+          "character": "孟月华",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "归家焚香谢神灵。"
         },
         {
           "character": null,
@@ -1931,7 +2743,35 @@
           "line_type": "西皮快板",
           "musical_style": "西皮快板",
           "style_family": "西皮",
-          "text": "大雨已住风凉净，\n云开雾散听五更。\n远远似觉有人行。\n何况先来女钗裙。\n远去他乡好施行。"
+          "text": "大雨已住风凉净，"
+        },
+        {
+          "character": "柳生春",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "云开雾散听五更。"
+        },
+        {
+          "character": "柳生春",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "远远似觉有人行。"
+        },
+        {
+          "character": "柳生春",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "何况先来女钗裙。"
+        },
+        {
+          "character": "柳生春",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "远去他乡好施行。"
         },
         {
           "character": null,
@@ -1945,7 +2785,28 @@
           "line_type": "西皮快板",
           "musical_style": "西皮快板",
           "style_family": "西皮",
-          "text": "此人已去心放定，\n几乎逼坏女钗裙。\n十分急处一时轻。\n那人不来算志诚。"
+          "text": "此人已去心放定，"
+        },
+        {
+          "character": "孟月华",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "几乎逼坏女钗裙。"
+        },
+        {
+          "character": "孟月华",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "十分急处一时轻。"
+        },
+        {
+          "character": "孟月华",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "那人不来算志诚。"
         },
         {
           "character": null,
@@ -2092,7 +2953,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "“子曰：‘君子求诸己，小人求诸人。’即所求以观人，而其品各著矣。副求\n者人心之见端也。人与己分，而君子小人之品著，可不慎哉。”\n哦，此卷可以。"
+          "text": "“子曰：‘君子求诸己，小人求诸人。’即所求以观人，而其品各著矣。副求"
+        },
+        {
+          "character": "申嵩",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "者人心之见端也。人与己分，而君子小人之品著，可不慎哉。”"
+        },
+        {
+          "character": "申嵩",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "哦，此卷可以。"
         },
         {
           "character": null,
@@ -2125,7 +3000,17 @@
           "西皮快板",
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.125,
+        0.6032,
+        0.381,
+        0.0159,
+        0.3065,
+        7,
+        0.6032,
+        0.0
+      ]
     },
     {
       "scene_index": 9,
@@ -2789,7 +3674,17 @@
           "西皮慢板",
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.118,
+        0.2568,
+        0.7027,
+        0.0405,
+        0.6849,
+        5,
+        0.2568,
+        0.0
+      ]
     },
     {
       "scene_index": 10,
@@ -3191,7 +4086,17 @@
           "西皮导板",
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.1,
+        0.2955,
+        0.6591,
+        0.0455,
+        0.6279,
+        3,
+        0.2727,
+        0.0
+      ]
     },
     {
       "scene_index": 11,
@@ -3595,7 +4500,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.775,
+        0.225,
+        0.8462,
+        6,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 12,
@@ -3644,7 +4559,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        1.0,
+        0.5,
+        0.5,
+        0.0,
+        0.0,
+        1,
+        0.5,
+        0.0
+      ]
     },
     {
       "scene_index": 13,
@@ -4107,7 +5032,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.138,
+        0.2955,
+        0.6591,
+        0.0455,
+        0.5814,
+        8,
+        0.2955,
+        0.0
+      ]
     }
   ]
 }

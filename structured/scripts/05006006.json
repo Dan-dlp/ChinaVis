@@ -140,14 +140,42 @@
           "line_type": "念",
           "musical_style": null,
           "style_family": null,
-          "text": "明灿灿盔缨赛过太阳红，飘渺渺旌旗射入斗牛宫。\n雄赳赳摆列着千员上将，虎威威胯下驹战马如龙！"
+          "text": "明灿灿盔缨赛过太阳红，飘渺渺旌旗射入斗牛宫。"
+        },
+        {
+          "character": "彭越",
+          "line_type": "念",
+          "musical_style": null,
+          "style_family": null,
+          "text": "雄赳赳摆列着千员上将，虎威威胯下驹战马如龙！"
         },
         {
           "character": "彭越",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "本藩彭越，高祖驾前为臣，因灭霸王有功，三齐王保奏，官封九梁王之职。奉\n了汉王旨意，巡查边塞，且喜四路宁靖，太平盛世。前三日有火牌进京。今日\n回朝，缴旨复命。今乃黄道吉日，正好班师回朝。\n中军！"
+          "text": "本藩彭越，高祖驾前为臣，因灭霸王有功，三齐王保奏，官封九梁王之职。奉"
+        },
+        {
+          "character": "彭越",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "了汉王旨意，巡查边塞，且喜四路宁靖，太平盛世。前三日有火牌进京。今日"
+        },
+        {
+          "character": "彭越",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "回朝，缴旨复命。今乃黄道吉日，正好班师回朝。"
+        },
+        {
+          "character": "彭越",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "中军！"
         },
         {
           "character": "中军",
@@ -196,7 +224,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.1,
+        0.7,
+        0.2,
+        0.3333,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -229,7 +267,77 @@
           "line_type": "西皮垛板",
           "musical_style": "西皮垛板",
           "style_family": "西皮",
-          "text": "层层叠叠摆枪刀。\n粉底朝靴踏金鳌。\n闷来王府饮香醪。\n楚、汉相争动枪刀。\n旗开得胜转回朝。\n吹散了八千子弟四路奔逃。\n光禄寺大摆酒筵文武脱袍。\n一腔恶气往上飘。\n看他动静再作开交。\n准备金钩钓鱼鳌。\n汉室一统乐唐尧。"
+          "text": "层层叠叠摆枪刀。"
+        },
+        {
+          "character": "韩信",
+          "line_type": "西皮垛板",
+          "musical_style": "西皮垛板",
+          "style_family": "西皮",
+          "text": "粉底朝靴踏金鳌。"
+        },
+        {
+          "character": "韩信",
+          "line_type": "西皮垛板",
+          "musical_style": "西皮垛板",
+          "style_family": "西皮",
+          "text": "闷来王府饮香醪。"
+        },
+        {
+          "character": "韩信",
+          "line_type": "西皮垛板",
+          "musical_style": "西皮垛板",
+          "style_family": "西皮",
+          "text": "楚、汉相争动枪刀。"
+        },
+        {
+          "character": "韩信",
+          "line_type": "西皮垛板",
+          "musical_style": "西皮垛板",
+          "style_family": "西皮",
+          "text": "旗开得胜转回朝。"
+        },
+        {
+          "character": "韩信",
+          "line_type": "西皮垛板",
+          "musical_style": "西皮垛板",
+          "style_family": "西皮",
+          "text": "吹散了八千子弟四路奔逃。"
+        },
+        {
+          "character": "韩信",
+          "line_type": "西皮垛板",
+          "musical_style": "西皮垛板",
+          "style_family": "西皮",
+          "text": "光禄寺大摆酒筵文武脱袍。"
+        },
+        {
+          "character": "韩信",
+          "line_type": "西皮垛板",
+          "musical_style": "西皮垛板",
+          "style_family": "西皮",
+          "text": "一腔恶气往上飘。"
+        },
+        {
+          "character": "韩信",
+          "line_type": "西皮垛板",
+          "musical_style": "西皮垛板",
+          "style_family": "西皮",
+          "text": "看他动静再作开交。"
+        },
+        {
+          "character": "韩信",
+          "line_type": "西皮垛板",
+          "musical_style": "西皮垛板",
+          "style_family": "西皮",
+          "text": "准备金钩钓鱼鳌。"
+        },
+        {
+          "character": "韩信",
+          "line_type": "西皮垛板",
+          "musical_style": "西皮垛板",
+          "style_family": "西皮",
+          "text": "汉室一统乐唐尧。"
         },
         {
           "character": null,
@@ -243,7 +351,21 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "位到三台皇恩浩，\n乌纱象简紫罗袍。\n见了齐王说根苗。"
+          "text": "位到三台皇恩浩，"
+        },
+        {
+          "character": "萧何",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "乌纱象简紫罗袍。"
+        },
+        {
+          "character": "萧何",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "见了齐王说根苗。"
         },
         {
           "character": "萧何",
@@ -253,7 +375,14 @@
           "text": "臣萧何参驾，三齐王千岁。"
         },
         {
-          "character": "迈步不觉王府到、韩信",
+          "character": "萧何",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "迈步不觉王府到"
+        },
+        {
+          "character": "韩信",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -369,7 +498,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "看酒。\n待本藩把盏。"
+          "text": "看酒。"
+        },
+        {
+          "character": "韩信",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "待本藩把盏。"
         },
         {
           "character": "萧何",
@@ -404,7 +540,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "请请请。\n中军，大杯伺候。\n丞相，请请请。"
+          "text": "请请请。"
+        },
+        {
+          "character": "韩信",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "中军，大杯伺候。"
+        },
+        {
+          "character": "韩信",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "丞相，请请请。"
         },
         {
           "character": "萧何",
@@ -439,7 +589,35 @@
           "line_type": "西皮原板",
           "musical_style": "西皮原板",
           "style_family": "西皮",
-          "text": "在王驾前王恩浩，\n食王爵禄当报劳。\n赛过尧、舜、禹、汤朝。\n你私自造下了什么律条。\n越思越想越好笑……"
+          "text": "在王驾前王恩浩，"
+        },
+        {
+          "character": "韩信",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "食王爵禄当报劳。"
+        },
+        {
+          "character": "韩信",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "赛过尧、舜、禹、汤朝。"
+        },
+        {
+          "character": "韩信",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "你私自造下了什么律条。"
+        },
+        {
+          "character": "韩信",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "越思越想越好笑……"
         },
         {
           "character": "韩信",
@@ -449,7 +627,21 @@
           "text": "哈哈哈！"
         },
         {
-          "character": "看来汉王真有道、论功劳谁敢将我傲、萧何",
+          "character": "韩信",
+          "line_type": "笑",
+          "musical_style": null,
+          "style_family": null,
+          "text": "看来汉王真有道"
+        },
+        {
+          "character": "韩信",
+          "line_type": "笑",
+          "musical_style": null,
+          "style_family": null,
+          "text": "论功劳谁敢将我傲"
+        },
+        {
+          "character": "萧何",
           "line_type": "西皮垛板",
           "musical_style": "西皮垛板",
           "style_family": "西皮",
@@ -460,7 +652,21 @@
           "line_type": "西皮垛板",
           "musical_style": "西皮垛板",
           "style_family": "西皮",
-          "text": "开言便把萧何叫，\n本藩言来听根苗：\n但不知律条何人造？"
+          "text": "开言便把萧何叫，"
+        },
+        {
+          "character": "韩信",
+          "line_type": "西皮垛板",
+          "musical_style": "西皮垛板",
+          "style_family": "西皮",
+          "text": "本藩言来听根苗："
+        },
+        {
+          "character": "韩信",
+          "line_type": "西皮垛板",
+          "musical_style": "西皮垛板",
+          "style_family": "西皮",
+          "text": "但不知律条何人造？"
         },
         {
           "character": "萧何",
@@ -509,7 +715,21 @@
           "line_type": "西皮垛板",
           "musical_style": "西皮垛板",
           "style_family": "西皮",
-          "text": "昔日功劳今荣显，\n赫赫威风果非凡。\n刀枪剑戟列森严！"
+          "text": "昔日功劳今荣显，"
+        },
+        {
+          "character": "萧何",
+          "line_type": "西皮垛板",
+          "musical_style": "西皮垛板",
+          "style_family": "西皮",
+          "text": "赫赫威风果非凡。"
+        },
+        {
+          "character": "萧何",
+          "line_type": "西皮垛板",
+          "musical_style": "西皮垛板",
+          "style_family": "西皮",
+          "text": "刀枪剑戟列森严！"
         },
         {
           "character": "萧何",
@@ -760,7 +980,17 @@
           "西皮导板",
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.121,
+        0.3297,
+        0.6703,
+        0.0,
+        0.6111,
+        3,
+        0.3297,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -812,7 +1042,35 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "哀家吕雉，配夫刘季。自灭霸王以来，坐镇咸阳为帝，将士俱已封官加职，可\n恨韩信傲慢，无君臣之体，受汉王二十四拜，自称三齐王。又擅杀皇叔，目中\n无主。此人若不早除，将来必是汉室大患，趁主公不在朝中，且将萧何宣上殿\n来，定下一计，将韩信斩首，方消我心头之恨！\n内侍！"
+          "text": "哀家吕雉，配夫刘季。自灭霸王以来，坐镇咸阳为帝，将士俱已封官加职，可"
+        },
+        {
+          "character": "吕后",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "恨韩信傲慢，无君臣之体，受汉王二十四拜，自称三齐王。又擅杀皇叔，目中"
+        },
+        {
+          "character": "吕后",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "无主。此人若不早除，将来必是汉室大患，趁主公不在朝中，且将萧何宣上殿"
+        },
+        {
+          "character": "吕后",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来，定下一计，将韩信斩首，方消我心头之恨！"
+        },
+        {
+          "character": "吕后",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "内侍！"
         },
         {
           "character": "太监甲",
@@ -833,7 +1091,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "领旨。\n娘娘有旨，宣萧何上殿。"
+          "text": "领旨。"
+        },
+        {
+          "character": "太监甲",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "娘娘有旨，宣萧何上殿。"
         },
         {
           "character": "萧何",
@@ -896,14 +1161,56 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "万岁自灭霸王以来，坐镇咸阳为帝，将士俱已封官加职，可恨韩信，无有君臣\n之体，受汉王二十四拜，自称三齐王，又斩皇叔，目中无主。此人若不早除，\n将来定是汉室后患。趁主公不在朝中，定下一计，将他斩首，以除后患。"
+          "text": "万岁自灭霸王以来，坐镇咸阳为帝，将士俱已封官加职，可恨韩信，无有君臣"
+        },
+        {
+          "character": "吕后",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "之体，受汉王二十四拜，自称三齐王，又斩皇叔，目中无主。此人若不早除，"
+        },
+        {
+          "character": "吕后",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "将来定是汉室后患。趁主公不在朝中，定下一计，将他斩首，以除后患。"
         },
         {
           "character": "萧何",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "启娘娘：要斩韩信，必须先除彭越，臣有一计，娘娘宣彭越上殿，恩赐酒宴，\n以后出一对联，命他对出，若是不对，有慢君之罪。他若对了出来，有欺君之\n罪。拿他三样错罪，聪明不过帝主，再传旨三宣韩信进宫，娘娘在宫中，更衣\n沐浴，他若闯进宫门，来见金身玉体，就有欺君之罪；宣武士进宫，凭他千语\n万辩，也要斩他，岂不除了后患？"
+          "text": "启娘娘：要斩韩信，必须先除彭越，臣有一计，娘娘宣彭越上殿，恩赐酒宴，"
+        },
+        {
+          "character": "萧何",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "以后出一对联，命他对出，若是不对，有慢君之罪。他若对了出来，有欺君之"
+        },
+        {
+          "character": "萧何",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "罪。拿他三样错罪，聪明不过帝主，再传旨三宣韩信进宫，娘娘在宫中，更衣"
+        },
+        {
+          "character": "萧何",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "沐浴，他若闯进宫门，来见金身玉体，就有欺君之罪；宣武士进宫，凭他千语"
+        },
+        {
+          "character": "萧何",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "万辩，也要斩他，岂不除了后患？"
         },
         {
           "character": "吕后",
@@ -980,7 +1287,70 @@
           "line_type": "西皮垛板",
           "musical_style": "西皮垛板",
           "style_family": "西皮",
-          "text": "金牌宣来银牌召，\n来了彭越把王朝。\n九里山前逞英豪。\n楚、汉相争动枪刀。\n霸王命丧乌江道。\n旗开得胜转回朝；\n性命换来紫罗袍。\n又见吕后坐九朝。\n想是汉王不在朝。\n品级台前叩当朝。"
+          "text": "金牌宣来银牌召，"
+        },
+        {
+          "character": "彭越",
+          "line_type": "西皮垛板",
+          "musical_style": "西皮垛板",
+          "style_family": "西皮",
+          "text": "来了彭越把王朝。"
+        },
+        {
+          "character": "彭越",
+          "line_type": "西皮垛板",
+          "musical_style": "西皮垛板",
+          "style_family": "西皮",
+          "text": "九里山前逞英豪。"
+        },
+        {
+          "character": "彭越",
+          "line_type": "西皮垛板",
+          "musical_style": "西皮垛板",
+          "style_family": "西皮",
+          "text": "楚、汉相争动枪刀。"
+        },
+        {
+          "character": "彭越",
+          "line_type": "西皮垛板",
+          "musical_style": "西皮垛板",
+          "style_family": "西皮",
+          "text": "霸王命丧乌江道。"
+        },
+        {
+          "character": "彭越",
+          "line_type": "西皮垛板",
+          "musical_style": "西皮垛板",
+          "style_family": "西皮",
+          "text": "旗开得胜转回朝；"
+        },
+        {
+          "character": "彭越",
+          "line_type": "西皮垛板",
+          "musical_style": "西皮垛板",
+          "style_family": "西皮",
+          "text": "性命换来紫罗袍。"
+        },
+        {
+          "character": "彭越",
+          "line_type": "西皮垛板",
+          "musical_style": "西皮垛板",
+          "style_family": "西皮",
+          "text": "又见吕后坐九朝。"
+        },
+        {
+          "character": "彭越",
+          "line_type": "西皮垛板",
+          "musical_style": "西皮垛板",
+          "style_family": "西皮",
+          "text": "想是汉王不在朝。"
+        },
+        {
+          "character": "彭越",
+          "line_type": "西皮垛板",
+          "musical_style": "西皮垛板",
+          "style_family": "西皮",
+          "text": "品级台前叩当朝。"
         },
         {
           "character": "彭越",
@@ -990,7 +1360,49 @@
           "text": "臣彭越见驾，娘娘千岁。"
         },
         {
-          "character": "三齐王命我把粮台造、昔日高祖除秦暴、功劳挣来乌纱帽、站立在殿角用目瞧、是是是来明白了、是与不是上御道、吕后",
+          "character": "彭越",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "三齐王命我把粮台造"
+        },
+        {
+          "character": "彭越",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "昔日高祖除秦暴"
+        },
+        {
+          "character": "彭越",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "功劳挣来乌纱帽"
+        },
+        {
+          "character": "彭越",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "站立在殿角用目瞧"
+        },
+        {
+          "character": "彭越",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "是是是来明白了"
+        },
+        {
+          "character": "彭越",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "是与不是上御道"
+        },
+        {
+          "character": "吕后",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -1029,21 +1441,70 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "金殿以上把酒设，\n卿家韬略保锦阙。\n干戈扫尽颂圣德。"
+          "text": "金殿以上把酒设，"
         },
         {
-          "character": "巡查边外民乐业、彭越",
+          "character": "吕后",
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "娘娘有道奖彭越，\n为臣有本奏凤阙。\n又恨曹参面似铁。"
+          "text": "卿家韬略保锦阙。"
         },
         {
-          "character": "心中恼恨萧何贼、吕后",
+          "character": "吕后",
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "卿家奏本凤心悦，\n亦恨曹参面似铁。"
+          "text": "干戈扫尽颂圣德。"
+        },
+        {
+          "character": "吕后",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "巡查边外民乐业"
+        },
+        {
+          "character": "彭越",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "娘娘有道奖彭越，"
+        },
+        {
+          "character": "彭越",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "为臣有本奏凤阙。"
+        },
+        {
+          "character": "彭越",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "又恨曹参面似铁。"
+        },
+        {
+          "character": "彭越",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "心中恼恨萧何贼"
+        },
+        {
+          "character": "吕后",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "卿家奏本凤心悦，"
+        },
+        {
+          "character": "吕后",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "亦恨曹参面似铁。"
         },
         {
           "character": "彭越",
@@ -1106,14 +1567,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "哦呵呀，太后出这对联，若是不对，有慢君之罪；若是对，有欺君之罪。这便\n如何是好？哦呵有了，不免假装酒醉，回至府中，再作道理。"
+          "text": "哦呵呀，太后出这对联，若是不对，有慢君之罪；若是对，有欺君之罪。这便"
+        },
+        {
+          "character": "彭越",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "如何是好？哦呵有了，不免假装酒醉，回至府中，再作道理。"
         },
         {
           "character": "彭越",
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "贪色皆因淫色起，\n人不自迷祸自灭。"
+          "text": "贪色皆因淫色起，"
+        },
+        {
+          "character": "彭越",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "人不自迷祸自灭。"
         },
         {
           "character": null,
@@ -1127,7 +1602,14 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "萧何之计人难测，\n要假酒醉斩彭越。"
+          "text": "萧何之计人难测，"
+        },
+        {
+          "character": "吕后",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "要假酒醉斩彭越。"
         },
         {
           "character": "吕后",
@@ -1190,7 +1672,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "大胆彭越，戏耍哀家。\n宣彭越二次上殿。"
+          "text": "大胆彭越，戏耍哀家。"
+        },
+        {
+          "character": "吕后",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "宣彭越二次上殿。"
         },
         {
           "character": "太监甲",
@@ -1218,7 +1707,35 @@
           "line_type": "西皮快板",
           "musical_style": "西皮快板",
           "style_family": "西皮",
-          "text": "不由彭越心内焦。\n打来战表到我朝。\n只怕有何祸根苗。\n对联之事犯律条。\n或生或死走一遭。"
+          "text": "不由彭越心内焦。"
+        },
+        {
+          "character": "彭越",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "打来战表到我朝。"
+        },
+        {
+          "character": "彭越",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "只怕有何祸根苗。"
+        },
+        {
+          "character": "彭越",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "对联之事犯律条。"
+        },
+        {
+          "character": "彭越",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "或生或死走一遭。"
         },
         {
           "character": "彭越",
@@ -1228,7 +1745,35 @@
           "text": "臣彭越见驾，娘娘千岁。"
         },
         {
-          "character": "莫非哪国把反造、吉凶之事全不晓、是是是来明白了、放大胆儿上御道、吕后",
+          "character": "彭越",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "莫非哪国把反造"
+        },
+        {
+          "character": "彭越",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "吉凶之事全不晓"
+        },
+        {
+          "character": "彭越",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "是是是来明白了"
+        },
+        {
+          "character": "彭越",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "放大胆儿上御道"
+        },
+        {
+          "character": "吕后",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -1323,7 +1868,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "住了，大胆彭越，哀家与你庆功，酒醉出一对联，竟敢对出，显见主公不在朝\n中，戏耍哀家，该当何罪？\n武士走上！"
+          "text": "住了，大胆彭越，哀家与你庆功，酒醉出一对联，竟敢对出，显见主公不在朝"
+        },
+        {
+          "character": "吕后",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "中，戏耍哀家，该当何罪？"
+        },
+        {
+          "character": "吕后",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "武士走上！"
         },
         {
           "character": null,
@@ -1358,7 +1917,21 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "金殿之上将俺捆绑，\n倒叫彭越无主张。\n藏弓烹犬斩忠良！"
+          "text": "金殿之上将俺捆绑，"
+        },
+        {
+          "character": "彭越",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "倒叫彭越无主张。"
+        },
+        {
+          "character": "彭越",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "藏弓烹犬斩忠良！"
         },
         {
           "character": null,
@@ -1463,7 +2036,17 @@
           "西皮快板",
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.095,
+        0.2661,
+        0.6774,
+        0.0565,
+        0.4797,
+        7,
+        0.2581,
+        0.0
+      ]
     },
     {
       "scene_index": 4,
@@ -1506,14 +2089,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "听宣读诏曰：“韩信功莫大焉，未央宫赐宴以后围棋，三宣进宫，勿误时刻。”\n旨意读罢，谢恩。"
+          "text": "听宣读诏曰：“韩信功莫大焉，未央宫赐宴以后围棋，三宣进宫，勿误时刻。”"
+        },
+        {
+          "character": "萧何",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "旨意读罢，谢恩。"
         },
         {
           "character": "韩信",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "万万岁！\n丞相，高祖不在朝中，何人传旨？"
+          "text": "万万岁！"
+        },
+        {
+          "character": "韩信",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "丞相，高祖不在朝中，何人传旨？"
         },
         {
           "character": "萧何",
@@ -1584,7 +2181,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.7,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 5,
@@ -1694,7 +2301,21 @@
           "line_type": "内白",
           "musical_style": null,
           "style_family": null,
-          "text": "摆驾。\n（四太监、二大太监、四宫女、四銮驾、吕后同上，吕后在帐内脱衣沐浴。萧何引韩信同上，萧何下，韩信\n进帐。）"
+          "text": "摆驾。"
+        },
+        {
+          "character": "吕后",
+          "line_type": "内白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "（四太监、二大太监、四宫女、四銮驾、吕后同上，吕后在帐内脱衣沐浴。萧何引韩信同上，萧何下，韩信"
+        },
+        {
+          "character": "吕后",
+          "line_type": "内白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "进帐。）"
         },
         {
           "character": "吕后",
@@ -1715,21 +2336,84 @@
           "line_type": "高拨子摇板",
           "musical_style": "高拨子摇板",
           "style_family": "高拨子",
-          "text": "大胆韩信太癫狂，\n单人独自进未央。\n你敢臣戏主皇娘？\n败坏三纲并五常。"
+          "text": "大胆韩信太癫狂，"
         },
         {
-          "character": "哀家宫内正沐浴、论律问罪就该斩、韩信",
+          "character": "吕后",
           "line_type": "高拨子摇板",
           "musical_style": "高拨子摇板",
           "style_family": "高拨子",
-          "text": "娘娘息怒容臣表，\n恕臣俯跪奏根苗：\n娘娘凤恩将臣饶！"
+          "text": "单人独自进未央。"
         },
         {
-          "character": "萧何诓臣才赶到、吕后",
+          "character": "吕后",
+          "line_type": "高拨子摇板",
+          "musical_style": "高拨子摇板",
+          "style_family": "高拨子",
+          "text": "你敢臣戏主皇娘？"
+        },
+        {
+          "character": "吕后",
+          "line_type": "高拨子摇板",
+          "musical_style": "高拨子摇板",
+          "style_family": "高拨子",
+          "text": "败坏三纲并五常。"
+        },
+        {
+          "character": "吕后",
+          "line_type": "高拨子摇板",
+          "musical_style": "高拨子摇板",
+          "style_family": "高拨子",
+          "text": "哀家宫内正沐浴"
+        },
+        {
+          "character": "吕后",
+          "line_type": "高拨子摇板",
+          "musical_style": "高拨子摇板",
+          "style_family": "高拨子",
+          "text": "论律问罪就该斩"
+        },
+        {
+          "character": "韩信",
+          "line_type": "高拨子摇板",
+          "musical_style": "高拨子摇板",
+          "style_family": "高拨子",
+          "text": "娘娘息怒容臣表，"
+        },
+        {
+          "character": "韩信",
+          "line_type": "高拨子摇板",
+          "musical_style": "高拨子摇板",
+          "style_family": "高拨子",
+          "text": "恕臣俯跪奏根苗："
+        },
+        {
+          "character": "韩信",
+          "line_type": "高拨子摇板",
+          "musical_style": "高拨子摇板",
+          "style_family": "高拨子",
+          "text": "娘娘凤恩将臣饶！"
+        },
+        {
+          "character": "韩信",
+          "line_type": "高拨子摇板",
+          "musical_style": "高拨子摇板",
+          "style_family": "高拨子",
+          "text": "萧何诓臣才赶到"
+        },
+        {
+          "character": "吕后",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "韩信身为大臣，藐视国法，臣戏君妻，该当何罪。\n武士走上！"
+          "text": "韩信身为大臣，藐视国法，臣戏君妻，该当何罪。"
+        },
+        {
+          "character": "吕后",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "武士走上！"
         },
         {
           "character": null,
@@ -1799,7 +2483,21 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "心中只把萧何恼，\n我中他的计笼牢。\n出得宫来高声叫……"
+          "text": "心中只把萧何恼，"
+        },
+        {
+          "character": "韩信",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "我中他的计笼牢。"
+        },
+        {
+          "character": "韩信",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "出得宫来高声叫……"
         },
         {
           "character": "韩信",
@@ -1813,7 +2511,21 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "不料今日犯律条。\n叫不应萧何忙跪倒！\n娘娘赦臣命一条。"
+          "text": "不料今日犯律条。"
+        },
+        {
+          "character": "韩信",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "叫不应萧何忙跪倒！"
+        },
+        {
+          "character": "韩信",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "娘娘赦臣命一条。"
         },
         {
           "character": "吕后",
@@ -1876,7 +2588,21 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "不想今日犯律条。\n叫不应高祖忙跪倒！\n念臣功劳暂恕饶。"
+          "text": "不想今日犯律条。"
+        },
+        {
+          "character": "韩信",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "叫不应高祖忙跪倒！"
+        },
+        {
+          "character": "韩信",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "念臣功劳暂恕饶。"
         },
         {
           "character": "吕后",
@@ -1932,7 +2658,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "容奏：臣乃楚国人氏，在项羽帐下为将，官居执戟郎官，臣嫌官职卑小，弃楚\n归汉，投奔高祖，多承萧丞相收留，那时高祖看不起为臣，臣"
+          "text": "容奏：臣乃楚国人氏，在项羽帐下为将，官居执戟郎官，臣嫌官职卑小，弃楚"
+        },
+        {
+          "character": "韩信",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "归汉，投奔高祖，多承萧丞相收留，那时高祖看不起为臣，臣"
         }
       ],
       "interactions": [
@@ -1983,7 +2716,17 @@
           "西皮摇板",
           "高拨子摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.041,
+        0.3448,
+        0.6552,
+        0.0,
+        0.5088,
+        3,
+        0.1724,
+        0.0
+      ]
     }
   ]
 }

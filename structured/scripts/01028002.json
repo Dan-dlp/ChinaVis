@@ -600,7 +600,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "吾，及时雨宋江。霸占梁山，替天行道，前番攻打大名府，请了卢俊义入伙，\n共图大事。也曾命施威、杨烈两位贤弟镇守盐山。前日有探马报道，京中发来\n许多人马攻打盐山。是我放心不下，也曾命人打探，未见回报到来。\n左右，伺候了！"
+          "text": "吾，及时雨宋江。霸占梁山，替天行道，前番攻打大名府，请了卢俊义入伙，"
+        },
+        {
+          "character": "宋江",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "共图大事。也曾命施威、杨烈两位贤弟镇守盐山。前日有探马报道，京中发来"
+        },
+        {
+          "character": "宋江",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "许多人马攻打盐山。是我放心不下，也曾命人打探，未见回报到来。"
+        },
+        {
+          "character": "宋江",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "左右，伺候了！"
         },
         {
           "character": null,
@@ -614,7 +635,14 @@
           "line_type": "念",
           "musical_style": null,
           "style_family": null,
-          "text": "离了盐山寨，来此忠义堂。\n头领在上，探子叩头！"
+          "text": "离了盐山寨，来此忠义堂。"
+        },
+        {
+          "character": "探子",
+          "line_type": "念",
+          "musical_style": null,
+          "style_family": null,
+          "text": "头领在上，探子叩头！"
         },
         {
           "character": "宋江",
@@ -628,7 +656,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "今有京都差来两个兵马都监，一名邓宗弼，一名辛从忠，武艺高强，来打盐山，\n十分骁勇，已将施、杨两家头领捉拿去了。大寨无人，命俺前来搬兵求救！"
+          "text": "今有京都差来两个兵马都监，一名邓宗弼，一名辛从忠，武艺高强，来打盐山，"
+        },
+        {
+          "character": "探子",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "十分骁勇，已将施、杨两家头领捉拿去了。大寨无人，命俺前来搬兵求救！"
         },
         {
           "character": "宋江",
@@ -733,7 +768,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "既有这等之事，不得不先为防备。想那蔡京，在京都身居太尉，执掌兵权。戴、\n周二位贤弟夙与蔡京旗牌官范天喜交厚，就派他二人前去打探消息便了。"
+          "text": "既有这等之事，不得不先为防备。想那蔡京，在京都身居太尉，执掌兵权。戴、"
+        },
+        {
+          "character": "吴用",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "周二位贤弟夙与蔡京旗牌官范天喜交厚，就派他二人前去打探消息便了。"
         },
         {
           "character": "宋江",
@@ -861,7 +903,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0233,
+        0.907,
+        0.0698,
+        0.8095,
+        13,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -896,14 +948,49 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "吾，陈希真，别号道子。昔年在朝为官，官拜提辖之职。只因大战轮顿城，以\n八千官兵败西夏贼军二十万，指望加官进爵，不想皆被上司冒充而去。是我一\n怒，告职归家。也曾受过张天师传授五雷都箓大法，修炼真阳，可成正果。今\n当玉清观蟠桃大蘸，不免前去听讲一回。"
+          "text": "吾，陈希真，别号道子。昔年在朝为官，官拜提辖之职。只因大战轮顿城，以"
+        },
+        {
+          "character": "陈希真",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "八千官兵败西夏贼军二十万，指望加官进爵，不想皆被上司冒充而去。是我一"
+        },
+        {
+          "character": "陈希真",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "怒，告职归家。也曾受过张天师传授五雷都箓大法，修炼真阳，可成正果。今"
+        },
+        {
+          "character": "陈希真",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "当玉清观蟠桃大蘸，不免前去听讲一回。"
         },
         {
           "character": "陈希真",
           "line_type": "西皮原板",
           "musical_style": "西皮原板",
           "style_family": "西皮",
-          "text": "陈道子悟参禅每日修炼，\n有五雷都箓法我得真传。\n长生不老定作神仙！"
+          "text": "陈道子悟参禅每日修炼，"
+        },
+        {
+          "character": "陈希真",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "有五雷都箓法我得真传。"
+        },
+        {
+          "character": "陈希真",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "长生不老定作神仙！"
         },
         {
           "character": null,
@@ -924,7 +1011,17 @@
         "musical_styles": [
           "西皮原板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.4444,
+        0.4444,
+        0.1111,
+        0.0,
+        1,
+        0.3333,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -949,7 +1046,21 @@
           "line_type": "念",
           "musical_style": null,
           "style_family": null,
-          "text": "吾父官职不小，身居太尉当朝。生下了我，看养得娇，父母待我如珍宝。\n不读诗书文字，不习弓马枪刀，专好游山玩水，终日浪荡逍遥。\n半生好赌又好嫖，最爱美貌女多娇，女多娇！"
+          "text": "吾父官职不小，身居太尉当朝。生下了我，看养得娇，父母待我如珍宝。"
+        },
+        {
+          "character": "高世德",
+          "line_type": "念",
+          "musical_style": null,
+          "style_family": null,
+          "text": "不读诗书文字，不习弓马枪刀，专好游山玩水，终日浪荡逍遥。"
+        },
+        {
+          "character": "高世德",
+          "line_type": "念",
+          "musical_style": null,
+          "style_family": null,
+          "text": "半生好赌又好嫖，最爱美貌女多娇，女多娇！"
         },
         {
           "character": null,
@@ -963,7 +1074,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "吾，高世德。吾父高俅在朝为官，官居太尉之职，满朝文武人人奉承。是吾在\n家，终日吃着嫖赌倒也快乐。格几天闷闷不乐，要想个啥去处白相白相。\n来，请孙、薛二位师爷。"
+          "text": "吾，高世德。吾父高俅在朝为官，官居太尉之职，满朝文武人人奉承。是吾在"
+        },
+        {
+          "character": "高世德",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "家，终日吃着嫖赌倒也快乐。格几天闷闷不乐，要想个啥去处白相白相。"
+        },
+        {
+          "character": "高世德",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来，请孙、薛二位师爷。"
         },
         {
           "character": "高升",
@@ -1033,7 +1158,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "玉清观闹热？好！\n来，请教师爷！"
+          "text": "玉清观闹热？好！"
+        },
+        {
+          "character": "高世德",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来，请教师爷！"
         },
         {
           "character": "高升",
@@ -1089,7 +1221,14 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "大家同往玉清观，\n寻访美貌女婵娟。"
+          "text": "大家同往玉清观，"
+        },
+        {
+          "character": "高世德",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "寻访美貌女婵娟。"
         },
         {
           "character": null,
@@ -1153,7 +1292,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0833,
+        0.6667,
+        0.25,
+        0.6087,
+        6,
+        0.0833,
+        0.0
+      ]
     },
     {
       "scene_index": 4,
@@ -1304,7 +1453,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "孤，大宋天子，徽宗在位。自登基以来，风调雨顺，国泰民安。只有梁山贼寇，\n屡屡扰乱天下。欲发大兵二十万，扫荡贼寇。\n吓，蔡卿！"
+          "text": "孤，大宋天子，徽宗在位。自登基以来，风调雨顺，国泰民安。只有梁山贼寇，"
+        },
+        {
+          "character": "宋徽宗",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "屡屡扰乱天下。欲发大兵二十万，扫荡贼寇。"
+        },
+        {
+          "character": "宋徽宗",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "吓，蔡卿！"
         },
         {
           "character": "蔡京",
@@ -1318,7 +1481,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "孤欲征伐梁山，就命卿家挂帅，带领大兵二十万扫除山寨，加封卿家为辅国大\n将军、鲁郡开国公之职。孤定于十六日告庙誓师，四月初四日辰时起兵征讨。\n领旨下殿！"
+          "text": "孤欲征伐梁山，就命卿家挂帅，带领大兵二十万扫除山寨，加封卿家为辅国大"
+        },
+        {
+          "character": "宋徽宗",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "将军、鲁郡开国公之职。孤定于十六日告庙誓师，四月初四日辰时起兵征讨。"
+        },
+        {
+          "character": "宋徽宗",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "领旨下殿！"
         },
         {
           "character": null,
@@ -1397,7 +1574,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0385,
+        0.7308,
+        0.2308,
+        0.76,
+        7,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 5,
@@ -1553,7 +1740,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "来此已是。我等且到这茶棚吃茶。\n吓，茶博士哪里？"
+          "text": "来此已是。我等且到这茶棚吃茶。"
+        },
+        {
+          "character": "范天喜",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "吓，茶博士哪里？"
         },
         {
           "character": null,
@@ -1567,7 +1761,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "来哉！\n三位是吃茶格？"
+          "text": "来哉！"
+        },
+        {
+          "character": "茶博士",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "三位是吃茶格？"
         },
         {
           "character": "范天喜",
@@ -1609,14 +1810,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "闻听人言：京都发了大兵二十万要扫梁山。是我家宋大哥，命我二人前来打探\n消息。"
+          "text": "闻听人言：京都发了大兵二十万要扫梁山。是我家宋大哥，命我二人前来打探"
+        },
+        {
+          "character": "戴宗",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "消息。"
         },
         {
           "character": "范天喜",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "是格，弗错格。今有圣上发大兵二十万，命吾家相爷挂帅，前去征剿梁山。此\n乃是今朝清晨格旨意。"
+          "text": "是格，弗错格。今有圣上发大兵二十万，命吾家相爷挂帅，前去征剿梁山。此"
+        },
+        {
+          "character": "范天喜",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "乃是今朝清晨格旨意。"
         },
         {
           "character": "戴宗",
@@ -1665,7 +1880,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "这就是高太尉之子，名唤高世德，绰号花花太岁。昔年为讨林冲的老婆，暗害\n林教头，正是此人。"
+          "text": "这就是高太尉之子，名唤高世德，绰号花花太岁。昔年为讨林冲的老婆，暗害"
+        },
+        {
+          "character": "范天喜",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "林教头，正是此人。"
         },
         {
           "character": "戴宗",
@@ -1700,7 +1922,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "你们三位不认识她？这是我的近邻。她姓陈，她爹爹名叫陈希真，从前也做过\n南营的提辖。如今告老，不做官啦。就在东大街辟邪巷居住，也没有儿子，就\n是这一个女儿，今年十九岁了，倒同她爹学了一身好武艺。"
+          "text": "你们三位不认识她？这是我的近邻。她姓陈，她爹爹名叫陈希真，从前也做过"
+        },
+        {
+          "character": "茶博士",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "南营的提辖。如今告老，不做官啦。就在东大街辟邪巷居住，也没有儿子，就"
+        },
+        {
+          "character": "茶博士",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "是这一个女儿，今年十九岁了，倒同她爹学了一身好武艺。"
         },
         {
           "character": "范天喜",
@@ -1742,14 +1978,49 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "只因她父亲陈希真，表字道子，十分好武艺。今年已有五十多岁了，辞官不做，\n在家修炼。那高俅倒十分抬举他，只是他无志功名，推病不出。他的女儿生\n来就有一副神力，有万夫不当之勇，他父亲一身本领俱传授于她了。她又有一\n手好弓箭，百步穿杨，百发百中，所以她老子就将她比作古时善射的飞卫。"
+          "text": "只因她父亲陈希真，表字道子，十分好武艺。今年已有五十多岁了，辞官不做，"
+        },
+        {
+          "character": "范天喜",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "在家修炼。那高俅倒十分抬举他，只是他无志功名，推病不出。他的女儿生"
+        },
+        {
+          "character": "范天喜",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来就有一副神力，有万夫不当之勇，他父亲一身本领俱传授于她了。她又有一"
+        },
+        {
+          "character": "范天喜",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "手好弓箭，百步穿杨，百发百中，所以她老子就将她比作古时善射的飞卫。"
         },
         {
           "character": "戴宗",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "原来如此。\n（四青袍同上，陈丽卿换衣追上打，四青袍同下。乌教师上，陈丽卿打下。高世德上，跌倒，陈丽卿以拳打。\n陈希真上，拦腰抱陈丽卿。）"
+          "text": "原来如此。"
+        },
+        {
+          "character": "戴宗",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "（四青袍同上，陈丽卿换衣追上打，四青袍同下。乌教师上，陈丽卿打下。高世德上，跌倒，陈丽卿以拳打。"
+        },
+        {
+          "character": "戴宗",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "陈希真上，拦腰抱陈丽卿。）"
         },
         {
           "character": "陈希真",
@@ -1763,7 +2034,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "我早知道是他的狗子，真真的逆种，倒说是我无礼。待我结果了他，为大家除\n害。"
+          "text": "我早知道是他的狗子，真真的逆种，倒说是我无礼。待我结果了他，为大家除"
+        },
+        {
+          "character": "陈丽卿",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "害。"
         },
         {
           "character": null,
@@ -1791,7 +2069,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "为父叫你烧了香就回去，你偏不肯，如今闯出这样的祸来。况且高太尉我又认\n识，倘若你将公子打坏，叫我是怎样对得他起，还不与我走了去！"
+          "text": "为父叫你烧了香就回去，你偏不肯，如今闯出这样的祸来。况且高太尉我又认"
+        },
+        {
+          "character": "陈希真",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "识，倘若你将公子打坏，叫我是怎样对得他起，还不与我走了去！"
         },
         {
           "character": null,
@@ -1805,7 +2090,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "我把你这不睁眼睛的贼畜生！你竟敢来撩拨我！你不要仗着你老子的势力，想\n怎么样就怎么样。倘要撞在你姑娘手里，连你老子都剁成肉酱。"
+          "text": "我把你这不睁眼睛的贼畜生！你竟敢来撩拨我！你不要仗着你老子的势力，想"
+        },
+        {
+          "character": "陈丽卿",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "怎么样就怎么样。倘要撞在你姑娘手里，连你老子都剁成肉酱。"
         },
         {
           "character": "陈希真",
@@ -1840,14 +2132,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "陈老希，吾呢，也本不晓得是你的女儿，吾倒得罪了。只是令嫒也太没有道理。\n吾不过远远的说了一句玩笑话，她便下起毒手来了。"
+          "text": "陈老希，吾呢，也本不晓得是你的女儿，吾倒得罪了。只是令嫒也太没有道理。"
+        },
+        {
+          "character": "高世德",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "吾不过远远的说了一句玩笑话，她便下起毒手来了。"
         },
         {
           "character": "陈希真",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "诸事均求公子担待，老奴回去定要重责于她。明日定要登门赔礼，太尉面前还\n求公子遮掩遮掩。"
+          "text": "诸事均求公子担待，老奴回去定要重责于她。明日定要登门赔礼，太尉面前还"
+        },
+        {
+          "character": "陈希真",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "求公子遮掩遮掩。"
         },
         {
           "character": "高世德",
@@ -1882,7 +2188,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "陈希真，想俺家太尉待你不薄，你叫你女儿将公子打得这般光景，禀知太尉，\n只怕你的性命难保！"
+          "text": "陈希真，想俺家太尉待你不薄，你叫你女儿将公子打得这般光景，禀知太尉，"
+        },
+        {
+          "character": "乌教师",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "只怕你的性命难保！"
         },
         {
           "character": "陈希真",
@@ -1931,7 +2244,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "公子既要回去，老奴也不敢相留，明日定要登门，叩头赔礼。\n孙、薛二位，我们要到酒楼上吃几杯去！"
+          "text": "公子既要回去，老奴也不敢相留，明日定要登门，叩头赔礼。"
+        },
+        {
+          "character": "陈希真",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "孙、薛二位，我们要到酒楼上吃几杯去！"
         },
         {
           "character": "孙高、薛宝",
@@ -1987,7 +2307,14 @@
           "line_type": "同白",
           "musical_style": null,
           "style_family": null,
-          "text": "看这陈丽卿的武艺真真不错，比我们山上的扈三娘还高十倍，就是面貌也生得\n秀美得很。"
+          "text": "看这陈丽卿的武艺真真不错，比我们山上的扈三娘还高十倍，就是面貌也生得"
+        },
+        {
+          "character": "戴宗、周通",
+          "line_type": "同白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "秀美得很。"
         },
         {
           "character": "范天喜",
@@ -2130,7 +2457,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.056,
+        0.0435,
+        0.9565,
+        0.0,
+        0.7363,
+        10,
+        0.0435,
+        0.0
+      ]
     },
     {
       "scene_index": 6,
@@ -2875,7 +3212,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.029,
+        0.0274,
+        0.9589,
+        0.0137,
+        0.9167,
+        8,
+        0.0274,
+        0.0
+      ]
     },
     {
       "scene_index": 7,
@@ -3075,7 +3422,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.167,
+        0.2105,
+        0.7895,
+        0.0,
+        0.9444,
+        3,
+        0.2105,
+        0.0
+      ]
     },
     {
       "scene_index": 8,
@@ -3630,7 +3987,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.02,
+        0.02,
+        0.96,
+        0.02,
+        0.9388,
+        6,
+        0.02,
+        0.0
+      ]
     },
     {
       "scene_index": 9,
@@ -3898,7 +4265,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.105,
+        0.1429,
+        0.8571,
+        0.0,
+        0.8,
+        4,
+        0.1429,
+        0.0
+      ]
     },
     {
       "scene_index": 10,
@@ -4007,7 +4384,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 11,
@@ -4149,7 +4536,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.9231,
+        0.0769,
+        0.9167,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 12,
@@ -4311,7 +4708,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.8571,
+        0.1429,
+        0.8462,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 13,
@@ -4329,14 +4736,14 @@
           "text": "（四青袍、皂役引孙进同上。）"
         },
         {
-          "character": null,
+          "character": "孙进",
           "line_type": "念",
           "musical_style": null,
           "style_family": null,
           "text": "自幼生来性情刁，眉头一皱计千条。多谋足智人难晓，舌尖杀人不用刀。"
         },
         {
-          "character": null,
+          "character": "孙进",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -4379,7 +4786,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 14,
@@ -4756,7 +5173,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.118,
+        0.1351,
+        0.8649,
+        0.0,
+        0.8889,
+        5,
+        0.1351,
+        0.0
+      ]
     },
     {
       "scene_index": 15,
@@ -4981,7 +5408,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.059,
+        0.0526,
+        0.7895,
+        0.1579,
+        0.8889,
+        4,
+        0.0526,
+        0.0
+      ]
     },
     {
       "scene_index": 16,
@@ -5045,7 +5482,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 17,
@@ -5080,14 +5527,49 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "吾，陈希真，别号道子。昔年在朝为官，官拜提辖之职。只因大战轮顿城，以\n八千官兵败西夏贼军二十万，指望加官进爵，不想皆被上司冒充而去。是我一\n怒，告职归家。也曾受过张天师传授五雷都箓大法，修炼真阳，可成正果。今\n当玉清观蟠桃大蘸，不免前去听讲一回。"
+          "text": "吾，陈希真，别号道子。昔年在朝为官，官拜提辖之职。只因大战轮顿城，以"
+        },
+        {
+          "character": "陈希真",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "八千官兵败西夏贼军二十万，指望加官进爵，不想皆被上司冒充而去。是我一"
+        },
+        {
+          "character": "陈希真",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "怒，告职归家。也曾受过张天师传授五雷都箓大法，修炼真阳，可成正果。今"
+        },
+        {
+          "character": "陈希真",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "当玉清观蟠桃大蘸，不免前去听讲一回。"
         },
         {
           "character": "陈希真",
           "line_type": "西皮原板",
           "musical_style": "西皮原板",
           "style_family": "西皮",
-          "text": "陈道子悟参禅每日修炼，\n有五雷都箓法我得真传。\n长生不老定作神仙！"
+          "text": "陈道子悟参禅每日修炼，"
+        },
+        {
+          "character": "陈希真",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "有五雷都箓法我得真传。"
+        },
+        {
+          "character": "陈希真",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "长生不老定作神仙！"
         },
         {
           "character": null,
@@ -5125,7 +5607,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.4444,
+        0.4444,
+        0.1111,
+        0.0,
+        1,
+        0.3333,
+        0.0
+      ]
     },
     {
       "scene_index": 18,
@@ -5474,7 +5966,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.036,
+        0.0345,
+        0.8621,
+        0.1034,
+        0.9286,
+        7,
+        0.0345,
+        0.0
+      ]
     },
     {
       "scene_index": 19,
@@ -5998,7 +6500,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.9787,
+        0.0213,
+        0.8478,
+        5,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 20,
@@ -6256,7 +6768,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.053,
+        0.05,
+        0.95,
+        0.0,
+        0.9474,
+        6,
+        0.05,
+        0.0
+      ]
     },
     {
       "scene_index": 21,
@@ -6990,7 +7512,17 @@
           "西皮原板",
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.018,
+        0.0339,
+        0.9492,
+        0.0169,
+        0.7241,
+        8,
+        0.0339,
+        0.0
+      ]
     },
     {
       "scene_index": 22,
@@ -7013,7 +7545,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 23,
@@ -7106,7 +7648,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.6,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 24,
@@ -7237,7 +7789,17 @@
           "西皮二六",
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.375,
+        0.3636,
+        0.6364,
+        0.0,
+        0.6,
+        2,
+        0.3636,
+        0.0
+      ]
     },
     {
       "scene_index": 25,
@@ -7613,7 +8175,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        8,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 26,
@@ -7708,7 +8280,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.5,
+        0.4286,
+        0.5714,
+        0.0,
+        0.8333,
+        2,
+        0.4286,
+        0.0
+      ]
     },
     {
       "scene_index": 27,
@@ -8072,7 +8654,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.9375,
+        0.0625,
+        0.871,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 28,
@@ -8146,7 +8738,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.5,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 29,
@@ -8289,7 +8891,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.8182,
+        0.1818,
+        0.9,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 30,
@@ -8398,7 +9010,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 31,
@@ -8490,7 +9112,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        2,
+        0.0,
+        0.0
+      ]
     }
   ]
 }

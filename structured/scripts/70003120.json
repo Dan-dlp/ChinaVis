@@ -135,7 +135,21 @@
           "line_type": "西皮散板",
           "musical_style": "西皮散板",
           "style_family": "西皮",
-          "text": "糜子仲奉命东吴去了，\n不由刘备挂心梢。\n不知所为哪一条？"
+          "text": "糜子仲奉命东吴去了，"
+        },
+        {
+          "character": "刘备",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "不由刘备挂心梢。"
+        },
+        {
+          "character": "刘备",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "不知所为哪一条？"
         },
         {
           "character": null,
@@ -149,7 +163,14 @@
           "line_type": "西皮散板",
           "musical_style": "西皮散板",
           "style_family": "西皮",
-          "text": "奉命东吴将军犒，\n未见先生把话交。"
+          "text": "奉命东吴将军犒，"
+        },
+        {
+          "character": "糜竺",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "未见先生把话交。"
         },
         {
           "character": "糜竺",
@@ -352,7 +373,21 @@
           "line_type": "西皮原板",
           "musical_style": "西皮原板",
           "style_family": "西皮",
-          "text": "汉阳江上船开了，\n对对旌旗空中飘。\n不见先生音信杳。"
+          "text": "汉阳江上船开了，"
+        },
+        {
+          "character": "刘备",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "对对旌旗空中飘。"
+        },
+        {
+          "character": "刘备",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "不见先生音信杳。"
         },
         {
           "character": "刘备",
@@ -362,7 +397,14 @@
           "text": "二弟，船行江中，愚兄想起一桩心事来了。"
         },
         {
-          "character": "周郎请孤河梁到、关羽",
+          "character": "刘备",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "周郎请孤河梁到"
+        },
+        {
+          "character": "关羽",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -373,21 +415,56 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "想孙、刘两家同心破曹，又不见诸葛先生音信，周郎诡计多端，此番临江赴宴，\n二弟须要留心一二。"
+          "text": "想孙、刘两家同心破曹，又不见诸葛先生音信，周郎诡计多端，此番临江赴宴，"
+        },
+        {
+          "character": "刘备",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "二弟须要留心一二。"
         },
         {
           "character": "关羽",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "大哥说哪里话来！想赵国蔺相如，手无缚鸡之力，完璧归赵，使秦人丧胆。你\n我弟兄驰骋疆场，威名远震，何惧东吴鼠辈，只要俺一人奋勇，霎时教他万夫\n难挡。"
+          "text": "大哥说哪里话来！想赵国蔺相如，手无缚鸡之力，完璧归赵，使秦人丧胆。你"
+        },
+        {
+          "character": "关羽",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我弟兄驰骋疆场，威名远震，何惧东吴鼠辈，只要俺一人奋勇，霎时教他万夫"
+        },
+        {
+          "character": "关羽",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "难挡。"
         },
         {
           "character": "关羽",
           "line_type": "西皮散板",
           "musical_style": "西皮散板",
           "style_family": "西皮",
-          "text": "兵在精来不在多，\n将在智谋凭略韬。\n何惧东吴小儿曹。"
+          "text": "兵在精来不在多，"
+        },
+        {
+          "character": "关羽",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "将在智谋凭略韬。"
+        },
+        {
+          "character": "关羽",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "何惧东吴小儿曹。"
         },
         {
           "character": null,
@@ -455,7 +532,17 @@
           "西皮原板",
           "西皮散板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.074,
+        0.2558,
+        0.7209,
+        0.0233,
+        0.5476,
+        4,
+        0.2558,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -679,7 +766,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.9474,
+        0.0526,
+        1.0,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -870,7 +967,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "是。\n喂，来人嘚。"
+          "text": "是。"
+        },
+        {
+          "character": "旗牌",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "喂，来人嘚。"
         },
         {
           "character": "四红龙套",
@@ -968,7 +1072,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "我怕看他，又遇见他啦！\n请问是您贪杯吗？"
+          "text": "我怕看他，又遇见他啦！"
+        },
+        {
+          "character": "旗牌",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "请问是您贪杯吗？"
         },
         {
           "character": "关羽",
@@ -1003,7 +1114,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "什么是主不食客不饮哪，您怕这里头有毒药，我先喝一小杯您看看——不行，\n这大杯我受不了。来来来，我来一小杯。"
+          "text": "什么是主不食客不饮哪，您怕这里头有毒药，我先喝一小杯您看看——不行，"
+        },
+        {
+          "character": "旗牌",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "这大杯我受不了。来来来，我来一小杯。"
         },
         {
           "character": null,
@@ -1073,7 +1191,14 @@
           "line_type": "西皮散板",
           "musical_style": "西皮散板",
           "style_family": "西皮",
-          "text": "英雄海量尔怎晓，\n怎比东吴小儿曹。"
+          "text": "英雄海量尔怎晓，"
+        },
+        {
+          "character": "关羽",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "怎比东吴小儿曹。"
         },
         {
           "character": null,
@@ -1087,21 +1212,42 @@
           "line_type": "西皮散板",
           "musical_style": "西皮散板",
           "style_family": "西皮",
-          "text": "俺大哥饮酒脸带笑，\n周郎满脸杀气高！"
-        },
-        {
-          "character": "关羽",
-          "line_type": "白",
-          "musical_style": null,
-          "style_family": null,
-          "text": "且住！看俺大哥在座上谈笑自若，周郎小儿满脸杀气。两旁悬挂壁影，定有埋\n伏。俺不免站在大哥身旁，看他是怎样下手！"
+          "text": "俺大哥饮酒脸带笑，"
         },
         {
           "character": "关羽",
           "line_type": "西皮散板",
           "musical_style": "西皮散板",
           "style_family": "西皮",
-          "text": "昔日樊哙威风好，\n鸿门宴上保汉高。"
+          "text": "周郎满脸杀气高！"
+        },
+        {
+          "character": "关羽",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "且住！看俺大哥在座上谈笑自若，周郎小儿满脸杀气。两旁悬挂壁影，定有埋"
+        },
+        {
+          "character": "关羽",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "伏。俺不免站在大哥身旁，看他是怎样下手！"
+        },
+        {
+          "character": "关羽",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "昔日樊哙威风好，"
+        },
+        {
+          "character": "关羽",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "鸿门宴上保汉高。"
         },
         {
           "character": null,
@@ -1122,7 +1268,14 @@
           "line_type": "西皮散板",
           "musical_style": "西皮散板",
           "style_family": "西皮",
-          "text": "金钟三响有圈套，\n教他个个命难逃。"
+          "text": "金钟三响有圈套，"
+        },
+        {
+          "character": "关羽",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "教他个个命难逃。"
         },
         {
           "character": "刘备",
@@ -1136,7 +1289,21 @@
           "line_type": "西皮原板",
           "musical_style": "西皮原板",
           "style_family": "西皮",
-          "text": "大才可算都督高，\n孙、刘同心破奸曹；\n两家胜似一同胞。"
+          "text": "大才可算都督高，"
+        },
+        {
+          "character": "刘备",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "孙、刘同心破奸曹；"
+        },
+        {
+          "character": "刘备",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "两家胜似一同胞。"
         },
         {
           "character": null,
@@ -1157,7 +1324,14 @@
           "line_type": "西皮原板",
           "musical_style": "西皮原板",
           "style_family": "西皮",
-          "text": "胸藏谋略他怎晓，\n幸喜枭雄入笼牢。"
+          "text": "胸藏谋略他怎晓，"
+        },
+        {
+          "character": "周瑜",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "幸喜枭雄入笼牢。"
         },
         {
           "character": "周瑜",
@@ -1269,7 +1443,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "关羽乃世之虎将，在百万军中取上将首级，犹如探囊取物，吾若动手，岂不先\n被他所害……这……周瑜呀周瑜！你此计用错了！"
+          "text": "关羽乃世之虎将，在百万军中取上将首级，犹如探囊取物，吾若动手，岂不先"
+        },
+        {
+          "character": "周瑜",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "被他所害……这……周瑜呀周瑜！你此计用错了！"
         },
         {
           "character": "旗牌",
@@ -1297,7 +1478,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "哼！\n既是君侯到此，何不入席同饮。"
+          "text": "哼！"
+        },
+        {
+          "character": "周瑜",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "既是君侯到此，何不入席同饮。"
         },
         {
           "character": "关羽",
@@ -1332,7 +1520,14 @@
           "line_type": "西皮散板",
           "musical_style": "西皮散板",
           "style_family": "西皮",
-          "text": "正在舟中童儿报，\n我主中了计笼牢。"
+          "text": "正在舟中童儿报，"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "我主中了计笼牢。"
         },
         {
           "character": null,
@@ -1381,7 +1576,14 @@
           "line_type": "西皮散板",
           "musical_style": "西皮散板",
           "style_family": "西皮",
-          "text": "辞别先生回营号，\n他人难解计笼牢。"
+          "text": "辞别先生回营号，"
+        },
+        {
+          "character": "鲁肃",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "他人难解计笼牢。"
         },
         {
           "character": null,
@@ -1395,17 +1597,45 @@
           "line_type": "西皮散板",
           "musical_style": "西皮散板",
           "style_family": "西皮",
-          "text": "事在紧急如何好？\n我主误进虎穴巢。\n周郎满脸杀气高。"
+          "text": "事在紧急如何好？"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "我主误进虎穴巢。"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "周郎满脸杀气高。"
         },
         {
           "character": "诸葛亮",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "哎呀且住！看我主坐在上面谈笑自若，周郎满脸杀气，两旁悬挂壁影，定有埋\n伏，我主性命危矣！这……"
+          "text": "哎呀且住！看我主坐在上面谈笑自若，周郎满脸杀气，两旁悬挂壁影，定有埋"
         },
         {
-          "character": "蹑足隐身来观瞧、关羽",
+          "character": "诸葛亮",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "伏，我主性命危矣！这……"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "蹑足隐身来观瞧"
+        },
+        {
+          "character": "关羽",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -1479,7 +1709,14 @@
           "line_type": "西皮散板",
           "musical_style": "西皮散板",
           "style_family": "西皮",
-          "text": "开言我对都督道，\n多少人马破奸曹？"
+          "text": "开言我对都督道，"
+        },
+        {
+          "character": "刘备",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "多少人马破奸曹？"
         },
         {
           "character": "刘备",
@@ -1528,7 +1765,14 @@
           "line_type": "西皮散板",
           "musical_style": "西皮散板",
           "style_family": "西皮",
-          "text": "都督素日韬略好，\n你今错用计一条！"
+          "text": "都督素日韬略好，"
+        },
+        {
+          "character": "关羽",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "你今错用计一条！"
         },
         {
           "character": null,
@@ -1542,7 +1786,21 @@
           "line_type": "西皮散板",
           "musical_style": "西皮散板",
           "style_family": "西皮",
-          "text": "画虎不成反见笑，\n丝纶无力逃金鳌。\n不杀刘备恨难消。"
+          "text": "画虎不成反见笑，"
+        },
+        {
+          "character": "周瑜",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "丝纶无力逃金鳌。"
+        },
+        {
+          "character": "周瑜",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "不杀刘备恨难消。"
         },
         {
           "character": null,
@@ -1556,7 +1814,21 @@
           "line_type": "西皮散板",
           "musical_style": "西皮散板",
           "style_family": "西皮",
-          "text": "大事眼看成八九，\n上手鱼儿脱了钩。\n只见都督气不休。"
+          "text": "大事眼看成八九，"
+        },
+        {
+          "character": "鲁肃",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "上手鱼儿脱了钩。"
+        },
+        {
+          "character": "鲁肃",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "只见都督气不休。"
         },
         {
           "character": "鲁肃",
@@ -1566,11 +1838,25 @@
           "text": "啊都督，既将刘备诓过江来，为何又将他放走？"
         },
         {
-          "character": "将身且进宝帐口、周瑜",
+          "character": "鲁肃",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "大夫啊！本督正要擒那刘备，谁想关羽在身旁保驾，幸喜本督未曾动手，我若\n动手，岂不先被关羽所害！"
+          "text": "将身且进宝帐口"
+        },
+        {
+          "character": "周瑜",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "大夫啊！本督正要擒那刘备，谁想关羽在身旁保驾，幸喜本督未曾动手，我若"
+        },
+        {
+          "character": "周瑜",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "动手，岂不先被关羽所害！"
         },
         {
           "character": "鲁肃",
@@ -1661,14 +1947,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "“汉大丞相”——呀呸！曹贼，曹贼！在你营中称得汉大丞相；在我东吴，你\n是什么汉大丞相也！"
+          "text": "“汉大丞相”——呀呸！曹贼，曹贼！在你营中称得汉大丞相；在我东吴，你"
+        },
+        {
+          "character": "周瑜",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "是什么汉大丞相也！"
         },
         {
           "character": "周瑜",
           "line_type": "西皮散板",
           "musical_style": "西皮散板",
           "style_family": "西皮",
-          "text": "曹瞒把我东吴藐，\n怎不教人气冲霄。"
+          "text": "曹瞒把我东吴藐，"
+        },
+        {
+          "character": "周瑜",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "怎不教人气冲霄。"
         },
         {
           "character": "周瑜",
@@ -1703,7 +2003,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "大夫啊！那曹操与本督书信，前来惑我军心，今吾杀之，以振军威。\n中军听令！"
+          "text": "大夫啊！那曹操与本督书信，前来惑我军心，今吾杀之，以振军威。"
+        },
+        {
+          "character": "周瑜",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "中军听令！"
         },
         {
           "character": "旗牌",
@@ -1845,7 +2152,17 @@
           "西皮原板",
           "西皮散板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.113,
+        0.274,
+        0.726,
+        0.0,
+        0.6138,
+        8,
+        0.2671,
+        0.0
+      ]
     }
   ]
 }

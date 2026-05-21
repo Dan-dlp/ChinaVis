@@ -495,7 +495,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "孤，闯王李自成。自从我的舅父死后，俺就称闯王，去年破了承天，众文武立\n俺以为新顺王，孤家自领大兵，破了潼关，才驾坐西安。\n众卿，今日孤王立国号大顺，改元永昌，以我祖父李继迁为太祖，将俺生地延\n安府，改为天宝府，米脂县改为天宝县，诏告天下，不得有误。"
+          "text": "孤，闯王李自成。自从我的舅父死后，俺就称闯王，去年破了承天，众文武立"
+        },
+        {
+          "character": "李闯",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "俺以为新顺王，孤家自领大兵，破了潼关，才驾坐西安。"
+        },
+        {
+          "character": "李闯",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "众卿，今日孤王立国号大顺，改元永昌，以我祖父李继迁为太祖，将俺生地延"
+        },
+        {
+          "character": "李闯",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "安府，改为天宝府，米脂县改为天宝县，诏告天下，不得有误。"
         },
         {
           "character": "牛金星",
@@ -509,7 +530,14 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "孤王洪福从天降，\n不久大明归李王。"
+          "text": "孤王洪福从天降，"
+        },
+        {
+          "character": "李闯",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "不久大明归李王。"
         },
         {
           "character": null,
@@ -544,7 +572,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "大王不必烦闷，昔日汉刘邦，得了天下，回转家乡，与父老同饮之时，有大风\n一阵，故作大风歌，今日大王在故土登基，忽有此大风，乃大吉之兆也。"
+          "text": "大王不必烦闷，昔日汉刘邦，得了天下，回转家乡，与父老同饮之时，有大风"
+        },
+        {
+          "character": "牛金星",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "一阵，故作大风歌，今日大王在故土登基，忽有此大风，乃大吉之兆也。"
         },
         {
           "character": "李闯",
@@ -611,7 +646,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.1,
+        0.2105,
+        0.7368,
+        0.0526,
+        0.4444,
+        2,
+        0.1579,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -634,21 +679,70 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "黎民涂炭变天道，\n国家将亡出孽妖。\n万种丑态难画描。"
-        },
-        {
-          "character": "邱从周",
-          "line_type": "白",
-          "musical_style": null,
-          "style_family": null,
-          "text": "俺，邱从周。乃是西郡司吏，可笑流寇李自成，搅乱十六载，屠杀百万人民，\n今日僭于西安，这样的害命蟊贼，居然富贵，还有什么天理；听说他要前来扫\n墓，这乞儿坟变作了王陵，使俺恶气难消，我不免等他到来，大骂国贼，也与\n那受难的百姓，出一口怨气啊！"
+          "text": "黎民涂炭变天道，"
         },
         {
           "character": "邱从周",
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "闯贼无道僭王号，\n万民怨声截满道。\n一腔义愤骂贼曹。"
+          "text": "国家将亡出孽妖。"
+        },
+        {
+          "character": "邱从周",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "万种丑态难画描。"
+        },
+        {
+          "character": "邱从周",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "俺，邱从周。乃是西郡司吏，可笑流寇李自成，搅乱十六载，屠杀百万人民，"
+        },
+        {
+          "character": "邱从周",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "今日僭于西安，这样的害命蟊贼，居然富贵，还有什么天理；听说他要前来扫"
+        },
+        {
+          "character": "邱从周",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "墓，这乞儿坟变作了王陵，使俺恶气难消，我不免等他到来，大骂国贼，也与"
+        },
+        {
+          "character": "邱从周",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "那受难的百姓，出一口怨气啊！"
+        },
+        {
+          "character": "邱从周",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "闯贼无道僭王号，"
+        },
+        {
+          "character": "邱从周",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "万民怨声截满道。"
+        },
+        {
+          "character": "邱从周",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "一腔义愤骂贼曹。"
         },
         {
           "character": null,
@@ -662,14 +756,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "祖宗呀，祖宗！我看你这块坟地，也没有什么风水，怎么会有我这皇帝的子孙？\n真他娘的奇怪呀！"
+          "text": "祖宗呀，祖宗！我看你这块坟地，也没有什么风水，怎么会有我这皇帝的子孙？"
+        },
+        {
+          "character": "李闯",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "真他娘的奇怪呀！"
         },
         {
           "character": "李闯",
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "今日称王把墓扫，\n心满意足甚自豪。"
+          "text": "今日称王把墓扫，"
+        },
+        {
+          "character": "李闯",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "心满意足甚自豪。"
         },
         {
           "character": null,
@@ -718,7 +826,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "你们的出身，都是市井无赖，偶尔侥幸，拥有大兵，你们也是贫贱细民，一朝\n得志，就该慰抚平民才是，你们不但不保全百姓，反而杀百姓，害百姓，照这\n样的行为，只顾占据地盘，卜登高位，逆天背理，恐怕不久，就要被百姓碎尸\n万段也！"
+          "text": "你们的出身，都是市井无赖，偶尔侥幸，拥有大兵，你们也是贫贱细民，一朝"
+        },
+        {
+          "character": "邱从周",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "得志，就该慰抚平民才是，你们不但不保全百姓，反而杀百姓，害百姓，照这"
+        },
+        {
+          "character": "邱从周",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "样的行为，只顾占据地盘，卜登高位，逆天背理，恐怕不久，就要被百姓碎尸"
+        },
+        {
+          "character": "邱从周",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "万段也！"
         },
         {
           "character": "李闯",
@@ -739,7 +868,14 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "拼着一死骂强暴，\n准备项上受一刀。"
+          "text": "拼着一死骂强暴，"
+        },
+        {
+          "character": "邱从周",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "准备项上受一刀。"
         },
         {
           "character": "邱从周",
@@ -795,7 +931,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "不妨，大明阉官专权，惟利自卫，臣已发出檄文，恐吓他们，再用金钱买通内\n应，大兵到处，那般守关兵将，料必望风归顺。"
+          "text": "不妨，大明阉官专权，惟利自卫，臣已发出檄文，恐吓他们，再用金钱买通内"
+        },
+        {
+          "character": "牛金星",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "应，大兵到处，那般守关兵将，料必望风归顺。"
         },
         {
           "character": "李闯",
@@ -848,7 +991,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.143,
+        0.3611,
+        0.6389,
+        0.0,
+        0.3429,
+        3,
+        0.3333,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -933,7 +1086,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "天下荒乱，如何归结，如今大顺王，有公文在此，你我偷放在龙书案上，看万\n岁怎样发落。"
+          "text": "天下荒乱，如何归结，如今大顺王，有公文在此，你我偷放在龙书案上，看万"
+        },
+        {
+          "character": "王则尧",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "岁怎样发落。"
         },
         {
           "character": "褚宪章",
@@ -998,7 +1158,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.9167,
+        0.0833,
+        0.8182,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 4,
@@ -1040,7 +1210,35 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "本爵，襄城伯李国祯。大明驾前为臣，自阉官专权，国事日非，奸佞捷登高位，\n贤良尽遭诛戮，当今即位，劳勤国政，力图挽回，怎奈文官爱钱，武将怕死，\n仍然蒙蔽圣上；今闻得清兵猖狂，流寇蔓张，李自成在西安僭号，叫某怎能\n安枕，不免早朝奏闻圣上便了。\n左右，带马上朝。"
+          "text": "本爵，襄城伯李国祯。大明驾前为臣，自阉官专权，国事日非，奸佞捷登高位，"
+        },
+        {
+          "character": "李国祯",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "贤良尽遭诛戮，当今即位，劳勤国政，力图挽回，怎奈文官爱钱，武将怕死，"
+        },
+        {
+          "character": "李国祯",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "仍然蒙蔽圣上；今闻得清兵猖狂，流寇蔓张，李自成在西安僭号，叫某怎能"
+        },
+        {
+          "character": "李国祯",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "安枕，不免早朝奏闻圣上便了。"
+        },
+        {
+          "character": "李国祯",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "左右，带马上朝。"
         },
         {
           "character": null,
@@ -1059,7 +1257,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.1429,
+        0.7143,
+        0.1429,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 5,
@@ -1090,7 +1298,7 @@
           "text": "（周奎、杜勋、李建泰、陈演、曹化谆、项煜、蒋得𤧀、巩永固、田宏遇、范景文、杜之秩、高起潜同上。）"
         },
         {
-          "character": "周奎、杜勋、陈演、项煜、周奎、李建泰、曹化谆、蒋得{   |⿰王某}、巩永固、田宏遇、范景文、杜之秩、高起潜",
+          "character": "高起潜",
           "line_type": "同念",
           "musical_style": null,
           "style_family": null,
@@ -1234,7 +1442,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "天下慌慌，刀兵四起，食君之禄，当报国恩，以尽为臣之道，如今关外清兵，\n国内流寇，似这样内忧外患，岂能安枕。"
+          "text": "天下慌慌，刀兵四起，食君之禄，当报国恩，以尽为臣之道，如今关外清兵，"
+        },
+        {
+          "character": "李国祯",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "国内流寇，似这样内忧外患，岂能安枕。"
         },
         {
           "character": "杜勋",
@@ -1262,7 +1477,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "淘汰误国殃民之辈，肃清矇君尸位之臣，救济万民，鼓励军心，尚有转机；诸\n君再不整理，仍然好货恋位，国亡无日矣！"
+          "text": "淘汰误国殃民之辈，肃清矇君尸位之臣，救济万民，鼓励军心，尚有转机；诸"
+        },
+        {
+          "character": "李国祯",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "君再不整理，仍然好货恋位，国亡无日矣！"
         },
         {
           "character": "曹化谆",
@@ -1304,7 +1526,21 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "恨阉官乱朝政这般时候，\n还腆颜说什么地广人稠。\n好山河不知有几时存留。"
+          "text": "恨阉官乱朝政这般时候，"
+        },
+        {
+          "character": "李国祯",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "还腆颜说什么地广人稠。"
+        },
+        {
+          "character": "李国祯",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "好山河不知有几时存留。"
         },
         {
           "character": null,
@@ -1403,7 +1639,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0938,
+        0.875,
+        0.0312,
+        0.8387,
+        14,
+        0.0938,
+        0.0
+      ]
     },
     {
       "scene_index": 6,
@@ -1445,7 +1691,14 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "朱由检未登基国政已紊，\n励精神图政治挽已难能。"
+          "text": "朱由检未登基国政已紊，"
+        },
+        {
+          "character": "崇祯",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "励精神图政治挽已难能。"
         },
         {
           "character": null,
@@ -1466,7 +1719,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "呀！龙书案上，哪里来的一角公文！\n宣黄门官。"
+          "text": "呀！龙书案上，哪里来的一角公文！"
+        },
+        {
+          "character": "崇祯",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "宣黄门官。"
         },
         {
           "character": "徐高",
@@ -1578,7 +1838,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "“大顺永昌皇帝，传谕大明文武官僚，及军民人等，孤王御驾，于三日内至北\n京驻驿。”啊！这分明是反叛的檄文，这大顺永昌又是何人？"
+          "text": "“大顺永昌皇帝，传谕大明文武官僚，及军民人等，孤王御驾，于三日内至北"
+        },
+        {
+          "character": "崇祯",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "京驻驿。”啊！这分明是反叛的檄文，这大顺永昌又是何人？"
         },
         {
           "character": "褚宪章",
@@ -1620,7 +1887,28 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "听说僭号似雷震，\n为何丝毫不知闻。\n（徐高撞钟鼓。李国祯、李建泰、范景文、项煜、蒋得𤧀、巩永固、田宏遇、周奎、陈演、杜勋、杜之秩、\n高起潜、曹化谆同上，同上殿参见。）"
+          "text": "听说僭号似雷震，"
+        },
+        {
+          "character": "崇祯",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "为何丝毫不知闻。"
+        },
+        {
+          "character": "崇祯",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "（徐高撞钟鼓。李国祯、李建泰、范景文、项煜、蒋得𤧀、巩永固、田宏遇、周奎、陈演、杜勋、杜之秩、"
+        },
+        {
+          "character": "崇祯",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "高起潜、曹化谆同上，同上殿参见。）"
         },
         {
           "character": null,
@@ -1644,7 +1932,91 @@
           "text": "众卿平身。"
         },
         {
-          "character": "李国祯、李建泰、范景文、项煜、蒋得{   |⿰王某}、巩永固、田宏遇、周奎、陈演、杜勋、杜之秩、高起潜、曹化谆",
+          "character": "崇祯",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "李国祯"
+        },
+        {
+          "character": "崇祯",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "李建泰"
+        },
+        {
+          "character": "崇祯",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "范景文"
+        },
+        {
+          "character": "崇祯",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "项煜"
+        },
+        {
+          "character": "崇祯",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "蒋得{   |⿰王某}"
+        },
+        {
+          "character": "崇祯",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "巩永固"
+        },
+        {
+          "character": "崇祯",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "田宏遇"
+        },
+        {
+          "character": "崇祯",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "周奎"
+        },
+        {
+          "character": "崇祯",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "陈演"
+        },
+        {
+          "character": "崇祯",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "杜勋"
+        },
+        {
+          "character": "崇祯",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "杜之秩"
+        },
+        {
+          "character": "崇祯",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "高起潜"
+        },
+        {
+          "character": "曹化谆",
           "line_type": "同白",
           "musical_style": null,
           "style_family": null,
@@ -1697,7 +2069,42 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "此檄文在龙书案上，不知从何而来，问过值殿侍臣，也奏道不知何人安放于此。\n难道说国家将亡，出了妖孽不成？咳！朕自登基以来，流寇蜂起，外侮频来，\n水旱兵祸，年年不息，善良人民，不能安业，也不怪文官不能修政，武臣不\n能平乱，终怪寡人，用人不当，十七年来，才弄得这样紊乱，我这做元首的，\n对百姓甚觉有愧于心，但不知民脂民膏，奉养你们这班大人先生，可觉得有点\n惭愧吗？也罢，闯王僭号西安，大逆不道，待朕御驾亲征。"
+          "text": "此檄文在龙书案上，不知从何而来，问过值殿侍臣，也奏道不知何人安放于此。"
+        },
+        {
+          "character": "崇祯",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "难道说国家将亡，出了妖孽不成？咳！朕自登基以来，流寇蜂起，外侮频来，"
+        },
+        {
+          "character": "崇祯",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "水旱兵祸，年年不息，善良人民，不能安业，也不怪文官不能修政，武臣不"
+        },
+        {
+          "character": "崇祯",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "能平乱，终怪寡人，用人不当，十七年来，才弄得这样紊乱，我这做元首的，"
+        },
+        {
+          "character": "崇祯",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "对百姓甚觉有愧于心，但不知民脂民膏，奉养你们这班大人先生，可觉得有点"
+        },
+        {
+          "character": "崇祯",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "惭愧吗？也罢，闯王僭号西安，大逆不道，待朕御驾亲征。"
         },
         {
           "character": "崇祯",
@@ -1718,14 +2125,42 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "请陛下暂息雷霆之怒，闯贼虽然僭号西安，兵犯山西，但流寇乃乌合之众，不\n足畏也，何劳万岁御驾亲征，臣愿领兵破贼，以死为国。"
+          "text": "请陛下暂息雷霆之怒，闯贼虽然僭号西安，兵犯山西，但流寇乃乌合之众，不"
+        },
+        {
+          "character": "李国祯",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "足畏也，何劳万岁御驾亲征，臣愿领兵破贼，以死为国。"
         },
         {
           "character": "李建泰",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "襄城伯虽有忠心，领兵征剿，但是山西地理不熟，难胜流寇，况且京畿重地，\n不可不防。万岁，命襄城伯和曹化谆，防守京城，再命杜公公镇守宣府，监视\n大同，杜之秩把守居庸关。为臣乃山西曲沃人氏，颇知地理，家有薄资，愿率\n兵转回曲沃，以私财饷军，率师西讨，以报主知遇之恩。"
+          "text": "襄城伯虽有忠心，领兵征剿，但是山西地理不熟，难胜流寇，况且京畿重地，"
+        },
+        {
+          "character": "李建泰",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "不可不防。万岁，命襄城伯和曹化谆，防守京城，再命杜公公镇守宣府，监视"
+        },
+        {
+          "character": "李建泰",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "大同，杜之秩把守居庸关。为臣乃山西曲沃人氏，颇知地理，家有薄资，愿率"
+        },
+        {
+          "character": "李建泰",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "兵转回曲沃，以私财饷军，率师西讨，以报主知遇之恩。"
         },
         {
           "character": "崇祯",
@@ -1767,7 +2202,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "杜之秩听旨：我想居庸关口，乃是京师咽喉要路，卿与守将唐通，严加防守，\n莫负孤意。"
+          "text": "杜之秩听旨：我想居庸关口，乃是京师咽喉要路，卿与守将唐通，严加防守，"
+        },
+        {
+          "character": "崇祯",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "莫负孤意。"
         },
         {
           "character": "杜之秩",
@@ -1788,7 +2230,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "曹化谆严守外城。襄城伯为九门提督，严防京畿。大学士你辅助督师，共赴国\n难，可算忠心，但是东阁之事，何人代理？"
+          "text": "曹化谆严守外城。襄城伯为九门提督，严防京畿。大学士你辅助督师，共赴国"
+        },
+        {
+          "character": "崇祯",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "难，可算忠心，但是东阁之事，何人代理？"
         },
         {
           "character": "李建泰",
@@ -1844,7 +2293,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "可也是啊，像这样粮饷空虚，如何能交兵开战，可是府库空空如洗，这财政怎\n生着手，若无粮饷，就不能发兵平寇，真正难死孤王了！"
+          "text": "可也是啊，像这样粮饷空虚，如何能交兵开战，可是府库空空如洗，这财政怎"
+        },
+        {
+          "character": "崇祯",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "生着手，若无粮饷，就不能发兵平寇，真正难死孤王了！"
         },
         {
           "character": "田宏遇",
@@ -1858,14 +2314,70 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "听国丈之言，叫朕去输捐百姓？咳！百姓们虽有救国之心，但是他们能有多大\n力量，国家捐了他们，也不止一次了，捐得他们精力全疲，而且自顾不暇，现\n在哪里还有钱来捐助呢，虽然爱国心未尝少息，但是只怕心有余而力不足了；\n我这做元首的，再去压迫他们，敲他们的骨髓，实在地于心不忍，可是那一些\n面团团、腹便便、有钱的百姓，他们又没有爱国思想，一个个花天酒地，我我\n卿卿，甚到缠头之费，一掷千金，国家兴亡，置若不闻，慈善事务，不舍分文，\n富翁如此，能不痛心也！"
+          "text": "听国丈之言，叫朕去输捐百姓？咳！百姓们虽有救国之心，但是他们能有多大"
+        },
+        {
+          "character": "崇祯",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "力量，国家捐了他们，也不止一次了，捐得他们精力全疲，而且自顾不暇，现"
+        },
+        {
+          "character": "崇祯",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "在哪里还有钱来捐助呢，虽然爱国心未尝少息，但是只怕心有余而力不足了；"
+        },
+        {
+          "character": "崇祯",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我这做元首的，再去压迫他们，敲他们的骨髓，实在地于心不忍，可是那一些"
+        },
+        {
+          "character": "崇祯",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "面团团、腹便便、有钱的百姓，他们又没有爱国思想，一个个花天酒地，我我"
+        },
+        {
+          "character": "崇祯",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "卿卿，甚到缠头之费，一掷千金，国家兴亡，置若不闻，慈善事务，不舍分文，"
+        },
+        {
+          "character": "崇祯",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "富翁如此，能不痛心也！"
         },
         {
           "character": "崇祯",
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "富家翁只知道鱼肉百姓，\n他把那国家事置若罔闻。\n我登基本希望育化愚民。"
+          "text": "富家翁只知道鱼肉百姓，"
+        },
+        {
+          "character": "崇祯",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "他把那国家事置若罔闻。"
+        },
+        {
+          "character": "崇祯",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "我登基本希望育化愚民。"
         },
         {
           "character": "崇祯",
@@ -1882,21 +2394,70 @@
           "text": "你何必杀千民罪降我身。"
         },
         {
-          "character": "我国民渲染了恶劣根性、十七年降天灾是孤的命运、李国祯",
+          "character": "崇祯",
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "君臣们只哭得山崩地震，\n只哭得鬼神号天地昏昏。\n请陛下止悲泪政治速行。"
+          "text": "我国民渲染了恶劣根性"
         },
         {
-          "character": "我国民渲染了恶劣根性、十七年降天灾是孤的命运、李国祯",
+          "character": "崇祯",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "十七年降天灾是孤的命运"
+        },
+        {
+          "character": "李国祯",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "君臣们只哭得山崩地震，"
+        },
+        {
+          "character": "李国祯",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "只哭得鬼神号天地昏昏。"
+        },
+        {
+          "character": "李国祯",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "请陛下止悲泪政治速行。"
+        },
+        {
+          "character": "李国祯",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "我国民渲染了恶劣根性"
+        },
+        {
+          "character": "李国祯",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "十七年降天灾是孤的命运"
+        },
+        {
+          "character": "李国祯",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
           "text": "事到如今，哭也无益，望陛下以社稷为重，当善保龙体。"
         },
         {
-          "character": "圣天子本是那万民根本、范景文",
+          "character": "李国祯",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "圣天子本是那万民根本"
+        },
+        {
+          "character": "范景文",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -2041,7 +2602,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.115,
+        0.2059,
+        0.7941,
+        0.0,
+        0.4257,
+        15,
+        0.1961,
+        0.0
+      ]
     },
     {
       "scene_index": 7,
@@ -2235,7 +2806,17 @@
           "西皮原板",
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.267,
+        0.3529,
+        0.6471,
+        0.0,
+        0.75,
+        2,
+        0.3529,
+        0.0
+      ]
     },
     {
       "scene_index": 8,
@@ -2473,7 +3054,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.8889,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 9,
@@ -3208,7 +3799,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.094,
+        0.1781,
+        0.8082,
+        0.0137,
+        0.8056,
+        11,
+        0.1781,
+        0.0
+      ]
     },
     {
       "scene_index": 10,
@@ -3792,7 +4393,17 @@
           "西皮摇板",
           "西皮流水"
         ]
-      }
+      },
+      "scene_feature": [
+        0.073,
+        0.129,
+        0.871,
+        0.0,
+        0.8525,
+        4,
+        0.129,
+        0.0
+      ]
     },
     {
       "scene_index": 11,
@@ -4155,7 +4766,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 12,
@@ -4570,7 +5191,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.091,
+        0.1143,
+        0.8286,
+        0.0571,
+        0.8529,
+        4,
+        0.1143,
+        0.0
+      ]
     },
     {
       "scene_index": 13,
@@ -4990,7 +5621,17 @@
         "musical_styles": [
           "二黄摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.156,
+        0.2162,
+        0.7838,
+        0.0,
+        0.8056,
+        7,
+        0.0,
+        0.2162
+      ]
     },
     {
       "scene_index": 14,
@@ -5263,7 +5904,17 @@
         "musical_styles": [
           "二黄摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.05,
+        0.05,
+        0.95,
+        0.0,
+        0.7895,
+        5,
+        0.0,
+        0.05
+      ]
     },
     {
       "scene_index": 15,
@@ -5671,7 +6322,17 @@
         "musical_styles": [
           "二黄摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.1538,
+        0.8462,
+        0.0,
+        0.7368,
+        5,
+        0.0,
+        0.1538
+      ]
     },
     {
       "scene_index": 16,
@@ -5968,7 +6629,17 @@
         "musical_styles": [
           "二黄摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.231,
+        0.25,
+        0.75,
+        0.0,
+        0.8148,
+        3,
+        0.0,
+        0.25
+      ]
     },
     {
       "scene_index": 17,
@@ -6358,7 +7029,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.9677,
+        0.0323,
+        0.9333,
+        7,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 18,
@@ -6379,14 +7060,14 @@
           "text": "（崇祯、王承恩同上，同滑步。）"
         },
         {
-          "character": null,
+          "character": "王承恩",
           "line_type": "二黄原板",
           "musical_style": "二黄原板",
           "style_family": "二黄",
           "text": "听说是居庸关贼兵围困，"
         },
         {
-          "character": null,
+          "character": "王承恩",
           "line_type": "二黄摇板",
           "musical_style": "二黄摇板",
           "style_family": "二黄",
@@ -6946,7 +7627,17 @@
           "二黄原板",
           "二黄摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.08,
+        0.1833,
+        0.8167,
+        0.0,
+        0.7627,
+        5,
+        0.0,
+        0.1833
+      ]
     },
     {
       "scene_index": 19,
@@ -7323,7 +8014,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.931,
+        0.069,
+        0.9643,
+        5,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 20,
@@ -7416,7 +8117,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.8,
+        0.2,
+        0.5,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 21,
@@ -7772,7 +8483,17 @@
         "musical_styles": [
           "二黄摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.16,
+        0.2581,
+        0.7419,
+        0.0,
+        0.7333,
+        8,
+        0.0,
+        0.2258
+      ]
     },
     {
       "scene_index": 22,
@@ -7979,7 +8700,17 @@
         "musical_styles": [
           "二黄摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.111,
+        0.1579,
+        0.8421,
+        0.0,
+        0.8889,
+        2,
+        0.0,
+        0.1579
+      ]
     },
     {
       "scene_index": 23,
@@ -9081,7 +9812,17 @@
         "musical_styles": [
           "二黄摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.198,
+        0.2655,
+        0.7345,
+        0.0,
+        0.7857,
+        5,
+        0.0,
+        0.2655
+      ]
     },
     {
       "scene_index": 24,
@@ -9104,7 +9845,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 25,
@@ -9949,7 +10700,17 @@
         "musical_styles": [
           "二黄摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.19,
+        0.2436,
+        0.7564,
+        0.0,
+        0.5974,
+        8,
+        0.0,
+        0.2051
+      ]
     },
     {
       "scene_index": 26,
@@ -10130,7 +10891,17 @@
         "musical_styles": [
           "二黄摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.133,
+        0.1333,
+        0.8667,
+        0.0,
+        1.0,
+        3,
+        0.0,
+        0.1333
+      ]
     },
     {
       "scene_index": 27,
@@ -10229,7 +11000,17 @@
         "musical_styles": [
           "二黄摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.5,
+        0.4286,
+        0.4286,
+        0.1429,
+        0.0,
+        1,
+        0.0,
+        0.4286
+      ]
     },
     {
       "scene_index": 28,
@@ -10398,7 +11179,17 @@
         "musical_styles": [
           "二黄摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.429,
+        0.5455,
+        0.3636,
+        0.0909,
+        0.1,
+        2,
+        0.0,
+        0.5455
+      ]
     }
   ]
 }

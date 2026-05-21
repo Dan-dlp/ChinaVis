@@ -294,7 +294,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.8,
+        0.2,
+        0.5,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -336,7 +346,17 @@
         "musical_styles": [
           "西皮散板"
         ]
-      }
+      },
+      "scene_feature": [
+        1.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1,
+        1.0,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -389,21 +409,42 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "不可胡言，待某看来。\n请问二位夫人，何人宝眷？"
-        },
-        {
-          "character": "甘夫人、糜夫人",
-          "line_type": "同白",
-          "musical_style": null,
-          "style_family": null,
-          "text": "我姐妹二人，乃刘玄德家眷。二弟关云长，在灞陵桥与曹丞相相谈，车辆先行，\n被你等抢来。快快把我们放下山去。"
+          "text": "不可胡言，待某看来。"
         },
         {
           "character": "廖化",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "原来是刘使君宝眷。\n啊，杜远兄，此乃刘使君宝眷，快快送下山去，才是正理。"
+          "text": "请问二位夫人，何人宝眷？"
+        },
+        {
+          "character": "甘夫人、糜夫人",
+          "line_type": "同白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我姐妹二人，乃刘玄德家眷。二弟关云长，在灞陵桥与曹丞相相谈，车辆先行，"
+        },
+        {
+          "character": "甘夫人、糜夫人",
+          "line_type": "同白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "被你等抢来。快快把我们放下山去。"
+        },
+        {
+          "character": "廖化",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "原来是刘使君宝眷。"
+        },
+        {
+          "character": "廖化",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "啊，杜远兄，此乃刘使君宝眷，快快送下山去，才是正理。"
         },
         {
           "character": "杜远",
@@ -512,7 +553,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.9375,
+        0.0625,
+        0.6667,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 4,
@@ -544,7 +595,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "适才在灞陵桥，曹公与某饯行，二嫂车辆过桥前行，俺赶行至此，为何不见？\n马童，速速打听二位主母下落！"
+          "text": "适才在灞陵桥，曹公与某饯行，二嫂车辆过桥前行，俺赶行至此，为何不见？"
+        },
+        {
+          "character": "关羽",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "马童，速速打听二位主母下落！"
         },
         {
           "character": "马童",
@@ -565,7 +623,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "且住，某在灞陵桥，与曹公稍谈几句，二嫂车辆前行，此处不见踪影，其中定\n有缘故。"
+          "text": "且住，某在灞陵桥，与曹公稍谈几句，二嫂车辆前行，此处不见踪影，其中定"
+        },
+        {
+          "character": "关羽",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "有缘故。"
         },
         {
           "character": null,
@@ -607,7 +672,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "哎呀且住！想俺大哥，将保护二位皇嫂重任，付予关某，若有差池，乃关某之\n罪也。"
+          "text": "哎呀且住！想俺大哥，将保护二位皇嫂重任，付予关某，若有差池，乃关某之"
+        },
+        {
+          "character": "关羽",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "罪也。"
         },
         {
           "character": null,
@@ -663,7 +735,21 @@
           "line_type": "西皮散板",
           "musical_style": "西皮散板",
           "style_family": "西皮",
-          "text": "听说车辆被贼抢，\n倒叫关羽无主张。\n有何面目见兄长？"
+          "text": "听说车辆被贼抢，"
+        },
+        {
+          "character": "关羽",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "倒叫关羽无主张。"
+        },
+        {
+          "character": "关羽",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "有何面目见兄长？"
         },
         {
           "character": null,
@@ -726,7 +812,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "在下姓廖名化。只因伙伴杜远，将二位夫人车辆，抢上山去，是他不纳良言，\n我已将他杀死。特来禀报二将军知道。"
+          "text": "在下姓廖名化。只因伙伴杜远，将二位夫人车辆，抢上山去，是他不纳良言，"
+        },
+        {
+          "character": "廖化",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我已将他杀死。特来禀报二将军知道。"
         },
         {
           "character": "关羽",
@@ -831,7 +924,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "请二嫂登车。\n马童，带马！"
+          "text": "请二嫂登车。"
+        },
+        {
+          "character": "关羽",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "马童，带马！"
         },
         {
           "character": null,
@@ -879,7 +979,17 @@
         "musical_styles": [
           "西皮散板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0976,
+        0.878,
+        0.0244,
+        0.7,
+        4,
+        0.0976,
+        0.0
+      ]
     },
     {
       "scene_index": 5,
@@ -915,14 +1025,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "老汉胡华。昔在先帝时，曾为议事，如今致仕归乡。小儿胡班，在荥阳王植部\n下以为从事。看红日西坠，不免去到庄外，游玩一番便了。"
+          "text": "老汉胡华。昔在先帝时，曾为议事，如今致仕归乡。小儿胡班，在荥阳王植部"
+        },
+        {
+          "character": "胡华",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "下以为从事。看红日西坠，不免去到庄外，游玩一番便了。"
         },
         {
           "character": "胡华",
           "line_type": "西皮原板",
           "musical_style": "西皮原板",
           "style_family": "西皮",
-          "text": "可叹炎汉锦乾坤，\n狼烟四起不太平。"
+          "text": "可叹炎汉锦乾坤，"
+        },
+        {
+          "character": "胡华",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "狼烟四起不太平。"
         },
         {
           "character": null,
@@ -936,7 +1060,14 @@
           "line_type": "西皮散板",
           "musical_style": "西皮散板",
           "style_family": "西皮",
-          "text": "天色昏暗路难奔，\n见一老丈在庄门。"
+          "text": "天色昏暗路难奔，"
+        },
+        {
+          "character": "关羽",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "见一老丈在庄门。"
         },
         {
           "character": "关羽",
@@ -1041,7 +1172,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "将军河北寻兄，定从荥阳经过。小儿胡班，现在王植部下为将，小老儿有心修\n书一封，烦将军至荥阳交与小儿，不知将军意下如何？"
+          "text": "将军河北寻兄，定从荥阳经过。小儿胡班，现在王植部下为将，小老儿有心修"
+        },
+        {
+          "character": "胡华",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "书一封，烦将军至荥阳交与小儿，不知将军意下如何？"
         },
         {
           "character": "关羽",
@@ -1130,7 +1268,17 @@
           "西皮原板",
           "西皮散板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.05,
+        0.1667,
+        0.7333,
+        0.1,
+        0.6552,
+        2,
+        0.1333,
+        0.0
+      ]
     },
     {
       "scene_index": 6,
@@ -1160,7 +1308,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "俺，孔秀。奉了丞相之命，镇守东岭关。\n众将官，带路上关。"
+          "text": "俺，孔秀。奉了丞相之命，镇守东岭关。"
+        },
+        {
+          "character": "孔秀",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "众将官，带路上关。"
         },
         {
           "character": null,
@@ -1174,7 +1329,21 @@
           "line_type": "西皮流水板",
           "musical_style": "西皮流水板",
           "style_family": "西皮",
-          "text": "昨夜借宿胡家庄，\n老丈美意似孟尝。\n东岭关紧闭甚严防。"
+          "text": "昨夜借宿胡家庄，"
+        },
+        {
+          "character": "关羽",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "老丈美意似孟尝。"
+        },
+        {
+          "character": "关羽",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "东岭关紧闭甚严防。"
         },
         {
           "character": "关羽",
@@ -1184,7 +1353,14 @@
           "text": "开关！"
         },
         {
-          "character": "勒住丝缰用目望、孔秀",
+          "character": "关羽",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "勒住丝缰用目望"
+        },
+        {
+          "character": "孔秀",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -1202,7 +1378,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "二将军到了，开关。\n参见二将军。"
+          "text": "二将军到了，开关。"
+        },
+        {
+          "character": "孔秀",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "参见二将军。"
         },
         {
           "character": "关羽",
@@ -1304,7 +1487,17 @@
         "musical_styles": [
           "西皮流水板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.067,
+        0.1364,
+        0.8182,
+        0.0455,
+        0.6667,
+        2,
+        0.1364,
+        0.0
+      ]
     },
     {
       "scene_index": 7,
@@ -1356,7 +1549,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "本太守韩福。今乃操演之日。\n众将官！校场操演去者！"
+          "text": "本太守韩福。今乃操演之日。"
+        },
+        {
+          "character": "韩福",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "众将官！校场操演去者！"
         },
         {
           "character": null,
@@ -1583,7 +1783,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.9643,
+        0.0357,
+        0.8889,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 8,
@@ -1607,7 +1817,21 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "奉命统军威风盛，\n镇守沂水谁不尊？\n冲锋对垒神鬼惊。"
+          "text": "奉命统军威风盛，"
+        },
+        {
+          "character": "卞喜",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "镇守沂水谁不尊？"
+        },
+        {
+          "character": "卞喜",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "冲锋对垒神鬼惊。"
         },
         {
           "character": null,
@@ -1649,7 +1873,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "且住！关羽过关斩将，看看来到沂水。此人英勇无敌。只可智取。我不免去到\n镇国寺，与老和尚商议灭却关羽之计。\n来！带马镇国寺去者。"
+          "text": "且住！关羽过关斩将，看看来到沂水。此人英勇无敌。只可智取。我不免去到"
+        },
+        {
+          "character": "卞喜",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "镇国寺，与老和尚商议灭却关羽之计。"
+        },
+        {
+          "character": "卞喜",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来！带马镇国寺去者。"
         },
         {
           "character": null,
@@ -1677,7 +1915,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "哎呀不敢不敢，罪过，罪过。\n有请师父。"
+          "text": "哎呀不敢不敢，罪过，罪过。"
+        },
+        {
+          "character": "小和尚",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "有请师父。"
         },
         {
           "character": null,
@@ -1796,7 +2041,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "就在寺中设摆酒宴，两旁设下刀斧手，本太守掷杯为号，擒那关羽，此事万无\n推辞了。"
+          "text": "就在寺中设摆酒宴，两旁设下刀斧手，本太守掷杯为号，擒那关羽，此事万无"
+        },
+        {
+          "character": "卞喜",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "推辞了。"
         },
         {
           "character": "普净",
@@ -1810,7 +2062,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "唗！若是走漏消息，定要你的老命。\n来！带马迎接关羽去者。"
+          "text": "唗！若是走漏消息，定要你的老命。"
+        },
+        {
+          "character": "卞喜",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来！带马迎接关羽去者。"
         },
         {
           "character": null,
@@ -1824,7 +2083,35 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "哎呀且住！我当卞喜借我寺院为了何事，原来设下奸计，要害关羽性命。我想\n那关羽，乃当今英雄，国家有用之材；况且我二人俱是蒲东人氏，与他同乡共\n里。想我出家人，慈悲为本，方便为门，如今他来到这沂水关镇国寺中有难，\n我岂可见他死而不救！哎呀这……有了，我不免等他到来，用言语打动于他。\n正是："
+          "text": "哎呀且住！我当卞喜借我寺院为了何事，原来设下奸计，要害关羽性命。我想"
+        },
+        {
+          "character": "普净",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "那关羽，乃当今英雄，国家有用之材；况且我二人俱是蒲东人氏，与他同乡共"
+        },
+        {
+          "character": "普净",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "里。想我出家人，慈悲为本，方便为门，如今他来到这沂水关镇国寺中有难，"
+        },
+        {
+          "character": "普净",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我岂可见他死而不救！哎呀这……有了，我不免等他到来，用言语打动于他。"
+        },
+        {
+          "character": "普净",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "正是："
         },
         {
           "character": "普净",
@@ -1880,7 +2167,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.042,
+        0.0811,
+        0.8649,
+        0.0541,
+        0.6111,
+        4,
+        0.0811,
+        0.0
+      ]
     },
     {
       "scene_index": 9,
@@ -1933,7 +2230,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 10,
@@ -2070,7 +2377,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 11,
@@ -2128,7 +2445,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "哈哈哈！这就怪不得了。小僧也是蒲东人氏，你我只隔一河，难道将军你就忘\n怀了？"
+          "text": "哈哈哈！这就怪不得了。小僧也是蒲东人氏，你我只隔一河，难道将军你就忘"
+        },
+        {
+          "character": "普净",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "怀了？"
         },
         {
           "character": "关羽",
@@ -2310,7 +2634,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "哎呀将军！那卞喜请将军饮宴，并非好意，两旁俱有埋伏，少时酒席宴前，掷\n杯为号，要害将军性命。"
+          "text": "哎呀将军！那卞喜请将军饮宴，并非好意，两旁俱有埋伏，少时酒席宴前，掷"
+        },
+        {
+          "character": "普净",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "杯为号，要害将军性命。"
         },
         {
           "character": "关羽",
@@ -2500,7 +2831,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.9362,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 12,
@@ -2639,7 +2980,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.1,
+        0.9,
+        0.0,
+        0.8889,
+        3,
+        0.1,
+        0.0
+      ]
     },
     {
       "scene_index": 13,
@@ -2762,7 +3113,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.8571,
+        0.1429,
+        1.0,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 14,
@@ -2943,7 +3304,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.9286,
+        0.0714,
+        0.8462,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 15,
@@ -3120,7 +3491,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0625,
+        0.875,
+        0.0625,
+        0.8667,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 16,
@@ -3191,7 +3572,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 17,
@@ -3221,7 +3612,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 18,
@@ -3251,7 +3652,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 19,
@@ -3343,7 +3754,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 20,
@@ -3456,7 +3877,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        2,
+        0.0,
+        0.0
+      ]
     }
   ]
 }

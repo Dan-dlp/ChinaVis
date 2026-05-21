@@ -337,14 +337,35 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "家报传书难违抗，\n坐骑如电紧收缰。"
+          "text": "家报传书难违抗，"
+        },
+        {
+          "character": "李福",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "坐骑如电紧收缰。"
         },
         {
           "character": "李福",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "俺，梁千岁府中差官李福。只为张纲巡视河南一省，他心犹如铁石，执法无私，\n千岁在京也曾叫他凡事谅情，张纲未必从命，主人放心不下，命我身带书信，\n嘱咐大爷，不要招惹是非，自讨其罪。我急急赶到洛阳。"
+          "text": "俺，梁千岁府中差官李福。只为张纲巡视河南一省，他心犹如铁石，执法无私，"
+        },
+        {
+          "character": "李福",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "千岁在京也曾叫他凡事谅情，张纲未必从命，主人放心不下，命我身带书信，"
+        },
+        {
+          "character": "李福",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "嘱咐大爷，不要招惹是非，自讨其罪。我急急赶到洛阳。"
         },
         {
           "character": "李福",
@@ -363,7 +384,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.4286,
+        0.5714,
+        0.0,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -385,7 +416,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "本院私访民情，梁英果然抢人妇女，霸占民房，应该命丧。我也曾命钟信封他\n府门，怎么无人回来？"
+          "text": "本院私访民情，梁英果然抢人妇女，霸占民房，应该命丧。我也曾命钟信封他"
+        },
+        {
+          "character": "张纲",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "府门，怎么无人回来？"
         },
         {
           "character": null,
@@ -470,7 +508,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.7778,
+        0.2222,
+        0.75,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -503,21 +551,56 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "客官之言如雁杳，\n思母想姐心内焦。"
-        },
-        {
-          "character": "杨春发",
-          "line_type": "白",
-          "musical_style": null,
-          "style_family": null,
-          "text": "我，杨春发。因为表兄被梁英所杀，母亲同姐姐被贼抢进府去，不知吉凶。有\n一卖绸缎的客人言道，巡按张大人不惧梁冀父子。为此写了冤状前去叩告，谁\n知并无音信，我好忧闷也！"
+          "text": "客官之言如雁杳，"
         },
         {
           "character": "杨春发",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "祸事重重真凑巧，\n福星偏向他人照。\n冤冤相报何时了？"
+          "text": "思母想姐心内焦。"
+        },
+        {
+          "character": "杨春发",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我，杨春发。因为表兄被梁英所杀，母亲同姐姐被贼抢进府去，不知吉凶。有"
+        },
+        {
+          "character": "杨春发",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "一卖绸缎的客人言道，巡按张大人不惧梁冀父子。为此写了冤状前去叩告，谁"
+        },
+        {
+          "character": "杨春发",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "知并无音信，我好忧闷也！"
+        },
+        {
+          "character": "杨春发",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "祸事重重真凑巧，"
+        },
+        {
+          "character": "杨春发",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "福星偏向他人照。"
+        },
+        {
+          "character": "杨春发",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "冤冤相报何时了？"
         },
         {
           "character": null,
@@ -573,7 +656,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "官法岂容民人晓，\n明查暗访到秋毫。"
+          "text": "官法岂容民人晓，"
+        },
+        {
+          "character": "全老民",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "明查暗访到秋毫。"
         },
         {
           "character": null,
@@ -692,7 +782,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "哎呀列位吓！我姓杨名春发，到我舅父家中迎接姐姐归家。表兄相送，遇着梁\n英一党贼子，杀死表兄，将我姐姐抢去，我母亲赶到他府门，又将我母亲抢去，\n不知生死。我到按院大人台前告那贼子。"
+          "text": "哎呀列位吓！我姓杨名春发，到我舅父家中迎接姐姐归家。表兄相送，遇着梁"
+        },
+        {
+          "character": "杨春发",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "英一党贼子，杀死表兄，将我姐姐抢去，我母亲赶到他府门，又将我母亲抢去，"
+        },
+        {
+          "character": "杨春发",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "不知生死。我到按院大人台前告那贼子。"
         },
         {
           "character": "老者、和尚、道士、尼僧",
@@ -812,7 +916,17 @@
         "singing_ratio": 0.074,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.074,
+        0.2683,
+        0.7317,
+        0.0,
+        0.65,
+        8,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 4,
@@ -863,7 +977,21 @@
           "line_type": "同白",
           "musical_style": null,
           "style_family": null,
-          "text": "起马。\n（五马江水儿牌前半段。四牌手、四刽手、四军牢、四文堂、四敕令、四司官、二中军分一对对走，轿在中\n场不走。杨春发、全老民、老者、和尚、道士、尼僧自下场门同上，同跪。）"
+          "text": "起马。"
+        },
+        {
+          "character": "二中军",
+          "line_type": "同白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "（五马江水儿牌前半段。四牌手、四刽手、四军牢、四文堂、四敕令、四司官、二中军分一对对走，轿在中"
+        },
+        {
+          "character": "二中军",
+          "line_type": "同白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "场不走。杨春发、全老民、老者、和尚、道士、尼僧自下场门同上，同跪。）"
         },
         {
           "character": "杨春发、全老民、老者、和尚、道士、尼僧",
@@ -884,7 +1012,21 @@
           "line_type": "同白",
           "musical_style": null,
           "style_family": null,
-          "text": "吓。\n（杨春发、全老民、老者、和尚、道士、尼僧同下。五马江水儿牌后半段。二文官、二武将自两边分上，同\n跪。）"
+          "text": "吓。"
+        },
+        {
+          "character": "杨春发、全老民、老者、和尚、道士、尼僧",
+          "line_type": "同白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "（杨春发、全老民、老者、和尚、道士、尼僧同下。五马江水儿牌后半段。二文官、二武将自两边分上，同"
+        },
+        {
+          "character": "杨春发、全老民、老者、和尚、道士、尼僧",
+          "line_type": "同白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "跪。）"
         },
         {
           "character": "二文官、二武将",
@@ -939,7 +1081,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.6,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 5,
@@ -996,7 +1148,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "要拿人就该拿，为什么将梁家府门封了呢。幸喜房屋宽大，内里无人知道。若\n是房小，他强要出来，我惹得他们起么！"
+          "text": "要拿人就该拿，为什么将梁家府门封了呢。幸喜房屋宽大，内里无人知道。若"
+        },
+        {
+          "character": "两段甲",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "是房小，他强要出来，我惹得他们起么！"
         },
         {
           "character": "三两段",
@@ -1118,7 +1277,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.85,
+        0.15,
+        0.8947,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 6,
@@ -1150,7 +1319,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "奉命不敢久停站，\n千岁立等信回还。"
+          "text": "奉命不敢久停站，"
+        },
+        {
+          "character": "李福",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "千岁立等信回还。"
         },
         {
           "character": "李福",
@@ -1171,14 +1347,42 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "吓，府门紧闭，现有封条，待我下马观看。\n“钦命河南巡抚张谨封，兼理提督军门张谨封”。\n吓，这又奇了！"
+          "text": "吓，府门紧闭，现有封条，待我下马观看。"
+        },
+        {
+          "character": "李福",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "“钦命河南巡抚张谨封，兼理提督军门张谨封”。"
+        },
+        {
+          "character": "李福",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "吓，这又奇了！"
         },
         {
           "character": "李福",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "封门闭户何事犯，\n叫人难解这机关。\n李福何方去打探？"
+          "text": "封门闭户何事犯，"
+        },
+        {
+          "character": "李福",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "叫人难解这机关。"
+        },
+        {
+          "character": "李福",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "李福何方去打探？"
         },
         {
           "character": null,
@@ -1227,7 +1431,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "我是梁千岁府中差官，与他送家书的。请问列位：按院张大人为何将千岁的府\n门封了？"
+          "text": "我是梁千岁府中差官，与他送家书的。请问列位：按院张大人为何将千岁的府"
+        },
+        {
+          "character": "李福",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "门封了？"
         },
         {
           "character": "两段甲",
@@ -1248,7 +1459,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "只因梁千岁恐他儿子不读诗书，在京拜托张大人将门封闭，教他在内发奋攻书，\n为的是教子成人。"
+          "text": "只因梁千岁恐他儿子不读诗书，在京拜托张大人将门封闭，教他在内发奋攻书，"
+        },
+        {
+          "character": "两段甲",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "为的是教子成人。"
         },
         {
           "character": "李福",
@@ -1276,7 +1494,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "呸，你吃了灯草灰，放的轻巧屁。张大人执法森严，私开府门者斩，我等岂肯\n把这活脑袋给你作人情，这就不能！"
+          "text": "呸，你吃了灯草灰，放的轻巧屁。张大人执法森严，私开府门者斩，我等岂肯"
+        },
+        {
+          "character": "两段甲",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "把这活脑袋给你作人情，这就不能！"
         },
         {
           "character": "李福",
@@ -1290,7 +1515,21 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "听他之言心已懒，\n破船归岸难上难。\n无有回书怎复返？"
+          "text": "听他之言心已懒，"
+        },
+        {
+          "character": "李福",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "破船归岸难上难。"
+        },
+        {
+          "character": "李福",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "无有回书怎复返？"
         },
         {
           "character": "李福",
@@ -1325,7 +1564,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "私开府门罪问斩，\n张纲执法重如山。"
+          "text": "私开府门罪问斩，"
+        },
+        {
+          "character": "李福",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "张纲执法重如山。"
         },
         {
           "character": "李福",
@@ -1342,7 +1588,14 @@
           "text": "自思自想自愁烦。"
         },
         {
-          "character": "进退无路暗嗟叹、两段甲",
+          "character": "李福",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "进退无路暗嗟叹"
+        },
+        {
+          "character": "两段甲",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -1374,7 +1627,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "此时略放一半胆，\n千岁仗托为儿男。"
+          "text": "此时略放一半胆，"
+        },
+        {
+          "character": "李福",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "千岁仗托为儿男。"
         },
         {
           "character": "两段甲",
@@ -1465,14 +1725,28 @@
           "line_type": "同白",
           "musical_style": null,
           "style_family": null,
-          "text": "这是按院大人封的门，王法厉害，才不敢进去，我等有这样肝胆，有这大力量？\n他两个有力量没有。"
+          "text": "这是按院大人封的门，王法厉害，才不敢进去，我等有这样肝胆，有这大力量？"
+        },
+        {
+          "character": "三两段",
+          "line_type": "同白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "他两个有力量没有。"
         },
         {
           "character": "两段甲",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "他两个有什么力量！你们瞧这大的王府门，要就摆下，不要就拿进去了，这不\n是力量？"
+          "text": "他两个有什么力量！你们瞧这大的王府门，要就摆下，不要就拿进去了，这不"
+        },
+        {
+          "character": "两段甲",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "是力量？"
         },
         {
           "character": "三两段",
@@ -1546,7 +1820,17 @@
         "singing_ratio": 0.061,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.061,
+        0.3125,
+        0.6875,
+        0.0,
+        0.4921,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 7,
@@ -1605,7 +1889,21 @@
           "line_type": "同白",
           "musical_style": null,
           "style_family": null,
-          "text": "老爷加级，你我也高升，高升。大人来了，预备公案，打扫干净。\n（〖大吹打〗。四牌手、四刽手、四军牢、四文堂、四敕令、吏司官、户司官、兵司官、刑司官、二中军、\n张纲同上，同凹门。张纲坐公案，吏司官、户司官、兵司官、刑司官分坐两边。）"
+          "text": "老爷加级，你我也高升，高升。大人来了，预备公案，打扫干净。"
+        },
+        {
+          "character": "二青衣",
+          "line_type": "同白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "（〖大吹打〗。四牌手、四刽手、四军牢、四文堂、四敕令、吏司官、户司官、兵司官、刑司官、二中军、"
+        },
+        {
+          "character": "二青衣",
+          "line_type": "同白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "张纲同上，同凹门。张纲坐公案，吏司官、户司官、兵司官、刑司官分坐两边。）"
         },
         {
           "character": "张纲",
@@ -1668,7 +1966,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "候着。\n禀大人：众百姓拥挤在外喊冤。"
+          "text": "候着。"
+        },
+        {
+          "character": "军牢甲",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "禀大人：众百姓拥挤在外喊冤。"
         },
         {
           "character": "张纲",
@@ -1724,7 +2029,21 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "无心先接杨生状，\n梁英为恶太荒唐。\n死鬼今遇活阎王。"
+          "text": "无心先接杨生状，"
+        },
+        {
+          "character": "张纲",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "梁英为恶太荒唐。"
+        },
+        {
+          "character": "张纲",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "死鬼今遇活阎王。"
         },
         {
           "character": "张纲",
@@ -1734,7 +2053,14 @@
           "text": "军役！"
         },
         {
-          "character": "狂徒命在手中掌、军牢甲",
+          "character": "张纲",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "狂徒命在手中掌"
+        },
+        {
+          "character": "军牢甲",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -1752,7 +2078,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "吓，众百姓男女僧道听者：大人吩咐，你等辕门伺候传讯，单传杨春发一案。\n谁是杨春发？"
+          "text": "吓，众百姓男女僧道听者：大人吩咐，你等辕门伺候传讯，单传杨春发一案。"
+        },
+        {
+          "character": "军牢甲",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "谁是杨春发？"
         },
         {
           "character": "杨春发",
@@ -1836,7 +2169,28 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "细观他是客人样，\n法堂不敢语猖狂。\n眼见一党犬与狼。\n乃是诛恶安善良。"
+          "text": "细观他是客人样，"
+        },
+        {
+          "character": "杨春发",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "法堂不敢语猖狂。"
+        },
+        {
+          "character": "杨春发",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "眼见一党犬与狼。"
+        },
+        {
+          "character": "杨春发",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "乃是诛恶安善良。"
         },
         {
           "character": "杨春发",
@@ -1853,18 +2207,74 @@
           "text": "宽恕童生无目光。"
         },
         {
-          "character": "他扮黎民暗巡访、官探民情暗巡访、今将含冤直言讲、张纲",
+          "character": "杨春发",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "他扮黎民暗巡访"
+        },
+        {
+          "character": "杨春发",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "官探民情暗巡访"
+        },
+        {
+          "character": "杨春发",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "今将含冤直言讲"
+        },
+        {
+          "character": "张纲",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
           "text": "杨书生！"
         },
         {
-          "character": "他扮黎民暗巡访、官探民情暗巡访、今将含冤直言讲、张纲",
+          "character": "张纲",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "他扮黎民暗巡访"
+        },
+        {
+          "character": "张纲",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "官探民情暗巡访"
+        },
+        {
+          "character": "张纲",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "今将含冤直言讲"
+        },
+        {
+          "character": "张纲",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "我眼见梁英强劫抢，\n将你表兄杀路旁。\n顷刻救她出贼房。"
+          "text": "我眼见梁英强劫抢，"
+        },
+        {
+          "character": "张纲",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "将你表兄杀路旁。"
+        },
+        {
+          "character": "张纲",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "顷刻救她出贼房。"
         },
         {
           "character": "母亲、姐姐入罗网、杨春发",
@@ -1878,7 +2288,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "大人开恩二命放，\n童生结草来报偿。"
+          "text": "大人开恩二命放，"
+        },
+        {
+          "character": "母亲、姐姐入罗网、杨春发",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "童生结草来报偿。"
         },
         {
           "character": "张纲",
@@ -2025,21 +2442,42 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "就命你捧我令箭，同着春发前去揭开封条，只管大胆闯了进去，将春发母、姐\n带来见我，余下之人，另有吩咐，不可惊动他家内眷。"
+          "text": "就命你捧我令箭，同着春发前去揭开封条，只管大胆闯了进去，将春发母、姐"
+        },
+        {
+          "character": "张纲",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "带来见我，余下之人，另有吩咐，不可惊动他家内眷。"
         },
         {
           "character": "钟信",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "得令。\n俺捧令箭，你二人带兵。"
+          "text": "得令。"
+        },
+        {
+          "character": "钟信",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "俺捧令箭，你二人带兵。"
         },
         {
           "character": "守备、千总",
           "line_type": "同白",
           "musical_style": null,
           "style_family": null,
-          "text": "是。\n众兵丁！"
+          "text": "是。"
+        },
+        {
+          "character": "守备、千总",
+          "line_type": "同白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "众兵丁！"
         },
         {
           "character": null,
@@ -2144,7 +2582,21 @@
           "line_type": "同唱",
           "musical_style": null,
           "style_family": null,
-          "text": "一家性命重生长，\n火内提起雪冰霜。\n大人何计拿强梁？"
+          "text": "一家性命重生长，"
+        },
+        {
+          "character": "韩氏、杨春发、杨春艳",
+          "line_type": "同唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "火内提起雪冰霜。"
+        },
+        {
+          "character": "韩氏、杨春发、杨春艳",
+          "line_type": "同唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "大人何计拿强梁？"
         },
         {
           "character": null,
@@ -2340,7 +2792,17 @@
         "singing_ratio": 0.074,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.074,
+        0.2347,
+        0.7347,
+        0.0306,
+        0.5773,
+        16,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 8,
@@ -2401,7 +2863,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.5,
+        0.5,
+        0.0,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 9,
@@ -2895,7 +3367,17 @@
         "musical_styles": [
           "西皮导板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.051,
+        0.1923,
+        0.8077,
+        0.0,
+        0.7255,
+        7,
+        0.0192,
+        0.0
+      ]
     },
     {
       "scene_index": 10,
@@ -2963,7 +3445,17 @@
         "singing_ratio": 1.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        1.0,
+        0.4,
+        0.4,
+        0.2,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 11,
@@ -3679,7 +4171,17 @@
         "musical_styles": [
           "西皮导板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.082,
+        0.2152,
+        0.7848,
+        0.0,
+        0.7564,
+        7,
+        0.0127,
+        0.0
+      ]
     }
   ]
 }

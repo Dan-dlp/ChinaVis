@@ -88,7 +88,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "吾乃黑风山、黑风洞黑熊大王是也。今有唐三藏借宿在观音禅院。那寺僧了然，\n意欲谋取他的袈裟。叫徒弟们三更时分放起火来，将他师徒烧死。我不免借\n他的火力，将他得袈裟摄来，作一个佛衣圣会，有何不可。"
+          "text": "吾乃黑风山、黑风洞黑熊大王是也。今有唐三藏借宿在观音禅院。那寺僧了然，"
+        },
+        {
+          "character": "熊精",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "意欲谋取他的袈裟。叫徒弟们三更时分放起火来，将他师徒烧死。我不免借"
+        },
+        {
+          "character": "熊精",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "他的火力，将他得袈裟摄来，作一个佛衣圣会，有何不可。"
         },
         {
           "character": "熊精",
@@ -107,7 +121,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.6,
+        0.4,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -263,7 +287,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.875,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -296,7 +330,7 @@
           "text": "礼一回千佛忏，礼一回千佛忏。"
         },
         {
-          "character": null,
+          "character": "孙悟空",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -587,7 +621,14 @@
           "line_type": "同白",
           "musical_style": null,
           "style_family": null,
-          "text": "爷爷饶命。我们常闻听老和尚说，这院南有个黑风山，黑风洞，有个黑熊大王。\n想是他见火光起处，被他摄去，也未见得。"
+          "text": "爷爷饶命。我们常闻听老和尚说，这院南有个黑风山，黑风洞，有个黑熊大王。"
+        },
+        {
+          "character": "众僧",
+          "line_type": "同白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "想是他见火光起处，被他摄去，也未见得。"
         },
         {
           "character": "唐僧",
@@ -760,7 +801,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.8056,
+        0.1944,
+        0.7429,
+        3,
+        0.0,
+        0.0
+      ]
     }
   ]
 }

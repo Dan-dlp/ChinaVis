@@ -112,7 +112,21 @@
           "line_type": "西皮原板",
           "musical_style": "西皮原板",
           "style_family": "西皮",
-          "text": "我主爷坐山河未享安静，\n全凭着五虎将保定乾坤。\n必须要把孙曹一旦扫平。"
+          "text": "我主爷坐山河未享安静，"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "全凭着五虎将保定乾坤。"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "必须要把孙曹一旦扫平。"
         },
         {
           "character": null,
@@ -185,7 +199,17 @@
         "musical_styles": [
           "西皮原板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.25,
+        0.4286,
+        0.4286,
+        0.1429,
+        0.3333,
+        2,
+        0.4286,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -223,7 +247,21 @@
           "line_type": "二黄慢板",
           "musical_style": "二黄慢板",
           "style_family": "二黄",
-          "text": "为江山把孤的心血用尽，\n何日里把孙曹一旦扫平？\n活活地把桃园两下离分。"
+          "text": "为江山把孤的心血用尽，"
+        },
+        {
+          "character": "刘备",
+          "line_type": "二黄慢板",
+          "musical_style": "二黄慢板",
+          "style_family": "二黄",
+          "text": "何日里把孙曹一旦扫平？"
+        },
+        {
+          "character": "刘备",
+          "line_type": "二黄慢板",
+          "musical_style": "二黄慢板",
+          "style_family": "二黄",
+          "text": "活活地把桃园两下离分。"
         },
         {
           "character": null,
@@ -237,7 +275,14 @@
           "line_type": "二黄摇板",
           "musical_style": "二黄摇板",
           "style_family": "二黄",
-          "text": "主公兵败白帝城，\n急忙进宫问分明。"
+          "text": "主公兵败白帝城，"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "二黄摇板",
+          "musical_style": "二黄摇板",
+          "style_family": "二黄",
+          "text": "急忙进宫问分明。"
         },
         {
           "character": "诸葛亮",
@@ -268,7 +313,14 @@
           "text": "先生！"
         },
         {
-          "character": "睁开了昏花眼强自扎挣、诸葛亮",
+          "character": "刘备",
+          "line_type": "叫头",
+          "musical_style": null,
+          "style_family": null,
+          "text": "睁开了昏花眼强自扎挣"
+        },
+        {
+          "character": "诸葛亮",
           "line_type": "叫头",
           "musical_style": null,
           "style_family": null,
@@ -335,7 +387,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "先生有治国大才，比曹丕胜强十倍，当能安邦定国。嗣子懦弱，当扶则扶；如\n若不才，先生你、你、你就自己消受了罢。"
+          "text": "先生有治国大才，比曹丕胜强十倍，当能安邦定国。嗣子懦弱，当扶则扶；如"
+        },
+        {
+          "character": "刘备",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "若不才，先生你、你、你就自己消受了罢。"
         },
         {
           "character": "诸葛亮",
@@ -356,7 +415,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "好个忠义的先生！\n二皇儿过来。尔弟兄三人，以父事丞相，不可怠慢，向前拜过先生，以为相父。"
+          "text": "好个忠义的先生！"
+        },
+        {
+          "character": "刘备",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "二皇儿过来。尔弟兄三人，以父事丞相，不可怠慢，向前拜过先生，以为相父。"
         },
         {
           "character": null,
@@ -454,7 +520,35 @@
           "line_type": "二黄慢板",
           "musical_style": "二黄慢板",
           "style_family": "二黄",
-          "text": "事到临头才知悔，\n自己错了埋怨谁？\n乌江岸前把命逼。\n他人的奸诈有谁知？\n还望先生费心机。"
+          "text": "事到临头才知悔，"
+        },
+        {
+          "character": "刘备",
+          "line_type": "二黄慢板",
+          "musical_style": "二黄慢板",
+          "style_family": "二黄",
+          "text": "自己错了埋怨谁？"
+        },
+        {
+          "character": "刘备",
+          "line_type": "二黄慢板",
+          "musical_style": "二黄慢板",
+          "style_family": "二黄",
+          "text": "乌江岸前把命逼。"
+        },
+        {
+          "character": "刘备",
+          "line_type": "二黄慢板",
+          "musical_style": "二黄慢板",
+          "style_family": "二黄",
+          "text": "他人的奸诈有谁知？"
+        },
+        {
+          "character": "刘备",
+          "line_type": "二黄慢板",
+          "musical_style": "二黄慢板",
+          "style_family": "二黄",
+          "text": "还望先生费心机。"
         },
         {
           "character": "刘备",
@@ -464,18 +558,74 @@
           "text": "先生哪。"
         },
         {
-          "character": "楚霸王他不听范增语、曹孟德中原成大器、阿斗年幼终何用、诸葛亮",
-          "line_type": "二黄原板",
-          "musical_style": "二黄原板",
-          "style_family": "二黄",
-          "text": "主公不必泪悲啼，\n为臣言来奏主知：\n鞠躬尽瘁死而后已。"
+          "character": "刘备",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "楚霸王他不听范增语"
         },
         {
-          "character": "蒙主公三顾之恩义、刘备",
+          "character": "刘备",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "曹孟德中原成大器"
+        },
+        {
+          "character": "刘备",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "阿斗年幼终何用"
+        },
+        {
+          "character": "诸葛亮",
           "line_type": "二黄原板",
           "musical_style": "二黄原板",
           "style_family": "二黄",
-          "text": "叹先生说此话世间稀，\n二皇儿近前来细听端的：\n他保阿斗立帝基。"
+          "text": "主公不必泪悲啼，"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "二黄原板",
+          "musical_style": "二黄原板",
+          "style_family": "二黄",
+          "text": "为臣言来奏主知："
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "二黄原板",
+          "musical_style": "二黄原板",
+          "style_family": "二黄",
+          "text": "鞠躬尽瘁死而后已。"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "二黄原板",
+          "musical_style": "二黄原板",
+          "style_family": "二黄",
+          "text": "蒙主公三顾之恩义"
+        },
+        {
+          "character": "刘备",
+          "line_type": "二黄原板",
+          "musical_style": "二黄原板",
+          "style_family": "二黄",
+          "text": "叹先生说此话世间稀，"
+        },
+        {
+          "character": "刘备",
+          "line_type": "二黄原板",
+          "musical_style": "二黄原板",
+          "style_family": "二黄",
+          "text": "二皇儿近前来细听端的："
+        },
+        {
+          "character": "刘备",
+          "line_type": "二黄原板",
+          "musical_style": "二黄原板",
+          "style_family": "二黄",
+          "text": "他保阿斗立帝基。"
         },
         {
           "character": null,
@@ -489,21 +639,84 @@
           "line_type": "二黄原板",
           "musical_style": "二黄原板",
           "style_family": "二黄",
-          "text": "手搀先生泪悲啼。\n还望先生牢记心里。\n第二要恢复汉室基。\n四百载基业化灰泥。"
+          "text": "手搀先生泪悲啼。"
         },
         {
-          "character": "孤还有紧要事嘱咐你、头一件扫荡中原地、哭一声懦弱的汉献帝、赵云",
+          "character": "刘备",
+          "line_type": "二黄原板",
+          "musical_style": "二黄原板",
+          "style_family": "二黄",
+          "text": "还望先生牢记心里。"
+        },
+        {
+          "character": "刘备",
+          "line_type": "二黄原板",
+          "musical_style": "二黄原板",
+          "style_family": "二黄",
+          "text": "第二要恢复汉室基。"
+        },
+        {
+          "character": "刘备",
+          "line_type": "二黄原板",
+          "musical_style": "二黄原板",
+          "style_family": "二黄",
+          "text": "四百载基业化灰泥。"
+        },
+        {
+          "character": "刘备",
+          "line_type": "二黄原板",
+          "musical_style": "二黄原板",
+          "style_family": "二黄",
+          "text": "孤还有紧要事嘱咐你"
+        },
+        {
+          "character": "刘备",
+          "line_type": "二黄原板",
+          "musical_style": "二黄原板",
+          "style_family": "二黄",
+          "text": "头一件扫荡中原地"
+        },
+        {
+          "character": "刘备",
+          "line_type": "二黄原板",
+          "musical_style": "二黄原板",
+          "style_family": "二黄",
+          "text": "哭一声懦弱的汉献帝"
+        },
+        {
+          "character": "赵云",
           "line_type": "二黄摇板",
           "musical_style": "二黄摇板",
           "style_family": "二黄",
-          "text": "万岁还须保龙体，\n臣等保主不敢欺。"
+          "text": "万岁还须保龙体，"
+        },
+        {
+          "character": "赵云",
+          "line_type": "二黄摇板",
+          "musical_style": "二黄摇板",
+          "style_family": "二黄",
+          "text": "臣等保主不敢欺。"
         },
         {
           "character": "刘备",
           "line_type": "二黄摇板",
           "musical_style": "二黄摇板",
           "style_family": "二黄",
-          "text": "回头又见赵四弟，\n你的功劳王尽知。\n又谁知今日两分离。"
+          "text": "回头又见赵四弟，"
+        },
+        {
+          "character": "刘备",
+          "line_type": "二黄摇板",
+          "musical_style": "二黄摇板",
+          "style_family": "二黄",
+          "text": "你的功劳王尽知。"
+        },
+        {
+          "character": "刘备",
+          "line_type": "二黄摇板",
+          "musical_style": "二黄摇板",
+          "style_family": "二黄",
+          "text": "又谁知今日两分离。"
         },
         {
           "character": "刘备",
@@ -513,7 +726,49 @@
           "text": "众位卿家。"
         },
         {
-          "character": "自从患难来相聚、马良、马谡、赵云、邓芝、费祎、诸葛亮",
+          "character": "刘备",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "自从患难来相聚"
+        },
+        {
+          "character": "刘备",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "马良"
+        },
+        {
+          "character": "刘备",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "马谡"
+        },
+        {
+          "character": "刘备",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "赵云"
+        },
+        {
+          "character": "刘备",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "邓芝"
+        },
+        {
+          "character": "刘备",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "费祎"
+        },
+        {
+          "character": "诸葛亮",
           "line_type": "同白",
           "musical_style": null,
           "style_family": null,
@@ -552,7 +807,14 @@
           "line_type": "二黄摇板",
           "musical_style": "二黄摇板",
           "style_family": "二黄",
-          "text": "众位卿家请站起，\n叫声邓芝、马良和费祎。"
+          "text": "众位卿家请站起，"
+        },
+        {
+          "character": "刘备",
+          "line_type": "二黄摇板",
+          "musical_style": "二黄摇板",
+          "style_family": "二黄",
+          "text": "叫声邓芝、马良和费祎。"
         },
         {
           "character": "刘备",
@@ -594,7 +856,21 @@
           "line_type": "二黄摇板",
           "musical_style": "二黄摇板",
           "style_family": "二黄",
-          "text": "你、你、你……用他必须要查端的。\n等等愚兄一路随。\n霎时间难接我的咽喉气！"
+          "text": "你、你、你……用他必须要查端的。"
+        },
+        {
+          "character": "刘备",
+          "line_type": "二黄摇板",
+          "musical_style": "二黄摇板",
+          "style_family": "二黄",
+          "text": "等等愚兄一路随。"
+        },
+        {
+          "character": "刘备",
+          "line_type": "二黄摇板",
+          "musical_style": "二黄摇板",
+          "style_family": "二黄",
+          "text": "霎时间难接我的咽喉气！"
         },
         {
           "character": null,
@@ -763,7 +1039,17 @@
           "二黄慢板",
           "二黄摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.333,
+        0.5172,
+        0.4598,
+        0.023,
+        0.3953,
+        10,
+        0.0,
+        0.4483
+      ]
     }
   ]
 }

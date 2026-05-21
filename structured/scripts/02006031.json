@@ -94,7 +94,21 @@
           "line_type": "同白",
           "musical_style": null,
           "style_family": null,
-          "text": "我等奉如来训谕，今有唐三藏，路过镇元大仙宝山，孙悟空有倒树之厄。为此\n命我等先往南海，待悟空到来，求见菩萨，吾等同菩萨往镇元处，救活果树。\n众仙童。就此前往普陀崖去者。"
+          "text": "我等奉如来训谕，今有唐三藏，路过镇元大仙宝山，孙悟空有倒树之厄。为此"
+        },
+        {
+          "character": "福星、禄星、寿星",
+          "line_type": "同白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "命我等先往南海，待悟空到来，求见菩萨，吾等同菩萨往镇元处，救活果树。"
+        },
+        {
+          "character": "福星、禄星、寿星",
+          "line_type": "同白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "众仙童。就此前往普陀崖去者。"
         },
         {
           "character": null,
@@ -113,7 +127,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -142,7 +166,28 @@
           "line_type": "同白",
           "musical_style": null,
           "style_family": null,
-          "text": "我二人乃万寿山五庄观镇元大仙座前两个道童，清风，明月是也。只因师父被\n元始天尊邀去上清弥罗宫，讲混元道果。说有故人唐三藏，原来佛家第二徒弟。\n五百年前，在盂兰会上相识。他今奉唐王圣旨，往西天拜佛求经。从此经过。\n命将人参果两枚，奉敬唐三藏。要防他跟随的啰唣。只得在此伺候。正是："
+          "text": "我二人乃万寿山五庄观镇元大仙座前两个道童，清风，明月是也。只因师父被"
+        },
+        {
+          "character": "清风、明月",
+          "line_type": "同白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "元始天尊邀去上清弥罗宫，讲混元道果。说有故人唐三藏，原来佛家第二徒弟。"
+        },
+        {
+          "character": "清风、明月",
+          "line_type": "同白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "五百年前，在盂兰会上相识。他今奉唐王圣旨，往西天拜佛求经。从此经过。"
+        },
+        {
+          "character": "清风、明月",
+          "line_type": "同白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "命将人参果两枚，奉敬唐三藏。要防他跟随的啰唣。只得在此伺候。正是："
         },
         {
           "character": "清风、明月",
@@ -168,7 +213,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.6667,
+        0.3333,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -238,7 +293,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "徒弟，前面一座高山，看这光景，与别处不同。定是平安去处，料也没有什么\n凶险。"
+          "text": "徒弟，前面一座高山，看这光景，与别处不同。定是平安去处，料也没有什么"
+        },
+        {
+          "character": "唐僧",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "凶险。"
         },
         {
           "character": "孙悟空",
@@ -385,7 +447,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "仙童，你这五庄观，实乃西方仙界。为何不供三清四帝，罗天诸宰，只供天地\n二字的牌位？"
+          "text": "仙童，你这五庄观，实乃西方仙界。为何不供三清四帝，罗天诸宰，只供天地"
+        },
+        {
+          "character": "唐僧",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "二字的牌位？"
         },
         {
           "character": "清风、明月",
@@ -539,24 +608,87 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "承蒙献果理应取，\n怎用人身来充饥？\n惹得贫僧心又疑。"
+          "text": "承蒙献果理应取，"
         },
         {
-          "character": "世上哪有结人树、清风、明月",
+          "character": "唐僧",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "怎用人身来充饥？"
+        },
+        {
+          "character": "唐僧",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "惹得贫僧心又疑。"
+        },
+        {
+          "character": "唐僧",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "世上哪有结人树"
+        },
+        {
+          "character": "唐僧",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "清风"
+        },
+        {
+          "character": "明月",
           "line_type": "同白",
           "musical_style": null,
           "style_family": null,
           "text": "老师父。"
         },
         {
-          "character": "世上哪有结人树、清风、明月",
+          "character": "明月",
+          "line_type": "同白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "世上哪有结人树"
+        },
+        {
+          "character": "明月",
+          "line_type": "同白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "清风"
+        },
+        {
+          "character": "明月",
           "line_type": "同唱",
           "musical_style": null,
           "style_family": null,
-          "text": "尊声师父莫称奇，\n此果本是树上的。\n日精月华莫负伊。"
+          "text": "尊声师父莫称奇，"
         },
         {
-          "character": "家师临行吩咐去、唐僧",
+          "character": "明月",
+          "line_type": "同唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "此果本是树上的。"
+        },
+        {
+          "character": "明月",
+          "line_type": "同唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "日精月华莫负伊。"
+        },
+        {
+          "character": "明月",
+          "line_type": "同唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "家师临行吩咐去"
+        },
+        {
+          "character": "唐僧",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -667,7 +799,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.1429,
+        0.746,
+        0.1111,
+        0.7258,
+        7,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 4,
@@ -689,7 +831,42 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "方才见那道童，拿的是人参果。我师父竟不吃他的。叫他拿去了。我闻此果，\n食之可以延年益寿，最是难得的东西。怎么这个蠢材，不会做人情，悄悄拿进\n房去，自己受用。我好气得不过。欲待去抢他的来尝尝，又道是强宾不压主，\n实在不好意思。如今怎生想个法儿才好呢？唷，有了。我们那猴子乖巧，不免\n和他计较而行便了。\n孙大哥快来。"
+          "text": "方才见那道童，拿的是人参果。我师父竟不吃他的。叫他拿去了。我闻此果，"
+        },
+        {
+          "character": "猪悟能",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "食之可以延年益寿，最是难得的东西。怎么这个蠢材，不会做人情，悄悄拿进"
+        },
+        {
+          "character": "猪悟能",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "房去，自己受用。我好气得不过。欲待去抢他的来尝尝，又道是强宾不压主，"
+        },
+        {
+          "character": "猪悟能",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "实在不好意思。如今怎生想个法儿才好呢？唷，有了。我们那猴子乖巧，不免"
+        },
+        {
+          "character": "猪悟能",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "和他计较而行便了。"
+        },
+        {
+          "character": "猪悟能",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "孙大哥快来。"
         },
         {
           "character": null,
@@ -738,7 +915,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "哥哥说也奇怪。方才那两个道童，拿了人参果，来奉敬师父。师父看见了，甚\n为惊怕，不敢吃。那道童也不来让让你我，竞自拿了进去。他俩人想必在里面，\n自家拿去受用。故此请你来商量，如何弄他来尝尝。方解这馋口便好。"
+          "text": "哥哥说也奇怪。方才那两个道童，拿了人参果，来奉敬师父。师父看见了，甚"
+        },
+        {
+          "character": "猪悟能",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "为惊怕，不敢吃。那道童也不来让让你我，竞自拿了进去。他俩人想必在里面，"
+        },
+        {
+          "character": "猪悟能",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "自家拿去受用。故此请你来商量，如何弄他来尝尝。方解这馋口便好。"
         },
         {
           "character": "孙悟空",
@@ -752,7 +943,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "哥哥。又听得他说，要拿什么金击子去打。此果方能掉下来。你须要干得安当\n才好。"
+          "text": "哥哥。又听得他说，要拿什么金击子去打。此果方能掉下来。你须要干得安当"
+        },
+        {
+          "character": "猪悟能",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "才好。"
         },
         {
           "character": "孙悟空",
@@ -773,14 +971,42 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "多缘罕物世间稀，\n偷得击子跑得急。\n先食口味得便宜。"
+          "text": "多缘罕物世间稀，"
+        },
+        {
+          "character": "孙悟空",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "偷得击子跑得急。"
+        },
+        {
+          "character": "孙悟空",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "先食口味得便宜。"
         },
         {
           "character": "孙悟空",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "呀，果然在此处。好一棵大树。你看顶圆如伞，高耸入云。根盘枝茂，分润流\n膏。果然好大树也。怎么总不见人参果呢。且喜那边露出几个，就像孩童一般。\n待我窜将上去，取他下来便了。"
+          "text": "呀，果然在此处。好一棵大树。你看顶圆如伞，高耸入云。根盘枝茂，分润流"
+        },
+        {
+          "character": "孙悟空",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "膏。果然好大树也。怎么总不见人参果呢。且喜那边露出几个，就像孩童一般。"
+        },
+        {
+          "character": "孙悟空",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "待我窜将上去，取他下来便了。"
         },
         {
           "character": null,
@@ -794,7 +1020,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "我闻此人参果是遇金而落，遇木而枯，遇水而化，遇火而焦，遇土而入。为此\n我窃取金击子来敲落此果。俺且将衣衫兜住。"
+          "text": "我闻此人参果是遇金而落，遇木而枯，遇水而化，遇火而焦，遇土而入。为此"
+        },
+        {
+          "character": "孙悟空",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我窃取金击子来敲落此果。俺且将衣衫兜住。"
         },
         {
           "character": null,
@@ -808,7 +1041,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "不可任意击取，只要三枚够了。妙吓。且喜无人知觉，不免到房中，与八戒、\n沙僧，一同受用，有何不可？"
+          "text": "不可任意击取，只要三枚够了。妙吓。且喜无人知觉，不免到房中，与八戒、"
+        },
+        {
+          "character": "孙悟空",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "沙僧，一同受用，有何不可？"
         },
         {
           "character": null,
@@ -837,7 +1077,17 @@
         "singing_ratio": 0.077,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.077,
+        0.1071,
+        0.8929,
+        0.0,
+        0.3333,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 5,
@@ -1193,7 +1443,17 @@
         "singing_ratio": 0.037,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.037,
+        0.129,
+        0.8387,
+        0.0323,
+        0.8667,
+        6,
+        0.0,
+        0.0
+      ]
     }
   ]
 }

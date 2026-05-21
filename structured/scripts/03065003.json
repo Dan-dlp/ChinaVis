@@ -191,7 +191,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "老夫、曹操。昨晚仰观天象，那西凉马腾，非但有不顺老夫之意，反有害老夫\n之心。我不免请来夏侯渊、董平二将到此，一同商议，斩了马腾方好。"
+          "text": "老夫、曹操。昨晚仰观天象，那西凉马腾，非但有不顺老夫之意，反有害老夫"
+        },
+        {
+          "character": "曹操",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "之心。我不免请来夏侯渊、董平二将到此，一同商议，斩了马腾方好。"
         },
         {
           "character": null,
@@ -254,7 +261,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "昨晚老夫仰观天象，那西凉马腾，非但有不顺老夫之意，反有害老夫之心。我\n意欲斩了马腾方好。"
+          "text": "昨晚老夫仰观天象，那西凉马腾，非但有不顺老夫之意，反有害老夫之心。我"
+        },
+        {
+          "character": "曹操",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "意欲斩了马腾方好。"
         },
         {
           "character": "夏侯渊",
@@ -401,7 +415,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.04,
+        0.92,
+        0.04,
+        0.8333,
+        5,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -551,7 +575,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "你父子镇守西凉有功，圣上见喜，封你为潼关太守，即刻上任。旨意读罢，望\n诏谢恩！"
+          "text": "你父子镇守西凉有功，圣上见喜，封你为潼关太守，即刻上任。旨意读罢，望"
+        },
+        {
+          "character": "夏侯渊",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "诏谢恩！"
         },
         {
           "character": "马腾",
@@ -621,7 +652,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "儿啊，适才圣旨到来，命为父调升潼关，加官受爵，即刻起程。\n来，与爷带马！"
+          "text": "儿啊，适才圣旨到来，命为父调升潼关，加官受爵，即刻起程。"
+        },
+        {
+          "character": "马腾",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来，与爷带马！"
         },
         {
           "character": "四文堂",
@@ -679,7 +717,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.037,
+        0.8889,
+        0.0741,
+        0.7308,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -701,7 +749,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "俺、董平。奉了丞相之命，劫杀马腾。\n众将官，催马！"
+          "text": "俺、董平。奉了丞相之命，劫杀马腾。"
+        },
+        {
+          "character": "董平",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "众将官，催马！"
         },
         {
           "character": "四下手",
@@ -733,7 +788,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.5,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 4,
@@ -771,7 +836,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "俺、马腾。圣旨封我潼关太守。\n众将官！"
+          "text": "俺、马腾。圣旨封我潼关太守。"
+        },
+        {
+          "character": "马腾",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "众将官！"
         },
         {
           "character": "四文堂、马岱",
@@ -923,7 +995,17 @@
         "singing_ratio": 0.2,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.2,
+        0.2222,
+        0.7778,
+        0.0,
+        0.7647,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 5,
@@ -959,7 +1041,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "俺、马超。我父马腾，奉命镇守西凉一带。只因前日圣旨到来，宣我父进京，\n加官受爵。我父去后，这几日心惊肉战，不知为了何事？且等马岱回来，便知\n分晓。"
+          "text": "俺、马超。我父马腾，奉命镇守西凉一带。只因前日圣旨到来，宣我父进京，"
+        },
+        {
+          "character": "马超",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "加官受爵。我父去后，这几日心惊肉战，不知为了何事？且等马岱回来，便知"
+        },
+        {
+          "character": "马超",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "分晓。"
         },
         {
           "character": null,
@@ -1099,7 +1195,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.2,
+        0.75,
+        0.05,
+        0.5789,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 6,
@@ -1174,7 +1280,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "得令！\n带马！"
+          "text": "得令！"
+        },
+        {
+          "character": "马岱",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "带马！"
         },
         {
           "character": "马童甲",
@@ -1216,7 +1329,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "得令！\n带马！"
+          "text": "得令！"
+        },
+        {
+          "character": "庞德",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "带马！"
         },
         {
           "character": "马童甲",
@@ -1237,7 +1357,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "爹爹呀爹爹！孩儿兴兵，与父报仇，但愿我父灵魂，暗地保佑。拿住曹操，俺\n要千刀万剐！"
+          "text": "爹爹呀爹爹！孩儿兴兵，与父报仇，但愿我父灵魂，暗地保佑。拿住曹操，俺"
+        },
+        {
+          "character": "马超",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "要千刀万剐！"
         },
         {
           "character": null,
@@ -1312,7 +1439,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.8947,
+        0.1053,
+        0.6667,
+        5,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 7,
@@ -1335,7 +1472,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 8,
@@ -1368,7 +1515,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "某，徐晃。昨日曹丞相有文到来，言说马超倒反西凉，叫我谨守城池。且听探\n马一报！"
+          "text": "某，徐晃。昨日曹丞相有文到来，言说马超倒反西凉，叫我谨守城池。且听探"
+        },
+        {
+          "character": "徐晃",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "马一报！"
         },
         {
           "character": "报子",
@@ -1452,7 +1606,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "俺、曹洪。都督免战高悬，不免进帐问个明白。\n曹洪告进，参见都督！"
+          "text": "俺、曹洪。都督免战高悬，不免进帐问个明白。"
+        },
+        {
+          "character": "曹洪",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "曹洪告进，参见都督！"
         },
         {
           "character": "徐晃",
@@ -1515,10 +1676,31 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "都督把话错来讲，\n长他志气理不当。\n难逃某家刀下亡。"
+          "text": "都督把话错来讲，"
         },
         {
-          "character": "马超纵有千员将、报子",
+          "character": "曹洪",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "长他志气理不当。"
+        },
+        {
+          "character": "曹洪",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "难逃某家刀下亡。"
+        },
+        {
+          "character": "曹洪",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "马超纵有千员将"
+        },
+        {
+          "character": "报子",
           "line_type": "内白",
           "musical_style": null,
           "style_family": null,
@@ -1585,7 +1767,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "曹洪此去，必然大败，不免报与丞相。\n带马！"
+          "text": "曹洪此去，必然大败，不免报与丞相。"
+        },
+        {
+          "character": "徐晃",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "带马！"
         },
         {
           "character": "龙套甲",
@@ -1651,7 +1840,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.1176,
+        0.8235,
+        0.0588,
+        0.6061,
+        5,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 9,
@@ -1715,7 +1914,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 10,
@@ -1746,7 +1955,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "威风凛凛人胆寒。\n不杀曹贼心不甘。"
+          "text": "威风凛凛人胆寒。"
+        },
+        {
+          "character": "马超",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "不杀曹贼心不甘。"
         },
         {
           "character": null,
@@ -1781,7 +1997,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "唗！未曾出兵，先打败仗，挫我锐气。\n来，扠入后队！"
+          "text": "唗！未曾出兵，先打败仗，挫我锐气。"
+        },
+        {
+          "character": "马超",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来，扠入后队！"
         },
         {
           "character": "庞德",
@@ -1851,7 +2074,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "看枪！\n（马超、曹洪同架住，四上手、四文堂、四马童、马岱、四龙套同攒下。马超、曹洪同起打，曹洪下，马超"
+          "text": "看枪！"
+        },
+        {
+          "character": "马超",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "（马超、曹洪同架住，四上手、四文堂、四马童、马岱、四龙套同攒下。马超、曹洪同起打，曹洪下，马超"
         }
       ],
       "interactions": [
@@ -1891,7 +2121,17 @@
         "singing_ratio": 0.143,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.143,
+        0.1765,
+        0.8235,
+        0.0,
+        0.75,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 11,
@@ -1995,7 +2235,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "老夫、曹操。只因斩了马腾，他子马超倒反西凉。因此统领大兵十万，前去对\n敌。\n许褚！"
+          "text": "老夫、曹操。只因斩了马腾，他子马超倒反西凉。因此统领大兵十万，前去对"
+        },
+        {
+          "character": "曹操",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "敌。"
+        },
+        {
+          "character": "曹操",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "许褚！"
         },
         {
           "character": "许褚",
@@ -2023,10 +2277,31 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "老夫兴兵谁敢当！\n赫赫威名天下扬。\n他子马超反西凉。"
+          "text": "老夫兴兵谁敢当！"
         },
         {
-          "character": "只因斩了马腾将、徐晃",
+          "character": "曹操",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "赫赫威名天下扬。"
+        },
+        {
+          "character": "曹操",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "他子马超反西凉。"
+        },
+        {
+          "character": "曹操",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "只因斩了马腾将"
+        },
+        {
+          "character": "徐晃",
           "line_type": "内白",
           "musical_style": null,
           "style_family": null,
@@ -2149,7 +2424,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "失落潼关与界牌，\n不由老夫怒满怀。"
+          "text": "失落潼关与界牌，"
+        },
+        {
+          "character": "曹操",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "不由老夫怒满怀。"
         },
         {
           "character": "曹洪",
@@ -2198,7 +2480,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "唗！胆大曹洪，无有老夫将令，私自出兵！\n许褚！"
+          "text": "唗！胆大曹洪，无有老夫将令，私自出兵！"
+        },
+        {
+          "character": "曹操",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "许褚！"
         },
         {
           "character": "许褚",
@@ -2240,7 +2529,21 @@
           "line_type": "同白",
           "musical_style": null,
           "style_family": null,
-          "text": "啊！\n（众人同走圆场。下场门设城。曹操领张辽、夏侯惇、夏侯渊、曹仁、于禁、李典、四龙套、四下手同上城。\n四文堂、四上手、四马童、庞德、马岱、马超同上。）"
+          "text": "啊！"
+        },
+        {
+          "character": "张辽、夏侯惇、夏侯渊、曹仁、于禁、李典",
+          "line_type": "同白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "（众人同走圆场。下场门设城。曹操领张辽、夏侯惇、夏侯渊、曹仁、于禁、李典、四龙套、四下手同上城。"
+        },
+        {
+          "character": "张辽、夏侯惇、夏侯渊、曹仁、于禁、李典",
+          "line_type": "同白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "四文堂、四上手、四马童、庞德、马岱、马超同上。）"
         },
         {
           "character": "马超",
@@ -2275,7 +2578,35 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "马超小儿不会用兵。\n众将官，开城，杀！\n（曹操、张辽、夏侯惇、夏侯渊、曹仁、于禁、李典、四龙套、四下手同出城。三通鼓。四文堂、四上手、\n四马童、庞德、马岱、马超、曹操、张辽、夏侯惇、夏侯渊、曹仁、于禁、李典、四龙套、四下手同会阵，\n曹操、张辽、夏侯惇、夏侯渊、曹仁、于禁、李典、四龙套、四下手同下。许褚、马超同开打，许褚败下。）"
+          "text": "马超小儿不会用兵。"
+        },
+        {
+          "character": "曹操",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "众将官，开城，杀！"
+        },
+        {
+          "character": "曹操",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "（曹操、张辽、夏侯惇、夏侯渊、曹仁、于禁、李典、四龙套、四下手同出城。三通鼓。四文堂、四上手、"
+        },
+        {
+          "character": "曹操",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "四马童、庞德、马岱、马超、曹操、张辽、夏侯惇、夏侯渊、曹仁、于禁、李典、四龙套、四下手同会阵，"
+        },
+        {
+          "character": "曹操",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "曹操、张辽、夏侯惇、夏侯渊、曹仁、于禁、李典、四龙套、四下手同下。许褚、马超同开打，许褚败下。）"
         },
         {
           "character": "马超",
@@ -2393,7 +2724,17 @@
         "singing_ratio": 0.043,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.043,
+        0.1148,
+        0.8689,
+        0.0164,
+        0.7667,
+        10,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 12,
@@ -2421,7 +2762,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "哎呀且住！三军们言道，穿红袍的就是曹操。这便怎么处？哎呀这……哎呀，\n有了！我将它脱下，逃命要紧。"
+          "text": "哎呀且住！三军们言道，穿红袍的就是曹操。这便怎么处？哎呀这……哎呀，"
+        },
+        {
+          "character": "曹操",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "有了！我将它脱下，逃命要紧。"
         },
         {
           "character": null,
@@ -2440,7 +2788,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 13,
@@ -2463,7 +2821,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 14,
@@ -2484,7 +2852,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "哎呀且住！三军们言道，长胡须的就是曹操，这便怎么处？哎呀这……哎呀，\n有了！我将它割将下去，逃命要紧。"
+          "text": "哎呀且住！三军们言道，长胡须的就是曹操，这便怎么处？哎呀这……哎呀，"
+        },
+        {
+          "character": "曹操",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "有了！我将它割将下去，逃命要紧。"
         },
         {
           "character": null,
@@ -2503,7 +2878,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 15,
@@ -2526,7 +2911,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 16,
@@ -2547,7 +2942,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "放你妈的屁！哎呀且住！三军们言道，割了胡须的是曹操，这便怎么处？哎呀\n这……啊哈有了！现有令旗在此，我将它兜将起来，逃走了吧！"
+          "text": "放你妈的屁！哎呀且住！三军们言道，割了胡须的是曹操，这便怎么处？哎呀"
+        },
+        {
+          "character": "曹操",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "这……啊哈有了！现有令旗在此，我将它兜将起来，逃走了吧！"
         }
       ],
       "interactions": [],
@@ -2559,7 +2961,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 17,
@@ -2620,7 +3032,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        2,
+        0.0,
+        0.0
+      ]
     }
   ]
 }

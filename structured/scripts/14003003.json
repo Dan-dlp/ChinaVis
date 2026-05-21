@@ -343,7 +343,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "老夫复姓诸葛，名亮，字孔明，道号卧龙。先帝爷托孤以来，扫荡中原，扭转\n汉室。闻得司马懿兵出祁山，定然夺取街亭。我想街亭乃汉中咽喉之地，必须\n派一能将前去防守。\n众位将军——"
+          "text": "老夫复姓诸葛，名亮，字孔明，道号卧龙。先帝爷托孤以来，扫荡中原，扭转"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "汉室。闻得司马懿兵出祁山，定然夺取街亭。我想街亭乃汉中咽喉之地，必须"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "派一能将前去防守。"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "众位将军——"
         },
         {
           "character": "赵云、马岱、王平、马谡",
@@ -602,14 +623,63 @@
           "line_type": "西皮原板",
           "musical_style": "西皮原板",
           "style_family": "西皮",
-          "text": "两国交锋龙虎斗，\n各为其主统貔貅。\n赏罚中公平莫要自由。\n靠山近水把营收。"
+          "text": "两国交锋龙虎斗，"
         },
         {
-          "character": "管带三军要宽厚、此一番领兵去镇守、马谡",
+          "character": "诸葛亮",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "各为其主统貔貅。"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "赏罚中公平莫要自由。"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "靠山近水把营收。"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "管带三军要宽厚"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "此一番领兵去镇守"
+        },
+        {
+          "character": "马谡",
           "line_type": "西皮流水板",
           "musical_style": "西皮流水板",
           "style_family": "西皮",
-          "text": "我主本是汉家后，\n南征北战不停留。\n好似顺水送轻舟。"
+          "text": "我主本是汉家后，"
+        },
+        {
+          "character": "马谡",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "南征北战不停留。"
+        },
+        {
+          "character": "马谡",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "好似顺水送轻舟。"
         },
         {
           "character": null,
@@ -623,7 +693,21 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "先帝爷白帝城叮咛就，\n诸葛亮怎能够高枕无忧？\n免老夫亲自里把贼收。"
+          "text": "先帝爷白帝城叮咛就，"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "诸葛亮怎能够高枕无忧？"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "免老夫亲自里把贼收。"
         },
         {
           "character": null,
@@ -706,7 +790,17 @@
           "西皮摇板",
           "西皮流水板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.045,
+        0.2203,
+        0.7119,
+        0.0678,
+        0.7241,
+        7,
+        0.2034,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -729,7 +823,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "俺、马谡。奉了丞相将令，镇守街亭，不知何人以为副帅？\n来。"
+          "text": "俺、马谡。奉了丞相将令，镇守街亭，不知何人以为副帅？"
+        },
+        {
+          "character": "马谡",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来。"
         },
         {
           "character": "八蜀兵",
@@ -778,7 +879,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "你我一同传令。\n众将官——"
+          "text": "你我一同传令。"
+        },
+        {
+          "character": "马谡",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "众将官——"
         },
         {
           "character": "八蜀兵",
@@ -833,7 +941,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.8,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -870,7 +988,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "本督，司马懿。闻听诸葛亮，兵出祁山，据守街亭，必要遣将前去夺取，方能\n退得蜀兵。\n来——"
+          "text": "本督，司马懿。闻听诸葛亮，兵出祁山，据守街亭，必要遣将前去夺取，方能"
+        },
+        {
+          "character": "司马懿",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "退得蜀兵。"
+        },
+        {
+          "character": "司马懿",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来——"
         },
         {
           "character": "四魏兵",
@@ -975,7 +1107,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0769,
+        0.7692,
+        0.1538,
+        0.5833,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 4,
@@ -1004,28 +1146,63 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "王将军你看，此山居高临下，有建瓴之势。我军扎在山顶，倘若司马兵到，准\n备滚木垒石，以上打下，势如破竹，哪怕魏兵不灭？"
-        },
-        {
-          "character": "王平",
-          "line_type": "白",
-          "musical_style": null,
-          "style_family": null,
-          "text": "元帅此言差矣。我看此山孤立无援，乃是绝地。倘若魏兵到来，断绝水道，我\n军不战自乱矣。我等临行之时，丞相再三吩咐，要靠山近水，安营扎寨，难道\n元帅不曾听见么？"
+          "text": "王将军你看，此山居高临下，有建瓴之势。我军扎在山顶，倘若司马兵到，准"
         },
         {
           "character": "马谡",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "唔。岂不闻兵法有云，“置之死地而后生”？魏兵不来则已，他若来时，我军\n自然奋勇当先，以一当百，我料大功必成。"
+          "text": "备滚木垒石，以上打下，势如破竹，哪怕魏兵不灭？"
         },
         {
           "character": "王平",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "既是元帅执意要在山上扎营，末将不敢相强。但请元帅，将人马拨与王平一半，\n在山下扎一小营。倘若魏兵来时，也好作一准备。"
+          "text": "元帅此言差矣。我看此山孤立无援，乃是绝地。倘若魏兵到来，断绝水道，我"
+        },
+        {
+          "character": "王平",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "军不战自乱矣。我等临行之时，丞相再三吩咐，要靠山近水，安营扎寨，难道"
+        },
+        {
+          "character": "王平",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "元帅不曾听见么？"
+        },
+        {
+          "character": "马谡",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "唔。岂不闻兵法有云，“置之死地而后生”？魏兵不来则已，他若来时，我军"
+        },
+        {
+          "character": "马谡",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "自然奋勇当先，以一当百，我料大功必成。"
+        },
+        {
+          "character": "王平",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "既是元帅执意要在山上扎营，末将不敢相强。但请元帅，将人马拨与王平一半，"
+        },
+        {
+          "character": "王平",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "在山下扎一小营。倘若魏兵来时，也好作一准备。"
         },
         {
           "character": "马谡",
@@ -1088,7 +1265,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "王平无谋，哪知用兵妙计。\n众将官——"
+          "text": "王平无谋，哪知用兵妙计。"
+        },
+        {
+          "character": "马谡",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "众将官——"
         },
         {
           "character": null,
@@ -1130,7 +1314,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.5,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 5,
@@ -1152,7 +1346,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "且住。马谡不听我言，一定要在山上扎营。我看街亭难保，倘若失守，怎么回\n复丞相？有了，不免画一图形，速速报与丞相，以免我王平的干系。\n来！"
+          "text": "且住。马谡不听我言，一定要在山上扎营。我看街亭难保，倘若失守，怎么回"
+        },
+        {
+          "character": "王平",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "复丞相？有了，不免画一图形，速速报与丞相，以免我王平的干系。"
+        },
+        {
+          "character": "王平",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来！"
         },
         {
           "character": null,
@@ -1257,7 +1465,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "无用之将。\n带马！。\n（张郃领四魏兵同上。张郃战马谡败。马谡领四蜀兵同逃下。王平上，战，败，领四蜀兵同逃下。张郃领四"
+          "text": "无用之将。"
+        },
+        {
+          "character": "马谡",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "带马！。"
+        },
+        {
+          "character": "马谡",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "（张郃领四魏兵同上。张郃战马谡败。马谡领四蜀兵同逃下。王平上，战，败，领四蜀兵同逃下。张郃领四"
         }
       ],
       "interactions": [
@@ -1279,7 +1501,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.9286,
+        0.0714,
+        0.3846,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 6,
@@ -1364,7 +1596,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 7,
@@ -1463,7 +1705,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 8,
@@ -1500,7 +1752,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "本督，司马懿。闻听诸葛亮，兵出祁山，据守街亭，必要遣将前去夺取，方能\n退得蜀兵。\n来——"
+          "text": "本督，司马懿。闻听诸葛亮，兵出祁山，据守街亭，必要遣将前去夺取，方能"
+        },
+        {
+          "character": "司马懿",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "退得蜀兵。"
+        },
+        {
+          "character": "司马懿",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来——"
         },
         {
           "character": "四魏兵",
@@ -1592,7 +1858,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0769,
+        0.7692,
+        0.1538,
+        0.5833,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 9,
@@ -1687,7 +1963,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "啊，好大胆的马谡哇。临行之时，何等吩咐与你，叫你靠山近水，安营扎寨。\n怎么你偏偏在山上扎营，哎呀，只恐街亭难保哇。"
+          "text": "啊，好大胆的马谡哇。临行之时，何等吩咐与你，叫你靠山近水，安营扎寨。"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "怎么你偏偏在山上扎营，哎呀，只恐街亭难保哇。"
         },
         {
           "character": null,
@@ -1757,7 +2040,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "呜呼呀，司马懿居然带兵夺取西城来了。咳，想先帝爷白帝城托孤之时，说道\n马谡言过其实，终无大用。今日错用了马谡，失守街亭，不听先皇之言，于今\n悔之晚矣。"
+          "text": "呜呼呀，司马懿居然带兵夺取西城来了。咳，想先帝爷白帝城托孤之时，说道"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "马谡言过其实，终无大用。今日错用了马谡，失守街亭，不听先皇之言，于今"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "悔之晚矣。"
         },
         {
           "character": null,
@@ -1799,7 +2096,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "司马懿的大兵来得好快呀。唔，人言司马用兵如神，今日一见，令人可敬哪，\n令人可服。哎呀，这西城的兵将，俱被老夫调遣在外，所剩下的，都是些老弱\n残军。倘若司马懿兵临城下，难道说教我束手被擒不成？这束手被擒？\n来，老军们进见。"
+          "text": "司马懿的大兵来得好快呀。唔，人言司马用兵如神，今日一见，令人可敬哪，"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "令人可服。哎呀，这西城的兵将，俱被老夫调遣在外，所剩下的，都是些老弱"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "残军。倘若司马懿兵临城下，难道说教我束手被擒不成？这束手被擒？"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来，老军们进见。"
         },
         {
           "character": null,
@@ -1841,7 +2159,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "命尔等四门大开，每门用二十名打扫街道。倘若司马懿兵到，不可惊惶浮躁。\n违令者斩。"
+          "text": "命尔等四门大开，每门用二十名打扫街道。倘若司马懿兵到，不可惊惶浮躁。"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "违令者斩。"
         },
         {
           "character": "老军甲",
@@ -1876,7 +2201,21 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "我用兵数十年从来谨慎，\n错用了小马谡无用之人。\n望空中求先帝大显威灵。"
+          "text": "我用兵数十年从来谨慎，"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "错用了小马谡无用之人。"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "望空中求先帝大显威灵。"
         },
         {
           "character": null,
@@ -1933,7 +2272,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0857,
+        0.8,
+        0.1143,
+        0.4706,
+        5,
+        0.0857,
+        0.0
+      ]
     },
     {
       "scene_index": 10,
@@ -1956,7 +2305,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 11,
@@ -2004,14 +2363,28 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "小马谡失街亭令人恨，\n这桩事倒叫我难以调停。"
+          "text": "小马谡失街亭令人恨，"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "这桩事倒叫我难以调停。"
         },
         {
           "character": "老军甲",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "伙计，丞相老糊涂啦。司马懿兵到，四门紧闭，尚且来不及。反将四门大开，\n这不是送死吗？"
+          "text": "伙计，丞相老糊涂啦。司马懿兵到，四门紧闭，尚且来不及。反将四门大开，"
+        },
+        {
+          "character": "老军甲",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "这不是送死吗？"
         },
         {
           "character": "诸葛亮",
@@ -2039,7 +2412,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "小人们不敢纷纷议论哪。司马懿兵到，应当将四门紧闭才是，丞相为何反将四\n门大开，小人们有点担惊害怕呀。"
+          "text": "小人们不敢纷纷议论哪。司马懿兵到，应当将四门紧闭才是，丞相为何反将四"
+        },
+        {
+          "character": "老军甲",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "门大开，小人们有点担惊害怕呀。"
         },
         {
           "character": "诸葛亮",
@@ -2102,7 +2482,14 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "叫老军扫街道把宽心拿稳，\n退司马保空城全仗此琴。"
+          "text": "叫老军扫街道把宽心拿稳，"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "退司马保空城全仗此琴。"
         },
         {
           "character": null,
@@ -2130,7 +2517,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "且住，适才探马报道，西城乃是空城。老夫与兵至此，为何大开城门？哦呵呀，\n诸葛亮又在那里弄鬼，不要中了他的诡计。\n众将官——"
+          "text": "且住，适才探马报道，西城乃是空城。老夫与兵至此，为何大开城门？哦呵呀，"
+        },
+        {
+          "character": "司马懿",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "诸葛亮又在那里弄鬼，不要中了他的诡计。"
+        },
+        {
+          "character": "司马懿",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "众将官——"
         },
         {
           "character": "四魏兵",
@@ -2151,42 +2552,259 @@
           "line_type": "西皮快板",
           "musical_style": "西皮快板",
           "style_family": "西皮",
-          "text": "坐定马上传将令，\n大小儿郎听分明：\n定斩人头不留情。"
+          "text": "坐定马上传将令，"
         },
         {
-          "character": "哪一个大胆把城进、诸葛亮",
+          "character": "司马懿",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "大小儿郎听分明："
+        },
+        {
+          "character": "司马懿",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "定斩人头不留情。"
+        },
+        {
+          "character": "司马懿",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "哪一个大胆把城进"
+        },
+        {
+          "character": "诸葛亮",
           "line_type": "西皮慢板",
           "musical_style": "西皮慢板",
           "style_family": "西皮",
-          "text": "我本是卧龙岗上散淡的人，\n论阴阳如反掌博古通今。\n算就了汉家业鼎足三分。\n东西站南北剿保定乾坤。\n诸葛亮怎地得前辈的先生？\n我面前缺少个知音的人。"
+          "text": "我本是卧龙岗上散淡的人，"
         },
         {
-          "character": "先帝爷下南阳御驾三请、官封到武乡侯执掌帅印、周文王访姜尚周室大振、闲无事在敌楼我亮一亮琴音、司马懿",
+          "character": "诸葛亮",
+          "line_type": "西皮慢板",
+          "musical_style": "西皮慢板",
+          "style_family": "西皮",
+          "text": "论阴阳如反掌博古通今。"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "西皮慢板",
+          "musical_style": "西皮慢板",
+          "style_family": "西皮",
+          "text": "算就了汉家业鼎足三分。"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "西皮慢板",
+          "musical_style": "西皮慢板",
+          "style_family": "西皮",
+          "text": "东西站南北剿保定乾坤。"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "西皮慢板",
+          "musical_style": "西皮慢板",
+          "style_family": "西皮",
+          "text": "诸葛亮怎地得前辈的先生？"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "西皮慢板",
+          "musical_style": "西皮慢板",
+          "style_family": "西皮",
+          "text": "我面前缺少个知音的人。"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "西皮慢板",
+          "musical_style": "西皮慢板",
+          "style_family": "西皮",
+          "text": "先帝爷下南阳御驾三请"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "西皮慢板",
+          "musical_style": "西皮慢板",
+          "style_family": "西皮",
+          "text": "官封到武乡侯执掌帅印"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "西皮慢板",
+          "musical_style": "西皮慢板",
+          "style_family": "西皮",
+          "text": "周文王访姜尚周室大振"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "西皮慢板",
+          "musical_style": "西皮慢板",
+          "style_family": "西皮",
+          "text": "闲无事在敌楼我亮一亮琴音"
+        },
+        {
+          "character": "司马懿",
           "line_type": "西皮原板",
           "musical_style": "西皮原板",
           "style_family": "西皮",
-          "text": "有本督在马上忙观动静，\n诸葛亮在城楼饮酒抚琴。\n打扫街道俱是老弱兵。\n我本当传一令杀进城——"
+          "text": "有本督在马上忙观动静，"
         },
         {
-          "character": "先帝爷下南阳御驾三请、官封到武乡侯执掌帅印、周文王访姜尚周室大振、闲无事在敌楼我亮一亮琴音、司马懿",
+          "character": "司马懿",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "诸葛亮在城楼饮酒抚琴。"
+        },
+        {
+          "character": "司马懿",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "打扫街道俱是老弱兵。"
+        },
+        {
+          "character": "司马懿",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "我本当传一令杀进城——"
+        },
+        {
+          "character": "司马懿",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "先帝爷下南阳御驾三请"
+        },
+        {
+          "character": "司马懿",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "官封到武乡侯执掌帅印"
+        },
+        {
+          "character": "司马懿",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "周文王访姜尚周室大振"
+        },
+        {
+          "character": "司马懿",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "闲无事在敌楼我亮一亮琴音"
+        },
+        {
+          "character": "司马懿",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
           "text": "杀、杀不得！"
         },
         {
-          "character": "先帝爷下南阳御驾三请、官封到武乡侯执掌帅印、周文王访姜尚周室大振、闲无事在敌楼我亮一亮琴音、司马懿",
+          "character": "司马懿",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "先帝爷下南阳御驾三请"
+        },
+        {
+          "character": "司马懿",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "官封到武乡侯执掌帅印"
+        },
+        {
+          "character": "司马懿",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "周文王访姜尚周室大振"
+        },
+        {
+          "character": "司马懿",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "闲无事在敌楼我亮一亮琴音"
+        },
+        {
+          "character": "司马懿",
           "line_type": "西皮快板",
           "musical_style": "西皮快板",
           "style_family": "西皮",
-          "text": "又恐怕中了巧计生。\n尊一声诸葛细听分明：\n棋逢对手一般平。"
+          "text": "又恐怕中了巧计生。"
         },
         {
-          "character": "左右琴童人两个、勒住丝缰把话论、你我在渭南会一阵、诸葛亮",
+          "character": "司马懿",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "尊一声诸葛细听分明："
+        },
+        {
+          "character": "司马懿",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "棋逢对手一般平。"
+        },
+        {
+          "character": "司马懿",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "左右琴童人两个"
+        },
+        {
+          "character": "司马懿",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "勒住丝缰把话论"
+        },
+        {
+          "character": "司马懿",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "你我在渭南会一阵"
+        },
+        {
+          "character": "诸葛亮",
           "line_type": "西皮二六板",
           "musical_style": "西皮二六板",
           "style_family": "西皮",
-          "text": "我正在城楼观山景，\n耳听得城外乱纷纷。\n原来是司马发来的兵。\n打听得司马你领兵往西行。"
+          "text": "我正在城楼观山景，"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "耳听得城外乱纷纷。"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "原来是司马发来的兵。"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "打听得司马你领兵往西行。"
         }
       ],
       "interactions": [
@@ -2272,7 +2890,17 @@
           "西皮慢板",
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.375,
+        0.6613,
+        0.3387,
+        0.0,
+        0.3115,
+        6,
+        0.6613,
+        0.0
+      ]
     },
     {
       "scene_index": 12,
@@ -2473,7 +3101,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.8462,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 13,
@@ -2910,7 +3548,17 @@
           "西皮摇板",
           "西皮流水板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.364,
+        0.3947,
+        0.6053,
+        0.0,
+        0.7027,
+        6,
+        0.3684,
+        0.0
+      ]
     }
   ]
 }

@@ -317,7 +317,35 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "老夫，姓曹名操字孟德。沛国谯郡人也，骁骑出身。自起义兵破黄巾，诛董卓、\n擒吕布、灭袁术、平袁绍、得荆襄，称汉家丞相。前者刘备在当阳被老夫一\n战，兵败夏口，恐结连东吴是滋蔓也。今奏奉天子命诏，统领八十三万人马大\n下江南，孙权必惊疑而来降，吾事济矣。\n张郃听令：命汝以为旱路先锋。"
+          "text": "老夫，姓曹名操字孟德。沛国谯郡人也，骁骑出身。自起义兵破黄巾，诛董卓、"
+        },
+        {
+          "character": "曹操",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "擒吕布、灭袁术、平袁绍、得荆襄，称汉家丞相。前者刘备在当阳被老夫一"
+        },
+        {
+          "character": "曹操",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "战，兵败夏口，恐结连东吴是滋蔓也。今奏奉天子命诏，统领八十三万人马大"
+        },
+        {
+          "character": "曹操",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "下江南，孙权必惊疑而来降，吾事济矣。"
+        },
+        {
+          "character": "曹操",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "张郃听令：命汝以为旱路先锋。"
         },
         {
           "character": "张郃",
@@ -331,7 +359,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "文聘听令：命汝以为水路先锋。蔡瑁、张允以为水军头领，余下之将，随营调\n遣。"
+          "text": "文聘听令：命汝以为水路先锋。蔡瑁、张允以为水军头领，余下之将，随营调"
+        },
+        {
+          "character": "曹操",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "遣。"
         },
         {
           "character": "文聘",
@@ -352,7 +387,21 @@
           "line_type": "同白",
           "musical_style": null,
           "style_family": null,
-          "text": "得令。\n令出。唗！下面听者：丞相有令，我军水陆并进，船骑双行，沿江而走，八十\n三万人马大下江南。"
+          "text": "得令。"
+        },
+        {
+          "character": "张郃、文聘",
+          "line_type": "同白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "令出。唗！下面听者：丞相有令，我军水陆并进，船骑双行，沿江而走，八十"
+        },
+        {
+          "character": "张郃、文聘",
+          "line_type": "同白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "三万人马大下江南。"
         },
         {
           "character": "许褚、张辽、蔡瑁、张允、毛阶、于禁",
@@ -463,7 +512,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0294,
+        0.9412,
+        0.0294,
+        0.7273,
+        13,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -505,7 +564,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "孤，姓刘名备字玄德。乃大树娄桑人氏，本中山靖王之后，孝景帝之玄孙，倚\n附堂兄刘表，不幸晏驾。孺子刘琮懦弱无为，将荆襄九郡献与曹瞒，使我弃新\n野、走樊城、败当阳、走夏口，无处栖身。只得退守江夏。哎！正是："
+          "text": "孤，姓刘名备字玄德。乃大树娄桑人氏，本中山靖王之后，孝景帝之玄孙，倚"
+        },
+        {
+          "character": "刘备",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "附堂兄刘表，不幸晏驾。孺子刘琮懦弱无为，将荆襄九郡献与曹瞒，使我弃新"
+        },
+        {
+          "character": "刘备",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "野、走樊城、败当阳、走夏口，无处栖身。只得退守江夏。哎！正是："
         },
         {
           "character": "刘备",
@@ -596,7 +669,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "那曹操统率八十三万人马，虎踞江汉。他焉不差人探听虚实。他今此来，正和\n我意，待他若问之时，主公只推不知，待山人全凭三寸不烂之舌，去往江东，\n激动孙权，与曹操南北相争，山人在于中取事，占得汉室诸土。此乃天赐之机\n会也！"
+          "text": "那曹操统率八十三万人马，虎踞江汉。他焉不差人探听虚实。他今此来，正和"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我意，待他若问之时，主公只推不知，待山人全凭三寸不烂之舌，去往江东，"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "激动孙权，与曹操南北相争，山人在于中取事，占得汉室诸土。此乃天赐之机"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "会也！"
         },
         {
           "character": "刘备",
@@ -953,7 +1047,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "哎！我主孙仲谋，虎踞江东，兵精粮足，又极敬贤礼士；今为君计，莫若遣一\n心腹往结江东，同心破曹，以图大事，岂不美哉？"
+          "text": "哎！我主孙仲谋，虎踞江东，兵精粮足，又极敬贤礼士；今为君计，莫若遣一"
+        },
+        {
+          "character": "鲁肃",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "心腹往结江东，同心破曹，以图大事，岂不美哉？"
         },
         {
           "character": "诸葛亮",
@@ -967,7 +1068,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "先生令兄，现为东吴参谋，日望与先生相见。肃不才，愿与同见我主，共议大\n事，你看如何？"
+          "text": "先生令兄，现为东吴参谋，日望与先生相见。肃不才，愿与同见我主，共议大"
+        },
+        {
+          "character": "鲁肃",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "事，你看如何？"
         },
         {
           "character": "刘备",
@@ -1016,38 +1124,108 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "孤与你朝夕间不离左右，\n到江东必须要早早回头。\n我兵微将又寡孤心担忧。"
+          "text": "孤与你朝夕间不离左右，"
         },
         {
-          "character": "曹孟德兵扎在三江夏口、鲁肃",
+          "character": "刘备",
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "孙仲谋素平生待人忠厚，\n敬贤才礼能士一礼所求；\n管教你报却那当阳之仇。"
+          "text": "到江东必须要早早回头。"
         },
         {
-          "character": "吾东吴文共武兵精粮有、诸葛亮",
+          "character": "刘备",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "我兵微将又寡孤心担忧。"
+        },
+        {
+          "character": "刘备",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "曹孟德兵扎在三江夏口"
+        },
+        {
+          "character": "鲁肃",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "孙仲谋素平生待人忠厚，"
+        },
+        {
+          "character": "鲁肃",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "敬贤才礼能士一礼所求；"
+        },
+        {
+          "character": "鲁肃",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "管教你报却那当阳之仇。"
+        },
+        {
+          "character": "鲁肃",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "吾东吴文共武兵精粮有"
+        },
+        {
+          "character": "诸葛亮",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
           "text": "主公！"
         },
         {
-          "character": "吾东吴文共武兵精粮有、诸葛亮",
+          "character": "诸葛亮",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "吾东吴文共武兵精粮有"
+        },
+        {
+          "character": "诸葛亮",
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "我今同鲁子敬往柴桑郡口，\n致使那曹兵将必一旦休。"
+          "text": "我今同鲁子敬往柴桑郡口，"
         },
         {
-          "character": "吾东吴文共武兵精粮有、诸葛亮",
+          "character": "诸葛亮",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "致使那曹兵将必一旦休。"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "吾东吴文共武兵精粮有"
+        },
+        {
+          "character": "诸葛亮",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
           "text": "大夫请！"
         },
         {
-          "character": "待等到冬至后大功成就、鲁肃",
+          "character": "诸葛亮",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "待等到冬至后大功成就"
+        },
+        {
+          "character": "鲁肃",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -1079,7 +1257,14 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "恨曹瞒逼孤穹看看束手，\n天赐下鲁子敬凑我机谋。"
+          "text": "恨曹瞒逼孤穹看看束手，"
+        },
+        {
+          "character": "刘备",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "天赐下鲁子敬凑我机谋。"
         },
         {
           "character": null,
@@ -1153,7 +1338,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.048,
+        0.1579,
+        0.7789,
+        0.0632,
+        0.6702,
+        5,
+        0.1474,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -1272,7 +1467,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "今有诸葛孔明，来至江东探听虚实。闻得此人，丰神潇洒，器宇轩昂，料道此\n人，必来游说。待他来时，我等以口舌对答，须要难倒此人，不枉我江东之英\n俊也。"
+          "text": "今有诸葛孔明，来至江东探听虚实。闻得此人，丰神潇洒，器宇轩昂，料道此"
+        },
+        {
+          "character": "张昭",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "人，必来游说。待他来时，我等以口舌对答，须要难倒此人，不枉我江东之英"
+        },
+        {
+          "character": "张昭",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "俊也。"
         },
         {
           "character": "步骘、蒋综、陆绩",
@@ -1468,21 +1677,98 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "近闻刘豫州三顾茅庐，相请先生，以为如鱼得水，指望席卷荆襄。今一旦以属\n曹操，未审是何主见？"
-        },
-        {
-          "character": "诸葛亮",
-          "line_type": "白",
-          "musical_style": null,
-          "style_family": null,
-          "text": "哎，我观取汉上之地，易如反掌。我主刘豫州躬行仁义，不忍夺同宗基业，故\n力辞之。孺子刘琮，听信侫言，暗自投降，致使曹操得以猖獗。今我主兵屯江\n夏，别有良图，非等闲可知也。"
+          "text": "近闻刘豫州三顾茅庐，相请先生，以为如鱼得水，指望席卷荆襄。今一旦以属"
         },
         {
           "character": "张昭",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "若此，是先生言行相违也。但先生自比管仲相桓公，霸诸侯，一匡天下；乐毅\n扶持微弱之燕，下齐七十余城。此二人者，真济世之才也。先生在草庐之中，\n但笑傲风月，抱膝危坐；今既从事刘豫州，当为生灵兴利除害，剿灭乱贼。刘\n豫州未得先生之时，尚且纵横寰宇，割据城池。今得先生，人皆仰望：虽三尺\n童蒙，亦为彪虎生翼，将见汉室复兴，曹室即灭矣。朝廷旧臣，山林隐士，无\n不拭目而待：以为拂高天之云翳，仰日月之光辉，拯民于水火之中，措天下于\n袵席之上，在此时也。何先生自扶豫州，曹兵一出，便弃甲抛矛，望风而窜。\n上不能报刘表以安庶民，下不能辅孤子而据疆土。乃弃新野、走樊城、败当阳、\n计穷夏口，无容身之地。刘豫州自得先生之后，怎么反不如其初也？"
+          "text": "曹操，未审是何主见？"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "哎，我观取汉上之地，易如反掌。我主刘豫州躬行仁义，不忍夺同宗基业，故"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "力辞之。孺子刘琮，听信侫言，暗自投降，致使曹操得以猖獗。今我主兵屯江"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "夏，别有良图，非等闲可知也。"
+        },
+        {
+          "character": "张昭",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "若此，是先生言行相违也。但先生自比管仲相桓公，霸诸侯，一匡天下；乐毅"
+        },
+        {
+          "character": "张昭",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "扶持微弱之燕，下齐七十余城。此二人者，真济世之才也。先生在草庐之中，"
+        },
+        {
+          "character": "张昭",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "但笑傲风月，抱膝危坐；今既从事刘豫州，当为生灵兴利除害，剿灭乱贼。刘"
+        },
+        {
+          "character": "张昭",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "豫州未得先生之时，尚且纵横寰宇，割据城池。今得先生，人皆仰望：虽三尺"
+        },
+        {
+          "character": "张昭",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "童蒙，亦为彪虎生翼，将见汉室复兴，曹室即灭矣。朝廷旧臣，山林隐士，无"
+        },
+        {
+          "character": "张昭",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "不拭目而待：以为拂高天之云翳，仰日月之光辉，拯民于水火之中，措天下于"
+        },
+        {
+          "character": "张昭",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "袵席之上，在此时也。何先生自扶豫州，曹兵一出，便弃甲抛矛，望风而窜。"
+        },
+        {
+          "character": "张昭",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "上不能报刘表以安庶民，下不能辅孤子而据疆土。乃弃新野、走樊城、败当阳、"
+        },
+        {
+          "character": "张昭",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "计穷夏口，无容身之地。刘豫州自得先生之后，怎么反不如其初也？"
         },
         {
           "character": "步骘、蒋综、陆绩",
@@ -1524,17 +1810,122 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "譬如人久染沉疴，当先用糜粥以饮之，和药以服之；待其肺脏调和，身体渐安，\n然后再用肉食补之。猛药治之，岂非是庸医，若求安保诚则难矣。吾主刘豫\n州，向日兵败于汝南，兵不满千，将止关、张、赵云而已；此正如得病之时也。\n新野山僻小县，人民稀少、粮食鲜薄，我主不过暂借容身，岂真将坐守于此\n也？夫以甲兵不完，城郭不固，军不经练，粮不继日，然而博望烧屯，白河用\n水，使夏侯惇、曹仁辈心惊胆裂：窃问那管仲、乐毅之用兵，未必过此。至于\n刘琮降曹，我主实出不知；且又不忍乘乱夺同宗之基业，此乃大仁大义也。当\n阳之败，我主见有数十万赴义之民，扶老携幼相随，不忍弃之，日行十里，不\n思进取江陵，甘与同败，此亦大仁大义也。寡不敌众，胜败乃其常事。昔日霸\n王项羽，百战百胜，一败而可失了天下。吾皇汉高祖，虽百战百败，而垓下一\n战成功，此非韩信之良谋乎？汉高祖未尝累胜，岂可胜败而论英雄，盖国家大\n计，社稷安危，是有主谋。非比夸辩之徒，虚誉欺人，坐议立谈，无人可及；\n临机应变，百无一能，此等之人，诚为天下笑耳。"
+          "text": "譬如人久染沉疴，当先用糜粥以饮之，和药以服之；待其肺脏调和，身体渐安，"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "然后再用肉食补之。猛药治之，岂非是庸医，若求安保诚则难矣。吾主刘豫"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "州，向日兵败于汝南，兵不满千，将止关、张、赵云而已；此正如得病之时也。"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "新野山僻小县，人民稀少、粮食鲜薄，我主不过暂借容身，岂真将坐守于此"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "也？夫以甲兵不完，城郭不固，军不经练，粮不继日，然而博望烧屯，白河用"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "水，使夏侯惇、曹仁辈心惊胆裂：窃问那管仲、乐毅之用兵，未必过此。至于"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "刘琮降曹，我主实出不知；且又不忍乘乱夺同宗之基业，此乃大仁大义也。当"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "阳之败，我主见有数十万赴义之民，扶老携幼相随，不忍弃之，日行十里，不"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "思进取江陵，甘与同败，此亦大仁大义也。寡不敌众，胜败乃其常事。昔日霸"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "王项羽，百战百胜，一败而可失了天下。吾皇汉高祖，虽百战百败，而垓下一"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "战成功，此非韩信之良谋乎？汉高祖未尝累胜，岂可胜败而论英雄，盖国家大"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "计，社稷安危，是有主谋。非比夸辩之徒，虚誉欺人，坐议立谈，无人可及；"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "临机应变，百无一能，此等之人，诚为天下笑耳。"
         },
         {
           "character": "诸葛亮",
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "汉高祖在咸阳百战百败，\n九里山十埋伏方显英才。\n你真是腐儒辈休把口开。"
+          "text": "汉高祖在咸阳百战百败，"
         },
         {
-          "character": "大丈夫失防备何足为碍、步骘",
+          "character": "诸葛亮",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "九里山十埋伏方显英才。"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "你真是腐儒辈休把口开。"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "大丈夫失防备何足为碍"
+        },
+        {
+          "character": "步骘",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -1545,14 +1936,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "唔，曹操虽收袁绍蝼蚁之兵，又得刘表乌合之众，他军如犯律，而将无良谋，\n何足惧哉？"
+          "text": "唔，曹操虽收袁绍蝼蚁之兵，又得刘表乌合之众，他军如犯律，而将无良谋，"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "何足惧哉？"
         },
         {
           "character": "步骘",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "哎呀先生，兵败于当阳，计穷于夏口，区区求救于人，而犹言不惧，果真是掩\n耳盗铃，大言欺人也！"
+          "text": "哎呀先生，兵败于当阳，计穷于夏口，区区求救于人，而犹言不惧，果真是掩"
+        },
+        {
+          "character": "步骘",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "耳盗铃，大言欺人也！"
         },
         {
           "character": null,
@@ -1566,21 +1971,70 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "我主以数千仁义之师，安能敌百万残暴之众，所以退守夏口，待时而动。可你\n江东倒兵精粮足，又有长江之险，怎么欲使你主北面降曹，苟图富贵，屈膝于\n人，不顾天下人耻笑。由此论之，我主是真不惧曹贼矣！尔食江东爵禄，怎么\n倒反夸奖那曹操？依吾看来呀，你真是无耻之辈也！"
+          "text": "我主以数千仁义之师，安能敌百万残暴之众，所以退守夏口，待时而动。可你"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "江东倒兵精粮足，又有长江之险，怎么欲使你主北面降曹，苟图富贵，屈膝于"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "人，不顾天下人耻笑。由此论之，我主是真不惧曹贼矣！尔食江东爵禄，怎么"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "倒反夸奖那曹操？依吾看来呀，你真是无耻之辈也！"
         },
         {
           "character": "诸葛亮",
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "曹孟德八十万兵山将海，\n我主爷守夏口待等时来；\n你真是无耻辈休对高才。"
+          "text": "曹孟德八十万兵山将海，"
         },
         {
-          "character": "谁教你劝主降低头下拜、蒋综",
+          "character": "诸葛亮",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "我主爷守夏口待等时来；"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "你真是无耻辈休对高才。"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "谁教你劝主降低头下拜"
+        },
+        {
+          "character": "蒋综",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "哎呦！孔明所言皆是强词夺理，均非正论，不必再言。请问先生，那曹操为人\n如何也？"
+          "text": "哎呦！孔明所言皆是强词夺理，均非正论，不必再言。请问先生，那曹操为人"
+        },
+        {
+          "character": "蒋综",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "如何也？"
         },
         {
           "character": "诸葛亮",
@@ -1608,7 +2062,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "汉传世至今，天数将终。曹操已有天下三分之二，到处克服，人皆归心。你主\n刘豫州不识天时，仗关、张之英勇，善用武师，与曹相"
+          "text": "汉传世至今，天数将终。曹操已有天下三分之二，到处克服，人皆归心。你主"
+        },
+        {
+          "character": "蒋综",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "刘豫州不识天时，仗关、张之英勇，善用武师，与曹相"
         }
       ],
       "interactions": [
@@ -1716,7 +2177,17 @@
           "西皮摇板",
           "西皮散板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.012,
+        0.0842,
+        0.8526,
+        0.0632,
+        0.5638,
+        9,
+        0.0842,
+        0.0
+      ]
     }
   ]
 }

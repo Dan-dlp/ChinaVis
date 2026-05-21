@@ -86,14 +86,14 @@
       ],
       "lines": [
         {
-          "character": null,
+          "character": "苍头",
           "line_type": "念",
           "musical_style": null,
           "style_family": null,
           "text": "东坡做事荒唐，不该诱我陈郎。终日在外闲游荡，为此严加提防。"
         },
         {
-          "character": null,
+          "character": "苍头",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -370,7 +370,14 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "清晨何处漫游嬉？\n香尽水干把奴欺。"
+          "text": "清晨何处漫游嬉？"
+        },
+        {
+          "character": "柳氏",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "香尽水干把奴欺。"
         },
         {
           "character": null,
@@ -545,7 +552,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "我告诉你：好好顶着！我到房中打个盹儿，少时就来瞧你，你要稍有一点变动\n啊，哈哈！"
+          "text": "我告诉你：好好顶着！我到房中打个盹儿，少时就来瞧你，你要稍有一点变动"
+        },
+        {
+          "character": "柳氏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "啊，哈哈！"
         },
         {
           "character": null,
@@ -601,7 +615,14 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "满腹诗书有名望，\n今日头上增了光！"
+          "text": "满腹诗书有名望，"
+        },
+        {
+          "character": "陈慥",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "今日头上增了光！"
         },
         {
           "character": "柳氏",
@@ -650,7 +671,14 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "陈门家风太守旧，\n母亲不该把藜杖留。"
+          "text": "陈门家风太守旧，"
+        },
+        {
+          "character": "陈慥",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "母亲不该把藜杖留。"
         },
         {
           "character": null,
@@ -671,7 +699,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "大奶奶放了我个差使，看守书房，带手儿监视相公，不准他自由行动，得我许\n可才成。从中我也可以找点来路。我来看看。"
+          "text": "大奶奶放了我个差使，看守书房，带手儿监视相公，不准他自由行动，得我许"
+        },
+        {
+          "character": "苍头",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "可才成。从中我也可以找点来路。我来看看。"
         },
         {
           "character": null,
@@ -755,14 +790,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "耍您也不是陀偶。我告诉您：现如今哪，大奶奶命我看守书房，监视着您，出\n入不得自由，如要出去得在我跟前告假，非我许可那才成呢！"
+          "text": "耍您也不是陀偶。我告诉您：现如今哪，大奶奶命我看守书房，监视着您，出"
+        },
+        {
+          "character": "苍头",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "入不得自由，如要出去得在我跟前告假，非我许可那才成呢！"
         },
         {
           "character": "陈慥",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "如此，我到新娘子那里欢乐。你在娘子跟前与我撒个谎儿，就说我身子不爽快，\n外面洗澡去了。"
+          "text": "如此，我到新娘子那里欢乐。你在娘子跟前与我撒个谎儿，就说我身子不爽快，"
+        },
+        {
+          "character": "陈慥",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "外面洗澡去了。"
         },
         {
           "character": "苍头",
@@ -895,7 +944,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.024,
+        0.0729,
+        0.875,
+        0.0521,
+        0.8,
+        3,
+        0.0729,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -4938,7 +4997,17 @@
           "西皮原板",
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.011,
+        0.0186,
+        0.9648,
+        0.0166,
+        0.8983,
+        5,
+        0.0145,
+        0.0
+      ]
     }
   ]
 }

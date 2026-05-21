@@ -262,7 +262,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "啊！那么我来试验试验。\n老头儿，我不让你进去！"
+          "text": "啊！那么我来试验试验。"
+        },
+        {
+          "character": "门官",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "老头儿，我不让你进去！"
         },
         {
           "character": "公子丁",
@@ -340,7 +347,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.8519,
+        0.1481,
+        0.9231,
+        6,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -366,7 +383,14 @@
           "line_type": "西皮慢板",
           "musical_style": "西皮慢板",
           "style_family": "西皮",
-          "text": "后堂内辞别了二老爹娘。\n早与那平贵配成双。"
+          "text": "后堂内辞别了二老爹娘。"
+        },
+        {
+          "character": "王宝钏",
+          "line_type": "西皮慢板",
+          "musical_style": "西皮慢板",
+          "style_family": "西皮",
+          "text": "早与那平贵配成双。"
         },
         {
           "character": null,
@@ -387,7 +411,21 @@
           "line_type": "西皮二六板",
           "musical_style": "西皮二六板",
           "style_family": "西皮",
-          "text": "看端详：\n也有客旅与经商。\n举目抬头——"
+          "text": "看端详："
+        },
+        {
+          "character": "王宝钏",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "也有客旅与经商。"
+        },
+        {
+          "character": "王宝钏",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "举目抬头——"
         },
         {
           "character": "王宝钏",
@@ -408,7 +446,14 @@
           "line_type": "西皮快板",
           "musical_style": "西皮快板",
           "style_family": "西皮",
-          "text": "因何不见那花郎？\n看来他是无义郎！"
+          "text": "因何不见那花郎？"
+        },
+        {
+          "character": "王宝钏",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "看来他是无义郎！"
         },
         {
           "character": null,
@@ -429,7 +474,14 @@
           "line_type": "西皮快板",
           "musical_style": "西皮快板",
           "style_family": "西皮",
-          "text": "回府去怎对二爹娘？\n哪有个自己做主张！"
+          "text": "回府去怎对二爹娘？"
+        },
+        {
+          "character": "王宝钏",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "哪有个自己做主张！"
         },
         {
           "character": "王宝钏",
@@ -471,7 +523,35 @@
           "line_type": "西皮快板",
           "musical_style": "西皮快板",
           "style_family": "西皮",
-          "text": "耳边厢又听得人喧嚷：\n彩球打中讨饭的郎。\n想必就是薛平贵？\n不由奴家意彷徨。\n丫鬟带路——"
+          "text": "耳边厢又听得人喧嚷："
+        },
+        {
+          "character": "王宝钏",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "彩球打中讨饭的郎。"
+        },
+        {
+          "character": "王宝钏",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "想必就是薛平贵？"
+        },
+        {
+          "character": "王宝钏",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "不由奴家意彷徨。"
+        },
+        {
+          "character": "王宝钏",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "丫鬟带路——"
         },
         {
           "character": "王宝钏",
@@ -534,7 +614,17 @@
           "西皮慢板",
           "西皮散板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.875,
+        0.9091,
+        0.0909,
+        0.0,
+        0.1905,
+        3,
+        0.9091,
+        0.0
+      ]
     }
   ]
 }

@@ -197,21 +197,49 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "执掌西南多潇洒，\n银坑洞中是我家。"
-        },
-        {
-          "character": "孟获",
-          "line_type": "白",
-          "musical_style": null,
-          "style_family": null,
-          "text": "某，银坑洞主孟获是也。坐镇西南七十二洞，倒也逍遥自在。今日天气清和，\n带领人马在山后操演。操演已毕，不免回洞去者！"
+          "text": "执掌西南多潇洒，"
         },
         {
           "character": "孟获",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "某家生来威风大，\n七十二洞尊重咱。\n若遇机会夺中华。"
+          "text": "银坑洞中是我家。"
+        },
+        {
+          "character": "孟获",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "某，银坑洞主孟获是也。坐镇西南七十二洞，倒也逍遥自在。今日天气清和，"
+        },
+        {
+          "character": "孟获",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "带领人马在山后操演。操演已毕，不免回洞去者！"
+        },
+        {
+          "character": "孟获",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "某家生来威风大，"
+        },
+        {
+          "character": "孟获",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "七十二洞尊重咱。"
+        },
+        {
+          "character": "孟获",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "若遇机会夺中华。"
         },
         {
           "character": null,
@@ -230,7 +258,17 @@
         "singing_ratio": 1.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        1.0,
+        0.7143,
+        0.2857,
+        0.0,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -360,7 +398,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "孤，曹丕。国号黄初在位。蒙众卿忠勇，扶孤继位，更改国号，深感上苍福佑。\n闻得刘备兵伐东吴，中了陆逊火攻之计，败入白帝城，气愤身亡。朕闻此信，\n心无忧矣。此番攻取西川，必获全胜。\n众卿！"
+          "text": "孤，曹丕。国号黄初在位。蒙众卿忠勇，扶孤继位，更改国号，深感上苍福佑。"
+        },
+        {
+          "character": "曹丕",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "闻得刘备兵伐东吴，中了陆逊火攻之计，败入白帝城，气愤身亡。朕闻此信，"
+        },
+        {
+          "character": "曹丕",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "心无忧矣。此番攻取西川，必获全胜。"
+        },
+        {
+          "character": "曹丕",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "众卿！"
         },
         {
           "character": "贾诩、辛毗、曹真、司马懿",
@@ -395,7 +454,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "臣想刘备虽亡，必托孤于诸葛亮。那孔明感刘备知遇之恩，必要尽心竭力扶持\n嗣主。陛下不可轻伐。"
+          "text": "臣想刘备虽亡，必托孤于诸葛亮。那孔明感刘备知遇之恩，必要尽心竭力扶持"
+        },
+        {
+          "character": "贾诩",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "嗣主。陛下不可轻伐。"
         },
         {
           "character": "司马懿",
@@ -430,7 +496,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "若用中原之兵，恐难取胜。须用五路大兵，四面攻打，叫那诸葛亮首尾不能相\n顾，我军必胜也。"
+          "text": "若用中原之兵，恐难取胜。须用五路大兵，四面攻打，叫那诸葛亮首尾不能相"
+        },
+        {
+          "character": "司马懿",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "顾，我军必胜也。"
         },
         {
           "character": "曹丕",
@@ -444,7 +517,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "可修国书，差使臣去到鲜卑国，见那国王轲比能，贿以金帛，令起羌兵十万，\n攻打西平关，此一路也。"
+          "text": "可修国书，差使臣去到鲜卑国，见那国王轲比能，贿以金帛，令起羌兵十万，"
+        },
+        {
+          "character": "司马懿",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "攻打西平关，此一路也。"
         },
         {
           "character": "曹丕",
@@ -458,7 +538,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "差人直入蛮洞，买通蛮主孟获，令起蛮兵十万，攻打益州、永昌、牂牁、越雋\n四郡，此二路也。"
+          "text": "差人直入蛮洞，买通蛮主孟获，令起蛮兵十万，攻打益州、永昌、牂牁、越雋"
+        },
+        {
+          "character": "司马懿",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "四郡，此二路也。"
         },
         {
           "character": "曹丕",
@@ -472,7 +559,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "再遣能言使臣入吴和好，许以割地为约，令孙权起吴兵十万，入峡口、取涪城，\n此三路也。"
+          "text": "再遣能言使臣入吴和好，许以割地为约，令孙权起吴兵十万，入峡口、取涪城，"
+        },
+        {
+          "character": "司马懿",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "此三路也。"
         },
         {
           "character": "曹丕",
@@ -500,14 +594,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "就命曹真起中原大兵十万，攻取阳平关，此五路也。共起大兵五十万，并力攻\n取西川。那孔明纵有吕望之才，难逃此五路雄兵也。"
+          "text": "就命曹真起中原大兵十万，攻取阳平关，此五路也。共起大兵五十万，并力攻"
+        },
+        {
+          "character": "司马懿",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "取西川。那孔明纵有吕望之才，难逃此五路雄兵也。"
         },
         {
           "character": "曹丕",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "此本奏之有理，孤王依计而行。\n曹真听旨！"
+          "text": "此本奏之有理，孤王依计而行。"
+        },
+        {
+          "character": "曹丕",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "曹真听旨！"
         },
         {
           "character": "曹真",
@@ -615,7 +723,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0196,
+        0.8627,
+        0.1176,
+        0.74,
+        7,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -638,7 +756,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "吾乃魏主驾下差官是也。今奉我主之命，押解礼物，去到鲜卑国聘请国王轲比\n能，令起羌兵十万，攻打西平关。身奉君命，不敢怠慢。\n军士们！"
+          "text": "吾乃魏主驾下差官是也。今奉我主之命，押解礼物，去到鲜卑国聘请国王轲比"
+        },
+        {
+          "character": "差官",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "能，令起羌兵十万，攻打西平关。身奉君命，不敢怠慢。"
+        },
+        {
+          "character": "差官",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "军士们！"
         },
         {
           "character": "四青袍、二小军",
@@ -688,7 +820,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.6,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 4,
@@ -743,7 +885,7 @@
           "text": "报子丁 （同合头） 奈丞相连朝不见音信传。"
         },
         {
-          "character": null,
+          "character": "报子丁",
           "line_type": "同白",
           "musical_style": null,
           "style_family": null,
@@ -761,7 +903,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "事在燃眉，不得迟延，你我去报当地衙门，请他转达圣听；我料万岁一闻此信，\n自必发兵救援。"
+          "text": "事在燃眉，不得迟延，你我去报当地衙门，请他转达圣听；我料万岁一闻此信，"
+        },
+        {
+          "character": "报子乙",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "自必发兵救援。"
         },
         {
           "character": "报子甲、报子丙、报子丁",
@@ -797,7 +946,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.6667,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 5,
@@ -834,7 +993,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "俺，孟达。昔在汉中称臣，后来弃蜀投魏，魏王命俺镇守上庸等处。日前圣旨\n到来，命俺起兵十万，攻取汉中。我想永安宫乃李严镇守，我若攻打，有碍生\n死之交；如不攻打，有恐魏王见疑，好不两难人也！"
+          "text": "俺，孟达。昔在汉中称臣，后来弃蜀投魏，魏王命俺镇守上庸等处。日前圣旨"
+        },
+        {
+          "character": "孟达",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "到来，命俺起兵十万，攻取汉中。我想永安宫乃李严镇守，我若攻打，有碍生"
+        },
+        {
+          "character": "孟达",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "死之交；如不攻打，有恐魏王见疑，好不两难人也！"
         },
         {
           "character": null,
@@ -855,7 +1028,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "来此已是营门。\n有人么？"
+          "text": "来此已是营门。"
+        },
+        {
+          "character": "旗牌",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "有人么？"
         },
         {
           "character": "中军",
@@ -876,7 +1056,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "候着。\n启禀帅爷：永安宫李严差人下书。"
+          "text": "候着。"
+        },
+        {
+          "character": "中军",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "启禀帅爷：永安宫李严差人下书。"
         },
         {
           "character": "孟达",
@@ -890,14 +1077,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "是。\n下书人，里面传。小心了！"
+          "text": "是。"
+        },
+        {
+          "character": "中军",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "下书人，里面传。小心了！"
         },
         {
           "character": "旗牌",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "是。\n下书人叩头。"
+          "text": "是。"
+        },
+        {
+          "character": "旗牌",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "下书人叩头。"
         },
         {
           "character": "孟达",
@@ -1009,14 +1210,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "我正犹疑之间，李严有书到来，我岂能忘了生死之交，不免假装重病。\n中军，传令下去：就说你老爷偶得重病，甚是沉重，暂将人马撤回，另听调用。"
+          "text": "我正犹疑之间，李严有书到来，我岂能忘了生死之交，不免假装重病。"
+        },
+        {
+          "character": "孟达",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "中军，传令下去：就说你老爷偶得重病，甚是沉重，暂将人马撤回，另听调用。"
         },
         {
           "character": "中军",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "得令。\n下面听者：元帅偶得重病，暂将人马撤回，再听调用！"
+          "text": "得令。"
+        },
+        {
+          "character": "中军",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "下面听者：元帅偶得重病，暂将人马撤回，再听调用！"
         },
         {
           "character": null,
@@ -1096,7 +1311,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0286,
+        0.8571,
+        0.1143,
+        0.5882,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 6,
@@ -1119,7 +1344,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "俺，东吴水军都督陆逊。今有北魏曹丕五路攻川，许以割地为约，令起大兵十\n万，出峡口攻打涪城。吾想吴、魏皆非诸葛之敌手，万难取胜，是我奏明主公，\n用两全之计，虚作人情，兵扎三江口，坐观胜败，就中取事。\n众将官！"
+          "text": "俺，东吴水军都督陆逊。今有北魏曹丕五路攻川，许以割地为约，令起大兵十"
+        },
+        {
+          "character": "陆逊",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "万，出峡口攻打涪城。吾想吴、魏皆非诸葛之敌手，万难取胜，是我奏明主公，"
+        },
+        {
+          "character": "陆逊",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "用两全之计，虚作人情，兵扎三江口，坐观胜败，就中取事。"
+        },
+        {
+          "character": "陆逊",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "众将官！"
         },
         {
           "character": "四文堂、四下手",
@@ -1197,7 +1443,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.5556,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 7,
@@ -1221,7 +1477,21 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "先皇爷白帝城晏了圣驾，\n多亏了老相父扶保邦家。\n民丰富国殷实同享荣华。"
+          "text": "先皇爷白帝城晏了圣驾，"
+        },
+        {
+          "character": "刘禅",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "多亏了老相父扶保邦家。"
+        },
+        {
+          "character": "刘禅",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "民丰富国殷实同享荣华。"
         },
         {
           "character": null,
@@ -1284,7 +1554,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "有这等事！\n内侍！"
+          "text": "有这等事！"
+        },
+        {
+          "character": "刘禅",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "内侍！"
         },
         {
           "character": "大太监",
@@ -1333,7 +1610,21 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "望着洛阳心头憾，\n恼恨曹丕小儿男。\n尔不久现报在眼前。"
+          "text": "望着洛阳心头憾，"
+        },
+        {
+          "character": "刘禅",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "恼恨曹丕小儿男。"
+        },
+        {
+          "character": "刘禅",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "尔不久现报在眼前。"
         },
         {
           "character": null,
@@ -1347,7 +1638,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "人言君命无敢慢，\n岂知将令更森严。"
+          "text": "人言君命无敢慢，"
+        },
+        {
+          "character": "大太监",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "岂知将令更森严。"
         },
         {
           "character": "大太监",
@@ -1410,7 +1708,21 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "为王我掌西蜀尚未坐稳，\n那曹丕无故的又要兴兵。\n奏明了我母后紧急事情。"
+          "text": "为王我掌西蜀尚未坐稳，"
+        },
+        {
+          "character": "刘禅",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "那曹丕无故的又要兴兵。"
+        },
+        {
+          "character": "刘禅",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "奏明了我母后紧急事情。"
         },
         {
           "character": null,
@@ -1464,7 +1776,17 @@
         "singing_ratio": 0.333,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.333,
+        0.4688,
+        0.5,
+        0.0312,
+        0.6452,
+        5,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 8,
@@ -1487,7 +1809,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "丞相钧命挡众驾，\n府门禁地免喧哗。"
+          "text": "丞相钧命挡众驾，"
+        },
+        {
+          "character": "门官",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "府门禁地免喧哗。"
         },
         {
           "character": null,
@@ -1522,7 +1851,14 @@
           "line_type": "同白",
           "musical_style": null,
           "style_family": null,
-          "text": "来到相府。\n尊官请了！"
+          "text": "来到相府。"
+        },
+        {
+          "character": "董允、杜琼",
+          "line_type": "同白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "尊官请了！"
         },
         {
           "character": "门官",
@@ -1613,7 +1949,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "二位大人，从来出入将相之家，不是歌童舞女成群，便是娇妻美妾无数；可怜\n我家相爷，喏喏喏，就是一位黄夫人，心性虽有姜嫄之德，其貌却如无盐之丑，\n叫我家相爷如何耐得住呢！"
+          "text": "二位大人，从来出入将相之家，不是歌童舞女成群，便是娇妻美妾无数；可怜"
+        },
+        {
+          "character": "门官",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我家相爷，喏喏喏，就是一位黄夫人，心性虽有姜嫄之德，其貌却如无盐之丑，"
+        },
+        {
+          "character": "门官",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "叫我家相爷如何耐得住呢！"
         },
         {
           "character": "董允、杜琼",
@@ -1641,7 +1991,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "相爷数日前传谕：所有大小官员，不得闯入禀事。方才圣命来召，尚还辞去，\n何况大人乎！"
+          "text": "相爷数日前传谕：所有大小官员，不得闯入禀事。方才圣命来召，尚还辞去，"
+        },
+        {
+          "character": "门官",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "何况大人乎！"
         },
         {
           "character": "董允",
@@ -1704,7 +2061,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "回禀二位大人：丞相说知道了，请二位不必进见，有什么国家大事，待病体稍\n愈，改日自出都堂会议。请二位大人回去吧。"
+          "text": "回禀二位大人：丞相说知道了，请二位不必进见，有什么国家大事，待病体稍"
+        },
+        {
+          "character": "门官",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "愈，改日自出都堂会议。请二位大人回去吧。"
         },
         {
           "character": null,
@@ -1775,7 +2139,17 @@
         "singing_ratio": 0.179,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.179,
+        0.1667,
+        0.7222,
+        0.1111,
+        0.7714,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 9,
@@ -1800,14 +2174,56 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "叹先王开基业心机用坏，\n在桃园曾结义汉室重开。\n一人死三人亡神目鉴哉。\n因此上与东吴结下仇来。\n先帝爷要报仇亲把兵排。"
+          "text": "叹先王开基业心机用坏，"
+        },
+        {
+          "character": "吴后",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "在桃园曾结义汉室重开。"
+        },
+        {
+          "character": "吴后",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "一人死三人亡神目鉴哉。"
+        },
+        {
+          "character": "吴后",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "因此上与东吴结下仇来。"
+        },
+        {
+          "character": "吴后",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "先帝爷要报仇亲把兵排。"
         },
         {
           "character": "吴后",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "哀家，吴后。先王刘备。太子刘禅，乃先后糜氏所生。只为先帝伐吴，在白帝\n城殡天。多亏相父保定皇儿安坐西川，军民俱服。思想先王一世劳碌，好不伤\n感人也！"
+          "text": "哀家，吴后。先王刘备。太子刘禅，乃先后糜氏所生。只为先帝伐吴，在白帝"
+        },
+        {
+          "character": "吴后",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "城殡天。多亏相父保定皇儿安坐西川，军民俱服。思想先王一世劳碌，好不伤"
+        },
+        {
+          "character": "吴后",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "感人也！"
         },
         {
           "character": null,
@@ -1821,7 +2237,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "外寇侵偏偏的丞相有病，\n我只得见母后陈说共情。"
+          "text": "外寇侵偏偏的丞相有病，"
+        },
+        {
+          "character": "刘禅",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我只得见母后陈说共情。"
         },
         {
           "character": "刘禅",
@@ -1912,7 +2335,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "母后有所不知。儿也曾宣召，怎奈他有病在床，不容人见，儿又命董允、杜琼\n同道相府问计，亦未见回奏。"
+          "text": "母后有所不知。儿也曾宣召，怎奈他有病在床，不容人见，儿又命董允、杜琼"
+        },
+        {
+          "character": "刘禅",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "同道相府问计，亦未见回奏。"
         },
         {
           "character": "吴后",
@@ -1926,7 +2356,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "闻言使人动无名，\n难道诸葛昧了心？"
+          "text": "闻言使人动无名，"
+        },
+        {
+          "character": "吴后",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "难道诸葛昧了心？"
         },
         {
           "character": "吴后",
@@ -2031,14 +2468,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "董允、杜琼乃旧日老臣，国事紧急，暂止肃避之条。宣进延寿宫，前来面奏，\n何必去问！"
+          "text": "董允、杜琼乃旧日老臣，国事紧急，暂止肃避之条。宣进延寿宫，前来面奏，"
+        },
+        {
+          "character": "吴后",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "何必去问！"
         },
         {
           "character": "刘禅",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "母后之言甚是。\n内侍，宣董允、杜琼进宫。"
+          "text": "母后之言甚是。"
+        },
+        {
+          "character": "刘禅",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "内侍，宣董允、杜琼进宫。"
         },
         {
           "character": "大太监",
@@ -2169,7 +2620,17 @@
         "singing_ratio": 0.15,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.15,
+        0.2692,
+        0.7308,
+        0.0,
+        0.6863,
+        6,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 10,
@@ -2652,7 +3113,17 @@
           "二黄三眼板",
           "二黄慢板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.227,
+        0.3148,
+        0.6852,
+        0.0,
+        0.717,
+        3,
+        0.0,
+        0.037
+      ]
     },
     {
       "scene_index": 11,
@@ -2761,7 +3232,17 @@
         "singing_ratio": 0.143,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.143,
+        0.125,
+        0.75,
+        0.125,
+        0.8571,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 12,
@@ -2833,7 +3314,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 13,
@@ -2979,7 +3470,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.9,
+        0.1,
+        0.7778,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 14,
@@ -3140,7 +3641,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.9,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 15,
@@ -3326,7 +3837,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.8333,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 16,
@@ -3421,7 +3942,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 17,
@@ -3468,7 +3999,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.5,
+        0.5,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 18,
@@ -4098,7 +4639,17 @@
         "musical_styles": [
           "西皮导板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.283,
+        0.3231,
+        0.6769,
+        0.0,
+        0.6719,
+        7,
+        0.0154,
+        0.0
+      ]
     }
   ]
 }

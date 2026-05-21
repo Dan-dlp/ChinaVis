@@ -123,7 +123,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "本爵，李广。在周室驾前为臣，官拜奉命侯之职。奉王旨意，边外散饷，且喜\n干戈宁靖，不免回朝交旨，又恐众位王爷前来饯行。\n李福。"
+          "text": "本爵，李广。在周室驾前为臣，官拜奉命侯之职。奉王旨意，边外散饷，且喜"
+        },
+        {
+          "character": "李广",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "干戈宁靖，不免回朝交旨，又恐众位王爷前来饯行。"
+        },
+        {
+          "character": "李广",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "李福。"
         },
         {
           "character": "李福",
@@ -186,7 +200,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "候着。\n启老爷：二位王爷拜。"
+          "text": "候着。"
+        },
+        {
+          "character": "李福",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "启老爷：二位王爷拜。"
         },
         {
           "character": "李广",
@@ -354,7 +375,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "李大人回京，我等无物可敬，今有一展毒帕，此宝能解百毒。奉送与大人，请\n收下。"
+          "text": "李大人回京，我等无物可敬，今有一展毒帕，此宝能解百毒。奉送与大人，请"
+        },
+        {
+          "character": "王子甲",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "收下。"
         },
         {
           "character": "李广",
@@ -483,7 +511,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0227,
+        0.9318,
+        0.0455,
+        0.8372,
+        5,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -519,7 +557,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "孤，周义王在位。自登基以来，风调雨顺，可称太平景象。今日寡人心下不爽。\n内侍。摆驾西宫。"
+          "text": "孤，周义王在位。自登基以来，风调雨顺，可称太平景象。今日寡人心下不爽。"
+        },
+        {
+          "character": "周义王",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "内侍。摆驾西宫。"
         },
         {
           "character": "二大太监",
@@ -533,7 +578,21 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "为王的坐江山风调雨顺，\n马放山甲入库乐享安宁。\n西宫内见石妃散散龙心。"
+          "text": "为王的坐江山风调雨顺，"
+        },
+        {
+          "character": "周义王",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "马放山甲入库乐享安宁。"
+        },
+        {
+          "character": "周义王",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "西宫内见石妃散散龙心。"
         },
         {
           "character": null,
@@ -558,7 +617,17 @@
         "singing_ratio": 0.5,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.5,
+        0.5,
+        0.375,
+        0.125,
+        0.2857,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -579,21 +648,77 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "杨国贞坐昭阳自思自量，\n吾主爷收石妃不理朝纲。\n又恐怕效前朝无道纣王。"
-        },
-        {
-          "character": "杨国贞",
-          "line_type": "白",
-          "musical_style": null,
-          "style_family": null,
-          "text": "本宫杨国贞。蒙圣恩封为昭阳正院。只因西凉下国，三载无宝贡进，进来石美\n容兄妹三人，吾主龙宠封为西宫伴驾。每日饮宴，夜夜笙歌。满朝文武本章堆\n积如山，圣上不理朝事。不免捧金镶玉玺，去到西宫面奏便了。\n宫娥们。摆驾西宫。"
+          "text": "杨国贞坐昭阳自思自量，"
         },
         {
           "character": "杨国贞",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "西凉国三年内无有贡进，\n进来了石美容兄妹三人。\n日饮酒夜笙歌稳坐宫庭。\n我要把朝歌事细奏明君。"
+          "text": "吾主爷收石妃不理朝纲。"
+        },
+        {
+          "character": "杨国贞",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "又恐怕效前朝无道纣王。"
+        },
+        {
+          "character": "杨国贞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "本宫杨国贞。蒙圣恩封为昭阳正院。只因西凉下国，三载无宝贡进，进来石美"
+        },
+        {
+          "character": "杨国贞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "容兄妹三人，吾主龙宠封为西宫伴驾。每日饮宴，夜夜笙歌。满朝文武本章堆"
+        },
+        {
+          "character": "杨国贞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "积如山，圣上不理朝事。不免捧金镶玉玺，去到西宫面奏便了。"
+        },
+        {
+          "character": "杨国贞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "宫娥们。摆驾西宫。"
+        },
+        {
+          "character": "杨国贞",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "西凉国三年内无有贡进，"
+        },
+        {
+          "character": "杨国贞",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "进来了石美容兄妹三人。"
+        },
+        {
+          "character": "杨国贞",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "日饮酒夜笙歌稳坐宫庭。"
+        },
+        {
+          "character": "杨国贞",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我要把朝歌事细奏明君。"
         },
         {
           "character": null,
@@ -612,7 +737,17 @@
         "singing_ratio": 1.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        1.0,
+        0.6364,
+        0.3636,
+        0.0,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 4,
@@ -642,7 +777,28 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "带一顶珠翠冠乌云押鬓，\n穿一件龙凤衣现出罗裙。\n我三人起不良要谋龙庭。\n耳听得金钟响圣驾来临。"
+          "text": "带一顶珠翠冠乌云押鬓，"
+        },
+        {
+          "character": "石美容",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "穿一件龙凤衣现出罗裙。"
+        },
+        {
+          "character": "石美容",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我三人起不良要谋龙庭。"
+        },
+        {
+          "character": "石美容",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "耳听得金钟响圣驾来临。"
         },
         {
           "character": null,
@@ -656,10 +812,24 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "寡人有福坐龙庭，\n番邦进来玉美人。"
+          "text": "寡人有福坐龙庭，"
         },
         {
-          "character": "内侍臣摆驾西宫进、丑太监",
+          "character": "周义王",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "番邦进来玉美人。"
+        },
+        {
+          "character": "周义王",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "内侍臣摆驾西宫进"
+        },
+        {
+          "character": "丑太监",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -733,7 +903,21 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "万岁爷体不爽留神细养，\n石美容在一旁打扇消凉。\n怕的是起下了不良的心肠。"
+          "text": "万岁爷体不爽留神细养，"
+        },
+        {
+          "character": "石美容",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "石美容在一旁打扇消凉。"
+        },
+        {
+          "character": "石美容",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "怕的是起下了不良的心肠。"
         },
         {
           "character": null,
@@ -747,7 +931,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "手捧玉玺到西宫，\n我朝之事大不同。"
+          "text": "手捧玉玺到西宫，"
+        },
+        {
+          "character": "杨国贞",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我朝之事大不同。"
         },
         {
           "character": "大太监",
@@ -768,7 +959,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "领命。\n宫门哪位在？"
+          "text": "领命。"
+        },
+        {
+          "character": "大太监",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "宫门哪位在？"
         },
         {
           "character": "丑太监",
@@ -803,7 +1001,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "咱家与你启奏。\n奴卑启奏娘娘：正宫杨国母有本启奏。"
+          "text": "咱家与你启奏。"
+        },
+        {
+          "character": "丑太监",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "奴卑启奏娘娘：正宫杨国母有本启奏。"
         },
         {
           "character": "石美容",
@@ -817,7 +1022,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "嗻。\n亲家。石娘娘传话出来，国母有本进宫启奏，无本穿宫而过，哪个出宫迎接不\n成！"
+          "text": "嗻。"
+        },
+        {
+          "character": "丑太监",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "亲家。石娘娘传话出来，国母有本进宫启奏，无本穿宫而过，哪个出宫迎接不"
+        },
+        {
+          "character": "丑太监",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "成！"
         },
         {
           "character": "大太监",
@@ -852,7 +1071,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "启奏国母：石娘娘传话出来，有本进宫启奏，无本穿宫而过，哪个迎接她不成\n么！"
+          "text": "启奏国母：石娘娘传话出来，有本进宫启奏，无本穿宫而过，哪个迎接她不成"
+        },
+        {
+          "character": "大太监",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "么！"
         },
         {
           "character": "杨国贞",
@@ -873,7 +1099,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "嗯，这贱人好大胆。且自由她。\n吩咐，闪宫。"
+          "text": "嗯，这贱人好大胆。且自由她。"
+        },
+        {
+          "character": "杨国贞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "吩咐，闪宫。"
         },
         {
           "character": "大太监",
@@ -929,7 +1162,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "御妹，我且问你，本宫到此，你不出宫迎接，倒也罢了。反在一旁待驾平身，\n不知紧要。别邦闻知，岂不道我国无有君臣礼仪么？"
+          "text": "御妹，我且问你，本宫到此，你不出宫迎接，倒也罢了。反在一旁待驾平身，"
+        },
+        {
+          "character": "杨国贞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "不知紧要。别邦闻知，岂不道我国无有君臣礼仪么？"
         },
         {
           "character": "石美容",
@@ -950,7 +1190,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "吓，国母。我开口一个国母，闭口一个国母，你开口一个小贱人，闭口一个小\n贱人，你叫得我，难道我叫不得你么？"
+          "text": "吓，国母。我开口一个国母，闭口一个国母，你开口一个小贱人，闭口一个小"
+        },
+        {
+          "character": "石美容",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "贱人，你叫得我，难道我叫不得你么？"
         },
         {
           "character": "杨国贞",
@@ -1006,28 +1253,91 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "你本是外国毛桃女，\n敢在我朝乱胡行。\n本宫是你什么人？"
+          "text": "你本是外国毛桃女，"
         },
         {
-          "character": "你手摸胸膛想一想、石美容",
+          "character": "杨国贞",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "三宫六院你为大，\n七十二妃你为尊。\n以大压小是狗肺心！"
+          "text": "敢在我朝乱胡行。"
         },
         {
-          "character": "你为大来我为小、杨国贞",
+          "character": "杨国贞",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "本宫是你什么人？"
+        },
+        {
+          "character": "杨国贞",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "你手摸胸膛想一想"
+        },
+        {
+          "character": "石美容",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "三宫六院你为大，"
+        },
+        {
+          "character": "石美容",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "七十二妃你为尊。"
+        },
+        {
+          "character": "石美容",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "以大压小是狗肺心！"
+        },
+        {
+          "character": "石美容",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "你为大来我为小"
+        },
+        {
+          "character": "杨国贞",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
           "text": "贱人吓！"
         },
         {
-          "character": "你为大来我为小、杨国贞",
+          "character": "杨国贞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "你为大来我为小"
+        },
+        {
+          "character": "杨国贞",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "好马不可槽头喂，\n养起膘来就伤人。\n金镶玉玺望下打！"
+          "text": "好马不可槽头喂，"
+        },
+        {
+          "character": "杨国贞",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "养起膘来就伤人。"
+        },
+        {
+          "character": "杨国贞",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "金镶玉玺望下打！"
         },
         {
           "character": "石美容",
@@ -1132,21 +1442,49 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "启奏万岁：满朝文武本章堆积如山，恐万岁误了国家大事。妾妃手捧玉玺来到\n西宫，她不出宫迎接倒也罢了。反在一旁待驾平身，不知紧要，恐别邦闻知，\n岂不道我国无有君臣礼仪？万岁详情。"
+          "text": "启奏万岁：满朝文武本章堆积如山，恐万岁误了国家大事。妾妃手捧玉玺来到"
+        },
+        {
+          "character": "杨国贞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "西宫，她不出宫迎接倒也罢了。反在一旁待驾平身，不知紧要，恐别邦闻知，"
+        },
+        {
+          "character": "杨国贞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "岂不道我国无有君臣礼仪？万岁详情。"
         },
         {
           "character": "周义王",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "是吓！梓童，你国母到了西宫，你不出宫迎接倒也罢了，反在一旁待驾平身，\n是何道礼？"
+          "text": "是吓！梓童，你国母到了西宫，你不出宫迎接倒也罢了，反在一旁待驾平身，"
+        },
+        {
+          "character": "周义王",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "是何道礼？"
         },
         {
           "character": "石美容",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "哎呀万岁吓！她哪里是到西宫议论国事，分明手执金镶玉玺，她想一印将万岁\n打死，她要做一朝女皇帝！"
+          "text": "哎呀万岁吓！她哪里是到西宫议论国事，分明手执金镶玉玺，她想一印将万岁"
+        },
+        {
+          "character": "石美容",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "打死，她要做一朝女皇帝！"
         },
         {
           "character": null,
@@ -1174,7 +1512,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "唗！胆大杨国贞，哪是议论国事，分明手执玉玺，要将寡人打死，你要坐一朝\n女王皇帝。这还了得！\n内侍。传金瓜武士进宫。"
+          "text": "唗！胆大杨国贞，哪是议论国事，分明手执玉玺，要将寡人打死，你要坐一朝"
+        },
+        {
+          "character": "周义王",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "女王皇帝。这还了得！"
+        },
+        {
+          "character": "周义王",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "内侍。传金瓜武士进宫。"
         },
         {
           "character": null,
@@ -1195,7 +1547,21 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "西宫院内上了刑，\n犯罪之事解不明。\n妾妃有本奏明君。"
+          "text": "西宫院内上了刑，"
+        },
+        {
+          "character": "杨国贞",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "犯罪之事解不明。"
+        },
+        {
+          "character": "杨国贞",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "妾妃有本奏明君。"
         },
         {
           "character": "杨国贞",
@@ -1205,7 +1571,14 @@
           "text": "启万岁：别家娘娘在朝有三兄四弟，妾妃孤身一人，要这江山何用？万岁详情！"
         },
         {
-          "character": "含悲忍泪忙跪定、石美容",
+          "character": "杨国贞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "含悲忍泪忙跪定"
+        },
+        {
+          "character": "石美容",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -1216,7 +1589,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "是吓。想是你私通哪部大臣，也是有的。不必多奏。\n金瓜武士。将她推出斩了！"
+          "text": "是吓。想是你私通哪部大臣，也是有的。不必多奏。"
+        },
+        {
+          "character": "周义王",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "金瓜武士。将她推出斩了！"
         },
         {
           "character": "杨国贞",
@@ -1230,7 +1610,42 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "昔日有个商纣王，\n女娲庙内去降香。\n昏王题诗粉壁墙。\n天降妲己乱朝纲。\n诚恐江山不久长。\n我好似阳台梦一场。"
+          "text": "昔日有个商纣王，"
+        },
+        {
+          "character": "杨国贞",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "女娲庙内去降香。"
+        },
+        {
+          "character": "杨国贞",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "昏王题诗粉壁墙。"
+        },
+        {
+          "character": "杨国贞",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "天降妲己乱朝纲。"
+        },
+        {
+          "character": "杨国贞",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "诚恐江山不久长。"
+        },
+        {
+          "character": "杨国贞",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我好似阳台梦一场。"
         },
         {
           "character": null,
@@ -1265,7 +1680,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "领旨。\n万岁有旨：宣大国舅进宫。"
+          "text": "领旨。"
+        },
+        {
+          "character": "丑太监",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "万岁有旨：宣大国舅进宫。"
         },
         {
           "character": null,
@@ -1482,7 +1904,17 @@
         "singing_ratio": 0.077,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.077,
+        0.2394,
+        0.7324,
+        0.0282,
+        0.6312,
+        7,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 5,
@@ -1500,7 +1932,7 @@
           "text": "（李广上，李福上。）"
         },
         {
-          "character": null,
+          "character": "李广",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -1588,7 +2020,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        2,
+        0.0,
+        0.0
+      ]
     }
   ]
 }

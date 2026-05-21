@@ -92,7 +92,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "本爵，申包胥。奉了大王旨意，各国催贡。今已催齐，正好回朝缴旨。\n中军！"
+          "text": "本爵，申包胥。奉了大王旨意，各国催贡。今已催齐，正好回朝缴旨。"
+        },
+        {
+          "character": "申包胥",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "中军！"
         },
         {
           "character": "中军",
@@ -185,7 +192,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0833,
+        0.8333,
+        0.0833,
+        0.7273,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -222,7 +239,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "且住，且喜逃出樊城，看那旁旌旗飘摇，上面写着斗大“申”字，想必是申包\n胥贤弟回朝。我不免勒住马头，将我满腹冤仇对他一表！"
+          "text": "且住，且喜逃出樊城，看那旁旌旗飘摇，上面写着斗大“申”字，想必是申包"
+        },
+        {
+          "character": "伍员",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "胥贤弟回朝。我不免勒住马头，将我满腹冤仇对他一表！"
         },
         {
           "character": null,
@@ -278,35 +302,259 @@
           "line_type": "西皮二六板",
           "musical_style": "西皮二六板",
           "style_family": "西皮",
-          "text": "未曾开言泪双流，\n尊一声贤弟听从头：\n各国不敢强出头。\n俺子胥名儿天下游。\n父纳子妻理不周。\n一家满门三百余口就是那鸡犬也不留。\n不杀平王誓不休。"
+          "text": "未曾开言泪双流，"
         },
         {
-          "character": "临潼会上兄为首、双挂明辅印二口、恨平王无道贪色酒、我的父谏奏遭毒手、这等冤仇世少有、申包胥",
+          "character": "伍员",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "尊一声贤弟听从头："
+        },
+        {
+          "character": "伍员",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "各国不敢强出头。"
+        },
+        {
+          "character": "伍员",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "俺子胥名儿天下游。"
+        },
+        {
+          "character": "伍员",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "父纳子妻理不周。"
+        },
+        {
+          "character": "伍员",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "一家满门三百余口就是那鸡犬也不留。"
+        },
+        {
+          "character": "伍员",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "不杀平王誓不休。"
+        },
+        {
+          "character": "伍员",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "临潼会上兄为首"
+        },
+        {
+          "character": "伍员",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "双挂明辅印二口"
+        },
+        {
+          "character": "伍员",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "恨平王无道贪色酒"
+        },
+        {
+          "character": "伍员",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "我的父谏奏遭毒手"
+        },
+        {
+          "character": "伍员",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "这等冤仇世少有"
+        },
+        {
+          "character": "申包胥",
           "line_type": "西皮快板",
           "musical_style": "西皮快板",
           "style_family": "西皮",
-          "text": "兄长不必眉头皱，\n小弟言来听从头：\n尽都是奸贼用计谋。\n定与你全家报冤仇。\n得罢休来且罢休。"
+          "text": "兄长不必眉头皱，"
         },
         {
-          "character": "相国、夫人遭毒手、你我回朝把本奏、得放手来且放手、伍员",
+          "character": "申包胥",
           "line_type": "西皮快板",
           "musical_style": "西皮快板",
           "style_family": "西皮",
-          "text": "贤弟说话无来由，\n愚兄言来听从头：\n岂肯与他做马牛？\n父不仁来子外游。\n念在同朝情义投。"
+          "text": "小弟言来听从头："
         },
         {
-          "character": "昏王与我结仇扣、君不正，臣逃走、此番回朝休泄漏、申包胥",
+          "character": "申包胥",
           "line_type": "西皮快板",
           "musical_style": "西皮快板",
           "style_family": "西皮",
-          "text": "兄长借兵来灭楚，\n我为君来你为仇。\n快快上马把吴投。"
+          "text": "尽都是奸贼用计谋。"
         },
         {
-          "character": "今日分别三岔口、伍员",
+          "character": "申包胥",
           "line_type": "西皮快板",
           "musical_style": "西皮快板",
           "style_family": "西皮",
-          "text": "申包胥与我把智斗，\n背转身来反加愁。\n你为君来我为仇。\n感你放我往东游。"
+          "text": "定与你全家报冤仇。"
+        },
+        {
+          "character": "申包胥",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "得罢休来且罢休。"
+        },
+        {
+          "character": "申包胥",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "相国"
+        },
+        {
+          "character": "申包胥",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "夫人遭毒手"
+        },
+        {
+          "character": "申包胥",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "你我回朝把本奏"
+        },
+        {
+          "character": "申包胥",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "得放手来且放手"
+        },
+        {
+          "character": "伍员",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "贤弟说话无来由，"
+        },
+        {
+          "character": "伍员",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "愚兄言来听从头："
+        },
+        {
+          "character": "伍员",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "岂肯与他做马牛？"
+        },
+        {
+          "character": "伍员",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "父不仁来子外游。"
+        },
+        {
+          "character": "伍员",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "念在同朝情义投。"
+        },
+        {
+          "character": "伍员",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "昏王与我结仇扣"
+        },
+        {
+          "character": "伍员",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "君不正，臣逃走"
+        },
+        {
+          "character": "伍员",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "此番回朝休泄漏"
+        },
+        {
+          "character": "申包胥",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "兄长借兵来灭楚，"
+        },
+        {
+          "character": "申包胥",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "我为君来你为仇。"
+        },
+        {
+          "character": "申包胥",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "快快上马把吴投。"
+        },
+        {
+          "character": "申包胥",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "今日分别三岔口"
+        },
+        {
+          "character": "伍员",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "申包胥与我把智斗，"
+        },
+        {
+          "character": "伍员",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "背转身来反加愁。"
+        },
+        {
+          "character": "伍员",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "你为君来我为仇。"
+        },
+        {
+          "character": "伍员",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "感你放我往东游。"
         },
         {
           "character": null,
@@ -334,7 +582,21 @@
           "line_type": "西皮快板",
           "musical_style": "西皮快板",
           "style_family": "西皮",
-          "text": "一见子胥上马走，\n大小儿郎听从头。\n军令无私刀割头。"
+          "text": "一见子胥上马走，"
+        },
+        {
+          "character": "申包胥",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "大小儿郎听从头。"
+        },
+        {
+          "character": "申包胥",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "军令无私刀割头。"
         },
         {
           "character": null,
@@ -390,7 +652,17 @@
           "西皮快板",
           "西皮散板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.5,
+        0.84,
+        0.16,
+        0.0,
+        0.2245,
+        3,
+        0.84,
+        0.0
+      ]
     }
   ]
 }

@@ -338,14 +338,63 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "老身，王氏。行年四十有九。先夫早年亡故，留下一男一女，男名文起，女名\n宝钗。他兄妹二人，虽是一母所生，性情却是两样：那蟠儿镇日在外浪荡逍遥，\n不务正业；所幸女儿宝钗倒还十分孝顺。这几日她染病在床，老身非常郁闷，\n适才丫鬟言道，宝钗病体新痊，此乃是老身之幸也！"
+          "text": "老身，王氏。行年四十有九。先夫早年亡故，留下一男一女，男名文起，女名"
+        },
+        {
+          "character": "薛姨妈",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "宝钗。他兄妹二人，虽是一母所生，性情却是两样：那蟠儿镇日在外浪荡逍遥，"
+        },
+        {
+          "character": "薛姨妈",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "不务正业；所幸女儿宝钗倒还十分孝顺。这几日她染病在床，老身非常郁闷，"
+        },
+        {
+          "character": "薛姨妈",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "适才丫鬟言道，宝钗病体新痊，此乃是老身之幸也！"
         },
         {
           "character": "薛姨妈",
           "line_type": "二黄原板",
           "musical_style": "二黄原板",
           "style_family": "二黄",
-          "text": "小丫鬟她报道宝钗新疗，\n不由我年迈人喜上眉梢。\n每日里在外边浪荡逍遥。\n我只得打精神事事亲操。\n切莫教你小姐病后操劳。"
+          "text": "小丫鬟她报道宝钗新疗，"
+        },
+        {
+          "character": "薛姨妈",
+          "line_type": "二黄原板",
+          "musical_style": "二黄原板",
+          "style_family": "二黄",
+          "text": "不由我年迈人喜上眉梢。"
+        },
+        {
+          "character": "薛姨妈",
+          "line_type": "二黄原板",
+          "musical_style": "二黄原板",
+          "style_family": "二黄",
+          "text": "每日里在外边浪荡逍遥。"
+        },
+        {
+          "character": "薛姨妈",
+          "line_type": "二黄原板",
+          "musical_style": "二黄原板",
+          "style_family": "二黄",
+          "text": "我只得打精神事事亲操。"
+        },
+        {
+          "character": "薛姨妈",
+          "line_type": "二黄原板",
+          "musical_style": "二黄原板",
+          "style_family": "二黄",
+          "text": "切莫教你小姐病后操劳。"
         },
         {
           "character": null,
@@ -359,14 +408,28 @@
           "line_type": "二黄摇板",
           "musical_style": "二黄摇板",
           "style_family": "二黄",
-          "text": "迈步儿来至在梨香院道，\n看不见宝钗姐所为哪条？"
+          "text": "迈步儿来至在梨香院道，"
+        },
+        {
+          "character": "贾宝玉",
+          "line_type": "二黄摇板",
+          "musical_style": "二黄摇板",
+          "style_family": "二黄",
+          "text": "看不见宝钗姐所为哪条？"
         },
         {
           "character": "贾宝玉",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "且住！我那宝钗姐不在外边，想是病体未愈。我不免见了姨妈，便中探问。\n甥儿与姨妈请安！"
+          "text": "且住！我那宝钗姐不在外边，想是病体未愈。我不免见了姨妈，便中探问。"
+        },
+        {
+          "character": "贾宝玉",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "甥儿与姨妈请安！"
         },
         {
           "character": null,
@@ -450,7 +513,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "你姐姐已经好啦。她那房间里暖和，你可以进去谈谈，等老身收拾好啦，再来\n陪你说话儿。"
+          "text": "你姐姐已经好啦。她那房间里暖和，你可以进去谈谈，等老身收拾好啦，再来"
+        },
+        {
+          "character": "薛姨妈",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "陪你说话儿。"
         },
         {
           "character": "贾宝玉",
@@ -508,7 +578,17 @@
           "二黄原板",
           "二黄摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.083,
+        0.3077,
+        0.6923,
+        0.0,
+        0.44,
+        3,
+        0.0,
+        0.2692
+      ]
     },
     {
       "scene_index": 2,
@@ -543,7 +623,56 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "奴家，薛宝钗。乃金陵人氏。自幼父亲亡故，留下兄妹二人，跟随寡母度日。\n家有百万之富，饮食起居，尚还如意。只因今上崇尚诗礼，征择才能，要选世\n家之女，充当公主、郡主的入学陪侍，赞善才人。为此，哥哥文起，禀明母亲，\n带同奴家来京、以备报名听选，现在寄居贾氏姨母家中。这贾府人口虽多，\n倒也大家和气。表弟宝玉，他与我两小无猜，十分亲爱。虽是异姓姐弟，却如\n骨肉一般。旁人见了倒也平常，只有那林家表妹，专爱多心，每次热嘲冷刺，\n实在地令人难堪。奴看在贾太夫人份上，只好忍耐。那林家表妹，她倒不曾知\n晓。奴今日小病新痊，深闺无事，不免从事女红，消遣闲愁便了。"
+          "text": "奴家，薛宝钗。乃金陵人氏。自幼父亲亡故，留下兄妹二人，跟随寡母度日。"
+        },
+        {
+          "character": "薛宝钗",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "家有百万之富，饮食起居，尚还如意。只因今上崇尚诗礼，征择才能，要选世"
+        },
+        {
+          "character": "薛宝钗",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "家之女，充当公主、郡主的入学陪侍，赞善才人。为此，哥哥文起，禀明母亲，"
+        },
+        {
+          "character": "薛宝钗",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "带同奴家来京、以备报名听选，现在寄居贾氏姨母家中。这贾府人口虽多，"
+        },
+        {
+          "character": "薛宝钗",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "倒也大家和气。表弟宝玉，他与我两小无猜，十分亲爱。虽是异姓姐弟，却如"
+        },
+        {
+          "character": "薛宝钗",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "骨肉一般。旁人见了倒也平常，只有那林家表妹，专爱多心，每次热嘲冷刺，"
+        },
+        {
+          "character": "薛宝钗",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "实在地令人难堪。奴看在贾太夫人份上，只好忍耐。那林家表妹，她倒不曾知"
+        },
+        {
+          "character": "薛宝钗",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "晓。奴今日小病新痊，深闺无事，不免从事女红，消遣闲愁便了。"
         },
         {
           "character": "莺儿",
@@ -585,14 +714,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "来此已是宝姐姐绣阁，待我进去便了。\n啊宝姐姐大愈了？"
+          "text": "来此已是宝姐姐绣阁，待我进去便了。"
+        },
+        {
+          "character": "贾宝玉",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "啊宝姐姐大愈了？"
         },
         {
           "character": "薛宝钗",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "已经大好了。多谢惦念，请坐！奴听说你有一块宝玉，总未曾看过，今天倒要\n赏鉴赏鉴。"
+          "text": "已经大好了。多谢惦念，请坐！奴听说你有一块宝玉，总未曾看过，今天倒要"
+        },
+        {
+          "character": "薛宝钗",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "赏鉴赏鉴。"
         },
         {
           "character": null,
@@ -753,7 +896,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "要来就一齐来，要不来都不来，这有什么意思！我想要是一天一个的替换着来，\n也不见冷静，也不显热闹，岂不是好么？"
+          "text": "要来就一齐来，要不来都不来，这有什么意思！我想要是一天一个的替换着来，"
+        },
+        {
+          "character": "薛宝钗",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "也不见冷静，也不显热闹，岂不是好么？"
         },
         {
           "character": "贾宝玉",
@@ -802,7 +952,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "酒饭俱已做好，你们就在此处，小饮几杯吧。\n莺儿，烫酒去！"
+          "text": "酒饭俱已做好，你们就在此处，小饮几杯吧。"
+        },
+        {
+          "character": "薛姨妈",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "莺儿，烫酒去！"
         },
         {
           "character": "贾宝玉",
@@ -816,14 +973,35 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "宝兄弟，亏你每日杂学旁收，难道就不知道酒性是最热的？若是热的吃下去，\n发散的快；冷的吃下去，必然凝结在内。用五脏去暖它，岂不受害！从此以后，\n还不与我改过！"
+          "text": "宝兄弟，亏你每日杂学旁收，难道就不知道酒性是最热的？若是热的吃下去，"
+        },
+        {
+          "character": "薛宝钗",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "发散的快；冷的吃下去，必然凝结在内。用五脏去暖它，岂不受害！从此以后，"
+        },
+        {
+          "character": "薛宝钗",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "还不与我改过！"
         },
         {
           "character": "贾宝玉",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "言之有理。\n莺儿，拿酒去，把酒烫的热热的！"
+          "text": "言之有理。"
+        },
+        {
+          "character": "贾宝玉",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "莺儿，拿酒去，把酒烫的热热的！"
         },
         {
           "character": "莺儿",
@@ -872,7 +1050,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "难为你倒肯听她的话。平日我和你所说的话，你都当作耳旁风；怎么她说的话，\n你就听的比着圣旨还快呢？"
+          "text": "难为你倒肯听她的话。平日我和你所说的话，你都当作耳旁风；怎么她说的话，"
+        },
+        {
+          "character": "林黛玉",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "你就听的比着圣旨还快呢？"
         },
         {
           "character": null,
@@ -893,7 +1078,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "姐姐，你不晓得。我这是在姨妈家里；要是在旁处，人家是要恼的，难道看人\n家连个手炉都无有么？"
+          "text": "姐姐，你不晓得。我这是在姨妈家里；要是在旁处，人家是要恼的，难道看人"
+        },
+        {
+          "character": "林黛玉",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "家连个手炉都无有么？"
         },
         {
           "character": "贾宝玉",
@@ -942,7 +1134,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "时候晚啦，我也不敢留你们啦，恐怕老太太惦记着，你们好好地跟着李嬷嬷去\n吧！"
+          "text": "时候晚啦，我也不敢留你们啦，恐怕老太太惦记着，你们好好地跟着李嬷嬷去"
+        },
+        {
+          "character": "薛姨妈",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "吧！"
         },
         {
           "character": "贾宝玉、林黛玉",
@@ -977,7 +1176,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "你走过来，我与你戴上。\n（贾宝玉含笑走近林黛玉面前，林黛玉用手轻轻拢住束发帽儿，将风帽沿掖在抹额上，将绒球扶起颤颤巍巍\n露在风帽外面，端详。）"
+          "text": "你走过来，我与你戴上。"
+        },
+        {
+          "character": "林黛玉",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "（贾宝玉含笑走近林黛玉面前，林黛玉用手轻轻拢住束发帽儿，将风帽沿掖在抹额上，将绒球扶起颤颤巍巍"
+        },
+        {
+          "character": "林黛玉",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "露在风帽外面，端详。）"
         },
         {
           "character": "林黛玉",
@@ -1172,7 +1385,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0128,
+        0.9231,
+        0.0641,
+        0.6494,
+        10,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -1205,14 +1428,56 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "自从身入侯门后，\n俯仰随人不自由。"
+          "text": "自从身入侯门后，"
+        },
+        {
+          "character": "袭人",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "俯仰随人不自由。"
         },
         {
           "character": "袭人",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "奴家，花氏袭人。乃建业人氏。只因家中贫苦，哥哥花自芳将奴卖与贾府为婢，\n派在宝二爷房下。我与他名为主仆，情似夫妻。每日同桌而食，同榻而卧，\n彼此十分亲爱，虽说那晴雯、麝月也是宝玉宠爱之人，究竟小奴两岁，事事不\n敢居大。其余仆妇、丫鬟俱要听我指使。我虽不是主人，却也与主人相仿。现\n在宝玉不在房中，独坐无聊，不免去到后房，和衣而卧，待宝玉回来，再与他\n嘘寒送暖便了。"
+          "text": "奴家，花氏袭人。乃建业人氏。只因家中贫苦，哥哥花自芳将奴卖与贾府为婢，"
+        },
+        {
+          "character": "袭人",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "派在宝二爷房下。我与他名为主仆，情似夫妻。每日同桌而食，同榻而卧，"
+        },
+        {
+          "character": "袭人",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "彼此十分亲爱，虽说那晴雯、麝月也是宝玉宠爱之人，究竟小奴两岁，事事不"
+        },
+        {
+          "character": "袭人",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "敢居大。其余仆妇、丫鬟俱要听我指使。我虽不是主人，却也与主人相仿。现"
+        },
+        {
+          "character": "袭人",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "在宝玉不在房中，独坐无聊，不免去到后房，和衣而卧，待宝玉回来，再与他"
+        },
+        {
+          "character": "袭人",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "嘘寒送暖便了。"
         },
         {
           "character": null,
@@ -1429,7 +1694,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "宝玉不会吃的，拿去给我孙子吃吧。\n坠儿，快点儿给我送去！"
+          "text": "宝玉不会吃的，拿去给我孙子吃吧。"
+        },
+        {
+          "character": "李嬷嬷",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "坠儿，快点儿给我送去！"
         },
         {
           "character": "坠儿",
@@ -1520,7 +1792,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "好啊，你叫我磨了多少墨，早起高兴，写了三个大字就跑啦。我等了这么半天，\n快来给我写完了这些墨吧。"
+          "text": "好啊，你叫我磨了多少墨，早起高兴，写了三个大字就跑啦。我等了这么半天，"
+        },
+        {
+          "character": "晴雯",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "快来给我写完了这些墨吧。"
         },
         {
           "character": "贾宝玉",
@@ -1534,7 +1813,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "不是贴在那上头了吗！你出的好主意，弄得我爬高上梯地好半天，手到这会儿\n还僵着哪！"
+          "text": "不是贴在那上头了吗！你出的好主意，弄得我爬高上梯地好半天，手到这会儿"
+        },
+        {
+          "character": "晴雯",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "还僵着哪！"
         },
         {
           "character": "贾宝玉",
@@ -1604,14 +1890,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "让她歇息歇息。早上我在那边吃饭，有一碗豆腐皮包子，我想你爱吃，就和珍\n大嫂说，叫她晚上派人送来，你看见无有？"
+          "text": "让她歇息歇息。早上我在那边吃饭，有一碗豆腐皮包子，我想你爱吃，就和珍"
+        },
+        {
+          "character": "贾宝玉",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "大嫂说，叫她晚上派人送来，你看见无有？"
         },
         {
           "character": "晴雯",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "快别提啦。一送来，我就知道是我的，偏巧才吃过了饭，就摆在桌上没吃。后\n来李奶奶来啦，她说你不吃这个，就叫茜雪送给她孙子去啦。"
+          "text": "快别提啦。一送来，我就知道是我的，偏巧才吃过了饭，就摆在桌上没吃。后"
+        },
+        {
+          "character": "晴雯",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来李奶奶来啦，她说你不吃这个，就叫茜雪送给她孙子去啦。"
         },
         {
           "character": "贾宝玉",
@@ -1667,7 +1967,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "她是你哪一门子的奶奶，你们这样孝敬她？我不过小时候吃过她几天奶儿，她\n仗着这点功劳，惯的像祖宗一样。这次非要赶她出去，大家才得干净！\n定儿，快给我拿风帽来，让我回老太太去呀。"
+          "text": "她是你哪一门子的奶奶，你们这样孝敬她？我不过小时候吃过她几天奶儿，她"
+        },
+        {
+          "character": "贾宝玉",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "仗着这点功劳，惯的像祖宗一样。这次非要赶她出去，大家才得干净！"
+        },
+        {
+          "character": "贾宝玉",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "定儿，快给我拿风帽来，让我回老太太去呀。"
         },
         {
           "character": null,
@@ -1688,7 +2002,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "袭人姐姐哪里知道，这李嬷嬷忒无道理，我与晴雯留的豆腐皮包子被她吃了；\n我自己留的枫露茶她也喝了。这不是欺负我么，我去回老太太，把她赶走。"
+          "text": "袭人姐姐哪里知道，这李嬷嬷忒无道理，我与晴雯留的豆腐皮包子被她吃了；"
+        },
+        {
+          "character": "贾宝玉",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我自己留的枫露茶她也喝了。这不是欺负我么，我去回老太太，把她赶走。"
         },
         {
           "character": "袭人",
@@ -1716,14 +2037,70 @@
           "line_type": "西皮流水板",
           "musical_style": "西皮流水板",
           "style_family": "西皮",
-          "text": "宝二爷作事太鲁莽，\n细听奴婢说端详：\n要知道乳母比亲娘。\n一盏香茗也不是琼浆。\n宽待乳母理应当。"
+          "text": "宝二爷作事太鲁莽，"
         },
         {
-          "character": "李奶奶虽然行无状、些许的食物原易办、奉劝二爷休要嚷、贾宝玉",
+          "character": "袭人",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "细听奴婢说端详："
+        },
+        {
+          "character": "袭人",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "要知道乳母比亲娘。"
+        },
+        {
+          "character": "袭人",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "一盏香茗也不是琼浆。"
+        },
+        {
+          "character": "袭人",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "宽待乳母理应当。"
+        },
+        {
+          "character": "袭人",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "李奶奶虽然行无状"
+        },
+        {
+          "character": "袭人",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "些许的食物原易办"
+        },
+        {
+          "character": "袭人",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "奉劝二爷休要嚷"
+        },
+        {
+          "character": "贾宝玉",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "袭人姐只哭得泪流面上，\n不由我贾宝玉心内暗伤。"
+          "text": "袭人姐只哭得泪流面上，"
+        },
+        {
+          "character": "贾宝玉",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "不由我贾宝玉心内暗伤。"
         },
         {
           "character": "袭人",
@@ -1885,7 +2262,17 @@
           "西皮摇板",
           "西皮流水"
         ]
-      }
+      },
+      "scene_feature": [
+        0.034,
+        0.1463,
+        0.8293,
+        0.0244,
+        0.642,
+        11,
+        0.122,
+        0.0
+      ]
     },
     {
       "scene_index": 4,
@@ -1910,7 +2297,7 @@
           "text": "（贾母上，鸳鸯随上。）"
         },
         {
-          "character": null,
+          "character": "贾母",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -2238,7 +2625,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.913,
+        9,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 5,
@@ -2355,7 +2752,17 @@
         "musical_styles": [
           "二黄摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.25,
+        0.2222,
+        0.6667,
+        0.1111,
+        0.625,
+        2,
+        0.0,
+        0.2222
+      ]
     },
     {
       "scene_index": 6,
@@ -2386,7 +2793,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "老身、贾门史氏。乃应天府人氏。配夫贾代善，早年已经亡故。留下两个孩儿，\n长子贾赦，次子贾政，都在朝中为官。还有几个孙儿、孙女，一个个读书识\n礼，绕膝承欢。我这家庭之中，倒也十分的快乐。今日乃是政儿五十生日，外\n来亲友必然不少，老身不善应酬，只好在此小坐。"
+          "text": "老身、贾门史氏。乃应天府人氏。配夫贾代善，早年已经亡故。留下两个孩儿，"
+        },
+        {
+          "character": "贾母",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "长子贾赦，次子贾政，都在朝中为官。还有几个孙儿、孙女，一个个读书识"
+        },
+        {
+          "character": "贾母",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "礼，绕膝承欢。我这家庭之中，倒也十分的快乐。今日乃是政儿五十生日，外"
+        },
+        {
+          "character": "贾母",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来亲友必然不少，老身不善应酬，只好在此小坐。"
         },
         {
           "character": null,
@@ -2476,7 +2904,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0909,
+        0.9091,
+        0.0,
+        0.6,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 7,
@@ -2498,7 +2936,7 @@
           "text": "（王熙凤、平儿同上。）"
         },
         {
-          "character": null,
+          "character": "平儿",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -2935,7 +3373,17 @@
           "西皮原板",
           "西皮导板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.171,
+        0.2045,
+        0.7273,
+        0.0682,
+        0.9302,
+        6,
+        0.2045,
+        0.0
+      ]
     },
     {
       "scene_index": 8,
@@ -3483,7 +3931,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.9091,
+        0.0909,
+        0.8889,
+        7,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 9,
@@ -3838,7 +4296,17 @@
           "西皮慢板",
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.115,
+        0.1944,
+        0.75,
+        0.0556,
+        0.6,
+        3,
+        0.1944,
+        0.0
+      ]
     },
     {
       "scene_index": 10,
@@ -4063,7 +4531,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.056,
+        0.0526,
+        0.7895,
+        0.1579,
+        0.8889,
+        4,
+        0.0526,
+        0.0
+      ]
     },
     {
       "scene_index": 11,
@@ -4431,7 +4909,17 @@
         "singing_ratio": 0.034,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.034,
+        0.0606,
+        0.8182,
+        0.1212,
+        0.8438,
+        6,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 12,
@@ -4688,7 +5176,17 @@
         "singing_ratio": 0.048,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.048,
+        0.0435,
+        0.913,
+        0.0435,
+        0.9091,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 13,
@@ -4703,28 +5201,28 @@
           "text": "（四太监、四宫女引贾元春同上。）"
         },
         {
-          "character": null,
+          "character": "贾元春",
           "line_type": "念",
           "musical_style": null,
           "style_family": null,
           "text": "镜里春浓理晓状，仙风吹下御炉香。殊容不假胭脂染，常得君王带笑旁。"
         },
         {
-          "character": null,
+          "character": "贾元春",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
           "text": "本宫、贾氏元春。乃员外郎贾政之女，荣国公代善之孙。早年被选入宫，充当"
         },
         {
-          "character": null,
+          "character": "贾元春",
           "line_type": "念",
           "musical_style": null,
           "style_family": null,
           "text": "至尊以孝治天下，薄海同沾雨露恩。"
         },
         {
-          "character": null,
+          "character": "贾元春",
           "line_type": "二黄快三眼",
           "musical_style": "二黄快三眼",
           "style_family": "二黄",
@@ -4748,7 +5246,17 @@
         "musical_styles": [
           "二黄"
         ]
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 14,
@@ -5313,7 +5821,17 @@
           "西皮导板",
           "西皮慢板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.2,
+        0.2264,
+        0.717,
+        0.0566,
+        0.9231,
+        9,
+        0.0566,
+        0.0
+      ]
     },
     {
       "scene_index": 15,
@@ -5854,7 +6372,17 @@
           "西皮摇板",
           "西皮流水"
         ]
-      }
+      },
+      "scene_feature": [
+        0.038,
+        0.0877,
+        0.7719,
+        0.1404,
+        0.8036,
+        7,
+        0.0702,
+        0.0
+      ]
     },
     {
       "scene_index": 16,
@@ -6011,7 +6539,17 @@
         "singing_ratio": 0.1,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.1,
+        0.0833,
+        0.6667,
+        0.25,
+        0.7273,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 17,
@@ -6089,7 +6627,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 18,
@@ -6276,7 +6824,17 @@
         "singing_ratio": 0.111,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.111,
+        0.1818,
+        0.7273,
+        0.0909,
+        0.8,
+        4,
+        0.0,
+        0.0
+      ]
     }
   ]
 }

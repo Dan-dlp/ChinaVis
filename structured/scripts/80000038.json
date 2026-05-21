@@ -178,7 +178,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -524,7 +534,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "哎是。\n来来来！"
+          "text": "哎是。"
+        },
+        {
+          "character": "薛旗牌",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来来来！"
         },
         {
           "character": null,
@@ -573,7 +590,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "哎，是啦。\n哎呀，一个儿不认识呀，甭说跟我一个长相那个。嘿嘿。"
+          "text": "哎，是啦。"
+        },
+        {
+          "character": "薛旗牌",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "哎呀，一个儿不认识呀，甭说跟我一个长相那个。嘿嘿。"
         },
         {
           "character": null,
@@ -1392,7 +1416,21 @@
           "line_type": "西皮原板",
           "musical_style": "西皮原板",
           "style_family": "西皮",
-          "text": "为父修书到关前，\n晓谕长子薛丁山：\n被贼围困在西番。"
+          "text": "为父修书到关前，"
+        },
+        {
+          "character": "薛金莲",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "晓谕长子薛丁山："
+        },
+        {
+          "character": "薛金莲",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "被贼围困在西番。"
         },
         {
           "character": "薛金莲",
@@ -1511,7 +1549,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "我问问你：圣上在锁阳关遭困，老元戎在白虎关被围，叫你发兵即刻救驾。你\n怎么这么佯佯不睬的哪。"
+          "text": "我问问你：圣上在锁阳关遭困，老元戎在白虎关被围，叫你发兵即刻救驾。你"
+        },
+        {
+          "character": "薛金莲",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "怎么这么佯佯不睬的哪。"
         },
         {
           "character": "樊梨花",
@@ -1581,7 +1626,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "早来三天还可见，迟来三天不团圆。叫你呢，跟我哥哥即刻发兵，你呀，跟我\n这么大大咧咧的。"
+          "text": "早来三天还可见，迟来三天不团圆。叫你呢，跟我哥哥即刻发兵，你呀，跟我"
+        },
+        {
+          "character": "薛金莲",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "这么大大咧咧的。"
         },
         {
           "character": "樊梨花",
@@ -1609,7 +1661,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "想当初你跟我哥哥，你们俩人怎么回事情我也知道。现在哪，我哥哥他，他、\n他、他、他大概是有了胡子了，你是不爱他，你就是跟我过不去！"
+          "text": "想当初你跟我哥哥，你们俩人怎么回事情我也知道。现在哪，我哥哥他，他、"
+        },
+        {
+          "character": "薛金莲",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "他、他、他大概是有了胡子了，你是不爱他，你就是跟我过不去！"
         },
         {
           "character": "樊梨花",
@@ -1623,7 +1682,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "樊梨花樊梨花我告诉你说！当初都由你，今儿个有你姑奶奶在此，只怕由得我，\n由不得你吧！"
+          "text": "樊梨花樊梨花我告诉你说！当初都由你，今儿个有你姑奶奶在此，只怕由得我，"
+        },
+        {
+          "character": "薛金莲",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "由不得你吧！"
         },
         {
           "character": "樊梨花",
@@ -1742,7 +1808,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "当今圣上叫我“姑娘”，阖府大大小小，哪个都称呼我“姑娘”，何劳你嘚儿\n臭奉承了呢。"
+          "text": "当今圣上叫我“姑娘”，阖府大大小小，哪个都称呼我“姑娘”，何劳你嘚儿"
+        },
+        {
+          "character": "薛金莲",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "臭奉承了呢。"
         },
         {
           "character": "樊梨花",
@@ -1903,7 +1976,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "听着吧你！听着吧你！我曾拜梨山老母为师，习学兵法武艺，投唐以来，圣上\n见喜，封我威宁侯之职，镇守樊江关，天下都招讨兵马大元帅，你，又是嘚儿\n谁呀。"
+          "text": "听着吧你！听着吧你！我曾拜梨山老母为师，习学兵法武艺，投唐以来，圣上"
+        },
+        {
+          "character": "樊梨花",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "见喜，封我威宁侯之职，镇守樊江关，天下都招讨兵马大元帅，你，又是嘚儿"
+        },
+        {
+          "character": "樊梨花",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "谁呀。"
         },
         {
           "character": "薛金莲",
@@ -2008,7 +2095,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "可是我说不出来，我是个督粮官我说什么呀。镇守铁……也别管怎么说，任凭\n怎么说……我我我……"
+          "text": "可是我说不出来，我是个督粮官我说什么呀。镇守铁……也别管怎么说，任凭"
+        },
+        {
+          "character": "薛金莲",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "怎么说……我我我……"
         },
         {
           "character": "樊梨花",
@@ -2132,7 +2226,17 @@
           "西皮原板",
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.008,
+        0.0305,
+        0.9695,
+        0.0,
+        0.8889,
+        4,
+        0.0305,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -2154,7 +2258,14 @@
           "line_type": "西皮散板",
           "musical_style": "西皮散板",
           "style_family": "西皮",
-          "text": "奉命来到樊江关，\n心神不宁为哪般？"
+          "text": "奉命来到樊江关，"
+        },
+        {
+          "character": "柳迎春",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "心神不宁为哪般？"
         },
         {
           "character": null,
@@ -2213,7 +2324,17 @@
         "musical_styles": [
           "西皮散板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.25,
+        0.4,
+        0.6,
+        0.0,
+        0.75,
+        2,
+        0.4,
+        0.0
+      ]
     },
     {
       "scene_index": 4,
@@ -3238,7 +3359,17 @@
           "西皮摇板",
           "西皮流水"
         ]
-      }
+      },
+      "scene_feature": [
+        0.026,
+        0.0569,
+        0.9431,
+        0.0,
+        0.8852,
+        5,
+        0.0569,
+        0.0
+      ]
     }
   ]
 }

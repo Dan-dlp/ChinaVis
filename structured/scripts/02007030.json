@@ -71,14 +71,14 @@
           "text": "（大瘟神上，拉挑。）"
         },
         {
-          "character": null,
+          "character": "大瘟神",
           "line_type": "念",
           "musical_style": null,
           "style_family": null,
           "text": "咱是西方一魔头，乍寒乍热把筋抽。怎奈恶妇真无礼，这番叫她一命休！"
         },
         {
-          "character": null,
+          "character": "大瘟神",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -286,7 +286,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.9167,
+        3,
+        0.0,
+        0.0
+      ]
     }
   ]
 }

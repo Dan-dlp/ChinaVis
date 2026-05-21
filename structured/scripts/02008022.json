@@ -129,7 +129,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "老夫，杨滚。扶保刘王。官居极品，位列朝班。今早主公传下旨意，道赵匡胤\n私下燕京，行刺我主。老夫奉旨把守禁城东门。张挂图形，捉拿刺客匡胤。\n嘟，众军校校尉，打道上关。"
+          "text": "老夫，杨滚。扶保刘王。官居极品，位列朝班。今早主公传下旨意，道赵匡胤"
+        },
+        {
+          "character": "杨滚",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "私下燕京，行刺我主。老夫奉旨把守禁城东门。张挂图形，捉拿刺客匡胤。"
+        },
+        {
+          "character": "杨滚",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "嘟，众军校校尉，打道上关。"
         },
         {
           "character": null,
@@ -147,7 +161,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.2,
+        0.6,
+        0.2,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -169,21 +193,49 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "经营贸易他乡奔，\n心怀慈亲转家门。"
-        },
-        {
-          "character": "曹仁",
-          "line_type": "白",
-          "musical_style": null,
-          "style_family": null,
-          "text": "俺，曹仁。先父去世，老母在堂。兄弟曹义，在朝居官。俺平生喜走江湖，今\n三江贸易，得利而归家庭探母。看天色尚早，前面已是燕京东门。不免打马归\n家便了。"
+          "text": "经营贸易他乡奔，"
         },
         {
           "character": "曹仁",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "别却家乡日已深，\n千里迢迢少信音。"
+          "text": "心怀慈亲转家门。"
+        },
+        {
+          "character": "曹仁",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "俺，曹仁。先父去世，老母在堂。兄弟曹义，在朝居官。俺平生喜走江湖，今"
+        },
+        {
+          "character": "曹仁",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "三江贸易，得利而归家庭探母。看天色尚早，前面已是燕京东门。不免打马归"
+        },
+        {
+          "character": "曹仁",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "家便了。"
+        },
+        {
+          "character": "曹仁",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "别却家乡日已深，"
+        },
+        {
+          "character": "曹仁",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "千里迢迢少信音。"
         },
         {
           "character": "曹仁",
@@ -250,7 +302,17 @@
         "singing_ratio": 0.667,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.667,
+        0.4545,
+        0.5455,
+        0.0,
+        0.1,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -314,7 +376,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "你我弟兄，奉旨把守南北二门。今闻伯父崔龙，在西门拿住刺客匡胤，不知真\n假。"
+          "text": "你我弟兄，奉旨把守南北二门。今闻伯父崔龙，在西门拿住刺客匡胤，不知真"
+        },
+        {
+          "character": "高怀德",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "假。"
         },
         {
           "character": "高怀亮",
@@ -379,7 +448,17 @@
         "singing_ratio": 0.333,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.333,
+        0.3077,
+        0.6923,
+        0.0,
+        0.9167,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 4,
@@ -420,7 +499,35 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "孤，刘化王。承父之大业，坐守燕京，这也不在话下。那个又在话上。近臣奏\n道，仰观天象，说赤须火龙压住孤的星相，才算出是刺客赵匡胤，要私下燕京，\n要摘孤的龙头。不知老天绝我不绝。已命众卿画影图形，守住禁城。捉拿刺\n客赵匡胤，还未见交旨。\n内侍，闪放龙棚。"
+          "text": "孤，刘化王。承父之大业，坐守燕京，这也不在话下。那个又在话上。近臣奏"
+        },
+        {
+          "character": "刘化王",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "道，仰观天象，说赤须火龙压住孤的星相，才算出是刺客赵匡胤，要私下燕京，"
+        },
+        {
+          "character": "刘化王",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "要摘孤的龙头。不知老天绝我不绝。已命众卿画影图形，守住禁城。捉拿刺"
+        },
+        {
+          "character": "刘化王",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "客赵匡胤，还未见交旨。"
+        },
+        {
+          "character": "刘化王",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "内侍，闪放龙棚。"
         },
         {
           "character": "大太监",
@@ -644,7 +751,14 @@
           "line_type": "同白",
           "musical_style": null,
           "style_family": null,
-          "text": "领旨！\n下面听者，大王有旨：将刺客赵匡胤押上殿来。"
+          "text": "领旨！"
+        },
+        {
+          "character": "杨滚、崔龙",
+          "line_type": "同白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "下面听者，大王有旨：将刺客赵匡胤押上殿来。"
         },
         {
           "character": null,
@@ -756,14 +870,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "咳，你们二位真是老糊涂了。曹义的哥哥叫曹仁，把曹义宣来。叫他认认么，\n就明白了。费这们大事做什么？"
+          "text": "咳，你们二位真是老糊涂了。曹义的哥哥叫曹仁，把曹义宣来。叫他认认么，"
+        },
+        {
+          "character": "刘化王",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "就明白了。费这们大事做什么？"
         },
         {
           "character": "杨滚",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "大王之见不差，臣领旨。\n大王有旨：宣曹义上殿。"
+          "text": "大王之见不差，臣领旨。"
+        },
+        {
+          "character": "杨滚",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "大王有旨：宣曹义上殿。"
         },
         {
           "character": "曹义",
@@ -812,7 +940,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "他是这们件事情：杨老千岁在东门拿来一个刺客匡胤，崔大人在西门拿来一个\n刺客匡胤。方才孤家审问，两个都是曹仁。闹不清楚。宣卿上殿。曹仁是你胞\n兄，自然你总认得明白。"
+          "text": "他是这们件事情：杨老千岁在东门拿来一个刺客匡胤，崔大人在西门拿来一个"
+        },
+        {
+          "character": "刘化王",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "刺客匡胤。方才孤家审问，两个都是曹仁。闹不清楚。宣卿上殿。曹仁是你胞"
+        },
+        {
+          "character": "刘化王",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "兄，自然你总认得明白。"
         },
         {
           "character": "曹义",
@@ -882,7 +1024,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "这二人一样，皂白难分。启奏大王：臣认不出真假。臣将二人带回家去，有老\n少人等，认明回奏。"
+          "text": "这二人一样，皂白难分。启奏大王：臣认不出真假。臣将二人带回家去，有老"
+        },
+        {
+          "character": "曹义",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "少人等，认明回奏。"
         },
         {
           "character": "刘化王",
@@ -903,7 +1052,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "主公驾前领圣命，\n丹墀吩咐御林军："
+          "text": "主公驾前领圣命，"
+        },
+        {
+          "character": "曹义",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "丹墀吩咐御林军："
         },
         {
           "character": null,
@@ -931,7 +1087,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "曹府去把二人问，\n时下皂白要分清。"
+          "text": "曹府去把二人问，"
+        },
+        {
+          "character": "杨滚",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "时下皂白要分清。"
         },
         {
           "character": null,
@@ -945,7 +1108,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "辨不出曹仁与匡胤，\n空费忠勤一片心。"
+          "text": "辨不出曹仁与匡胤，"
+        },
+        {
+          "character": "崔龙",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "空费忠勤一片心。"
         },
         {
           "character": null,
@@ -959,7 +1129,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "清天白日如梦景，\n两个匡胤都叫曹仁。"
+          "text": "清天白日如梦景，"
+        },
+        {
+          "character": "刘化王",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "两个匡胤都叫曹仁。"
         },
         {
           "character": "刘化王",
@@ -1096,7 +1273,17 @@
         "singing_ratio": 0.079,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.079,
+        0.1264,
+        0.8276,
+        0.046,
+        0.686,
+        8,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 5,
@@ -1127,7 +1314,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "众家护送到府门，\n此事须当要问明。"
+          "text": "众家护送到府门，"
+        },
+        {
+          "character": "曹义",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "此事须当要问明。"
         },
         {
           "character": "曹义",
@@ -1330,59 +1524,297 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "人生天地立乾坤，\n豪杰到处可存身。\n何须假冒姓与名？"
+          "text": "人生天地立乾坤，"
         },
         {
-          "character": "祸福吉凶全由命、赵匡胤",
+          "character": "曹仁",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "豪杰到处可存身。"
+        },
+        {
+          "character": "曹仁",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "何须假冒姓与名？"
+        },
+        {
+          "character": "曹仁",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "祸福吉凶全由命"
+        },
+        {
+          "character": "赵匡胤",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
           "text": "吓！"
         },
         {
-          "character": "祸福吉凶全由命、赵匡胤",
+          "character": "赵匡胤",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "祸福吉凶全由命"
+        },
+        {
+          "character": "赵匡胤",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "出言刚强英雄论，\n玄郎似非等闲人。\n机缘一段与曹仁。\n道俺怕死与贪生。\n到处闻俺谁不尊。\n单人独自我要刺刘君。"
+          "text": "出言刚强英雄论，"
         },
         {
-          "character": "私下燕京身遭困、若是弟把兄来认、关西一带知名姓、俺姓赵表玄郎字匡胤、曹义",
+          "character": "赵匡胤",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "玄郎似非等闲人。"
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "机缘一段与曹仁。"
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "道俺怕死与贪生。"
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "到处闻俺谁不尊。"
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "单人独自我要刺刘君。"
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "私下燕京身遭困"
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "若是弟把兄来认"
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "关西一带知名姓"
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "俺姓赵表玄郎字匡胤"
+        },
+        {
+          "character": "曹义",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
           "text": "吓！"
         },
         {
-          "character": "私下燕京身遭困、若是弟把兄来认、关西一带知名姓、俺姓赵表玄郎字匡胤、曹义",
+          "character": "曹义",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "私下燕京身遭困"
+        },
+        {
+          "character": "曹义",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "若是弟把兄来认"
+        },
+        {
+          "character": "曹义",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "关西一带知名姓"
+        },
+        {
+          "character": "曹义",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "俺姓赵表玄郎字匡胤"
+        },
+        {
+          "character": "曹义",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "听他说出真名姓，\n倒把曹义心下惊。\n丈夫岂能逆天行？"
+          "text": "听他说出真名姓，"
         },
         {
-          "character": "私下燕京身遭困、若是弟把兄来认、关西一带知名姓、俺姓赵表玄郎字匡胤、曹义",
+          "character": "曹义",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "倒把曹义心下惊。"
+        },
+        {
+          "character": "曹义",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "丈夫岂能逆天行？"
+        },
+        {
+          "character": "曹义",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "私下燕京身遭困"
+        },
+        {
+          "character": "曹义",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "若是弟把兄来认"
+        },
+        {
+          "character": "曹义",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "关西一带知名姓"
+        },
+        {
+          "character": "曹义",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "俺姓赵表玄郎字匡胤"
+        },
+        {
+          "character": "曹义",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
           "text": "仁兄受惊了！"
         },
         {
-          "character": "私下燕京身遭困、若是弟把兄来认、关西一带知名姓、俺姓赵表玄郎字匡胤、曹义",
+          "character": "曹义",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "私下燕京身遭困"
+        },
+        {
+          "character": "曹义",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "若是弟把兄来认"
+        },
+        {
+          "character": "曹义",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "关西一带知名姓"
+        },
+        {
+          "character": "曹义",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "俺姓赵表玄郎字匡胤"
+        },
+        {
+          "character": "曹义",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
           "text": "小弟不知兄受惊。"
         },
         {
-          "character": "私下燕京身遭困、若是弟把兄来认、关西一带知名姓、俺姓赵表玄郎字匡胤、曹义",
+          "character": "曹义",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "私下燕京身遭困"
+        },
+        {
+          "character": "曹义",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "若是弟把兄来认"
+        },
+        {
+          "character": "曹义",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "关西一带知名姓"
+        },
+        {
+          "character": "曹义",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "俺姓赵表玄郎字匡胤"
+        },
+        {
+          "character": "曹义",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
           "text": "赵仁兄。"
         },
         {
-          "character": "人道玄郎有天运、走向前来忙松捆、曹仁、曹义",
+          "character": "曹义",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "人道玄郎有天运"
+        },
+        {
+          "character": "曹义",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "走向前来忙松捆"
+        },
+        {
+          "character": "曹义",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "曹仁"
+        },
+        {
+          "character": "曹义",
           "line_type": "同白",
           "musical_style": null,
           "style_family": null,
@@ -1442,10 +1874,31 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "此番深蒙弟兄情，\n保救玄郎一满门。\n犬马相报你弟兄恩。"
+          "text": "此番深蒙弟兄情，"
         },
         {
-          "character": "若得大事成功定、曹义",
+          "character": "赵匡胤",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "保救玄郎一满门。"
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "犬马相报你弟兄恩。"
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "若得大事成功定"
+        },
+        {
+          "character": "曹义",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
@@ -1500,7 +1953,17 @@
         "musical_styles": [
           "西皮导板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.459,
+        0.5882,
+        0.4118,
+        0.0,
+        0.4048,
+        4,
+        0.0235,
+        0.0
+      ]
     },
     {
       "scene_index": 6,
@@ -1585,7 +2048,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "须见城中真实信，\n齐心好去论英雄。"
+          "text": "须见城中真实信，"
+        },
+        {
+          "character": "张光远",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "齐心好去论英雄。"
         },
         {
           "character": null,
@@ -1614,7 +2084,17 @@
         "singing_ratio": 0.222,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.222,
+        0.3636,
+        0.6364,
+        0.0,
+        0.8,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 7,
@@ -1642,7 +2122,21 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "夜至三更睡昏沉，\n一片红光照孤身。\n杀却此人除祸根。"
+          "text": "夜至三更睡昏沉，"
+        },
+        {
+          "character": "刘化王",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "一片红光照孤身。"
+        },
+        {
+          "character": "刘化王",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "杀却此人除祸根。"
         },
         {
           "character": null,
@@ -1656,7 +2150,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "暗中机谋已定准，\n主公驾前奏分明。"
+          "text": "暗中机谋已定准，"
+        },
+        {
+          "character": "崔龙",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "主公驾前奏分明。"
         },
         {
           "character": "崔龙",
@@ -1691,7 +2192,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "臣在曹府打探，曹义未曾审明。臣在家中拷打胡驴儿，他言道赵匡胤左膀之上，\n有一硃砂肉球。大王亲自观看，便知真假。"
+          "text": "臣在曹府打探，曹义未曾审明。臣在家中拷打胡驴儿，他言道赵匡胤左膀之上，"
+        },
+        {
+          "character": "崔龙",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "有一硃砂肉球。大王亲自观看，便知真假。"
         },
         {
           "character": "刘化王",
@@ -1705,7 +2213,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "领旨。\n大王有旨：众王侯披挂，将两个刺客，押上殿来。"
+          "text": "领旨。"
+        },
+        {
+          "character": "崔龙",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "大王有旨：众王侯披挂，将两个刺客，押上殿来。"
         },
         {
           "character": null,
@@ -1747,7 +2262,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "押上一旁，这又奇了。\n启奏大王：闻得匡胤，武艺高强，大王命他二人殿前比武，胜者便是匡胤。"
+          "text": "押上一旁，这又奇了。"
+        },
+        {
+          "character": "崔龙",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "启奏大王：闻得匡胤，武艺高强，大王命他二人殿前比武，胜者便是匡胤。"
         },
         {
           "character": "刘化王",
@@ -1768,7 +2290,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "孤看你二人，必然武艺高强。在殿前演习演习，孤王观看，谁打的好，孤王重\n重的赏。"
+          "text": "孤看你二人，必然武艺高强。在殿前演习演习，孤王观看，谁打的好，孤王重"
+        },
+        {
+          "character": "刘化王",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "重的赏。"
         },
         {
           "character": null,
@@ -1782,7 +2311,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "是吓，带了刑具怎么打呢？\n来，去了刑具。"
+          "text": "是吓，带了刑具怎么打呢？"
+        },
+        {
+          "character": "刘化王",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来，去了刑具。"
         },
         {
           "character": "赵匡胤、曹仁",
@@ -1894,7 +2430,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "要刀，有吓。\n内侍，拿两把钢刀来。"
+          "text": "要刀，有吓。"
+        },
+        {
+          "character": "刘化王",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "内侍，拿两把钢刀来。"
         },
         {
           "character": "赵匡胤、曹仁",
@@ -1981,7 +2524,17 @@
         "singing_ratio": 0.059,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.059,
+        0.1136,
+        0.8864,
+        0.0,
+        0.7442,
+        7,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 8,
@@ -2072,7 +2625,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.2,
+        0.8,
+        0.0,
+        0.75,
+        4,
+        0.0,
+        0.0
+      ]
     }
   ]
 }

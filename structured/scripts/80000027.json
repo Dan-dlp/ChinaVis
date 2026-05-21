@@ -199,7 +199,35 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "俺，刘备。自桃园结拜以来，常思恢复汉室。不幸征曹事败，暂投荆州刘表，\n屯居新野小县，待时而动。前者徐庶先生临行之时，推荐襄阳城外卧龙岗上有\n一贤士，复姓诸葛名亮字孔明，道号卧龙，此人有经天纬地之才。我意欲请他\n下山，共图大事。\n来！"
+          "text": "俺，刘备。自桃园结拜以来，常思恢复汉室。不幸征曹事败，暂投荆州刘表，"
+        },
+        {
+          "character": "刘备",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "屯居新野小县，待时而动。前者徐庶先生临行之时，推荐襄阳城外卧龙岗上有"
+        },
+        {
+          "character": "刘备",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "一贤士，复姓诸葛名亮字孔明，道号卧龙，此人有经天纬地之才。我意欲请他"
+        },
+        {
+          "character": "刘备",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "下山，共图大事。"
+        },
+        {
+          "character": "刘备",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来！"
         },
         {
           "character": "二旗牌",
@@ -220,7 +248,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "是！\n有请二将军、三将军！"
+          "text": "是！"
+        },
+        {
+          "character": "旗牌",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "有请二将军、三将军！"
         },
         {
           "character": null,
@@ -290,14 +325,35 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "只因前者徐庶先生临行之时，推荐襄阳城外卧龙岗上有一贤士，复姓诸葛名亮\n字孔明，道号卧龙，此人有经天纬地之才。我意欲请他下山，共图大事。不知\n二位贤弟意下如何？"
+          "text": "只因前者徐庶先生临行之时，推荐襄阳城外卧龙岗上有一贤士，复姓诸葛名亮"
+        },
+        {
+          "character": "刘备",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "字孔明，道号卧龙，此人有经天纬地之才。我意欲请他下山，共图大事。不知"
+        },
+        {
+          "character": "刘备",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "二位贤弟意下如何？"
         },
         {
           "character": "张飞",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "啊！大哥！想那孔明乃一山野村夫，何必大哥亲自前往？待小弟差人将他唤来\n就是！"
+          "text": "啊！大哥！想那孔明乃一山野村夫，何必大哥亲自前往？待小弟差人将他唤来"
+        },
+        {
+          "character": "张飞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "就是！"
         },
         {
           "character": "刘备",
@@ -346,7 +402,14 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "元直先生对我言，\n卧龙、凤雏二英贤。"
+          "text": "元直先生对我言，"
+        },
+        {
+          "character": "刘备",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "卧龙、凤雏二英贤。"
         },
         {
           "character": null,
@@ -406,7 +469,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.105,
+        0.129,
+        0.7742,
+        0.0968,
+        0.5667,
+        6,
+        0.0968,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -468,24 +541,59 @@
           "line_type": "同唱",
           "musical_style": null,
           "style_family": null,
-          "text": "世人皆走名利路，\n利锁名牵俱网缚。\n陆地如棋局。\n往来争荣辱。\n辱者自碌碌。\n高卧眠不足。"
+          "text": "世人皆走名利路，"
         },
         {
-          "character": "苍天如圆盖、世人黑白分、荣者自安安、南阳有隐居、刘备",
+          "character": "二农夫",
+          "line_type": "同唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "利锁名牵俱网缚。"
+        },
+        {
+          "character": "二农夫",
+          "line_type": "同唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "陆地如棋局。"
+        },
+        {
+          "character": "二农夫",
+          "line_type": "同唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "往来争荣辱。"
+        },
+        {
+          "character": "二农夫",
+          "line_type": "同唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "辱者自碌碌。"
+        },
+        {
+          "character": "二农夫",
+          "line_type": "同唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "高卧眠不足。\n苍天如圆盖\n世人黑白分\n荣者自安安\n南阳有隐居"
+        },
+        {
+          "character": "刘备",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "呀！"
+          "text": "呀！\n苍天如圆盖\n世人黑白分\n荣者自安安\n南阳有隐居"
         },
         {
-          "character": "苍天如圆盖、世人黑白分、荣者自安安、南阳有隐居、刘备",
+          "character": "刘备",
           "line_type": "西皮散板",
           "musical_style": "西皮散板",
           "style_family": "西皮",
-          "text": "又听农夫山歌声。"
+          "text": "又听农夫山歌声。\n苍天如圆盖\n世人黑白分\n荣者自安安\n南阳有隐居"
         },
         {
-          "character": "苍天如圆盖、世人黑白分、荣者自安安、南阳有隐居、刘备",
+          "character": "刘备",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -510,7 +618,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "遵命！\n喂！农夫哥请了！"
+          "text": "遵命！"
+        },
+        {
+          "character": "张飞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "喂！农夫哥请了！"
         },
         {
           "character": "二农夫",
@@ -797,7 +912,14 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "三弟他把路径问，\n先生高卧在前村。"
+          "text": "三弟他把路径问，"
+        },
+        {
+          "character": "刘备",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "先生高卧在前村。"
         },
         {
           "character": null,
@@ -839,7 +961,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "好！\n门上有人么？"
+          "text": "好！"
+        },
+        {
+          "character": "张飞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "门上有人么？"
         },
         {
           "character": "书童",
@@ -860,7 +989,14 @@
           "line_type": "数板",
           "musical_style": null,
           "style_family": null,
-          "text": "襄阳城西二十里，卧龙岗上隐高期。不图名来不图利，哪管闲事和他非。茅庐\n半掩卧不起，专等春雷惊梦回。有朝一日时运到，施展奇才定华夷，定华夷。"
+          "text": "襄阳城西二十里，卧龙岗上隐高期。不图名来不图利，哪管闲事和他非。茅庐"
+        },
+        {
+          "character": "书童",
+          "line_type": "数板",
+          "musical_style": null,
+          "style_family": null,
+          "text": "半掩卧不起，专等春雷惊梦回。有朝一日时运到，施展奇才定华夷，定华夷。"
         },
         {
           "character": "书童",
@@ -916,7 +1052,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "好！往里通禀：汉左将军、宜城亭侯、领豫州牧，皇叔刘备，特来……嘿嘿！\n拜访！"
+          "text": "好！往里通禀：汉左将军、宜城亭侯、领豫州牧，皇叔刘备，特来……嘿嘿！"
+        },
+        {
+          "character": "张飞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "拜访！"
         },
         {
           "character": "书童",
@@ -1028,7 +1171,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "啊！大哥！先生既不在庄上，你我弟兄暂且回去。差人前来，探听先生归期之\n日，你我弟兄再来！"
+          "text": "啊！大哥！先生既不在庄上，你我弟兄暂且回去。差人前来，探听先生归期之"
+        },
+        {
+          "character": "关羽",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "日，你我弟兄再来！"
         },
         {
           "character": "张飞",
@@ -1042,7 +1192,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "哎！也好！也好！\n啊，书童！"
+          "text": "哎！也好！也好！"
+        },
+        {
+          "character": "刘备",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "啊，书童！"
         },
         {
           "character": "书童",
@@ -1070,10 +1227,45 @@
           "line_type": "西皮流水板",
           "musical_style": "西皮流水板",
           "style_family": "西皮",
-          "text": "开言我对书童讲，\n几句言语记心旁：\n二来是德薄难见贤良。\n望先生赐见我细说衷肠。"
+          "text": "开言我对书童讲，"
         },
         {
-          "character": "一则是今日来得太鲁莽、改日诚心再拜访、书童",
+          "character": "刘备",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "几句言语记心旁："
+        },
+        {
+          "character": "刘备",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "二来是德薄难见贤良。"
+        },
+        {
+          "character": "刘备",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "望先生赐见我细说衷肠。"
+        },
+        {
+          "character": "刘备",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "一则是今日来得太鲁莽"
+        },
+        {
+          "character": "刘备",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "改日诚心再拜访"
+        },
+        {
+          "character": "书童",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -1147,7 +1339,14 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "生逢乱世且高隐，\n祸福于我如浮云。"
+          "text": "生逢乱世且高隐，"
+        },
+        {
+          "character": "崔州平",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "祸福于我如浮云。"
         },
         {
           "character": "刘备",
@@ -1210,14 +1409,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "将军欲平天下之乱，虽有仁义之心，但当今天下纷乱，群雄各据一方。将军欲\n使孔明扭转乾坤，深恐不易，枉费心力耳！"
+          "text": "将军欲平天下之乱，虽有仁义之心，但当今天下纷乱，群雄各据一方。将军欲"
+        },
+        {
+          "character": "崔州平",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "使孔明扭转乾坤，深恐不易，枉费心力耳！"
         },
         {
           "character": "刘备",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "先生之言，诚为高见。怎奈刘备身为汉室宗亲，理当恢复汉室。至于“成败”\n二字，在所不计也！"
+          "text": "先生之言，诚为高见。怎奈刘备身为汉室宗亲，理当恢复汉室。至于“成败”"
+        },
+        {
+          "character": "刘备",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "二字，在所不计也！"
         },
         {
           "character": "崔州平",
@@ -1329,7 +1542,14 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "访贤未遇空惆怅，\n他日再来卧龙岗。"
+          "text": "访贤未遇空惆怅，"
+        },
+        {
+          "character": "刘备",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "他日再来卧龙岗。"
         },
         {
           "character": null,
@@ -1452,7 +1672,17 @@
           "西皮散板",
           "西皮流水板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.088,
+        0.2057,
+        0.7943,
+        0.0,
+        0.7929,
+        9,
+        0.1489,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -1479,7 +1709,14 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "避乱隐居在山林，\n治乱二字不关心。"
+          "text": "避乱隐居在山林，"
+        },
+        {
+          "character": "石广元",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "治乱二字不关心。"
         },
         {
           "character": null,
@@ -1535,7 +1772,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "啊！贤弟！今日天降大雪，愚兄特地前来，与你去到酒楼沽饮几杯，赏雪吟诗，\n不知意下如何？"
+          "text": "啊！贤弟！今日天降大雪，愚兄特地前来，与你去到酒楼沽饮几杯，赏雪吟诗，"
+        },
+        {
+          "character": "孟公威",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "不知意下如何？"
         },
         {
           "character": "石广元",
@@ -1598,7 +1842,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "哦！来此已是酒馆。\n酒保！"
+          "text": "哦！来此已是酒馆。"
+        },
+        {
+          "character": "孟公威",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "酒保！"
         },
         {
           "character": null,
@@ -1661,7 +1912,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "哎！是啦！\n哎！伙计们！"
+          "text": "哎！是啦！"
+        },
+        {
+          "character": "酒保",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "哎！伙计们！"
         },
         {
           "character": null,
@@ -1808,10 +2066,24 @@
           "line_type": "西皮原板",
           "musical_style": "西皮原板",
           "style_family": "西皮",
-          "text": "道窄山高行路艰难。\n又见梅花开满山。"
+          "text": "道窄山高行路艰难。"
         },
         {
-          "character": "清晨冒雪隆中往、关羽",
+          "character": "刘备",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "又见梅花开满山。"
+        },
+        {
+          "character": "刘备",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "清晨冒雪隆中往"
+        },
+        {
+          "character": "关羽",
           "line_type": "西皮原板",
           "musical_style": "西皮原板",
           "style_family": "西皮",
@@ -1871,7 +2143,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "好好好！\n酒保！"
+          "text": "好好好！"
+        },
+        {
+          "character": "张飞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "酒保！"
         },
         {
           "character": "酒保",
@@ -1955,7 +2234,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "哎！是啦！\n伙计们！"
+          "text": "哎！是啦！"
+        },
+        {
+          "character": "酒保",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "伙计们！"
         },
         {
           "character": null,
@@ -2123,7 +2409,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "哎呀！哦、有姓石的，有姓孟的，还有什么姓诸葛的，常来常往。有几位哪，\n我都记不清楚啦！哈哈！"
+          "text": "哎呀！哦、有姓石的，有姓孟的，还有什么姓诸葛的，常来常往。有几位哪，"
+        },
+        {
+          "character": "酒保",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我都记不清楚啦！哈哈！"
         },
         {
           "character": "刘备",
@@ -2193,14 +2486,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "嘿！大哥！若不是小弟想要饮酒，你我弟兄冒着风雪，赶到隆中，哎！也不过\n是看看茅庐而已呀！"
+          "text": "嘿！大哥！若不是小弟想要饮酒，你我弟兄冒着风雪，赶到隆中，哎！也不过"
+        },
+        {
+          "character": "张飞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "是看看茅庐而已呀！"
         },
         {
           "character": "刘备",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "哎呀呀！若不是三弟要饮酒，险些错过机会！如此说来，少时见了诸葛先生，\n倒是三弟之功也！"
+          "text": "哎呀呀！若不是三弟要饮酒，险些错过机会！如此说来，少时见了诸葛先生，"
+        },
+        {
+          "character": "刘备",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "倒是三弟之功也！"
         },
         {
           "character": "张飞",
@@ -2270,7 +2577,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "是啦！\n伙计们！再上一壶哇！"
+          "text": "是啦！"
+        },
+        {
+          "character": "酒保",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "伙计们！再上一壶哇！"
         },
         {
           "character": "酒保",
@@ -2382,7 +2696,17 @@
           "西皮摇板",
           "西皮散板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.122,
+        0.1524,
+        0.8476,
+        0.0,
+        0.7885,
+        9,
+        0.1333,
+        0.0
+      ]
     },
     {
       "scene_index": 4,
@@ -3130,7 +3454,17 @@
           "西皮摇板",
           "西皮散板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.066,
+        0.1098,
+        0.8902,
+        0.0,
+        0.9136,
+        6,
+        0.0854,
+        0.0
+      ]
     },
     {
       "scene_index": 5,
@@ -4397,7 +4731,17 @@
           "西皮散板",
           "西皮流水板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.085,
+        0.1268,
+        0.8662,
+        0.007,
+        0.8652,
+        6,
+        0.1056,
+        0.0211
+      ]
     }
   ]
 }

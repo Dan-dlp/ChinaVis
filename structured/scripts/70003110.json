@@ -295,7 +295,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "我军出征以来，攻无不取，战无不胜，扬名天下，各路诸侯，闻名丧胆。昨日\n丞相传下将令，今日校场阅军比试，我们与那关云长，要见过高下，分个雌雄。"
+          "text": "我军出征以来，攻无不取，战无不胜，扬名天下，各路诸侯，闻名丧胆。昨日"
+        },
+        {
+          "character": "蔡阳",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "丞相传下将令，今日校场阅军比试，我们与那关云长，要见过高下，分个雌雄。"
         },
         {
           "character": "张辽",
@@ -526,7 +533,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "老夫，曹操，汉室为臣。位居首相，掌握兵符，剿灭诸侯，扫荡四路烟尘，攻\n必取，战必胜。自关羽归降我营，斩颜良、诛文丑，甚是骁勇，老夫更加厚意\n相待。昨日传下将令，今日在校场阅军，为此升帐理事。\n众将官！校场去者。"
+          "text": "老夫，曹操，汉室为臣。位居首相，掌握兵符，剿灭诸侯，扫荡四路烟尘，攻"
+        },
+        {
+          "character": "曹操",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "必取，战必胜。自关羽归降我营，斩颜良、诛文丑，甚是骁勇，老夫更加厚意"
+        },
+        {
+          "character": "曹操",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "相待。昨日传下将令，今日在校场阅军，为此升帐理事。"
+        },
+        {
+          "character": "曹操",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "众将官！校场去者。"
         },
         {
           "character": null,
@@ -641,7 +669,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.08,
+        0.74,
+        0.18,
+        0.898,
+        16,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -662,7 +700,21 @@
           "line_type": "西皮快板",
           "musical_style": "西皮快板",
           "style_family": "西皮",
-          "text": "杀气腾腾冲九霄，\n气吐长虹万丈高。\n斩将擒敌显英豪。"
+          "text": "杀气腾腾冲九霄，"
+        },
+        {
+          "character": "关羽",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "气吐长虹万丈高。"
+        },
+        {
+          "character": "关羽",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "斩将擒敌显英豪。"
         },
         {
           "character": "关羽",
@@ -676,14 +728,56 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "某自下邳从曹，约下三事，曹公件件应允。前者白马坡解围，刀劈颜良落马，\n延津又诛文丑。两次出战，打探大哥下落，并无音信。昨日曹公传下将令，今\n日在校场阅军操演。为此全身披挂，去至校场。\n军士们！校场去者！"
+          "text": "某自下邳从曹，约下三事，曹公件件应允。前者白马坡解围，刀劈颜良落马，"
+        },
+        {
+          "character": "关羽",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "延津又诛文丑。两次出战，打探大哥下落，并无音信。昨日曹公传下将令，今"
+        },
+        {
+          "character": "关羽",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "日在校场阅军操演。为此全身披挂，去至校场。"
+        },
+        {
+          "character": "关羽",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "军士们！校场去者！"
         },
         {
           "character": "关羽",
           "line_type": "西皮流水板",
           "musical_style": "西皮流水板",
           "style_family": "西皮",
-          "text": "坐雕鞍勒丝缰自思自想，\n愧煞我将英才汉室云长。\n知兄信立功劳离却许昌。\n论英雄分魁首哪有心肠！"
+          "text": "坐雕鞍勒丝缰自思自想，"
+        },
+        {
+          "character": "关羽",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "愧煞我将英才汉室云长。"
+        },
+        {
+          "character": "关羽",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "知兄信立功劳离却许昌。"
+        },
+        {
+          "character": "关羽",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "论英雄分魁首哪有心肠！"
         },
         {
           "character": null,
@@ -705,7 +799,17 @@
           "西皮快板",
           "西皮流水"
         ]
-      }
+      },
+      "scene_feature": [
+        1.0,
+        0.5833,
+        0.3333,
+        0.0833,
+        0.0,
+        1,
+        0.5833,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -744,7 +848,42 @@
           "line_type": "西皮原板",
           "musical_style": "西皮原板",
           "style_family": "西皮",
-          "text": "队伍齐整密层层。\n两次兴师敢战争。\n河北儿郎胆战惊。\n耀武扬威众群英。\n看一看谁强谁弱与谁能？\n鞭梢一指战马停。"
+          "text": "队伍齐整密层层。"
+        },
+        {
+          "character": "曹操",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "两次兴师敢战争。"
+        },
+        {
+          "character": "曹操",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "河北儿郎胆战惊。"
+        },
+        {
+          "character": "曹操",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "耀武扬威众群英。"
+        },
+        {
+          "character": "曹操",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "看一看谁强谁弱与谁能？"
+        },
+        {
+          "character": "曹操",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "鞭梢一指战马停。"
         },
         {
           "character": null,
@@ -758,7 +897,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "各归队伍！\n（蔡阳、张辽、曹洪、徐晃、夏侯惇、夏侯渊、许褚、曹仁同下。〖急急风〗。月华旗手、大纛旗手、马童\n引关羽同上。曹操迎上高台。）"
+          "text": "各归队伍！"
+        },
+        {
+          "character": "曹操",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "（蔡阳、张辽、曹洪、徐晃、夏侯惇、夏侯渊、许褚、曹仁同下。〖急急风〗。月华旗手、大纛旗手、马童"
+        },
+        {
+          "character": "曹操",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "引关羽同上。曹操迎上高台。）"
         },
         {
           "character": "曹操",
@@ -772,14 +925,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "某先至辕门，丞相尚未升帐。回营少停，又到辕门，丞相已起军校场，故而来\n迟。"
+          "text": "某先至辕门，丞相尚未升帐。回营少停，又到辕门，丞相已起军校场，故而来"
+        },
+        {
+          "character": "关羽",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "迟。"
         },
         {
           "character": "曹操",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "原来如此。\n程昱听令。"
+          "text": "原来如此。"
+        },
+        {
+          "character": "曹操",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "程昱听令。"
         },
         {
           "character": "程昱",
@@ -793,14 +960,42 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "传令下去，今日校场比试，不准各怀私怨，哪家伤人立斩号令，决不宽容。起\n鼓开操！"
+          "text": "传令下去，今日校场比试，不准各怀私怨，哪家伤人立斩号令，决不宽容。起"
+        },
+        {
+          "character": "曹操",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "鼓开操！"
         },
         {
           "character": "程昱",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "下面听者：今日校场比试，不准各怀私怨，哪家伤人立斩号令，决不宽容。起\n鼓开操！\n（蔡阳、张辽、曹洪、徐晃、夏侯惇、夏侯渊、许褚、曹仁同开操，四藤牌手、四长枪手、蔡阳、张辽、曹\n洪、徐晃、夏侯惇、夏侯渊、许褚、曹仁比武毕，各回本队。）"
+          "text": "下面听者：今日校场比试，不准各怀私怨，哪家伤人立斩号令，决不宽容。起"
+        },
+        {
+          "character": "程昱",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "鼓开操！"
+        },
+        {
+          "character": "程昱",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "（蔡阳、张辽、曹洪、徐晃、夏侯惇、夏侯渊、许褚、曹仁同开操，四藤牌手、四长枪手、蔡阳、张辽、曹"
+        },
+        {
+          "character": "程昱",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "洪、徐晃、夏侯惇、夏侯渊、许褚、曹仁比武毕，各回本队。）"
         },
         {
           "character": "曹操",
@@ -849,7 +1044,28 @@
           "line_type": "西皮流水板",
           "musical_style": "西皮流水板",
           "style_family": "西皮",
-          "text": "适才将台阅兵将，\n蔡阳刀法果无双。\n风云聚会各争强。\n提偃月跨坐骑论论谁强！"
+          "text": "适才将台阅兵将，"
+        },
+        {
+          "character": "关羽",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "蔡阳刀法果无双。"
+        },
+        {
+          "character": "关羽",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "风云聚会各争强。"
+        },
+        {
+          "character": "关羽",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "提偃月跨坐骑论论谁强！"
         },
         {
           "character": null,
@@ -933,7 +1149,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "好威严也！\n（〖牌子〗。蔡阳、张辽、曹洪、徐晃、夏侯惇、夏侯渊、许褚、曹仁各站原处，曹操下将台，向郭嘉、程\n昱。）"
+          "text": "好威严也！"
+        },
+        {
+          "character": "曹操",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "（〖牌子〗。蔡阳、张辽、曹洪、徐晃、夏侯惇、夏侯渊、许褚、曹仁各站原处，曹操下将台，向郭嘉、程"
+        },
+        {
+          "character": "曹操",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "昱。）"
         },
         {
           "character": "曹操",
@@ -1011,7 +1241,17 @@
           "西皮摇板",
           "西皮流水"
         ]
-      }
+      },
+      "scene_feature": [
+        0.037,
+        0.234,
+        0.766,
+        0.0,
+        0.4783,
+        5,
+        0.234,
+        0.0
+      ]
     },
     {
       "scene_index": 4,
@@ -1037,7 +1277,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "俺，李典。奉丞相将令，带领人马探听四路军情。如今刘辟、龚都在汝南谋反，\n不免回营报与丞相知道。\n呔，众将官，回营交令去者。"
+          "text": "俺，李典。奉丞相将令，带领人马探听四路军情。如今刘辟、龚都在汝南谋反，"
+        },
+        {
+          "character": "李典",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "不免回营报与丞相知道。"
+        },
+        {
+          "character": "李典",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "呔，众将官，回营交令去者。"
         },
         {
           "character": null,
@@ -1058,7 +1312,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "今日校场比试，除蔡阳刀法精通，余者皆平常武艺。徐公明虽然刀法不佳，识\n人求教，令人佩服！"
+          "text": "今日校场比试，除蔡阳刀法精通，余者皆平常武艺。徐公明虽然刀法不佳，识"
+        },
+        {
+          "character": "关羽",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "人求教，令人佩服！"
         },
         {
           "character": null,
@@ -1079,7 +1340,21 @@
           "line_type": "吹腔",
           "musical_style": null,
           "style_family": null,
-          "text": "读圣贤达礼仪平生本性，\n我关羽虽武夫通贯古今。\n观春秋习兵法谨遵古训——"
+          "text": "读圣贤达礼仪平生本性，"
+        },
+        {
+          "character": "关羽",
+          "line_type": "吹腔",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我关羽虽武夫通贯古今。"
+        },
+        {
+          "character": "关羽",
+          "line_type": "吹腔",
+          "musical_style": null,
+          "style_family": null,
+          "text": "观春秋习兵法谨遵古训——"
         },
         {
           "character": null,
@@ -1156,7 +1431,14 @@
           "line_type": "西皮散板",
           "musical_style": "西皮散板",
           "style_family": "西皮",
-          "text": "校场比试艺不精，\n特来求教拜府门。"
+          "text": "校场比试艺不精，"
+        },
+        {
+          "character": "徐晃",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "特来求教拜府门。"
         },
         {
           "character": "徐晃",
@@ -1212,7 +1494,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "理应效劳。\n马童，看刀伺候，带路前庭院。"
+          "text": "理应效劳。"
+        },
+        {
+          "character": "关羽",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "马童，看刀伺候，带路前庭院。"
         },
         {
           "character": null,
@@ -1380,7 +1669,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "何必过谦。\n马童，备酒伺候。"
+          "text": "何必过谦。"
+        },
+        {
+          "character": "关羽",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "马童，备酒伺候。"
         },
         {
           "character": "徐晃",
@@ -1394,7 +1690,14 @@
           "line_type": "西皮散板",
           "musical_style": "西皮散板",
           "style_family": "西皮",
-          "text": "躬身施礼出府门，\n改日拜府叙衷情！"
+          "text": "躬身施礼出府门，"
+        },
+        {
+          "character": "徐晃",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "改日拜府叙衷情！"
         },
         {
           "character": null,
@@ -1422,7 +1725,14 @@
           "line_type": "西皮散板",
           "musical_style": "西皮散板",
           "style_family": "西皮",
-          "text": "适才曹府闻一信，\n报与二爷得知情。"
+          "text": "适才曹府闻一信，"
+        },
+        {
+          "character": "老军",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "报与二爷得知情。"
         },
         {
           "character": "老军",
@@ -1471,7 +1781,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "老军报道，刘辟、龚都在汝南谋反，俺不免去曹公台前，讨令出战，攻打汝南，\n探听兄信，倘有兄长下落，也未可知。\n马童，吩咐小校伺候。"
+          "text": "老军报道，刘辟、龚都在汝南谋反，俺不免去曹公台前，讨令出战，攻打汝南，"
+        },
+        {
+          "character": "关羽",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "探听兄信，倘有兄长下落，也未可知。"
+        },
+        {
+          "character": "关羽",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "马童，吩咐小校伺候。"
         },
         {
           "character": "马童",
@@ -1499,7 +1823,21 @@
           "line_type": "西皮散板",
           "musical_style": "西皮散板",
           "style_family": "西皮",
-          "text": "在许昌每日里心不安静，\n思兄长使关某珠泪常浸。\n倘若是得兄信离却曹营。"
+          "text": "在许昌每日里心不安静，"
+        },
+        {
+          "character": "关羽",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "思兄长使关某珠泪常浸。"
+        },
+        {
+          "character": "关羽",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "倘若是得兄信离却曹营。"
         },
         {
           "character": null,
@@ -1559,7 +1897,17 @@
         "musical_styles": [
           "西皮散板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.154,
+        0.3016,
+        0.6825,
+        0.0159,
+        0.4677,
+        6,
+        0.2222,
+        0.0
+      ]
     }
   ]
 }

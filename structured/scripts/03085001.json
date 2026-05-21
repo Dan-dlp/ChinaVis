@@ -235,7 +235,35 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "老夫、曹操。汉室为臣。自扫灭吕布，献帝见喜，封吾丞相之职。可恨桃园弟\n兄，居住汉阳，实乃心腹大患，今又得诸葛辅助，如困龙得水，一日得志，不\n可制也。我意欲填塞白河，令大军分作八路，一齐去取樊城。不免唤刘晔进帐\n商议。\n来！"
+          "text": "老夫、曹操。汉室为臣。自扫灭吕布，献帝见喜，封吾丞相之职。可恨桃园弟"
+        },
+        {
+          "character": "曹操",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "兄，居住汉阳，实乃心腹大患，今又得诸葛辅助，如困龙得水，一日得志，不"
+        },
+        {
+          "character": "曹操",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "可制也。我意欲填塞白河，令大军分作八路，一齐去取樊城。不免唤刘晔进帐"
+        },
+        {
+          "character": "曹操",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "商议。"
+        },
+        {
+          "character": "曹操",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来！"
         },
         {
           "character": "四龙套",
@@ -312,7 +340,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "我想丞相初至襄阳，必须收取民心。今刘备尽迁新野百姓入于樊城，我兵径进，\n两县将为齑粉矣。不如先使人招降刘备，备即不降，亦可见我爱民之心；若\n其来降，则荆州之地不战而定也。"
+          "text": "我想丞相初至襄阳，必须收取民心。今刘备尽迁新野百姓入于樊城，我兵径进，"
+        },
+        {
+          "character": "刘晔",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "两县将为齑粉矣。不如先使人招降刘备，备即不降，亦可见我爱民之心；若"
+        },
+        {
+          "character": "刘晔",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "其来降，则荆州之地不战而定也。"
         },
         {
           "character": "曹操",
@@ -403,7 +445,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "可恨刘备火烧新野，将百姓迁入樊城。我本欲分兵八路，踏破樊城，奈怜众百\n姓之命。公可往说刘备，若肯来降，免罪赐爵；若再执迷，军民共戮，玉石俱\n焚。吾知公忠义，故使一往，愿勿相负！"
+          "text": "可恨刘备火烧新野，将百姓迁入樊城。我本欲分兵八路，踏破樊城，奈怜众百"
+        },
+        {
+          "character": "曹操",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "姓之命。公可往说刘备，若肯来降，免罪赐爵；若再执迷，军民共戮，玉石俱"
+        },
+        {
+          "character": "曹操",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "焚。吾知公忠义，故使一往，愿勿相负！"
         },
         {
           "character": null,
@@ -424,7 +480,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "正好就此将刘报，\n暗递消息放他逃。"
+          "text": "正好就此将刘报，"
+        },
+        {
+          "character": "徐庶",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "暗递消息放他逃。"
         },
         {
           "character": null,
@@ -438,7 +501,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "今遣说客汉阳道，\n且候回音再作计较。"
+          "text": "今遣说客汉阳道，"
+        },
+        {
+          "character": "曹操",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "且候回音再作计较。"
         },
         {
           "character": null,
@@ -494,7 +564,17 @@
         "singing_ratio": 0.045,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.045,
+        0.1316,
+        0.7895,
+        0.0789,
+        0.5405,
+        5,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -515,21 +595,56 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "心儿里恨曹操做事有错，\n挟天子压诸侯行事太恶。"
-        },
-        {
-          "character": "徐庶",
-          "line_type": "白",
-          "musical_style": null,
-          "style_family": null,
-          "text": "山人、徐庶，字元直。昔日在刘皇叔驾前为臣，一旦辞刘归曹。曹操乃奸诈之\n徒，设下“调虎离山”之计，要害桃园弟兄。想刘皇叔待我情同骨肉，尚未答\n报。今奉曹操之命，一来下书；二来于皇叔送信，放他君臣逃走，脱离此难便\n了！"
+          "text": "心儿里恨曹操做事有错，"
         },
         {
           "character": "徐庶",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "设下了牢笼计瞒哄诸葛，\n汉阳院送信息教他逃脱。"
+          "text": "挟天子压诸侯行事太恶。"
+        },
+        {
+          "character": "徐庶",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "山人、徐庶，字元直。昔日在刘皇叔驾前为臣，一旦辞刘归曹。曹操乃奸诈之"
+        },
+        {
+          "character": "徐庶",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "徒，设下“调虎离山”之计，要害桃园弟兄。想刘皇叔待我情同骨肉，尚未答"
+        },
+        {
+          "character": "徐庶",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "报。今奉曹操之命，一来下书；二来于皇叔送信，放他君臣逃走，脱离此难便"
+        },
+        {
+          "character": "徐庶",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "了！"
+        },
+        {
+          "character": "徐庶",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "设下了牢笼计瞒哄诸葛，"
+        },
+        {
+          "character": "徐庶",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "汉阳院送信息教他逃脱。"
         },
         {
           "character": null,
@@ -548,7 +663,17 @@
         "singing_ratio": 1.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        1.0,
+        0.5,
+        0.5,
+        0.0,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -586,7 +711,21 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "心中悲痛叹刘表，\n劣子无能降奸曹。\n不能讨逆扶汉朝。"
+          "text": "心中悲痛叹刘表，"
+        },
+        {
+          "character": "刘备",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "劣子无能降奸曹。"
+        },
+        {
+          "character": "刘备",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "不能讨逆扶汉朝。"
         },
         {
           "character": null,
@@ -600,7 +739,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "适才军士来禀报，\n元直到此事蹊跷。"
+          "text": "适才军士来禀报，"
+        },
+        {
+          "character": "孙乾",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "元直到此事蹊跷。"
         },
         {
           "character": "孙乾",
@@ -649,7 +795,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "且慢！他今到此，不是下书，定是说降。待山人退在屏风后面，听他讲些什么，\n也好作一准备。"
+          "text": "且慢！他今到此，不是下书，定是说降。待山人退在屏风后面，听他讲些什么，"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "也好作一准备。"
         },
         {
           "character": "刘备",
@@ -817,10 +970,94 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "与卿分别有数载，\n今日相逢天降来。\n一封书信亲手开。\n大事当前好夺裁。\n约定赤壁把兵排。\n得了江东四六开。\n有劳先生远路来。"
+          "text": "与卿分别有数载，"
         },
         {
-          "character": "孤王看书你休怪、上写曹操顿首拜、东吴孙权争地界、曹、刘两家合一块、看罢书信疑难解、徐庶",
+          "character": "刘备",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "今日相逢天降来。"
+        },
+        {
+          "character": "刘备",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "一封书信亲手开。"
+        },
+        {
+          "character": "刘备",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "大事当前好夺裁。"
+        },
+        {
+          "character": "刘备",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "约定赤壁把兵排。"
+        },
+        {
+          "character": "刘备",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "得了江东四六开。"
+        },
+        {
+          "character": "刘备",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "有劳先生远路来。"
+        },
+        {
+          "character": "刘备",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "孤王看书你休怪"
+        },
+        {
+          "character": "刘备",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "上写曹操顿首拜"
+        },
+        {
+          "character": "刘备",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "东吴孙权争地界"
+        },
+        {
+          "character": "刘备",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "曹"
+        },
+        {
+          "character": "刘备",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "刘两家合一块"
+        },
+        {
+          "character": "刘备",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "看罢书信疑难解"
+        },
+        {
+          "character": "徐庶",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -978,7 +1215,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "那曹操言道，欲踏平樊城，因怜百姓之命，故此命庶前来说降使君。如肯来降，\n免罪赐爵；再若执迷，军民共戮，玉石俱焚。今曹操兵分八路，填白河而进，\n樊城恐不可守。宜速作行计，不可久停。"
+          "text": "那曹操言道，欲踏平樊城，因怜百姓之命，故此命庶前来说降使君。如肯来降，"
+        },
+        {
+          "character": "徐庶",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "免罪赐爵；再若执迷，军民共戮，玉石俱焚。今曹操兵分八路，填白河而进，"
+        },
+        {
+          "character": "徐庶",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "樊城恐不可守。宜速作行计，不可久停。"
         },
         {
           "character": "刘备",
@@ -992,7 +1243,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "啊师兄，你言曹操分兵八路，填白河而进。我兵虽寡，现有关、张、赵云，勇\n冠三军，万夫难挡。前弟略施小计，火烧新野，杀得曹仁闻风丧胆，何惧曹操\n八路分兵？"
+          "text": "啊师兄，你言曹操分兵八路，填白河而进。我兵虽寡，现有关、张、赵云，勇"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "冠三军，万夫难挡。前弟略施小计，火烧新野，杀得曹仁闻风丧胆，何惧曹操"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "八路分兵？"
         },
         {
           "character": "徐庶",
@@ -1041,7 +1306,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "好哇！你保主公，兵不满千人，将不足十员；那曹操人马遮天盖地而来，关、\n张英勇，亦难御敌也。"
+          "text": "好哇！你保主公，兵不满千人，将不足十员；那曹操人马遮天盖地而来，关、"
+        },
+        {
+          "character": "徐庶",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "张英勇，亦难御敌也。"
         },
         {
           "character": "刘备",
@@ -1055,7 +1327,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "人生祸福实难料，\n可叹奔波枉徒劳。"
+          "text": "人生祸福实难料，"
+        },
+        {
+          "character": "刘备",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "可叹奔波枉徒劳。"
         },
         {
           "character": "刘备",
@@ -1072,14 +1351,28 @@
           "text": "怎忍弃民自奔逃！"
         },
         {
-          "character": "安居未稳曹兵到、诸葛亮",
+          "character": "刘备",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "安居未稳曹兵到"
+        },
+        {
+          "character": "诸葛亮",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
           "text": "主公啊！"
         },
         {
-          "character": "安居未稳曹兵到、诸葛亮",
+          "character": "诸葛亮",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "安居未稳曹兵到"
+        },
+        {
+          "character": "诸葛亮",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
@@ -1118,7 +1411,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "山人早已料定，我君臣有此大难，不料应在目前。有了，待我将计就计，在他\n面前领教便了。\n小弟有礼！"
+          "text": "山人早已料定，我君臣有此大难，不料应在目前。有了，待我将计就计，在他"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "面前领教便了。"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "小弟有礼！"
         },
         {
           "character": "徐庶",
@@ -1160,7 +1467,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "唔呼呀！未来之事，他早已安排。有了。\n啊师兄，这锦囊上面，情由深奥，参测不透，还要在师兄面前领教。"
+          "text": "唔呼呀！未来之事，他早已安排。有了。"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "啊师兄，这锦囊上面，情由深奥，参测不透，还要在师兄面前领教。"
         },
         {
           "character": "徐庶",
@@ -1174,10 +1488,24 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "弟兄们同坐汉阳营，\n细看锦囊就里情。"
+          "text": "弟兄们同坐汉阳营，"
         },
         {
-          "character": "汉业至今四百零、诸葛亮",
+          "character": "徐庶",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "细看锦囊就里情。"
+        },
+        {
+          "character": "徐庶",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "汉业至今四百零"
+        },
+        {
+          "character": "诸葛亮",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -1251,7 +1579,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "三国不和刀兵动，\n荆襄王有子与无同。"
+          "text": "三国不和刀兵动，"
+        },
+        {
+          "character": "徐庶",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "荆襄王有子与无同。"
         },
         {
           "character": "诸葛亮",
@@ -1265,7 +1600,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "只因蔡后不贤，废长立幼，文武不服，百姓皆怨恨，他将荆襄九郡献与曹操。\n曹操不仁，将他母子贬于青州，又差于禁在途中将他母子谋害，有子不能承受\n父业，岂不是无子么？"
+          "text": "只因蔡后不贤，废长立幼，文武不服，百姓皆怨恨，他将荆襄九郡献与曹操。"
+        },
+        {
+          "character": "徐庶",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "曹操不仁，将他母子贬于青州，又差于禁在途中将他母子谋害，有子不能承受"
+        },
+        {
+          "character": "徐庶",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "父业，岂不是无子么？"
         },
         {
           "character": "诸葛亮",
@@ -1384,7 +1733,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "皇叔三顾把我请，\n知遇之恩常挂心。"
+          "text": "皇叔三顾把我请，"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "知遇之恩常挂心。"
         },
         {
           "character": "徐庶",
@@ -1468,7 +1824,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "本当效犬马之劳，只是今若不还，惹人笑我。今老母已丧，抱恨终天，身虽在\n彼，誓不为设一谋。公有卧龙辅佐，何愁大事不成？"
+          "text": "本当效犬马之劳，只是今若不还，惹人笑我。今老母已丧，抱恨终天，身虽在"
+        },
+        {
+          "character": "徐庶",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "彼，誓不为设一谋。公有卧龙辅佐，何愁大事不成？"
         },
         {
           "character": "刘备",
@@ -1496,7 +1859,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "诸公速行方为妙，\n曹兵到来恐难逃。"
+          "text": "诸公速行方为妙，"
+        },
+        {
+          "character": "徐庶",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "曹兵到来恐难逃。"
         },
         {
           "character": null,
@@ -1510,7 +1880,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "徐庶不忘旧日好，\n先生从速运奇谋。"
+          "text": "徐庶不忘旧日好，"
+        },
+        {
+          "character": "刘备",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "先生从速运奇谋。"
         },
         {
           "character": "诸葛亮",
@@ -1566,7 +1943,21 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "山崩地裂乾坤乱，\n遍起刀兵民难安。\n何日才过太平年。"
+          "text": "山崩地裂乾坤乱，"
+        },
+        {
+          "character": "关羽",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "遍起刀兵民难安。"
+        },
+        {
+          "character": "关羽",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "何日才过太平年。"
         },
         {
           "character": "关羽",
@@ -1576,7 +1967,14 @@
           "text": "参见大哥！"
         },
         {
-          "character": "丹心一点重扶汉、刘备",
+          "character": "关羽",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "丹心一点重扶汉"
+        },
+        {
+          "character": "刘备",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -1608,7 +2006,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "今曹操统领大兵八十三万，分八路而进，前来攻取。我军单薄，孤城难守。命\n二将军去至江夏公子刘琦那里搬兵，不得有误！"
+          "text": "今曹操统领大兵八十三万，分八路而进，前来攻取。我军单薄，孤城难守。命"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "二将军去至江夏公子刘琦那里搬兵，不得有误！"
         },
         {
           "character": "关羽",
@@ -1650,7 +2055,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "辞别大哥跨走战，\n去到江夏把兵搬。"
+          "text": "辞别大哥跨走战，"
+        },
+        {
+          "character": "关羽",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "去到江夏把兵搬。"
         },
         {
           "character": null,
@@ -1755,7 +2167,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "今曹操统领八十三万人马而来。此孤城难守，就命四将军保护主公家眷，须要\n小心。"
+          "text": "今曹操统领八十三万人马而来。此孤城难守，就命四将军保护主公家眷，须要"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "小心。"
         },
         {
           "character": "赵云",
@@ -1783,21 +2202,42 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "常言忠义能尽命，\n何惧曹贼百万兵？"
+          "text": "常言忠义能尽命，"
+        },
+        {
+          "character": "赵云",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "何惧曹贼百万兵？"
         },
         {
           "character": "张飞",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "你保家眷难凭信，\n怕你能说不能行！"
+          "text": "你保家眷难凭信，"
+        },
+        {
+          "character": "张飞",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "怕你能说不能行！"
         },
         {
           "character": "诸葛亮",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "翼德且莫闲争论，\n赵云岂是空言人！"
+          "text": "翼德且莫闲争论，"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "赵云岂是空言人！"
         },
         {
           "character": "诸葛亮",
@@ -1825,14 +2265,42 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "好，正合我意。\n简雍，速速晓谕百姓，曹兵将至，孤城不能久守。百姓愿随行者，一同过江；\n不愿随行者，听其自便。"
+          "text": "好，正合我意。"
+        },
+        {
+          "character": "刘备",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "简雍，速速晓谕百姓，曹兵将至，孤城不能久守。百姓愿随行者，一同过江；"
+        },
+        {
+          "character": "刘备",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "不愿随行者，听其自便。"
         },
         {
           "character": "简雍",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "遵命！\n众百姓听者：今曹兵将至，孤城难守。主公有令：愿随行者一同过江；不愿随\n行者，听其自便！"
+          "text": "遵命！"
+        },
+        {
+          "character": "简雍",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "众百姓听者：今曹兵将至，孤城难守。主公有令：愿随行者一同过江；不愿随"
+        },
+        {
+          "character": "简雍",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "行者，听其自便！"
         },
         {
           "character": null,
@@ -1846,7 +2314,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "好，待我与你们转禀。\n启主公：众百姓不惜性命，情愿相随。"
+          "text": "好，待我与你们转禀。"
+        },
+        {
+          "character": "简雍",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "启主公：众百姓不惜性命，情愿相随。"
         },
         {
           "character": "刘备",
@@ -1860,7 +2335,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "遵命！\n众百姓听者：主公命你们各自收拾，听候启行！"
+          "text": "遵命！"
+        },
+        {
+          "character": "简雍",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "众百姓听者：主公命你们各自收拾，听候启行！"
         },
         {
           "character": null,
@@ -1874,7 +2356,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "臣启主公：二将军去至江夏搬兵，臣恐大公子刘琦不能速速救应，必须臣亲身\n一往，复催兵将，方不误事。"
+          "text": "臣启主公：二将军去至江夏搬兵，臣恐大公子刘琦不能速速救应，必须臣亲身"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "一往，复催兵将，方不误事。"
         },
         {
           "character": "张飞",
@@ -2047,7 +2536,17 @@
         "singing_ratio": 0.102,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.102,
+        0.2332,
+        0.7399,
+        0.0269,
+        0.6712,
+        10,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 4,
@@ -2168,7 +2667,17 @@
         "singing_ratio": 0.286,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.286,
+        0.2222,
+        0.6667,
+        0.1111,
+        0.75,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 5,
@@ -2309,7 +2818,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        6,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 6,
@@ -2518,7 +3037,17 @@
         "singing_ratio": 0.071,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.071,
+        0.0714,
+        0.9286,
+        0.0,
+        0.9231,
+        7,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 7,
@@ -2677,7 +3206,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        8,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 8,
@@ -2766,7 +3305,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 9,
@@ -2806,7 +3355,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 10,
@@ -2940,7 +3499,17 @@
         "singing_ratio": 0.429,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.429,
+        0.5,
+        0.5,
+        0.0,
+        0.8571,
+        5,
+        0.0,
+        0.0
+      ]
     }
   ]
 }

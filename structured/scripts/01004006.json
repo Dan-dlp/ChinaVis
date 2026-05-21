@@ -157,7 +157,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "本帅，纪灵。奉了我主之命，夺取小沛，灭却刘备。又想前面乃是徐州吕布镇\n守，想那刘备与吕布两下交好，不能让俺过去生擒刘备，我也曾送下一份厚礼\n与那吕布，教他休管我两家闲事。二位将军，人马可齐？"
+          "text": "本帅，纪灵。奉了我主之命，夺取小沛，灭却刘备。又想前面乃是徐州吕布镇"
+        },
+        {
+          "character": "纪灵",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "守，想那刘备与吕布两下交好，不能让俺过去生擒刘备，我也曾送下一份厚礼"
+        },
+        {
+          "character": "纪灵",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "与那吕布，教他休管我两家闲事。二位将军，人马可齐？"
         },
         {
           "character": "吴兰、雷同",
@@ -202,7 +216,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.7143,
+        0.2857,
+        0.5,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -240,7 +264,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "某，姓吕名布字奉先，乃是西川邬原郡人氏。是我占据徐州，屯军养马。今日\n升帐，面红耳热，必有军情，来，伺候了。"
+          "text": "某，姓吕名布字奉先，乃是西川邬原郡人氏。是我占据徐州，屯军养马。今日"
+        },
+        {
+          "character": "吕布",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "升帐，面红耳热，必有军情，来，伺候了。"
         },
         {
           "character": null,
@@ -282,7 +313,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "候着。\n启温侯：送礼人要见。"
+          "text": "候着。"
+        },
+        {
+          "character": "中军",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "启温侯：送礼人要见。"
         },
         {
           "character": "吕布",
@@ -380,7 +418,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "候着。\n启温侯：下书人要见。"
+          "text": "候着。"
+        },
+        {
+          "character": "中军",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "启温侯：下书人要见。"
         },
         {
           "character": "吕布",
@@ -450,7 +495,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "哦吓，原来纪灵带领十万之众，夺取小沛。那刘使君请我前去，拔刀相助，这\n便如何是好？哦，有了，代我修书两封。请他二人到此。与他两家解围。中军，\n浓墨伺候。"
+          "text": "哦吓，原来纪灵带领十万之众，夺取小沛。那刘使君请我前去，拔刀相助，这"
+        },
+        {
+          "character": "吕布",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "便如何是好？哦，有了，代我修书两封。请他二人到此。与他两家解围。中军，"
+        },
+        {
+          "character": "吕布",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "浓墨伺候。"
         },
         {
           "character": "吕布",
@@ -464,7 +523,49 @@
           "line_type": "西皮原板",
           "musical_style": "西皮原板",
           "style_family": "西皮",
-          "text": "手提羊毫写几行：\n共同大事有商量。\n明日清晨候午光。\n回去你对使君讲：\n叫他只管放心肠。\n席前大事有商量。\n明日席前做商量。"
+          "text": "手提羊毫写几行："
+        },
+        {
+          "character": "吕布",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "共同大事有商量。"
+        },
+        {
+          "character": "吕布",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "明日清晨候午光。"
+        },
+        {
+          "character": "吕布",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "回去你对使君讲："
+        },
+        {
+          "character": "吕布",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "叫他只管放心肠。"
+        },
+        {
+          "character": "吕布",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "席前大事有商量。"
+        },
+        {
+          "character": "吕布",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "明日席前做商量。"
         },
         {
           "character": null,
@@ -528,7 +629,17 @@
           "西皮原板",
           "西皮导板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.2195,
+        0.7073,
+        0.0732,
+        0.5,
+        4,
+        0.1951,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -681,7 +792,21 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "时才探马报一声，\n纪灵带兵来困城。\n旌旗招展好惊人。"
+          "text": "时才探马报一声，"
+        },
+        {
+          "character": "刘备",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "纪灵带兵来困城。"
+        },
+        {
+          "character": "刘备",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "旌旗招展好惊人。"
         },
         {
           "character": null,
@@ -709,7 +834,14 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "叫声三弟莫高声。\n想一妙计破贼兵。"
+          "text": "叫声三弟莫高声。"
+        },
+        {
+          "character": "刘备",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "想一妙计破贼兵。"
         },
         {
           "character": "刘备",
@@ -719,7 +851,14 @@
           "text": "二弟、三弟有何妙计？"
         },
         {
-          "character": "下得城来把帐进、张飞",
+          "character": "刘备",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "下得城来把帐进"
+        },
+        {
+          "character": "张飞",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -926,7 +1065,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "吕布性子傲，小弟性子燥，有道是：仇人见面，不是吵，就是闹，还是不去的\n稳当！"
+          "text": "吕布性子傲，小弟性子燥，有道是：仇人见面，不是吵，就是闹，还是不去的"
+        },
+        {
+          "character": "张飞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "稳当！"
         },
         {
           "character": "关羽",
@@ -954,7 +1100,14 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "三弟作事休莽撞，\n大事总要来商量。"
+          "text": "三弟作事休莽撞，"
+        },
+        {
+          "character": "刘备",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "大事总要来商量。"
         },
         {
           "character": "张飞",
@@ -968,7 +1121,14 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "要去何必多议论，\n老张出世不怕人。"
+          "text": "要去何必多议论，"
+        },
+        {
+          "character": "张飞",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "老张出世不怕人。"
         },
         {
           "character": "张飞",
@@ -989,7 +1149,14 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "弟兄三人徐州闯，\n准备两下动刀枪。"
+          "text": "弟兄三人徐州闯，"
+        },
+        {
+          "character": "刘备",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "准备两下动刀枪。"
         },
         {
           "character": null,
@@ -1062,7 +1229,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.059,
+        0.1905,
+        0.7302,
+        0.0794,
+        0.7581,
+        7,
+        0.1905,
+        0.0
+      ]
     },
     {
       "scene_index": 4,
@@ -1096,7 +1273,49 @@
           "line_type": "西皮原板",
           "musical_style": "西皮原板",
           "style_family": "西皮",
-          "text": "战罢疆场在濮阳，\n诸侯见我也心忙。\n戟刺董卓为貂婵。\n偶遇刘备与关张。\n掩杀儿郎让刁鞍。\n张飞误挑紫金冠。\n谁人不知俺吕奉先。"
+          "text": "战罢疆场在濮阳，"
+        },
+        {
+          "character": "吕布",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "诸侯见我也心忙。"
+        },
+        {
+          "character": "吕布",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "戟刺董卓为貂婵。"
+        },
+        {
+          "character": "吕布",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "偶遇刘备与关张。"
+        },
+        {
+          "character": "吕布",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "掩杀儿郎让刁鞍。"
+        },
+        {
+          "character": "吕布",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "张飞误挑紫金冠。"
+        },
+        {
+          "character": "吕布",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "谁人不知俺吕奉先。"
         },
         {
           "character": null,
@@ -1250,7 +1469,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "少站一时。\n启禀温侯：桃园弟兄求见。"
+          "text": "少站一时。"
+        },
+        {
+          "character": "中军",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "启禀温侯：桃园弟兄求见。"
         },
         {
           "character": "吕布",
@@ -1446,7 +1672,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "咳，俺老张不与吕布狗子见礼，俺大哥在一旁“桃园”“桃园”呢！俺老张一\n生一世，就吃这“桃园”亏了。吕布狗子，请了！"
+          "text": "咳，俺老张不与吕布狗子见礼，俺大哥在一旁“桃园”“桃园”呢！俺老张一"
+        },
+        {
+          "character": "张飞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "生一世，就吃这“桃园”亏了。吕布狗子，请了！"
         },
         {
           "character": "吕布",
@@ -1474,7 +1707,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "吓，温侯！\n吓，你怎么叫他狗子？"
+          "text": "吓，温侯！"
+        },
+        {
+          "character": "刘备",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "吓，你怎么叫他狗子？"
         },
         {
           "character": "张飞",
@@ -1579,7 +1819,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "吓，温侯！\n吓，事到如今，提起徐州则甚？"
+          "text": "吓，温侯！"
+        },
+        {
+          "character": "刘备",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "吓，事到如今，提起徐州则甚？"
         },
         {
           "character": "张飞",
@@ -1845,21 +2092,77 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "只为和好免争强。\n那一旁闷坏了刘、关、张。\n回言便对将军讲：\n看某且免动刀枪。"
+          "text": "只为和好免争强。"
         },
         {
-          "character": "怒气不息纪灵将、纪灵",
+          "character": "吕布",
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "多蒙温侯赐琼浆，\n某家言来听端详：\n霎时席前摆战场。"
+          "text": "那一旁闷坏了刘、关、张。"
         },
         {
-          "character": "不看温侯脸面上、刘备",
+          "character": "吕布",
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "走上前来忙告退，\n今日此宴难奉陪。"
+          "text": "回言便对将军讲："
+        },
+        {
+          "character": "吕布",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "看某且免动刀枪。"
+        },
+        {
+          "character": "吕布",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "怒气不息纪灵将"
+        },
+        {
+          "character": "纪灵",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "多蒙温侯赐琼浆，"
+        },
+        {
+          "character": "纪灵",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "某家言来听端详："
+        },
+        {
+          "character": "纪灵",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "霎时席前摆战场。"
+        },
+        {
+          "character": "纪灵",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "不看温侯脸面上"
+        },
+        {
+          "character": "刘备",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "走上前来忙告退，"
+        },
+        {
+          "character": "刘备",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "今日此宴难奉陪。"
         },
         {
           "character": "纪灵",
@@ -1929,7 +2232,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "告便。且住，温候言道，辕门之外，立一方天画戟，箭射红心，我两家收兵回\n转。"
+          "text": "告便。且住，温候言道，辕门之外，立一方天画戟，箭射红心，我两家收兵回"
+        },
+        {
+          "character": "纪灵",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "转。"
         },
         {
           "character": "刘备、关羽",
@@ -1957,17 +2267,38 @@
           "line_type": "西皮快板",
           "musical_style": "西皮快板",
           "style_family": "西皮",
-          "text": "画戟抬在辕门外，\n两家人马站两旁。"
+          "text": "画戟抬在辕门外，"
         },
         {
-          "character": "人来看过弓和箭、刘备",
+          "character": "吕布",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "两家人马站两旁。"
+        },
+        {
+          "character": "吕布",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "人来看过弓和箭"
+        },
+        {
+          "character": "刘备",
           "line_type": "西皮快板",
           "musical_style": "西皮快板",
           "style_family": "西皮",
           "text": "汉刘备上前来祝告神威："
         },
         {
-          "character": "但愿得老天爷扶保刘备、吕布",
+          "character": "刘备",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "但愿得老天爷扶保刘备"
+        },
+        {
+          "character": "吕布",
           "line_type": "西皮快板",
           "musical_style": "西皮快板",
           "style_family": "西皮",
@@ -2034,14 +2365,63 @@
           "line_type": "西皮快板",
           "musical_style": "西皮快板",
           "style_family": "西皮",
-          "text": "上写拜上多拜上，\n拜上袁王看端详：\n免得两下动刀枪。\n烦劳将军奏你王。"
+          "text": "上写拜上多拜上，"
         },
         {
-          "character": "刘备看在我面上、一封书信忙修上、纪灵",
+          "character": "吕布",
           "line_type": "西皮快板",
           "musical_style": "西皮快板",
           "style_family": "西皮",
-          "text": "纪灵接书面带愧，\n背转身来把胸槌。\n奉命夺沛空走一回。"
+          "text": "拜上袁王看端详："
+        },
+        {
+          "character": "吕布",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "免得两下动刀枪。"
+        },
+        {
+          "character": "吕布",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "烦劳将军奏你王。"
+        },
+        {
+          "character": "吕布",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "刘备看在我面上"
+        },
+        {
+          "character": "吕布",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "一封书信忙修上"
+        },
+        {
+          "character": "纪灵",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "纪灵接书面带愧，"
+        },
+        {
+          "character": "纪灵",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "背转身来把胸槌。"
+        },
+        {
+          "character": "纪灵",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "奉命夺沛空走一回。"
         },
         {
           "character": null,
@@ -2221,7 +2601,17 @@
           "西皮快板",
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.066,
+        0.227,
+        0.7607,
+        0.0123,
+        0.7778,
+        10,
+        0.227,
+        0.0
+      ]
     }
   ]
 }

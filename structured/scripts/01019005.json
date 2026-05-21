@@ -684,7 +684,17 @@
           "西皮原板",
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.019,
+        0.0667,
+        0.9,
+        0.0333,
+        0.7797,
+        3,
+        0.0667,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -755,7 +765,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.667,
+        0.6667,
+        0.3333,
+        0.0,
+        0.0,
+        1,
+        0.6667,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -780,7 +800,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "指望磋麻雀赢几个铜钱，不料又输个哉。天已不早，我那个穷短命，还不见回\n来。"
+          "text": "指望磋麻雀赢几个铜钱，不料又输个哉。天已不早，我那个穷短命，还不见回"
+        },
+        {
+          "character": "崔氏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来。"
         },
         {
           "character": null,
@@ -815,14 +842,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "回来哉。你看看满身都是雪，今朝一定将柴在大街卖了。来，拿钱来，也好做\n夜饭哉。"
+          "text": "回来哉。你看看满身都是雪，今朝一定将柴在大街卖了。来，拿钱来，也好做"
+        },
+        {
+          "character": "崔氏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "夜饭哉。"
         },
         {
           "character": "朱买臣",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "你看这样大雪寒天，山上十分油滑，又无有干柴，卑人只得空手归来，待等明\n天天晴，再去采樵便了。"
+          "text": "你看这样大雪寒天，山上十分油滑，又无有干柴，卑人只得空手归来，待等明"
+        },
+        {
+          "character": "朱买臣",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "天天晴，再去采樵便了。"
         },
         {
           "character": "崔氏",
@@ -843,14 +884,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "为人不吃饭，忍耐就完了？我看你这光景，你也难养老娘。到不如你爽爽利利，\n写上一纸休书，将奴休了，倒免得每日同你生气！"
+          "text": "为人不吃饭，忍耐就完了？我看你这光景，你也难养老娘。到不如你爽爽利利，"
+        },
+        {
+          "character": "崔氏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "写上一纸休书，将奴休了，倒免得每日同你生气！"
         },
         {
           "character": "朱买臣",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "这是从何说起？常言道得好，无故不休妻，休妻惹是非。况且你又不犯七出之\n条，这休书我是断断不能写！"
+          "text": "这是从何说起？常言道得好，无故不休妻，休妻惹是非。况且你又不犯七出之"
+        },
+        {
+          "character": "朱买臣",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "条，这休书我是断断不能写！"
         },
         {
           "character": "崔氏",
@@ -864,7 +919,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "想你我夫妻，已有九年，甚是恩爱，并没有这些事情，如何能写，叫我如何舍\n得？"
+          "text": "想你我夫妻，已有九年，甚是恩爱，并没有这些事情，如何能写，叫我如何舍"
+        },
+        {
+          "character": "朱买臣",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "得？"
         },
         {
           "character": "崔氏",
@@ -934,10 +996,24 @@
           "line_type": "西皮原板",
           "musical_style": "西皮原板",
           "style_family": "西皮",
-          "text": "恩爱夫妻不能团圆。\n这休书倒叫我无有话言。"
+          "text": "恩爱夫妻不能团圆。"
         },
         {
-          "character": "我的妻并无有七出之犯、崔氏",
+          "character": "朱买臣",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "这休书倒叫我无有话言。"
+        },
+        {
+          "character": "朱买臣",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "我的妻并无有七出之犯"
+        },
+        {
+          "character": "崔氏",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -955,7 +1031,14 @@
           "line_type": "西皮快板",
           "musical_style": "西皮快板",
           "style_family": "西皮",
-          "text": "一刀两断，\n无故的拆散了结发姻缘。"
+          "text": "一刀两断，"
+        },
+        {
+          "character": "朱买臣",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "无故的拆散了结发姻缘。"
         },
         {
           "character": "朱买臣",
@@ -965,7 +1048,14 @@
           "text": "无有中证也是枉然！"
         },
         {
-          "character": "一纸休书我就忙写完、崔氏",
+          "character": "朱买臣",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "一纸休书我就忙写完"
+        },
+        {
+          "character": "崔氏",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -1011,7 +1101,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "待我去请个中人来。\n徐大嫂，请出来。"
+          "text": "待我去请个中人来。"
+        },
+        {
+          "character": "崔氏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "徐大嫂，请出来。"
         },
         {
           "character": null,
@@ -1123,7 +1220,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "我就来。\n我说朱买臣，我可是要走啦，我们再见吧！"
+          "text": "我就来。"
+        },
+        {
+          "character": "崔氏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我说朱买臣，我可是要走啦，我们再见吧！"
         },
         {
           "character": "朱买臣",
@@ -1186,7 +1290,21 @@
           "line_type": "西皮原板",
           "musical_style": "西皮原板",
           "style_family": "西皮",
-          "text": "这姻缘本是前生造，\n数年恩情一旦抛。\n结发夫妻一笔勾销。"
+          "text": "这姻缘本是前生造，"
+        },
+        {
+          "character": "朱买臣",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "数年恩情一旦抛。"
+        },
+        {
+          "character": "朱买臣",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "结发夫妻一笔勾销。"
         },
         {
           "character": null,
@@ -1236,7 +1354,17 @@
           "西皮快板",
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.021,
+        0.1818,
+        0.8182,
+        0.0,
+        0.6615,
+        3,
+        0.1818,
+        0.0
+      ]
     },
     {
       "scene_index": 4,
@@ -1258,7 +1386,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "人要是发了财，无论啥个人，都要拍拍马屁个。吾这一出来，敲鼓格，就是个\n样刮拉拉仓仓仓，个样三锣鼓。正是："
+          "text": "人要是发了财，无论啥个人，都要拍拍马屁个。吾这一出来，敲鼓格，就是个"
+        },
+        {
+          "character": "张三",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "样刮拉拉仓仓仓，个样三锣鼓。正是："
         },
         {
           "character": "张三",
@@ -1272,7 +1407,77 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "在下，张三，当一个泥瓦匠人，替人家造房间。刨土挖泥，刨出些银子来，发\n了这一注财，放在家里，又怕人偷盗，想要买点房子，又怕遭火烧个。吾就买\n了件衣服、巾子、靴子，将各个银子，就带在这身上，常言说个好：小人发财\n如同受罪。天天是坐卧弗宁，总想要花几个才好，吾想去堂子里，白相白相，\n倒可以花点巴银子，无奈吾又弗认得，堂子在哪里？有人对吾说：四马路门前\n头有灯笼个就是，吾就去哉，果然有一处大房间，门头有灯，还有一支手，指\n着个，吾想个一定是个，那晓得醋哉，是巡捕房，吾只好又同朋友打听，他们\n又对吾说了：堂子门首，都有牌子个。吾又到了二马路，门头有灯，果然挂着\n牌子，上面画格，像个阴户样个，还有些毛毛个，一定是个。哪晓得，又错哉，\n是一家眼科郎中。吾看个个堂子，也弗要去哉。到弗如在这庙门首，等等看，\n有年轻个妇人，长得标致个，同她来咯个姘头，到也弗错！"
+          "text": "在下，张三，当一个泥瓦匠人，替人家造房间。刨土挖泥，刨出些银子来，发"
+        },
+        {
+          "character": "张三",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "了这一注财，放在家里，又怕人偷盗，想要买点房子，又怕遭火烧个。吾就买"
+        },
+        {
+          "character": "张三",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "了件衣服、巾子、靴子，将各个银子，就带在这身上，常言说个好：小人发财"
+        },
+        {
+          "character": "张三",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "如同受罪。天天是坐卧弗宁，总想要花几个才好，吾想去堂子里，白相白相，"
+        },
+        {
+          "character": "张三",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "倒可以花点巴银子，无奈吾又弗认得，堂子在哪里？有人对吾说：四马路门前"
+        },
+        {
+          "character": "张三",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "头有灯笼个就是，吾就去哉，果然有一处大房间，门头有灯，还有一支手，指"
+        },
+        {
+          "character": "张三",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "着个，吾想个一定是个，那晓得醋哉，是巡捕房，吾只好又同朋友打听，他们"
+        },
+        {
+          "character": "张三",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "又对吾说了：堂子门首，都有牌子个。吾又到了二马路，门头有灯，果然挂着"
+        },
+        {
+          "character": "张三",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "牌子，上面画格，像个阴户样个，还有些毛毛个，一定是个。哪晓得，又错哉，"
+        },
+        {
+          "character": "张三",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "是一家眼科郎中。吾看个个堂子，也弗要去哉。到弗如在这庙门首，等等看，"
+        },
+        {
+          "character": "张三",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "有年轻个妇人，长得标致个，同她来咯个姘头，到也弗错！"
         },
         {
           "character": null,
@@ -1489,7 +1694,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "自由结婚，倷都弗懂？来来来，把手就个样一拉，把膀胳个样一扯，个就是自\n由结婚个！"
+          "text": "自由结婚，倷都弗懂？来来来，把手就个样一拉，把膀胳个样一扯，个就是自"
+        },
+        {
+          "character": "张三",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "由结婚个！"
         },
         {
           "character": null,
@@ -1517,7 +1729,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.9773,
+        0.0227,
+        0.6512,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 5,
@@ -1599,7 +1821,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.2,
+        0.6,
+        0.2,
+        0.5,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 6,
@@ -1793,7 +2025,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.056,
+        0.05,
+        0.9,
+        0.05,
+        0.8947,
+        2,
+        0.05,
+        0.0
+      ]
     },
     {
       "scene_index": 7,
@@ -2032,7 +2274,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 8,
@@ -2612,7 +2864,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.9839,
+        0.0161,
+        0.9344,
+        6,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 9,
@@ -2903,7 +3165,17 @@
           "西皮二六",
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.087,
+        0.1481,
+        0.8148,
+        0.037,
+        0.7692,
+        4,
+        0.1481,
+        0.0
+      ]
     }
   ]
 }

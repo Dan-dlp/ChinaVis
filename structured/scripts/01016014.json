@@ -141,7 +141,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "本帅，穆桂英。今奉仙师之命，带定法宝，大破天门。特奉圣恩，挂我为帅。\n左右，兵马可曾齐备？"
+          "text": "本帅，穆桂英。今奉仙师之命，带定法宝，大破天门。特奉圣恩，挂我为帅。"
+        },
+        {
+          "character": "穆桂英",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "左右，兵马可曾齐备？"
         },
         {
           "character": "四龙套",
@@ -442,7 +449,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "吓！误卯牌高挂，待我报门而进。\n报：先行告进。参见元帅。"
+          "text": "吓！误卯牌高挂，待我报门而进。"
+        },
+        {
+          "character": "杨宗保",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "报：先行告进。参见元帅。"
         },
         {
           "character": "仙童",
@@ -547,7 +561,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "既然是你，可就好打交道了。\n升堂！"
+          "text": "既然是你，可就好打交道了。"
+        },
+        {
+          "character": "穆桂英",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "升堂！"
         },
         {
           "character": null,
@@ -788,7 +809,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.8272,
+        0.1728,
+        0.8875,
+        6,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -828,7 +859,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -856,7 +897,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "俺，辽邦大将萧天佐。奉了太后将令，带领人马，夺取宋室天下。是俺在九龙\n峪口，摆下天门大阵。宋兵不敢前来。前面已是洪州。\n巴鲁儿，杀上前去！"
+          "text": "俺，辽邦大将萧天佐。奉了太后将令，带领人马，夺取宋室天下。是俺在九龙"
+        },
+        {
+          "character": "萧天佐",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "峪口，摆下天门大阵。宋兵不敢前来。前面已是洪州。"
+        },
+        {
+          "character": "萧天佐",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "巴鲁儿，杀上前去！"
         },
         {
           "character": null,
@@ -875,7 +930,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.75,
+        0.25,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 4,
@@ -1103,14 +1168,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "你对你妻子言讲：洪州城十家总兵，为父也在其内。看是哪家该在此伺候，哪\n家不该在此伺候？"
+          "text": "你对你妻子言讲：洪州城十家总兵，为父也在其内。看是哪家该在此伺候，哪"
+        },
+        {
+          "character": "杨延昭",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "家不该在此伺候？"
         },
         {
           "character": "杨宗保",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "父帅言道：洪州城十家总兵，父帅也在其内，看是哪家该在此伺候，哪家不该\n在此伺候。"
+          "text": "父帅言道：洪州城十家总兵，父帅也在其内，看是哪家该在此伺候，哪家不该"
+        },
+        {
+          "character": "杨宗保",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "在此伺候。"
         },
         {
           "character": "穆桂英",
@@ -1180,24 +1259,59 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "听说贼人要会阵，\n不由本帅动无名。\n先行前去会贼人。"
+          "text": "听说贼人要会阵，"
         },
         {
-          "character": "用手取出金批令、杨宗保",
+          "character": "穆桂英",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "不由本帅动无名。"
+        },
+        {
+          "character": "穆桂英",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "先行前去会贼人。"
+        },
+        {
+          "character": "穆桂英",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "用手取出金批令"
+        },
+        {
+          "character": "杨宗保",
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
           "text": "用手接过一支令。"
         },
         {
-          "character": "用手取出金批令、杨宗保",
+          "character": "杨宗保",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "用手取出金批令"
+        },
+        {
+          "character": "杨宗保",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
           "text": "马来！"
         },
         {
-          "character": "用手取出金批令、杨宗保",
+          "character": "杨宗保",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "用手取出金批令"
+        },
+        {
+          "character": "杨宗保",
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
@@ -1215,7 +1329,14 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "先行此去难得胜，\n且听探马报军情。"
+          "text": "先行此去难得胜，"
+        },
+        {
+          "character": "穆桂英",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "且听探马报军情。"
         },
         {
           "character": null,
@@ -1271,7 +1392,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.108,
+        0.2128,
+        0.766,
+        0.0213,
+        0.7391,
+        4,
+        0.1915,
+        0.0
+      ]
     },
     {
       "scene_index": 5,
@@ -1335,7 +1466,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 6,
@@ -1406,7 +1547,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "我吓！到了两军阵前，遇见萧天佐，与他战未三合，被他一枪——把我给枪回\n来了。"
+          "text": "我吓！到了两军阵前，遇见萧天佐，与他战未三合，被他一枪——把我给枪回"
+        },
+        {
+          "character": "杨宗保",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来了。"
         },
         {
           "character": "穆桂英",
@@ -1469,7 +1617,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "既然兴兵，就须知道号令。打了败仗，尚敢如此耀武扬威，未免少爷有点太高\n兴啦罢！"
+          "text": "既然兴兵，就须知道号令。打了败仗，尚敢如此耀武扬威，未免少爷有点太高"
+        },
+        {
+          "character": "穆桂英",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "兴啦罢！"
         },
         {
           "character": "杨宗保",
@@ -1483,7 +1638,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "咱们走着瞧。\n升堂。"
+          "text": "咱们走着瞧。"
+        },
+        {
+          "character": "穆桂英",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "升堂。"
         },
         {
           "character": null,
@@ -1497,7 +1659,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "先行，未曾出兵，先败我的头阵。\n来，推出斩了！"
+          "text": "先行，未曾出兵，先败我的头阵。"
+        },
+        {
+          "character": "穆桂英",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来，推出斩了！"
         },
         {
           "character": null,
@@ -1511,7 +1680,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "翁媳不能交谈，如何是好？\n来！"
+          "text": "翁媳不能交谈，如何是好？"
+        },
+        {
+          "character": "杨延昭",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来！"
         },
         {
           "character": "旗牌",
@@ -1539,7 +1715,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "招讨拜。\n送上营去。"
+          "text": "招讨拜。"
+        },
+        {
+          "character": "杨延昭",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "送上营去。"
         },
         {
           "character": "旗牌",
@@ -1567,7 +1750,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "招讨拜。\n我说父帅，你也老糊涂了。无论如何，我们总是两口子，难道说还用你老人家\n操心吗？我不过是灭灭他的火性而已。\n来！"
+          "text": "招讨拜。"
+        },
+        {
+          "character": "穆桂英",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我说父帅，你也老糊涂了。无论如何，我们总是两口子，难道说还用你老人家"
+        },
+        {
+          "character": "穆桂英",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "操心吗？我不过是灭灭他的火性而已。"
+        },
+        {
+          "character": "穆桂英",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来！"
         },
         {
           "character": "仙童",
@@ -1595,7 +1799,14 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "闻听饶恕小宗保，\n倒叫本帅喜心梢。"
+          "text": "闻听饶恕小宗保，"
+        },
+        {
+          "character": "杨延昭",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "倒叫本帅喜心梢。"
         },
         {
           "character": null,
@@ -1714,7 +1925,21 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "四十棍打的我疼痛难忍，\n只见鲜血两腿淋。\n勉强跌跪在埃尘。"
+          "text": "四十棍打的我疼痛难忍，"
+        },
+        {
+          "character": "杨宗保",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "只见鲜血两腿淋。"
+        },
+        {
+          "character": "杨宗保",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "勉强跌跪在埃尘。"
         },
         {
           "character": "杨宗保",
@@ -1724,7 +1949,14 @@
           "text": "谢元帅的责。"
         },
         {
-          "character": "咬定牙关大营进、穆桂英",
+          "character": "杨宗保",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "咬定牙关大营进"
+        },
+        {
+          "character": "穆桂英",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -1763,24 +1995,66 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "军法无私不顺情。\n军国大事不饶人。"
+          "text": "军法无私不顺情。"
         },
         {
-          "character": "到如今莫把为妻怨、杨宗保",
+          "character": "穆桂英",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "军国大事不饶人。"
+        },
+        {
+          "character": "穆桂英",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "到如今莫把为妻怨"
+        },
+        {
+          "character": "杨宗保",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
           "text": "住口！"
         },
         {
-          "character": "到如今莫把为妻怨、杨宗保",
+          "character": "杨宗保",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "到如今莫把为妻怨"
+        },
+        {
+          "character": "杨宗保",
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "桂英休得把言论，\n花言巧语莫欺人。\n敢把少爷怎样行？"
+          "text": "桂英休得把言论，"
         },
         {
-          "character": "纵然阵前不得胜、穆桂英",
+          "character": "杨宗保",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "花言巧语莫欺人。"
+        },
+        {
+          "character": "杨宗保",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "敢把少爷怎样行？"
+        },
+        {
+          "character": "杨宗保",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "纵然阵前不得胜"
+        },
+        {
+          "character": "穆桂英",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -1798,21 +2072,49 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "先行再听一支令，\n二次阵前去交兵。"
-        },
-        {
-          "character": "杨宗保",
-          "line_type": "西皮摇板",
-          "musical_style": "西皮摇板",
-          "style_family": "西皮",
-          "text": "时才贼人将你论，\n她道你不敢去出兵。"
+          "text": "先行再听一支令，"
         },
         {
           "character": "穆桂英",
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "听一言来怒气生，\n大骂天佐敢逞能！\n去至阵前会贼人。"
+          "text": "二次阵前去交兵。"
+        },
+        {
+          "character": "杨宗保",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "时才贼人将你论，"
+        },
+        {
+          "character": "杨宗保",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "她道你不敢去出兵。"
+        },
+        {
+          "character": "穆桂英",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "听一言来怒气生，"
+        },
+        {
+          "character": "穆桂英",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "大骂天佐敢逞能！"
+        },
+        {
+          "character": "穆桂英",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "去至阵前会贼人。"
         },
         {
           "character": null,
@@ -1826,7 +2128,14 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "阵前来了穆桂英，\n不由某家怒气生。"
+          "text": "阵前来了穆桂英，"
+        },
+        {
+          "character": "萧天佐",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "不由某家怒气生。"
         },
         {
           "character": null,
@@ -1915,7 +2224,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.304,
+        0.3896,
+        0.5844,
+        0.026,
+        0.4868,
+        6,
+        0.3766,
+        0.0
+      ]
     }
   ]
 }

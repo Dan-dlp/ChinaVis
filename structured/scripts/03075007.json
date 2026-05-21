@@ -328,7 +328,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -361,7 +371,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -401,7 +421,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "某、庐江太守刘勋。自从扫灭董卓之后，奉命镇守庐江。可恨孙策小儿，称霸\n江东，目空四海。是某心中不服，因此整顿人马，等候机会，前去征剿。也曾\n命张、丁二将催解粮草，未见到来。\n左右，伺候了！"
+          "text": "某、庐江太守刘勋。自从扫灭董卓之后，奉命镇守庐江。可恨孙策小儿，称霸"
+        },
+        {
+          "character": "刘勋",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "江东，目空四海。是某心中不服，因此整顿人马，等候机会，前去征剿。也曾"
+        },
+        {
+          "character": "刘勋",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "命张、丁二将催解粮草，未见到来。"
+        },
+        {
+          "character": "刘勋",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "左右，伺候了！"
         },
         {
           "character": "四龙套",
@@ -506,7 +547,14 @@
           "line_type": "同白",
           "musical_style": null,
           "style_family": null,
-          "text": "启禀太守：想那孙策所据不过弹丸之地，兵微将寡，纵然兴兵前来，也是自送\n其死，何足惧哉！"
+          "text": "启禀太守：想那孙策所据不过弹丸之地，兵微将寡，纵然兴兵前来，也是自送"
+        },
+        {
+          "character": "张仁、丁孝",
+          "line_type": "同白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "其死，何足惧哉！"
         },
         {
           "character": "刘勋",
@@ -520,7 +568,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "既然如此，待末将等各领人马，严防汛地；太守紧守城池，等那孙策到来，并\n力攻打，哪怕此贼不灭！"
+          "text": "既然如此，待末将等各领人马，严防汛地；太守紧守城池，等那孙策到来，并"
+        },
+        {
+          "character": "张仁",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "力攻打，哪怕此贼不灭！"
         },
         {
           "character": "刘勋",
@@ -548,7 +603,14 @@
           "line_type": "同白",
           "musical_style": null,
           "style_family": null,
-          "text": "得令！\n带马！"
+          "text": "得令！"
+        },
+        {
+          "character": "张仁、丁孝",
+          "line_type": "同白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "带马！"
         },
         {
           "character": null,
@@ -630,7 +692,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0345,
+        0.931,
+        0.0345,
+        0.7143,
+        6,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 4,
@@ -762,14 +834,56 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "某、姓孙名策字伯符。承父遗业，统领人马，独霸江东。方今天下大乱，群雄\n各据一方。想我江东之地，外有三江之险，内有吴越之众，纵横天下，大有可\n为。因此，勤修内政，整顿人马，以便图取中原。且喜各处主帅，闻某威名俱\n来归顺；只有庐江刘勋、豫章华歆，抗命不降。为此，点动兵将，意欲扫平他\n等。\n啊子布，此番兴兵，先取何处？"
+          "text": "某、姓孙名策字伯符。承父遗业，统领人马，独霸江东。方今天下大乱，群雄"
+        },
+        {
+          "character": "孙策",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "各据一方。想我江东之地，外有三江之险，内有吴越之众，纵横天下，大有可"
+        },
+        {
+          "character": "孙策",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "为。因此，勤修内政，整顿人马，以便图取中原。且喜各处主帅，闻某威名俱"
+        },
+        {
+          "character": "孙策",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来归顺；只有庐江刘勋、豫章华歆，抗命不降。为此，点动兵将，意欲扫平他"
+        },
+        {
+          "character": "孙策",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "等。"
+        },
+        {
+          "character": "孙策",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "啊子布，此番兴兵，先取何处？"
         },
         {
           "character": "张昭",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "启禀主公：想那庐江太守刘勋，兵强将勇，此番兴兵宜先取庐江。庐江若得，\n则一纸檄文，豫章可不战而得矣。"
+          "text": "启禀主公：想那庐江太守刘勋，兵强将勇，此番兴兵宜先取庐江。庐江若得，"
+        },
+        {
+          "character": "张昭",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "则一纸檄文，豫章可不战而得矣。"
         },
         {
           "character": "孙策",
@@ -797,7 +911,14 @@
           "line_type": "同白",
           "musical_style": null,
           "style_family": null,
-          "text": "啊！\n（〖牌子〗。四飞虎旗、四上手、黄盖、韩当、周泰、程普、孙策、大纛旗，张纮、吕范、虞翻、张昭自两"
+          "text": "啊！"
+        },
+        {
+          "character": "四上手",
+          "line_type": "同白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "（〖牌子〗。四飞虎旗、四上手、黄盖、韩当、周泰、程普、孙策、大纛旗，张纮、吕范、虞翻、张昭自两"
         }
       ],
       "interactions": [
@@ -852,7 +973,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.037,
+        0.9259,
+        0.037,
+        0.6923,
+        9,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 5,
@@ -897,7 +1028,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "孙策小儿，竟敢前来犯境，岂能容他猖狂！\n命你二人带领全部人马，一半迎敌，一半埋伏，待等诱敌深入，一拥而杀出，\n不得有误！"
+          "text": "孙策小儿，竟敢前来犯境，岂能容他猖狂！"
+        },
+        {
+          "character": "刘勋",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "命你二人带领全部人马，一半迎敌，一半埋伏，待等诱敌深入，一拥而杀出，"
+        },
+        {
+          "character": "刘勋",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "不得有误！"
         },
         {
           "character": "张仁、丁孝",
@@ -959,7 +1104,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.875,
+        0.125,
+        0.7143,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 6,
@@ -1055,7 +1210,14 @@
           "line_type": "同白",
           "musical_style": null,
           "style_family": null,
-          "text": "啊！\n（四飞虎旗、四上手、黄盖、韩当、周泰、程普、孙策、大纛旗同走圆场。四龙套、四下手、张仁、丁孝、"
+          "text": "啊！"
+        },
+        {
+          "character": "黄盖、韩当、周泰、程普",
+          "line_type": "同白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "（四飞虎旗、四上手、黄盖、韩当、周泰、程普、孙策、大纛旗同走圆场。四龙套、四下手、张仁、丁孝、"
         }
       ],
       "interactions": [
@@ -1089,7 +1251,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.8889,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 7,
@@ -1112,14 +1284,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "孙策来得厉害。\n张仁、丁孝，一齐杀出！"
+          "text": "孙策来得厉害。"
+        },
+        {
+          "character": "刘勋",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "张仁、丁孝，一齐杀出！"
         },
         {
           "character": "张仁、丁孝",
           "line_type": "同白",
           "musical_style": null,
           "style_family": null,
-          "text": "得令！\n（四龙套、四下手、张仁、丁孝、刘勋同走圆场。四飞虎旗、四上手、黄盖、韩当、周泰、程普、孙策同上，"
+          "text": "得令！"
+        },
+        {
+          "character": "张仁、丁孝",
+          "line_type": "同白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "（四龙套、四下手、张仁、丁孝、刘勋同走圆场。四飞虎旗、四上手、黄盖、韩当、周泰、程普、孙策同上，"
         }
       ],
       "interactions": [
@@ -1137,7 +1323,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.3333,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 8,
@@ -1162,7 +1358,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "且喜庐江已得，只是刘勋逃走，须另派守城之人。\n韩当、周泰听令！"
+          "text": "且喜庐江已得，只是刘勋逃走，须另派守城之人。"
+        },
+        {
+          "character": "孙策",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "韩当、周泰听令！"
         },
         {
           "character": "韩当、周泰",
@@ -1230,7 +1433,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.8333,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 9,
@@ -1280,7 +1493,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "这有何难！主公修下檄文一道，派人送与豫章太守华歆，他见刘勋已败，定然\n拱手来降也。"
+          "text": "这有何难！主公修下檄文一道，派人送与豫章太守华歆，他见刘勋已败，定然"
+        },
+        {
+          "character": "张昭",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "拱手来降也。"
         },
         {
           "character": "孙策",
@@ -1386,7 +1606,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.8571,
+        0.1429,
+        0.6923,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 10,
@@ -1408,7 +1638,21 @@
           "line_type": "西皮原板",
           "musical_style": "西皮原板",
           "style_family": "西皮",
-          "text": "自幼儿入玄门修真养性，\n每日里坐云床诵读黄庭。\n代苍天去宣化普救万民。"
+          "text": "自幼儿入玄门修真养性，"
+        },
+        {
+          "character": "于吉",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "每日里坐云床诵读黄庭。"
+        },
+        {
+          "character": "于吉",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "代苍天去宣化普救万民。"
         },
         {
           "character": null,
@@ -1429,7 +1673,42 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "贫道、瑯瑯宫羽士于吉是也。幼入玄门，修真养性。昔年入山采药，得神书\n《太平青领》于曲阳泉上，书中所载，皆治病良方。贫道自得此书，代天宣化，\n普救众生，不取金钱，不贪名利，倒也安然自在。今日云床打坐，心血上潮，\n不知主何吉凶。看近日天气亢旱，疠疫丛生，不免去到市廛之间，遇机救人，\n也算功德善举。\n童儿，看守观门，为师去去就回。"
+          "text": "贫道、瑯瑯宫羽士于吉是也。幼入玄门，修真养性。昔年入山采药，得神书"
+        },
+        {
+          "character": "于吉",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "《太平青领》于曲阳泉上，书中所载，皆治病良方。贫道自得此书，代天宣化，"
+        },
+        {
+          "character": "于吉",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "普救众生，不取金钱，不贪名利，倒也安然自在。今日云床打坐，心血上潮，"
+        },
+        {
+          "character": "于吉",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "不知主何吉凶。看近日天气亢旱，疠疫丛生，不免去到市廛之间，遇机救人，"
+        },
+        {
+          "character": "于吉",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "也算功德善举。"
+        },
+        {
+          "character": "于吉",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "童儿，看守观门，为师去去就回。"
         },
         {
           "character": "二道童",
@@ -1483,7 +1762,17 @@
         "musical_styles": [
           "西皮原板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.25,
+        0.2308,
+        0.6154,
+        0.1538,
+        0.1667,
+        2,
+        0.2308,
+        0.0
+      ]
     },
     {
       "scene_index": 11,
@@ -1504,14 +1793,28 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "江东领了我主命，\n许昌献表走一程。"
+          "text": "江东领了我主命，"
+        },
+        {
+          "character": "张纮",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "许昌献表走一程。"
         },
         {
           "character": "张纮",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "下官、张纮。奉了我主孙伯符之命，因战胜刘勋，去往许昌曹丞相那里献表告\n捷。就此前往！"
+          "text": "下官、张纮。奉了我主孙伯符之命，因战胜刘勋，去往许昌曹丞相那里献表告"
+        },
+        {
+          "character": "张纮",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "捷。就此前往！"
         },
         {
           "character": "张纮",
@@ -1530,7 +1833,17 @@
         "singing_ratio": 1.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        1.0,
+        0.6,
+        0.4,
+        0.0,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 12,
@@ -1554,7 +1867,28 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "想当年会诸侯清除君侧，\n扫灭了董卓贼安享天和。\n众臣僚一个个尽在掌握。\n但愿得灭群雄平定风波。"
+          "text": "想当年会诸侯清除君侧，"
+        },
+        {
+          "character": "曹操",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "扫灭了董卓贼安享天和。"
+        },
+        {
+          "character": "曹操",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "众臣僚一个个尽在掌握。"
+        },
+        {
+          "character": "曹操",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "但愿得灭群雄平定风波。"
         },
         {
           "character": null,
@@ -1575,7 +1909,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "哦，江东遣使到此，为了何事？\n奉孝，有何高见？"
+          "text": "哦，江东遣使到此，为了何事？"
+        },
+        {
+          "character": "曹操",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "奉孝，有何高见？"
         },
         {
           "character": "郭嘉",
@@ -1596,7 +1937,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "是。\n有请！"
+          "text": "是。"
+        },
+        {
+          "character": "中军",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "有请！"
         },
         {
           "character": null,
@@ -1645,7 +1993,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "我家主公近因征战庐江刘勋，大获全胜，献来捷表，一来告捷，二来问候丞相\n金安。丞相请看。"
+          "text": "我家主公近因征战庐江刘勋，大获全胜，献来捷表，一来告捷，二来问候丞相"
+        },
+        {
+          "character": "张纮",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "金安。丞相请看。"
         },
         {
           "character": null,
@@ -1659,7 +2014,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "待老夫转奏朝廷，定有升赏。\n中军，带领张先生馆驿安歇。"
+          "text": "待老夫转奏朝廷，定有升赏。"
+        },
+        {
+          "character": "曹操",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "中军，带领张先生馆驿安歇。"
         },
         {
           "character": "张纮",
@@ -1765,7 +2127,17 @@
         "singing_ratio": 0.056,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.056,
+        0.1538,
+        0.8077,
+        0.0385,
+        0.68,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 13,
@@ -1802,7 +2174,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "老夫、吴郡太守许贡。自从孙坚身亡，其子孙策独霸江东，目空一切。近因上\n表朝廷求为大司马，曹丞相不允，因此怀恨在心，有结连袁绍夺取许昌之意。\n不免修书告密，报与曹丞相便了。\n家院，溶墨伺候！"
+          "text": "老夫、吴郡太守许贡。自从孙坚身亡，其子孙策独霸江东，目空一切。近因上"
+        },
+        {
+          "character": "许贡",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "表朝廷求为大司马，曹丞相不允，因此怀恨在心，有结连袁绍夺取许昌之意。"
+        },
+        {
+          "character": "许贡",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "不免修书告密，报与曹丞相便了。"
+        },
+        {
+          "character": "许贡",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "家院，溶墨伺候！"
         },
         {
           "character": "院子",
@@ -1895,7 +2288,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.9091,
+        0.0909,
+        0.6,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 14,
@@ -1940,7 +2343,14 @@
           "line_type": "同白",
           "musical_style": null,
           "style_family": null,
-          "text": "奉了主公之命，把守江口。\n来，伺候了！"
+          "text": "奉了主公之命，把守江口。"
+        },
+        {
+          "character": "丁奉、徐盛",
+          "line_type": "同白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来，伺候了！"
         },
         {
           "character": "四上手",
@@ -2048,7 +2458,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.8182,
+        5,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 15,
@@ -2072,7 +2492,35 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "承父业霸江东威名远震，\n战庐江我也曾兵胜刘勋。\n战败了太史慈兵进神亭。\n到如今镇东南谁敢犯境？\n众谋臣集帐下勇将如云。"
+          "text": "承父业霸江东威名远震，"
+        },
+        {
+          "character": "孙策",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "战庐江我也曾兵胜刘勋。"
+        },
+        {
+          "character": "孙策",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "战败了太史慈兵进神亭。"
+        },
+        {
+          "character": "孙策",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "到如今镇东南谁敢犯境？"
+        },
+        {
+          "character": "孙策",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "众谋臣集帐下勇将如云。"
         },
         {
           "character": null,
@@ -2093,7 +2541,35 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "哦，有这等事！待某看来：\n“孙策骁勇，与项籍相似。朝廷宜外示荣耀，召还京师，不可使居外镇，以免\n后患。”\n原来许贡暗害于我，我自有道理。\n二将听令：将送信之人斩首；请许贡到此议事，不得有误！"
+          "text": "哦，有这等事！待某看来："
+        },
+        {
+          "character": "孙策",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "“孙策骁勇，与项籍相似。朝廷宜外示荣耀，召还京师，不可使居外镇，以免"
+        },
+        {
+          "character": "孙策",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "后患。”"
+        },
+        {
+          "character": "孙策",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "原来许贡暗害于我，我自有道理。"
+        },
+        {
+          "character": "孙策",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "二将听令：将送信之人斩首；请许贡到此议事，不得有误！"
         },
         {
           "character": "丁奉、徐盛",
@@ -2121,7 +2597,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "许贡行事真可恼，\n暗害某家罪难逃。"
+          "text": "许贡行事真可恼，"
+        },
+        {
+          "character": "孙策",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "暗害某家罪难逃。"
         },
         {
           "character": null,
@@ -2219,7 +2702,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "唗！许贡，想某平日待你不薄，竟敢献计曹操，欲送某于死地耶？\n丁、徐二将！"
+          "text": "唗！许贡，想某平日待你不薄，竟敢献计曹操，欲送某于死地耶？"
+        },
+        {
+          "character": "孙策",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "丁、徐二将！"
         },
         {
           "character": "丁奉、徐盛",
@@ -2240,7 +2730,14 @@
           "line_type": "同白",
           "musical_style": null,
           "style_family": null,
-          "text": "得令！\n走！"
+          "text": "得令！"
+        },
+        {
+          "character": "丁奉、徐盛",
+          "line_type": "同白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "走！"
         },
         {
           "character": "许贡",
@@ -2303,7 +2800,17 @@
         "singing_ratio": 0.05,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.05,
+        0.2188,
+        0.7812,
+        0.0,
+        0.5806,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 16,
@@ -2340,7 +2847,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 17,
@@ -2363,7 +2880,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 18,
@@ -2411,7 +2938,17 @@
         "singing_ratio": 1.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        1.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 19,
@@ -2437,7 +2974,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 20,
@@ -2589,7 +3136,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 21,
@@ -2720,7 +3277,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.6667,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 22,
@@ -3423,7 +3990,17 @@
         "singing_ratio": 0.016,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.016,
+        0.0303,
+        0.9394,
+        0.0303,
+        0.8923,
+        7,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 23,
@@ -3442,21 +4019,21 @@
           "text": "（二丫鬟引吴国太同上。）"
         },
         {
-          "character": null,
+          "character": "吴国太",
           "line_type": "念",
           "musical_style": null,
           "style_family": null,
           "text": "夫君不幸阵前亡，母子相依实可伤。喜有娇儿能奉养，江东称霸似君王。"
         },
         {
-          "character": null,
+          "character": "吴国太",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
           "text": "老身、乌程侯孙坚之妻吴氏。自侯爷去世之后，幸有长子孙策承继父志，南征"
         },
         {
-          "character": null,
+          "character": "吴国太",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
@@ -3606,7 +4183,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.9231,
+        0.0769,
+        0.9167,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 24,
@@ -3653,7 +4240,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.5,
+        0.5,
+        0.0,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 25,
@@ -3767,7 +4364,17 @@
         "singing_ratio": 0.25,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.25,
+        0.2222,
+        0.7778,
+        0.0,
+        0.875,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 26,
@@ -3839,7 +4446,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 27,
@@ -4119,7 +4736,17 @@
         "musical_styles": [
           "二黄原板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0952,
+        0.9048,
+        0.0,
+        0.7,
+        5,
+        0.0,
+        0.0476
+      ]
     },
     {
       "scene_index": 28,
@@ -4233,7 +4860,17 @@
         "singing_ratio": 0.143,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.143,
+        0.25,
+        0.75,
+        0.0,
+        0.8571,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 29,
@@ -4333,7 +4970,17 @@
           "二黄原板",
           "二黄导板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.667,
+        0.5,
+        0.3333,
+        0.1667,
+        0.0,
+        1,
+        0.0,
+        0.1667
+      ]
     },
     {
       "scene_index": 30,
@@ -4497,7 +5144,17 @@
         "singing_ratio": 0.2,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.2,
+        0.2308,
+        0.6923,
+        0.0769,
+        0.6667,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 31,
@@ -4691,7 +5348,17 @@
         "singing_ratio": 0.071,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.071,
+        0.0714,
+        0.9286,
+        0.0,
+        0.7692,
+        3,
+        0.0,
+        0.0
+      ]
     }
   ]
 }

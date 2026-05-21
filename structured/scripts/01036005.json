@@ -121,7 +121,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -165,14 +175,14 @@
           "text": "听吾道功成满月如来。"
         },
         {
-          "character": null,
+          "character": "如来",
           "line_type": "念",
           "musical_style": null,
           "style_family": null,
           "text": "讲有言无道两偏，非无非有彻中边。分明有相名无相，有有无无总是禅。"
         },
         {
-          "character": null,
+          "character": "如来",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -325,7 +335,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.9091,
+        0.0909,
+        0.8,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -348,7 +368,21 @@
           "line_type": "二黄慢板",
           "musical_style": "二黄慢板",
           "style_family": "二黄",
-          "text": "悟妙道好一似春梦乍醒，\n猛然间又入梦长夜冥冥。\n到无梦与无醒方见性灵。"
+          "text": "悟妙道好一似春梦乍醒，"
+        },
+        {
+          "character": "天女",
+          "line_type": "二黄慢板",
+          "musical_style": "二黄慢板",
+          "style_family": "二黄",
+          "text": "猛然间又入梦长夜冥冥。"
+        },
+        {
+          "character": "天女",
+          "line_type": "二黄慢板",
+          "musical_style": "二黄慢板",
+          "style_family": "二黄",
+          "text": "到无梦与无醒方见性灵。"
         },
         {
           "character": "天女",
@@ -362,7 +396,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "吾乃天女是也，奉了上帝敕封，命奴在这众香国中，管领群花，每逢诸天菩萨，\n众大弟子等谈经说法之时，我便将花片散落其身，藉验结习，为我佛广宣妙\n谛，普种善根。看来倒也逍遥自在。今日闲暇无事，不免在此打坐一番便了。"
+          "text": "吾乃天女是也，奉了上帝敕封，命奴在这众香国中，管领群花，每逢诸天菩萨，"
+        },
+        {
+          "character": "天女",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "众大弟子等谈经说法之时，我便将花片散落其身，藉验结习，为我佛广宣妙"
+        },
+        {
+          "character": "天女",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "谛，普种善根。看来倒也逍遥自在。今日闲暇无事，不免在此打坐一番便了。"
         },
         {
           "character": null,
@@ -495,7 +543,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "适才如来佛，有旨到来：命我到毘耶离城中散花，你可将花篮收拾整齐，随我\n前往。"
+          "text": "适才如来佛，有旨到来：命我到毘耶离城中散花，你可将花篮收拾整齐，随我"
+        },
+        {
+          "character": "天女",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "前往。"
         },
         {
           "character": "花奴",
@@ -572,7 +627,17 @@
           "二黄慢板",
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.105,
+        0.1481,
+        0.7037,
+        0.1481,
+        0.5769,
+        3,
+        0.037,
+        0.1111
+      ]
     },
     {
       "scene_index": 4,
@@ -593,7 +658,14 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "散花法旨传宣罢，\n回转灵山礼释迦。"
+          "text": "散花法旨传宣罢，"
+        },
+        {
+          "character": "伽篮",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "回转灵山礼释迦。"
         },
         {
           "character": "伽篮",
@@ -614,7 +686,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        1.0,
+        0.6667,
+        0.3333,
+        0.0,
+        0.0,
+        1,
+        0.6667,
+        0.0
+      ]
     },
     {
       "scene_index": 5,
@@ -642,7 +724,14 @@
           "line_type": "西皮慢板",
           "musical_style": "西皮慢板",
           "style_family": "西皮",
-          "text": "离却了众香国遍历大千。\n一霎时又来到毕岩钵前。"
+          "text": "离却了众香国遍历大千。"
+        },
+        {
+          "character": "天女",
+          "line_type": "西皮慢板",
+          "musical_style": "西皮慢板",
+          "style_family": "西皮",
+          "text": "一霎时又来到毕岩钵前。"
         },
         {
           "character": "天女",
@@ -656,14 +745,49 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "吾乃天女是也。遵奉佛旨，去到毘耶大城，维摩寺净名室中散花，乘风驭气而\n来，也不知经过多少红尘世界，你看旭日腾辉，瑶空散彩，毕钵山头果然一派\n好景也。"
+          "text": "吾乃天女是也。遵奉佛旨，去到毘耶大城，维摩寺净名室中散花，乘风驭气而"
+        },
+        {
+          "character": "天女",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来，也不知经过多少红尘世界，你看旭日腾辉，瑶空散彩，毕钵山头果然一派"
+        },
+        {
+          "character": "天女",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "好景也。"
         },
         {
           "character": "天女",
           "line_type": "西皮二六板",
           "musical_style": "西皮二六板",
           "style_family": "西皮",
-          "text": "云外的须弥山色空四显，\n迦陵仙岛舞翩迁。\n又见那入海的蛟螭在那浪中潜。\n青山一发普陀崖。"
+          "text": "云外的须弥山色空四显，"
+        },
+        {
+          "character": "天女",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "迦陵仙岛舞翩迁。"
+        },
+        {
+          "character": "天女",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "又见那入海的蛟螭在那浪中潜。"
+        },
+        {
+          "character": "天女",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "青山一发普陀崖。"
         },
         {
           "character": null,
@@ -701,7 +825,17 @@
           "西皮快板",
           "西皮慢板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.5,
+        0.5833,
+        0.3333,
+        0.0833,
+        0.0,
+        1,
+        0.5833,
+        0.0
+      ]
     },
     {
       "scene_index": 6,
@@ -722,14 +856,28 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "宝树金莲花采遍，\n法云护我下西天。"
+          "text": "宝树金莲花采遍，"
+        },
+        {
+          "character": "花奴",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "法云护我下西天。"
         },
         {
           "character": "花奴",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "我，花奴是也。天女命我携带花篮，随同前往。看天女已向前行，我只得急忙\n跟随去者。"
+          "text": "我，花奴是也。天女命我携带花篮，随同前往。看天女已向前行，我只得急忙"
+        },
+        {
+          "character": "花奴",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "跟随去者。"
         },
         {
           "character": "花奴",
@@ -751,7 +899,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.5,
+        0.6,
+        0.4,
+        0.0,
+        0.0,
+        1,
+        0.6,
+        0.0
+      ]
     },
     {
       "scene_index": 7,
@@ -818,7 +976,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "众位师弟，你看长者病了这些日子，他还要天天在禅榻上打坐，我们把这屋子，\n给他收拾收拾罢。"
+          "text": "众位师弟，你看长者病了这些日子，他还要天天在禅榻上打坐，我们把这屋子，"
+        },
+        {
+          "character": "沙弥甲",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "给他收拾收拾罢。"
         },
         {
           "character": "沙弥丁",
@@ -867,21 +1032,63 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "咦，我想和尚，哪能够真成了佛。不过是指着佛爷，穿件衣服；靠着佛爷，吃\n碗饭，就完啦。要真是什么事也不办，那有都难过。我可不打坐，我办不了。"
-        },
-        {
-          "character": "沙弥甲",
-          "line_type": "白",
-          "musical_style": null,
-          "style_family": null,
-          "text": "别怪我说你，真真罪过罪过。像您这样儿的佛门弟子，长者知道，谁得不赶你\n出去。"
+          "text": "咦，我想和尚，哪能够真成了佛。不过是指着佛爷，穿件衣服；靠着佛爷，吃"
         },
         {
           "character": "沙弥丁",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "巧了，我还正想出这个门儿呢。我时常心里，想着人家受苦的尽有：有老来受\n苦的，也有中年受苦的，再不然，十来岁上就受苦。谁像我们做和尚的，在那\n娘肚子里头就苦。养出来了，我从小儿就常常生病。我那母亲，有爱子之心，\n无有一天不治道了的。我母亲请了一算命的先生来，把我生日八字，左这么一\n推，右这么一算，他算来算去，那先生简直的活见了鬼了。"
+          "text": "碗饭，就完啦。要真是什么事也不办，那有都难过。我可不打坐，我办不了。"
+        },
+        {
+          "character": "沙弥甲",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "别怪我说你，真真罪过罪过。像您这样儿的佛门弟子，长者知道，谁得不赶你"
+        },
+        {
+          "character": "沙弥甲",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "出去。"
+        },
+        {
+          "character": "沙弥丁",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "巧了，我还正想出这个门儿呢。我时常心里，想着人家受苦的尽有：有老来受"
+        },
+        {
+          "character": "沙弥丁",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "苦的，也有中年受苦的，再不然，十来岁上就受苦。谁像我们做和尚的，在那"
+        },
+        {
+          "character": "沙弥丁",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "娘肚子里头就苦。养出来了，我从小儿就常常生病。我那母亲，有爱子之心，"
+        },
+        {
+          "character": "沙弥丁",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "无有一天不治道了的。我母亲请了一算命的先生来，把我生日八字，左这么一"
+        },
+        {
+          "character": "沙弥丁",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "推，右这么一算，他算来算去，那先生简直的活见了鬼了。"
         },
         {
           "character": "沙弥甲",
@@ -895,7 +1102,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "你听我说呀。先生他说：令郎的八字，混杂得很，唯得改名换姓，才养活大了。\n说什么命犯孤魔，三、六、九岁实在难过。我那爹娘，听了这些话，唬的就\n起了个念头，赶紧送我到空门削发，烧香奉佛，才做了和尚。当了这几年，我\n心理怨也来不及喽，简直的难过的厉害。"
+          "text": "你听我说呀。先生他说：令郎的八字，混杂得很，唯得改名换姓，才养活大了。"
+        },
+        {
+          "character": "沙弥丁",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "说什么命犯孤魔，三、六、九岁实在难过。我那爹娘，听了这些话，唬的就"
+        },
+        {
+          "character": "沙弥丁",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "起了个念头，赶紧送我到空门削发，烧香奉佛，才做了和尚。当了这几年，我"
+        },
+        {
+          "character": "沙弥丁",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "心理怨也来不及喽，简直的难过的厉害。"
         },
         {
           "character": "沙弥甲",
@@ -923,7 +1151,35 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "他说徒弟，你不要出家的好，出家人有许多难处。我就说老师父，徒弟愿意来\n出家。我想这出家，不过是看经念佛，说说道法，有什么难处。我那师父说：\n我的儿呀，你哪里知道这，做和尚香烟不许吃，美酒全无份，红粉佳人不许瞧；\n雪夜孤眠寒悄悄，霜天削发冷萧萧。要受尽万难千磨，还要过多少苦楚的。\n我可说了，这话说的可就不对么。"
+          "text": "他说徒弟，你不要出家的好，出家人有许多难处。我就说老师父，徒弟愿意来"
+        },
+        {
+          "character": "沙弥丁",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "出家。我想这出家，不过是看经念佛，说说道法，有什么难处。我那师父说："
+        },
+        {
+          "character": "沙弥丁",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我的儿呀，你哪里知道这，做和尚香烟不许吃，美酒全无份，红粉佳人不许瞧；"
+        },
+        {
+          "character": "沙弥丁",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "雪夜孤眠寒悄悄，霜天削发冷萧萧。要受尽万难千磨，还要过多少苦楚的。"
+        },
+        {
+          "character": "沙弥丁",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我可说了，这话说的可就不对么。"
         },
         {
           "character": "沙弥甲",
@@ -937,7 +1193,84 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "师兄，你想我在那庙里的时候，每逢到了初一十五，大开山门，山下有许多男\n男女女，前来烧香拜佛的也不少，内中有一个妇人，生得真是千娇百媚，十分\n好看，我还记得她的样子。那她冲着人，把那小手这么一捽，小腰这么一摆，\n吊着小嗓子，叫一声呦，“你们倒是等我一等呀！”嗳呵，那妇女叫了叫了这\n么一声，就把我的魂灵儿，全都被她叫了去。我一夜也无有睡着，到了第二天\n早晨起来，脸也瘦了，眼眶子也蹈了。偏偏又被我师父看破了，将我骂了一声：\n我把你这无知的畜生，想你当初，进我这山门来，肥肥胖胖的一个和尚，怎\n么如今，弄成这样子？想是你动了邪念，还做什么佛门弟子！一顿戒尺，给我\n赶下山去！唬得我跪在地下，我就说了：老师父，徒弟前来出家，不过是看经\n念佛，并没有丝毫杂念，一心只想成佛升天，如今离着天只有三寸半了，你怎\n么倒要赶我出去？岂不辜负了我几年的苦工夫？我求了半天，他也不理，我也\n无法子了，只好到这里来，给你们作个伙计。"
+          "text": "师兄，你想我在那庙里的时候，每逢到了初一十五，大开山门，山下有许多男"
+        },
+        {
+          "character": "沙弥丁",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "男女女，前来烧香拜佛的也不少，内中有一个妇人，生得真是千娇百媚，十分"
+        },
+        {
+          "character": "沙弥丁",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "好看，我还记得她的样子。那她冲着人，把那小手这么一捽，小腰这么一摆，"
+        },
+        {
+          "character": "沙弥丁",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "吊着小嗓子，叫一声呦，“你们倒是等我一等呀！”嗳呵，那妇女叫了叫了这"
+        },
+        {
+          "character": "沙弥丁",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "么一声，就把我的魂灵儿，全都被她叫了去。我一夜也无有睡着，到了第二天"
+        },
+        {
+          "character": "沙弥丁",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "早晨起来，脸也瘦了，眼眶子也蹈了。偏偏又被我师父看破了，将我骂了一声："
+        },
+        {
+          "character": "沙弥丁",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我把你这无知的畜生，想你当初，进我这山门来，肥肥胖胖的一个和尚，怎"
+        },
+        {
+          "character": "沙弥丁",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "么如今，弄成这样子？想是你动了邪念，还做什么佛门弟子！一顿戒尺，给我"
+        },
+        {
+          "character": "沙弥丁",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "赶下山去！唬得我跪在地下，我就说了：老师父，徒弟前来出家，不过是看经"
+        },
+        {
+          "character": "沙弥丁",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "念佛，并没有丝毫杂念，一心只想成佛升天，如今离着天只有三寸半了，你怎"
+        },
+        {
+          "character": "沙弥丁",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "么倒要赶我出去？岂不辜负了我几年的苦工夫？我求了半天，他也不理，我也"
+        },
+        {
+          "character": "沙弥丁",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "无法子了，只好到这里来，给你们作个伙计。"
         },
         {
           "character": "三沙弥",
@@ -986,14 +1319,35 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "你听着：出家人必要清净，每日不思别事，一心念佛学法，如若有真工，还能\n上西天坐莲花托。"
+          "text": "你听着：出家人必要清净，每日不思别事，一心念佛学法，如若有真工，还能"
+        },
+        {
+          "character": "沙弥乙",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "上西天坐莲花托。"
         },
         {
           "character": "沙弥丁",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "你别胡说了，想我们当和尚的，还想上西天，坐那莲花呀！你们看，怎么这许\n多的师兄弟修行，哪一个上西天了？我见全都是花和尚，一天吃吃穿穿打打闹\n闹，在不能修行成佛。你们哪一个能讲经说法，晓得道门中的妙法？"
+          "text": "你别胡说了，想我们当和尚的，还想上西天，坐那莲花呀！你们看，怎么这许"
+        },
+        {
+          "character": "沙弥丁",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "多的师兄弟修行，哪一个上西天了？我见全都是花和尚，一天吃吃穿穿打打闹"
+        },
+        {
+          "character": "沙弥丁",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "闹，在不能修行成佛。你们哪一个能讲经说法，晓得道门中的妙法？"
         },
         {
           "character": "沙弥甲",
@@ -1014,7 +1368,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "师弟，你不要小看人。哪都像你这样的无知，做了和尚，全都不晓得道德，只\n想奸盗邪淫，不作正事，还出得什么家啦？"
+          "text": "师弟，你不要小看人。哪都像你这样的无知，做了和尚，全都不晓得道德，只"
+        },
+        {
+          "character": "沙弥甲",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "想奸盗邪淫，不作正事，还出得什么家啦？"
         },
         {
           "character": "沙弥丁",
@@ -1056,7 +1417,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "别道不说，就说天下佛门弟子，学道之人，必也以古为鉴，择其善者而从之，\n其不善者改之，要知三世事，须读一切经。"
+          "text": "别道不说，就说天下佛门弟子，学道之人，必也以古为鉴，择其善者而从之，"
+        },
+        {
+          "character": "沙弥甲",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "其不善者改之，要知三世事，须读一切经。"
         },
         {
           "character": "沙弥丁",
@@ -1070,7 +1438,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "孔子曰：生而知之者上也，学而知之者次也，因而学之又其次也，因而不学，\n民斯为下矣。"
+          "text": "孔子曰：生而知之者上也，学而知之者次也，因而学之又其次也，因而不学，"
+        },
+        {
+          "character": "沙弥甲",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "民斯为下矣。"
         },
         {
           "character": "沙弥丁",
@@ -1084,7 +1459,35 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "师弟，我教导你，出家人谋道不谋食，耕也馁在其中矣，学也禄在其中矣，君\n子忧道不忧贫也。\n我今劝你众同伦，不必参谁看经文。但得一句弥陀佛，二六时中抱在心。万里\n浮云连赫日，人间处处有余光。\n我今说的话，你要学学，好好用心念经为妙也。"
+          "text": "师弟，我教导你，出家人谋道不谋食，耕也馁在其中矣，学也禄在其中矣，君"
+        },
+        {
+          "character": "沙弥甲",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "子忧道不忧贫也。"
+        },
+        {
+          "character": "沙弥甲",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我今劝你众同伦，不必参谁看经文。但得一句弥陀佛，二六时中抱在心。万里"
+        },
+        {
+          "character": "沙弥甲",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "浮云连赫日，人间处处有余光。"
+        },
+        {
+          "character": "沙弥甲",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我今说的话，你要学学，好好用心念经为妙也。"
         },
         {
           "character": "沙弥丁",
@@ -1178,7 +1581,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.9524,
+        0.0476,
+        0.5783,
+        5,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 8,
@@ -1200,7 +1613,14 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "将身坐在莲花台上，\n众弟子听我把经讲。"
+          "text": "将身坐在莲花台上，"
+        },
+        {
+          "character": "如来",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "众弟子听我把经讲。"
         },
         {
           "character": null,
@@ -1214,7 +1634,14 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "传旨已毕回佛殿，\n见了世尊说根源。"
+          "text": "传旨已毕回佛殿，"
+        },
+        {
+          "character": "伽蓝",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "见了世尊说根源。"
         },
         {
           "character": "伽蓝",
@@ -1273,7 +1700,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.4,
+        0.5,
+        0.5,
+        0.0,
+        0.5714,
+        2,
+        0.5,
+        0.0
+      ]
     },
     {
       "scene_index": 9,
@@ -1342,7 +1779,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "众位师弟，你看长者病了这些日子，他还要天天在禅榻上打坐，我们把这屋子，\n给他收拾收拾罢。"
+          "text": "众位师弟，你看长者病了这些日子，他还要天天在禅榻上打坐，我们把这屋子，"
+        },
+        {
+          "character": "沙弥甲",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "给他收拾收拾罢。"
         },
         {
           "character": "沙弥丁",
@@ -1391,21 +1835,63 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "咦，我想和尚，哪能够真成了佛。不过是指着佛爷，穿件衣服；靠着佛爷，吃\n碗饭，就完啦。要真是什么事也不办，那有都难过。我可不打坐，我办不了。"
-        },
-        {
-          "character": "沙弥甲",
-          "line_type": "白",
-          "musical_style": null,
-          "style_family": null,
-          "text": "别怪我说你，真真罪过罪过。像您这样儿的佛门弟子，长者知道，谁得不赶你\n出去。"
+          "text": "咦，我想和尚，哪能够真成了佛。不过是指着佛爷，穿件衣服；靠着佛爷，吃"
         },
         {
           "character": "沙弥丁",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "巧了，我还正想出这个门儿呢。我时常心里，想着人家受苦的尽有：有老来受\n苦的，也有中年受苦的，再不然，十来岁上就受苦。谁像我们做和尚的，在那\n娘肚子里头就苦。养出来了，我从小儿就常常生病。我那母亲，有爱子之心，\n无有一天不治道了的。我母亲请了一算命的先生来，把我生日八字，左这么一\n推，右这么一算，他算来算去，那先生简直的活见了鬼了。"
+          "text": "碗饭，就完啦。要真是什么事也不办，那有都难过。我可不打坐，我办不了。"
+        },
+        {
+          "character": "沙弥甲",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "别怪我说你，真真罪过罪过。像您这样儿的佛门弟子，长者知道，谁得不赶你"
+        },
+        {
+          "character": "沙弥甲",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "出去。"
+        },
+        {
+          "character": "沙弥丁",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "巧了，我还正想出这个门儿呢。我时常心里，想着人家受苦的尽有：有老来受"
+        },
+        {
+          "character": "沙弥丁",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "苦的，也有中年受苦的，再不然，十来岁上就受苦。谁像我们做和尚的，在那"
+        },
+        {
+          "character": "沙弥丁",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "娘肚子里头就苦。养出来了，我从小儿就常常生病。我那母亲，有爱子之心，"
+        },
+        {
+          "character": "沙弥丁",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "无有一天不治道了的。我母亲请了一算命的先生来，把我生日八字，左这么一"
+        },
+        {
+          "character": "沙弥丁",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "推，右这么一算，他算来算去，那先生简直的活见了鬼了。"
         },
         {
           "character": "沙弥甲",
@@ -1419,7 +1905,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "你听我说呀。先生他说：令郎的八字，混杂得很，唯得改名换姓，才养活大了。\n说什么命犯孤魔，三、六、九岁实在难过。我那爹娘，听了这些话，唬的就\n起了个念头，赶紧送我到空门削发，烧香奉佛，才做了和尚。当了这几年，我\n心理怨也来不及喽，简直的难过的厉害。"
+          "text": "你听我说呀。先生他说：令郎的八字，混杂得很，唯得改名换姓，才养活大了。"
+        },
+        {
+          "character": "沙弥丁",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "说什么命犯孤魔，三、六、九岁实在难过。我那爹娘，听了这些话，唬的就"
+        },
+        {
+          "character": "沙弥丁",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "起了个念头，赶紧送我到空门削发，烧香奉佛，才做了和尚。当了这几年，我"
+        },
+        {
+          "character": "沙弥丁",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "心理怨也来不及喽，简直的难过的厉害。"
         },
         {
           "character": "沙弥甲",
@@ -1447,7 +1954,35 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "他说徒弟，你不要出家的好，出家人有许多难处。我就说老师父，徒弟愿意来\n出家。我想这出家，不过是看经念佛，说说道法，有什么难处。我那师父说：\n我的儿呀，你哪里知道这，做和尚香烟不许吃，美酒全无份，红粉佳人不许瞧；\n雪夜孤眠寒悄悄，霜天削发冷萧萧。要受尽万难千磨，还要过多少苦楚的。\n我可说了，这话说的可就不对么。"
+          "text": "他说徒弟，你不要出家的好，出家人有许多难处。我就说老师父，徒弟愿意来"
+        },
+        {
+          "character": "沙弥丁",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "出家。我想这出家，不过是看经念佛，说说道法，有什么难处。我那师父说："
+        },
+        {
+          "character": "沙弥丁",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我的儿呀，你哪里知道这，做和尚香烟不许吃，美酒全无份，红粉佳人不许瞧；"
+        },
+        {
+          "character": "沙弥丁",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "雪夜孤眠寒悄悄，霜天削发冷萧萧。要受尽万难千磨，还要过多少苦楚的。"
+        },
+        {
+          "character": "沙弥丁",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我可说了，这话说的可就不对么。"
         },
         {
           "character": "沙弥甲",
@@ -1461,7 +1996,84 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "师兄，你想我在那庙里的时候，每逢到了初一十五，大开山门，山下有许多男\n男女女，前来烧香拜佛的也不少，内中有一个妇人，生得真是千娇百媚，十分\n好看，我还记得她的样子。那她冲着人，把那小手这么一捽，小腰这么一摆，\n吊着小嗓子，叫一声呦，“你们倒是等我一等呀！”嗳呵，那妇女叫了叫了这\n么一声，就把我的魂灵儿，全都被她叫了去。我一夜也无有睡着，到了第二天\n早晨起来，脸也瘦了，眼眶子也蹈了。偏偏又被我师父看破了，将我骂了一声：\n我把你这无知的畜生，想你当初，进我这山门来，肥肥胖胖的一个和尚，怎\n么如今，弄成这样子？想是你动了邪念，还做什么佛门弟子！一顿戒尺，给我\n赶下山去！唬得我跪在地下，我就说了：老师父，徒弟前来出家，不过是看经\n念佛，并没有丝毫杂念，一心只想成佛升天，如今离着天只有三寸半了，你怎\n么倒要赶我出去？岂不辜负了我几年的苦工夫？我求了半天，他也不理，我也\n无法子了，只好到这里来，给你们作个伙计。"
+          "text": "师兄，你想我在那庙里的时候，每逢到了初一十五，大开山门，山下有许多男"
+        },
+        {
+          "character": "沙弥丁",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "男女女，前来烧香拜佛的也不少，内中有一个妇人，生得真是千娇百媚，十分"
+        },
+        {
+          "character": "沙弥丁",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "好看，我还记得她的样子。那她冲着人，把那小手这么一捽，小腰这么一摆，"
+        },
+        {
+          "character": "沙弥丁",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "吊着小嗓子，叫一声呦，“你们倒是等我一等呀！”嗳呵，那妇女叫了叫了这"
+        },
+        {
+          "character": "沙弥丁",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "么一声，就把我的魂灵儿，全都被她叫了去。我一夜也无有睡着，到了第二天"
+        },
+        {
+          "character": "沙弥丁",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "早晨起来，脸也瘦了，眼眶子也蹈了。偏偏又被我师父看破了，将我骂了一声："
+        },
+        {
+          "character": "沙弥丁",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我把你这无知的畜生，想你当初，进我这山门来，肥肥胖胖的一个和尚，怎"
+        },
+        {
+          "character": "沙弥丁",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "么如今，弄成这样子？想是你动了邪念，还做什么佛门弟子！一顿戒尺，给我"
+        },
+        {
+          "character": "沙弥丁",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "赶下山去！唬得我跪在地下，我就说了：老师父，徒弟前来出家，不过是看经"
+        },
+        {
+          "character": "沙弥丁",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "念佛，并没有丝毫杂念，一心只想成佛升天，如今离着天只有三寸半了，你怎"
+        },
+        {
+          "character": "沙弥丁",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "么倒要赶我出去？岂不辜负了我几年的苦工夫？我求了半天，他也不理，我也"
+        },
+        {
+          "character": "沙弥丁",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "无法子了，只好到这里来，给你们作个伙计。"
         },
         {
           "character": "三沙弥",
@@ -1510,14 +2122,35 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "你听着：出家人必要清净，每日不思别事，一心念佛学法，如若有真工，还能\n上西天坐莲花托。"
+          "text": "你听着：出家人必要清净，每日不思别事，一心念佛学法，如若有真工，还能"
+        },
+        {
+          "character": "沙弥乙",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "上西天坐莲花托。"
         },
         {
           "character": "沙弥丁",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "你别胡说了，想我们当和尚的，还想上西天，坐那莲花呀！你们看，怎么这许\n多的师兄弟修行，哪一个上西天了？我见全都是花和尚，一天吃吃穿穿打打闹\n闹，在不能修行成佛。你们哪一个能讲经说法，晓得道门中的妙法？"
+          "text": "你别胡说了，想我们当和尚的，还想上西天，坐那莲花呀！你们看，怎么这许"
+        },
+        {
+          "character": "沙弥丁",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "多的师兄弟修行，哪一个上西天了？我见全都是花和尚，一天吃吃穿穿打打闹"
+        },
+        {
+          "character": "沙弥丁",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "闹，在不能修行成佛。你们哪一个能讲经说法，晓得道门中的妙法？"
         },
         {
           "character": "沙弥甲",
@@ -1538,7 +2171,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "师弟，你不要小看人。哪都像你这样的无知，做了和尚，全都不晓得道德，只\n想奸盗邪淫，不作正事，还出得什么家啦？"
+          "text": "师弟，你不要小看人。哪都像你这样的无知，做了和尚，全都不晓得道德，只"
+        },
+        {
+          "character": "沙弥甲",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "想奸盗邪淫，不作正事，还出得什么家啦？"
         },
         {
           "character": "沙弥丁",
@@ -1580,7 +2220,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "别道不说，就说天下佛门弟子，学道之人，必也以古为鉴，择其善者而从之，\n其不善者改之，要知三世事，须读一切经。"
+          "text": "别道不说，就说天下佛门弟子，学道之人，必也以古为鉴，择其善者而从之，"
+        },
+        {
+          "character": "沙弥甲",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "其不善者改之，要知三世事，须读一切经。"
         },
         {
           "character": "沙弥丁",
@@ -1594,7 +2241,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "孔子曰：生而知之者上也，学而知之者次也，因而学之又其次也，因而不学，\n民斯为下矣。"
+          "text": "孔子曰：生而知之者上也，学而知之者次也，因而学之又其次也，因而不学，"
+        },
+        {
+          "character": "沙弥甲",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "民斯为下矣。"
         },
         {
           "character": "沙弥丁",
@@ -1608,7 +2262,35 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "师弟，我教导你，出家人谋道不谋食，耕也馁在其中矣，学也禄在其中矣，君\n子忧道不忧贫也。\n我今劝你众同伦，不必参谁看经文。但得一句弥陀佛，二六时中抱在心。万里\n浮云连赫日，人间处处有余光。\n我今说的话，你要学学，好好用心念经为妙也。"
+          "text": "师弟，我教导你，出家人谋道不谋食，耕也馁在其中矣，学也禄在其中矣，君"
+        },
+        {
+          "character": "沙弥甲",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "子忧道不忧贫也。"
+        },
+        {
+          "character": "沙弥甲",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我今劝你众同伦，不必参谁看经文。但得一句弥陀佛，二六时中抱在心。万里"
+        },
+        {
+          "character": "沙弥甲",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "浮云连赫日，人间处处有余光。"
+        },
+        {
+          "character": "沙弥甲",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我今说的话，你要学学，好好用心念经为妙也。"
         },
         {
           "character": "沙弥丁",
@@ -1657,7 +2339,14 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "将身坐在莲花台上，\n众弟子听我把经讲。"
+          "text": "将身坐在莲花台上，"
+        },
+        {
+          "character": "如来",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "众弟子听我把经讲。"
         },
         {
           "character": null,
@@ -1671,7 +2360,14 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "传旨已毕回佛殿，\n见了世尊说根源。"
+          "text": "传旨已毕回佛殿，"
+        },
+        {
+          "character": "伽蓝",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "见了世尊说根源。"
         },
         {
           "character": "伽蓝",
@@ -1770,7 +2466,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0435,
+        0.913,
+        0.0435,
+        0.5824,
+        7,
+        0.0435,
+        0.0
+      ]
     }
   ]
 }

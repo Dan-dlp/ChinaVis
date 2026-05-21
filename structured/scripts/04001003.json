@@ -327,7 +327,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.9,
+        7,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -367,7 +377,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "本帅姓岳名飞字鹏举。宋皇驾前为臣。可恨兀术，屡次兴兵犯境，日前将我主\n围困牛头山上；本帅整顿兵马，意欲与他决一死战。不免命牛皋去至番营，投\n下战书。\n站堂军，请牛将军进帐。"
+          "text": "本帅姓岳名飞字鹏举。宋皇驾前为臣。可恨兀术，屡次兴兵犯境，日前将我主"
+        },
+        {
+          "character": "岳飞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "围困牛头山上；本帅整顿兵马，意欲与他决一死战。不免命牛皋去至番营，投"
+        },
+        {
+          "character": "岳飞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "下战书。"
+        },
+        {
+          "character": "岳飞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "站堂军，请牛将军进帐。"
         },
         {
           "character": "四宋兵",
@@ -444,21 +475,63 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "前去下书非交战，\n礼当扮做文职官。\n见机而行早回还。"
+          "text": "前去下书非交战，"
         },
         {
-          "character": "此番见了兀术面、牛皋",
+          "character": "岳飞",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "礼当扮做文职官。"
+        },
+        {
+          "character": "岳飞",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "见机而行早回还。"
+        },
+        {
+          "character": "岳飞",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "此番见了兀术面"
+        },
+        {
+          "character": "牛皋",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
           "text": "元帅！"
         },
         {
-          "character": "此番见了兀术面、牛皋",
+          "character": "牛皋",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "此番见了兀术面"
+        },
+        {
+          "character": "牛皋",
           "line_type": "西皮流水板",
           "musical_style": "西皮流水板",
           "style_family": "西皮",
-          "text": "元帅但把心放宽，\n咱牛皋自有巧机关。\n哪怕他千军万马虎穴与龙潭。"
+          "text": "元帅但把心放宽，"
+        },
+        {
+          "character": "牛皋",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "咱牛皋自有巧机关。"
+        },
+        {
+          "character": "牛皋",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "哪怕他千军万马虎穴与龙潭。"
         },
         {
           "character": null,
@@ -472,10 +545,31 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "忙把书信写一番。⑴\n两军会阵牛头山。"
+          "text": "忙把书信写一番。⑴"
         },
         {
-          "character": "三日之后来交战、修罢书信把牛皋唤、四宋兵",
+          "character": "岳飞",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "两军会阵牛头山。"
+        },
+        {
+          "character": "岳飞",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "三日之后来交战"
+        },
+        {
+          "character": "岳飞",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "修罢书信把牛皋唤"
+        },
+        {
+          "character": "四宋兵",
           "line_type": "同白",
           "musical_style": null,
           "style_family": null,
@@ -500,7 +594,14 @@
           "line_type": "西皮流水板",
           "musical_style": "西皮流水板",
           "style_family": "西皮",
-          "text": "一霎时扮做文职官。\n虎穴龙潭走一番。"
+          "text": "一霎时扮做文职官。"
+        },
+        {
+          "character": "牛皋",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "虎穴龙潭走一番。"
         },
         {
           "character": null,
@@ -561,7 +662,17 @@
           "西皮摇板",
           "西皮流水"
         ]
-      }
+      },
+      "scene_feature": [
+        0.083,
+        0.4242,
+        0.5152,
+        0.0606,
+        0.375,
+        3,
+        0.3939,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -590,7 +701,21 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "牛头山前打一仗，\n宋营将士个个强。\n且听儿郎报端详。"
+          "text": "牛头山前打一仗，"
+        },
+        {
+          "character": "兀术",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "宋营将士个个强。"
+        },
+        {
+          "character": "兀术",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "且听儿郎报端详。"
         },
         {
           "character": null,
@@ -653,10 +778,24 @@
           "line_type": "西皮流水板",
           "musical_style": "西皮流水板",
           "style_family": "西皮",
-          "text": "元帅帐中将令传，\n命俺下书到此间。"
+          "text": "元帅帐中将令传，"
         },
         {
-          "character": "来在番营用目看、报子",
+          "character": "牛皋",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "命俺下书到此间。"
+        },
+        {
+          "character": "牛皋",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "来在番营用目看"
+        },
+        {
+          "character": "报子",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -702,14 +841,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "哎呀且住！那兀术传下话来，叫俺报门而进；俺若报门，岂不弱了俺宋营的锐\n气？这……有了，俺不免大摇大摆闯进帐去，他有来言，咱有去语。"
+          "text": "哎呀且住！那兀术传下话来，叫俺报门而进；俺若报门，岂不弱了俺宋营的锐"
+        },
+        {
+          "character": "牛皋",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "气？这……有了，俺不免大摇大摆闯进帐去，他有来言，咱有去语。"
         },
         {
           "character": "牛皋",
           "line_type": "西皮流水板",
           "musical_style": "西皮流水板",
           "style_family": "西皮",
-          "text": "兀术把人来小量，\n不由俺怒气满胸膛。"
+          "text": "兀术把人来小量，"
+        },
+        {
+          "character": "牛皋",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "不由俺怒气满胸膛。"
         },
         {
           "character": null,
@@ -744,7 +897,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "哼！我也不管你是长平王啊，还是短平王，咱牛皋也曾做过公道大王。俺今奉\n了宋皇圣旨，元帅将令，前来下战书，到此乃是客位，你就该下位迎接你牛将\n军才是正理；怎么你反坐在上面，是这样大模大样，自尊自大？想这自大乃是\n个臭字，有道是”臭而不可闻也”哟！"
+          "text": "哼！我也不管你是长平王啊，还是短平王，咱牛皋也曾做过公道大王。俺今奉"
+        },
+        {
+          "character": "牛皋",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "了宋皇圣旨，元帅将令，前来下战书，到此乃是客位，你就该下位迎接你牛将"
+        },
+        {
+          "character": "牛皋",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "军才是正理；怎么你反坐在上面，是这样大模大样，自尊自大？想这自大乃是"
+        },
+        {
+          "character": "牛皋",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "个臭字，有道是”臭而不可闻也”哟！"
         },
         {
           "character": "兀术",
@@ -779,7 +953,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "好，孤家离位。\n啊，牛将军！"
+          "text": "好，孤家离位。"
+        },
+        {
+          "character": "兀术",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "啊，牛将军！"
         },
         {
           "character": "牛皋",
@@ -842,7 +1023,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "待孤拆书一观。\n啊，牛将军，回复你家元帅，照书行事，三日之后，牛头山前会战。"
+          "text": "待孤拆书一观。"
+        },
+        {
+          "character": "兀术",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "啊，牛将军，回复你家元帅，照书行事，三日之后，牛头山前会战。"
         },
         {
           "character": "牛皋",
@@ -912,14 +1100,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "儿郎的，酒筵摆下。\n牛将军请。"
+          "text": "儿郎的，酒筵摆下。"
+        },
+        {
+          "character": "兀术",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "牛将军请。"
         },
         {
           "character": "牛皋",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "狼主请。\n啊，狼主，今日你我在帐中饮酒，日后在两军阵前，还不知谁要谁的命哪！"
+          "text": "狼主请。"
+        },
+        {
+          "character": "牛皋",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "啊，狼主，今日你我在帐中饮酒，日后在两军阵前，还不知谁要谁的命哪！"
         },
         {
           "character": "兀术",
@@ -1129,7 +1331,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "好哇！前面有座高山，甚是险要，将铁滑车埋伏上面，宋军到此，从上滑下，\n哪怕宋军不灭！正是："
+          "text": "好哇！前面有座高山，甚是险要，将铁滑车埋伏上面，宋军到此，从上滑下，"
+        },
+        {
+          "character": "兀术",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "哪怕宋军不灭！正是："
         },
         {
           "character": "兀术",
@@ -1207,7 +1416,17 @@
           "西皮流水",
           "西皮流水板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.061,
+        0.119,
+        0.8571,
+        0.0238,
+        0.747,
+        4,
+        0.0952,
+        0.0
+      ]
     },
     {
       "scene_index": 4,
@@ -1386,14 +1605,28 @@
           "line_type": "念",
           "musical_style": null,
           "style_family": null,
-          "text": "明亮亮盔甲照定太阳红，光闪闪旌旗射入斗牛宫。\n雄赳赳排列着明辅上将，威凛凛满营中战马如龙。"
+          "text": "明亮亮盔甲照定太阳红，光闪闪旌旗射入斗牛宫。"
+        },
+        {
+          "character": "岳飞",
+          "line_type": "念",
+          "musical_style": null,
+          "style_family": null,
+          "text": "雄赳赳排列着明辅上将，威凛凛满营中战马如龙。"
         },
         {
           "character": "岳飞",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "本帅岳鹏举。前者与兀术下过战书，约定今日在牛头山前开兵对敌。\n来，伺候了！"
+          "text": "本帅岳鹏举。前者与兀术下过战书，约定今日在牛头山前开兵对敌。"
+        },
+        {
+          "character": "岳飞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来，伺候了！"
         },
         {
           "character": null,
@@ -1477,7 +1710,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "臣领旨。\n老元戎王渊听令！"
+          "text": "臣领旨。"
+        },
+        {
+          "character": "岳飞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "老元戎王渊听令！"
         },
         {
           "character": "王渊",
@@ -1708,14 +1948,35 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "岳元帅！想俺高宠，既已将身许国，理当报效皇家；今逢大敌，满营将官，俱\n有差遣；单单把俺高宠一字不提，是何理也？哦哦是了！想是笑俺高宠有勇无\n谋，今当圣驾在此，俺要问个明白！"
+          "text": "岳元帅！想俺高宠，既已将身许国，理当报效皇家；今逢大敌，满营将官，俱"
+        },
+        {
+          "character": "高宠",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "有差遣；单单把俺高宠一字不提，是何理也？哦哦是了！想是笑俺高宠有勇无"
+        },
+        {
+          "character": "高宠",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "谋，今当圣驾在此，俺要问个明白！"
         },
         {
           "character": "岳飞",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "不是呀，本帅焉有不识将之理。只因你初到牛头山，不明敌情，犹恐有失；本\n帅自有安排，请王爷稍安勿躁。"
+          "text": "不是呀，本帅焉有不识将之理。只因你初到牛头山，不明敌情，犹恐有失；本"
+        },
+        {
+          "character": "岳飞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "帅自有安排，请王爷稍安勿躁。"
         },
         {
           "character": null,
@@ -1936,7 +2197,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.9718,
+        0.0282,
+        0.8571,
+        18,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 5,
@@ -1962,7 +2233,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "祝告！山川社稷万里旗纛尊神：大金邦四太子昌平王完颜宗弼，皇号兀术，今\n奉父王旨意，带领人马，扫灭宋室，但愿此去，旗开得胜！"
+          "text": "祝告！山川社稷万里旗纛尊神：大金邦四太子昌平王完颜宗弼，皇号兀术，今"
+        },
+        {
+          "character": "兀术",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "奉父王旨意，带领人马，扫灭宋室，但愿此去，旗开得胜！"
         },
         {
           "character": "黑风利、土须龙、土须虎、金光德照、金光普照",
@@ -2005,7 +2283,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.6667,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 6,
@@ -2045,7 +2333,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 7,
@@ -2095,7 +2393,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "岳元帅！你看山东、山西、湖广、江西，俱归孤家掌管，你兵微将寡，看看粮\n绝；依孤相劝，马前归顺，共分疆土，你意如何？"
+          "text": "岳元帅！你看山东、山西、湖广、江西，俱归孤家掌管，你兵微将寡，看看粮"
+        },
+        {
+          "character": "兀术",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "绝；依孤相劝，马前归顺，共分疆土，你意如何？"
         },
         {
           "character": "岳飞",
@@ -2143,7 +2448,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.8333,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 8,
@@ -2203,7 +2518,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 9,
@@ -2401,7 +2726,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.625,
+        5,
+        0.0,
+        0.0
+      ]
     }
   ]
 }

@@ -115,14 +115,49 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "何日得遂凌云志，\n豪杰空怀报国心。\n俺，薛平贵，长安人氏。只因父母双亡，流落外乡。是我闻得苏元帅招募兵将，\n因此沿途乞讨，回到此地，意欲去往大营投军。怎奈天气寒冷，腹中饥饿得\n紧，眼看支持不住。唉！天哪，天！真真困煞人也！"
+          "text": "何日得遂凌云志，"
         },
         {
           "character": "薛平贵",
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "贫困交加实难忍，\n只为饥寒逼煞人。"
+          "text": "豪杰空怀报国心。"
+        },
+        {
+          "character": "薛平贵",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "俺，薛平贵，长安人氏。只因父母双亡，流落外乡。是我闻得苏元帅招募兵将，"
+        },
+        {
+          "character": "薛平贵",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "因此沿途乞讨，回到此地，意欲去往大营投军。怎奈天气寒冷，腹中饥饿得"
+        },
+        {
+          "character": "薛平贵",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "紧，眼看支持不住。唉！天哪，天！真真困煞人也！"
+        },
+        {
+          "character": "薛平贵",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "贫困交加实难忍，"
+        },
+        {
+          "character": "薛平贵",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "只为饥寒逼煞人。"
         },
         {
           "character": null,
@@ -143,7 +178,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        1.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1,
+        1.0,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -192,17 +237,87 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "我，王宝钏。爹爹王允，官居当朝首相；母亲陈氏，生我姐妹三人：大姐金钏\n许配苏龙，二姐银钏许配魏虎，只我尚未婚配。只因那年母亲染病，我在床前\n侍奉汤药，直到三载，母亲病体痊愈。正宫娘娘见喜，赐我五色绒线，绣成彩\n球，定于二月二日高搭彩楼，抛球招赘。但愿得配如意郎君，方为终身之幸。\n今当正月，大雪初晴，园中梅花盛开，正好前去观赏。\n丫鬟，引路花园。"
+          "text": "我，王宝钏。爹爹王允，官居当朝首相；母亲陈氏，生我姐妹三人：大姐金钏"
+        },
+        {
+          "character": "王宝钏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "许配苏龙，二姐银钏许配魏虎，只我尚未婚配。只因那年母亲染病，我在床前"
+        },
+        {
+          "character": "王宝钏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "侍奉汤药，直到三载，母亲病体痊愈。正宫娘娘见喜，赐我五色绒线，绣成彩"
+        },
+        {
+          "character": "王宝钏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "球，定于二月二日高搭彩楼，抛球招赘。但愿得配如意郎君，方为终身之幸。"
+        },
+        {
+          "character": "王宝钏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "今当正月，大雪初晴，园中梅花盛开，正好前去观赏。"
+        },
+        {
+          "character": "王宝钏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "丫鬟，引路花园。"
         },
         {
           "character": "王宝钏",
           "line_type": "西皮慢板",
           "musical_style": "西皮慢板",
           "style_family": "西皮",
-          "text": "银光耀目雪初晴，\n新春天气也宜人。\n无边玉宇净无尘。\n满树梅花吐芳芬。"
+          "text": "银光耀目雪初晴，"
         },
         {
-          "character": "几处楼台如画境、叫丫鬟带路花园进、丫鬟",
+          "character": "王宝钏",
+          "line_type": "西皮慢板",
+          "musical_style": "西皮慢板",
+          "style_family": "西皮",
+          "text": "新春天气也宜人。"
+        },
+        {
+          "character": "王宝钏",
+          "line_type": "西皮慢板",
+          "musical_style": "西皮慢板",
+          "style_family": "西皮",
+          "text": "无边玉宇净无尘。"
+        },
+        {
+          "character": "王宝钏",
+          "line_type": "西皮慢板",
+          "musical_style": "西皮慢板",
+          "style_family": "西皮",
+          "text": "满树梅花吐芳芬。"
+        },
+        {
+          "character": "王宝钏",
+          "line_type": "西皮慢板",
+          "musical_style": "西皮慢板",
+          "style_family": "西皮",
+          "text": "几处楼台如画境"
+        },
+        {
+          "character": "王宝钏",
+          "line_type": "西皮慢板",
+          "musical_style": "西皮慢板",
+          "style_family": "西皮",
+          "text": "叫丫鬟带路花园进"
+        },
+        {
+          "character": "丫鬟",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -241,7 +356,21 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "腹中饥饿身寒冷，\n头晕目眩难支持。\n霎时只觉站立不稳……"
+          "text": "腹中饥饿身寒冷，"
+        },
+        {
+          "character": "薛平贵",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "头晕目眩难支持。"
+        },
+        {
+          "character": "薛平贵",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "霎时只觉站立不稳……"
         },
         {
           "character": null,
@@ -332,14 +461,35 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "哟，这是谁倒卧在雪地上啦？\n小姐，外面有个人倒卧。"
+          "text": "哟，这是谁倒卧在雪地上啦？"
+        },
+        {
+          "character": "丫鬟",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "小姐，外面有个人倒卧。"
         },
         {
           "character": "王宝钏",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "待我前去看来。\n哎呀且住！看此人面目清秀，仪表非凡，因何落魄至此？\n丫鬟，快将此人唤醒。"
+          "text": "待我前去看来。"
+        },
+        {
+          "character": "王宝钏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "哎呀且住！看此人面目清秀，仪表非凡，因何落魄至此？"
+        },
+        {
+          "character": "王宝钏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "丫鬟，快将此人唤醒。"
         },
         {
           "character": "丫鬟",
@@ -395,7 +545,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "罢了。\n丫鬟，将这花郎带进花园，我要周济于他。"
+          "text": "罢了。"
+        },
+        {
+          "character": "王宝钏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "丫鬟，将这花郎带进花园，我要周济于他。"
         },
         {
           "character": "丫鬟",
@@ -423,52 +580,185 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "难人薛平贵，乃长安人氏。自幼曾读诗书，略通武艺。只因父母双亡，一贫如\n洗，意欲投军报效，也好有个出头之日，不想饥寒交迫，倒卧在此。唉！真真\n愧煞人也。"
+          "text": "难人薛平贵，乃长安人氏。自幼曾读诗书，略通武艺。只因父母双亡，一贫如"
+        },
+        {
+          "character": "薛平贵",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "洗，意欲投军报效，也好有个出头之日，不想饥寒交迫，倒卧在此。唉！真真"
+        },
+        {
+          "character": "薛平贵",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "愧煞人也。"
         },
         {
           "character": "薛平贵",
           "line_type": "西皮流水板",
           "musical_style": "西皮流水板",
           "style_family": "西皮",
-          "text": "难人祖居长安境，\n自幼曾学武和文。\n流落他乡受苦情。\n因此立志去从军。"
+          "text": "难人祖居长安境，"
         },
         {
-          "character": "父母下世家计紧、男儿报国当发奋、王宝钏",
-          "line_type": "白",
-          "musical_style": null,
-          "style_family": null,
-          "text": "呀！"
-        },
-        {
-          "character": "父母下世家计紧、男儿报国当发奋、王宝钏",
+          "character": "薛平贵",
           "line_type": "西皮流水板",
           "musical_style": "西皮流水板",
           "style_family": "西皮",
-          "text": "听他言来自思忖，\n他分明是个有志的人。\n不如与他订婚姻。\n彩楼之事对他论……"
+          "text": "自幼曾学武和文。"
         },
         {
-          "character": "父母下世家计紧、男儿报国当发奋、王宝钏",
+          "character": "薛平贵",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "流落他乡受苦情。"
+        },
+        {
+          "character": "薛平贵",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "因此立志去从军。"
+        },
+        {
+          "character": "薛平贵",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "父母下世家计紧"
+        },
+        {
+          "character": "薛平贵",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "男儿报国当发奋"
+        },
+        {
+          "character": "王宝钏",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
           "text": "呀！"
         },
         {
-          "character": "父母下世家计紧、男儿报国当发奋、王宝钏",
+          "character": "王宝钏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "父母下世家计紧"
+        },
+        {
+          "character": "王宝钏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "男儿报国当发奋"
+        },
+        {
+          "character": "王宝钏",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "听他言来自思忖，"
+        },
+        {
+          "character": "王宝钏",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "他分明是个有志的人。"
+        },
+        {
+          "character": "王宝钏",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "不如与他订婚姻。"
+        },
+        {
+          "character": "王宝钏",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "彩楼之事对他论……"
+        },
+        {
+          "character": "王宝钏",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "父母下世家计紧"
+        },
+        {
+          "character": "王宝钏",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "男儿报国当发奋"
+        },
+        {
+          "character": "王宝钏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "呀！"
+        },
+        {
+          "character": "王宝钏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "父母下世家计紧"
+        },
+        {
+          "character": "王宝钏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "男儿报国当发奋"
+        },
+        {
+          "character": "王宝钏",
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
           "text": "又恐丫鬟一旁听。"
         },
         {
-          "character": "父母下世家计紧、男儿报国当发奋、王宝钏",
+          "character": "王宝钏",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "父母下世家计紧"
+        },
+        {
+          "character": "王宝钏",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "男儿报国当发奋"
+        },
+        {
+          "character": "王宝钏",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
           "text": "那一花郎，你可曾用饭？"
         },
         {
-          "character": "抛球选婿事不稳、薛平贵",
+          "character": "王宝钏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "抛球选婿事不稳"
+        },
+        {
+          "character": "薛平贵",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -542,14 +832,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "咳，我对你实说了吧：我家为我终身之事，二月二日在十字街前高搭彩楼，抛\n球招赘。不知你……可愿去否？"
+          "text": "咳，我对你实说了吧：我家为我终身之事，二月二日在十字街前高搭彩楼，抛"
+        },
+        {
+          "character": "王宝钏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "球招赘。不知你……可愿去否？"
         },
         {
           "character": "薛平贵",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "蒙小姐如此见爱，真乃出于望外。只是我乃落魄之人，小姐你是千金之体，如\n何使得？"
+          "text": "蒙小姐如此见爱，真乃出于望外。只是我乃落魄之人，小姐你是千金之体，如"
+        },
+        {
+          "character": "薛平贵",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "何使得？"
         },
         {
           "character": "王宝钏",
@@ -584,7 +888,21 @@
           "line_type": "西皮流水板",
           "musical_style": "西皮流水板",
           "style_family": "西皮",
-          "text": "二月二日事有准，\n我的言语要记明。\n万事只怕有心人。"
+          "text": "二月二日事有准，"
+        },
+        {
+          "character": "王宝钏",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "我的言语要记明。"
+        },
+        {
+          "character": "王宝钏",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "万事只怕有心人。"
         },
         {
           "character": null,
@@ -654,14 +972,28 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "二月二日勿失信，\n莫做薄情无义人。"
+          "text": "二月二日勿失信，"
+        },
+        {
+          "character": "王宝钏",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "莫做薄情无义人。"
         },
         {
           "character": "薛平贵",
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "小姐不必细叮咛，\n平贵岂是无义人。"
+          "text": "小姐不必细叮咛，"
+        },
+        {
+          "character": "薛平贵",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "平贵岂是无义人。"
         },
         {
           "character": null,
@@ -682,7 +1014,14 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "心中暗把天祝定，\n早与平贵配良姻。"
+          "text": "心中暗把天祝定，"
+        },
+        {
+          "character": "王宝钏",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "早与平贵配良姻。"
         },
         {
           "character": null,
@@ -732,7 +1071,17 @@
           "西皮流水",
           "西皮流水板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.091,
+        0.3364,
+        0.6542,
+        0.0093,
+        0.5094,
+        3,
+        0.3271,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -973,7 +1322,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "叫他蒙进去了。\n远远望见三姑娘来也！"
+          "text": "叫他蒙进去了。"
+        },
+        {
+          "character": "门官",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "远远望见三姑娘来也！"
         },
         {
           "character": null,
@@ -1001,7 +1357,14 @@
           "line_type": "西皮慢板",
           "musical_style": "西皮慢板",
           "style_family": "西皮",
-          "text": "在堂前辞别了二老爹娘。\n彩球打中平贵郎。"
+          "text": "在堂前辞别了二老爹娘。"
+        },
+        {
+          "character": "王宝钏",
+          "line_type": "西皮慢板",
+          "musical_style": "西皮慢板",
+          "style_family": "西皮",
+          "text": "彩球打中平贵郎。"
         },
         {
           "character": null,
@@ -1022,10 +1385,45 @@
           "line_type": "西皮二六板",
           "musical_style": "西皮二六板",
           "style_family": "西皮",
-          "text": "看端详。\n也有那士农工商站立在两旁。\n倒叫我含羞带愧心内慌。\n低下头来用目望……"
+          "text": "看端详。"
         },
         {
-          "character": "也有王孙公子样、老少人儿纷纷嚷、众人",
+          "character": "王宝钏",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "也有那士农工商站立在两旁。"
+        },
+        {
+          "character": "王宝钏",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "倒叫我含羞带愧心内慌。"
+        },
+        {
+          "character": "王宝钏",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "低下头来用目望……"
+        },
+        {
+          "character": "王宝钏",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "也有王孙公子样"
+        },
+        {
+          "character": "王宝钏",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "老少人儿纷纷嚷"
+        },
+        {
+          "character": "众人",
           "line_type": "同白",
           "musical_style": null,
           "style_family": null,
@@ -1043,7 +1441,14 @@
           "line_type": "西皮快板",
           "musical_style": "西皮快板",
           "style_family": "西皮",
-          "text": "回府怎见二爹娘？\n蓦地里见他在楼旁。"
+          "text": "回府怎见二爹娘？"
+        },
+        {
+          "character": "王宝钏",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "蓦地里见他在楼旁。"
         },
         {
           "character": "王宝钏",
@@ -1127,7 +1532,21 @@
           "line_type": "西皮快板",
           "musical_style": "西皮快板",
           "style_family": "西皮",
-          "text": "耳边厢听得人喧嚷：\n彩球打中讨饭郎。\n不由宝钏意彷徨。"
+          "text": "耳边厢听得人喧嚷："
+        },
+        {
+          "character": "王宝钏",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "彩球打中讨饭郎。"
+        },
+        {
+          "character": "王宝钏",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "不由宝钏意彷徨。"
         },
         {
           "character": null,
@@ -1250,7 +1669,17 @@
           "西皮摇板",
           "西皮散板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.088,
+        0.3265,
+        0.5918,
+        0.0816,
+        0.625,
+        10,
+        0.3265,
+        0.0
+      ]
     }
   ]
 }

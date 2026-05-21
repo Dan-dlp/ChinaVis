@@ -98,7 +98,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "我解子总公道，太原府有文书到来，提苏三发配，不免监中走走。\n里面有人么？"
+          "text": "我解子总公道，太原府有文书到来，提苏三发配，不免监中走走。"
+        },
+        {
+          "character": "张公道",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "里面有人么？"
         },
         {
           "character": null,
@@ -203,10 +210,31 @@
           "line_type": "西皮快板",
           "musical_style": "西皮快板",
           "style_family": "西皮",
-          "text": "在监中捆住我苏三女，\n怎不叫人痛伤心。\n叫声老伯听我言。"
+          "text": "在监中捆住我苏三女，"
         },
         {
-          "character": "出言我把老伯叫、苏三",
+          "character": "苏三",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "怎不叫人痛伤心。"
+        },
+        {
+          "character": "苏三",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "叫声老伯听我言。"
+        },
+        {
+          "character": "苏三",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "出言我把老伯叫"
+        },
+        {
+          "character": "苏三",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -294,7 +322,28 @@
           "line_type": "反二黄慢板",
           "musical_style": "反二黄慢板",
           "style_family": "二黄",
-          "text": "适才间老伯一声禀，\n到叫苏三长笑容。\n狱神爷爷听我言：\n我与你重修庙宇换金身。"
+          "text": "适才间老伯一声禀，"
+        },
+        {
+          "character": "苏三",
+          "line_type": "反二黄慢板",
+          "musical_style": "反二黄慢板",
+          "style_family": "二黄",
+          "text": "到叫苏三长笑容。"
+        },
+        {
+          "character": "苏三",
+          "line_type": "反二黄慢板",
+          "musical_style": "反二黄慢板",
+          "style_family": "二黄",
+          "text": "狱神爷爷听我言："
+        },
+        {
+          "character": "苏三",
+          "line_type": "反二黄慢板",
+          "musical_style": "反二黄慢板",
+          "style_family": "二黄",
+          "text": "我与你重修庙宇换金身。"
         },
         {
           "character": null,
@@ -340,7 +389,17 @@
           "西皮快板",
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.045,
+        0.2581,
+        0.7097,
+        0.0323,
+        0.6667,
+        3,
+        0.129,
+        0.129
+      ]
     },
     {
       "scene_index": 2,
@@ -377,7 +436,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "过去。\n犯人苏三。"
+          "text": "过去。"
+        },
+        {
+          "character": "狱官",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "犯人苏三。"
         },
         {
           "character": "苏三",
@@ -644,7 +710,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.9118,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -677,10 +753,45 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "眼巴巴哭到了太原城，\n有苏三，跪留平。\n来来往往人不断。\n与我三哥把信通。"
+          "text": "眼巴巴哭到了太原城，"
         },
         {
-          "character": "来在街上用目望、有人到往南京去、张公道",
+          "character": "苏三",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "有苏三，跪留平。"
+        },
+        {
+          "character": "苏三",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来来往往人不断。"
+        },
+        {
+          "character": "苏三",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "与我三哥把信通。"
+        },
+        {
+          "character": "苏三",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来在街上用目望"
+        },
+        {
+          "character": "苏三",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "有人到往南京去"
+        },
+        {
+          "character": "张公道",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -726,7 +837,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "你不要哭，你哭我怪难过的，我去与你问问。\n咳。这里可有上南京去的人没有？"
+          "text": "你不要哭，你哭我怪难过的，我去与你问问。"
+        },
+        {
+          "character": "张公道",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "咳。这里可有上南京去的人没有？"
         },
         {
           "character": "客人",
@@ -789,7 +907,35 @@
           "line_type": "西皮慢板",
           "musical_style": "西皮慢板",
           "style_family": "西皮",
-          "text": "也是我苏三好命苦，\n并无有一人把信通。\n扭项回头看一番。\n望不见洪桐县衙门。\n老伯不走为何情？"
+          "text": "也是我苏三好命苦，"
+        },
+        {
+          "character": "苏三",
+          "line_type": "西皮慢板",
+          "musical_style": "西皮慢板",
+          "style_family": "西皮",
+          "text": "并无有一人把信通。"
+        },
+        {
+          "character": "苏三",
+          "line_type": "西皮慢板",
+          "musical_style": "西皮慢板",
+          "style_family": "西皮",
+          "text": "扭项回头看一番。"
+        },
+        {
+          "character": "苏三",
+          "line_type": "西皮慢板",
+          "musical_style": "西皮慢板",
+          "style_family": "西皮",
+          "text": "望不见洪桐县衙门。"
+        },
+        {
+          "character": "苏三",
+          "line_type": "西皮慢板",
+          "musical_style": "西皮慢板",
+          "style_family": "西皮",
+          "text": "老伯不走为何情？"
         },
         {
           "character": "苏三",
@@ -799,7 +945,28 @@
           "text": "老伯为何不走？"
         },
         {
-          "character": "行走来在十里坡、望不见洪桐城一座、正行走来用目看、张公道",
+          "character": "苏三",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "行走来在十里坡"
+        },
+        {
+          "character": "苏三",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "望不见洪桐城一座"
+        },
+        {
+          "character": "苏三",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "正行走来用目看"
+        },
+        {
+          "character": "张公道",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -950,7 +1117,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "不错，生下一个儿子来。放东也不好，放西也不好，找个鸡罩，把他罩起来。\n那天我打衙门回来，想着我的儿子，一掀鸡罩——忒落，来了一个老鹰雕抓跑\n了。"
+          "text": "不错，生下一个儿子来。放东也不好，放西也不好，找个鸡罩，把他罩起来。"
+        },
+        {
+          "character": "张公道",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "那天我打衙门回来，想着我的儿子，一掀鸡罩——忒落，来了一个老鹰雕抓跑"
+        },
+        {
+          "character": "张公道",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "了。"
         },
         {
           "character": "苏三",
@@ -985,14 +1166,56 @@
           "line_type": "西皮慢板",
           "musical_style": "西皮慢板",
           "style_family": "西皮",
-          "text": "叫老伯请上受我拜，\n拜过了你的好恩情。\n我与你披麻带孝送坟茔。\n何等情节受华荣。"
+          "text": "叫老伯请上受我拜，"
         },
         {
-          "character": "但愿得苏三有活命、想起了当年烟花院、张公道",
+          "character": "苏三",
+          "line_type": "西皮慢板",
+          "musical_style": "西皮慢板",
+          "style_family": "西皮",
+          "text": "拜过了你的好恩情。"
+        },
+        {
+          "character": "苏三",
+          "line_type": "西皮慢板",
+          "musical_style": "西皮慢板",
+          "style_family": "西皮",
+          "text": "我与你披麻带孝送坟茔。"
+        },
+        {
+          "character": "苏三",
+          "line_type": "西皮慢板",
+          "musical_style": "西皮慢板",
+          "style_family": "西皮",
+          "text": "何等情节受华荣。"
+        },
+        {
+          "character": "苏三",
+          "line_type": "西皮慢板",
+          "musical_style": "西皮慢板",
+          "style_family": "西皮",
+          "text": "但愿得苏三有活命"
+        },
+        {
+          "character": "苏三",
+          "line_type": "西皮慢板",
+          "musical_style": "西皮慢板",
+          "style_family": "西皮",
+          "text": "想起了当年烟花院"
+        },
+        {
+          "character": "张公道",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "苏三想道：王三公子进得院来，花了三万六千银子，有钱的才好，无钱的还有\n一比——"
+          "text": "苏三想道：王三公子进得院来，花了三万六千银子，有钱的才好，无钱的还有"
+        },
+        {
+          "character": "张公道",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "一比——"
         },
         {
           "character": "苏三",
@@ -1034,7 +1257,14 @@
           "line_type": "西皮原板",
           "musical_style": "西皮原板",
           "style_family": "西皮",
-          "text": "钗环首饰我带过，\n到如今罩住蓝布手巾。"
+          "text": "钗环首饰我带过，"
+        },
+        {
+          "character": "苏三",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "到如今罩住蓝布手巾。"
         },
         {
           "character": "张公道",
@@ -1076,7 +1306,14 @@
           "line_type": "西皮原板",
           "musical_style": "西皮原板",
           "style_family": "西皮",
-          "text": "绫罗缎布我穿过，\n到如今只落得身穿大红。"
+          "text": "绫罗缎布我穿过，"
+        },
+        {
+          "character": "苏三",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "到如今只落得身穿大红。"
         },
         {
           "character": "张公道",
@@ -1097,7 +1334,14 @@
           "line_type": "西皮原板",
           "musical_style": "西皮原板",
           "style_family": "西皮",
-          "text": "红绣花鞋我穿过，\n到如今少前无有后跟。"
+          "text": "红绣花鞋我穿过，"
+        },
+        {
+          "character": "苏三",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "到如今少前无有后跟。"
         },
         {
           "character": "张公道",
@@ -1118,7 +1362,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "是我老伴的。他穿小你穿大。头上剪去一段，后头缝上两针。这就是“少前无\n有后跟”。"
+          "text": "是我老伴的。他穿小你穿大。头上剪去一段，后头缝上两针。这就是“少前无"
+        },
+        {
+          "character": "张公道",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "有后跟”。"
         },
         {
           "character": "苏三",
@@ -1132,7 +1383,14 @@
           "line_type": "西皮原板",
           "musical_style": "西皮原板",
           "style_family": "西皮",
-          "text": "一恨鸨儿心太狠，\n她不该将我买进门。"
+          "text": "一恨鸨儿心太狠，"
+        },
+        {
+          "character": "苏三",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "她不该将我买进门。"
         },
         {
           "character": "张公道",
@@ -1153,14 +1411,28 @@
           "line_type": "西皮原板",
           "musical_style": "西皮原板",
           "style_family": "西皮",
-          "text": "二恨公子王金龙，\n他不不该骗我在院中。"
+          "text": "二恨公子王金龙，"
+        },
+        {
+          "character": "苏三",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "他不不该骗我在院中。"
         },
         {
           "character": "张公道",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "你提那王三公子，进得院来，花了三万六千两银子。有了银子你老鸨子才好。\n无有银子，随口唾骂。"
+          "text": "你提那王三公子，进得院来，花了三万六千两银子。有了银子你老鸨子才好。"
+        },
+        {
+          "character": "张公道",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "无有银子，随口唾骂。"
         },
         {
           "character": "苏三",
@@ -1174,7 +1446,14 @@
           "line_type": "西皮原板",
           "musical_style": "西皮原板",
           "style_family": "西皮",
-          "text": "三恨无义叫沈洪，\n他不该抢我到洪桐。"
+          "text": "三恨无义叫沈洪，"
+        },
+        {
+          "character": "苏三",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "他不该抢我到洪桐。"
         },
         {
           "character": "张公道",
@@ -1202,14 +1481,35 @@
           "line_type": "西皮原板",
           "musical_style": "西皮原板",
           "style_family": "西皮",
-          "text": "四恨皮氏淫悍妇，\n私通了王婆害沈洪。"
+          "text": "四恨皮氏淫悍妇，"
+        },
+        {
+          "character": "苏三",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "私通了王婆害沈洪。"
         },
         {
           "character": "张公道",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "你提起那皮氏，顶不是人做的。那一天我打衙门回来，看见皮氏站在门口，手\n拿长烟杆，头上贴着红绿太阳膏药，点点红嘴唇，他与我老伯伯，眉来眼去眼\n去眉来。你猜怎么样？"
+          "text": "你提起那皮氏，顶不是人做的。那一天我打衙门回来，看见皮氏站在门口，手"
+        },
+        {
+          "character": "张公道",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "拿长烟杆，头上贴着红绿太阳膏药，点点红嘴唇，他与我老伯伯，眉来眼去眼"
+        },
+        {
+          "character": "张公道",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "去眉来。你猜怎么样？"
         },
         {
           "character": "苏三",
@@ -1237,7 +1537,14 @@
           "line_type": "西皮原板",
           "musical_style": "西皮原板",
           "style_family": "西皮",
-          "text": "五恨刑封张允忠，\n他不该暗地里勒了口供。"
+          "text": "五恨刑封张允忠，"
+        },
+        {
+          "character": "苏三",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "他不该暗地里勒了口供。"
         },
         {
           "character": "张公道",
@@ -1258,7 +1565,14 @@
           "line_type": "西皮原板",
           "musical_style": "西皮原板",
           "style_family": "西皮",
-          "text": "六恨洪桐王知县，\n他不该贪赃卖犯人。"
+          "text": "六恨洪桐王知县，"
+        },
+        {
+          "character": "苏三",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "他不该贪赃卖犯人。"
         },
         {
           "character": "张公道",
@@ -1279,14 +1593,28 @@
           "line_type": "西皮原板",
           "musical_style": "西皮原板",
           "style_family": "西皮",
-          "text": "七恨三班和皂隶，\n他不该非刑动了五刑。"
+          "text": "七恨三班和皂隶，"
+        },
+        {
+          "character": "苏三",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "他不该非刑动了五刑。"
         },
         {
           "character": "张公道",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "苏三，衙门朝南开，一无高粱二无谷，有钱打的轻，无钱的打的重。无钱的你\n可别……"
+          "text": "苏三，衙门朝南开，一无高粱二无谷，有钱打的轻，无钱的打的重。无钱的你"
+        },
+        {
+          "character": "张公道",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "可别……"
         },
         {
           "character": "苏三",
@@ -1314,14 +1642,28 @@
           "line_type": "西皮原板",
           "musical_style": "西皮原板",
           "style_family": "西皮",
-          "text": "八恨贼子叫李虎，\n他不该拷打我玉堂春。"
+          "text": "八恨贼子叫李虎，"
+        },
+        {
+          "character": "苏三",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "他不该拷打我玉堂春。"
         },
         {
           "character": "张公道",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "哎呀，你说那李虎，他是顺毛驴，怎么说，怎么好。你这一撸，他就炸。慢说\n你，就是他老子，也是要拿板子打屁眼的。"
+          "text": "哎呀，你说那李虎，他是顺毛驴，怎么说，怎么好。你这一撸，他就炸。慢说"
+        },
+        {
+          "character": "张公道",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "你，就是他老子，也是要拿板子打屁眼的。"
         },
         {
           "character": "苏三",
@@ -1335,14 +1677,35 @@
           "line_type": "西皮原板",
           "musical_style": "西皮原板",
           "style_family": "西皮",
-          "text": "九十恨来十一恨，\n洪桐县来无有好人！"
+          "text": "九十恨来十一恨，"
+        },
+        {
+          "character": "苏三",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "洪桐县来无有好人！"
         },
         {
           "character": "张公道",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "哼哼。说来说去，我也不是好人了。你进得监来，老伯伯待你不错。你要吃面，\n我与你剥蒜；你要吃疙拉，我与你做面。说来说去，我亦不是好人了。这是\n枷，你与我，带起来罢！"
+          "text": "哼哼。说来说去，我也不是好人了。你进得监来，老伯伯待你不错。你要吃面，"
+        },
+        {
+          "character": "张公道",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我与你剥蒜；你要吃疙拉，我与你做面。说来说去，我亦不是好人了。这是"
+        },
+        {
+          "character": "张公道",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "枷，你与我，带起来罢！"
         },
         {
           "character": "苏三",
@@ -1356,17 +1719,73 @@
           "line_type": "西皮原板",
           "musical_style": "西皮原板",
           "style_family": "西皮",
-          "text": "一句话儿错出唇，\n叫声老伯听分明：\n惟有你张老伯、你老伯、老伯伯，你是个好人！"
+          "text": "一句话儿错出唇，"
         },
         {
-          "character": "气得老伯面尖红、说几句好话把他哄、自从到了洪桐县、张公道",
+          "character": "苏三",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "叫声老伯听分明："
+        },
+        {
+          "character": "苏三",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "惟有你张老伯、你老伯、老伯伯，你是个好人！"
+        },
+        {
+          "character": "苏三",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "气得老伯面尖红"
+        },
+        {
+          "character": "苏三",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "说几句好话把他哄"
+        },
+        {
+          "character": "苏三",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "自从到了洪桐县"
+        },
+        {
+          "character": "张公道",
           "line_type": "笑",
           "musical_style": null,
           "style_family": null,
           "text": "哈哈哈……"
         },
         {
-          "character": "气得老伯面尖红、说几句好话把他哄、自从到了洪桐县、张公道",
+          "character": "张公道",
+          "line_type": "笑",
+          "musical_style": null,
+          "style_family": null,
+          "text": "气得老伯面尖红"
+        },
+        {
+          "character": "张公道",
+          "line_type": "笑",
+          "musical_style": null,
+          "style_family": null,
+          "text": "说几句好话把他哄"
+        },
+        {
+          "character": "张公道",
+          "line_type": "笑",
+          "musical_style": null,
+          "style_family": null,
+          "text": "自从到了洪桐县"
+        },
+        {
+          "character": "张公道",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -1384,7 +1803,35 @@
           "line_type": "西皮原板",
           "musical_style": "西皮原板",
           "style_family": "西皮",
-          "text": "再叫老伯听我言：\n私通了王婆害沈洪。\n不却来在太原城。\n朝廷王法上上身。\n眼巴巴哭到了太原城。"
+          "text": "再叫老伯听我言："
+        },
+        {
+          "character": "苏三",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "私通了王婆害沈洪。"
+        },
+        {
+          "character": "苏三",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "不却来在太原城。"
+        },
+        {
+          "character": "苏三",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "朝廷王法上上身。"
+        },
+        {
+          "character": "苏三",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "眼巴巴哭到了太原城。"
         },
         {
           "character": "苏三",
@@ -1432,7 +1879,17 @@
           "西皮原板",
           "西皮慢板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.073,
+        0.3553,
+        0.6447,
+        0.0,
+        0.543,
+        3,
+        0.3026,
+        0.0
+      ]
     }
   ]
 }

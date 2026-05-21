@@ -144,7 +144,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "老夫曹操，官居首相。昨日带兵袭了徐州，杀得刘备打败，不知生死存亡。那\n关羽被吾困在土山之上，进退两难，也曾命张辽顺说来降。这般时候，为何还\n不见到来？"
+          "text": "老夫曹操，官居首相。昨日带兵袭了徐州，杀得刘备打败，不知生死存亡。那"
+        },
+        {
+          "character": "曹操",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "关羽被吾困在土山之上，进退两难，也曾命张辽顺说来降。这般时候，为何还"
+        },
+        {
+          "character": "曹操",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "不见到来？"
         },
         {
           "character": null,
@@ -242,7 +256,17 @@
           "西皮快板",
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.118,
+        0.0909,
+        0.8182,
+        0.0909,
+        0.6,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -378,7 +402,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -478,14 +512,28 @@
           "line_type": "同白",
           "musical_style": null,
           "style_family": null,
-          "text": "想我姊妹二人，自从在徐州与皇叔失散，来到曹营，一不知皇叔生死存亡，二\n不知何日才能出离许昌，因此落泪。"
+          "text": "想我姊妹二人，自从在徐州与皇叔失散，来到曹营，一不知皇叔生死存亡，二"
+        },
+        {
+          "character": "甘夫人、糜夫人",
+          "line_type": "同白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "不知何日才能出离许昌，因此落泪。"
         },
         {
           "character": "关羽",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "二位嫂嫂但放宽心，弟虽在曹营，无日不思想兄长，也曾命人各处打探，若得\n大哥音信，定要保护二位嫂嫂出离许昌。"
+          "text": "二位嫂嫂但放宽心，弟虽在曹营，无日不思想兄长，也曾命人各处打探，若得"
+        },
+        {
+          "character": "关羽",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "大哥音信，定要保护二位嫂嫂出离许昌。"
         },
         {
           "character": "甘夫人、糜夫人",
@@ -499,14 +547,42 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "曹公虽然待弟恩厚，奈弟桃园结义，誓同生死。小弟心如铁石，曹公虽有百计\n千方，怎能打动关某之心也。"
+          "text": "曹公虽然待弟恩厚，奈弟桃园结义，誓同生死。小弟心如铁石，曹公虽有百计"
+        },
+        {
+          "character": "关羽",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "千方，怎能打动关某之心也。"
         },
         {
           "character": "关羽",
           "line_type": "西皮原板",
           "musical_style": "西皮原板",
           "style_family": "西皮",
-          "text": "二皇嫂休得要泪悲淋，\n细听小弟说分明：\n他怎知我桃园义共死生。\n保定二皇嫂离曹营。"
+          "text": "二皇嫂休得要泪悲淋，"
+        },
+        {
+          "character": "关羽",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "细听小弟说分明："
+        },
+        {
+          "character": "关羽",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "他怎知我桃园义共死生。"
+        },
+        {
+          "character": "关羽",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "保定二皇嫂离曹营。"
         },
         {
           "character": null,
@@ -562,7 +638,17 @@
           "西皮原板",
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.333,
+        0.4,
+        0.55,
+        0.05,
+        0.5263,
+        4,
+        0.4,
+        0.0
+      ]
     },
     {
       "scene_index": 4,
@@ -594,17 +680,45 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "关羽行事人钦仰，\n秉烛达旦世无双。\n再与程昱计端详。"
+          "text": "关羽行事人钦仰，"
+        },
+        {
+          "character": "曹操",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "秉烛达旦世无双。"
+        },
+        {
+          "character": "曹操",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "再与程昱计端详。"
         },
         {
           "character": "曹操",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "程昱听令，现有锦袍一件，命你去到关羽馆舍，就说老夫赠与他锦袍，明日在\n演武厅中与诸将贺功，请他前来赴宴。不得有误。"
+          "text": "程昱听令，现有锦袍一件，命你去到关羽馆舍，就说老夫赠与他锦袍，明日在"
         },
         {
-          "character": "将身且坐宝帐上、程昱",
+          "character": "曹操",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "演武厅中与诸将贺功，请他前来赴宴。不得有误。"
+        },
+        {
+          "character": "曹操",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "将身且坐宝帐上"
+        },
+        {
+          "character": "程昱",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -769,7 +883,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.071,
+        0.15,
+        0.75,
+        0.1,
+        0.6842,
+        4,
+        0.15,
+        0.0
+      ]
     },
     {
       "scene_index": 5,
@@ -795,7 +919,21 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "关羽为人真可敬，\n话不虚传果是真。\n准备酒宴贺群英。"
+          "text": "关羽为人真可敬，"
+        },
+        {
+          "character": "曹操",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "话不虚传果是真。"
+        },
+        {
+          "character": "曹操",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "准备酒宴贺群英。"
         },
         {
           "character": "曹操",
@@ -805,7 +943,14 @@
           "text": "这般时候为何还不见关羽到来？"
         },
         {
-          "character": "将身来在宝帐等、程昱",
+          "character": "曹操",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "将身来在宝帐等"
+        },
+        {
+          "character": "程昱",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -886,14 +1031,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "丞相有所不知，这新袍乃是丞相所赠，旧袍乃是吾兄长所赐，旧袍穿在外面，\n见袍如见兄长，不敢得新而忘旧也。"
+          "text": "丞相有所不知，这新袍乃是丞相所赠，旧袍乃是吾兄长所赐，旧袍穿在外面，"
+        },
+        {
+          "character": "关羽",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "见袍如见兄长，不敢得新而忘旧也。"
         },
         {
           "character": "曹操",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "原来如此。\n来，看宴伺候！"
+          "text": "原来如此。"
+        },
+        {
+          "character": "曹操",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来，看宴伺候！"
         },
         {
           "character": null,
@@ -1075,7 +1234,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "现有鞍鞯。\n马童，速将鞍镮鞦鞯取来。"
+          "text": "现有鞍鞯。"
+        },
+        {
+          "character": "曹操",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "马童，速将鞍镮鞦鞯取来。"
         },
         {
           "character": "马童",
@@ -1278,14 +1444,35 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "将军自到许昌，老夫相待以礼。上马献金，下马献银，三日一小宴，五日一大\n宴，又赠美女、锦袍，并未见将军道一谢字。今日赠马一匹，竟这样大礼相谢，\n岂非轻人而重畜么？"
+          "text": "将军自到许昌，老夫相待以礼。上马献金，下马献银，三日一小宴，五日一大"
+        },
+        {
+          "character": "曹操",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "宴，又赠美女、锦袍，并未见将军道一谢字。今日赠马一匹，竟这样大礼相谢，"
+        },
+        {
+          "character": "曹操",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "岂非轻人而重畜么？"
         },
         {
           "character": "关羽",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "想吾关羽，终日思念兄长，今见此马，日行千里，仰蒙丞相恩赐，若得兄长的\n下落，一日即可相见矣，故而拜谢。"
+          "text": "想吾关羽，终日思念兄长，今见此马，日行千里，仰蒙丞相恩赐，若得兄长的"
+        },
+        {
+          "character": "关羽",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "下落，一日即可相见矣，故而拜谢。"
         },
         {
           "character": "曹操",
@@ -1306,7 +1493,14 @@
           "line_type": "西皮二六板",
           "musical_style": "西皮二六板",
           "style_family": "西皮",
-          "text": "躬身施礼把话言，\n细听关某说根源："
+          "text": "躬身施礼把话言，"
+        },
+        {
+          "character": "关羽",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "细听关某说根源："
         },
         {
           "character": null,
@@ -1334,7 +1528,21 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "桃园恩义深似海，\n他思念刘备常挂怀。\n倒叫老夫枉费心裁！"
+          "text": "桃园恩义深似海，"
+        },
+        {
+          "character": "曹操",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "他思念刘备常挂怀。"
+        },
+        {
+          "character": "曹操",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "倒叫老夫枉费心裁！"
         },
         {
           "character": null,
@@ -1401,7 +1609,17 @@
           "西皮二六",
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.049,
+        0.1184,
+        0.8684,
+        0.0132,
+        0.76,
+        5,
+        0.1184,
+        0.0
+      ]
     }
   ]
 }

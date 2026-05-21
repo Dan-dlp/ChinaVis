@@ -434,7 +434,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "今当上方玉帝寿诞之期，我等也曾前去凌霄殿上寿。赴宴已毕，在玉清宫听讲\n善恶因果。诸仙已退，我等各归洞府便了。"
+          "text": "今当上方玉帝寿诞之期，我等也曾前去凌霄殿上寿。赴宴已毕，在玉清宫听讲"
+        },
+        {
+          "character": "黄帝",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "善恶因果。诸仙已退，我等各归洞府便了。"
         },
         {
           "character": "伏羲、神农",
@@ -497,7 +504,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "时才朝贺玉帝，道你补天有功，应受人间香火。朝歌城外，筑造宫殿，即请神\n女前去受享！"
+          "text": "时才朝贺玉帝，道你补天有功，应受人间香火。朝歌城外，筑造宫殿，即请神"
+        },
+        {
+          "character": "黄帝",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "女前去受享！"
         },
         {
           "character": "女娲",
@@ -572,7 +586,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.8636,
+        0.1364,
+        0.9048,
+        7,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -739,14 +763,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "朕，纣王受辛。自登基以来，风调雨顺，国泰民安。今当早朝。\n众卿有本早奏，无本退班。"
+          "text": "朕，纣王受辛。自登基以来，风调雨顺，国泰民安。今当早朝。"
+        },
+        {
+          "character": "纣王",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "众卿有本早奏，无本退班。"
         },
         {
           "character": "商容",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "臣商容启奏万岁：今乃三月十五日，女娲娘娘，圣诞之辰。望请陛下，驾临女\n娲宫，降香祈福。"
+          "text": "臣商容启奏万岁：今乃三月十五日，女娲娘娘，圣诞之辰。望请陛下，驾临女"
+        },
+        {
+          "character": "商容",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "娲宫，降香祈福。"
         },
         {
           "character": "纣王",
@@ -760,21 +798,63 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "那女娲娘娘，乃上古之神女，生有圣德。只因共工氏，头触不周山，天倾西北，\n地陷东南。多亏女娲娘娘，炼成五彩神石，以补青天。是有功于百姓，朝歌\n立祠以报之。陛下若祀此福神，则必四时康泰，灾害潜消，风调雨顺，国祚绵\n长！"
+          "text": "那女娲娘娘，乃上古之神女，生有圣德。只因共工氏，头触不周山，天倾西北，"
+        },
+        {
+          "character": "商容",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "地陷东南。多亏女娲娘娘，炼成五彩神石，以补青天。是有功于百姓，朝歌"
+        },
+        {
+          "character": "商容",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "立祠以报之。陛下若祀此福神，则必四时康泰，灾害潜消，风调雨顺，国祚绵"
+        },
+        {
+          "character": "商容",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "长！"
         },
         {
           "character": "纣王",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "呵哈哈呀，原来如此。就命众卿保驾，一同前去。\n内侍，看辇伺候。"
+          "text": "呵哈哈呀，原来如此。就命众卿保驾，一同前去。"
+        },
+        {
+          "character": "纣王",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "内侍，看辇伺候。"
         },
         {
           "character": "纣王",
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "首相商容把本伸，\n果然女娲是正神。\n去到庙中把香焚。"
+          "text": "首相商容把本伸，"
+        },
+        {
+          "character": "纣王",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "果然女娲是正神。"
+        },
+        {
+          "character": "纣王",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "去到庙中把香焚。"
         },
         {
           "character": null,
@@ -847,7 +927,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.1212,
+        0.7273,
+        0.1515,
+        0.6875,
+        11,
+        0.0909,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -883,7 +973,28 @@
           "line_type": "西皮流水板",
           "musical_style": "西皮流水板",
           "style_family": "西皮",
-          "text": "金碧辉煌照眼明。\n金童玉女把旙擎。\n瑞霭祥光紫雾腾。\n又只见神女美貌容。"
+          "text": "金碧辉煌照眼明。"
+        },
+        {
+          "character": "纣王",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "金童玉女把旙擎。"
+        },
+        {
+          "character": "纣王",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "瑞霭祥光紫雾腾。"
+        },
+        {
+          "character": "纣王",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "又只见神女美貌容。"
         },
         {
           "character": null,
@@ -904,7 +1015,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "看这女娲神像，艳丽非常，胜似蕊宫仙子、月里嫦娥，真真令人欣羡。\n内侍，看文房四宝过来，待朕题诗一首。"
+          "text": "看这女娲神像，艳丽非常，胜似蕊宫仙子、月里嫦娥，真真令人欣羡。"
+        },
+        {
+          "character": "纣王",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "内侍，看文房四宝过来，待朕题诗一首。"
         },
         {
           "character": null,
@@ -925,21 +1043,63 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "臣启奏陛下：想这女娲娘娘，乃是上古之正神、朝歌之福主，老臣请驾拈香，\n祈求福禄。使万民乐业，雨顺风调，兵火宁息。今陛下作诗，亵渎神明，于理\n不合，似应命人，以水洗去，以免众百姓观看。"
+          "text": "臣启奏陛下：想这女娲娘娘，乃是上古之正神、朝歌之福主，老臣请驾拈香，"
+        },
+        {
+          "character": "商容",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "祈求福禄。使万民乐业，雨顺风调，兵火宁息。今陛下作诗，亵渎神明，于理"
+        },
+        {
+          "character": "商容",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "不合，似应命人，以水洗去，以免众百姓观看。"
         },
         {
           "character": "纣王",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "卿家说那里话来。朕看女娲之容，有绝世之姿，故作此诗，以赞美之，并无他\n意。不必多言，摆驾回宫。\n内侍，车辇伺候。"
+          "text": "卿家说那里话来。朕看女娲之容，有绝世之姿，故作此诗，以赞美之，并无他"
+        },
+        {
+          "character": "纣王",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "意。不必多言，摆驾回宫。"
+        },
+        {
+          "character": "纣王",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "内侍，车辇伺候。"
         },
         {
           "character": "纣王",
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "观女娲美貌世无双，\n壁上题诗又何妨。\n神清气爽喜洋洋。"
+          "text": "观女娲美貌世无双，"
+        },
+        {
+          "character": "纣王",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "壁上题诗又何妨。"
+        },
+        {
+          "character": "纣王",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "神清气爽喜洋洋。"
         },
         {
           "character": null,
@@ -972,7 +1132,17 @@
           "西皮摇板",
           "西皮流水"
         ]
-      }
+      },
+      "scene_feature": [
+        0.333,
+        0.4444,
+        0.5556,
+        0.0,
+        0.1176,
+        2,
+        0.4444,
+        0.0
+      ]
     },
     {
       "scene_index": 4,
@@ -1031,14 +1201,42 @@
           "line_type": "念",
           "musical_style": null,
           "style_family": null,
-          "text": "“凤鸾宝帐景非常，尽是泥金巧样装。曲曲远山飞翠色，翩翩舞袖映霞裳。\n梨花带雨争娇艳，芍药笼烟骋媚妆。但得妖娆能举动，取回长乐侍君王。”"
+          "text": "“凤鸾宝帐景非常，尽是泥金巧样装。曲曲远山飞翠色，翩翩舞袖映霞裳。"
+        },
+        {
+          "character": "女娲",
+          "line_type": "念",
+          "musical_style": null,
+          "style_family": null,
+          "text": "梨花带雨争娇艳，芍药笼烟骋媚妆。但得妖娆能举动，取回长乐侍君王。”"
         },
         {
           "character": "女娲",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "呀呀啐！我道是谁，原来是受辛这无道昏君！不想修立德政，以保天下，今反\n不畏上苍，吟诗亵读于我，真真可恼！想当日成汤伐桀，而得天下，享国已历\n六百余年，气数已尽，若不与他个报应，也不知我的灵验。\n彩云童儿，看宝幡过来，将后宫中金葫芦取来。"
+          "text": "呀呀啐！我道是谁，原来是受辛这无道昏君！不想修立德政，以保天下，今反"
+        },
+        {
+          "character": "女娲",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "不畏上苍，吟诗亵读于我，真真可恼！想当日成汤伐桀，而得天下，享国已历"
+        },
+        {
+          "character": "女娲",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "六百余年，气数已尽，若不与他个报应，也不知我的灵验。"
+        },
+        {
+          "character": "女娲",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "彩云童儿，看宝幡过来，将后宫中金葫芦取来。"
         },
         {
           "character": null,
@@ -1059,7 +1257,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "三妖听吾密旨：今当成汤气运已尽，天下将亡。凤凰鸣于岐山，西周已生圣主。\n天意已定，气数当然。命尔等隐其妖形，投生宫院，惑乱君心。待等武王伐\n纣之时，以助成功。不可残害生灵。事成之后，定保尔等，俱成正果。"
+          "text": "三妖听吾密旨：今当成汤气运已尽，天下将亡。凤凰鸣于岐山，西周已生圣主。"
+        },
+        {
+          "character": "女娲",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "天意已定，气数当然。命尔等隐其妖形，投生宫院，惑乱君心。待等武王伐"
+        },
+        {
+          "character": "女娲",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "纣之时，以助成功。不可残害生灵。事成之后，定保尔等，俱成正果。"
         },
         {
           "character": "狐狸精、琵琶精、雉鸡精",
@@ -1119,7 +1331,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.167,
+        0.1176,
+        0.7059,
+        0.1765,
+        0.25,
+        2,
+        0.1176,
+        0.0
+      ]
     },
     {
       "scene_index": 5,
@@ -1258,7 +1480,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.143,
+        0.1,
+        0.8,
+        0.1,
+        0.6667,
+        4,
+        0.1,
+        0.0
+      ]
     },
     {
       "scene_index": 6,
@@ -1331,7 +1563,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "吾，苏护。纣王驾前为臣，镇守冀州一带等处。今当朝贺天子之期。\n众将官，兵可曾齐备？"
+          "text": "吾，苏护。纣王驾前为臣，镇守冀州一带等处。今当朝贺天子之期。"
+        },
+        {
+          "character": "苏护",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "众将官，兵可曾齐备？"
         },
         {
           "character": "四将官",
@@ -1382,7 +1621,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.1,
+        0.8,
+        0.1,
+        0.6667,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 7,
@@ -1532,7 +1781,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.6923,
+        0.3077,
+        1.0,
+        5,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 8,
@@ -1941,7 +2200,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.9444,
+        0.0556,
+        0.9429,
+        7,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 9,
@@ -2404,7 +2673,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.024,
+        0.0222,
+        0.9333,
+        0.0444,
+        0.9091,
+        6,
+        0.0222,
+        0.0
+      ]
     },
     {
       "scene_index": 10,
@@ -2490,7 +2769,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.75,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 11,
@@ -2572,7 +2861,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.6667,
+        0.3333,
+        0.2,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 12,
@@ -2634,14 +2933,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "朕，纣王受辛。自登基以来，风调雨顺，国泰民安。今当早朝。\n众卿有本早奏，无本退班。"
+          "text": "朕，纣王受辛。自登基以来，风调雨顺，国泰民安。今当早朝。"
+        },
+        {
+          "character": "纣王",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "众卿有本早奏，无本退班。"
         },
         {
           "character": "商容",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "臣商容启奏万岁：今乃三月十五日，女娲娘娘，圣诞之辰。望请陛下，驾临女\n娲宫，降香祈福。"
+          "text": "臣商容启奏万岁：今乃三月十五日，女娲娘娘，圣诞之辰。望请陛下，驾临女"
+        },
+        {
+          "character": "商容",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "娲宫，降香祈福。"
         },
         {
           "character": "纣王",
@@ -2655,21 +2968,63 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "那女娲娘娘，乃上古之神女，生有圣德。只因共工氏，头触不周山，天倾西北，\n地陷东南。多亏女娲娘娘，炼成五彩神石，以补青天。是有功于百姓，朝歌\n立祠以报之。陛下若祀此福神，则必四时康泰，灾害潜消，风调雨顺，国祚绵\n长！"
+          "text": "那女娲娘娘，乃上古之神女，生有圣德。只因共工氏，头触不周山，天倾西北，"
+        },
+        {
+          "character": "商容",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "地陷东南。多亏女娲娘娘，炼成五彩神石，以补青天。是有功于百姓，朝歌"
+        },
+        {
+          "character": "商容",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "立祠以报之。陛下若祀此福神，则必四时康泰，灾害潜消，风调雨顺，国祚绵"
+        },
+        {
+          "character": "商容",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "长！"
         },
         {
           "character": "纣王",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "呵哈哈呀，原来如此。就命众卿保驾，一同前去。\n内侍，看辇伺候。"
+          "text": "呵哈哈呀，原来如此。就命众卿保驾，一同前去。"
+        },
+        {
+          "character": "纣王",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "内侍，看辇伺候。"
         },
         {
           "character": "纣王",
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "首相商容把本伸，\n果然女娲是正神。\n去到庙中把香焚。"
+          "text": "首相商容把本伸，"
+        },
+        {
+          "character": "纣王",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "果然女娲是正神。"
+        },
+        {
+          "character": "纣王",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "去到庙中把香焚。"
         },
         {
           "character": null,
@@ -2704,7 +3059,28 @@
           "line_type": "西皮流水板",
           "musical_style": "西皮流水板",
           "style_family": "西皮",
-          "text": "金碧辉煌照眼明。\n金童玉女把旙擎。\n瑞霭祥光紫雾腾。\n又只见神女美貌容。"
+          "text": "金碧辉煌照眼明。"
+        },
+        {
+          "character": "纣王",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "金童玉女把旙擎。"
+        },
+        {
+          "character": "纣王",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "瑞霭祥光紫雾腾。"
+        },
+        {
+          "character": "纣王",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "又只见神女美貌容。"
         },
         {
           "character": null,
@@ -2725,7 +3101,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "看这女娲神像，艳丽非常，胜似蕊宫仙子、月里嫦娥，真真令人欣羡。\n内侍，看文房四宝过来，待朕题诗一首。"
+          "text": "看这女娲神像，艳丽非常，胜似蕊宫仙子、月里嫦娥，真真令人欣羡。"
+        },
+        {
+          "character": "纣王",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "内侍，看文房四宝过来，待朕题诗一首。"
         },
         {
           "character": null,
@@ -2746,21 +3129,63 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "臣启奏陛下：想这女娲娘娘，乃是上古之正神、朝歌之福主，老臣请驾拈香，\n祈求福禄。使万民乐业，雨顺风调，兵火宁息。今陛下作诗，亵渎神明，于理\n不合，似应命人，以水洗去，以免众百姓观看。"
+          "text": "臣启奏陛下：想这女娲娘娘，乃是上古之正神、朝歌之福主，老臣请驾拈香，"
+        },
+        {
+          "character": "商容",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "祈求福禄。使万民乐业，雨顺风调，兵火宁息。今陛下作诗，亵渎神明，于理"
+        },
+        {
+          "character": "商容",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "不合，似应命人，以水洗去，以免众百姓观看。"
         },
         {
           "character": "纣王",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "卿家说那里话来。朕看女娲之容，有绝世之姿，故作此诗，以赞美之，并无他\n意。不必多言，摆驾回宫。\n内侍，车辇伺候。"
+          "text": "卿家说那里话来。朕看女娲之容，有绝世之姿，故作此诗，以赞美之，并无他"
+        },
+        {
+          "character": "纣王",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "意。不必多言，摆驾回宫。"
+        },
+        {
+          "character": "纣王",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "内侍，车辇伺候。"
         },
         {
           "character": "纣王",
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "观女娲美貌世无双，\n壁上题诗又何妨。\n神清气爽喜洋洋。"
+          "text": "观女娲美貌世无双，"
+        },
+        {
+          "character": "纣王",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "壁上题诗又何妨。"
+        },
+        {
+          "character": "纣王",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "神清气爽喜洋洋。"
         },
         {
           "character": null,
@@ -2813,7 +3238,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.067,
+        0.3243,
+        0.6486,
+        0.027,
+        0.2778,
+        3,
+        0.2973,
+        0.0
+      ]
     },
     {
       "scene_index": 13,
@@ -2888,7 +3323,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.75,
+        0.25,
+        0.3333,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 14,
@@ -2972,7 +3417,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 15,
@@ -3203,7 +3658,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.9474,
+        0.0526,
+        0.9444,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 16,
@@ -3274,7 +3739,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 17,
@@ -3314,7 +3789,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 18,
@@ -3354,7 +3839,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 19,
@@ -3500,7 +3995,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.091,
+        0.0909,
+        0.9091,
+        0.0,
+        1.0,
+        3,
+        0.0909,
+        0.0
+      ]
     },
     {
       "scene_index": 20,
@@ -3644,7 +4149,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.9,
+        0.1,
+        0.8889,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 21,
@@ -3736,7 +4251,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 22,
@@ -3790,7 +4315,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 23,
@@ -3972,7 +4507,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.067,
+        0.0667,
+        0.8667,
+        0.0667,
+        0.8571,
+        3,
+        0.0667,
+        0.0
+      ]
     },
     {
       "scene_index": 24,
@@ -4058,7 +4603,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.75,
+        0.25,
+        0.6667,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 25,
@@ -4138,7 +4693,17 @@
           "二黄摇板",
           "二黄正板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.667,
+        0.75,
+        0.25,
+        0.0,
+        0.0,
+        1,
+        0.0,
+        0.75
+      ]
     },
     {
       "scene_index": 26,
@@ -4187,7 +4752,17 @@
         "musical_styles": [
           "二黄摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.5,
+        0.5,
+        0.0,
+        0.0,
+        1,
+        0.0,
+        0.5
+      ]
     },
     {
       "scene_index": 27,
@@ -4240,7 +4815,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        1.0,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 28,
@@ -4490,7 +5075,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.95,
+        5,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 29,
@@ -4594,7 +5189,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.6,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 30,
@@ -4648,7 +5253,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 31,
@@ -5054,7 +5669,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.059,
+        0.1351,
+        0.8378,
+        0.027,
+        0.7778,
+        6,
+        0.1081,
+        0.0
+      ]
     },
     {
       "scene_index": 32,
@@ -5277,7 +5902,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.8824,
+        0.1176,
+        0.8125,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 33,
@@ -5350,7 +5985,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.75,
+        0.25,
+        0.6667,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 34,
@@ -5481,7 +6126,17 @@
           "西皮原板",
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.111,
+        0.1818,
+        0.8182,
+        0.0,
+        0.8,
+        2,
+        0.1818,
+        0.0
+      ]
     },
     {
       "scene_index": 35,
@@ -5792,7 +6447,17 @@
           "西皮原板",
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.045,
+        0.12,
+        0.88,
+        0.0,
+        0.6667,
+        4,
+        0.12,
+        0.0
+      ]
     },
     {
       "scene_index": 36,
@@ -5854,14 +6519,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "朕，纣王受辛。自登基以来，风调雨顺，国泰民安。今当早朝。\n众卿有本早奏，无本退班。"
+          "text": "朕，纣王受辛。自登基以来，风调雨顺，国泰民安。今当早朝。"
+        },
+        {
+          "character": "纣王",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "众卿有本早奏，无本退班。"
         },
         {
           "character": "商容",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "臣商容启奏万岁：今乃三月十五日，女娲娘娘，圣诞之辰。望请陛下，驾临女\n娲宫，降香祈福。"
+          "text": "臣商容启奏万岁：今乃三月十五日，女娲娘娘，圣诞之辰。望请陛下，驾临女"
+        },
+        {
+          "character": "商容",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "娲宫，降香祈福。"
         },
         {
           "character": "纣王",
@@ -5875,21 +6554,63 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "那女娲娘娘，乃上古之神女，生有圣德。只因共工氏，头触不周山，天倾西北，\n地陷东南。多亏女娲娘娘，炼成五彩神石，以补青天。是有功于百姓，朝歌\n立祠以报之。陛下若祀此福神，则必四时康泰，灾害潜消，风调雨顺，国祚绵\n长！"
+          "text": "那女娲娘娘，乃上古之神女，生有圣德。只因共工氏，头触不周山，天倾西北，"
+        },
+        {
+          "character": "商容",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "地陷东南。多亏女娲娘娘，炼成五彩神石，以补青天。是有功于百姓，朝歌"
+        },
+        {
+          "character": "商容",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "立祠以报之。陛下若祀此福神，则必四时康泰，灾害潜消，风调雨顺，国祚绵"
+        },
+        {
+          "character": "商容",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "长！"
         },
         {
           "character": "纣王",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "呵哈哈呀，原来如此。就命众卿保驾，一同前去。\n内侍，看辇伺候。"
+          "text": "呵哈哈呀，原来如此。就命众卿保驾，一同前去。"
+        },
+        {
+          "character": "纣王",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "内侍，看辇伺候。"
         },
         {
           "character": "纣王",
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "首相商容把本伸，\n果然女娲是正神。\n去到庙中把香焚。"
+          "text": "首相商容把本伸，"
+        },
+        {
+          "character": "纣王",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "果然女娲是正神。"
+        },
+        {
+          "character": "纣王",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "去到庙中把香焚。"
         },
         {
           "character": null,
@@ -5924,7 +6645,28 @@
           "line_type": "西皮流水板",
           "musical_style": "西皮流水板",
           "style_family": "西皮",
-          "text": "金碧辉煌照眼明。\n金童玉女把旙擎。\n瑞霭祥光紫雾腾。\n又只见神女美貌容。"
+          "text": "金碧辉煌照眼明。"
+        },
+        {
+          "character": "纣王",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "金童玉女把旙擎。"
+        },
+        {
+          "character": "纣王",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "瑞霭祥光紫雾腾。"
+        },
+        {
+          "character": "纣王",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "又只见神女美貌容。"
         },
         {
           "character": null,
@@ -5945,7 +6687,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "看这女娲神像，艳丽非常，胜似蕊宫仙子、月里嫦娥，真真令人欣羡。\n内侍，看文房四宝过来，待朕题诗一首。"
+          "text": "看这女娲神像，艳丽非常，胜似蕊宫仙子、月里嫦娥，真真令人欣羡。"
+        },
+        {
+          "character": "纣王",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "内侍，看文房四宝过来，待朕题诗一首。"
         },
         {
           "character": null,
@@ -5966,21 +6715,63 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "臣启奏陛下：想这女娲娘娘，乃是上古之正神、朝歌之福主，老臣请驾拈香，\n祈求福禄。使万民乐业，雨顺风调，兵火宁息。今陛下作诗，亵渎神明，于理\n不合，似应命人，以水洗去，以免众百姓观看。"
+          "text": "臣启奏陛下：想这女娲娘娘，乃是上古之正神、朝歌之福主，老臣请驾拈香，"
+        },
+        {
+          "character": "商容",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "祈求福禄。使万民乐业，雨顺风调，兵火宁息。今陛下作诗，亵渎神明，于理"
+        },
+        {
+          "character": "商容",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "不合，似应命人，以水洗去，以免众百姓观看。"
         },
         {
           "character": "纣王",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "卿家说那里话来。朕看女娲之容，有绝世之姿，故作此诗，以赞美之，并无他\n意。不必多言，摆驾回宫。\n内侍，车辇伺候。"
+          "text": "卿家说那里话来。朕看女娲之容，有绝世之姿，故作此诗，以赞美之，并无他"
+        },
+        {
+          "character": "纣王",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "意。不必多言，摆驾回宫。"
+        },
+        {
+          "character": "纣王",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "内侍，车辇伺候。"
         },
         {
           "character": "纣王",
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "观女娲美貌世无双，\n壁上题诗又何妨。\n神清气爽喜洋洋。"
+          "text": "观女娲美貌世无双，"
+        },
+        {
+          "character": "纣王",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "壁上题诗又何妨。"
+        },
+        {
+          "character": "纣王",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "神清气爽喜洋洋。"
         },
         {
           "character": null,
@@ -6070,7 +6861,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.037,
+        0.3243,
+        0.6486,
+        0.027,
+        0.2778,
+        3,
+        0.2973,
+        0.0
+      ]
     },
     {
       "scene_index": 37,
@@ -6251,7 +7052,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.8462,
+        0.1538,
+        1.0,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 38,
@@ -6389,7 +7200,17 @@
           "西皮原板",
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.25,
+        0.4,
+        0.6,
+        0.0,
+        0.6667,
+        2,
+        0.4,
+        0.0
+      ]
     }
   ]
 }

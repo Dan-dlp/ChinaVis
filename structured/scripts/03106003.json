@@ -165,14 +165,14 @@
           "text": "声威赫耀。"
         },
         {
-          "character": null,
+          "character": "王龁",
           "line_type": "念",
           "musical_style": null,
           "style_family": null,
           "text": "卓哉鲁仲连，品高人人羡。不帝我强秦，兵威稍稍敛。"
         },
         {
-          "character": null,
+          "character": "王龁",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -260,7 +260,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "“昨据王龁密报，邯郸情形可攻，特着蒙骜领军十万，郑安平、司马梗作为\n左右副将，同心协力，定要打破邯郸，毋负重托。”"
+          "text": "“昨据王龁密报，邯郸情形可攻，特着蒙骜领军十万，郑安平、司马梗作为"
+        },
+        {
+          "character": "蒙骜",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "左右副将，同心协力，定要打破邯郸，毋负重托。”"
         },
         {
           "character": "王龁",
@@ -323,7 +330,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "我主驾安。大王言道，既已探得廉颇染病，李牧远在代州，平原君赵胜不谙兵\n事，虽有食客三千，不过是说客之流，何能济得大事。为此特命某来，同心攻\n打邯郫，早传捷报，以副大王圣怀。"
+          "text": "我主驾安。大王言道，既已探得廉颇染病，李牧远在代州，平原君赵胜不谙兵"
+        },
+        {
+          "character": "蒙骜",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "事，虽有食客三千，不过是说客之流，何能济得大事。为此特命某来，同心攻"
+        },
+        {
+          "character": "蒙骜",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "打邯郫，早传捷报，以副大王圣怀。"
         },
         {
           "character": "王龁",
@@ -344,7 +365,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "岂敢！\n来，今晚四更饱餐，五鼓整齐队伍，不待天明，攻打邯郸。"
+          "text": "岂敢！"
+        },
+        {
+          "character": "王龁",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来，今晚四更饱餐，五鼓整齐队伍，不待天明，攻打邯郸。"
         },
         {
           "character": "四军士",
@@ -427,7 +455,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.7727,
+        6,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -481,14 +519,14 @@
           "text": "内乱将作，外援不至。"
         },
         {
-          "character": null,
+          "character": "平原君赵胜",
           "line_type": "念",
           "musical_style": null,
           "style_family": null,
           "text": "高台百丈尽头颅，何止区区万骨枯。矢石无情缘斗胜，可怜降卒有何辜！"
         },
         {
-          "character": null,
+          "character": "平原君赵胜",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -530,7 +568,7 @@
           "text": "尔疮痍将痊，岂知秦贼又来攻我城池。正是："
         },
         {
-          "character": null,
+          "character": "赵胜",
           "line_type": "念",
           "musical_style": null,
           "style_family": null,
@@ -558,7 +596,7 @@
           "text": "为何无消息，无消息！"
         },
         {
-          "character": null,
+          "character": "赵胜妻",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -590,28 +628,273 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "妾闻，上智不处危以饶幸。中智，能因危以为功。下愚，安于危，以自亡。危\n亡之至，在人所为，不可不察也！今番你我处此危城之中，义无所立，节无所\n成，莫非要作那下愚之类乎？且相公堂前，尝养三千食客，其中岂无文韬武略\n之人？若能得一长策，收那中智之功，此则转祸为福，岂不是好？"
+          "text": "妾闻，上智不处危以饶幸。中智，能因危以为功。下愚，安于危，以自亡。危"
+        },
+        {
+          "character": "赵胜妻",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "亡之至，在人所为，不可不察也！今番你我处此危城之中，义无所立，节无所"
+        },
+        {
+          "character": "赵胜妻",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "成，莫非要作那下愚之类乎？且相公堂前，尝养三千食客，其中岂无文韬武略"
+        },
+        {
+          "character": "赵胜妻",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "之人？若能得一长策，收那中智之功，此则转祸为福，岂不是好？"
         },
         {
           "character": "赵胜",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "明镜所以照形，鉴往所以知今。前者，我去说楚，欲得食客文武全备者二十人\n同往，岂知三千余人之内，文者不能武，武者不能文，选来选去，只选得一十\n九人。若无毛遂自荐，几被楚王笑话。今此累卵之势，再想得一文武长策之士，\n只怕不得能够了！"
+          "text": "明镜所以照形，鉴往所以知今。前者，我去说楚，欲得食客文武全备者二十人"
+        },
+        {
+          "character": "赵胜",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "同往，岂知三千余人之内，文者不能武，武者不能文，选来选去，只选得一十"
+        },
+        {
+          "character": "赵胜",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "九人。若无毛遂自荐，几被楚王笑话。今此累卵之势，再想得一文武长策之士，"
+        },
+        {
+          "character": "赵胜",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "只怕不得能够了！"
         },
         {
           "character": "赵胜",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "十数年养士名播扬于世，\n食客数比孟尝难分髙低。\n哪知晓全无个出色男儿。\n我平原说楚王实亏毛遂。\n我赵胜困邯郸有谁扶持？\n何况是结婚姻亲戚之谊。\n恰缘何屯其兵不来解围？\n能济困能扶危谁人不知。\n难道说与我客一般无奇？\n望救解好似那涸辙之鱼。\n独不怜亲骨肉甘让秦欺！"
+          "text": "十数年养士名播扬于世，"
         },
         {
-          "character": "实指望仗他等分劳代力、孟尝君出函关仗鸡鸣犬吠、那田文复齐相得冯驩之计、想魏国与赵邦势若唇齿、前致书既已蒙遣将晋鄙、且令弟信陵君向称侠义、尝闻他也养着三千珠履、眼见得赵将成西山落日、他袖手或因我不足相庇、赵胜妻",
+          "character": "赵胜",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "君所言固然是层层有理，\n大厦成几曾见一木独支。\n临危难全无有解难之机。\n讲其才终不能制胜出奇。\n赚得个衣食足谁管是非？\n为护鸠尚能使恶鹞头低。\n袖手观亲骨肉甘被人欺？\n莫不是那晋鄙老而无为？\n请君去剀切切作下尺书。\n妾情愿舍微命亲去一回。\n他不发兵来救赵我不来见伊。"
+          "text": "食客数比孟尝难分髙低。"
+        },
+        {
+          "character": "赵胜",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "哪知晓全无个出色男儿。"
+        },
+        {
+          "character": "赵胜",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我平原说楚王实亏毛遂。"
+        },
+        {
+          "character": "赵胜",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我赵胜困邯郸有谁扶持？"
+        },
+        {
+          "character": "赵胜",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "何况是结婚姻亲戚之谊。"
+        },
+        {
+          "character": "赵胜",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "恰缘何屯其兵不来解围？"
+        },
+        {
+          "character": "赵胜",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "能济困能扶危谁人不知。"
+        },
+        {
+          "character": "赵胜",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "难道说与我客一般无奇？"
+        },
+        {
+          "character": "赵胜",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "望救解好似那涸辙之鱼。"
+        },
+        {
+          "character": "赵胜",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "独不怜亲骨肉甘让秦欺！"
+        },
+        {
+          "character": "赵胜",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "实指望仗他等分劳代力"
+        },
+        {
+          "character": "赵胜",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "孟尝君出函关仗鸡鸣犬吠"
+        },
+        {
+          "character": "赵胜",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "那田文复齐相得冯驩之计"
+        },
+        {
+          "character": "赵胜",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "想魏国与赵邦势若唇齿"
+        },
+        {
+          "character": "赵胜",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "前致书既已蒙遣将晋鄙"
+        },
+        {
+          "character": "赵胜",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "且令弟信陵君向称侠义"
+        },
+        {
+          "character": "赵胜",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "尝闻他也养着三千珠履"
+        },
+        {
+          "character": "赵胜",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "眼见得赵将成西山落日"
+        },
+        {
+          "character": "赵胜",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "他袖手或因我不足相庇"
+        },
+        {
+          "character": "赵胜妻",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "君所言固然是层层有理，"
+        },
+        {
+          "character": "赵胜妻",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "大厦成几曾见一木独支。"
+        },
+        {
+          "character": "赵胜妻",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "临危难全无有解难之机。"
+        },
+        {
+          "character": "赵胜妻",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "讲其才终不能制胜出奇。"
+        },
+        {
+          "character": "赵胜妻",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "赚得个衣食足谁管是非？"
+        },
+        {
+          "character": "赵胜妻",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "为护鸠尚能使恶鹞头低。"
+        },
+        {
+          "character": "赵胜妻",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "袖手观亲骨肉甘被人欺？"
+        },
+        {
+          "character": "赵胜妻",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "莫不是那晋鄙老而无为？"
+        },
+        {
+          "character": "赵胜妻",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "请君去剀切切作下尺书。"
+        },
+        {
+          "character": "赵胜妻",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "妾情愿舍微命亲去一回。"
+        },
+        {
+          "character": "赵胜妻",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "他不发兵来救赵我不来见伊。"
         },
         {
           "character": null,
@@ -660,31 +943,248 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "不闻他兵儿将儿都带着那雄雄赳赳的虎狼气，\n不闻他车儿马儿四下里喧喧腾腾地在八面驱驰。\n我这里老儿少儿有谁个轰轰烈烈地保护着你？\n我这里男儿女儿选不出个将将就就的人儿跟随。\n眼见他枪儿刀儿摆得来森森严严鬼惧神疑。\n他见了你如饿虎见羔羊啖啖噬噬一口吞之。\n兀的不顿使我魂儿魄儿怕不是恍恍惚惚在九霄外飞。\n莫教我失群雁东儿西儿盼不到恩恩爱爱偕老的娇妻。"
+          "text": "不闻他兵儿将儿都带着那雄雄赳赳的虎狼气，"
         },
         {
-          "character": "眼见他旗儿旌儿布得飘飘荡荡遮天盖地、似你这貌儿材儿明是个怯怯虚虚的懦弱身体、兀的不顿使我心儿肝儿为着你，惨惨凄凄哭不出血泪、劝夫人忙把那情儿意儿你与我安安稳稳万不可提起、赵胜妻",
+          "character": "赵胜",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "不闻他车儿马儿四下里喧喧腾腾地在八面驱驰。"
+        },
+        {
+          "character": "赵胜",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我这里老儿少儿有谁个轰轰烈烈地保护着你？"
+        },
+        {
+          "character": "赵胜",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我这里男儿女儿选不出个将将就就的人儿跟随。"
+        },
+        {
+          "character": "赵胜",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "眼见他枪儿刀儿摆得来森森严严鬼惧神疑。"
+        },
+        {
+          "character": "赵胜",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "他见了你如饿虎见羔羊啖啖噬噬一口吞之。"
+        },
+        {
+          "character": "赵胜",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "兀的不顿使我魂儿魄儿怕不是恍恍惚惚在九霄外飞。"
+        },
+        {
+          "character": "赵胜",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "莫教我失群雁东儿西儿盼不到恩恩爱爱偕老的娇妻。"
+        },
+        {
+          "character": "赵胜",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "眼见他旗儿旌儿布得飘飘荡荡遮天盖地"
+        },
+        {
+          "character": "赵胜",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "似你这貌儿材儿明是个怯怯虚虚的懦弱身体"
+        },
+        {
+          "character": "赵胜",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "兀的不顿使我心儿肝儿为着你，惨惨凄凄哭不出血泪"
+        },
+        {
+          "character": "赵胜",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "劝夫人忙把那情儿意儿你与我安安稳稳万不可提起"
+        },
+        {
+          "character": "赵胜妻",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
           "text": "哎！"
         },
         {
-          "character": "眼见他旗儿旌儿布得飘飘荡荡遮天盖地、似你这貌儿材儿明是个怯怯虚虚的懦弱身体、兀的不顿使我心儿肝儿为着你，惨惨凄凄哭不出血泪、劝夫人忙把那情儿意儿你与我安安稳稳万不可提起、赵胜妻",
+          "character": "赵胜妻",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "眼见他旗儿旌儿布得飘飘荡荡遮天盖地"
+        },
+        {
+          "character": "赵胜妻",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "似你这貌儿材儿明是个怯怯虚虚的懦弱身体"
+        },
+        {
+          "character": "赵胜妻",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "兀的不顿使我心儿肝儿为着你，惨惨凄凄哭不出血泪"
+        },
+        {
+          "character": "赵胜妻",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "劝夫人忙把那情儿意儿你与我安安稳稳万不可提起"
+        },
+        {
+          "character": "赵胜妻",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "一任他豺儿狼儿排成着狰狰狞狞的攒羊之势，\n一任他鬼儿魅儿布成个昏昏沉沉的迷魂幛围。\n我只须侍儿马儿相随去平平坦坦直往魏国去。\n怕什么人儿马儿裹就个密密扎扎的金锁重围。\n哪知我胆儿量儿更比那粗粗大大的虎将还威。\n杀得他兵儿将儿一个个跌跌滚滚一霎时尸横血滴。\n准看俺不待慢鱼儿雁儿早报取平平安安退贼的捷书。"
+          "text": "一任他豺儿狼儿排成着狰狰狞狞的攒羊之势，"
         },
         {
-          "character": "我不用旗儿伞儿簇拥着前前后后多人护卫、怕什么他戟儿剑儿结得来层层叠叠如铁桶相似、你道我手儿足儿似乎像窄窄纤纤无甚气力、到临敌精儿神儿你看我抖抖擞擞直冲他队里、劝君家休将那心儿意儿为着我愁愁蹙蹙不能成事、赵胜",
+          "character": "赵胜妻",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "一任他鬼儿魅儿布成个昏昏沉沉的迷魂幛围。"
+        },
+        {
+          "character": "赵胜妻",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我只须侍儿马儿相随去平平坦坦直往魏国去。"
+        },
+        {
+          "character": "赵胜妻",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "怕什么人儿马儿裹就个密密扎扎的金锁重围。"
+        },
+        {
+          "character": "赵胜妻",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "哪知我胆儿量儿更比那粗粗大大的虎将还威。"
+        },
+        {
+          "character": "赵胜妻",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "杀得他兵儿将儿一个个跌跌滚滚一霎时尸横血滴。"
+        },
+        {
+          "character": "赵胜妻",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "准看俺不待慢鱼儿雁儿早报取平平安安退贼的捷书。"
+        },
+        {
+          "character": "赵胜妻",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我不用旗儿伞儿簇拥着前前后后多人护卫"
+        },
+        {
+          "character": "赵胜妻",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "怕什么他戟儿剑儿结得来层层叠叠如铁桶相似"
+        },
+        {
+          "character": "赵胜妻",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "你道我手儿足儿似乎像窄窄纤纤无甚气力"
+        },
+        {
+          "character": "赵胜妻",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "到临敌精儿神儿你看我抖抖擞擞直冲他队里"
+        },
+        {
+          "character": "赵胜妻",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "劝君家休将那心儿意儿为着我愁愁蹙蹙不能成事"
+        },
+        {
+          "character": "赵胜",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
           "text": "呀！"
         },
         {
-          "character": "我不用旗儿伞儿簇拥着前前后后多人护卫、怕什么他戟儿剑儿结得来层层叠叠如铁桶相似、你道我手儿足儿似乎像窄窄纤纤无甚气力、到临敌精儿神儿你看我抖抖擞擞直冲他队里、劝君家休将那心儿意儿为着我愁愁蹙蹙不能成事、赵胜",
+          "character": "赵胜",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我不用旗儿伞儿簇拥着前前后后多人护卫"
+        },
+        {
+          "character": "赵胜",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "怕什么他戟儿剑儿结得来层层叠叠如铁桶相似"
+        },
+        {
+          "character": "赵胜",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "你道我手儿足儿似乎像窄窄纤纤无甚气力"
+        },
+        {
+          "character": "赵胜",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "到临敌精儿神儿你看我抖抖擞擞直冲他队里"
+        },
+        {
+          "character": "赵胜",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "劝君家休将那心儿意儿为着我愁愁蹙蹙不能成事"
+        },
+        {
+          "character": "赵胜",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
@@ -807,14 +1307,28 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "到宅门尔与我立传示谕，\n甚紧急教他来当面禀知。"
+          "text": "到宅门尔与我立传示谕，"
+        },
+        {
+          "character": "赵胜妻",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "甚紧急教他来当面禀知。"
         },
         {
           "character": "丫鬟",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "是。\n何人击鼓？相爷、夫人立等二堂回话。"
+          "text": "是。"
+        },
+        {
+          "character": "丫鬟",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "何人击鼓？相爷、夫人立等二堂回话。"
         },
         {
           "character": "李同",
@@ -835,7 +1349,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "贼兵攻城势甚急，\n守城儿郎怨声啼。"
+          "text": "贼兵攻城势甚急，"
+        },
+        {
+          "character": "李同",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "守城儿郎怨声啼。"
         },
         {
           "character": "李同",
@@ -852,7 +1373,21 @@
           "text": "快快设计保城池。"
         },
         {
-          "character": "为此击鼓来面启、赵胜、赵胜妻",
+          "character": "李同",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "为此击鼓来面启"
+        },
+        {
+          "character": "李同",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "赵胜"
+        },
+        {
+          "character": "赵胜妻",
           "line_type": "同白",
           "musical_style": null,
           "style_family": null,
@@ -884,7 +1419,14 @@
           "line_type": "念",
           "musical_style": null,
           "style_family": null,
-          "text": "王龁、蒙骜督将，司马、安平副之。这回更比前番勇，人马却似加倍。\n乱箭尤如飞蝗，到处全搭云梯。纷纷爬城若蝼蚁，哪怕滚木擂石。"
+          "text": "王龁、蒙骜督将，司马、安平副之。这回更比前番勇，人马却似加倍。"
+        },
+        {
+          "character": "李同",
+          "line_type": "念",
+          "musical_style": null,
+          "style_family": null,
+          "text": "乱箭尤如飞蝗，到处全搭云梯。纷纷爬城若蝼蚁，哪怕滚木擂石。"
         },
         {
           "character": "赵胜、赵胜妻",
@@ -905,7 +1447,14 @@
           "line_type": "念",
           "musical_style": null,
           "style_family": null,
-          "text": "我军长平败后，几个痊愈疮痍，昼夜防守带着饥，试问谁人有力？\n一闻贼兵来到，个个搓手悲啼。"
+          "text": "我军长平败后，几个痊愈疮痍，昼夜防守带着饥，试问谁人有力？"
+        },
+        {
+          "character": "李同",
+          "line_type": "念",
+          "musical_style": null,
+          "style_family": null,
+          "text": "一闻贼兵来到，个个搓手悲啼。"
         },
         {
           "character": "李同",
@@ -947,7 +1496,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "喳！臣观将士昼夜巡城固守，人人皆有饥色，百姓望救不来，纷纷皆有出降之\n意。"
+          "text": "喳！臣观将士昼夜巡城固守，人人皆有饥色，百姓望救不来，纷纷皆有出降之"
+        },
+        {
+          "character": "李同",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "意。"
         },
         {
           "character": "赵胜、赵胜妻",
@@ -961,14 +1517,49 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "相国安享富厚，军民未沾一餐之惠，谁肯为君尽力？若能令夫人以下，编人行\n队之间，分工而作，府中所有财帛，尽数散给将士百姓，将士百姓在这危苦之\n际，见有如此舍己救众之心，自必感恩戴德，定当为君出力死守，此则家国两\n全之计，乞君谅之。"
+          "text": "相国安享富厚，军民未沾一餐之惠，谁肯为君尽力？若能令夫人以下，编人行"
+        },
+        {
+          "character": "李同",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "队之间，分工而作，府中所有财帛，尽数散给将士百姓，将士百姓在这危苦之"
+        },
+        {
+          "character": "李同",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "际，见有如此舍己救众之心，自必感恩戴德，定当为君出力死守，此则家国两"
+        },
+        {
+          "character": "李同",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "全之计，乞君谅之。"
         },
         {
           "character": "赵胜妻",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "好！此正是抚民安邦、舍己从人之策也。我倒未曾想到。\n相公，我即去检点所有财帛，分散军民，一边招募勇士，就着李同率领。一边\n招募妇女，付我亲统巡城，毋得违误，快去。"
+          "text": "好！此正是抚民安邦、舍己从人之策也。我倒未曾想到。"
+        },
+        {
+          "character": "赵胜妻",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "相公，我即去检点所有财帛，分散军民，一边招募勇士，就着李同率领。一边"
+        },
+        {
+          "character": "赵胜妻",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "招募妇女，付我亲统巡城，毋得违误，快去。"
         },
         {
           "character": "赵胜",
@@ -1087,7 +1678,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "且将城内军民，安抚定了，然后再去。廉大将军病体，不知如何，我当亲去探\n望，且他久在军中，必有高见。你今且去招募男女，我去分散财帛，也好共守\n城池。明朝同我去探探廉大将军的口气。"
+          "text": "且将城内军民，安抚定了，然后再去。廉大将军病体，不知如何，我当亲去探"
+        },
+        {
+          "character": "赵胜",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "望，且他久在军中，必有高见。你今且去招募男女，我去分散财帛，也好共守"
+        },
+        {
+          "character": "赵胜",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "城池。明朝同我去探探廉大将军的口气。"
         },
         {
           "character": "李同",
@@ -1108,7 +1713,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "这正是远水难救近火急，\n促迫委实难画机。"
+          "text": "这正是远水难救近火急，"
+        },
+        {
+          "character": "赵胜",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "促迫委实难画机。"
         },
         {
           "character": null,
@@ -1170,7 +1782,17 @@
         "singing_ratio": 0.111,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.111,
+        0.4805,
+        0.487,
+        0.0325,
+        0.3268,
+        5,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -1216,7 +1838,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "我，廉府家丁尤健便是。老爷本来御秦甚力，不料主上命赵括前往长平代将，\n致使丧师辱国。老爷因此愤怒成病，卧床已久，近日喜得扶杖而起。不免扶他\n出来散散闷。\n啊，老爷，您到外边儿坐坐呀。"
+          "text": "我，廉府家丁尤健便是。老爷本来御秦甚力，不料主上命赵括前往长平代将，"
+        },
+        {
+          "character": "尤健",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "致使丧师辱国。老爷因此愤怒成病，卧床已久，近日喜得扶杖而起。不免扶他"
+        },
+        {
+          "character": "尤健",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "出来散散闷。"
+        },
+        {
+          "character": "尤健",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "啊，老爷，您到外边儿坐坐呀。"
         },
         {
           "character": "廉颇",
@@ -1244,10 +1887,31 @@
           "line_type": "西皮慢板",
           "musical_style": "西皮慢板",
           "style_family": "西皮",
-          "text": "自敢谓声名儿不为不振，\n自敢谓智与勇足御秦人。\n到而今方信某是练达的老臣。"
+          "text": "自敢谓声名儿不为不振，"
         },
         {
-          "character": "恨无端突撤我大将权柄、尤健",
+          "character": "廉颇",
+          "line_type": "西皮慢板",
+          "musical_style": "西皮慢板",
+          "style_family": "西皮",
+          "text": "自敢谓智与勇足御秦人。"
+        },
+        {
+          "character": "廉颇",
+          "line_type": "西皮慢板",
+          "musical_style": "西皮慢板",
+          "style_family": "西皮",
+          "text": "到而今方信某是练达的老臣。"
+        },
+        {
+          "character": "廉颇",
+          "line_type": "西皮慢板",
+          "musical_style": "西皮慢板",
+          "style_family": "西皮",
+          "text": "恨无端突撤我大将权柄"
+        },
+        {
+          "character": "尤健",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -1279,7 +1943,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "文臣武将，都来问候金安。因老爷有谕在前，未敢妄启。昨晚有裨将李同，闻\n知老爷起床，一来请安，二来吿知那平原君今早要来拜候。"
+          "text": "文臣武将，都来问候金安。因老爷有谕在前，未敢妄启。昨晚有裨将李同，闻"
+        },
+        {
+          "character": "尤健",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "知老爷起床，一来请安，二来吿知那平原君今早要来拜候。"
         },
         {
           "character": "廉颇",
@@ -1314,7 +1985,21 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "他真是初生的犊儿不识虎，\n枉读父书自称能。\n只可叹断送了四十五万兵。"
+          "text": "他真是初生的犊儿不识虎，"
+        },
+        {
+          "character": "廉颇",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "枉读父书自称能。"
+        },
+        {
+          "character": "廉颇",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "只可叹断送了四十五万兵。"
         },
         {
           "character": null,
@@ -1363,7 +2048,14 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "某是樗栎庸才常带病，\n怎比君松筠柏节万年青。"
+          "text": "某是樗栎庸才常带病，"
+        },
+        {
+          "character": "廉颇",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "怎比君松筠柏节万年青。"
         },
         {
           "character": "赵胜",
@@ -1426,21 +2118,42 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "廉颇自任事以来，未尝失利，今者，缘何突命赵括代将，岂真视老臣为朽木不\n成？"
+          "text": "廉颇自任事以来，未尝失利，今者，缘何突命赵括代将，岂真视老臣为朽木不"
+        },
+        {
+          "character": "廉颇",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "成？"
         },
         {
           "character": "赵胜",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "此事初时，主上原不知细底，继之败后，方知秦邦范雎以黄金数万，使其心腹\n门客从间道人我邯郸，用下反间之计也。"
+          "text": "此事初时，主上原不知细底，继之败后，方知秦邦范雎以黄金数万，使其心腹"
+        },
+        {
+          "character": "赵胜",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "门客从间道人我邯郸，用下反间之计也。"
         },
         {
           "character": "赵胜",
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "他散布流言惑百姓，\n传说将军怯战老无能。"
+          "text": "他散布流言惑百姓，"
+        },
+        {
+          "character": "赵胜",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "传说将军怯战老无能。"
         },
         {
           "character": "廉颇",
@@ -1454,7 +2167,77 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "要胜秦邦改将领，\n唯当用赵括马服君。\n偏他当君夸其能。\n约束全废听他行。\n他哪知是诱敌困我军。\n左右翼是蒙骜、王翦两支兵。\n只杀得遍地血淫淫。\n傅豹、王容也归阴。\n其余皆被白起坑。\n只惊得我国男女如失魂。\n街头巷口全是哭声。"
+          "text": "要胜秦邦改将领，"
+        },
+        {
+          "character": "赵胜",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "唯当用赵括马服君。"
+        },
+        {
+          "character": "赵胜",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "偏他当君夸其能。"
+        },
+        {
+          "character": "赵胜",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "约束全废听他行。"
+        },
+        {
+          "character": "赵胜",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "他哪知是诱敌困我军。"
+        },
+        {
+          "character": "赵胜",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "左右翼是蒙骜、王翦两支兵。"
+        },
+        {
+          "character": "赵胜",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "只杀得遍地血淫淫。"
+        },
+        {
+          "character": "赵胜",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "傅豹、王容也归阴。"
+        },
+        {
+          "character": "赵胜",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "其余皆被白起坑。"
+        },
+        {
+          "character": "赵胜",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "只惊得我国男女如失魂。"
+        },
+        {
+          "character": "赵胜",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "街头巷口全是哭声。"
         },
         {
           "character": "赵胜",
@@ -1471,35 +2254,420 @@
           "text": "哪曾见这般的残酷实罕闻。"
         },
         {
-          "character": "大王心急把赵括问、代将后立改将军令、初战却把秦兵胜、断粮草是司马错与司马梗、只杀得海沸山岳震、突然闪出将白起、不由得赵括吓掉魂、马失前蹄丧了命、苏射逃走，冯亭自刎、只吓得我国军民无投奔、买卖罢市无人问、想古今血战难免伤和损、廉颇",
+          "character": "赵胜",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "大王心急把赵括问"
+        },
+        {
+          "character": "赵胜",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "代将后立改将军令"
+        },
+        {
+          "character": "赵胜",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "初战却把秦兵胜"
+        },
+        {
+          "character": "赵胜",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "断粮草是司马错与司马梗"
+        },
+        {
+          "character": "赵胜",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "只杀得海沸山岳震"
+        },
+        {
+          "character": "赵胜",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "突然闪出将白起"
+        },
+        {
+          "character": "赵胜",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "不由得赵括吓掉魂"
+        },
+        {
+          "character": "赵胜",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "马失前蹄丧了命"
+        },
+        {
+          "character": "赵胜",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "苏射逃走，冯亭自刎"
+        },
+        {
+          "character": "赵胜",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "只吓得我国军民无投奔"
+        },
+        {
+          "character": "赵胜",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "买卖罢市无人问"
+        },
+        {
+          "character": "赵胜",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "想古今血战难免伤和损"
+        },
+        {
+          "character": "廉颇",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
           "text": "咳！"
         },
         {
-          "character": "大王心急把赵括问、代将后立改将军令、初战却把秦兵胜、断粮草是司马错与司马梗、只杀得海沸山岳震、突然闪出将白起、不由得赵括吓掉魂、马失前蹄丧了命、苏射逃走，冯亭自刎、只吓得我国军民无投奔、买卖罢市无人问、想古今血战难免伤和损、廉颇",
-          "line_type": "西皮摇板",
-          "musical_style": "西皮摇板",
-          "style_family": "西皮",
-          "text": "何者谓执掌那三军司命？\n何者谓节制那百万军兵？"
-        },
-        {
-          "character": "大王心急把赵括问、代将后立改将军令、初战却把秦兵胜、断粮草是司马错与司马梗、只杀得海沸山岳震、突然闪出将白起、不由得赵括吓掉魂、马失前蹄丧了命、苏射逃走，冯亭自刎、只吓得我国军民无投奔、买卖罢市无人问、想古今血战难免伤和损、廉颇",
+          "character": "廉颇",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "某想行兵之要，全在主帅节制有方。其制也，守之以静，发之以动。兵之未出\n如山岳，兵之既出如江河。变化如风云，号令如雷震，赏罚如四时，运筹如鬼\n神。如此行去，则亡而能存，死而能生，危而能安，祸而能福，此将才也。若\n以身贵而贱人，以独谋而违众，以强辩而自饰，以骄傲而耻下问，此则是为将\n之大弊。赵括兼而有之，他不败何待！"
+          "text": "大王心急把赵括问"
         },
         {
-          "character": "大王心急把赵括问、代将后立改将军令、初战却把秦兵胜、断粮草是司马错与司马梗、只杀得海沸山岳震、突然闪出将白起、不由得赵括吓掉魂、马失前蹄丧了命、苏射逃走，冯亭自刎、只吓得我国军民无投奔、买卖罢市无人问、想古今血战难免伤和损、廉颇",
+          "character": "廉颇",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "代将后立改将军令"
+        },
+        {
+          "character": "廉颇",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "初战却把秦兵胜"
+        },
+        {
+          "character": "廉颇",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "断粮草是司马错与司马梗"
+        },
+        {
+          "character": "廉颇",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "只杀得海沸山岳震"
+        },
+        {
+          "character": "廉颇",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "突然闪出将白起"
+        },
+        {
+          "character": "廉颇",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "不由得赵括吓掉魂"
+        },
+        {
+          "character": "廉颇",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "马失前蹄丧了命"
+        },
+        {
+          "character": "廉颇",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "苏射逃走，冯亭自刎"
+        },
+        {
+          "character": "廉颇",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "只吓得我国军民无投奔"
+        },
+        {
+          "character": "廉颇",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "买卖罢市无人问"
+        },
+        {
+          "character": "廉颇",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "想古今血战难免伤和损"
+        },
+        {
+          "character": "廉颇",
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "仁义信智与勇他全无分，\n唯有刚愎自逞能。"
+          "text": "何者谓执掌那三军司命？"
         },
         {
-          "character": "到而今丧师辱国谁不恨、赵胜",
+          "character": "廉颇",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "何者谓节制那百万军兵？"
+        },
+        {
+          "character": "廉颇",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "大王心急把赵括问"
+        },
+        {
+          "character": "廉颇",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "代将后立改将军令"
+        },
+        {
+          "character": "廉颇",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "初战却把秦兵胜"
+        },
+        {
+          "character": "廉颇",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "断粮草是司马错与司马梗"
+        },
+        {
+          "character": "廉颇",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "只杀得海沸山岳震"
+        },
+        {
+          "character": "廉颇",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "突然闪出将白起"
+        },
+        {
+          "character": "廉颇",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "不由得赵括吓掉魂"
+        },
+        {
+          "character": "廉颇",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "马失前蹄丧了命"
+        },
+        {
+          "character": "廉颇",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "苏射逃走，冯亭自刎"
+        },
+        {
+          "character": "廉颇",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "只吓得我国军民无投奔"
+        },
+        {
+          "character": "廉颇",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "买卖罢市无人问"
+        },
+        {
+          "character": "廉颇",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "想古今血战难免伤和损"
+        },
+        {
+          "character": "廉颇",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "某想行兵之要，全在主帅节制有方。其制也，守之以静，发之以动。兵之未出"
+        },
+        {
+          "character": "廉颇",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "如山岳，兵之既出如江河。变化如风云，号令如雷震，赏罚如四时，运筹如鬼"
+        },
+        {
+          "character": "廉颇",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "神。如此行去，则亡而能存，死而能生，危而能安，祸而能福，此将才也。若"
+        },
+        {
+          "character": "廉颇",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "以身贵而贱人，以独谋而违众，以强辩而自饰，以骄傲而耻下问，此则是为将"
+        },
+        {
+          "character": "廉颇",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "之大弊。赵括兼而有之，他不败何待！"
+        },
+        {
+          "character": "廉颇",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "大王心急把赵括问"
+        },
+        {
+          "character": "廉颇",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "代将后立改将军令"
+        },
+        {
+          "character": "廉颇",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "初战却把秦兵胜"
+        },
+        {
+          "character": "廉颇",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "断粮草是司马错与司马梗"
+        },
+        {
+          "character": "廉颇",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "只杀得海沸山岳震"
+        },
+        {
+          "character": "廉颇",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "突然闪出将白起"
+        },
+        {
+          "character": "廉颇",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "不由得赵括吓掉魂"
+        },
+        {
+          "character": "廉颇",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "马失前蹄丧了命"
+        },
+        {
+          "character": "廉颇",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "苏射逃走，冯亭自刎"
+        },
+        {
+          "character": "廉颇",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "只吓得我国军民无投奔"
+        },
+        {
+          "character": "廉颇",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "买卖罢市无人问"
+        },
+        {
+          "character": "廉颇",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "想古今血战难免伤和损"
+        },
+        {
+          "character": "廉颇",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "仁义信智与勇他全无分，"
+        },
+        {
+          "character": "廉颇",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "唯有刚愎自逞能。"
+        },
+        {
+          "character": "廉颇",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "到而今丧师辱国谁不恨"
+        },
+        {
+          "character": "赵胜",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -1571,7 +2739,17 @@
           "西皮慢板",
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.15,
+        0.4622,
+        0.5294,
+        0.0084,
+        0.2712,
+        4,
+        0.4622,
+        0.0
+      ]
     },
     {
       "scene_index": 4,
@@ -2023,7 +3201,17 @@
           "西皮快板",
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.091,
+        0.3659,
+        0.6341,
+        0.0,
+        0.5,
+        6,
+        0.2683,
+        0.0976
+      ]
     },
     {
       "scene_index": 5,
@@ -2189,7 +3377,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.4,
+        0.5,
+        0.5,
+        0.0,
+        0.6923,
+        4,
+        0.5,
+        0.0
+      ]
     },
     {
       "scene_index": 6,
@@ -2292,7 +3490,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.286,
+        0.2857,
+        0.7143,
+        0.0,
+        1.0,
+        2,
+        0.2857,
+        0.0
+      ]
     },
     {
       "scene_index": 7,
@@ -2397,7 +3605,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 8,
@@ -2651,7 +3869,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.062,
+        0.0625,
+        0.9375,
+        0.0,
+        0.9333,
+        6,
+        0.0625,
+        0.0
+      ]
     }
   ]
 }

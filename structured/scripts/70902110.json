@@ -194,7 +194,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "吓姐姐！小生哪一处不寻到，却在这里。恰好在花园内，折得垂柳半枝。姐姐，\n你既淹通诗书，何不作诗一首，以赏此柳枝乎？"
+          "text": "吓姐姐！小生哪一处不寻到，却在这里。恰好在花园内，折得垂柳半枝。姐姐，"
+        },
+        {
+          "character": "柳梦梅",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "你既淹通诗书，何不作诗一首，以赏此柳枝乎？"
         },
         {
           "character": "杜丽娘",
@@ -523,7 +530,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.8333,
+        0.1667,
+        0.4545,
+        2,
+        0.0,
+        0.0
+      ]
     }
   ]
 }

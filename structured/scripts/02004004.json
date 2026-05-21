@@ -172,7 +172,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.75,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -207,7 +217,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "老夫，严颜。西蜀刘王驾前为臣，官居五马太守，镇守通江巴州。适才探子报\n道，张飞兴兵前来，夺取西川。老夫镇守此处，岂肯容他闯去。"
+          "text": "老夫，严颜。西蜀刘王驾前为臣，官居五马太守，镇守通江巴州。适才探子报"
+        },
+        {
+          "character": "严颜",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "道，张飞兴兵前来，夺取西川。老夫镇守此处，岂肯容他闯去。"
         },
         {
           "character": "众将官、兵卒",
@@ -256,7 +273,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "也呔！严颜，我把你这老贼！看你上马，不过拳头大，下马，不过磕膝高。有\n何本领，霸占通江巴州？归顺桃园便罢，倘若不然，死在俺枪尖之下。那时悔\n之晚矣！"
+          "text": "也呔！严颜，我把你这老贼！看你上马，不过拳头大，下马，不过磕膝高。有"
+        },
+        {
+          "character": "张飞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "何本领，霸占通江巴州？归顺桃园便罢，倘若不然，死在俺枪尖之下。那时悔"
+        },
+        {
+          "character": "张飞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "之晚矣！"
         },
         {
           "character": "严颜",
@@ -291,17 +322,59 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "二国不和动刀枪。\n大喝一声透天堂。\n老爷武艺比尔强。"
+          "text": "二国不和动刀枪。"
         },
         {
-          "character": "人道张飞是好将、巴州城内访一访、张飞",
+          "character": "严颜",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "大喝一声透天堂。"
+        },
+        {
+          "character": "严颜",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "老爷武艺比尔强。"
+        },
+        {
+          "character": "严颜",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "人道张飞是好将"
+        },
+        {
+          "character": "严颜",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "巴州城内访一访"
+        },
+        {
+          "character": "张飞",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
           "text": "住了！"
         },
         {
-          "character": "人道张飞是好将、巴州城内访一访、张飞",
+          "character": "张飞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "人道张飞是好将"
+        },
+        {
+          "character": "张飞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "巴州城内访一访"
+        },
+        {
+          "character": "张飞",
           "line_type": "西皮导板",
           "musical_style": "西皮导板",
           "style_family": "西皮",
@@ -326,14 +399,56 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "二目圆睁似火烧。\n老爷言来你听着：\n杀鸡焉用宰牛刀。"
+          "text": "二目圆睁似火烧。"
         },
         {
-          "character": "向前来把严颜叫、将而比作笼中鸟、严颜",
+          "character": "张飞",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "两下交锋不肯让，\n一来一往动刀枪。\n老爷与尔战一场。"
+          "text": "老爷言来你听着："
+        },
+        {
+          "character": "张飞",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "杀鸡焉用宰牛刀。"
+        },
+        {
+          "character": "张飞",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "向前来把严颜叫"
+        },
+        {
+          "character": "张飞",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "将而比作笼中鸟"
+        },
+        {
+          "character": "严颜",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "两下交锋不肯让，"
+        },
+        {
+          "character": "严颜",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "一来一往动刀枪。"
+        },
+        {
+          "character": "严颜",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "老爷与尔战一场。"
         },
         {
           "character": null,
@@ -382,7 +497,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "啊呀。你看严颜老贼，虽然年迈，枪法甚是厉害。这便怎处？吓，有了。想俺\n当年在虎牢关，曾用打将钢鞭。\n三军的！"
+          "text": "啊呀。你看严颜老贼，虽然年迈，枪法甚是厉害。这便怎处？吓，有了。想俺"
+        },
+        {
+          "character": "张飞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "当年在虎牢关，曾用打将钢鞭。"
+        },
+        {
+          "character": "张飞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "三军的！"
         },
         {
           "character": "兵卒",
@@ -410,7 +539,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "钢鞭一举鬼神惊，\n管教严颜命归阴。"
+          "text": "钢鞭一举鬼神惊，"
+        },
+        {
+          "character": "张飞",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "管教严颜命归阴。"
         },
         {
           "character": null,
@@ -424,7 +560,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "一鞭打败严颜老将，\n不知老将奔何方。"
+          "text": "一鞭打败严颜老将，"
+        },
+        {
+          "character": "张飞",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "不知老将奔何方。"
         },
         {
           "character": null,
@@ -438,14 +581,35 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "一鞭打下千斤重，\n振得老夫两膀疼。"
+          "text": "一鞭打下千斤重，"
+        },
+        {
+          "character": "严颜",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "振得老夫两膀疼。"
         },
         {
           "character": "严颜",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "方才张飞一鞭打下，不是老夫躲闪得快，险遭不测。想俺幼年间，习就百步穿\n杨，不免转至敌楼，射他一箭。\n左右！"
+          "text": "方才张飞一鞭打下，不是老夫躲闪得快，险遭不测。想俺幼年间，习就百步穿"
+        },
+        {
+          "character": "严颜",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "杨，不免转至敌楼，射他一箭。"
+        },
+        {
+          "character": "严颜",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "左右！"
         },
         {
           "character": "兵卒",
@@ -473,7 +637,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "安排打虎牢笼计，\n谅他插翅也难飞。"
+          "text": "安排打虎牢笼计，"
+        },
+        {
+          "character": "严颜",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "谅他插翅也难飞。"
         },
         {
           "character": null,
@@ -529,7 +700,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "啊呀且住，你看严颜老贼，埋伏敌楼，暗放冷箭。不是俺手急眼快，险些性命\n丧于他手。这个老贼果然厉害。\n三军的！"
+          "text": "啊呀且住，你看严颜老贼，埋伏敌楼，暗放冷箭。不是俺手急眼快，险些性命"
+        },
+        {
+          "character": "张飞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "丧于他手。这个老贼果然厉害。"
+        },
+        {
+          "character": "张飞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "三军的！"
         },
         {
           "character": "兵卒",
@@ -599,7 +784,17 @@
         "musical_styles": [
           "西皮导板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.235,
+        0.375,
+        0.6094,
+        0.0156,
+        0.5238,
+        4,
+        0.0312,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -624,14 +819,28 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "一箭射去叮当响，\n不知张飞生死存亡。"
+          "text": "一箭射去叮当响，"
+        },
+        {
+          "character": "严颜",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "不知张飞生死存亡。"
         },
         {
           "character": "严颜",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "方才一箭射去，不知张飞生死存亡，不免命老军前去，探听虚实。\n左右！"
+          "text": "方才一箭射去，不知张飞生死存亡，不免命老军前去，探听虚实。"
+        },
+        {
+          "character": "严颜",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "左右！"
         },
         {
           "character": "兵卒",
@@ -652,7 +861,14 @@
           "line_type": "同白",
           "musical_style": null,
           "style_family": null,
-          "text": "吓。\n传老军进帐。"
+          "text": "吓。"
+        },
+        {
+          "character": "兵卒",
+          "line_type": "同白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "传老军进帐。"
         },
         {
           "character": null,
@@ -757,7 +973,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "你们前去，就说是通江巴州好百姓，去朝四川峨眉山。去时没有千岁营盘，回\n来时遇见千岁营盘挡路，望千岁开一线之恩，放小人们过去，到家见了妻儿老\n小，一家感恩非浅。"
+          "text": "你们前去，就说是通江巴州好百姓，去朝四川峨眉山。去时没有千岁营盘，回"
+        },
+        {
+          "character": "严颜",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来时遇见千岁营盘挡路，望千岁开一线之恩，放小人们过去，到家见了妻儿老"
+        },
+        {
+          "character": "严颜",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "小，一家感恩非浅。"
         },
         {
           "character": "二老军",
@@ -771,7 +1001,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "倘若问你们路途，就说南是山，北是水，中间有羊肠小道，只消一人一骑，方\n能过去。"
+          "text": "倘若问你们路途，就说南是山，北是水，中间有羊肠小道，只消一人一骑，方"
+        },
+        {
+          "character": "严颜",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "能过去。"
         },
         {
           "character": "二老军",
@@ -827,7 +1064,21 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "今番不消去打仗，\n准备刀枪入营房。\n凌烟阁把名扬。"
+          "text": "今番不消去打仗，"
+        },
+        {
+          "character": "严颜",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "准备刀枪入营房。"
+        },
+        {
+          "character": "严颜",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "凌烟阁把名扬。"
         },
         {
           "character": null,
@@ -887,7 +1138,17 @@
         "singing_ratio": 0.038,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.038,
+        0.1389,
+        0.6944,
+        0.1667,
+        0.7143,
+        5,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 4,
@@ -921,7 +1182,21 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "思想大哥泪不干。\n不能够取胜甚是羞惭。\n眼睁睁怕的是拆散桃园。"
+          "text": "思想大哥泪不干。"
+        },
+        {
+          "character": "张飞",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "不能够取胜甚是羞惭。"
+        },
+        {
+          "character": "张飞",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "眼睁睁怕的是拆散桃园。"
         },
         {
           "character": null,
@@ -963,7 +1238,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "你们是严颜差来的奸细，探听你千岁的军情。\n来，拿去砍了！"
+          "text": "你们是严颜差来的奸细，探听你千岁的军情。"
+        },
+        {
+          "character": "张飞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来，拿去砍了！"
         },
         {
           "character": "二老军",
@@ -984,7 +1266,21 @@
           "line_type": "同白",
           "musical_style": null,
           "style_family": null,
-          "text": "小人们是通江巴州好百姓，去朝四川峨眉山。去时没有千岁营盘，回来遇见千\n岁营盘挡路，望千岁开一线之恩，放小人们过去。到家见了妻儿老小，一家感\n恩非浅。"
+          "text": "小人们是通江巴州好百姓，去朝四川峨眉山。去时没有千岁营盘，回来遇见千"
+        },
+        {
+          "character": "二老军",
+          "line_type": "同白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "岁营盘挡路，望千岁开一线之恩，放小人们过去。到家见了妻儿老小，一家感"
+        },
+        {
+          "character": "二老军",
+          "line_type": "同白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "恩非浅。"
         },
         {
           "character": "张飞",
@@ -1005,7 +1301,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "果然是好百姓。\n来，每人赏他们两串铜钱，放他们过去。"
+          "text": "果然是好百姓。"
+        },
+        {
+          "character": "张飞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来，每人赏他们两串铜钱，放他们过去。"
         },
         {
           "character": "二老军",
@@ -1075,7 +1378,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "嗳，老张方才定下此计，又被严颜的细作听去，这便咱处？哦、哦，有了！想\n我起兵的时节，军师与我锦囊一封，说事到危急，方可开看。如今事在两难之\n际，何不将锦囊拆开一看，便知明白。\n来。"
+          "text": "嗳，老张方才定下此计，又被严颜的细作听去，这便咱处？哦、哦，有了！想"
+        },
+        {
+          "character": "张飞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我起兵的时节，军师与我锦囊一封，说事到危急，方可开看。如今事在两难之"
+        },
+        {
+          "character": "张飞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "际，何不将锦囊拆开一看，便知明白。"
+        },
+        {
+          "character": "张飞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来。"
         },
         {
           "character": "兵卒",
@@ -1096,7 +1420,14 @@
           "line_type": "同白",
           "musical_style": null,
           "style_family": null,
-          "text": "吓。\n锦囊呈上。"
+          "text": "吓。"
+        },
+        {
+          "character": "兵卒",
+          "line_type": "同白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "锦囊呈上。"
         },
         {
           "character": "张飞",
@@ -1113,7 +1444,14 @@
           "text": "咳，想汉营中，只有老张一个，哪里还有一个？"
         },
         {
-          "character": "唔，唔，三军的、兵卒",
+          "character": "张飞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "唔，唔，三军的"
+        },
+        {
+          "character": "兵卒",
           "line_type": "同白",
           "musical_style": null,
           "style_family": null,
@@ -1278,7 +1616,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "三军的，听俺的吩咐：那严颜乃西川名将，足智多谋，倘今晚分兵劫塞，俺这\n里当做准备。可于前营，多埋荆棘，第一层长枪手；第二层攒箭手；第三层滚\n排手；第四层火炮手；第五层弩弓手，尔等快去埋伏，不得有误。"
+          "text": "三军的，听俺的吩咐：那严颜乃西川名将，足智多谋，倘今晚分兵劫塞，俺这"
+        },
+        {
+          "character": "张飞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "里当做准备。可于前营，多埋荆棘，第一层长枪手；第二层攒箭手；第三层滚"
+        },
+        {
+          "character": "张飞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "排手；第四层火炮手；第五层弩弓手，尔等快去埋伏，不得有误。"
         },
         {
           "character": "兵卒",
@@ -1306,7 +1658,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "来了。\n千岁爷，我装扮起来了，看可像不像？"
+          "text": "来了。"
+        },
+        {
+          "character": "徐大汗",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "千岁爷，我装扮起来了，看可像不像？"
         },
         {
           "character": "张飞",
@@ -1376,7 +1735,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "来来来，我们来演习演习。\n呔，来将通名。"
+          "text": "来来来，我们来演习演习。"
+        },
+        {
+          "character": "张飞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "呔，来将通名。"
         },
         {
           "character": "徐大汗",
@@ -1460,17 +1826,52 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "千岁与你就此前去。\n三军的，小心看守营盘。\n徐大汗向前带来，马来。"
+          "text": "千岁与你就此前去。"
+        },
+        {
+          "character": "张飞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "三军的，小心看守营盘。"
+        },
+        {
+          "character": "张飞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "徐大汗向前带来，马来。"
         },
         {
           "character": "张飞",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "军师锦囊费猜疑，\n徐大汗扮作假张飞。\n夺取西川见先机。"
+          "text": "军师锦囊费猜疑，"
         },
         {
-          "character": "没奈何拨草把路觅、徐大汗",
+          "character": "张飞",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "徐大汗扮作假张飞。"
+        },
+        {
+          "character": "张飞",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "夺取西川见先机。"
+        },
+        {
+          "character": "张飞",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "没奈何拨草把路觅"
+        },
+        {
+          "character": "徐大汗",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -1533,7 +1934,17 @@
         "singing_ratio": 0.015,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.015,
+        0.0761,
+        0.9022,
+        0.0217,
+        0.7363,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 5,
@@ -1555,7 +1966,21 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "老军探信未回营，\n不由老夫心内惊。\n待等探马报军情。"
+          "text": "老军探信未回营，"
+        },
+        {
+          "character": "严颜",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "不由老夫心内惊。"
+        },
+        {
+          "character": "严颜",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "待等探马报军情。"
         },
         {
           "character": null,
@@ -1641,7 +2066,17 @@
         "singing_ratio": 0.143,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.143,
+        0.4,
+        0.6,
+        0.0,
+        0.6667,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 6,
@@ -1664,7 +2099,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "月影儿照不出路高低，\n西川道路果崎岖。"
+          "text": "月影儿照不出路高低，"
+        },
+        {
+          "character": "张飞",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "西川道路果崎岖。"
         },
         {
           "character": "张飞",
@@ -1741,7 +2183,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "哎呀且住，想汉营中，只有一个张飞，怎么又有一个张飞？不要管他，等他来\n一个，老夫杀一个。"
+          "text": "哎呀且住，想汉营中，只有一个张飞，怎么又有一个张飞？不要管他，等他来"
+        },
+        {
+          "character": "严颜",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "一个，老夫杀一个。"
         },
         {
           "character": null,
@@ -1810,7 +2259,17 @@
         "singing_ratio": 0.167,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.167,
+        0.2667,
+        0.7333,
+        0.0,
+        0.6429,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 7,
@@ -1877,7 +2336,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "也呔，严颜！我把你这老贼，昨日在两军阵前，耀武扬威。今日被擒，不知屈\n膝求生，还是这等倔强。\n来，推出砍了！"
+          "text": "也呔，严颜！我把你这老贼，昨日在两军阵前，耀武扬威。今日被擒，不知屈"
+        },
+        {
+          "character": "张飞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "膝求生，还是这等倔强。"
+        },
+        {
+          "character": "张飞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来，推出砍了！"
         },
         {
           "character": "严颜",
@@ -1898,7 +2371,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "咦，他在那里发笑，敢是笑老张用兵不到？\n来，把他抓回来。"
+          "text": "咦，他在那里发笑，敢是笑老张用兵不到？"
+        },
+        {
+          "character": "张飞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来，把他抓回来。"
         },
         {
           "character": "严颜",
@@ -1954,7 +2434,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "这便怎么样呢？\n唔，唔，三军的，附耳上来。\n三军的，严老将军，是哪个擒的，哪个绑的？"
+          "text": "这便怎么样呢？"
+        },
+        {
+          "character": "张飞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "唔，唔，三军的，附耳上来。"
+        },
+        {
+          "character": "张飞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "三军的，严老将军，是哪个擒的，哪个绑的？"
         },
         {
           "character": "兵卒",
@@ -1968,7 +2462,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "呔，我把你们这些该打的东西！严老将军，年纪高大，不过马失前蹄，跌倒下\n来，尔等就该抬了八人轿，把老将军抬进城来才是，岂是绑得的！该打！记责！\n下去！"
+          "text": "呔，我把你们这些该打的东西！严老将军，年纪高大，不过马失前蹄，跌倒下"
+        },
+        {
+          "character": "张飞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来，尔等就该抬了八人轿，把老将军抬进城来才是，岂是绑得的！该打！记责！"
+        },
+        {
+          "character": "张飞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "下去！"
         },
         {
           "character": "兵卒",
@@ -2010,14 +2518,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "咳，想我起兵的时节，军师吩咐：此去西川，不可鞭打大将，枪挑小卒，莫非\n应在此人？如今弄得打又打不得，骂又骂不得，诸葛亮吓，你坑杀了老张也！"
+          "text": "咳，想我起兵的时节，军师吩咐：此去西川，不可鞭打大将，枪挑小卒，莫非"
+        },
+        {
+          "character": "张飞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "应在此人？如今弄得打又打不得，骂又骂不得，诸葛亮吓，你坑杀了老张也！"
         },
         {
           "character": "张飞",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "我心中恼恨诸葛亮，\n这样的苦差差老张。"
+          "text": "我心中恼恨诸葛亮，"
+        },
+        {
+          "character": "张飞",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "这样的苦差差老张。"
         },
         {
           "character": "张飞",
@@ -2038,38 +2560,101 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "老将军，俺老张有言在先：上则跪天，下则跪地，中则屈膝人王帝主。今日为\n了大哥的江山，也说不得了，跪你一膝；如若不然哪，这一膝也跪下。老将军\n降了罢，俺大哥乃仁德之君。"
+          "text": "老将军，俺老张有言在先：上则跪天，下则跪地，中则屈膝人王帝主。今日为"
         },
         {
-          "character": "张翼德低头暗思想、严颜",
+          "character": "张飞",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "哎呀，你看老张，上则跪天，下则跪地，中则屈膝跪人王帝主。今日为了他大\n哥江山，跪在老夫面前。想刘皇叔真乃仁德之君。罢！"
+          "text": "了大哥的江山，也说不得了，跪你一膝；如若不然哪，这一膝也跪下。老将军"
         },
         {
-          "character": "张翼德低头暗思想、严颜",
+          "character": "张飞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "降了罢，俺大哥乃仁德之君。"
+        },
+        {
+          "character": "张飞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "张翼德低头暗思想"
+        },
+        {
+          "character": "严颜",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "哎呀，你看老张，上则跪天，下则跪地，中则屈膝跪人王帝主。今日为了他大"
+        },
+        {
+          "character": "严颜",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "哥江山，跪在老夫面前。想刘皇叔真乃仁德之君。罢！"
+        },
+        {
+          "character": "严颜",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "张翼德低头暗思想"
+        },
+        {
+          "character": "严颜",
           "line_type": "念",
           "musical_style": null,
           "style_family": null,
           "text": "巴州严老将，威名扬四方。不作刀头鬼，愿为屈膝降。"
         },
         {
-          "character": "张翼德低头暗思想、严颜",
+          "character": "严颜",
+          "line_type": "念",
+          "musical_style": null,
+          "style_family": null,
+          "text": "张翼德低头暗思想"
+        },
+        {
+          "character": "严颜",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "人说桃园多仁义，\n话不虚传果然真。"
+          "text": "人说桃园多仁义，"
         },
         {
-          "character": "屈膝跪在尘埃地、严颜",
+          "character": "严颜",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "话不虚传果然真。"
+        },
+        {
+          "character": "严颜",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "屈膝跪在尘埃地"
+        },
+        {
+          "character": "严颜",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
           "text": "三千岁请起。"
         },
         {
-          "character": "屈膝跪在尘埃地、严颜",
+          "character": "严颜",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "屈膝跪在尘埃地"
+        },
+        {
+          "character": "严颜",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
@@ -2142,7 +2727,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.1273,
+        0.8364,
+        0.0364,
+        0.5,
+        3,
+        0.0,
+        0.0
+      ]
     }
   ]
 }

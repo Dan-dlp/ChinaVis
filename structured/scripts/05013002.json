@@ -130,24 +130,73 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "小生，姓方名卿，字元音，乃河南开封府祥符县人氏。先祖天爵，官居首相。\n我父方敬，职投授吏部尚书。母亲杨氏，早受诰命。只为奸相罗通串通魏党，\n将我满门抄拿，均遭非命，留下母亲与我，苦守坟堂。咳，好不凄惨人也。"
-        },
-        {
-          "character": "方卿",
-          "line_type": "唱",
-          "musical_style": null,
-          "style_family": null,
-          "text": "在家中遵奉了老母之命，\n到襄阳见姑母细说原因。\n又只见车轿马路上纷纷。"
+          "text": "小生，姓方名卿，字元音，乃河南开封府祥符县人氏。先祖天爵，官居首相。"
         },
         {
           "character": "方卿",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "且住。进得城来，倒也热闹，你看前而，高大房屋，未知那家乡宦？不免待我\n借问一声便了。\n吓，店家请了。"
+          "text": "我父方敬，职投授吏部尚书。母亲杨氏，早受诰命。只为奸相罗通串通魏党，"
         },
         {
-          "character": "将身儿且把那城门来进、店家",
+          "character": "方卿",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "将我满门抄拿，均遭非命，留下母亲与我，苦守坟堂。咳，好不凄惨人也。"
+        },
+        {
+          "character": "方卿",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "在家中遵奉了老母之命，"
+        },
+        {
+          "character": "方卿",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "到襄阳见姑母细说原因。"
+        },
+        {
+          "character": "方卿",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "又只见车轿马路上纷纷。"
+        },
+        {
+          "character": "方卿",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "且住。进得城来，倒也热闹，你看前而，高大房屋，未知那家乡宦？不免待我"
+        },
+        {
+          "character": "方卿",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "借问一声便了。"
+        },
+        {
+          "character": "方卿",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "吓，店家请了。"
+        },
+        {
+          "character": "方卿",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "将身儿且把那城门来进"
+        },
+        {
+          "character": "店家",
           "line_type": "内白",
           "musical_style": null,
           "style_family": null,
@@ -172,7 +221,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "有劳了。\n嗄，那座高大房屋就是，待我整衣前去便了。"
+          "text": "有劳了。"
+        },
+        {
+          "character": "方卿",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "嗄，那座高大房屋就是，待我整衣前去便了。"
         },
         {
           "character": "方卿",
@@ -201,7 +257,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.2778,
+        0.6667,
+        0.0556,
+        0.2353,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -278,21 +344,56 @@
           "line_type": "同白",
           "musical_style": null,
           "style_family": null,
-          "text": "有请。\n（四青袍同上，县令、府尹分两边立，呈帖，二门军同接帖请进，四青袍、县令、府尹同下。四门枪同上，\n守备、中军同上，呈帖，二门军同接帖请进，四门枪、守备、中军同下。四龙套、四朝官同上，呈帖，二门\n军同接帖请进，四龙套、四朝官同下。方卿上。）"
+          "text": "有请。"
+        },
+        {
+          "character": "门军甲、门军乙",
+          "line_type": "同白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "（四青袍同上，县令、府尹分两边立，呈帖，二门军同接帖请进，四青袍、县令、府尹同下。四门枪同上，"
+        },
+        {
+          "character": "门军甲、门军乙",
+          "line_type": "同白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "守备、中军同上，呈帖，二门军同接帖请进，四门枪、守备、中军同下。四龙套、四朝官同上，呈帖，二门"
+        },
+        {
+          "character": "门军甲、门军乙",
+          "line_type": "同白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "军同接帖请进，四龙套、四朝官同下。方卿上。）"
         },
         {
           "character": "方卿",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "急急走进城来用目观定，\n不觉地来到了陈府门庭。"
+          "text": "急急走进城来用目观定，"
+        },
+        {
+          "character": "方卿",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "不觉地来到了陈府门庭。"
         },
         {
           "character": "方卿",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "吓，你看文武毕至，轿马纷纷，未知何事？不免待我一问，便知明白。\n门上有人么？"
+          "text": "吓，你看文武毕至，轿马纷纷，未知何事？不免待我一问，便知明白。"
+        },
+        {
+          "character": "方卿",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "门上有人么？"
         },
         {
           "character": null,
@@ -306,14 +407,35 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "门上有人么？\n吓，看这两个狗头：只管自在，问之不应。哦，我一定要问的。\n你们这两个人在此，所管何事？"
+          "text": "门上有人么？"
+        },
+        {
+          "character": "方卿",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "吓，看这两个狗头：只管自在，问之不应。哦，我一定要问的。"
+        },
+        {
+          "character": "方卿",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "你们这两个人在此，所管何事？"
         },
         {
           "character": "二门军",
           "line_type": "同白",
           "musical_style": null,
           "style_family": null,
-          "text": "呸，你这要饭的，真眼都瞎哩。此地什么地方，你竞敢在此大呼小叫，滚你妈\n的蛋！"
+          "text": "呸，你这要饭的，真眼都瞎哩。此地什么地方，你竞敢在此大呼小叫，滚你妈"
+        },
+        {
+          "character": "二门军",
+          "line_type": "同白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "的蛋！"
         },
         {
           "character": "方卿",
@@ -362,14 +484,42 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "咳，你看这两个狗头，竟如此欺贫重富。吓，有了，不免待我说与他们听，便\n知明白。\n吓，门公听者："
+          "text": "咳，你看这两个狗头，竟如此欺贫重富。吓，有了，不免待我说与他们听，便"
+        },
+        {
+          "character": "方卿",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "知明白。"
+        },
+        {
+          "character": "方卿",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "吓，门公听者："
         },
         {
           "character": "方卿",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "俺本是开封府姓方名卿，\n与你家太夫人骨肉之亲。\n免得你疑心我求食府门。"
+          "text": "俺本是开封府姓方名卿，"
+        },
+        {
+          "character": "方卿",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "与你家太夫人骨肉之亲。"
+        },
+        {
+          "character": "方卿",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "免得你疑心我求食府门。"
         },
         {
           "character": null,
@@ -397,7 +547,21 @@
           "line_type": "同白",
           "musical_style": null,
           "style_family": null,
-          "text": "唔，我家老爷的亲戚，那摆道的，坐轿的，骑马的，穿靴的，摇摇的，摆摆的，\n哪有你这样倒运的，破烂的，无衣的，缺袜的，要饭的这亲戚么？放你娘的\n屁！滚罢。"
+          "text": "唔，我家老爷的亲戚，那摆道的，坐轿的，骑马的，穿靴的，摇摇的，摆摆的，"
+        },
+        {
+          "character": "二门军",
+          "line_type": "同白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "哪有你这样倒运的，破烂的，无衣的，缺袜的，要饭的这亲戚么？放你娘的"
+        },
+        {
+          "character": "二门军",
+          "line_type": "同白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "屁！滚罢。"
         },
         {
           "character": null,
@@ -432,7 +596,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "谁想到来襄阳恶奴反上，\n他把我当作了讨饭化郎。"
+          "text": "谁想到来襄阳恶奴反上，"
+        },
+        {
+          "character": "方卿",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "他把我当作了讨饭化郎。"
         },
         {
           "character": null,
@@ -446,7 +617,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "又听得大门外人声喧哗？\n急忙忙上前去细看端详。"
+          "text": "又听得大门外人声喧哗？"
+        },
+        {
+          "character": "陈宣",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "急忙忙上前去细看端详。"
         },
         {
           "character": "二门军",
@@ -467,7 +645,14 @@
           "line_type": "同白",
           "musical_style": null,
           "style_family": null,
-          "text": "不要说起。门外有一个化子，要来认老爷的亲戚，你想这王八，吵得该死不该\n死？"
+          "text": "不要说起。门外有一个化子，要来认老爷的亲戚，你想这王八，吵得该死不该"
+        },
+        {
+          "character": "二门军",
+          "line_type": "同白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "死？"
         },
         {
           "character": "陈宣",
@@ -509,17 +694,52 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "奉母命见姑娘千里来奔，\n到此地难相叙姑侄之情。\n为只为我贫穷破衣遮身。"
+          "text": "奉母命见姑娘千里来奔，"
         },
         {
-          "character": "可恨那恶奴仆欺我太甚、陈宣",
+          "character": "方卿",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "听他言不由我暗中思忖，\n莫不是方公子来到门庭？"
+          "text": "到此地难相叙姑侄之情。"
         },
         {
-          "character": "可恨那恶奴仆欺我太甚、陈宣",
+          "character": "方卿",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "为只为我贫穷破衣遮身。"
+        },
+        {
+          "character": "方卿",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "可恨那恶奴仆欺我太甚"
+        },
+        {
+          "character": "陈宣",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "听他言不由我暗中思忖，"
+        },
+        {
+          "character": "陈宣",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "莫不是方公子来到门庭？"
+        },
+        {
+          "character": "陈宣",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "可恨那恶奴仆欺我太甚"
+        },
+        {
+          "character": "陈宣",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -572,14 +792,35 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "哎吓，不瞒陈宣说，自从被害之后，一家罄尽。故此奉了母亲之命，特来拜见\n姑丈大人的。"
+          "text": "哎吓，不瞒陈宣说，自从被害之后，一家罄尽。故此奉了母亲之命，特来拜见"
+        },
+        {
+          "character": "方卿",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "姑丈大人的。"
         },
         {
           "character": "陈宣",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "吓，原来如此。咳，天有不测风云，人有旦夕祸福。吓，小主人，已到此地，\n就不妨事了。今日老爷寿诞，请小主人去到后园，先见夫人，更衣以后，再见\n老爷便了。"
+          "text": "吓，原来如此。咳，天有不测风云，人有旦夕祸福。吓，小主人，已到此地，"
+        },
+        {
+          "character": "陈宣",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "就不妨事了。今日老爷寿诞，请小主人去到后园，先见夫人，更衣以后，再见"
+        },
+        {
+          "character": "陈宣",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "老爷便了。"
         },
         {
           "character": "方卿",
@@ -674,7 +915,17 @@
         "singing_ratio": 0.075,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.075,
+        0.2222,
+        0.7083,
+        0.0694,
+        0.5211,
+        8,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -720,17 +971,73 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "奴家方氏。院夫陈连，官居内廷御史。今日老爷寿诞，这些文武官儿，多来拜\n寿，好热闹也。"
+          "text": "奴家方氏。院夫陈连，官居内廷御史。今日老爷寿诞，这些文武官儿，多来拜"
+        },
+        {
+          "character": "方氏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "寿，好热闹也。"
         },
         {
           "character": "方氏",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "可喜得我老爷命运通显，\n伴皇驾安民事不差毫分。\n那时我两家里喜结官亲；\n那时我定与他一命相拼。"
+          "text": "可喜得我老爷命运通显，"
         },
         {
-          "character": "我未曾育麟儿甚是可恨、单只有翠娥女尚未定婚、但愿得配一个高门富贵、又恐怕我老爷弃妻娶妾、红云",
+          "character": "方氏",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "伴皇驾安民事不差毫分。"
+        },
+        {
+          "character": "方氏",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "那时我两家里喜结官亲；"
+        },
+        {
+          "character": "方氏",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "那时我定与他一命相拼。"
+        },
+        {
+          "character": "方氏",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我未曾育麟儿甚是可恨"
+        },
+        {
+          "character": "方氏",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "单只有翠娥女尚未定婚"
+        },
+        {
+          "character": "方氏",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "但愿得配一个高门富贵"
+        },
+        {
+          "character": "方氏",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "又恐怕我老爷弃妻娶妾"
+        },
+        {
+          "character": "红云",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -741,7 +1048,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "你这个臭丫头，我早已知道，你天天与老爷眉来眼去，你这贱人，莫非要想做\n个二夫人？你要成了这事，我要你好看。"
+          "text": "你这个臭丫头，我早已知道，你天天与老爷眉来眼去，你这贱人，莫非要想做"
+        },
+        {
+          "character": "方氏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "个二夫人？你要成了这事，我要你好看。"
         },
         {
           "character": "红云",
@@ -895,7 +1209,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "放屁放屁，你在那里见了鬼！我家方府门中，有这么衣衫不正的人么？吓，不\n是我夸口，我家侄儿来，非轿即马，穿袍戴帽，这么摇摇摆摆的才是。"
+          "text": "放屁放屁，你在那里见了鬼！我家方府门中，有这么衣衫不正的人么？吓，不"
+        },
+        {
+          "character": "方氏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "是我夸口，我家侄儿来，非轿即马，穿袍戴帽，这么摇摇摆摆的才是。"
         },
         {
           "character": "陈宣",
@@ -972,7 +1293,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "他头上带一顶牡丹花的方巾，身上穿的四川来的一件蓝衫，足上穿的通州的靴\n子！"
+          "text": "他头上带一顶牡丹花的方巾，身上穿的四川来的一件蓝衫，足上穿的通州的靴"
+        },
+        {
+          "character": "红云",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "子！"
         },
         {
           "character": "方氏",
@@ -1035,7 +1363,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "姑母说哪里话来？小侄在家，奉了母亲之命，千里而来，拜望姑父、姑母二位\n大人，怎说不认至亲，是何道理？吓是了，你莫非嫌小侄家贫身穷，以致反脸\n不认么？"
+          "text": "姑母说哪里话来？小侄在家，奉了母亲之命，千里而来，拜望姑父、姑母二位"
+        },
+        {
+          "character": "方卿",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "大人，怎说不认至亲，是何道理？吓是了，你莫非嫌小侄家贫身穷，以致反脸"
+        },
+        {
+          "character": "方卿",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "不认么？"
         },
         {
           "character": "方氏",
@@ -1049,7 +1391,21 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "方门中素作善不生亏心，\n出你这穷酸骨乞儿下人？\n有什么脸与面探望姑亲？"
+          "text": "方门中素作善不生亏心，"
+        },
+        {
+          "character": "方氏",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "出你这穷酸骨乞儿下人？"
+        },
+        {
+          "character": "方氏",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "有什么脸与面探望姑亲？"
         },
         {
           "character": "方氏",
@@ -1059,11 +1415,32 @@
           "text": "丫头们，把这个穷骨头，与我赶了出去！"
         },
         {
-          "character": "把这些家财产败完干净、方卿",
+          "character": "方氏",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "哎吓，姑母大人吓！小侄奉母亲之命，特来探望。怎说把我当作乞儿赶出？想\n姑母虽则豪富，也要思量从何而起？况且我母亲常说，姑母出嫁襄阳，陪嫁不\n少，难道抚养之恩，都已忘却不成么？"
+          "text": "把这些家财产败完干净"
+        },
+        {
+          "character": "方卿",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "哎吓，姑母大人吓！小侄奉母亲之命，特来探望。怎说把我当作乞儿赶出？想"
+        },
+        {
+          "character": "方卿",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "姑母虽则豪富，也要思量从何而起？况且我母亲常说，姑母出嫁襄阳，陪嫁不"
+        },
+        {
+          "character": "方卿",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "少，难道抚养之恩，都已忘却不成么？"
         },
         {
           "character": "方氏",
@@ -1077,7 +1454,21 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "此事情谁叫你当面嘲笑，\n激得我心头火透上云霄。\n众丫鬟快把他拖出乱敲！"
+          "text": "此事情谁叫你当面嘲笑，"
+        },
+        {
+          "character": "方氏",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "激得我心头火透上云霄。"
+        },
+        {
+          "character": "方氏",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "众丫鬟快把他拖出乱敲！"
         },
         {
           "character": "方氏",
@@ -1087,49 +1478,154 @@
           "text": "嗄唷，气死我也，好气吓，吓吓，气坏了，气坏了！"
         },
         {
-          "character": "你这个小穷骨口硬奸巧、方卿",
+          "character": "方氏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "你这个小穷骨口硬奸巧"
+        },
+        {
+          "character": "方卿",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
           "text": "吓，你看世上，欺贫重富，竟有如此！"
         },
         {
-          "character": "你这个小穷骨口硬奸巧、方卿",
+          "character": "方卿",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "你这个小穷骨口硬奸巧"
+        },
+        {
+          "character": "方卿",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "今日里方元音虽则身贫，\n胸腹中早藏那锦绣之文。\n常言道富与贵岂有一定？\n但愿得西方路车载黄金！\n俺元音只求得金榜提名。\n那时节看尊长怎得相见？\n只怕你礼义上难解难分。"
+          "text": "今日里方元音虽则身贫，"
         },
         {
-          "character": "你这个小穷骨口硬奸巧、方卿",
+          "character": "方卿",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "胸腹中早藏那锦绣之文。"
+        },
+        {
+          "character": "方卿",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "常言道富与贵岂有一定？"
+        },
+        {
+          "character": "方卿",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "但愿得西方路车载黄金！"
+        },
+        {
+          "character": "方卿",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "俺元音只求得金榜提名。"
+        },
+        {
+          "character": "方卿",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "那时节看尊长怎得相见？"
+        },
+        {
+          "character": "方卿",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "只怕你礼义上难解难分。"
+        },
+        {
+          "character": "方卿",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "你这个小穷骨口硬奸巧"
+        },
+        {
+          "character": "方卿",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
           "text": "吓姑母，你虽不认方卿，那姑嫂之情，难道也不认了么？"
         },
         {
-          "character": "犬儿眼睁大了试看贫富、方氏",
+          "character": "方卿",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "犬儿眼睁大了试看贫富"
+        },
+        {
+          "character": "方氏",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
           "text": "哎吓畜生吓！"
         },
         {
-          "character": "犬儿眼睁大了试看贫富、方氏",
+          "character": "方氏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "犬儿眼睁大了试看贫富"
+        },
+        {
+          "character": "方氏",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "这官府岂是那皇朝施赈，\n也亏你老脸面指望功名！\n大街上要饭的尽作大臣。"
+          "text": "这官府岂是那皇朝施赈，"
         },
         {
-          "character": "犬儿眼睁大了试看贫富、方氏",
+          "character": "方氏",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "也亏你老脸面指望功名！"
+        },
+        {
+          "character": "方氏",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "大街上要饭的尽作大臣。"
+        },
+        {
+          "character": "方氏",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "犬儿眼睁大了试看贫富"
+        },
+        {
+          "character": "方氏",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
           "text": "畜生，奋生！你若做了高官，姑娘嘴上定生胡子哩！"
         },
         {
-          "character": "你若是做高官乞丐不剩、方卿",
+          "character": "方氏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "你若是做高官乞丐不剩"
+        },
+        {
+          "character": "方卿",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -1154,7 +1650,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "她将那骨肉亲抛却不认，\n我此去再不到富贵门庭。"
+          "text": "她将那骨肉亲抛却不认，"
+        },
+        {
+          "character": "方卿",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我此去再不到富贵门庭。"
         },
         {
           "character": null,
@@ -1168,7 +1671,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "哎唷哎唷，气坏了！不想正在欢乐，出这场恶气。\n丫鬟们，快扶我进去！阿弥陀佛。"
+          "text": "哎唷哎唷，气坏了！不想正在欢乐，出这场恶气。"
+        },
+        {
+          "character": "方氏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "丫鬟们，快扶我进去！阿弥陀佛。"
         },
         {
           "character": null,
@@ -1221,7 +1731,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.29,
+        0.66,
+        0.05,
+        0.4646,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 4,
@@ -1249,7 +1769,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "奴家彩屏，深闺侍奉千金，犹如同胞姐妹。奉小姐之命，来到花园采花，耳听\n楼下喧闹，谁想河南方公子到来，未知如何，这般狼狈？好笑夫人，不念骨肉\n之情，反说他乞丐之辈，将公子赶出门去，我不免报与小姐知道便了。"
+          "text": "奴家彩屏，深闺侍奉千金，犹如同胞姐妹。奉小姐之命，来到花园采花，耳听"
+        },
+        {
+          "character": "彩屏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "楼下喧闹，谁想河南方公子到来，未知如何，这般狼狈？好笑夫人，不念骨肉"
+        },
+        {
+          "character": "彩屏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "之情，反说他乞丐之辈，将公子赶出门去，我不免报与小姐知道便了。"
         },
         {
           "character": "彩屏",
@@ -1268,7 +1802,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.2,
+        0.6,
+        0.2,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 5,
@@ -1293,14 +1837,28 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "十载至亲难得见，\n今日骨肉又相逢。"
+          "text": "十载至亲难得见，"
+        },
+        {
+          "character": "陈宣",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "今日骨肉又相逢。"
         },
         {
           "character": "陈宣",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "老奴陈宣，方公子今日到来，与夫人相见，谅必他们定有一番长谈，待我小心\n侍候。"
+          "text": "老奴陈宣，方公子今日到来，与夫人相见，谅必他们定有一番长谈，待我小心"
+        },
+        {
+          "character": "陈宣",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "侍候。"
         },
         {
           "character": null,
@@ -1314,7 +1872,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "恨姑母不相认变了脸面，\n叫丫头赶出我所为哪般！"
+          "text": "恨姑母不相认变了脸面，"
+        },
+        {
+          "character": "方卿",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "叫丫头赶出我所为哪般！"
         },
         {
           "character": "陈宣",
@@ -1342,42 +1907,119 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "陈宣不要说起，适才相见姑母大人，她不认我，倒也罢了；将我当作乞丐，叫\n丫头们，将我赶出。吓，陈宣，我方卿再也不来了。"
+          "text": "陈宣不要说起，适才相见姑母大人，她不认我，倒也罢了；将我当作乞丐，叫"
+        },
+        {
+          "character": "方卿",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "丫头们，将我赶出。吓，陈宣，我方卿再也不来了。"
         },
         {
           "character": "方卿",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "我本是奉母命千里来奔，\n谁想到方姑母变脸无情。\n她说我穷骨头妄攀官亲。"
+          "text": "我本是奉母命千里来奔，"
         },
         {
-          "character": "大不该到襄阳来把亲认、陈宣",
-          "line_type": "白",
-          "musical_style": null,
-          "style_family": null,
-          "text": "小主人，你不必动怒。今日夫人想是吃了早酒，言语冲撞小主人，得老奴禀与\n老爷知道，自有道理。"
-        },
-        {
-          "character": "大不该到襄阳来把亲认、陈宣",
+          "character": "方卿",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "小主人你且把愁眉放了，\n听老奴把话儿细说根苗：\n看姑父他把你怎么开消。"
+          "text": "谁想到方姑母变脸无情。"
         },
         {
-          "character": "大不该到襄阳来把亲认、陈宣",
+          "character": "方卿",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "她说我穷骨头妄攀官亲。"
+        },
+        {
+          "character": "方卿",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "大不该到襄阳来把亲认"
+        },
+        {
+          "character": "陈宣",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "小主人，你不必动怒。今日夫人想是吃了早酒，言语冲撞小主人，得老奴禀与"
+        },
+        {
+          "character": "陈宣",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "老爷知道，自有道理。"
+        },
+        {
+          "character": "陈宣",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "大不该到襄阳来把亲认"
+        },
+        {
+          "character": "陈宣",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "小主人你且把愁眉放了，"
+        },
+        {
+          "character": "陈宣",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "听老奴把话儿细说根苗："
+        },
+        {
+          "character": "陈宣",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "看姑父他把你怎么开消。"
+        },
+        {
+          "character": "陈宣",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "大不该到襄阳来把亲认"
+        },
+        {
+          "character": "陈宣",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
           "text": "小主人，你不思张良与黄石公之事么？忍耐为是。"
         },
         {
-          "character": "此一番见老爷忠言奉告、方卿",
+          "character": "陈宣",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "吓陈宣，我宁死九泉，岂肯受辱于人！常言道，人穷志不短，山荒树木荣。我\n怎肯受此恶气，你好好回复我姑父老爷，我去了。"
+          "text": "此一番见老爷忠言奉告"
+        },
+        {
+          "character": "方卿",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "吓陈宣，我宁死九泉，岂肯受辱于人！常言道，人穷志不短，山荒树木荣。我"
+        },
+        {
+          "character": "方卿",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "怎肯受此恶气，你好好回复我姑父老爷，我去了。"
         },
         {
           "character": "陈宣",
@@ -1405,7 +2047,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "奉小姐叮咛语不敢迟慢，\n见了那方公子细说根源。"
+          "text": "奉小姐叮咛语不敢迟慢，"
+        },
+        {
+          "character": "彩屏",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "见了那方公子细说根源。"
         },
         {
           "character": "彩屏",
@@ -1419,7 +2068,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "好吓，小主人，彩屏姐奉小姐之命，请少爷相见，快快随彩屏姐进去，待老奴\n禀与老爷，再请小主人，快进去罢。"
+          "text": "好吓，小主人，彩屏姐奉小姐之命，请少爷相见，快快随彩屏姐进去，待老奴"
+        },
+        {
+          "character": "陈宣",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "禀与老爷，再请小主人，快进去罢。"
         },
         {
           "character": "方卿",
@@ -1433,28 +2089,56 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "大爷，我家小姐大贤大德，非比夫人之忘情无义。她知道夫人言语得罪大爷，\n故而命我追下楼来，请公子，还有话讲，快快进去。"
-        },
-        {
-          "character": "陈宣",
-          "line_type": "白",
-          "musical_style": null,
-          "style_family": null,
-          "text": "小主人，我家小姐是大贤大德之人，你们一见，必然会有一番姐弟之情相叙，\n快些与彩屏姐进去罢。"
-        },
-        {
-          "character": "方卿",
-          "line_type": "白",
-          "musical_style": null,
-          "style_family": null,
-          "text": "哎吓彩屏姐，我适来受了夫人一番恶语，今见表姐，又恐也是如此，那时我怎\n能忍得了？望姐姐回复，改日再见罢。"
+          "text": "大爷，我家小姐大贤大德，非比夫人之忘情无义。她知道夫人言语得罪大爷，"
         },
         {
           "character": "彩屏",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "哎吓相公，你不要负了小姐一片好心，她与老夫人大不相同，若有言需冒犯，\n再走也不迟。为何这等执迷！相公吓，走走。"
+          "text": "故而命我追下楼来，请公子，还有话讲，快快进去。"
+        },
+        {
+          "character": "陈宣",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "小主人，我家小姐是大贤大德之人，你们一见，必然会有一番姐弟之情相叙，"
+        },
+        {
+          "character": "陈宣",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "快些与彩屏姐进去罢。"
+        },
+        {
+          "character": "方卿",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "哎吓彩屏姐，我适来受了夫人一番恶语，今见表姐，又恐也是如此，那时我怎"
+        },
+        {
+          "character": "方卿",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "能忍得了？望姐姐回复，改日再见罢。"
+        },
+        {
+          "character": "彩屏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "哎吓相公，你不要负了小姐一片好心，她与老夫人大不相同，若有言需冒犯，"
+        },
+        {
+          "character": "彩屏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "再走也不迟。为何这等执迷！相公吓，走走。"
         },
         {
           "character": "陈宣",
@@ -1523,7 +2207,17 @@
         "singing_ratio": 0.15,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.15,
+        0.3043,
+        0.6739,
+        0.0217,
+        0.4222,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 6,
@@ -2146,7 +2840,17 @@
         "singing_ratio": 0.052,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.052,
+        0.1549,
+        0.8028,
+        0.0423,
+        0.8286,
+        3,
+        0.0,
+        0.0
+      ]
     }
   ]
 }

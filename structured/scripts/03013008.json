@@ -290,7 +290,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.7143,
+        0.2857,
+        1.0,
+        6,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -346,7 +356,35 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "本爵、赵匡胤。在柴主驾前为臣。只因南唐窦瑶进来一女，名曰文姬。圣上见\n喜，将她封为西宫伴驾。封窦瑶为平章公。造府不及，命他游街三日。不论哪\n家王府，任他挑选，暂住几月。想本爵怎容此事，也曾邀请众位王侯，议论此\n事，灭却此贼，以振朝纲。\n门官！"
+          "text": "本爵、赵匡胤。在柴主驾前为臣。只因南唐窦瑶进来一女，名曰文姬。圣上见"
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "喜，将她封为西宫伴驾。封窦瑶为平章公。造府不及，命他游街三日。不论哪"
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "家王府，任他挑选，暂住几月。想本爵怎容此事，也曾邀请众位王侯，议论此"
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "事，灭却此贼，以振朝纲。"
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "门官！"
         },
         {
           "character": "门官",
@@ -423,7 +461,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "众家王爷有所不知。只因南唐窦瑶老贼，进来一女，名曰文姬。圣上见喜，将\n她封为西宫伴驾。封窦瑶老贼以为平章公。造府不及，命他游街三日。不论哪\n家王府，任他挑选，暂住几月。想本爵怎能容得！相邀众位王爷到此议论此事，\n灭却老贼，以振朝纲。"
+          "text": "众家王爷有所不知。只因南唐窦瑶老贼，进来一女，名曰文姬。圣上见喜，将"
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "她封为西宫伴驾。封窦瑶老贼以为平章公。造府不及，命他游街三日。不论哪"
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "家王府，任他挑选，暂住几月。想本爵怎能容得！相邀众位王爷到此议论此事，"
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "灭却老贼，以振朝纲。"
         },
         {
           "character": "郑子明",
@@ -444,45 +503,311 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "忆自学法在仙山，\n陈抟老祖把道传。\n闷来山后听鸟喧。\n落个自在与清闲。"
+          "text": "忆自学法在仙山，"
         },
         {
-          "character": "闲来山前观虎斗、无是无非全不管、高怀德",
+          "character": "苗光义",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "大家忠心无二念，\n文臣武将保江山。\n辞官不做回家园。"
+          "text": "陈抟老祖把道传。"
         },
         {
-          "character": "来朝一本奏金殿、高怀亮",
+          "character": "苗光义",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "抖抖精神枪一杆，\n一马杀进寿州关。\n那时仍回火塘前。"
+          "text": "闷来山后听鸟喧。"
         },
         {
-          "character": "灭却老贼除后患、郑子明",
+          "character": "苗光义",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "落个自在与清闲。"
+        },
+        {
+          "character": "苗光义",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "闲来山前观虎斗"
+        },
+        {
+          "character": "苗光义",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "无是无非全不管"
+        },
+        {
+          "character": "高怀德",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "大家忠心无二念，"
+        },
+        {
+          "character": "高怀德",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "文臣武将保江山。"
+        },
+        {
+          "character": "高怀德",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "辞官不做回家园。"
+        },
+        {
+          "character": "高怀德",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来朝一本奏金殿"
+        },
+        {
+          "character": "高怀亮",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "抖抖精神枪一杆，"
+        },
+        {
+          "character": "高怀亮",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "一马杀进寿州关。"
+        },
+        {
+          "character": "高怀亮",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "那时仍回火塘前。"
+        },
+        {
+          "character": "高怀亮",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "灭却老贼除后患"
+        },
+        {
+          "character": "郑子明",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
           "text": "好哇！"
         },
         {
-          "character": "灭却老贼除后患、郑子明",
+          "character": "郑子明",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "灭却老贼除后患"
+        },
+        {
+          "character": "郑子明",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "郑子明闻言心欢畅，\n想起了当年事一桩。\n胜似一母共同娘。\n一死三亡同无常，也落个青史名标万古流芳！\n东挡西杀马蹄忙。\n咱大哥柴世荣帝王模样；\n咱二哥赵匡胤威震八方。\n谁人不知赵玄郎！\n董家桥前摆战场。\n扶保俺大哥锦绣家邦。\n依某想：他比赵高，似王莽，赛杨广，他就败坏纲常。勾引了俺大哥把江山大\n事付汪洋！\n尊一声列公细听端详：\n看某今日闹一场！"
+          "text": "郑子明闻言心欢畅，"
         },
         {
-          "character": "弟兄们结拜把香上、直许下一在三在有福共享、同心协力把基业创、走关东，关西闯、拳打五虎把命丧、鞭坠董龙、董虎丧、到如今出了个窦瑶狗奸党、越说越恼气上撞、你们只管把宽心放、赵匡胤",
+          "character": "郑子明",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "列位说话有胆量，\n大胆的老贼太猖狂。\n大家同心保朝堂！"
+          "text": "想起了当年事一桩。"
         },
         {
-          "character": "我若灭却狗奸党、苗光义",
+          "character": "郑子明",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "胜似一母共同娘。"
+        },
+        {
+          "character": "郑子明",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "一死三亡同无常，也落个青史名标万古流芳！"
+        },
+        {
+          "character": "郑子明",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "东挡西杀马蹄忙。"
+        },
+        {
+          "character": "郑子明",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "咱大哥柴世荣帝王模样；"
+        },
+        {
+          "character": "郑子明",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "咱二哥赵匡胤威震八方。"
+        },
+        {
+          "character": "郑子明",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "谁人不知赵玄郎！"
+        },
+        {
+          "character": "郑子明",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "董家桥前摆战场。"
+        },
+        {
+          "character": "郑子明",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "扶保俺大哥锦绣家邦。"
+        },
+        {
+          "character": "郑子明",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "依某想：他比赵高，似王莽，赛杨广，他就败坏纲常。勾引了俺大哥把江山大"
+        },
+        {
+          "character": "郑子明",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "事付汪洋！"
+        },
+        {
+          "character": "郑子明",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "尊一声列公细听端详："
+        },
+        {
+          "character": "郑子明",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "看某今日闹一场！"
+        },
+        {
+          "character": "郑子明",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "弟兄们结拜把香上"
+        },
+        {
+          "character": "郑子明",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "直许下一在三在有福共享"
+        },
+        {
+          "character": "郑子明",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "同心协力把基业创"
+        },
+        {
+          "character": "郑子明",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "走关东，关西闯"
+        },
+        {
+          "character": "郑子明",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "拳打五虎把命丧"
+        },
+        {
+          "character": "郑子明",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "鞭坠董龙"
+        },
+        {
+          "character": "郑子明",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "董虎丧"
+        },
+        {
+          "character": "郑子明",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "到如今出了个窦瑶狗奸党"
+        },
+        {
+          "character": "郑子明",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "越说越恼气上撞"
+        },
+        {
+          "character": "郑子明",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "你们只管把宽心放"
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "列位说话有胆量，"
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "大胆的老贼太猖狂。"
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "大家同心保朝堂！"
+        },
+        {
+          "character": "赵匡胤",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我若灭却狗奸党"
+        },
+        {
+          "character": "苗光义",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -637,7 +962,17 @@
         "singing_ratio": 0.375,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.375,
+        0.6622,
+        0.3243,
+        0.0135,
+        0.3014,
+        8,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -679,7 +1014,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "老夫窦瑶。乃南唐人氏。所生二子：长子窦龙；次子窦虎。吾女文姬，进献当\n今。柴王见喜，封为西宫伴驾。将老夫封为平章公，命老夫游街三日。造府不\n及，不拘哪家王府，任老夫挑选，暂住几月。\n二孩儿！"
+          "text": "老夫窦瑶。乃南唐人氏。所生二子：长子窦龙；次子窦虎。吾女文姬，进献当"
+        },
+        {
+          "character": "窦瑶",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "今。柴王见喜，封为西宫伴驾。将老夫封为平章公，命老夫游街三日。造府不"
+        },
+        {
+          "character": "窦瑶",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "及，不拘哪家王府，任老夫挑选，暂住几月。"
+        },
+        {
+          "character": "窦瑶",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "二孩儿！"
         },
         {
           "character": "窦龙、窦虎",
@@ -707,10 +1063,73 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "这也是圣天子龙恩有道，\n挑王府命老夫游街三朝。\n封西宫伴王驾随侍龙朝。\n哪一个敢不尊一品当朝！\n逆吾者奏一本项上加刀。\n来至在南宋府用目观瞧。"
+          "text": "这也是圣天子龙恩有道，"
         },
         {
-          "character": "皆因是我女儿颇有才貌、从今后我就是当今国老、顺吾者不过是升官荣耀、教人来你与我前行开道、四校尉",
+          "character": "窦瑶",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "挑王府命老夫游街三朝。"
+        },
+        {
+          "character": "窦瑶",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "封西宫伴王驾随侍龙朝。"
+        },
+        {
+          "character": "窦瑶",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "哪一个敢不尊一品当朝！"
+        },
+        {
+          "character": "窦瑶",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "逆吾者奏一本项上加刀。"
+        },
+        {
+          "character": "窦瑶",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来至在南宋府用目观瞧。"
+        },
+        {
+          "character": "窦瑶",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "皆因是我女儿颇有才貌"
+        },
+        {
+          "character": "窦瑶",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "从今后我就是当今国老"
+        },
+        {
+          "character": "窦瑶",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "顺吾者不过是升官荣耀"
+        },
+        {
+          "character": "窦瑶",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "教人来你与我前行开道"
+        },
+        {
+          "character": "四校尉",
           "line_type": "同白",
           "musical_style": null,
           "style_family": null,
@@ -721,14 +1140,35 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "住轿。来此南宋府，倒还清净，待老夫进去暂住几月，有何不可？哎呀且住。\n内有皇太在内，倒有些不便。\n来，开道过府！"
+          "text": "住轿。来此南宋府，倒还清净，待老夫进去暂住几月，有何不可？哎呀且住。"
+        },
+        {
+          "character": "窦瑶",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "内有皇太在内，倒有些不便。"
+        },
+        {
+          "character": "窦瑶",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来，开道过府！"
         },
         {
           "character": "窦瑶",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "人来鸣锣忙开道，\n炫赫过府乐逍遥。"
+          "text": "人来鸣锣忙开道，"
+        },
+        {
+          "character": "窦瑶",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "炫赫过府乐逍遥。"
         },
         {
           "character": null,
@@ -766,7 +1206,17 @@
         "singing_ratio": 0.167,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.167,
+        0.52,
+        0.44,
+        0.04,
+        0.25,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 4,
@@ -1129,7 +1579,17 @@
         "musical_styles": [
           "西皮导板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.267,
+        0.3429,
+        0.6571,
+        0.0,
+        0.8235,
+        6,
+        0.0286,
+        0.0
+      ]
     },
     {
       "scene_index": 5,
@@ -1169,7 +1629,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 6,
@@ -1255,7 +1725,17 @@
         "singing_ratio": 0.333,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.333,
+        0.3333,
+        0.6667,
+        0.0,
+        1.0,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 7,
@@ -1278,14 +1758,14 @@
           "text": "（四武士手、四太监引柴世荣同上。）"
         },
         {
-          "character": null,
+          "character": "柴世荣",
           "line_type": "念",
           "musical_style": null,
           "style_family": null,
           "text": "平顶金冠放紫霞，九州万户第一家。弟兄同把南唐下，才得一统锦中华。"
         },
         {
-          "character": null,
+          "character": "柴世荣",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -2055,7 +2535,17 @@
         "singing_ratio": 0.319,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.319,
+        0.3375,
+        0.625,
+        0.0375,
+        0.8608,
+        7,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 8,
@@ -2354,7 +2844,17 @@
         "singing_ratio": 0.174,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.174,
+        0.2069,
+        0.7931,
+        0.0,
+        0.7143,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 9,
@@ -2534,7 +3034,17 @@
         "singing_ratio": 0.167,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.167,
+        0.1667,
+        0.8333,
+        0.0,
+        0.9091,
+        3,
+        0.0,
+        0.0
+      ]
     }
   ]
 }

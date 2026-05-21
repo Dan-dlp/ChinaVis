@@ -107,7 +107,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "下官许仕林，蒙圣恩得中头名状矣。想我母亲雷峰塔受苦，是我上殿启奏一本，\n今日奉旨回家祭祖。\n左右，吩咐外厢开道。"
+          "text": "下官许仕林，蒙圣恩得中头名状矣。想我母亲雷峰塔受苦，是我上殿启奏一本，"
+        },
+        {
+          "character": "许仕林",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "今日奉旨回家祭祖。"
+        },
+        {
+          "character": "许仕林",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "左右，吩咐外厢开道。"
         },
         {
           "character": null,
@@ -126,7 +140,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.2,
+        0.6,
+        0.2,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -259,10 +283,24 @@
           "line_type": "二黄摇板",
           "musical_style": "二黄摇板",
           "style_family": "二黄",
-          "text": "又听得揭谛神呼唤一声。\n问尊神呼唤我所为何情？"
+          "text": "又听得揭谛神呼唤一声。"
         },
         {
-          "character": "我这里向前去开言便问、塔神",
+          "character": "白素贞",
+          "line_type": "二黄摇板",
+          "musical_style": "二黄摇板",
+          "style_family": "二黄",
+          "text": "问尊神呼唤我所为何情？"
+        },
+        {
+          "character": "白素贞",
+          "line_type": "二黄摇板",
+          "musical_style": "二黄摇板",
+          "style_family": "二黄",
+          "text": "我这里向前去开言便问"
+        },
+        {
+          "character": "塔神",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -301,7 +339,21 @@
           "line_type": "二黄摇板",
           "musical_style": "二黄摇板",
           "style_family": "二黄",
-          "text": "听说是小孩儿前来祭奠，\n不由我一阵阵泪洒胸前。\n又只见小娇儿倒在塔前。"
+          "text": "听说是小孩儿前来祭奠，"
+        },
+        {
+          "character": "白素贞",
+          "line_type": "二黄摇板",
+          "musical_style": "二黄摇板",
+          "style_family": "二黄",
+          "text": "不由我一阵阵泪洒胸前。"
+        },
+        {
+          "character": "白素贞",
+          "line_type": "二黄摇板",
+          "musical_style": "二黄摇板",
+          "style_family": "二黄",
+          "text": "又只见小娇儿倒在塔前。"
         },
         {
           "character": "白素贞",
@@ -311,35 +363,91 @@
           "text": "我儿醒来……"
         },
         {
-          "character": "我这里向前来用目观看、许仕林",
+          "character": "白素贞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我这里向前来用目观看"
+        },
+        {
+          "character": "许仕林",
           "line_type": "二黄导板",
           "musical_style": "二黄导板",
           "style_family": "二黄",
           "text": "耳边厢又听得有人唤声，"
         },
         {
-          "character": "我这里向前来用目观看、许仕林",
-          "line_type": "二黄摇板",
-          "musical_style": "二黄摇板",
+          "character": "许仕林",
+          "line_type": "二黄导板",
+          "musical_style": "二黄导板",
           "style_family": "二黄",
-          "text": "急忙上前开言问：\n你是何人叫仕林？"
-        },
-        {
-          "character": "今日下官来到此、白素贞",
-          "line_type": "二黄摇板",
-          "musical_style": "二黄摇板",
-          "style_family": "二黄",
-          "text": "我的儿你不必将娘来问，\n我就是在塔中受苦的娘亲。"
+          "text": "我这里向前来用目观看"
         },
         {
           "character": "许仕林",
           "line_type": "二黄摇板",
           "musical_style": "二黄摇板",
           "style_family": "二黄",
-          "text": "听说母亲到来临，\n怎不叫儿痛在心！\n一一从头说儿听。"
+          "text": "急忙上前开言问："
         },
         {
-          "character": "走上前来忙跪定、白素贞",
+          "character": "许仕林",
+          "line_type": "二黄摇板",
+          "musical_style": "二黄摇板",
+          "style_family": "二黄",
+          "text": "你是何人叫仕林？"
+        },
+        {
+          "character": "许仕林",
+          "line_type": "二黄摇板",
+          "musical_style": "二黄摇板",
+          "style_family": "二黄",
+          "text": "今日下官来到此"
+        },
+        {
+          "character": "白素贞",
+          "line_type": "二黄摇板",
+          "musical_style": "二黄摇板",
+          "style_family": "二黄",
+          "text": "我的儿你不必将娘来问，"
+        },
+        {
+          "character": "白素贞",
+          "line_type": "二黄摇板",
+          "musical_style": "二黄摇板",
+          "style_family": "二黄",
+          "text": "我就是在塔中受苦的娘亲。"
+        },
+        {
+          "character": "许仕林",
+          "line_type": "二黄摇板",
+          "musical_style": "二黄摇板",
+          "style_family": "二黄",
+          "text": "听说母亲到来临，"
+        },
+        {
+          "character": "许仕林",
+          "line_type": "二黄摇板",
+          "musical_style": "二黄摇板",
+          "style_family": "二黄",
+          "text": "怎不叫儿痛在心！"
+        },
+        {
+          "character": "许仕林",
+          "line_type": "二黄摇板",
+          "musical_style": "二黄摇板",
+          "style_family": "二黄",
+          "text": "一一从头说儿听。"
+        },
+        {
+          "character": "许仕林",
+          "line_type": "二黄摇板",
+          "musical_style": "二黄摇板",
+          "style_family": "二黄",
+          "text": "走上前来忙跪定"
+        },
+        {
+          "character": "白素贞",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -357,7 +465,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "那旁有块顽石，我儿坐下。\n儿吓！哪里来的一身荣耀？"
+          "text": "那旁有块顽石，我儿坐下。"
+        },
+        {
+          "character": "白素贞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "儿吓！哪里来的一身荣耀？"
         },
         {
           "character": null,
@@ -413,10 +528,220 @@
           "line_type": "反二黄慢板",
           "musical_style": "反二黄慢板",
           "style_family": "二黄",
-          "text": "未开言不由人珠泪双流，\n叫一声仕林儿细听从头：\n劝为娘勤修炼自有出头。\n悔不该贪红尘始下山头。\n借雨伞结丝罗我把他赘。\n是为娘显法身惹下忧愁。\n为娘的盗灵芝用尽心谋。\n又谁知那秃驴洩漏计谋。\n现神通用法术欲把娘收。\n实指望遇儿父到老白头。\n听信了那法海一片奸谋。\n为娘的悔不该水漫山头。\n为娘的与儿父再转杭州。\n狠心父将为娘就塔内押收！\n我的儿吓……\n但愿得儿夫妻到老百头。\n切莫学儿的父无义无情！"
+          "text": "未开言不由人珠泪双流，"
         },
         {
-          "character": "黑风仙他本是为娘道友、峨眉山同修道千年已久、在西湖遇儿父初瞻山斗、都只为端午日同饮药酒、在床前将儿父灵魂嚇走、儿的父上金山烧香行走、那法海他那里早已算就、实指望遇儿父天长地久、又谁知儿的父谗言听就、为娘的我也曾水内职斗、到后来与儿父断桥又会、为娘的产我儿只得满月、但愿得儿夫妻天长地久，天长地久、切莫学儿的父心如禽兽、塔神",
+          "character": "白素贞",
+          "line_type": "反二黄慢板",
+          "musical_style": "反二黄慢板",
+          "style_family": "二黄",
+          "text": "叫一声仕林儿细听从头："
+        },
+        {
+          "character": "白素贞",
+          "line_type": "反二黄慢板",
+          "musical_style": "反二黄慢板",
+          "style_family": "二黄",
+          "text": "劝为娘勤修炼自有出头。"
+        },
+        {
+          "character": "白素贞",
+          "line_type": "反二黄慢板",
+          "musical_style": "反二黄慢板",
+          "style_family": "二黄",
+          "text": "悔不该贪红尘始下山头。"
+        },
+        {
+          "character": "白素贞",
+          "line_type": "反二黄慢板",
+          "musical_style": "反二黄慢板",
+          "style_family": "二黄",
+          "text": "借雨伞结丝罗我把他赘。"
+        },
+        {
+          "character": "白素贞",
+          "line_type": "反二黄慢板",
+          "musical_style": "反二黄慢板",
+          "style_family": "二黄",
+          "text": "是为娘显法身惹下忧愁。"
+        },
+        {
+          "character": "白素贞",
+          "line_type": "反二黄慢板",
+          "musical_style": "反二黄慢板",
+          "style_family": "二黄",
+          "text": "为娘的盗灵芝用尽心谋。"
+        },
+        {
+          "character": "白素贞",
+          "line_type": "反二黄慢板",
+          "musical_style": "反二黄慢板",
+          "style_family": "二黄",
+          "text": "又谁知那秃驴洩漏计谋。"
+        },
+        {
+          "character": "白素贞",
+          "line_type": "反二黄慢板",
+          "musical_style": "反二黄慢板",
+          "style_family": "二黄",
+          "text": "现神通用法术欲把娘收。"
+        },
+        {
+          "character": "白素贞",
+          "line_type": "反二黄慢板",
+          "musical_style": "反二黄慢板",
+          "style_family": "二黄",
+          "text": "实指望遇儿父到老白头。"
+        },
+        {
+          "character": "白素贞",
+          "line_type": "反二黄慢板",
+          "musical_style": "反二黄慢板",
+          "style_family": "二黄",
+          "text": "听信了那法海一片奸谋。"
+        },
+        {
+          "character": "白素贞",
+          "line_type": "反二黄慢板",
+          "musical_style": "反二黄慢板",
+          "style_family": "二黄",
+          "text": "为娘的悔不该水漫山头。"
+        },
+        {
+          "character": "白素贞",
+          "line_type": "反二黄慢板",
+          "musical_style": "反二黄慢板",
+          "style_family": "二黄",
+          "text": "为娘的与儿父再转杭州。"
+        },
+        {
+          "character": "白素贞",
+          "line_type": "反二黄慢板",
+          "musical_style": "反二黄慢板",
+          "style_family": "二黄",
+          "text": "狠心父将为娘就塔内押收！"
+        },
+        {
+          "character": "白素贞",
+          "line_type": "反二黄慢板",
+          "musical_style": "反二黄慢板",
+          "style_family": "二黄",
+          "text": "我的儿吓……"
+        },
+        {
+          "character": "白素贞",
+          "line_type": "反二黄慢板",
+          "musical_style": "反二黄慢板",
+          "style_family": "二黄",
+          "text": "但愿得儿夫妻到老百头。"
+        },
+        {
+          "character": "白素贞",
+          "line_type": "反二黄慢板",
+          "musical_style": "反二黄慢板",
+          "style_family": "二黄",
+          "text": "切莫学儿的父无义无情！"
+        },
+        {
+          "character": "白素贞",
+          "line_type": "反二黄慢板",
+          "musical_style": "反二黄慢板",
+          "style_family": "二黄",
+          "text": "黑风仙他本是为娘道友"
+        },
+        {
+          "character": "白素贞",
+          "line_type": "反二黄慢板",
+          "musical_style": "反二黄慢板",
+          "style_family": "二黄",
+          "text": "峨眉山同修道千年已久"
+        },
+        {
+          "character": "白素贞",
+          "line_type": "反二黄慢板",
+          "musical_style": "反二黄慢板",
+          "style_family": "二黄",
+          "text": "在西湖遇儿父初瞻山斗"
+        },
+        {
+          "character": "白素贞",
+          "line_type": "反二黄慢板",
+          "musical_style": "反二黄慢板",
+          "style_family": "二黄",
+          "text": "都只为端午日同饮药酒"
+        },
+        {
+          "character": "白素贞",
+          "line_type": "反二黄慢板",
+          "musical_style": "反二黄慢板",
+          "style_family": "二黄",
+          "text": "在床前将儿父灵魂嚇走"
+        },
+        {
+          "character": "白素贞",
+          "line_type": "反二黄慢板",
+          "musical_style": "反二黄慢板",
+          "style_family": "二黄",
+          "text": "儿的父上金山烧香行走"
+        },
+        {
+          "character": "白素贞",
+          "line_type": "反二黄慢板",
+          "musical_style": "反二黄慢板",
+          "style_family": "二黄",
+          "text": "那法海他那里早已算就"
+        },
+        {
+          "character": "白素贞",
+          "line_type": "反二黄慢板",
+          "musical_style": "反二黄慢板",
+          "style_family": "二黄",
+          "text": "实指望遇儿父天长地久"
+        },
+        {
+          "character": "白素贞",
+          "line_type": "反二黄慢板",
+          "musical_style": "反二黄慢板",
+          "style_family": "二黄",
+          "text": "又谁知儿的父谗言听就"
+        },
+        {
+          "character": "白素贞",
+          "line_type": "反二黄慢板",
+          "musical_style": "反二黄慢板",
+          "style_family": "二黄",
+          "text": "为娘的我也曾水内职斗"
+        },
+        {
+          "character": "白素贞",
+          "line_type": "反二黄慢板",
+          "musical_style": "反二黄慢板",
+          "style_family": "二黄",
+          "text": "到后来与儿父断桥又会"
+        },
+        {
+          "character": "白素贞",
+          "line_type": "反二黄慢板",
+          "musical_style": "反二黄慢板",
+          "style_family": "二黄",
+          "text": "为娘的产我儿只得满月"
+        },
+        {
+          "character": "白素贞",
+          "line_type": "反二黄慢板",
+          "musical_style": "反二黄慢板",
+          "style_family": "二黄",
+          "text": "但愿得儿夫妻天长地久，天长地久"
+        },
+        {
+          "character": "白素贞",
+          "line_type": "反二黄慢板",
+          "musical_style": "反二黄慢板",
+          "style_family": "二黄",
+          "text": "切莫学儿的父心如禽兽"
+        },
+        {
+          "character": "塔神",
           "line_type": "内白",
           "musical_style": null,
           "style_family": null,
@@ -427,7 +752,14 @@
           "line_type": "反二黄慢板",
           "musical_style": "反二黄慢板",
           "style_family": "二黄",
-          "text": "母子们才相逢就要分手，\n揭谛神呼唤我哪得容留。"
+          "text": "母子们才相逢就要分手，"
+        },
+        {
+          "character": "白素贞",
+          "line_type": "反二黄慢板",
+          "musical_style": "反二黄慢板",
+          "style_family": "二黄",
+          "text": "揭谛神呼唤我哪得容留。"
         },
         {
           "character": "白素贞",
@@ -520,7 +852,17 @@
           "二黄摇板",
           "反二黄慢板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.227,
+        0.7375,
+        0.25,
+        0.0125,
+        0.3291,
+        3,
+        0.0,
+        0.65
+      ]
     }
   ]
 }

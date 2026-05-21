@@ -458,7 +458,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.8333,
+        0.1667,
+        0.7826,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -791,7 +801,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.7931,
+        0.2069,
+        0.9286,
+        5,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -829,7 +849,35 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "老身刘氏。配夫李诞，膝下无儿，所生三女：长女、次女，都已出嫁，只有三\n女奇娥，自小读书甚是聪明伶俐，侍奉我二老，倒也欢乐。只是吾夫方才到地\n保家中去了，未见回转。不知有什么官事？独坐草堂，甚是愁闷。不免将奇娥\n唤出，闲谈一番。\n呵，女儿哪里？"
+          "text": "老身刘氏。配夫李诞，膝下无儿，所生三女：长女、次女，都已出嫁，只有三"
+        },
+        {
+          "character": "刘氏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "女奇娥，自小读书甚是聪明伶俐，侍奉我二老，倒也欢乐。只是吾夫方才到地"
+        },
+        {
+          "character": "刘氏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "保家中去了，未见回转。不知有什么官事？独坐草堂，甚是愁闷。不免将奇娥"
+        },
+        {
+          "character": "刘氏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "唤出，闲谈一番。"
+        },
+        {
+          "character": "刘氏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "呵，女儿哪里？"
         },
         {
           "character": "李奇娥",
@@ -878,7 +926,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "只因你父亲被地保呼唤去了，半日未见回来，不知又有甚么官事。是我放心不\n下，又闷得很，故此唤出你来，谈心解闷。"
+          "text": "只因你父亲被地保呼唤去了，半日未见回来，不知又有甚么官事。是我放心不"
+        },
+        {
+          "character": "刘氏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "下，又闷得很，故此唤出你来，谈心解闷。"
         },
         {
           "character": "李奇娥",
@@ -906,7 +961,21 @@
           "line_type": "二黄摇板",
           "musical_style": "二黄摇板",
           "style_family": "二黄",
-          "text": "可恨那张地保虎威狐假，\n要把我亲生女去喂长蛇。\n躲避那滔天祸且自归家。"
+          "text": "可恨那张地保虎威狐假，"
+        },
+        {
+          "character": "李诞",
+          "line_type": "二黄摇板",
+          "musical_style": "二黄摇板",
+          "style_family": "二黄",
+          "text": "要把我亲生女去喂长蛇。"
+        },
+        {
+          "character": "李诞",
+          "line_type": "二黄摇板",
+          "musical_style": "二黄摇板",
+          "style_family": "二黄",
+          "text": "躲避那滔天祸且自归家。"
         },
         {
           "character": "李诞",
@@ -916,7 +985,14 @@
           "text": "开门来！"
         },
         {
-          "character": "霎时间禁不住心猿意马、李奇娥",
+          "character": "李诞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "霎时间禁不住心猿意马"
+        },
+        {
+          "character": "李奇娥",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -990,7 +1066,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "可恨那张地保，拿官势欺压于我，硬要拿五十串大钱，来换取吾家女儿。如果\n我不把女儿献出，他定要把我送到当官，这便如何是好？"
+          "text": "可恨那张地保，拿官势欺压于我，硬要拿五十串大钱，来换取吾家女儿。如果"
+        },
+        {
+          "character": "李诞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我不把女儿献出，他定要把我送到当官，这便如何是好？"
         },
         {
           "character": "刘氏",
@@ -1039,7 +1122,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "两个女婿，住在附近，容易被官府知晓。那时恐怕非但藏不过女儿，还要连累\n她们。不若我们逃走了罢！"
+          "text": "两个女婿，住在附近，容易被官府知晓。那时恐怕非但藏不过女儿，还要连累"
+        },
+        {
+          "character": "刘氏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "她们。不若我们逃走了罢！"
         },
         {
           "character": null,
@@ -1074,14 +1164,35 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "爹爹、母亲，常言道：生死由命。那大王不来吃我，固然是千好万好。就是女\n儿被他吃了，你二老有了这笔钱，可以度日，且并一方可以无事。女儿虽然一\n死，也还值得。故此还是放我去的好。"
+          "text": "爹爹、母亲，常言道：生死由命。那大王不来吃我，固然是千好万好。就是女"
+        },
+        {
+          "character": "李奇娥",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "儿被他吃了，你二老有了这笔钱，可以度日，且并一方可以无事。女儿虽然一"
+        },
+        {
+          "character": "李奇娥",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "死，也还值得。故此还是放我去的好。"
         },
         {
           "character": "李诞",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "听你之言，你情愿把自己的身子卖了，养活我二老？虽说一片孝心，但是我儿\n此去，定死无疑。教我怎生舍得？"
+          "text": "听你之言，你情愿把自己的身子卖了，养活我二老？虽说一片孝心，但是我儿"
+        },
+        {
+          "character": "李诞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "此去，定死无疑。教我怎生舍得？"
         },
         {
           "character": "刘氏",
@@ -1109,7 +1220,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "躲到姐姐家，怕连累她们。逃走又怕他们赶上。又不肯将我放走。那还有什么\n主意呀？"
+          "text": "躲到姐姐家，怕连累她们。逃走又怕他们赶上。又不肯将我放走。那还有什么"
+        },
+        {
+          "character": "李奇娥",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "主意呀？"
         },
         {
           "character": "李诞",
@@ -1144,7 +1262,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "儿闻得东边有个算卦的先生，外号叫赵铁嘴，卦算极灵。不如叫他算一名，或\n者可以得个主意，你瞧好不？"
+          "text": "儿闻得东边有个算卦的先生，外号叫赵铁嘴，卦算极灵。不如叫他算一名，或"
+        },
+        {
+          "character": "李奇娥",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "者可以得个主意，你瞧好不？"
         },
         {
           "character": "刘氏",
@@ -1158,7 +1283,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "且慢，你二老现时都是带着啼哭，着急的模样，算卦先生见了，一定不说实话。\n莫若歇息歇息再去罢。"
+          "text": "且慢，你二老现时都是带着啼哭，着急的模样，算卦先生见了，一定不说实话。"
+        },
+        {
+          "character": "李奇娥",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "莫若歇息歇息再去罢。"
         },
         {
           "character": "李诞、刘氏",
@@ -1179,7 +1311,42 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "我想世界之上哪有什么金龙大王？一定是那道婆子造的谣言。你想哪有神仙吃\n活人的道理？既吃活人，为什么一年只吃一个。可恨本地方的官府居然糊涂迷\n信不知为地方除害，反把好端端的人命，活活害死。今年轮到我的头上来啦，\n我倒要趁此机会看看他是怎么回事。我爹娘一定不放我去，故此假说先去算命，\n判断吉凶，再定行止。我不免赶紧先到赵铁嘴那里，给他几个钱想法子，让\n他说我绝无灾难。那时爹妈信他的话，放我前去，也未可知。唉，真是："
+          "text": "我想世界之上哪有什么金龙大王？一定是那道婆子造的谣言。你想哪有神仙吃"
+        },
+        {
+          "character": "李奇娥",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "活人的道理？既吃活人，为什么一年只吃一个。可恨本地方的官府居然糊涂迷"
+        },
+        {
+          "character": "李奇娥",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "信不知为地方除害，反把好端端的人命，活活害死。今年轮到我的头上来啦，"
+        },
+        {
+          "character": "李奇娥",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我倒要趁此机会看看他是怎么回事。我爹娘一定不放我去，故此假说先去算命，"
+        },
+        {
+          "character": "李奇娥",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "判断吉凶，再定行止。我不免赶紧先到赵铁嘴那里，给他几个钱想法子，让"
+        },
+        {
+          "character": "李奇娥",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "他说我绝无灾难。那时爹妈信他的话，放我前去，也未可知。唉，真是："
         },
         {
           "character": "李奇娥",
@@ -1235,7 +1402,17 @@
         "musical_styles": [
           "二黄摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.025,
+        0.0758,
+        0.9091,
+        0.0152,
+        0.5538,
+        4,
+        0.0,
+        0.0455
+      ]
     },
     {
       "scene_index": 4,
@@ -1266,7 +1443,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "在下姓赵。因为什么能事也都没有，书也没有念通。没法子，就学了算卦，在\n这将乐县城内开了个命馆。起了个外号，叫赵铁嘴。我为什么叫赵铁嘴呢？这\n也没有多大用意。因为是算命的先生，差不多都叫铁嘴，故此也叫叫铁嘴罢了。\n闲话少说，先把道幌子挂了出去。看有买卖上门没有。"
+          "text": "在下姓赵。因为什么能事也都没有，书也没有念通。没法子，就学了算卦，在"
+        },
+        {
+          "character": "赵铁嘴",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "这将乐县城内开了个命馆。起了个外号，叫赵铁嘴。我为什么叫赵铁嘴呢？这"
+        },
+        {
+          "character": "赵铁嘴",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "也没有多大用意。因为是算命的先生，差不多都叫铁嘴，故此也叫叫铁嘴罢了。"
+        },
+        {
+          "character": "赵铁嘴",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "闲话少说，先把道幌子挂了出去。看有买卖上门没有。"
         },
         {
           "character": null,
@@ -1280,7 +1478,14 @@
           "line_type": "二黄摇板",
           "musical_style": "二黄摇板",
           "style_family": "二黄",
-          "text": "心中事先安排定，\n还要借重赵先生。"
+          "text": "心中事先安排定，"
+        },
+        {
+          "character": "李奇娥",
+          "line_type": "二黄摇板",
+          "musical_style": "二黄摇板",
+          "style_family": "二黄",
+          "text": "还要借重赵先生。"
         },
         {
           "character": "李奇娥",
@@ -1350,21 +1555,49 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "回头我爹妈一定来请先生给我算命。他们若问起你的时候，请你务必说我流年\n很好。有什么灾难都避得去。"
-        },
-        {
-          "character": "赵铁嘴",
-          "line_type": "白",
-          "musical_style": null,
-          "style_family": null,
-          "text": "姑娘这话大错了。我们算命的先生，向来是直言奉上。是什么回事，便怎么个\n说法。不能恭维人，可也不能撒谎。再说姑娘这话，我一时摸不着头脑。若要\n叫我胡说，那可万不敢的。不是我的名声要紧么？"
+          "text": "回头我爹妈一定来请先生给我算命。他们若问起你的时候，请你务必说我流年"
         },
         {
           "character": "李奇娥",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "我实对先生说：有件事情，非借重你几句话，我爹妈绝不让我办。务必求你成\n全成全。这有耳环一只，送与先生作为谢仪。求你务必多美言几句。"
+          "text": "很好。有什么灾难都避得去。"
+        },
+        {
+          "character": "赵铁嘴",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "姑娘这话大错了。我们算命的先生，向来是直言奉上。是什么回事，便怎么个"
+        },
+        {
+          "character": "赵铁嘴",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "说法。不能恭维人，可也不能撒谎。再说姑娘这话，我一时摸不着头脑。若要"
+        },
+        {
+          "character": "赵铁嘴",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "叫我胡说，那可万不敢的。不是我的名声要紧么？"
+        },
+        {
+          "character": "李奇娥",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我实对先生说：有件事情，非借重你几句话，我爹妈绝不让我办。务必求你成"
+        },
+        {
+          "character": "李奇娥",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "全成全。这有耳环一只，送与先生作为谢仪。求你务必多美言几句。"
         },
         {
           "character": "赵铁嘴",
@@ -1434,7 +1667,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "姑娘这步运气本来好得很，用不着我撒谎，就是姑娘不托付我，我亦是这么说\n的呀！"
+          "text": "姑娘这步运气本来好得很，用不着我撒谎，就是姑娘不托付我，我亦是这么说"
+        },
+        {
+          "character": "赵铁嘴",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "的呀！"
         },
         {
           "character": "李奇娥",
@@ -1504,7 +1744,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "这位姑娘真是傻得很，我们这行可不就仗着恭维人么。她就不另给我钱，我也\n犯不着说不好不是！"
+          "text": "这位姑娘真是傻得很，我们这行可不就仗着恭维人么。她就不另给我钱，我也"
+        },
+        {
+          "character": "赵铁嘴",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "犯不着说不好不是！"
         },
         {
           "character": "李诞",
@@ -1539,7 +1786,14 @@
           "line_type": "二黄摇板",
           "musical_style": "二黄摇板",
           "style_family": "二黄",
-          "text": "随定了二爹娘急忙前进，\n不知道哪里是算卦先生？"
+          "text": "随定了二爹娘急忙前进，"
+        },
+        {
+          "character": "李奇娥",
+          "line_type": "二黄摇板",
+          "musical_style": "二黄摇板",
+          "style_family": "二黄",
+          "text": "不知道哪里是算卦先生？"
         },
         {
           "character": null,
@@ -1703,7 +1957,17 @@
         "musical_styles": [
           "二黄摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.074,
+        0.1091,
+        0.8727,
+        0.0182,
+        0.6852,
+        4,
+        0.0,
+        0.1091
+      ]
     },
     {
       "scene_index": 5,
@@ -2066,7 +2330,17 @@
         "musical_styles": [
           "二黄摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.029,
+        0.0571,
+        0.9143,
+        0.0286,
+        0.8235,
+        2,
+        0.0,
+        0.0571
+      ]
     },
     {
       "scene_index": 6,
@@ -2599,7 +2873,17 @@
         "musical_styles": [
           "二黄摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0204,
+        0.9184,
+        0.0612,
+        0.7708,
+        4,
+        0.0,
+        0.0204
+      ]
     },
     {
       "scene_index": 7,
@@ -2616,7 +2900,7 @@
           "text": "（四衙役领知县同上。）"
         },
         {
-          "character": null,
+          "character": "役领知县同",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -2653,7 +2937,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 8,
@@ -3451,7 +3745,17 @@
         "musical_styles": [
           "二黄摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.015,
+        0.0299,
+        0.9403,
+        0.0299,
+        0.803,
+        8,
+        0.0,
+        0.0299
+      ]
     },
     {
       "scene_index": 9,
@@ -3504,7 +3808,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "只因你父亲被地保呼唤去了，半日未见回来，不知又有甚么官事。是我放心不\n下，又闷得很，故此唤出你来，谈心解闷。"
+          "text": "只因你父亲被地保呼唤去了，半日未见回来，不知又有甚么官事。是我放心不"
+        },
+        {
+          "character": "刘氏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "下，又闷得很，故此唤出你来，谈心解闷。"
         },
         {
           "character": "李奇娥",
@@ -3532,7 +3843,21 @@
           "line_type": "二黄摇板",
           "musical_style": "二黄摇板",
           "style_family": "二黄",
-          "text": "可恨那张地保虎威狐假，\n要把我亲生女去喂长蛇。\n躲避那滔天祸且自归家。"
+          "text": "可恨那张地保虎威狐假，"
+        },
+        {
+          "character": "李诞",
+          "line_type": "二黄摇板",
+          "musical_style": "二黄摇板",
+          "style_family": "二黄",
+          "text": "要把我亲生女去喂长蛇。"
+        },
+        {
+          "character": "李诞",
+          "line_type": "二黄摇板",
+          "musical_style": "二黄摇板",
+          "style_family": "二黄",
+          "text": "躲避那滔天祸且自归家。"
         },
         {
           "character": "李诞",
@@ -3542,7 +3867,14 @@
           "text": "开门来！"
         },
         {
-          "character": "霎时间禁不住心猿意马、李奇娥",
+          "character": "李诞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "霎时间禁不住心猿意马"
+        },
+        {
+          "character": "李奇娥",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -3616,7 +3948,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "可恨那张地保，拿官势欺压于我，硬要拿五十串大钱，来换取吾家女儿。如果\n我不把女儿献出，他定要把我送到当官，这便如何是好？"
+          "text": "可恨那张地保，拿官势欺压于我，硬要拿五十串大钱，来换取吾家女儿。如果"
+        },
+        {
+          "character": "李诞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我不把女儿献出，他定要把我送到当官，这便如何是好？"
         },
         {
           "character": "刘氏",
@@ -3665,7 +4004,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "两个女婿，住在附近，容易被官府知晓。那时恐怕非但藏不过女儿，还要连累\n她们。不若我们逃走了罢！"
+          "text": "两个女婿，住在附近，容易被官府知晓。那时恐怕非但藏不过女儿，还要连累"
+        },
+        {
+          "character": "刘氏",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "她们。不若我们逃走了罢！"
         },
         {
           "character": null,
@@ -3700,14 +4046,35 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "爹爹、母亲，常言道：生死由命。那大王不来吃我，固然是千好万好。就是女\n儿被他吃了，你二老有了这笔钱，可以度日，且并一方可以无事。女儿虽然一\n死，也还值得。故此还是放我去的好。"
+          "text": "爹爹、母亲，常言道：生死由命。那大王不来吃我，固然是千好万好。就是女"
+        },
+        {
+          "character": "李奇娥",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "儿被他吃了，你二老有了这笔钱，可以度日，且并一方可以无事。女儿虽然一"
+        },
+        {
+          "character": "李奇娥",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "死，也还值得。故此还是放我去的好。"
         },
         {
           "character": "李诞",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "听你之言，你情愿把自己的身子卖了，养活我二老？虽说一片孝心，但是我儿\n此去，定死无疑。教我怎生舍得？"
+          "text": "听你之言，你情愿把自己的身子卖了，养活我二老？虽说一片孝心，但是我儿"
+        },
+        {
+          "character": "李诞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "此去，定死无疑。教我怎生舍得？"
         },
         {
           "character": "刘氏",
@@ -3735,7 +4102,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "躲到姐姐家，怕连累她们。逃走又怕他们赶上。又不肯将我放走。那还有什么\n主意呀？"
+          "text": "躲到姐姐家，怕连累她们。逃走又怕他们赶上。又不肯将我放走。那还有什么"
+        },
+        {
+          "character": "李奇娥",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "主意呀？"
         },
         {
           "character": "李诞",
@@ -3770,7 +4144,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "儿闻得东边有个算卦的先生，外号叫赵铁嘴，卦算极灵。不如叫他算一名，或\n者可以得个主意，你瞧好不？"
+          "text": "儿闻得东边有个算卦的先生，外号叫赵铁嘴，卦算极灵。不如叫他算一名，或"
+        },
+        {
+          "character": "李奇娥",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "者可以得个主意，你瞧好不？"
         },
         {
           "character": "刘氏",
@@ -3784,7 +4165,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "且慢，你二老现时都是带着啼哭，着急的模样，算卦先生见了，一定不说实话。\n莫若歇息歇息再去罢。"
+          "text": "且慢，你二老现时都是带着啼哭，着急的模样，算卦先生见了，一定不说实话。"
+        },
+        {
+          "character": "李奇娥",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "莫若歇息歇息再去罢。"
         },
         {
           "character": "李诞、刘氏",
@@ -3805,7 +4193,42 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "我想世界之上哪有什么金龙大王？一定是那道婆子造的谣言。你想哪有神仙吃\n活人的道理？既吃活人，为什么一年只吃一个。可恨本地方的官府居然糊涂迷\n信不知为地方除害，反把好端端的人命，活活害死。今年轮到我的头上来啦，\n我倒要趁此机会看看他是怎么回事。我爹娘一定不放我去，故此假说先去算命，\n判断吉凶，再定行止。我不免赶紧先到赵铁嘴那里，给他几个钱想法子，让\n他说我绝无灾难。那时爹妈信他的话，放我前去，也未可知。唉，真是："
+          "text": "我想世界之上哪有什么金龙大王？一定是那道婆子造的谣言。你想哪有神仙吃"
+        },
+        {
+          "character": "李奇娥",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "活人的道理？既吃活人，为什么一年只吃一个。可恨本地方的官府居然糊涂迷"
+        },
+        {
+          "character": "李奇娥",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "信不知为地方除害，反把好端端的人命，活活害死。今年轮到我的头上来啦，"
+        },
+        {
+          "character": "李奇娥",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我倒要趁此机会看看他是怎么回事。我爹娘一定不放我去，故此假说先去算命，"
+        },
+        {
+          "character": "李奇娥",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "判断吉凶，再定行止。我不免赶紧先到赵铁嘴那里，给他几个钱想法子，让"
+        },
+        {
+          "character": "李奇娥",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "他说我绝无灾难。那时爹妈信他的话，放我前去，也未可知。唉，真是："
         },
         {
           "character": "李奇娥",
@@ -3840,7 +4263,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "在下姓赵。因为什么能事也都没有，书也没有念通。没法子，就学了算卦，在\n这将乐县城内开了个命馆。起了个外号，叫赵铁嘴。我为什么叫赵铁嘴呢？这\n也没有多大用意。因为是算命的先生，差不多都叫铁嘴，故此也叫叫铁嘴罢了。\n闲话少说，先把道幌子挂了出去。看有买卖上门没有。"
+          "text": "在下姓赵。因为什么能事也都没有，书也没有念通。没法子，就学了算卦，在"
+        },
+        {
+          "character": "赵铁嘴",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "这将乐县城内开了个命馆。起了个外号，叫赵铁嘴。我为什么叫赵铁嘴呢？这"
+        },
+        {
+          "character": "赵铁嘴",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "也没有多大用意。因为是算命的先生，差不多都叫铁嘴，故此也叫叫铁嘴罢了。"
+        },
+        {
+          "character": "赵铁嘴",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "闲话少说，先把道幌子挂了出去。看有买卖上门没有。"
         },
         {
           "character": null,
@@ -3854,7 +4298,14 @@
           "line_type": "二黄摇板",
           "musical_style": "二黄摇板",
           "style_family": "二黄",
-          "text": "心中事先安排定，\n还要借重赵先生。"
+          "text": "心中事先安排定，"
+        },
+        {
+          "character": "李奇娥",
+          "line_type": "二黄摇板",
+          "musical_style": "二黄摇板",
+          "style_family": "二黄",
+          "text": "还要借重赵先生。"
         },
         {
           "character": "李奇娥",
@@ -3924,21 +4375,49 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "回头我爹妈一定来请先生给我算命。他们若问起你的时候，请你务必说我流年\n很好。有什么灾难都避得去。"
-        },
-        {
-          "character": "赵铁嘴",
-          "line_type": "白",
-          "musical_style": null,
-          "style_family": null,
-          "text": "姑娘这话大错了。我们算命的先生，向来是直言奉上。是什么回事，便怎么个\n说法。不能恭维人，可也不能撒谎。再说姑娘这话，我一时摸不着头脑。若要\n叫我胡说，那可万不敢的。不是我的名声要紧么？"
+          "text": "回头我爹妈一定来请先生给我算命。他们若问起你的时候，请你务必说我流年"
         },
         {
           "character": "李奇娥",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "我实对先生说：有件事情，非借重你几句话，我爹妈绝不让我办。务必求你成\n全成全。这有耳环一只，送与先生作为谢仪。求你务必多美言几句。"
+          "text": "很好。有什么灾难都避得去。"
+        },
+        {
+          "character": "赵铁嘴",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "姑娘这话大错了。我们算命的先生，向来是直言奉上。是什么回事，便怎么个"
+        },
+        {
+          "character": "赵铁嘴",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "说法。不能恭维人，可也不能撒谎。再说姑娘这话，我一时摸不着头脑。若要"
+        },
+        {
+          "character": "赵铁嘴",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "叫我胡说，那可万不敢的。不是我的名声要紧么？"
+        },
+        {
+          "character": "李奇娥",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我实对先生说：有件事情，非借重你几句话，我爹妈绝不让我办。务必求你成"
+        },
+        {
+          "character": "李奇娥",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "全成全。这有耳环一只，送与先生作为谢仪。求你务必多美言几句。"
         },
         {
           "character": "赵铁嘴",
@@ -4008,7 +4487,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "姑娘这步运气本来好得很，用不着我撒谎，就是姑娘不托付我，我亦是这么说\n的呀！"
+          "text": "姑娘这步运气本来好得很，用不着我撒谎，就是姑娘不托付我，我亦是这么说"
+        },
+        {
+          "character": "赵铁嘴",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "的呀！"
         },
         {
           "character": "李奇娥",
@@ -4078,7 +4564,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "这位姑娘真是傻得很，我们这行可不就仗着恭维人么。她就不另给我钱，我也\n犯不着说不好不是！"
+          "text": "这位姑娘真是傻得很，我们这行可不就仗着恭维人么。她就不另给我钱，我也"
+        },
+        {
+          "character": "赵铁嘴",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "犯不着说不好不是！"
         },
         {
           "character": "李诞",
@@ -4113,7 +4606,14 @@
           "line_type": "二黄摇板",
           "musical_style": "二黄摇板",
           "style_family": "二黄",
-          "text": "随定了二爹娘急忙前进，\n不知道哪里是算卦先生？"
+          "text": "随定了二爹娘急忙前进，"
+        },
+        {
+          "character": "李奇娥",
+          "line_type": "二黄摇板",
+          "musical_style": "二黄摇板",
+          "style_family": "二黄",
+          "text": "不知道哪里是算卦先生？"
         },
         {
           "character": null,
@@ -4259,7 +4759,17 @@
         "musical_styles": [
           "二黄摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.027,
+        0.0877,
+        0.8947,
+        0.0175,
+        0.646,
+        5,
+        0.0,
+        0.0789
+      ]
     },
     {
       "scene_index": 10,
@@ -4325,7 +4835,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.6667,
+        0.3333,
+        1.0,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 11,
@@ -4704,7 +5224,17 @@
           "二黄慢板",
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.033,
+        0.0882,
+        0.8529,
+        0.0588,
+        0.7576,
+        4,
+        0.0588,
+        0.0294
+      ]
     },
     {
       "scene_index": 12,
@@ -4758,7 +5288,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 13,
@@ -6180,7 +6720,17 @@
           "西皮摇板",
           "西皮流水"
         ]
-      }
+      },
+      "scene_feature": [
+        0.072,
+        0.0833,
+        0.9028,
+        0.0139,
+        0.8881,
+        11,
+        0.0833,
+        0.0
+      ]
     }
   ]
 }

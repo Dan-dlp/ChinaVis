@@ -248,7 +248,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "第一炷香：愿风调雨顺，国泰民安；第二炷香：愿秦桧夫妇，百年偕老；这第\n三炷香：愿……"
+          "text": "第一炷香：愿风调雨顺，国泰民安；第二炷香：愿秦桧夫妇，百年偕老；这第"
+        },
+        {
+          "character": "秦桧",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "三炷香：愿……"
         },
         {
           "character": "青袍",
@@ -339,7 +346,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "好奇怪！这诗是我与夫人在东窗下做的，何人写在此？\n和尚，这诗何人写的？"
+          "text": "好奇怪！这诗是我与夫人在东窗下做的，何人写在此？"
+        },
+        {
+          "character": "秦桧",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "和尚，这诗何人写的？"
         },
         {
           "character": "住持",
@@ -507,7 +521,21 @@
           "line_type": "引子",
           "musical_style": null,
           "style_family": null,
-          "text": "偈波罗蜜，波罗蜜，一口砂糖一口蜜。\n河里洗澡睡在寺里，黄牛儿可不羞煞你！\n自己死后，四块板儿一领席，这便是落得的！"
+          "text": "偈波罗蜜，波罗蜜，一口砂糖一口蜜。"
+        },
+        {
+          "character": "疯僧",
+          "line_type": "引子",
+          "musical_style": null,
+          "style_family": null,
+          "text": "河里洗澡睡在寺里，黄牛儿可不羞煞你！"
+        },
+        {
+          "character": "疯僧",
+          "line_type": "引子",
+          "musical_style": null,
+          "style_family": null,
+          "text": "自己死后，四块板儿一领席，这便是落得的！"
         },
         {
           "character": "疯僧",
@@ -517,7 +545,14 @@
           "text": "南无大慈大悲广大灵感观世音菩萨。"
         },
         {
-          "character": "你好痴，趱金银；打首饰，与汝妻、住持",
+          "character": "疯僧",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "你好痴，趱金银；打首饰，与汝妻"
+        },
+        {
+          "character": "住持",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -1291,7 +1326,14 @@
           "line_type": "念",
           "musical_style": null,
           "style_family": null,
-          "text": "“久闻丞相理乾坤，占断朝纲第一人。都领群臣朝北阙，堂中埋没老元勋。\n闭门杀害忠良将，塞上欺君枉万民。贤相一心归正道，路上行人口”……"
+          "text": "“久闻丞相理乾坤，占断朝纲第一人。都领群臣朝北阙，堂中埋没老元勋。"
+        },
+        {
+          "character": "秦桧",
+          "line_type": "念",
+          "musical_style": null,
+          "style_family": null,
+          "text": "闭门杀害忠良将，塞上欺君枉万民。贤相一心归正道，路上行人口”……"
         },
         {
           "character": "秦桧",
@@ -2019,7 +2061,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "哎呀！被这疯僧一番言语，说的毛骨悚然，回去与夫人商议便了。\n来，打道！"
+          "text": "哎呀！被这疯僧一番言语，说的毛骨悚然，回去与夫人商议便了。"
+        },
+        {
+          "character": "秦桧",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来，打道！"
         },
         {
           "character": null,
@@ -2088,7 +2137,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0155,
+        0.9485,
+        0.0361,
+        0.8031,
+        4,
+        0.0,
+        0.0
+      ]
     }
   ]
 }

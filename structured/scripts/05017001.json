@@ -301,7 +301,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "老夫，复姓诸葛名亮字孔明，道号卧龙，汉室为臣，官拜武乡侯之职。蒙先帝\n三顾之恩，托孤之重，一要扫灭孙曹，二要恢复汉室。我想北原乃魏邦咽喉之\n要地，必需兴兵夺取。\n众位将军，人马可齐？"
+          "text": "老夫，复姓诸葛名亮字孔明，道号卧龙，汉室为臣，官拜武乡侯之职。蒙先帝"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "三顾之恩，托孤之重，一要扫灭孙曹，二要恢复汉室。我想北原乃魏邦咽喉之"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "要地，必需兴兵夺取。"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "众位将军，人马可齐？"
         },
         {
           "character": "廖化、马岱、关兴、张苞",
@@ -371,7 +392,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.2174,
+        0.7391,
+        0.0435,
+        0.7273,
+        7,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -413,7 +444,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "本督，复姓司马名懿字仲达，魏王驾前为臣，官拜大都督之职。可笑孔明前者\n用反间之计，魏王听信，将我谪贬，多蒙太傅钟繇保奏，加封平西大都督，提\n调各路兵马，以挡蜀兵。可恨孔明带兵攻取北原，不免传众将进帐商议对策。\n来！"
+          "text": "本督，复姓司马名懿字仲达，魏王驾前为臣，官拜大都督之职。可笑孔明前者"
+        },
+        {
+          "character": "司马懿",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "用反间之计，魏王听信，将我谪贬，多蒙太傅钟繇保奏，加封平西大都督，提"
+        },
+        {
+          "character": "司马懿",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "调各路兵马，以挡蜀兵。可恨孔明带兵攻取北原，不免传众将进帐商议对策。"
+        },
+        {
+          "character": "司马懿",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来！"
         },
         {
           "character": "中军",
@@ -525,7 +577,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "少时都督升帐发兵，末将阻令，都督将某重责，叉出不用，末将前去诈降那孔\n明。他若收用，末将暗修书信，做个里应外合，大功必成。"
+          "text": "少时都督升帐发兵，末将阻令，都督将某重责，叉出不用，末将前去诈降那孔"
+        },
+        {
+          "character": "郑文",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "明。他若收用，末将暗修书信，做个里应外合，大功必成。"
         },
         {
           "character": "司马懿",
@@ -553,21 +612,63 @@
           "line_type": "西皮流水板",
           "musical_style": "西皮流水板",
           "style_family": "西皮",
-          "text": "好一个忠心郑将军，\n可算擎天柱一根。\n倘若泄露事难成。"
+          "text": "好一个忠心郑将军，"
         },
         {
-          "character": "今日与你把计定、郑文",
+          "character": "司马懿",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "可算擎天柱一根。"
+        },
+        {
+          "character": "司马懿",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "倘若泄露事难成。"
+        },
+        {
+          "character": "司马懿",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "今日与你把计定"
+        },
+        {
+          "character": "郑文",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
           "text": "都督。"
         },
         {
-          "character": "今日与你把计定、郑文",
+          "character": "郑文",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "今日与你把计定"
+        },
+        {
+          "character": "郑文",
           "line_type": "西皮流水板",
           "musical_style": "西皮流水板",
           "style_family": "西皮",
-          "text": "都督不必细叮咛，\n诈降之计某担承。\n学一个黄公覆他诈降曹营。"
+          "text": "都督不必细叮咛，"
+        },
+        {
+          "character": "郑文",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "诈降之计某担承。"
+        },
+        {
+          "character": "郑文",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "学一个黄公覆他诈降曹营。"
         },
         {
           "character": null,
@@ -581,7 +682,14 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "郑文真是忠心耿，\n愿受王刑诈孔明。"
+          "text": "郑文真是忠心耿，"
+        },
+        {
+          "character": "司马懿",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "愿受王刑诈孔明。"
         },
         {
           "character": "司马懿",
@@ -665,7 +773,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "看在众将讲情，也罢，死罪已免，活罪难饶。\n来！重责四十。"
+          "text": "看在众将讲情，也罢，死罪已免，活罪难饶。"
+        },
+        {
+          "character": "司马懿",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来！重责四十。"
         },
         {
           "character": null,
@@ -903,7 +1018,17 @@
           "西皮摇板",
           "西皮流水"
         ]
-      }
+      },
+      "scene_feature": [
+        0.045,
+        0.1719,
+        0.7969,
+        0.0312,
+        0.6508,
+        7,
+        0.1562,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -936,7 +1061,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 4,
@@ -983,7 +1118,42 @@
           "line_type": "西皮慢板",
           "musical_style": "西皮慢板",
           "style_family": "西皮",
-          "text": "想当初在隆中何等潇洒，\n闲无事听鸟音观看山花。\n曾受过托孤恩怎敢有差。\n兵行在祁山地来把营扎。\n司马懿他必然笑我怕他。\n扫中原灭北魏重整汉家。"
+          "text": "想当初在隆中何等潇洒，"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "西皮慢板",
+          "musical_style": "西皮慢板",
+          "style_family": "西皮",
+          "text": "闲无事听鸟音观看山花。"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "西皮慢板",
+          "musical_style": "西皮慢板",
+          "style_family": "西皮",
+          "text": "曾受过托孤恩怎敢有差。"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "西皮慢板",
+          "musical_style": "西皮慢板",
+          "style_family": "西皮",
+          "text": "兵行在祁山地来把营扎。"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "西皮慢板",
+          "musical_style": "西皮慢板",
+          "style_family": "西皮",
+          "text": "司马懿他必然笑我怕他。"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "西皮慢板",
+          "musical_style": "西皮慢板",
+          "style_family": "西皮",
+          "text": "扫中原灭北魏重整汉家。"
         },
         {
           "character": null,
@@ -1095,7 +1265,14 @@
           "line_type": "同白",
           "musical_style": null,
           "style_family": null,
-          "text": "闻得那司马懿营中，新收一将，名唤郑文。此人武艺高强，足智多谋，丞相须\n要小心一二。"
+          "text": "闻得那司马懿营中，新收一将，名唤郑文。此人武艺高强，足智多谋，丞相须"
+        },
+        {
+          "character": "廖化、马岱、关兴、张苞",
+          "line_type": "同白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "要小心一二。"
         },
         {
           "character": "诸葛亮",
@@ -1158,7 +1335,28 @@
           "line_type": "西皮快板",
           "musical_style": "西皮快板",
           "style_family": "西皮",
-          "text": "昔日里伍子胥临潼会下，\n都只为杀父仇奔走天涯。\n可算得奇男子做事不差。\n营门外摆刀枪剑戟如麻。"
+          "text": "昔日里伍子胥临潼会下，"
+        },
+        {
+          "character": "郑文",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "都只为杀父仇奔走天涯。"
+        },
+        {
+          "character": "郑文",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "可算得奇男子做事不差。"
+        },
+        {
+          "character": "郑文",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "营门外摆刀枪剑戟如麻。"
         },
         {
           "character": "郑文",
@@ -1175,7 +1373,49 @@
           "text": "见了那诸葛亮假把泪擦。"
         },
         {
-          "character": "到后来将平王鞭尸基下、来至在汉营地离鞍下马、我这里将宝剑腰间摘下、廖化、马岱、关兴、张苞",
+          "character": "郑文",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "到后来将平王鞭尸基下"
+        },
+        {
+          "character": "郑文",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "来至在汉营地离鞍下马"
+        },
+        {
+          "character": "郑文",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "我这里将宝剑腰间摘下"
+        },
+        {
+          "character": "郑文",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "廖化"
+        },
+        {
+          "character": "郑文",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "马岱"
+        },
+        {
+          "character": "郑文",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "关兴"
+        },
+        {
+          "character": "张苞",
           "line_type": "同白",
           "musical_style": null,
           "style_family": null,
@@ -1200,42 +1440,140 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "两眼中含珠泪滚滚似麻。\n表你的名和姓哪里有家？"
+          "text": "两眼中含珠泪滚滚似麻。"
         },
         {
-          "character": "问来将因甚事反背司马、郑文",
+          "character": "诸葛亮",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "表你的名和姓哪里有家？"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "问来将因甚事反背司马"
+        },
+        {
+          "character": "郑文",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
           "text": "丞相呀！"
         },
         {
-          "character": "问来将因甚事反背司马、郑文",
+          "character": "郑文",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "问来将因甚事反背司马"
+        },
+        {
+          "character": "郑文",
           "line_type": "西皮快板",
           "musical_style": "西皮快板",
           "style_family": "西皮",
-          "text": "家住在山西地太行山下，\n我的名叫郑文幼习枪法。\n功劳簿勾了名不用某家。\n俺郑文秉忠心答报汉家。"
+          "text": "家住在山西地太行山下，"
         },
         {
-          "character": "都只为劝司马反被责打、望丞相开大恩收留帐下、诸葛亮",
+          "character": "郑文",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "我的名叫郑文幼习枪法。"
+        },
+        {
+          "character": "郑文",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "功劳簿勾了名不用某家。"
+        },
+        {
+          "character": "郑文",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "俺郑文秉忠心答报汉家。"
+        },
+        {
+          "character": "郑文",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "都只为劝司马反被责打"
+        },
+        {
+          "character": "郑文",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "望丞相开大恩收留帐下"
+        },
+        {
+          "character": "诸葛亮",
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "人道那司马懿识学高大，\n却为何今日里把事做差。"
+          "text": "人道那司马懿识学高大，"
         },
         {
-          "character": "都只为劝司马反被责打、望丞相开大恩收留帐下、诸葛亮",
+          "character": "诸葛亮",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "却为何今日里把事做差。"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "都只为劝司马反被责打"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "望丞相开大恩收留帐下"
+        },
+        {
+          "character": "诸葛亮",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
           "text": "郑将军。"
         },
         {
-          "character": "都只为劝司马反被责打、望丞相开大恩收留帐下、诸葛亮",
+          "character": "诸葛亮",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "都只为劝司马反被责打"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "望丞相开大恩收留帐下"
+        },
+        {
+          "character": "诸葛亮",
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "见过了蜀营将请坐叙话，\n待山人奏幼主定把功加。"
+          "text": "见过了蜀营将请坐叙话，"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "待山人奏幼主定把功加。"
         },
         {
           "character": null,
@@ -1249,7 +1587,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "启禀丞相：司马懿营中又来一将，名唤秦朗，阵前讨战。单要郑将军出马，特\n来报知。"
+          "text": "启禀丞相：司马懿营中又来一将，名唤秦朗，阵前讨战。单要郑将军出马，特"
+        },
+        {
+          "character": "报子",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来报知。"
         },
         {
           "character": "诸葛亮",
@@ -1326,7 +1671,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "末将蒙丞相收留，尚无尺寸之功。丞相发下一令，待末将生擒秦朗进帐，以报\n大恩。"
+          "text": "末将蒙丞相收留，尚无尺寸之功。丞相发下一令，待末将生擒秦朗进帐，以报"
+        },
+        {
+          "character": "郑文",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "大恩。"
         },
         {
           "character": "诸葛亮",
@@ -1389,7 +1741,14 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "看起来我主爷洪福天大，\n收此将好一似锦上添花。"
+          "text": "看起来我主爷洪福天大，"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "收此将好一似锦上添花。"
         },
         {
           "character": "诸葛亮",
@@ -1466,7 +1825,14 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "哗啦啦金枪如戏耍，\n无知匹夫染黄沙。"
+          "text": "哗啦啦金枪如戏耍，"
+        },
+        {
+          "character": "郑文",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "无知匹夫染黄沙。"
         },
         {
           "character": null,
@@ -1501,7 +1867,21 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "他二人见了面双枪并架，\n未战那三两合就把他杀。\n莫不是司马懿叫他行诈？"
+          "text": "他二人见了面双枪并架，"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "未战那三两合就把他杀。"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "莫不是司马懿叫他行诈？"
         },
         {
           "character": "诸葛亮",
@@ -1592,49 +1972,133 @@
           "line_type": "西皮原板",
           "musical_style": "西皮原板",
           "style_family": "西皮",
-          "text": "在茅庐曾学过孙吴兵法，\n仗三韬和六略扶保汉家。\n我在那祁山下活活笑煞。"
+          "text": "在茅庐曾学过孙吴兵法，"
         },
         {
-          "character": "适才间斩秦朗多有劳驾、郑文",
+          "character": "诸葛亮",
           "line_type": "西皮原板",
           "musical_style": "西皮原板",
           "style_family": "西皮",
-          "text": "有郑文在帐中躬身叙话，\n尊一声汉丞相细听根芽：\n将在谋哪在勇我把他来杀。"
+          "text": "仗三韬和六略扶保汉家。"
         },
         {
-          "character": "小秦朗他虽然武艺高大、诸葛亮",
+          "character": "诸葛亮",
           "line_type": "西皮原板",
           "musical_style": "西皮原板",
           "style_family": "西皮",
-          "text": "你道那小秦朗武艺高大，\n未战到三两合就把他杀。"
+          "text": "我在那祁山下活活笑煞。"
         },
         {
-          "character": "小秦朗他虽然武艺高大、诸葛亮",
+          "character": "诸葛亮",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "适才间斩秦朗多有劳驾"
+        },
+        {
+          "character": "郑文",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "有郑文在帐中躬身叙话，"
+        },
+        {
+          "character": "郑文",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "尊一声汉丞相细听根芽："
+        },
+        {
+          "character": "郑文",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "将在谋哪在勇我把他来杀。"
+        },
+        {
+          "character": "郑文",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "小秦朗他虽然武艺高大"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "你道那小秦朗武艺高大，"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "未战到三两合就把他杀。"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "小秦朗他虽然武艺高大"
+        },
+        {
+          "character": "诸葛亮",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
           "text": "如何？"
         },
         {
-          "character": "小秦朗他虽然武艺高大、诸葛亮",
+          "character": "诸葛亮",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "小秦朗他虽然武艺高大"
+        },
+        {
+          "character": "诸葛亮",
           "line_type": "西皮原板",
           "musical_style": "西皮原板",
           "style_family": "西皮",
           "text": "你可知诸葛亮见事如神半点不差。"
         },
         {
-          "character": "分明是司马懿叫你来行诈、郑文",
+          "character": "诸葛亮",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "分明是司马懿叫你来行诈"
+        },
+        {
+          "character": "郑文",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
           "text": "丞相！"
         },
         {
-          "character": "分明是司马懿叫你来行诈、郑文",
+          "character": "郑文",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "分明是司马懿叫你来行诈"
+        },
+        {
+          "character": "郑文",
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "适才间斩秦朗并非是假，\n进帐来却为何苦苦的盘查？"
+          "text": "适才间斩秦朗并非是假，"
+        },
+        {
+          "character": "郑文",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "进帐来却为何苦苦的盘查？"
         },
         {
           "character": "诸葛亮",
@@ -1662,7 +2126,42 @@
           "line_type": "西皮二六板",
           "musical_style": "西皮二六板",
           "style_family": "西皮",
-          "text": "适才我劝你是一番好话，\n你竟敢在帐中胡言乱答。\n我看他好一似井底之蛙。\n待山人奏幼主定把功加；\n顷刻间传将令定把尔的头杀。\n我服你好大胆敢在那虎口拔牙！"
+          "text": "适才我劝你是一番好话，"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "你竟敢在帐中胡言乱答。"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "我看他好一似井底之蛙。"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "待山人奏幼主定把功加；"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "顷刻间传将令定把尔的头杀。"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "我服你好大胆敢在那虎口拔牙！"
         },
         {
           "character": "诸葛亮",
@@ -1672,42 +2171,224 @@
           "text": "真真的大胆！"
         },
         {
-          "character": "可笑那司马懿不通兵法、我劝你趁此时说了实话、今日里你若是不讲实话、诸葛亮广用兵谁人不怕、郑文",
+          "character": "诸葛亮",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "可笑那司马懿不通兵法"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我劝你趁此时说了实话"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "今日里你若是不讲实话"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "诸葛亮广用兵谁人不怕"
+        },
+        {
+          "character": "郑文",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
           "text": "呀！"
         },
         {
-          "character": "可笑那司马懿不通兵法、我劝你趁此时说了实话、今日里你若是不讲实话、诸葛亮广用兵谁人不怕、郑文",
+          "character": "郑文",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "可笑那司马懿不通兵法"
+        },
+        {
+          "character": "郑文",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我劝你趁此时说了实话"
+        },
+        {
+          "character": "郑文",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "今日里你若是不讲实话"
+        },
+        {
+          "character": "郑文",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "诸葛亮广用兵谁人不怕"
+        },
+        {
+          "character": "郑文",
           "line_type": "西皮快板",
           "musical_style": "西皮快板",
           "style_family": "西皮",
-          "text": "听他言不由我心中害怕，\n猜破了苦肉计胆战如麻。\n些小的诈降计怎能瞒他？"
+          "text": "听他言不由我心中害怕，"
         },
         {
-          "character": "可笑那司马懿不通兵法、我劝你趁此时说了实话、今日里你若是不讲实话、诸葛亮广用兵谁人不怕、郑文",
+          "character": "郑文",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "猜破了苦肉计胆战如麻。"
+        },
+        {
+          "character": "郑文",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "些小的诈降计怎能瞒他？"
+        },
+        {
+          "character": "郑文",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "可笑那司马懿不通兵法"
+        },
+        {
+          "character": "郑文",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "我劝你趁此时说了实话"
+        },
+        {
+          "character": "郑文",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "今日里你若是不讲实话"
+        },
+        {
+          "character": "郑文",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "诸葛亮广用兵谁人不怕"
+        },
+        {
+          "character": "郑文",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
           "text": "司马懿，司马懿，如今我也顾不得你了！"
         },
         {
-          "character": "可笑那司马懿不通兵法、我劝你趁此时说了实话、今日里你若是不讲实话、诸葛亮广用兵谁人不怕、郑文",
+          "character": "郑文",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "可笑那司马懿不通兵法"
+        },
+        {
+          "character": "郑文",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我劝你趁此时说了实话"
+        },
+        {
+          "character": "郑文",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "今日里你若是不讲实话"
+        },
+        {
+          "character": "郑文",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "诸葛亮广用兵谁人不怕"
+        },
+        {
+          "character": "郑文",
           "line_type": "西皮快板",
           "musical_style": "西皮快板",
           "style_family": "西皮",
-          "text": "尊一声老丞相细听根芽：\n望丞相开大恩饶了某家。"
+          "text": "尊一声老丞相细听根芽："
         },
         {
-          "character": "早知道诸葛亮深通兵法、到如今顾不得都督司马、在阵前斩秦朗俱都是假、诸葛亮",
+          "character": "郑文",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "望丞相开大恩饶了某家。"
+        },
+        {
+          "character": "郑文",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "早知道诸葛亮深通兵法"
+        },
+        {
+          "character": "郑文",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "到如今顾不得都督司马"
+        },
+        {
+          "character": "郑文",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "在阵前斩秦朗俱都是假"
+        },
+        {
+          "character": "诸葛亮",
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "郑将军你既然讲了实话，\n从今后弃暗投明扶保汉家。"
+          "text": "郑将军你既然讲了实话，"
         },
         {
-          "character": "早知道诸葛亮深通兵法、到如今顾不得都督司马、在阵前斩秦朗俱都是假、诸葛亮",
+          "character": "诸葛亮",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "从今后弃暗投明扶保汉家。"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "早知道诸葛亮深通兵法"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "到如今顾不得都督司马"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "在阵前斩秦朗俱都是假"
+        },
+        {
+          "character": "诸葛亮",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -1746,7 +2427,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "恐丞相见疑，将某责打，赶出不用，前来诈降。丞相若是重用，修书一封，下\n到司马营中，叫他三更时分，前来偷营劫寨。某以为内应，杀丞相一个里应外\n合。"
+          "text": "恐丞相见疑，将某责打，赶出不用，前来诈降。丞相若是重用，修书一封，下"
+        },
+        {
+          "character": "郑文",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "到司马营中，叫他三更时分，前来偷营劫寨。某以为内应，杀丞相一个里应外"
+        },
+        {
+          "character": "郑文",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "合。"
         },
         {
           "character": "诸葛亮",
@@ -1767,7 +2462,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "就烦郑将军修书一封，叫他三更时分，前来偷营劫寨。我这里埋伏停当，纵然\n擒不住司马懿，也要杀他个片甲不归。"
+          "text": "就烦郑将军修书一封，叫他三更时分，前来偷营劫寨。我这里埋伏停当，纵然"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "擒不住司马懿，也要杀他个片甲不归。"
         },
         {
           "character": "郑文",
@@ -1942,7 +2644,21 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "可笑司马有才学，\n做事全然不揣摩。\n些小计怎瞒我南阳诸葛？"
+          "text": "可笑司马有才学，"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "做事全然不揣摩。"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "些小计怎瞒我南阳诸葛？"
         },
         {
           "character": null,
@@ -2039,7 +2755,17 @@
           "西皮慢板",
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.143,
+        0.4337,
+        0.5663,
+        0.0,
+        0.4256,
+        9,
+        0.4337,
+        0.0
+      ]
     },
     {
       "scene_index": 5,
@@ -2279,7 +3005,17 @@
         "musical_styles": [
           "西皮流水板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.056,
+        0.0556,
+        0.9444,
+        0.0,
+        0.8824,
+        4,
+        0.0556,
+        0.0
+      ]
     },
     {
       "scene_index": 6,
@@ -2506,7 +3242,17 @@
           "西皮流水",
           "西皮流水板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.125,
+        0.1765,
+        0.8235,
+        0.0,
+        0.8125,
+        4,
+        0.1765,
+        0.0
+      ]
     },
     {
       "scene_index": 7,
@@ -2585,7 +3331,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.75,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 8,
@@ -2706,7 +3462,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.8333,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 9,
@@ -2746,7 +3512,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 10,
@@ -3012,7 +3788,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.294,
+        0.4348,
+        0.5652,
+        0.0,
+        0.5909,
+        3,
+        0.4348,
+        0.0
+      ]
     }
   ]
 }

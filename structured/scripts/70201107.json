@@ -138,7 +138,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "本藩，雍邱王曹植。承恩北阙，备位东陲。今日朝觐礼毕，承命归藩。\n内侍！"
+          "text": "本藩，雍邱王曹植。承恩北阙，备位东陲。今日朝觐礼毕，承命归藩。"
+        },
+        {
+          "character": "曹植",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "内侍！"
         },
         {
           "character": "大太监甲",
@@ -173,7 +180,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "是。\n外面起程啊！"
+          "text": "是。"
+        },
+        {
+          "character": "大太监甲",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "外面起程啊！"
         },
         {
           "character": "四御林军",
@@ -194,7 +208,21 @@
           "line_type": "西皮原板",
           "musical_style": "西皮原板",
           "style_family": "西皮",
-          "text": "适才间背伊阙又越轘辕。\n不觉得日西坠车殆马烦。\n猛然见马头前已是洛川。"
+          "text": "适才间背伊阙又越轘辕。"
+        },
+        {
+          "character": "曹植",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "不觉得日西坠车殆马烦。"
+        },
+        {
+          "character": "曹植",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "猛然见马头前已是洛川。"
         },
         {
           "character": null,
@@ -236,7 +264,14 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "一阵阵晚鸦声归心似箭，\n猛抬头来到了洛水驿前。"
+          "text": "一阵阵晚鸦声归心似箭，"
+        },
+        {
+          "character": "曹植",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "猛抬头来到了洛水驿前。"
         },
         {
           "character": null,
@@ -288,7 +323,17 @@
           "西皮导板",
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.182,
+        0.3333,
+        0.5714,
+        0.0952,
+        0.55,
+        4,
+        0.2857,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -324,14 +369,49 @@
           "line_type": "二黄散板",
           "musical_style": "二黄散板",
           "style_family": "二黄",
-          "text": "如在银河碧汉旁。\n缥缈春情何处傍？\n一汀烟月不胜凉。"
+          "text": "如在银河碧汉旁。"
+        },
+        {
+          "character": "洛神",
+          "line_type": "二黄散板",
+          "musical_style": "二黄散板",
+          "style_family": "二黄",
+          "text": "缥缈春情何处傍？"
+        },
+        {
+          "character": "洛神",
+          "line_type": "二黄散板",
+          "musical_style": "二黄散板",
+          "style_family": "二黄",
+          "text": "一汀烟月不胜凉。"
         },
         {
           "character": "洛神",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "吾乃，洛川神女是也。掌握全川水印，修成一点仙心。因与曹王子建尚有未尽\n之缘，犹负相思之债。今日闻他驻扎本驿，为此御云而来，对他略表因由，藉\n通诚愫。\n侍儿们！"
+          "text": "吾乃，洛川神女是也。掌握全川水印，修成一点仙心。因与曹王子建尚有未尽"
+        },
+        {
+          "character": "洛神",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "之缘，犹负相思之债。今日闻他驻扎本驿，为此御云而来，对他略表因由，藉"
+        },
+        {
+          "character": "洛神",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "通诚愫。"
+        },
+        {
+          "character": "洛神",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "侍儿们！"
         },
         {
           "character": "八云女",
@@ -359,7 +439,14 @@
           "line_type": "二黄散板",
           "musical_style": "二黄散板",
           "style_family": "二黄",
-          "text": "思想起当年事心中惆怅，\n再相逢是梦里好不凄惶。"
+          "text": "思想起当年事心中惆怅，"
+        },
+        {
+          "character": "洛神",
+          "line_type": "二黄散板",
+          "musical_style": "二黄散板",
+          "style_family": "二黄",
+          "text": "再相逢是梦里好不凄惶。"
         },
         {
           "character": null,
@@ -391,7 +478,17 @@
         "musical_styles": [
           "二黄散板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.4,
+        0.4167,
+        0.5833,
+        0.0,
+        0.3636,
+        2,
+        0.0,
+        0.4167
+      ]
     },
     {
       "scene_index": 3,
@@ -438,14 +535,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "长途跋涉，好生困倦。唉！你看冷驿萧条，春光潦草，碧云已合，美人不来，\n这情怀好难安顿也！"
+          "text": "长途跋涉，好生困倦。唉！你看冷驿萧条，春光潦草，碧云已合，美人不来，"
+        },
+        {
+          "character": "曹植",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "这情怀好难安顿也！"
         },
         {
           "character": "曹植",
           "line_type": "二黄散板",
           "musical_style": "二黄散板",
           "style_family": "二黄",
-          "text": "身不惯长途苦好生困倦，\n恶情怀无聊赖待向谁言！"
+          "text": "身不惯长途苦好生困倦，"
+        },
+        {
+          "character": "曹植",
+          "line_type": "二黄散板",
+          "musical_style": "二黄散板",
+          "style_family": "二黄",
+          "text": "恶情怀无聊赖待向谁言！"
         },
         {
           "character": null,
@@ -487,7 +598,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "唉！夜静更长，怎生消遣！哦，有了，前日入朝之时，圣上以甄后遗物——玉\n镂金带枕见赐，当此枯坐无聊，不免在灯下抚玩一番。\n内侍！"
+          "text": "唉！夜静更长，怎生消遣！哦，有了，前日入朝之时，圣上以甄后遗物——玉"
+        },
+        {
+          "character": "曹植",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "镂金带枕见赐，当此枯坐无聊，不免在灯下抚玩一番。"
+        },
+        {
+          "character": "曹植",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "内侍！"
         },
         {
           "character": "二大太监",
@@ -557,7 +682,28 @@
           "line_type": "二黄原板",
           "musical_style": "二黄原板",
           "style_family": "二黄",
-          "text": "手把着金带枕殷勤抚玩，\n想起了当年事一阵心酸。\n好教我终日里意马心猿。\n无奈何我只得倚枕而眠。"
+          "text": "手把着金带枕殷勤抚玩，"
+        },
+        {
+          "character": "曹植",
+          "line_type": "二黄原板",
+          "musical_style": "二黄原板",
+          "style_family": "二黄",
+          "text": "想起了当年事一阵心酸。"
+        },
+        {
+          "character": "曹植",
+          "line_type": "二黄原板",
+          "musical_style": "二黄原板",
+          "style_family": "二黄",
+          "text": "好教我终日里意马心猿。"
+        },
+        {
+          "character": "曹植",
+          "line_type": "二黄原板",
+          "musical_style": "二黄原板",
+          "style_family": "二黄",
+          "text": "无奈何我只得倚枕而眠。"
         },
         {
           "character": null,
@@ -571,14 +717,28 @@
           "line_type": "二黄散板",
           "musical_style": "二黄散板",
           "style_family": "二黄",
-          "text": "野荒荒星皎皎夜深人静，\n驾云来转瞬间已到驿门。"
+          "text": "野荒荒星皎皎夜深人静，"
+        },
+        {
+          "character": "洛神",
+          "line_type": "二黄散板",
+          "musical_style": "二黄散板",
+          "style_family": "二黄",
+          "text": "驾云来转瞬间已到驿门。"
         },
         {
           "character": "洛神",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "来此已是驿中，待我进去。\n侍儿们。"
+          "text": "来此已是驿中，待我进去。"
+        },
+        {
+          "character": "洛神",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "侍儿们。"
         },
         {
           "character": "八云女",
@@ -620,14 +780,49 @@
           "line_type": "二黄散板",
           "musical_style": "二黄散板",
           "style_family": "二黄",
-          "text": "进门来暗昏昏一灯摇影，\n可怜他伏几卧独自凄清。\n羞怯怯只觉得难以为情。"
+          "text": "进门来暗昏昏一灯摇影，"
+        },
+        {
+          "character": "洛神",
+          "line_type": "二黄散板",
+          "musical_style": "二黄散板",
+          "style_family": "二黄",
+          "text": "可怜他伏几卧独自凄清。"
+        },
+        {
+          "character": "洛神",
+          "line_type": "二黄散板",
+          "musical_style": "二黄散板",
+          "style_family": "二黄",
+          "text": "羞怯怯只觉得难以为情。"
         },
         {
           "character": "洛神",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "看他怀抱之中，乃是玉镂金带枕。睹物伤情，益增悲感。待要将他唤醒，怎奈\n难以为情。这便怎么处！哦，有了。不免梦中约他明日川上相会便了。\n子建哪，子建！我与你未了三生，尚须一面。来日洛川之上，专待君临，牢牢\n紧记！小仙去也！"
+          "text": "看他怀抱之中，乃是玉镂金带枕。睹物伤情，益增悲感。待要将他唤醒，怎奈"
+        },
+        {
+          "character": "洛神",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "难以为情。这便怎么处！哦，有了。不免梦中约他明日川上相会便了。"
+        },
+        {
+          "character": "洛神",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "子建哪，子建！我与你未了三生，尚须一面。来日洛川之上，专待君临，牢牢"
+        },
+        {
+          "character": "洛神",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "紧记！小仙去也！"
         },
         {
           "character": null,
@@ -641,7 +836,21 @@
           "line_type": "二黄散板",
           "musical_style": "二黄散板",
           "style_family": "二黄",
-          "text": "明日里洛川前将君来等，\n莫迟疑休爽约紧记在心。\n待来朝见了面再说前尘。"
+          "text": "明日里洛川前将君来等，"
+        },
+        {
+          "character": "洛神",
+          "line_type": "二黄散板",
+          "musical_style": "二黄散板",
+          "style_family": "二黄",
+          "text": "莫迟疑休爽约紧记在心。"
+        },
+        {
+          "character": "洛神",
+          "line_type": "二黄散板",
+          "musical_style": "二黄散板",
+          "style_family": "二黄",
+          "text": "待来朝见了面再说前尘。"
         },
         {
           "character": null,
@@ -676,7 +885,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "好奇怪呀！方才朦胧睡去，分明见一神女，水佩风裳，姿容绝世，似在哪里见\n过一般，兀的不教人想煞也！我想这梦还去得不远，待我唤它转来！"
+          "text": "好奇怪呀！方才朦胧睡去，分明见一神女，水佩风裳，姿容绝世，似在哪里见"
+        },
+        {
+          "character": "曹植",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "过一般，兀的不教人想煞也！我想这梦还去得不远，待我唤它转来！"
         },
         {
           "character": null,
@@ -690,14 +906,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "我那神女呢？喂！我那仙姬呢？唉！竟自去远了。我想人生在世，似这等佳梦，\n能有几场？偏是醒得这样快法。唉！我好恨也！"
+          "text": "我那神女呢？喂！我那仙姬呢？唉！竟自去远了。我想人生在世，似这等佳梦，"
+        },
+        {
+          "character": "曹植",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "能有几场？偏是醒得这样快法。唉！我好恨也！"
         },
         {
           "character": "曹植",
           "line_type": "二黄摇板",
           "musical_style": "二黄摇板",
           "style_family": "二黄",
-          "text": "荒陲内乱鸡声把好梦惊散，\n倒教我何处里再觅婵娟。"
+          "text": "荒陲内乱鸡声把好梦惊散，"
+        },
+        {
+          "character": "曹植",
+          "line_type": "二黄摇板",
+          "musical_style": "二黄摇板",
+          "style_family": "二黄",
+          "text": "倒教我何处里再觅婵娟。"
         },
         {
           "character": "曹植",
@@ -800,7 +1030,17 @@
           "二黄摇板",
           "二黄散板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.125,
+        0.3333,
+        0.6481,
+        0.0185,
+        0.3774,
+        6,
+        0.0,
+        0.3333
+      ]
     },
     {
       "scene_index": 4,
@@ -958,7 +1198,14 @@
           "line_type": "同白",
           "musical_style": null,
           "style_family": null,
-          "text": "是。\n有请仙子。"
+          "text": "是。"
+        },
+        {
+          "character": "八仙女",
+          "line_type": "同白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "有请仙子。"
         },
         {
           "character": null,
@@ -1042,7 +1289,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "二位仙妹有所不知：只因雍邱王曹植与小仙前生尚有未尽之缘，今日闻他在此\n经过。此人颇识风情，深明礼义；意欲相烦两位仙妹同定小仙，去往川上游戏\n一番，藉了前缘。不知二位仙妹意下如何？"
+          "text": "二位仙妹有所不知：只因雍邱王曹植与小仙前生尚有未尽之缘，今日闻他在此"
+        },
+        {
+          "character": "洛神",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "经过。此人颇识风情，深明礼义；意欲相烦两位仙妹同定小仙，去往川上游戏"
+        },
+        {
+          "character": "洛神",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "一番，藉了前缘。不知二位仙妹意下如何？"
         },
         {
           "character": "汉滨游女、湘水神妃",
@@ -1105,7 +1366,21 @@
           "line_type": "二黄散板",
           "musical_style": "二黄散板",
           "style_family": "二黄",
-          "text": "云鬓罢梳慵对镜，\n罗袂轻扬出殿门。\n一派清光不见人。"
+          "text": "云鬓罢梳慵对镜，"
+        },
+        {
+          "character": "洛神",
+          "line_type": "二黄散板",
+          "musical_style": "二黄散板",
+          "style_family": "二黄",
+          "text": "罗袂轻扬出殿门。"
+        },
+        {
+          "character": "洛神",
+          "line_type": "二黄散板",
+          "musical_style": "二黄散板",
+          "style_family": "二黄",
+          "text": "一派清光不见人。"
         },
         {
           "character": null,
@@ -1119,7 +1394,14 @@
           "line_type": "二黄摇板",
           "musical_style": "二黄摇板",
           "style_family": "二黄",
-          "text": "加鞭催马到洛滨，\n烟水茫茫何处寻！"
+          "text": "加鞭催马到洛滨，"
+        },
+        {
+          "character": "曹植",
+          "line_type": "二黄摇板",
+          "musical_style": "二黄摇板",
+          "style_family": "二黄",
+          "text": "烟水茫茫何处寻！"
         },
         {
           "character": "曹植",
@@ -1133,7 +1415,14 @@
           "line_type": "二黄摇板",
           "musical_style": "二黄摇板",
           "style_family": "二黄",
-          "text": "一片诚心往前进，\n但愿得见梦中人。"
+          "text": "一片诚心往前进，"
+        },
+        {
+          "character": "曹植",
+          "line_type": "二黄摇板",
+          "musical_style": "二黄摇板",
+          "style_family": "二黄",
+          "text": "但愿得见梦中人。"
         },
         {
           "character": null,
@@ -1147,7 +1436,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "远而望之，皎若太阳升朝霞；近而察之，灼若芙蕖出绿波。真乃仙人也！看她\n脉脉含愁，盈盈欲语，待我听她说些什么。"
+          "text": "远而望之，皎若太阳升朝霞；近而察之，灼若芙蕖出绿波。真乃仙人也！看她"
+        },
+        {
+          "character": "曹植",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "脉脉含愁，盈盈欲语，待我听她说些什么。"
         },
         {
           "character": "洛神",
@@ -1161,7 +1457,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "哎呀呀！她那里明明说着本藩。不知几生修到，有此奇遇。只是仙凡异体，不\n能亲近仙姿，这便如何是好！有了，待我祝告于她。\n啊，仙姬，既蒙以色身相示，何妨接近一谈呀！"
+          "text": "哎呀呀！她那里明明说着本藩。不知几生修到，有此奇遇。只是仙凡异体，不"
+        },
+        {
+          "character": "曹植",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "能亲近仙姿，这便如何是好！有了，待我祝告于她。"
+        },
+        {
+          "character": "曹植",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "啊，仙姬，既蒙以色身相示，何妨接近一谈呀！"
         },
         {
           "character": "洛神",
@@ -1175,7 +1485,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "是，是，是。\n待我望空拜她一拜，感动于她，或者得相亲近，也未可知。"
+          "text": "是，是，是。"
+        },
+        {
+          "character": "曹植",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "待我望空拜她一拜，感动于她，或者得相亲近，也未可知。"
         },
         {
           "character": null,
@@ -1441,7 +1758,21 @@
           "line_type": "二黄原板",
           "musical_style": "二黄原板",
           "style_family": "二黄",
-          "text": "提起前尘增惆怅，\n絮果兰因自思量。\n难得同飞学凤凰。"
+          "text": "提起前尘增惆怅，"
+        },
+        {
+          "character": "洛神",
+          "line_type": "二黄原板",
+          "musical_style": "二黄原板",
+          "style_family": "二黄",
+          "text": "絮果兰因自思量。"
+        },
+        {
+          "character": "洛神",
+          "line_type": "二黄原板",
+          "musical_style": "二黄原板",
+          "style_family": "二黄",
+          "text": "难得同飞学凤凰。"
         },
         {
           "character": null,
@@ -1483,7 +1814,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "你我相契以神，不过空中爱慕；一涉形迹，便生魔障。千古多情之人，从无越\n礼之事；小仙一到尊府，则悠悠之口，何患无辞。"
+          "text": "你我相契以神，不过空中爱慕；一涉形迹，便生魔障。千古多情之人，从无越"
+        },
+        {
+          "character": "洛神",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "礼之事；小仙一到尊府，则悠悠之口，何患无辞。"
         },
         {
           "character": "曹植",
@@ -1553,7 +1891,21 @@
           "line_type": "二黄摇板",
           "musical_style": "二黄摇板",
           "style_family": "二黄",
-          "text": "既然是与小王前有情分，\n又何妨赐颜色暂屈同行。\n只不过到客邸略话前尘。"
+          "text": "既然是与小王前有情分，"
+        },
+        {
+          "character": "曹植",
+          "line_type": "二黄摇板",
+          "musical_style": "二黄摇板",
+          "style_family": "二黄",
+          "text": "又何妨赐颜色暂屈同行。"
+        },
+        {
+          "character": "曹植",
+          "line_type": "二黄摇板",
+          "musical_style": "二黄摇板",
+          "style_family": "二黄",
+          "text": "只不过到客邸略话前尘。"
         },
         {
           "character": "曹植",
@@ -1563,7 +1915,14 @@
           "text": "说了半日，还不知仙姬名姓，敢请以实相告。小王回去，也好香花供奉。"
         },
         {
-          "character": "非敢望与仙姬影连肩并、洛神",
+          "character": "曹植",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "非敢望与仙姬影连肩并"
+        },
+        {
+          "character": "洛神",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -1616,7 +1975,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "哎呀，且住！正要问她端的，为何忽然不见，又要教我随她前去，不知这是什\n么意思！也罢，待我急急赶上者。"
+          "text": "哎呀，且住！正要问她端的，为何忽然不见，又要教我随她前去，不知这是什"
+        },
+        {
+          "character": "曹植",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "么意思！也罢，待我急急赶上者。"
         },
         {
           "character": null,
@@ -1714,7 +2080,21 @@
           "line_type": "二黄散板",
           "musical_style": "二黄散板",
           "style_family": "二黄",
-          "text": "她那里柔情态娇羞满面，\n闪得我心振荡无语无言；\n难道说我此时还在梦间。"
+          "text": "她那里柔情态娇羞满面，"
+        },
+        {
+          "character": "曹植",
+          "line_type": "二黄散板",
+          "musical_style": "二黄散板",
+          "style_family": "二黄",
+          "text": "闪得我心振荡无语无言；"
+        },
+        {
+          "character": "曹植",
+          "line_type": "二黄散板",
+          "musical_style": "二黄散板",
+          "style_family": "二黄",
+          "text": "难道说我此时还在梦间。"
         },
         {
           "character": null,
@@ -1742,7 +2122,14 @@
           "line_type": "西皮慢板",
           "musical_style": "西皮慢板",
           "style_family": "西皮",
-          "text": "过南岗越北沚杂沓仙灵。\n今日里众姊妹同戏川滨。"
+          "text": "过南岗越北沚杂沓仙灵。"
+        },
+        {
+          "character": "洛神",
+          "line_type": "西皮慢板",
+          "musical_style": "西皮慢板",
+          "style_family": "西皮",
+          "text": "今日里众姊妹同戏川滨。"
         },
         {
           "character": null,
@@ -1756,14 +2143,28 @@
           "line_type": "西皮慢板",
           "musical_style": "西皮慢板",
           "style_family": "西皮",
-          "text": "乘清风扬仙袂飞凫体迅，\n拽琼琚展六幅湘水罗裙。"
+          "text": "乘清风扬仙袂飞凫体迅，"
+        },
+        {
+          "character": "洛神",
+          "line_type": "西皮慢板",
+          "musical_style": "西皮慢板",
+          "style_family": "西皮",
+          "text": "拽琼琚展六幅湘水罗裙。"
         },
         {
           "character": "洛神",
           "line_type": "西皮原板",
           "musical_style": "西皮原板",
           "style_family": "西皮",
-          "text": "我这里翔神渚把仙芝采定，\n我这里戏清流来把浪分；"
+          "text": "我这里翔神渚把仙芝采定，"
+        },
+        {
+          "character": "洛神",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "我这里戏清流来把浪分；"
         },
         {
           "character": null,
@@ -1840,7 +2241,21 @@
           "line_type": "西皮二六板",
           "musical_style": "西皮二六板",
           "style_family": "西皮",
-          "text": "芳体荫，\n免他旭日射衣纹。\n采旄斜倚态伶俜。"
+          "text": "芳体荫，"
+        },
+        {
+          "character": "洛神",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "免他旭日射衣纹。"
+        },
+        {
+          "character": "洛神",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "采旄斜倚态伶俜。"
         },
         {
           "character": null,
@@ -1854,7 +2269,21 @@
           "line_type": "西皮快板",
           "musical_style": "西皮快板",
           "style_family": "西皮",
-          "text": "轻移莲步踏波行。\n宛如神龙戏水滨。\n看神光离合乍阳阴。"
+          "text": "轻移莲步踏波行。"
+        },
+        {
+          "character": "洛神",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "宛如神龙戏水滨。"
+        },
+        {
+          "character": "洛神",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "看神光离合乍阳阴。"
         },
         {
           "character": "洛神",
@@ -1864,11 +2293,39 @@
           "text": "心振荡默无语何以为情！"
         },
         {
-          "character": "翩若惊鸿来照影、徙倚彷徨行无定、雍丘王他那里目不转瞬、曹植",
+          "character": "洛神",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "翩若惊鸿来照影"
+        },
+        {
+          "character": "洛神",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "徙倚彷徨行无定"
+        },
+        {
+          "character": "洛神",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "雍丘王他那里目不转瞬"
+        },
+        {
+          "character": "曹植",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "哎呀呀，妙极呀，妙极！小王可以算得奇遇了！这一定是宓妃无疑了，待我一\n拜。"
+          "text": "哎呀呀，妙极呀，妙极！小王可以算得奇遇了！这一定是宓妃无疑了，待我一"
+        },
+        {
+          "character": "曹植",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "拜。"
         },
         {
           "character": "汉滨游女、湘水神妃",
@@ -1882,7 +2339,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "正是。待我向前。\n啊子建，不要如此。小仙偶蹈尘缘，昔日曾在宫中，与殿下两相爱慕，难道果\n真忘怀了么？"
+          "text": "正是。待我向前。"
+        },
+        {
+          "character": "洛神",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "啊子建，不要如此。小仙偶蹈尘缘，昔日曾在宫中，与殿下两相爱慕，难道果"
+        },
+        {
+          "character": "洛神",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "真忘怀了么？"
         },
         {
           "character": "曹植",
@@ -1896,7 +2367,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "如今仙凡路殊，得此一会，也是前缘。小仙这里有常戴耳珠一颗，特奉殿下，\n已报知己。"
+          "text": "如今仙凡路殊，得此一会，也是前缘。小仙这里有常戴耳珠一颗，特奉殿下，"
+        },
+        {
+          "character": "洛神",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "已报知己。"
         },
         {
           "character": "曹植",
@@ -2005,7 +2483,17 @@
           "西皮慢板",
           "西皮散板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.11,
+        0.2593,
+        0.7222,
+        0.0185,
+        0.6398,
+        9,
+        0.1296,
+        0.1296
+      ]
     }
   ]
 }

@@ -219,14 +219,49 @@
           "line_type": "西皮快板",
           "musical_style": "西皮快板",
           "style_family": "西皮",
-          "text": "共同患难女豪杰，\n监内许把鬼缘结。\n金菊芙蓉一样花。"
+          "text": "共同患难女豪杰，"
         },
         {
-          "character": "秋风吹动竹帘挂、宋巧姣",
+          "character": "傅朋",
           "line_type": "西皮快板",
           "musical_style": "西皮快板",
           "style_family": "西皮",
-          "text": "宋氏巧姣才学大，\n得意太尉动杀法。\n水中明月镜中花。"
+          "text": "监内许把鬼缘结。"
+        },
+        {
+          "character": "傅朋",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "金菊芙蓉一样花。"
+        },
+        {
+          "character": "傅朋",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "秋风吹动竹帘挂"
+        },
+        {
+          "character": "宋巧姣",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "宋氏巧姣才学大，"
+        },
+        {
+          "character": "宋巧姣",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "得意太尉动杀法。"
+        },
+        {
+          "character": "宋巧姣",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "水中明月镜中花。"
         },
         {
           "character": null,
@@ -252,7 +287,17 @@
         "musical_styles": [
           "西皮快板"
         ]
-      }
+      },
+      "scene_feature": [
+        1.0,
+        1.0,
+        0.0,
+        0.0,
+        0.1667,
+        2,
+        1.0,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -302,7 +347,21 @@
           "line_type": "西皮流水板",
           "musical_style": "西皮流水板",
           "style_family": "西皮",
-          "text": "畜牲胆比天还大，\n为何起意将人杀。\n反道为娘做事差。"
+          "text": "畜牲胆比天还大，"
+        },
+        {
+          "character": "刘媒婆",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "为何起意将人杀。"
+        },
+        {
+          "character": "刘媒婆",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "反道为娘做事差。"
         },
         {
           "character": null,
@@ -316,17 +375,87 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "有刘彪站大街哈哈大笑，\n尊一声老娘亲细听根苗：\n二十年儿又是好汉一条，还要耍刀！"
+          "text": "有刘彪站大街哈哈大笑，"
         },
         {
-          "character": "此一去见千岁儿的人头不要、刘公道",
+          "character": "刘彪",
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "千差万查是吾差，\n不该打死宋家娃。\n如今弄成这么大。\n坐监牢，又戴枷。\n纵然打死也不走他！"
+          "text": "尊一声老娘亲细听根苗："
         },
         {
-          "character": "先前事儿倒还小、打板子，夹棍夹、割去头，碗大疤瘌、二衙役",
+          "character": "刘彪",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "二十年儿又是好汉一条，还要耍刀！"
+        },
+        {
+          "character": "刘彪",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "此一去见千岁儿的人头不要"
+        },
+        {
+          "character": "刘公道",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "千差万查是吾差，"
+        },
+        {
+          "character": "刘公道",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "不该打死宋家娃。"
+        },
+        {
+          "character": "刘公道",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "如今弄成这么大。"
+        },
+        {
+          "character": "刘公道",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "坐监牢，又戴枷。"
+        },
+        {
+          "character": "刘公道",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "纵然打死也不走他！"
+        },
+        {
+          "character": "刘公道",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "先前事儿倒还小"
+        },
+        {
+          "character": "刘公道",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "打板子，夹棍夹"
+        },
+        {
+          "character": "刘公道",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "割去头，碗大疤瘌"
+        },
+        {
+          "character": "二衙役",
           "line_type": "同白",
           "musical_style": null,
           "style_family": null,
@@ -386,7 +515,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "老爷步行就是了。\n哎呀，奴才！"
+          "text": "老爷步行就是了。"
+        },
+        {
+          "character": "赵廉",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "哎呀，奴才！"
         },
         {
           "character": "赵廉",
@@ -456,10 +592,276 @@
           "line_type": "西皮流水板",
           "musical_style": "西皮流水板",
           "style_family": "西皮",
-          "text": "刘公道在马上珠泪双抛，\n也是吾前世里短把香烧。\n今日里犯王法性命难逃。\n生一女年二八名叫玉姣。\n小傅朋从此过玉镯失掉。\n她不该将此事说与刘彪。\n也是吾去解劝起下祸苗。\n将人头丢吾家起祸不小。\n因此才将人头井内去抛。\n可怕他孩子家嘴口不牢。\n可怜个小娃娃性命一条。\n吾害他黑夜里盗物脱逃。\n断给吾十两银人命案销。\n法门寺告御状女中英豪。\n刘媒婆对千岁细说根苗。\n那一边喜坏了宋氏巧姣。\n倘若是少一名项上加刀。\n吾已经良心丧无有下梢。\n吾与你素日里茶酒相交。\n到来生变犬马报你恩劳。"
+          "text": "刘公道在马上珠泪双抛，"
         },
         {
-          "character": "吾不该隐人头不去呈报、孙家庄孙寡妇无有家教、她不该在门前迎风卖俏、刘媒婆诓绣鞋嘴尖舌巧、傅公子与刘彪大街争吵、孙家庄杀二命无人知晓、也怨吾一时间思想不到、宋兴儿在一旁俱已知道、因此才下毒手将他害了、假作了一张状反将他告、郿邬县糊涂官得状准了、宋国士有一女名唤巧姣、千岁爷差校尉县令提到、郿邬县在一旁真魂吓掉、千岁爷限三日人犯提到、劝世人作经商俱要学好、回头来叫一声二位年高、你二人解绳索将吾放了、你二人不放吾胆儿真小、二衙役",
+          "character": "刘公道",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "也是吾前世里短把香烧。"
+        },
+        {
+          "character": "刘公道",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "今日里犯王法性命难逃。"
+        },
+        {
+          "character": "刘公道",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "生一女年二八名叫玉姣。"
+        },
+        {
+          "character": "刘公道",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "小傅朋从此过玉镯失掉。"
+        },
+        {
+          "character": "刘公道",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "她不该将此事说与刘彪。"
+        },
+        {
+          "character": "刘公道",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "也是吾去解劝起下祸苗。"
+        },
+        {
+          "character": "刘公道",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "将人头丢吾家起祸不小。"
+        },
+        {
+          "character": "刘公道",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "因此才将人头井内去抛。"
+        },
+        {
+          "character": "刘公道",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "可怕他孩子家嘴口不牢。"
+        },
+        {
+          "character": "刘公道",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "可怜个小娃娃性命一条。"
+        },
+        {
+          "character": "刘公道",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "吾害他黑夜里盗物脱逃。"
+        },
+        {
+          "character": "刘公道",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "断给吾十两银人命案销。"
+        },
+        {
+          "character": "刘公道",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "法门寺告御状女中英豪。"
+        },
+        {
+          "character": "刘公道",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "刘媒婆对千岁细说根苗。"
+        },
+        {
+          "character": "刘公道",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "那一边喜坏了宋氏巧姣。"
+        },
+        {
+          "character": "刘公道",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "倘若是少一名项上加刀。"
+        },
+        {
+          "character": "刘公道",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "吾已经良心丧无有下梢。"
+        },
+        {
+          "character": "刘公道",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "吾与你素日里茶酒相交。"
+        },
+        {
+          "character": "刘公道",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "到来生变犬马报你恩劳。"
+        },
+        {
+          "character": "刘公道",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "吾不该隐人头不去呈报"
+        },
+        {
+          "character": "刘公道",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "孙家庄孙寡妇无有家教"
+        },
+        {
+          "character": "刘公道",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "她不该在门前迎风卖俏"
+        },
+        {
+          "character": "刘公道",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "刘媒婆诓绣鞋嘴尖舌巧"
+        },
+        {
+          "character": "刘公道",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "傅公子与刘彪大街争吵"
+        },
+        {
+          "character": "刘公道",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "孙家庄杀二命无人知晓"
+        },
+        {
+          "character": "刘公道",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "也怨吾一时间思想不到"
+        },
+        {
+          "character": "刘公道",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "宋兴儿在一旁俱已知道"
+        },
+        {
+          "character": "刘公道",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "因此才下毒手将他害了"
+        },
+        {
+          "character": "刘公道",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "假作了一张状反将他告"
+        },
+        {
+          "character": "刘公道",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "郿邬县糊涂官得状准了"
+        },
+        {
+          "character": "刘公道",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "宋国士有一女名唤巧姣"
+        },
+        {
+          "character": "刘公道",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "千岁爷差校尉县令提到"
+        },
+        {
+          "character": "刘公道",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "郿邬县在一旁真魂吓掉"
+        },
+        {
+          "character": "刘公道",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "千岁爷限三日人犯提到"
+        },
+        {
+          "character": "刘公道",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "劝世人作经商俱要学好"
+        },
+        {
+          "character": "刘公道",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "回头来叫一声二位年高"
+        },
+        {
+          "character": "刘公道",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "你二人解绳索将吾放了"
+        },
+        {
+          "character": "刘公道",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "你二人不放吾胆儿真小"
+        },
+        {
+          "character": "二衙役",
           "line_type": "同白",
           "musical_style": null,
           "style_family": null,
@@ -528,7 +930,17 @@
           "西皮流水",
           "西皮流水板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.364,
+        0.7973,
+        0.2027,
+        0.0,
+        0.274,
+        5,
+        0.7973,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -571,17 +983,59 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "一路行来常磕牙，\n谁人不道是葛瓜。\n哪里还顾人笑话。"
+          "text": "一路行来常磕牙，"
         },
         {
-          "character": "已经不怕人唾骂、傅朋",
+          "character": "伯父",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "谁人不道是葛瓜。"
+        },
+        {
+          "character": "伯父",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "哪里还顾人笑话。"
+        },
+        {
+          "character": "伯父",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "已经不怕人唾骂"
+        },
+        {
+          "character": "傅朋",
           "line_type": "西皮快板",
           "musical_style": "西皮快板",
           "style_family": "西皮",
-          "text": "宋女年幼才学大，\n洗起雀角动旧牙。\n孙氏女好比墙外花。"
+          "text": "宋女年幼才学大，"
         },
         {
-          "character": "若得太尉开罪话、伯父",
+          "character": "傅朋",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "洗起雀角动旧牙。"
+        },
+        {
+          "character": "傅朋",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "孙氏女好比墙外花。"
+        },
+        {
+          "character": "傅朋",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "若得太尉开罪话"
+        },
+        {
+          "character": "伯父",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -697,7 +1151,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "你倒是个聪明之人，待咱家与你投文进去。你们在白衣庵伺候，等知县到，即\n传。"
+          "text": "你倒是个聪明之人，待咱家与你投文进去。你们在白衣庵伺候，等知县到，即"
+        },
+        {
+          "character": "贾桂",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "传。"
         },
         {
           "character": "衙役甲",
@@ -879,7 +1340,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "便宜了你家老爷！\n孙大姐到白衣庵，同小女在禅堂居住。我与贤婿在佛殿安身。"
+          "text": "便宜了你家老爷！"
+        },
+        {
+          "character": "宋国士",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "孙大姐到白衣庵，同小女在禅堂居住。我与贤婿在佛殿安身。"
         },
         {
           "character": "衙役甲",
@@ -1033,7 +1501,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "你那详文怎么办的？那事儿也做的明白。怎么无缘无故，把一员指挥官儿，收\n在监中，你还有什么理辩？你说！"
+          "text": "你那详文怎么办的？那事儿也做的明白。怎么无缘无故，把一员指挥官儿，收"
+        },
+        {
+          "character": "刘瑾",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "在监中，你还有什么理辩？你说！"
         },
         {
           "character": "赵廉",
@@ -1047,21 +1522,56 @@
           "line_type": "西皮快板",
           "musical_style": "西皮快板",
           "style_family": "西皮",
-          "text": "孙氏把他赠玉镯，\n因此将他来捕捉。\n行权不敢乱发落。"
+          "text": "孙氏把他赠玉镯，"
         },
         {
-          "character": "臣审口供有差错、刘瑾",
+          "character": "赵廉",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "因此将他来捕捉。"
+        },
+        {
+          "character": "赵廉",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "行权不敢乱发落。"
+        },
+        {
+          "character": "赵廉",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "臣审口供有差错"
+        },
+        {
+          "character": "刘瑾",
           "line_type": "笑",
           "musical_style": null,
           "style_family": null,
           "text": "哈哈！"
         },
         {
-          "character": "臣审口供有差错、刘瑾",
+          "character": "刘瑾",
+          "line_type": "笑",
+          "musical_style": null,
+          "style_family": null,
+          "text": "臣审口供有差错"
+        },
+        {
+          "character": "刘瑾",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "本尉与你对玩，看吓的这个样子！这详文做得好。也罢！\n内侍，与赵知县捡个座。"
+          "text": "本尉与你对玩，看吓的这个样子！这详文做得好。也罢！"
+        },
+        {
+          "character": "刘瑾",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "内侍，与赵知县捡个座。"
         },
         {
           "character": "赵廉",
@@ -1131,10 +1641,31 @@
           "line_type": "西皮快板",
           "musical_style": "西皮快板",
           "style_family": "西皮",
-          "text": "凶徒夤夜动干戈，\n竟从玉镯起风波。\n久待青天作定夺。"
+          "text": "凶徒夤夜动干戈，"
         },
         {
-          "character": "遍体排牙说不过、刘瑾",
+          "character": "傅朋",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "竟从玉镯起风波。"
+        },
+        {
+          "character": "傅朋",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "久待青天作定夺。"
+        },
+        {
+          "character": "傅朋",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "遍体排牙说不过"
+        },
+        {
+          "character": "刘瑾",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -1215,10 +1746,31 @@
           "line_type": "西皮快板",
           "musical_style": "西皮快板",
           "style_family": "西皮",
-          "text": "拾玉镯想起终身托，\n夜夜灯下问卜课。\n因此权应一声诺。"
+          "text": "拾玉镯想起终身托，"
         },
         {
-          "character": "问官检验追问我、贾桂",
+          "character": "孙玉姣",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "夜夜灯下问卜课。"
+        },
+        {
+          "character": "孙玉姣",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "因此权应一声诺。"
+        },
+        {
+          "character": "孙玉姣",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "问官检验追问我"
+        },
+        {
+          "character": "贾桂",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -1306,14 +1858,35 @@
           "line_type": "西皮快板",
           "musical_style": "西皮快板",
           "style_family": "西皮",
-          "text": "一心要想结丝罗。\n钢刀一举两个人头落。"
+          "text": "一心要想结丝罗。"
         },
         {
-          "character": "一男一女同床卧、刘瑾",
+          "character": "刘彪",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "钢刀一举两个人头落。"
+        },
+        {
+          "character": "刘彪",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "一男一女同床卧"
+        },
+        {
+          "character": "刘瑾",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "你倒也杀得干净。一刀就杀了两个。\n赵廉，这该问他个什么罪呢？"
+          "text": "你倒也杀得干净。一刀就杀了两个。"
+        },
+        {
+          "character": "刘瑾",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "赵廉，这该问他个什么罪呢？"
         },
         {
           "character": "赵廉",
@@ -1327,7 +1900,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "这就便宜他了。\n武士，将刘彪推出斩首。"
+          "text": "这就便宜他了。"
+        },
+        {
+          "character": "刘瑾",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "武士，将刘彪推出斩首。"
         },
         {
           "character": null,
@@ -1390,17 +1970,38 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "撤！老倭瓜的！你日听王法当乡约，就该把雇工打死井内反告他盗物逃走？难\n道说还有理么？"
+          "text": "撤！老倭瓜的！你日听王法当乡约，就该把雇工打死井内反告他盗物逃走？难"
+        },
+        {
+          "character": "刘瑾",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "道说还有理么？"
         },
         {
           "character": "刘公道",
           "line_type": "西皮快板",
           "musical_style": "西皮快板",
           "style_family": "西皮",
-          "text": "只为人头无下落。\n天网恢恢跑也跑不脱。"
+          "text": "只为人头无下落。"
         },
         {
-          "character": "打死兴儿免后祸、刘瑾",
+          "character": "刘公道",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "天网恢恢跑也跑不脱。"
+        },
+        {
+          "character": "刘公道",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "打死兴儿免后祸"
+        },
+        {
+          "character": "刘瑾",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -1411,14 +2012,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "千岁，此人家有余业，臣将他的产业断与宋门，以赎诓告害命之罪，将他定了\n凌迟。"
+          "text": "千岁，此人家有余业，臣将他的产业断与宋门，以赎诓告害命之罪，将他定了"
+        },
+        {
+          "character": "赵廉",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "凌迟。"
         },
         {
           "character": "刘瑾",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "有了年纪，哪里搁得还住？\n武士推下去杀了！"
+          "text": "有了年纪，哪里搁得还住？"
+        },
+        {
+          "character": "刘瑾",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "武士推下去杀了！"
         },
         {
           "character": null,
@@ -1467,14 +2082,35 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "千岁，始初实与做媒，希图花红。我儿搜出绣鞋，只说他用火烧化。岂料有此\n大祸。"
+          "text": "千岁，始初实与做媒，希图花红。我儿搜出绣鞋，只说他用火烧化。岂料有此"
+        },
+        {
+          "character": "刘媒婆",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "大祸。"
         },
         {
           "character": "刘媒婆",
           "line_type": "西皮快板",
           "musical_style": "西皮快板",
           "style_family": "西皮",
-          "text": "希图花红当媒婆，\n谁想儿子又作恶。\n从今再不当媒婆。"
+          "text": "希图花红当媒婆，"
+        },
+        {
+          "character": "刘媒婆",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "谁想儿子又作恶。"
+        },
+        {
+          "character": "刘媒婆",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "从今再不当媒婆。"
         },
         {
           "character": "刘媒婆",
@@ -1488,10 +2124,38 @@
           "line_type": "西皮快板",
           "musical_style": "西皮快板",
           "style_family": "西皮",
-          "text": "千岁你把我可怜，\n剩我一个守家园。\n学诵真经学参禅。"
+          "text": "千岁你把我可怜，"
         },
         {
-          "character": "小事弄成天大祸、从今不把闲事管、刘瑾",
+          "character": "刘媒婆",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "剩我一个守家园。"
+        },
+        {
+          "character": "刘媒婆",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "学诵真经学参禅。"
+        },
+        {
+          "character": "刘媒婆",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "小事弄成天大祸"
+        },
+        {
+          "character": "刘媒婆",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "从今不把闲事管"
+        },
+        {
+          "character": "刘瑾",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -1530,7 +2194,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "谢过千岁！\n咳，可够了，我再也不敢拉皮条了！"
+          "text": "谢过千岁！"
+        },
+        {
+          "character": "刘媒婆",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "咳，可够了，我再也不敢拉皮条了！"
         },
         {
           "character": null,
@@ -1586,7 +2257,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "正合吾意。\n赵廉，孙玉姣与傅朋为妻，与宋巧姣不分大小，这可也使得么？"
+          "text": "正合吾意。"
+        },
+        {
+          "character": "刘瑾",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "赵廉，孙玉姣与傅朋为妻，与宋巧姣不分大小，这可也使得么？"
         },
         {
           "character": "赵廉",
@@ -1600,7 +2278,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "赵廉，你不该听信乡约刘公道之言，将宋巧姣寄在监中，反追她十两赃银，错\n判此事。你该怎样发落呢？"
+          "text": "赵廉，你不该听信乡约刘公道之言，将宋巧姣寄在监中，反追她十两赃银，错"
+        },
+        {
+          "character": "刘瑾",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "判此事。你该怎样发落呢？"
         },
         {
           "character": "赵廉",
@@ -1614,10 +2299,31 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "告贼情盗物走臣才准下，\n也不得不查访暗把贼拿。\n尊千岁在宝座仔细详查。"
+          "text": "告贼情盗物走臣才准下，"
         },
         {
-          "character": "刘公道生诡计鬼神不晓、刘瑾",
+          "character": "赵廉",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "也不得不查访暗把贼拿。"
+        },
+        {
+          "character": "赵廉",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "尊千岁在宝座仔细详查。"
+        },
+        {
+          "character": "赵廉",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "刘公道生诡计鬼神不晓"
+        },
+        {
+          "character": "刘瑾",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -1656,7 +2362,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "谢千岁天恩！\n咳呀，阿弥陀佛！"
+          "text": "谢千岁天恩！"
+        },
+        {
+          "character": "赵廉",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "咳呀，阿弥陀佛！"
         },
         {
           "character": null,
@@ -1891,7 +2604,17 @@
           "西皮快板",
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.024,
+        0.221,
+        0.7072,
+        0.0718,
+        0.6667,
+        13,
+        0.1768,
+        0.0
+      ]
     }
   ]
 }

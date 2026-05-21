@@ -155,7 +155,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "某，北狄王瞍瞒。孤家每日操练兵将，意欲夺取中原。闻得卫懿公最喜仙鹤，\n不理朝政，军民大乱，趁此机会夺取卫邦。\n众将官，大军齐队，兵发卫国。带马！"
+          "text": "某，北狄王瞍瞒。孤家每日操练兵将，意欲夺取中原。闻得卫懿公最喜仙鹤，"
+        },
+        {
+          "character": "瞍瞒",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "不理朝政，军民大乱，趁此机会夺取卫邦。"
+        },
+        {
+          "character": "瞍瞒",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "众将官，大军齐队，兵发卫国。带马！"
         },
         {
           "character": null,
@@ -173,7 +187,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.2,
+        0.6,
+        0.2,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -212,14 +236,49 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "老夫，弘演。懿公驾前为臣，自先王晏驾，众臣辅佐大王即位，今已九载。不\n想我主，自登基以来，般乐怠傲，不修国政，最爱羽族之中仙鹤，劳民伤财，\n国库空虚，倘若外邦趁此犯境，干戈一起，祸不远矣！今日早朝，待我再奏一\n本，愿大王悔悟前非，改恶从善，乃我邦之幸也。\n中军，带马上朝。"
+          "text": "老夫，弘演。懿公驾前为臣，自先王晏驾，众臣辅佐大王即位，今已九载。不"
+        },
+        {
+          "character": "弘演",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "想我主，自登基以来，般乐怠傲，不修国政，最爱羽族之中仙鹤，劳民伤财，"
+        },
+        {
+          "character": "弘演",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "国库空虚，倘若外邦趁此犯境，干戈一起，祸不远矣！今日早朝，待我再奏一"
+        },
+        {
+          "character": "弘演",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "本，愿大王悔悟前非，改恶从善，乃我邦之幸也。"
+        },
+        {
+          "character": "弘演",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "中军，带马上朝。"
         },
         {
           "character": "弘演",
           "line_type": "西皮流水板",
           "musical_style": "西皮流水板",
           "style_family": "西皮",
-          "text": "先王创业多苦困，\n历尽艰难得太平。"
+          "text": "先王创业多苦困，"
+        },
+        {
+          "character": "弘演",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "历尽艰难得太平。"
         },
         {
           "character": null,
@@ -282,14 +341,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "大王好鹤不理朝政，军民皆有愤恨之心，倘若引起外患，卫国江山难保。因此\n上殿劝大王，修国政、布仁德，以国为重。"
+          "text": "大王好鹤不理朝政，军民皆有愤恨之心，倘若引起外患，卫国江山难保。因此"
+        },
+        {
+          "character": "宁速",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "上殿劝大王，修国政、布仁德，以国为重。"
         },
         {
           "character": "弘演",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "舍身谏奏，乃是臣子之节。只是大王昏愚，不纳忠言。望将军要善言相劝，倘\n若触动圣怒，非但不能悔过，惟恐将军身遭冤狱。"
+          "text": "舍身谏奏，乃是臣子之节。只是大王昏愚，不纳忠言。望将军要善言相劝，倘"
+        },
+        {
+          "character": "弘演",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "若触动圣怒，非但不能悔过，惟恐将军身遭冤狱。"
         },
         {
           "character": "宁速",
@@ -345,49 +418,133 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "臣子谏奏当舍命，\n须要善言慢调停。\n劳而无功枉费心。"
+          "text": "臣子谏奏当舍命，"
         },
         {
-          "character": "倘若触动大王恨、宁速",
+          "character": "弘演",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "须要善言慢调停。"
+        },
+        {
+          "character": "弘演",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "劳而无功枉费心。"
+        },
+        {
+          "character": "弘演",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "倘若触动大王恨"
+        },
+        {
+          "character": "宁速",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
           "text": "大夫啊！"
         },
         {
-          "character": "倘若触动大王恨、宁速",
+          "character": "宁速",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "倘若触动大王恨"
+        },
+        {
+          "character": "宁速",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "大王昏庸乱朝政，\n好鹤失政祸殃民。"
+          "text": "大王昏庸乱朝政，"
         },
         {
-          "character": "倘若触动大王恨、宁速",
+          "character": "宁速",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "好鹤失政祸殃民。"
+        },
+        {
+          "character": "宁速",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "倘若触动大王恨"
+        },
+        {
+          "character": "宁速",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
           "text": "打鹤轩，赶仙鹤，"
         },
         {
-          "character": "倘若触动大王恨、宁速",
+          "character": "宁速",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "倘若触动大王恨"
+        },
+        {
+          "character": "宁速",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
           "text": "重整乾坤。"
         },
         {
-          "character": "舍死忘生抗君命、弘演",
+          "character": "宁速",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "舍死忘生抗君命"
+        },
+        {
+          "character": "弘演",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
           "text": "将军哪！"
         },
         {
-          "character": "舍死忘生抗君命、弘演",
+          "character": "弘演",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "舍死忘生抗君命"
+        },
+        {
+          "character": "弘演",
           "line_type": "西皮垛板",
           "musical_style": "西皮垛板",
           "style_family": "西皮",
-          "text": "宁将军莫要心愤恨，\n要紧守臣节把本呈。\n二整朝纲安抚军民。\n触怒君颜祸临身。"
+          "text": "宁将军莫要心愤恨，"
+        },
+        {
+          "character": "弘演",
+          "line_type": "西皮垛板",
+          "musical_style": "西皮垛板",
+          "style_family": "西皮",
+          "text": "要紧守臣节把本呈。"
+        },
+        {
+          "character": "弘演",
+          "line_type": "西皮垛板",
+          "musical_style": "西皮垛板",
+          "style_family": "西皮",
+          "text": "二整朝纲安抚军民。"
+        },
+        {
+          "character": "弘演",
+          "line_type": "西皮垛板",
+          "musical_style": "西皮垛板",
+          "style_family": "西皮",
+          "text": "触怒君颜祸临身。"
         },
         {
           "character": null,
@@ -478,7 +635,21 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "文武各个把忠尽，\n岂与禽兽让道行。\n我将仙鹤来打定！"
+          "text": "文武各个把忠尽，"
+        },
+        {
+          "character": "宁速",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "岂与禽兽让道行。"
+        },
+        {
+          "character": "宁速",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我将仙鹤来打定！"
         },
         {
           "character": null,
@@ -513,7 +684,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "我打群鹤盼君醒，\n纵然一死留美名。"
+          "text": "我打群鹤盼君醒，"
+        },
+        {
+          "character": "宁速",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "纵然一死留美名。"
         },
         {
           "character": null,
@@ -568,7 +746,17 @@
           "西皮",
           "西皮流水"
         ]
-      }
+      },
+      "scene_feature": [
+        0.148,
+        0.4032,
+        0.5806,
+        0.0161,
+        0.3934,
+        3,
+        0.0968,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -647,7 +835,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "孤，懿公在位。自登基以来，最喜仙鹤，寡人有旨，满朝文武若遇仙鹤须要恭\n敬让道，今当设立早朝。\n内侍，闪放龙门。"
+          "text": "孤，懿公在位。自登基以来，最喜仙鹤，寡人有旨，满朝文武若遇仙鹤须要恭"
+        },
+        {
+          "character": "卫懿公",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "敬让道，今当设立早朝。"
+        },
+        {
+          "character": "卫懿公",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "内侍，闪放龙门。"
         },
         {
           "character": null,
@@ -710,7 +912,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "大王好鹤不理朝政，劳民伤财，如今国库空虚。倘若外邦趁此犯境，卫国江山\n难保，望大王痛改前非，以祖宗社稷为重，臣等之幸也！"
+          "text": "大王好鹤不理朝政，劳民伤财，如今国库空虚。倘若外邦趁此犯境，卫国江山"
+        },
+        {
+          "character": "宁速",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "难保，望大王痛改前非，以祖宗社稷为重，臣等之幸也！"
         },
         {
           "character": "卫懿公",
@@ -724,31 +933,80 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "寡人爱鹤是心愿，\n你抗旨不遵胡乱言。\n定要降罪不容宽。"
+          "text": "寡人爱鹤是心愿，"
         },
         {
-          "character": "竟将仙鹤来打散、宁速",
+          "character": "卫懿公",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "你抗旨不遵胡乱言。"
+        },
+        {
+          "character": "卫懿公",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "定要降罪不容宽。"
+        },
+        {
+          "character": "卫懿公",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "竟将仙鹤来打散"
+        },
+        {
+          "character": "宁速",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
           "text": "大王！"
         },
         {
-          "character": "竟将仙鹤来打散、宁速",
+          "character": "宁速",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "竟将仙鹤来打散"
+        },
+        {
+          "character": "宁速",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "国乱民忧军心散，\n俱是爱鹤起祸端。"
+          "text": "国乱民忧军心散，"
         },
         {
-          "character": "竟将仙鹤来打散、宁速",
+          "character": "宁速",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "俱是爱鹤起祸端。"
+        },
+        {
+          "character": "宁速",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "竟将仙鹤来打散"
+        },
+        {
+          "character": "宁速",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
           "text": "罢！"
         },
         {
-          "character": "竟将仙鹤来打散、宁速",
+          "character": "宁速",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "竟将仙鹤来打散"
+        },
+        {
+          "character": "宁速",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
@@ -811,14 +1069,42 @@
           "text": "将军果然应我言。"
         },
         {
-          "character": "激行定被君王怨、可叹你一腔热血不周全、宁速",
+          "character": "弘演",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "激行定被君王怨"
+        },
+        {
+          "character": "弘演",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "可叹你一腔热血不周全"
+        },
+        {
+          "character": "宁速",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
           "text": "大夫啊！"
         },
         {
-          "character": "激行定被君王怨、可叹你一腔热血不周全、宁速",
+          "character": "宁速",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "激行定被君王怨"
+        },
+        {
+          "character": "宁速",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "可叹你一腔热血不周全"
+        },
+        {
+          "character": "宁速",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
@@ -836,7 +1122,28 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "劝将军莫焦急但把心放宽。\n是非曲直论一番。\n我与你同心协力共整朝班。\n那时节我舍死尽忠在殿前。"
+          "text": "劝将军莫焦急但把心放宽。"
+        },
+        {
+          "character": "弘演",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "是非曲直论一番。"
+        },
+        {
+          "character": "弘演",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我与你同心协力共整朝班。"
+        },
+        {
+          "character": "弘演",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "那时节我舍死尽忠在殿前。"
         },
         {
           "character": null,
@@ -927,7 +1234,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "容奏。周室自我武王伐纣江山一统，至今数百余载，诸侯分争各霸疆土，周惠\n王九年天下大定，我卫邦国富民强，不幸先王晏驾，众臣辅佐大王即位，指望\n定国安邦，谁想大王般乐怠傲，不屑国政，最喜仙鹤荒度岁月，国乱民忧，岂\n不贻笑外邦。亦是臣笑之一也。"
+          "text": "容奏。周室自我武王伐纣江山一统，至今数百余载，诸侯分争各霸疆土，周惠"
+        },
+        {
+          "character": "弘演",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "王九年天下大定，我卫邦国富民强，不幸先王晏驾，众臣辅佐大王即位，指望"
+        },
+        {
+          "character": "弘演",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "定国安邦，谁想大王般乐怠傲，不屑国政，最喜仙鹤荒度岁月，国乱民忧，岂"
+        },
+        {
+          "character": "弘演",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "不贻笑外邦。亦是臣笑之一也。"
         },
         {
           "character": "卫懿公",
@@ -941,7 +1269,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "如今国库空虚，军将亏欠俸银，百姓饥困流离，国家如此惶恐，大王还传旨意，\n所畜仙鹤均以三等品位俸禄，如此千乘之国不以军民为重，为好鹤而失军民\n之心，岂不被他邦耻笑，也是臣之二笑。"
+          "text": "如今国库空虚，军将亏欠俸银，百姓饥困流离，国家如此惶恐，大王还传旨意，"
+        },
+        {
+          "character": "弘演",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "所畜仙鹤均以三等品位俸禄，如此千乘之国不以军民为重，为好鹤而失军民"
+        },
+        {
+          "character": "弘演",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "之心，岂不被他邦耻笑，也是臣之二笑。"
         },
         {
           "character": "卫懿公",
@@ -955,28 +1297,84 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "这三笑，宁速将军忠言谏奏，大王不听，反将宁速将军斩首，大王不识贤愚，\n不辨是非，不纳忠言，不顾宗庙社稷，乃是臣之三笑也！"
+          "text": "这三笑，宁速将军忠言谏奏，大王不听，反将宁速将军斩首，大王不识贤愚，"
+        },
+        {
+          "character": "弘演",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "不辨是非，不纳忠言，不顾宗庙社稷，乃是臣之三笑也！"
         },
         {
           "character": "弘演",
           "line_type": "西皮二六板",
           "musical_style": "西皮二六板",
           "style_family": "西皮",
-          "text": "三笑情由奏君上，\n看大王怎样论短长。"
+          "text": "三笑情由奏君上，"
         },
         {
-          "character": "俏若他不听忠言定斩忠良将、我胸有成竹另作主张、卫懿公",
+          "character": "弘演",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "看大王怎样论短长。"
+        },
+        {
+          "character": "弘演",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "俏若他不听忠言定斩忠良将"
+        },
+        {
+          "character": "弘演",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "我胸有成竹另作主张"
+        },
+        {
+          "character": "卫懿公",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
           "text": "卿家呀！"
         },
         {
-          "character": "俏若他不听忠言定斩忠良将、我胸有成竹另作主张、卫懿公",
+          "character": "卫懿公",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "俏若他不听忠言定斩忠良将"
+        },
+        {
+          "character": "卫懿公",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我胸有成竹另作主张"
+        },
+        {
+          "character": "卫懿公",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "寡人何曾失民望，\n养些仙鹤有何妨。\n定斩宁速正朝纲。"
+          "text": "寡人何曾失民望，"
+        },
+        {
+          "character": "卫懿公",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "养些仙鹤有何妨。"
+        },
+        {
+          "character": "卫懿公",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "定斩宁速正朝纲。"
         },
         {
           "character": null,
@@ -1011,7 +1409,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "眼看江山不久长。\n为臣无颜伴君王。"
+          "text": "眼看江山不久长。"
+        },
+        {
+          "character": "弘演",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "为臣无颜伴君王。"
         },
         {
           "character": "弘演",
@@ -1137,7 +1542,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "前者为臣有本，固守边疆，防止北狄侵犯，大王置若罔闻，今已成患，咳！只\n好御驾亲征，命人挂帅，以救黎民，不然恐卫国难保。"
+          "text": "前者为臣有本，固守边疆，防止北狄侵犯，大王置若罔闻，今已成患，咳！只"
+        },
+        {
+          "character": "弘演",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "好御驾亲征，命人挂帅，以救黎民，不然恐卫国难保。"
         },
         {
           "character": "卫懿公",
@@ -1186,7 +1598,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "仙鹤焉能去打仗，\n卿家挂帅保家邦。"
+          "text": "仙鹤焉能去打仗，"
+        },
+        {
+          "character": "卫懿公",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "卿家挂帅保家邦。"
         },
         {
           "character": "弘演",
@@ -1200,7 +1619,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "保国家全仗你领兵带将，\n征北狄奏凯归再整朝纲。"
+          "text": "保国家全仗你领兵带将，"
+        },
+        {
+          "character": "弘演",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "征北狄奏凯归再整朝纲。"
         },
         {
           "character": "卫懿公",
@@ -1256,7 +1682,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "就请大王把旨降，\n为臣修好到陈邦。"
+          "text": "就请大王把旨降，"
+        },
+        {
+          "character": "弘演",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "为臣修好到陈邦。"
         },
         {
           "character": "卫懿公",
@@ -1345,7 +1778,17 @@
         "musical_styles": [
           "西皮二六"
         ]
-      }
+      },
+      "scene_feature": [
+        0.118,
+        0.3874,
+        0.6036,
+        0.009,
+        0.3818,
+        5,
+        0.036,
+        0.0
+      ]
     },
     {
       "scene_index": 4,
@@ -1379,7 +1822,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "某，宁建通。只因北狄兵犯边界，奉元帅之命，校场点动人马，人马点齐，远\n远望见元帅来也。"
+          "text": "某，宁建通。只因北狄兵犯边界，奉元帅之命，校场点动人马，人马点齐，远"
+        },
+        {
+          "character": "宁建通",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "远望见元帅来也。"
         },
         {
           "character": null,
@@ -1554,14 +2004,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "众甲士，你等休要自乱，此番出征，军饷已备，粮草充足，努力战败狄军，孤\n是重重有赏！"
+          "text": "众甲士，你等休要自乱，此番出征，军饷已备，粮草充足，努力战败狄军，孤"
+        },
+        {
+          "character": "卫懿公",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "是重重有赏！"
         },
         {
           "character": "甲士甲",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "大王每日好鹤，厚敛于民，以充鹤粮，我等俱受痛楚，如今叫我们前去杀狄，\n我们不愿前往，你叫那仙鹤将军替你打仗去吧！"
+          "text": "大王每日好鹤，厚敛于民，以充鹤粮，我等俱受痛楚，如今叫我们前去杀狄，"
+        },
+        {
+          "character": "甲士甲",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我们不愿前往，你叫那仙鹤将军替你打仗去吧！"
         },
         {
           "character": null,
@@ -1582,7 +2046,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "行至中途军心变，\n口口声声出怨言。"
+          "text": "行至中途军心变，"
+        },
+        {
+          "character": "卫懿公",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "口口声声出怨言。"
         },
         {
           "character": "卫懿公",
@@ -1596,7 +2067,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "望卿看在先王面，\n善言安抚保江山。"
+          "text": "望卿看在先王面，"
+        },
+        {
+          "character": "卫懿公",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "善言安抚保江山。"
         },
         {
           "character": "宁速",
@@ -1652,7 +2130,35 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "众甲士，大王荒废国政，致使军民不安，如今北狄王兵临城下，你等要以国家\n为重，振起军威，奋勇杀敌，保守国土，倘若不一各自离散，卫国必亡。那时\n节我们国在哪里？家又在何处？听我相劝，只有先去杀敌，然后回朝再整朝纲。\n俺宁速愿身先士卒，为国捐躯，死而无怨。你等再若不从，你来看，俺宁速\n跪下了！"
+          "text": "众甲士，大王荒废国政，致使军民不安，如今北狄王兵临城下，你等要以国家"
+        },
+        {
+          "character": "宁速",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "为重，振起军威，奋勇杀敌，保守国土，倘若不一各自离散，卫国必亡。那时"
+        },
+        {
+          "character": "宁速",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "节我们国在哪里？家又在何处？听我相劝，只有先去杀敌，然后回朝再整朝纲。"
+        },
+        {
+          "character": "宁速",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "俺宁速愿身先士卒，为国捐躯，死而无怨。你等再若不从，你来看，俺宁速"
+        },
+        {
+          "character": "宁速",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "跪下了！"
         },
         {
           "character": null,
@@ -1793,7 +2299,17 @@
         "singing_ratio": 0.067,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.067,
+        0.1333,
+        0.8444,
+        0.0222,
+        0.5455,
+        7,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 5,
@@ -1853,7 +2369,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "且慢！北狄人马犹如潮水一般，若是开城，贼兵攻入那还了得，望大夫转奏大\n王，阵前军心已乱，四散逃生，大势已去。公等速速保护大王逃奔他国再图后\n举，俺宁速以死报国也！"
+          "text": "且慢！北狄人马犹如潮水一般，若是开城，贼兵攻入那还了得，望大夫转奏大"
+        },
+        {
+          "character": "宁速",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "王，阵前军心已乱，四散逃生，大势已去。公等速速保护大王逃奔他国再图后"
+        },
+        {
+          "character": "宁速",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "举，俺宁速以死报国也！"
         },
         {
           "character": "宁速",
@@ -2035,7 +2565,17 @@
         "singing_ratio": 0.308,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.308,
+        0.3684,
+        0.6316,
+        0.0,
+        0.5,
+        5,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 6,
@@ -2089,7 +2629,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 7,
@@ -2348,7 +2898,17 @@
           "西皮快板",
           "西皮散板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.111,
+        0.15,
+        0.85,
+        0.0,
+        0.5789,
+        3,
+        0.1,
+        0.0
+      ]
     },
     {
       "scene_index": 8,
@@ -2534,7 +3094,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.8824,
+        0.1176,
+        1.0,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 9,
@@ -2647,7 +3217,17 @@
         "singing_ratio": 0.833,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.833,
+        0.8571,
+        0.1429,
+        0.0,
+        0.5,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 10,
@@ -2932,7 +3512,17 @@
           "二黄原板",
           "二黄导板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.235,
+        0.2857,
+        0.7143,
+        0.0,
+        0.7,
+        4,
+        0.0,
+        0.0952
+      ]
     }
   ]
 }

@@ -394,7 +394,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "今早边关守将报来：阳城以外山戎国，因闻听太子申生被杀，甚有不服晋国之\n意，带兵占了阳城。少时大王临朝，你我大家一同奏明此事。"
+          "text": "今早边关守将报来：阳城以外山戎国，因闻听太子申生被杀，甚有不服晋国之"
+        },
+        {
+          "character": "荀息",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "意，带兵占了阳城。少时大王临朝，你我大家一同奏明此事。"
         },
         {
           "character": "东关五",
@@ -457,7 +464,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "寡人何尝不想将山戎杀退！只是晋国武将大半上了年纪，恐难取胜，反叫山戎\n耻笑于我。若要发兵，先要选拔武将。就命卿家设立招贤馆，考取能为出众的\n武将，以便出征与山戎一战，务必旗开得胜，马到成功。"
+          "text": "寡人何尝不想将山戎杀退！只是晋国武将大半上了年纪，恐难取胜，反叫山戎"
+        },
+        {
+          "character": "晋献公",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "耻笑于我。若要发兵，先要选拔武将。就命卿家设立招贤馆，考取能为出众的"
+        },
+        {
+          "character": "晋献公",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "武将，以便出征与山戎一战，务必旗开得胜，马到成功。"
         },
         {
           "character": "东关五",
@@ -471,7 +492,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "这招贤之事寡人已派了东关五前去办理。待等招贤齐备，即刻发兵。但不知众\n卿之中，何人愿意挂帅，讨伐山戎？"
+          "text": "这招贤之事寡人已派了东关五前去办理。待等招贤齐备，即刻发兵。但不知众"
+        },
+        {
+          "character": "晋献公",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "卿之中，何人愿意挂帅，讨伐山戎？"
         },
         {
           "character": "里克",
@@ -485,7 +513,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "如此，就命卿家挂帅，去到营中，挑选精壮人马。待等招贤齐备，即日出兵。\n退班！"
+          "text": "如此，就命卿家挂帅，去到营中，挑选精壮人马。待等招贤齐备，即日出兵。"
+        },
+        {
+          "character": "晋献公",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "退班！"
         },
         {
           "character": null,
@@ -582,7 +617,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0357,
+        0.9643,
+        0.0,
+        0.8148,
+        7,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -619,17 +664,66 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "老身，介母。配夫介廉，乃晋国名士，不幸早年下世。留下孤儿介子推承欢膝\n下。又因家道清贫，全仗老身织布纺线，苦度光阴。如今介子推已经三十二岁，\n倒也学成文武全才。只是无人在晋侯驾前保荐，故而还在为民，未能得到一\n官半职，不能与国家出力报效。是他深以为耻，老身也未免有些闷闷不乐。只\n好待等时运到来，或有出头之日也！"
+          "text": "老身，介母。配夫介廉，乃晋国名士，不幸早年下世。留下孤儿介子推承欢膝"
+        },
+        {
+          "character": "介母",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "下。又因家道清贫，全仗老身织布纺线，苦度光阴。如今介子推已经三十二岁，"
+        },
+        {
+          "character": "介母",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "倒也学成文武全才。只是无人在晋侯驾前保荐，故而还在为民，未能得到一"
+        },
+        {
+          "character": "介母",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "官半职，不能与国家出力报效。是他深以为耻，老身也未免有些闷闷不乐。只"
+        },
+        {
+          "character": "介母",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "好待等时运到来，或有出头之日也！"
         },
         {
           "character": "介母",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "遭不幸儿的父早年命丧，\n抛下了我母子苦度时光。\n为的是立贤名万古流芳。"
+          "text": "遭不幸儿的父早年命丧，"
         },
         {
-          "character": "教我儿学文武将来有望、介子推",
+          "character": "介母",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "抛下了我母子苦度时光。"
+        },
+        {
+          "character": "介母",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "为的是立贤名万古流芳。"
+        },
+        {
+          "character": "介母",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "教我儿学文武将来有望"
+        },
+        {
+          "character": "介子推",
           "line_type": "内白",
           "musical_style": null,
           "style_family": null,
@@ -647,14 +741,28 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "有晋侯选人材招贤挂榜，\n因此上回家转禀告高堂。"
+          "text": "有晋侯选人材招贤挂榜，"
+        },
+        {
+          "character": "介子推",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "因此上回家转禀告高堂。"
         },
         {
           "character": "介子推",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "卑人，介子推。适才在大街之上，见晋侯挂榜招贤，考取人材。看来我有了出\n头之日了。不免急速回家，禀报母亲知道便了。"
+          "text": "卑人，介子推。适才在大街之上，见晋侯挂榜招贤，考取人材。看来我有了出"
+        },
+        {
+          "character": "介子推",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "头之日了。不免急速回家，禀报母亲知道便了。"
         },
         {
           "character": null,
@@ -682,14 +790,35 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "告坐。啊母亲，晋侯只为征讨山戎，挂榜招贤。孩儿意欲报名投效，不知母亲\n可容儿前去？"
+          "text": "告坐。啊母亲，晋侯只为征讨山戎，挂榜招贤。孩儿意欲报名投效，不知母亲"
+        },
+        {
+          "character": "介子推",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "可容儿前去？"
         },
         {
           "character": "介母",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "我儿哪里话来！大丈夫志在四方。学成文武之才，原为报效国家。如今晋侯既\n是为了讨伐山戎，挂榜招贤，想是正在用人，理当前去为国效劳。但不知我儿\n何时前去？"
+          "text": "我儿哪里话来！大丈夫志在四方。学成文武之才，原为报效国家。如今晋侯既"
+        },
+        {
+          "character": "介母",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "是为了讨伐山戎，挂榜招贤，想是正在用人，理当前去为国效劳。但不知我儿"
+        },
+        {
+          "character": "介母",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "何时前去？"
         },
         {
           "character": "介子推",
@@ -703,7 +832,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "如此甚好。为娘已将粗茶淡饭做好，随为娘到后边吃用一些，待等明日投效便\n了。正是："
+          "text": "如此甚好。为娘已将粗茶淡饭做好，随为娘到后边吃用一些，待等明日投效便"
+        },
+        {
+          "character": "介母",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "了。正是："
         },
         {
           "character": "介母",
@@ -748,7 +884,17 @@
         "singing_ratio": 0.111,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.111,
+        0.25,
+        0.6429,
+        0.1071,
+        0.2593,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -796,7 +942,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "招贤榜文已然在各处张挂出去。今日乃收录投效之期。你在辕门以外等候，有\n报名之人，将他等带来见我。"
+          "text": "招贤榜文已然在各处张挂出去。今日乃收录投效之期。你在辕门以外等候，有"
+        },
+        {
+          "character": "东关五",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "报名之人，将他等带来见我。"
         },
         {
           "character": "校尉",
@@ -950,7 +1103,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "倒也使得。站立一旁！\n任文翰，你呢？"
+          "text": "倒也使得。站立一旁！"
+        },
+        {
+          "character": "东关五",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "任文翰，你呢？"
         },
         {
           "character": "任文翰",
@@ -985,7 +1145,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "站立一旁！\n祁俊一，你会用什么兵器？"
+          "text": "站立一旁！"
+        },
+        {
+          "character": "东关五",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "祁俊一，你会用什么兵器？"
         },
         {
           "character": "祁俊一",
@@ -1020,7 +1187,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "站在一旁！\n介子推，你会使什么兵器？"
+          "text": "站在一旁！"
+        },
+        {
+          "character": "东关五",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "介子推，你会使什么兵器？"
         },
         {
           "character": "介子推",
@@ -1041,7 +1215,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "非也！三位所练，皆是些皮毛俗套，一旦上阵，恐其有失。卑人故而一时失言\n说出，三位休得见怪！"
+          "text": "非也！三位所练，皆是些皮毛俗套，一旦上阵，恐其有失。卑人故而一时失言"
+        },
+        {
+          "character": "介子推",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "说出，三位休得见怪！"
         },
         {
           "character": "刘竞生、任文翰、祁俊一",
@@ -1062,7 +1243,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "你四人不必口舌争论。国家正在用人，拔求真才。你们只管在我面前比试武艺\n高下。如果能为出众，我一定大大的保举你们。只管比试上来！"
+          "text": "你四人不必口舌争论。国家正在用人，拔求真才。你们只管在我面前比试武艺"
+        },
+        {
+          "character": "东关五",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "高下。如果能为出众，我一定大大的保举你们。只管比试上来！"
         },
         {
           "character": "介子推",
@@ -1090,10 +1278,24 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "当堂奉命比武艺，\n较量雌雄论高低。"
+          "text": "当堂奉命比武艺，"
         },
         {
-          "character": "不慌不忙当场立、祁俊一",
+          "character": "介子推",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "较量雌雄论高低。"
+        },
+        {
+          "character": "介子推",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "不慌不忙当场立"
+        },
+        {
+          "character": "祁俊一",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -1153,7 +1355,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "落花流水皆倒地，\n大人在上看端的！"
+          "text": "落花流水皆倒地，"
+        },
+        {
+          "character": "介子推",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "大人在上看端的！"
         },
         {
           "character": "介子推",
@@ -1167,7 +1376,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "介子推果然本领出众，武艺高强。他三人虽然不及于你，也从宽收录就是。待\n我明日办理文书，再送你等去到里元帅营中，必有重用。你们回去等候便了！"
+          "text": "介子推果然本领出众，武艺高强。他三人虽然不及于你，也从宽收录就是。待"
+        },
+        {
+          "character": "东关五",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我明日办理文书，再送你等去到里元帅营中，必有重用。你们回去等候便了！"
         },
         {
           "character": "刘竞生、任文翰、祁俊一、介子推",
@@ -1261,7 +1477,17 @@
         "singing_ratio": 0.089,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.089,
+        0.1379,
+        0.8448,
+        0.0172,
+        0.7018,
+        8,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 4,
@@ -1285,7 +1511,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "吾乃山戎元帅万方是也。只因晋侯无道，杀了世子申生，自称霸主。我国大王\n有些不服，今乘阳城空虚，命我带兵取了阳城，观看晋国动静。只是过了一月\n光景，不见晋国派兵到来，不知是何缘故？我已派人前去打探消息，至今未见\n回报。"
+          "text": "吾乃山戎元帅万方是也。只因晋侯无道，杀了世子申生，自称霸主。我国大王"
+        },
+        {
+          "character": "万方",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "有些不服，今乘阳城空虚，命我带兵取了阳城，观看晋国动静。只是过了一月"
+        },
+        {
+          "character": "万方",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "光景，不见晋国派兵到来，不知是何缘故？我已派人前去打探消息，至今未见"
+        },
+        {
+          "character": "万方",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "回报。"
         },
         {
           "character": "报子",
@@ -1341,7 +1588,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "想这阳城之地，乃是孤城一座，易攻不易守。倘若晋兵到来，将城围困，有些\n不妙。倒不如将人马调出城外，离城三十里安营下寨，迎头截住晋军去路，等\n他们到来，一决雌雄。\n众将官！"
+          "text": "想这阳城之地，乃是孤城一座，易攻不易守。倘若晋兵到来，将城围困，有些"
+        },
+        {
+          "character": "万方",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "不妙。倒不如将人马调出城外，离城三十里安营下寨，迎头截住晋军去路，等"
+        },
+        {
+          "character": "万方",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "他们到来，一决雌雄。"
+        },
+        {
+          "character": "万方",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "众将官！"
         },
         {
           "character": "四下手、四番将",
@@ -1362,7 +1630,28 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "三军与爷出城外，\n咽喉要路去安排。\n待等晋军会战来。\n马到成功显奇才。"
+          "text": "三军与爷出城外，"
+        },
+        {
+          "character": "万方",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "咽喉要路去安排。"
+        },
+        {
+          "character": "万方",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "待等晋军会战来。"
+        },
+        {
+          "character": "万方",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "马到成功显奇才。"
         },
         {
           "character": null,
@@ -1401,7 +1690,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.2105,
+        0.7368,
+        0.0526,
+        0.3333,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 5,
@@ -1525,7 +1824,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "元帅奉旨夺取阳城，来到阳城交界，歇兵三日，以便临敌。今日期满。少刻元\n帅升帐，你我两厢伺候！"
+          "text": "元帅奉旨夺取阳城，来到阳城交界，歇兵三日，以便临敌。今日期满。少刻元"
+        },
+        {
+          "character": "介子推",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "帅升帐，你我两厢伺候！"
         },
         {
           "character": "刘竞生、任文翰、祁俊一",
@@ -1581,7 +1887,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "本帅，里克。只因山戎占取阳城，大王命我挂帅出征。出离朝门已经数日，来\n此已是阳城边界。也曾命人探听山戎虚实，但听一报！"
+          "text": "本帅，里克。只因山戎占取阳城，大王命我挂帅出征。出离朝门已经数日，来"
+        },
+        {
+          "character": "里克",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "此已是阳城边界。也曾命人探听山戎虚实，但听一报！"
         },
         {
           "character": "报子",
@@ -1602,7 +1915,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "启禀元帅：那山戎人马不在城中，调在离城三十里之外咽喉要路，扎下营寨，\n阻住我军去路。离此不远，就是山戎营寨。特来报知！"
+          "text": "启禀元帅：那山戎人马不在城中，调在离城三十里之外咽喉要路，扎下营寨，"
+        },
+        {
+          "character": "报子",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "阻住我军去路。离此不远，就是山戎营寨。特来报知！"
         },
         {
           "character": "里克",
@@ -1724,7 +2044,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0323,
+        0.8065,
+        0.1613,
+        0.8333,
+        8,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 6,
@@ -1847,7 +2177,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "末将闻人传说，山戎用兵最诈。今日败阵，夜晚必来偷营劫寨，不可不防。我\n们可将空营一座，虚插旌旗，暗将人马调出，四面埋伏。待他们杀入空营之时，\n我等四面杀出，自然一战成功，杀他个片甲不归。"
+          "text": "末将闻人传说，山戎用兵最诈。今日败阵，夜晚必来偷营劫寨，不可不防。我"
+        },
+        {
+          "character": "介子推",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "们可将空营一座，虚插旌旗，暗将人马调出，四面埋伏。待他们杀入空营之时，"
+        },
+        {
+          "character": "介子推",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我等四面杀出，自然一战成功，杀他个片甲不归。"
         },
         {
           "character": "里克",
@@ -1910,7 +2254,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.875,
+        5,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 7,
@@ -1935,7 +2289,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "来此已是晋军营垒。里面毫无动静，想是大家睡熟，未曾准备。此时不杀将进\n去，等待何时？\n众将官，杀！"
+          "text": "来此已是晋军营垒。里面毫无动静，想是大家睡熟，未曾准备。此时不杀将进"
+        },
+        {
+          "character": "万方",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "去，等待何时？"
+        },
+        {
+          "character": "万方",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "众将官，杀！"
         },
         {
           "character": "四下手、四番将",
@@ -2028,7 +2396,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.5714,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 8,
@@ -2552,7 +2930,17 @@
         "singing_ratio": 0.064,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.064,
+        0.1,
+        0.86,
+        0.04,
+        0.7959,
+        6,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 9,
@@ -3147,7 +3535,17 @@
         "musical_styles": [
           "四平调"
         ]
-      }
+      },
+      "scene_feature": [
+        0.035,
+        0.0909,
+        0.8485,
+        0.0606,
+        0.8308,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 10,
@@ -3398,7 +3796,17 @@
         "singing_ratio": 0.12,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.12,
+        0.1111,
+        0.8889,
+        0.0,
+        0.8462,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 11,
@@ -3590,7 +3998,17 @@
         "singing_ratio": 0.071,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.071,
+        0.0667,
+        0.9333,
+        0.0,
+        0.6429,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 12,
@@ -3630,7 +4048,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 13,
@@ -3670,7 +4098,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 14,
@@ -3855,7 +4293,17 @@
         "singing_ratio": 0.056,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.056,
+        0.0526,
+        0.9474,
+        0.0,
+        0.9444,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 15,
@@ -4055,7 +4503,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.9474,
+        0.0526,
+        0.9444,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 16,
@@ -4143,7 +4601,17 @@
         "singing_ratio": 0.2,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.2,
+        0.2,
+        0.8,
+        0.0,
+        0.5,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 17,
@@ -4247,7 +4715,17 @@
         "singing_ratio": 0.167,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.167,
+        0.1667,
+        0.8333,
+        0.0,
+        0.8,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 18,
@@ -4301,7 +4779,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 19,
@@ -4425,7 +4913,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.8571,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 20,
@@ -4577,7 +5075,17 @@
         "singing_ratio": 0.125,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.125,
+        0.1111,
+        0.8889,
+        0.0,
+        0.5,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 21,
@@ -4692,7 +5200,17 @@
         "singing_ratio": 0.333,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.333,
+        0.4,
+        0.6,
+        0.0,
+        0.7778,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 22,
@@ -4717,7 +5235,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "自那日斩申生心中烦闷，\n这几日染重病无有精神。"
+          "text": "自那日斩申生心中烦闷，"
+        },
+        {
+          "character": "晋献公",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "这几日染重病无有精神。"
         },
         {
           "character": null,
@@ -4752,7 +5277,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "大王，现有奚齐乃是妾身所生，大王若不立他为东宫世子，将来他人登基，焉\n有我母子的性命？大王若不立他，妾身情愿就此死在大王眼前哪！"
+          "text": "大王，现有奚齐乃是妾身所生，大王若不立他为东宫世子，将来他人登基，焉"
+        },
+        {
+          "character": "骊姬",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "有我母子的性命？大王若不立他，妾身情愿就此死在大王眼前哪！"
         },
         {
           "character": null,
@@ -4766,7 +5298,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "哎，御妻你休得如此。寡人何尝不愿立奚齐为东宫世子？只是他年纪尚幼，无\n人扶保，也是枉然！"
+          "text": "哎，御妻你休得如此。寡人何尝不愿立奚齐为东宫世子？只是他年纪尚幼，无"
+        },
+        {
+          "character": "晋献公",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "人扶保，也是枉然！"
         },
         {
           "character": "骊姬",
@@ -4857,7 +5396,14 @@
           "line_type": "同白",
           "musical_style": null,
           "style_family": null,
-          "text": "千千岁！\n大王宣臣等进宫，有何圣谕？"
+          "text": "千千岁！"
+        },
+        {
+          "character": "东关五、梁五",
+          "line_type": "同白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "大王宣臣等进宫，有何圣谕？"
         },
         {
           "character": "晋献公",
@@ -4965,7 +5511,17 @@
         "singing_ratio": 0.056,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.056,
+        0.1364,
+        0.7727,
+        0.0909,
+        0.7619,
+        6,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 23,
@@ -5294,7 +5850,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.9655,
+        0.0345,
+        0.9286,
+        5,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 24,
@@ -5616,7 +6182,17 @@
         "singing_ratio": 0.091,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.091,
+        0.1481,
+        0.8519,
+        0.0,
+        0.7308,
+        8,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 25,
@@ -5985,7 +6561,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.9091,
+        0.0909,
+        0.875,
+        6,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 26,
@@ -6321,7 +6907,17 @@
         "singing_ratio": 0.125,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.125,
+        0.1667,
+        0.8333,
+        0.0,
+        0.5862,
+        5,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 27,
@@ -6708,7 +7304,17 @@
         "singing_ratio": 0.031,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.031,
+        0.0811,
+        0.8919,
+        0.027,
+        0.7778,
+        5,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 28,
@@ -6755,7 +7361,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.5,
+        0.5,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 29,
@@ -6922,7 +7538,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.9231,
+        0.0769,
+        0.8333,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 30,
@@ -7339,7 +7965,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0278,
+        0.8333,
+        0.1389,
+        0.9143,
+        6,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 31,
@@ -7602,7 +8238,17 @@
         "singing_ratio": 0.048,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.048,
+        0.0455,
+        0.9091,
+        0.0455,
+        0.9048,
+        5,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 32,
@@ -7785,7 +8431,17 @@
         "singing_ratio": 0.25,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.25,
+        0.2308,
+        0.7692,
+        0.0,
+        0.75,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 33,
@@ -8223,7 +8879,17 @@
         "singing_ratio": 0.051,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.051,
+        0.05,
+        0.95,
+        0.0,
+        0.9231,
+        8,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 34,
@@ -8678,7 +9344,17 @@
         "singing_ratio": 0.028,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.028,
+        0.0526,
+        0.9474,
+        0.0,
+        0.8919,
+        8,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 35,
@@ -8877,7 +9553,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0667,
+        0.9333,
+        0.0,
+        0.8571,
+        4,
+        0.0,
+        0.0
+      ]
     }
   ]
 }

@@ -168,7 +168,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "小王，朱文逊。叔父朱元璋，称号吴王，南京即位，小王奉叔王之命，把守采\n石矶头，坐镇太平。可恨陈友谅打来战表，夺取太平，城中兵寡将少，难以抵\n挡，不免宣上花爱卿，商议用兵之计。\n内侍！"
+          "text": "小王，朱文逊。叔父朱元璋，称号吴王，南京即位，小王奉叔王之命，把守采"
+        },
+        {
+          "character": "朱文逊",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "石矶头，坐镇太平。可恨陈友谅打来战表，夺取太平，城中兵寡将少，难以抵"
+        },
+        {
+          "character": "朱文逊",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "挡，不免宣上花爱卿，商议用兵之计。"
+        },
+        {
+          "character": "朱文逊",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "内侍！"
         },
         {
           "character": "太监甲",
@@ -189,7 +210,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "遵旨。\n千岁有旨，花云上殿！"
+          "text": "遵旨。"
+        },
+        {
+          "character": "太监甲",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "千岁有旨，花云上殿！"
         },
         {
           "character": "花云",
@@ -259,7 +287,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "既是反贼陈友谅攻打采石矶头，主公带领人马埋伏闸子口，以弓箭当先。为臣\n带领人马杀奔江心，哪怕此贼不灭？"
+          "text": "既是反贼陈友谅攻打采石矶头，主公带领人马埋伏闸子口，以弓箭当先。为臣"
+        },
+        {
+          "character": "花云",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "带领人马杀奔江心，哪怕此贼不灭？"
         },
         {
           "character": "朱文逊",
@@ -322,7 +357,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0435,
+        0.7826,
+        0.1739,
+        0.5455,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -389,14 +434,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "二位夫人有所不知，可恨反贼陈友谅，领兵夺取太平城，千岁命我回府披挂，\n埋伏闸子口，只是采石矶头缺一能将，故而烦恼！"
+          "text": "二位夫人有所不知，可恨反贼陈友谅，领兵夺取太平城，千岁命我回府披挂，"
+        },
+        {
+          "character": "花云",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "埋伏闸子口，只是采石矶头缺一能将，故而烦恼！"
         },
         {
           "character": "花夫人、花孙氏",
           "line_type": "同白",
           "musical_style": null,
           "style_family": null,
-          "text": "食王爵禄，当报皇恩，何言烦恼二字？就请老爷后堂披挂，待我等替老爷点动\n人马，准备出战。"
+          "text": "食王爵禄，当报皇恩，何言烦恼二字？就请老爷后堂披挂，待我等替老爷点动"
+        },
+        {
+          "character": "花夫人、花孙氏",
+          "line_type": "同白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "人马，准备出战。"
         },
         {
           "character": "花云",
@@ -466,7 +525,21 @@
           "line_type": "二黄原板",
           "musical_style": "二黄原板",
           "style_family": "二黄",
-          "text": "叫一声众将官细听分明：\n千岁爷命老爷前去出征。\n退后者犯军令插箭游营。"
+          "text": "叫一声众将官细听分明："
+        },
+        {
+          "character": "花夫人",
+          "line_type": "二黄原板",
+          "musical_style": "二黄原板",
+          "style_family": "二黄",
+          "text": "千岁爷命老爷前去出征。"
+        },
+        {
+          "character": "花夫人",
+          "line_type": "二黄原板",
+          "musical_style": "二黄原板",
+          "style_family": "二黄",
+          "text": "退后者犯军令插箭游营。"
         },
         {
           "character": "花夫人",
@@ -494,21 +567,56 @@
           "line_type": "二黄散板",
           "musical_style": "二黄散板",
           "style_family": "二黄",
-          "text": "为大将临阵时哪顾得残生。\n有劳夫人点雄兵。"
-        },
-        {
-          "character": "撩铠甲且把二堂进、花夫人",
-          "line_type": "二黄散板",
-          "musical_style": "二黄散板",
-          "style_family": "二黄",
-          "text": "人来看过酒一樽，\n旗开得胜早回程。"
+          "text": "为大将临阵时哪顾得残生。"
         },
         {
           "character": "花云",
           "line_type": "二黄散板",
           "musical_style": "二黄散板",
           "style_family": "二黄",
-          "text": "接过夫人得胜饮，\n背转身来祭神灵。\n但愿此去扫荡烟尘。"
+          "text": "有劳夫人点雄兵。"
+        },
+        {
+          "character": "花云",
+          "line_type": "二黄散板",
+          "musical_style": "二黄散板",
+          "style_family": "二黄",
+          "text": "撩铠甲且把二堂进"
+        },
+        {
+          "character": "花夫人",
+          "line_type": "二黄散板",
+          "musical_style": "二黄散板",
+          "style_family": "二黄",
+          "text": "人来看过酒一樽，"
+        },
+        {
+          "character": "花夫人",
+          "line_type": "二黄散板",
+          "musical_style": "二黄散板",
+          "style_family": "二黄",
+          "text": "旗开得胜早回程。"
+        },
+        {
+          "character": "花云",
+          "line_type": "二黄散板",
+          "musical_style": "二黄散板",
+          "style_family": "二黄",
+          "text": "接过夫人得胜饮，"
+        },
+        {
+          "character": "花云",
+          "line_type": "二黄散板",
+          "musical_style": "二黄散板",
+          "style_family": "二黄",
+          "text": "背转身来祭神灵。"
+        },
+        {
+          "character": "花云",
+          "line_type": "二黄散板",
+          "musical_style": "二黄散板",
+          "style_family": "二黄",
+          "text": "但愿此去扫荡烟尘。"
         },
         {
           "character": null,
@@ -569,7 +677,17 @@
           "二黄导板",
           "二黄散板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.2,
+        0.4643,
+        0.3929,
+        0.1429,
+        0.4815,
+        5,
+        0.0,
+        0.4643
+      ]
     },
     {
       "scene_index": 3,
@@ -592,7 +710,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "俺，陈友杰。奉了兄王之命，攻打采石矶头。\n众将官，杀！"
+          "text": "俺，陈友杰。奉了兄王之命，攻打采石矶头。"
+        },
+        {
+          "character": "陈友杰",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "众将官，杀！"
         },
         {
           "character": null,
@@ -606,21 +731,56 @@
           "line_type": "二黄散板",
           "musical_style": "二黄散板",
           "style_family": "二黄",
-          "text": "一见贼子怒气发，\n不由老爷咬龈牙。\n把尔当作井底蛙。"
+          "text": "一见贼子怒气发，"
         },
         {
-          "character": "我主爷洪福齐天大、陈友杰",
+          "character": "花云",
+          "line_type": "二黄散板",
+          "musical_style": "二黄散板",
+          "style_family": "二黄",
+          "text": "不由老爷咬龈牙。"
+        },
+        {
+          "character": "花云",
+          "line_type": "二黄散板",
+          "musical_style": "二黄散板",
+          "style_family": "二黄",
+          "text": "把尔当作井底蛙。"
+        },
+        {
+          "character": "花云",
+          "line_type": "二黄散板",
+          "musical_style": "二黄散板",
+          "style_family": "二黄",
+          "text": "我主爷洪福齐天大"
+        },
+        {
+          "character": "陈友杰",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
           "text": "住口！"
         },
         {
-          "character": "我主爷洪福齐天大、陈友杰",
+          "character": "陈友杰",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我主爷洪福齐天大"
+        },
+        {
+          "character": "陈友杰",
           "line_type": "二黄散板",
           "musical_style": "二黄散板",
           "style_family": "二黄",
-          "text": "劝你马前归顺罢，\n不然一命染黄沙。"
+          "text": "劝你马前归顺罢，"
+        },
+        {
+          "character": "陈友杰",
+          "line_type": "二黄散板",
+          "musical_style": "二黄散板",
+          "style_family": "二黄",
+          "text": "不然一命染黄沙。"
         },
         {
           "character": "花云",
@@ -658,7 +818,17 @@
         "musical_styles": [
           "二黄散板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.25,
+        0.5455,
+        0.4545,
+        0.0,
+        0.3,
+        2,
+        0.0,
+        0.5455
+      ]
     },
     {
       "scene_index": 4,
@@ -702,7 +872,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "得令。\n下面听者！今有大元帅陈友杰，保定北汉王得了采石矶头，那个不怕死的花云\n前来受死！"
+          "text": "得令。"
+        },
+        {
+          "character": "陈英豹",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "下面听者！今有大元帅陈友杰，保定北汉王得了采石矶头，那个不怕死的花云"
+        },
+        {
+          "character": "陈英豹",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "前来受死！"
         },
         {
           "character": "花云",
@@ -742,7 +926,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.6667,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 5,
@@ -982,7 +1176,17 @@
           "西皮导板",
           "西皮散板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.214,
+        0.2778,
+        0.6111,
+        0.1111,
+        0.7059,
+        5,
+        0.2222,
+        0.0
+      ]
     },
     {
       "scene_index": 6,
@@ -1046,7 +1250,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 7,
@@ -1120,7 +1334,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.5,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 8,
@@ -1148,7 +1372,21 @@
           "line_type": "西皮原板",
           "musical_style": "西皮原板",
           "style_family": "西皮",
-          "text": "大将难免阵头亡。\n刘伯温八卦也平常。\n早就该差能将前来提防。"
+          "text": "大将难免阵头亡。"
+        },
+        {
+          "character": "花云",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "刘伯温八卦也平常。"
+        },
+        {
+          "character": "花云",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "早就该差能将前来提防。"
         },
         {
           "character": null,
@@ -1176,24 +1414,122 @@
           "line_type": "西皮快板",
           "musical_style": "西皮快板",
           "style_family": "西皮",
-          "text": "急急忙忙往前奔，\n法场绑定一将军。\n不由奴家痛在心。"
+          "text": "急急忙忙往前奔，"
         },
         {
-          "character": "认得他是奴夫样、舍死忘生将他认、花云",
-          "line_type": "西皮散板",
-          "musical_style": "西皮散板",
-          "style_family": "西皮",
-          "text": "这一足踏在你地埃尘。\n你是谁家疯婆女？"
-        },
-        {
-          "character": "认得他是奴夫样、舍死忘生将他认、花云",
+          "character": "花孙氏",
           "line_type": "西皮快板",
           "musical_style": "西皮快板",
           "style_family": "西皮",
-          "text": "怀中抱定小娇生。\n假装疯魔认夫君。\n去到金陵搬救兵；\n千万莫丢小娇生。"
+          "text": "法场绑定一将军。"
         },
         {
-          "character": "明明认得孙氏女、你若念在夫妻义、你若不念夫妻义、使个眼色快逃走、花孙氏",
+          "character": "花孙氏",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "不由奴家痛在心。"
+        },
+        {
+          "character": "花孙氏",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "认得他是奴夫样"
+        },
+        {
+          "character": "花孙氏",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "舍死忘生将他认"
+        },
+        {
+          "character": "花云",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "这一足踏在你地埃尘。"
+        },
+        {
+          "character": "花云",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "你是谁家疯婆女？"
+        },
+        {
+          "character": "花云",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "认得他是奴夫样"
+        },
+        {
+          "character": "花云",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "舍死忘生将他认"
+        },
+        {
+          "character": "花云",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "怀中抱定小娇生。"
+        },
+        {
+          "character": "花云",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "假装疯魔认夫君。"
+        },
+        {
+          "character": "花云",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "去到金陵搬救兵；"
+        },
+        {
+          "character": "花云",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "千万莫丢小娇生。"
+        },
+        {
+          "character": "花云",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "明明认得孙氏女"
+        },
+        {
+          "character": "花云",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "你若念在夫妻义"
+        },
+        {
+          "character": "花云",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "你若不念夫妻义"
+        },
+        {
+          "character": "花云",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "使个眼色快逃走"
+        },
+        {
+          "character": "花孙氏",
           "line_type": "西皮散板",
           "musical_style": "西皮散板",
           "style_family": "西皮",
@@ -1211,7 +1547,14 @@
           "line_type": "西皮散板",
           "musical_style": "西皮散板",
           "style_family": "西皮",
-          "text": "大街去了孙氏女，我的妻啊！\n夫妻们相逢万不能。"
+          "text": "大街去了孙氏女，我的妻啊！"
+        },
+        {
+          "character": "花云",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "夫妻们相逢万不能。"
         },
         {
           "character": null,
@@ -1243,7 +1586,17 @@
           "西皮快板",
           "西皮散板"
         ]
-      }
+      },
+      "scene_feature": [
+        1.0,
+        1.0,
+        0.0,
+        0.0,
+        0.1739,
+        2,
+        1.0,
+        0.0
+      ]
     },
     {
       "scene_index": 9,
@@ -1348,24 +1701,87 @@
           "line_type": "西皮流水板",
           "musical_style": "西皮流水板",
           "style_family": "西皮",
-          "text": "千岁爷休说懦弱话，\n非是为臣把君压。\n拚得一死染黄沙。\n落一个骂贼的名儿扬天涯。"
+          "text": "千岁爷休说懦弱话，"
         },
         {
-          "character": "进得帐把贼骂、纵然将你我头割下、朱文逊",
+          "character": "花云",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "非是为臣把君压。"
+        },
+        {
+          "character": "花云",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "拚得一死染黄沙。"
+        },
+        {
+          "character": "花云",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "落一个骂贼的名儿扬天涯。"
+        },
+        {
+          "character": "花云",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "进得帐把贼骂"
+        },
+        {
+          "character": "花云",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "纵然将你我头割下"
+        },
+        {
+          "character": "朱文逊",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
           "text": "卿家啊！"
         },
         {
-          "character": "进得帐把贼骂、纵然将你我头割下、朱文逊",
+          "character": "朱文逊",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "进得帐把贼骂"
+        },
+        {
+          "character": "朱文逊",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "纵然将你我头割下"
+        },
+        {
+          "character": "朱文逊",
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "卿家休要逞雄威，\n事到如今埋怨谁。"
+          "text": "卿家休要逞雄威，"
         },
         {
-          "character": "进得帐去双膝跪、花云",
+          "character": "朱文逊",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "事到如今埋怨谁。"
+        },
+        {
+          "character": "朱文逊",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "进得帐去双膝跪"
+        },
+        {
+          "character": "花云",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -1383,10 +1799,31 @@
           "line_type": "西皮快板",
           "musical_style": "西皮快板",
           "style_family": "西皮",
-          "text": "战鼓不住咚咚催，\n御弟擒得二将归。\n跪的是何人站的是谁？"
+          "text": "战鼓不住咚咚催，"
         },
         {
-          "character": "一个站来一个跪、朱文逊",
+          "character": "陈友谅",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "御弟擒得二将归。"
+        },
+        {
+          "character": "陈友谅",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "跪的是何人站的是谁？"
+        },
+        {
+          "character": "陈友谅",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "一个站来一个跪"
+        },
+        {
+          "character": "朱文逊",
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
@@ -1418,7 +1855,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "嗯！既是恩重如山，今日被擒，你就归降。像你这样忘恩负义、贪生怕死之辈，\n要你何用？\n来，推出斩了！"
+          "text": "嗯！既是恩重如山，今日被擒，你就归降。像你这样忘恩负义、贪生怕死之辈，"
+        },
+        {
+          "character": "陈友谅",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "要你何用？"
+        },
+        {
+          "character": "陈友谅",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来，推出斩了！"
         },
         {
           "character": "花云",
@@ -1453,38 +1904,199 @@
           "line_type": "西皮散板",
           "musical_style": "西皮散板",
           "style_family": "西皮",
-          "text": "哗喇喇大炮一声响，\n血淋淋人头滚一旁。\n一心要降北汉王。\n倾刻之间刀下亡。"
+          "text": "哗喇喇大炮一声响，"
+        },
+        {
+          "character": "花云",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "血淋淋人头滚一旁。"
+        },
+        {
+          "character": "花云",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "一心要降北汉王。"
+        },
+        {
+          "character": "花云",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "倾刻之间刀下亡。"
         },
         {
           "character": "花云",
           "line_type": "西皮快板",
           "musical_style": "西皮快板",
           "style_family": "西皮",
-          "text": "开言大骂北汉王。\n一来一往动刀枪。\n你是个人面兽心肠。"
+          "text": "开言大骂北汉王。"
         },
         {
-          "character": "先前怎样对你讲、那贼焉有容人的量、忙将人头打进帐、既是兴兵来打仗、私自设计把采石抢、陈友谅",
+          "character": "花云",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "一来一往动刀枪。"
+        },
+        {
+          "character": "花云",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "你是个人面兽心肠。"
+        },
+        {
+          "character": "花云",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "先前怎样对你讲"
+        },
+        {
+          "character": "花云",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "那贼焉有容人的量"
+        },
+        {
+          "character": "花云",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "忙将人头打进帐"
+        },
+        {
+          "character": "花云",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "既是兴兵来打仗"
+        },
+        {
+          "character": "花云",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "私自设计把采石抢"
+        },
+        {
+          "character": "陈友谅",
           "line_type": "笑",
           "musical_style": null,
           "style_family": null,
           "text": "哈哈哈哈！"
         },
         {
-          "character": "先前怎样对你讲、那贼焉有容人的量、忙将人头打进帐、既是兴兵来打仗、私自设计把采石抢、陈友谅",
+          "character": "陈友谅",
+          "line_type": "笑",
+          "musical_style": null,
+          "style_family": null,
+          "text": "先前怎样对你讲"
+        },
+        {
+          "character": "陈友谅",
+          "line_type": "笑",
+          "musical_style": null,
+          "style_family": null,
+          "text": "那贼焉有容人的量"
+        },
+        {
+          "character": "陈友谅",
+          "line_type": "笑",
+          "musical_style": null,
+          "style_family": null,
+          "text": "忙将人头打进帐"
+        },
+        {
+          "character": "陈友谅",
+          "line_type": "笑",
+          "musical_style": null,
+          "style_family": null,
+          "text": "既是兴兵来打仗"
+        },
+        {
+          "character": "陈友谅",
+          "line_type": "笑",
+          "musical_style": null,
+          "style_family": null,
+          "text": "私自设计把采石抢"
+        },
+        {
+          "character": "陈友谅",
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "花云果然是英雄将，\n不由孤王喜非常。\n尊声将军听端详。"
+          "text": "花云果然是英雄将，"
         },
         {
-          "character": "先前怎样对你讲、那贼焉有容人的量、忙将人头打进帐、既是兴兵来打仗、私自设计把采石抢、陈友谅",
+          "character": "陈友谅",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "不由孤王喜非常。"
+        },
+        {
+          "character": "陈友谅",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "尊声将军听端详。"
+        },
+        {
+          "character": "陈友谅",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "先前怎样对你讲"
+        },
+        {
+          "character": "陈友谅",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "那贼焉有容人的量"
+        },
+        {
+          "character": "陈友谅",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "忙将人头打进帐"
+        },
+        {
+          "character": "陈友谅",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "既是兴兵来打仗"
+        },
+        {
+          "character": "陈友谅",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "私自设计把采石抢"
+        },
+        {
+          "character": "陈友谅",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
           "text": "花将军。"
         },
         {
-          "character": "下得位来把话讲、花云",
+          "character": "陈友谅",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "下得位来把话讲"
+        },
+        {
+          "character": "花云",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -1509,7 +2121,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "孤家也不计较于你。想你主乃是一个牧牛童子，出身微贱。怎比孤家二甲进士\n出身。你今被擒，就该归顺孤家，少不得封侯之位。你若执意不降，一刀将你\n杀死，家中还有妻儿老小，依靠何人？你要再思啊再想！"
+          "text": "孤家也不计较于你。想你主乃是一个牧牛童子，出身微贱。怎比孤家二甲进士"
+        },
+        {
+          "character": "陈友谅",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "出身。你今被擒，就该归顺孤家，少不得封侯之位。你若执意不降，一刀将你"
+        },
+        {
+          "character": "陈友谅",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "杀死，家中还有妻儿老小，依靠何人？你要再思啊再想！"
         },
         {
           "character": "张定边",
@@ -1530,7 +2156,28 @@
           "line_type": "西皮流水板",
           "musical_style": "西皮流水板",
           "style_family": "西皮",
-          "text": "陈友谅下位好言讲，\n背转身来自思量。\n留得骂名天下扬。\n倾刻之间一命亡。"
+          "text": "陈友谅下位好言讲，"
+        },
+        {
+          "character": "花云",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "背转身来自思量。"
+        },
+        {
+          "character": "花云",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "留得骂名天下扬。"
+        },
+        {
+          "character": "花云",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "倾刻之间一命亡。"
         },
         {
           "character": null,
@@ -1572,7 +2219,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "花将军，少不得封侯之位。\n啊，花云哪里去了？"
+          "text": "花将军，少不得封侯之位。"
+        },
+        {
+          "character": "陈友谅",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "啊，花云哪里去了？"
         },
         {
           "character": "陈友杰",
@@ -1607,14 +2261,35 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "启禀大王：有道是大将不怕杀，只怕吓。依为臣之计，法场之上，立一高竿，\n将花云绑在高竿之上，用弓箭来射。只可开弓，不可放箭。一吓么，他就归降\n了。"
+          "text": "启禀大王：有道是大将不怕杀，只怕吓。依为臣之计，法场之上，立一高竿，"
+        },
+        {
+          "character": "张定边",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "将花云绑在高竿之上，用弓箭来射。只可开弓，不可放箭。一吓么，他就归降"
+        },
+        {
+          "character": "张定边",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "了。"
         },
         {
           "character": "陈友谅",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "此计甚好。\n来，打道法场。"
+          "text": "此计甚好。"
+        },
+        {
+          "character": "陈友谅",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来，打道法场。"
         },
         {
           "character": null,
@@ -1697,7 +2372,17 @@
           "西皮流水",
           "西皮流水板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.222,
+        0.4831,
+        0.5169,
+        0.0,
+        0.4091,
+        5,
+        0.4831,
+        0.0
+      ]
     },
     {
       "scene_index": 10,
@@ -1722,7 +2407,14 @@
           "line_type": "西皮快板",
           "musical_style": "西皮快板",
           "style_family": "西皮",
-          "text": "好似鳌鱼吞了钩。\n为国忠良的下场头。"
+          "text": "好似鳌鱼吞了钩。"
+        },
+        {
+          "character": "花云",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "为国忠良的下场头。"
         },
         {
           "character": null,
@@ -1743,42 +2435,126 @@
           "line_type": "西皮快板",
           "musical_style": "西皮快板",
           "style_family": "西皮",
-          "text": "叫声将军听根由：\n不封王位定封侯。"
+          "text": "叫声将军听根由："
         },
         {
-          "character": "你若今日把孤投、花云",
+          "character": "陈友谅",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "不封王位定封侯。"
+        },
+        {
+          "character": "陈友谅",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "你若今日把孤投"
+        },
+        {
+          "character": "花云",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
           "text": "呸！"
         },
         {
-          "character": "你若今日把孤投、花云",
+          "character": "花云",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "你若今日把孤投"
+        },
+        {
+          "character": "花云",
           "line_type": "西皮快板",
           "musical_style": "西皮快板",
           "style_family": "西皮",
-          "text": "闻言怒发冲牛斗，\n大骂贼子听从头。\n岂与奸贼做马牛？"
+          "text": "闻言怒发冲牛斗，"
         },
         {
-          "character": "老爷归顺不能够、陈友谅",
+          "character": "花云",
           "line_type": "西皮快板",
           "musical_style": "西皮快板",
           "style_family": "西皮",
-          "text": "将军不必逞刚强，\n孤王言来听端详：\n封你一字并肩王。"
+          "text": "大骂贼子听从头。"
         },
         {
-          "character": "你若真心把孤降、花云",
+          "character": "花云",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "岂与奸贼做马牛？"
+        },
+        {
+          "character": "花云",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "老爷归顺不能够"
+        },
+        {
+          "character": "陈友谅",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "将军不必逞刚强，"
+        },
+        {
+          "character": "陈友谅",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "孤王言来听端详："
+        },
+        {
+          "character": "陈友谅",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "封你一字并肩王。"
+        },
+        {
+          "character": "陈友谅",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "你若真心把孤降"
+        },
+        {
+          "character": "花云",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
           "text": "呸！"
         },
         {
-          "character": "你若真心把孤降、花云",
+          "character": "花云",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "你若真心把孤降"
+        },
+        {
+          "character": "花云",
           "line_type": "西皮快板",
           "musical_style": "西皮快板",
           "style_family": "西皮",
-          "text": "闻言怒发三千丈，\n大骂贼子听比方。"
+          "text": "闻言怒发三千丈，"
+        },
+        {
+          "character": "花云",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "大骂贼子听比方。"
+        },
+        {
+          "character": "花云",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "你若真心把孤降"
         },
         {
           "character": null,
@@ -1788,7 +2564,7 @@
           "text": "（夹白） 贼啊，贼！"
         },
         {
-          "character": "你若真心把孤降、花云",
+          "character": "花云",
           "line_type": "西皮快板",
           "musical_style": "西皮快板",
           "style_family": "西皮",
@@ -1806,7 +2582,28 @@
           "line_type": "西皮散板",
           "musical_style": "西皮散板",
           "style_family": "西皮",
-          "text": "孤王好言对他讲，\n恶言恶语骂孤王。\n（花云挣脱绑绳，夺刀斧手刀，杀，陈友杰架住，陈友谅、张定边同急逃下。陈友杰、花云同起打，陈友杰\n败下，花云追下。）"
+          "text": "孤王好言对他讲，"
+        },
+        {
+          "character": "陈友谅",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "恶言恶语骂孤王。"
+        },
+        {
+          "character": "陈友谅",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "（花云挣脱绑绳，夺刀斧手刀，杀，陈友杰架住，陈友谅、张定边同急逃下。陈友杰、花云同起打，陈友杰"
+        },
+        {
+          "character": "陈友谅",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "败下，花云追下。）"
         }
       ],
       "interactions": [
@@ -1832,7 +2629,17 @@
           "西皮摇板",
           "西皮散板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.5,
+        0.8148,
+        0.1852,
+        0.0,
+        0.1923,
+        2,
+        0.8148,
+        0.0
+      ]
     },
     {
       "scene_index": 11,
@@ -1872,7 +2679,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 12,
@@ -1894,7 +2711,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "杀败了啊，杀败了！指望去往金陵搬兵求救，不想身受箭伤。我主啊、万岁！\n臣不能保全江山社稷了。不免叩谢圣上爵禄之恩，自刎了罢！"
+          "text": "杀败了啊，杀败了！指望去往金陵搬兵求救，不想身受箭伤。我主啊、万岁！"
+        },
+        {
+          "character": "花云",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "臣不能保全江山社稷了。不免叩谢圣上爵禄之恩，自刎了罢！"
         },
         {
           "character": null,
@@ -1946,7 +2770,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.3333,
+        2,
+        0.0,
+        0.0
+      ]
     }
   ]
 }

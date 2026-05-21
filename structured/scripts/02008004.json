@@ -310,7 +310,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.7778,
+        0.2222,
+        1.0,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -395,10 +405,24 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "听一言来吃一惊，\n吓得我三魂少二魂。"
+          "text": "听一言来吃一惊，"
         },
         {
-          "character": "后堂快把夫人请、院子",
+          "character": "徐大人",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "吓得我三魂少二魂。"
+        },
+        {
+          "character": "徐大人",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "后堂快把夫人请"
+        },
+        {
+          "character": "院子",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -444,7 +468,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "听说花轿已到门，\n好比钢刀刺我心。"
+          "text": "听说花轿已到门，"
+        },
+        {
+          "character": "徐夫人",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "好比钢刀刺我心。"
         },
         {
           "character": "徐夫人",
@@ -535,21 +566,56 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "可恨奸贼太欺心，\n分明逼我丧残生。\n舍却一命赴幽冥。"
+          "text": "可恨奸贼太欺心，"
         },
         {
-          "character": "高堂哭别双亲去、徐公子",
+          "character": "徐玉环",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "分明逼我丧残生。"
+        },
+        {
+          "character": "徐玉环",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "舍却一命赴幽冥。"
+        },
+        {
+          "character": "徐玉环",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "高堂哭别双亲去"
+        },
+        {
+          "character": "徐公子",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
           "text": "且慢！"
         },
         {
-          "character": "高堂哭别双亲去、徐公子",
+          "character": "徐公子",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "高堂哭别双亲去"
+        },
+        {
+          "character": "徐公子",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "姐姐不可自轻生，\n还要三思计策行。"
+          "text": "姐姐不可自轻生，"
+        },
+        {
+          "character": "徐公子",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "还要三思计策行。"
         },
         {
           "character": "丫鬟",
@@ -563,7 +629,21 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "见老爷哭得如酒醉，\n二堂上哭坏老夫人。\n不由我秋香裂碎心。"
+          "text": "见老爷哭得如酒醉，"
+        },
+        {
+          "character": "丫鬟",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "二堂上哭坏老夫人。"
+        },
+        {
+          "character": "丫鬟",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "不由我秋香裂碎心。"
         },
         {
           "character": "丫鬟",
@@ -587,7 +667,28 @@
           "text": "启禀老爷、夫人：奴婢现有一计，可救小姐。"
         },
         {
-          "character": "小姐又要寻自尽、祸到临头无计救、徐大人、徐夫人",
+          "character": "丫鬟",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "小姐又要寻自尽"
+        },
+        {
+          "character": "丫鬟",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "祸到临头无计救"
+        },
+        {
+          "character": "丫鬟",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "徐大人"
+        },
+        {
+          "character": "徐夫人",
           "line_type": "同白",
           "musical_style": null,
           "style_family": null,
@@ -598,7 +699,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "目下花轿临门，一时难用别计。奴婢蒙老爷、夫人养育之恩，情愿舍身代替小\n姐前去。到了他处，无非一死。"
+          "text": "目下花轿临门，一时难用别计。奴婢蒙老爷、夫人养育之恩，情愿舍身代替小"
+        },
+        {
+          "character": "丫鬟",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "姐前去。到了他处，无非一死。"
         },
         {
           "character": "徐玉环",
@@ -612,7 +720,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "啊，小姐！我秋香还有什么出头之日？你可即速改扮男装，命院公送你至铜台。\n待你夫妻团圆，日后兴兵报仇，也不枉我秋香一片代主之心吓！"
+          "text": "啊，小姐！我秋香还有什么出头之日？你可即速改扮男装，命院公送你至铜台。"
+        },
+        {
+          "character": "丫鬟",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "待你夫妻团圆，日后兴兵报仇，也不枉我秋香一片代主之心吓！"
         },
         {
           "character": "徐玉环",
@@ -682,7 +797,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "多蒙爹娘恩义重，\n粉身碎骨报恩情。"
+          "text": "多蒙爹娘恩义重，"
+        },
+        {
+          "character": "丫鬟",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "粉身碎骨报恩情。"
         },
         {
           "character": "徐大人",
@@ -857,24 +979,87 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "帅府堂前摆筵宴，\n千岁、世子请听言：\n望乞二位要海涵。"
+          "text": "帅府堂前摆筵宴，"
         },
         {
-          "character": "愧无美味来敬献、朱义",
+          "character": "徐大人",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "多蒙姻台酒和宴，\n珍馐百味样样鲜。\n陆地猪羊海底鲜。\n却少孤的口头鲜。"
+          "text": "千岁、世子请听言："
         },
         {
-          "character": "愧无美味来敬献、朱义",
+          "character": "徐大人",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "望乞二位要海涵。"
+        },
+        {
+          "character": "徐大人",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "愧无美味来敬献"
+        },
+        {
+          "character": "朱义",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "多蒙姻台酒和宴，"
+        },
+        {
+          "character": "朱义",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "珍馐百味样样鲜。"
+        },
+        {
+          "character": "朱义",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "陆地猪羊海底鲜。"
+        },
+        {
+          "character": "朱义",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "却少孤的口头鲜。"
+        },
+        {
+          "character": "朱义",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "愧无美味来敬献"
+        },
+        {
+          "character": "朱义",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
           "text": "老姻台，你请我吃酒，少了两样。"
         },
         {
-          "character": "山中走兽云中雁、满筵荤素数不尽、徐大人",
+          "character": "朱义",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "山中走兽云中雁"
+        },
+        {
+          "character": "朱义",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "满筵荤素数不尽"
+        },
+        {
+          "character": "徐大人",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -885,7 +1070,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "谁人不晓我朱义最好吃的是螃蟹煮冬瓜，田螺蒸咸虾，天下哪个不知？你如今\n少了这两样口味，犹如无有请我一般。"
+          "text": "谁人不晓我朱义最好吃的是螃蟹煮冬瓜，田螺蒸咸虾，天下哪个不知？你如今"
+        },
+        {
+          "character": "朱义",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "少了这两样口味，犹如无有请我一般。"
         },
         {
           "character": "徐大人",
@@ -969,7 +1161,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "哦，花轿哇。我只管吃酒，却忘了正事。\n人来，将这两样美味，带回府去，待我办了公事，慢慢再吃。"
+          "text": "哦，花轿哇。我只管吃酒，却忘了正事。"
+        },
+        {
+          "character": "朱义",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "人来，将这两样美味，带回府去，待我办了公事，慢慢再吃。"
         },
         {
           "character": "四梁卒",
@@ -1025,7 +1224,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "你看花轿已去。\n夫人快来！"
+          "text": "你看花轿已去。"
+        },
+        {
+          "character": "徐大人",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "夫人快来！"
         },
         {
           "character": null,
@@ -1272,7 +1478,17 @@
         "singing_ratio": 0.087,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.087,
+        0.2913,
+        0.685,
+        0.0236,
+        0.6746,
+        11,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -1375,7 +1591,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.8,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 4,
@@ -1397,7 +1623,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "小生岳文华。奉了爹爹之命，带领刘高众将，翌州抢亲。\n刘高！"
+          "text": "小生岳文华。奉了爹爹之命，带领刘高众将，翌州抢亲。"
+        },
+        {
+          "character": "岳文华",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "刘高！"
         },
         {
           "character": "刘高",
@@ -1425,7 +1658,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "好。依计而行。\n众将埋伏一旁。"
+          "text": "好。依计而行。"
+        },
+        {
+          "character": "岳文华",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "众将埋伏一旁。"
         },
         {
           "character": null,
@@ -1453,7 +1693,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.6667,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 5,
@@ -1482,7 +1732,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "瞎眼的，你不认得二千岁朱义，我的兄长就是梁王朱温。这花轿内乃世子的夫\n人。快些闪开便罢，如若不然，把你的狗名报上来！"
+          "text": "瞎眼的，你不认得二千岁朱义，我的兄长就是梁王朱温。这花轿内乃世子的夫"
+        },
+        {
+          "character": "朱义",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "人。快些闪开便罢，如若不然，把你的狗名报上来！"
         },
         {
           "character": "刘高",
@@ -1496,7 +1753,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "什么山！招刀。\n（刘高、朱义同战。四梁卒保花轿同下。朱义败下，刘高追下。朱彪上，岳文华上，同战。朱彪败下，岳文"
+          "text": "什么山！招刀。"
+        },
+        {
+          "character": "朱义",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "（刘高、朱义同战。四梁卒保花轿同下。朱义败下，刘高追下。朱彪上，岳文华上，同战。朱彪败下，岳文"
         }
       ],
       "interactions": [
@@ -1517,7 +1781,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.6,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 6,
@@ -1581,7 +1855,21 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "少爷传令把亲抢，\n好似猛虎下山岗。\n遇着二人杀一双。"
+          "text": "少爷传令把亲抢，"
+        },
+        {
+          "character": "刘高",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "好似猛虎下山岗。"
+        },
+        {
+          "character": "刘高",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "遇着二人杀一双。"
         },
         {
           "character": null,
@@ -1609,7 +1897,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.3333,
+        0.6667,
+        0.0,
+        0.625,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 7,
@@ -1662,7 +1960,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 8,
@@ -1685,7 +1993,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 9,
@@ -1714,7 +2032,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "孤家，黑山虎。霸占狮岭，官兵不敢侵犯，好不快乐人也。今日山中粮草不敷。\n众喽啰，下山走走！"
+          "text": "孤家，黑山虎。霸占狮岭，官兵不敢侵犯，好不快乐人也。今日山中粮草不敷。"
+        },
+        {
+          "character": "黑山虎",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "众喽啰，下山走走！"
         },
         {
           "character": "四喽卒",
@@ -1746,7 +2071,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.75,
+        0.25,
+        0.3333,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 10,
@@ -1812,7 +2147,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "且住。看这书生，生得十分伶俐，非比下贱之人。不免带回山去，把女儿招赘\n与他便了。\n众头目。将这书生带回山去，好生看待，不可难为与他。"
+          "text": "且住。看这书生，生得十分伶俐，非比下贱之人。不免带回山去，把女儿招赘"
+        },
+        {
+          "character": "黑山虎",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "与他便了。"
+        },
+        {
+          "character": "黑山虎",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "众头目。将这书生带回山去，好生看待，不可难为与他。"
         },
         {
           "character": "四喽卒",
@@ -1878,7 +2227,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.7778,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 11,
@@ -1929,7 +2288,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "刘高虽勇，只怕寡不敌众。\n家丁们过来。你们保定花轿先行，待我上前接应。"
+          "text": "刘高虽勇，只怕寡不敌众。"
+        },
+        {
+          "character": "岳文华",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "家丁们过来。你们保定花轿先行，待我上前接应。"
         },
         {
           "character": "四兵卒",
@@ -1969,7 +2335,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.6,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 12,
@@ -2053,7 +2429,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 13,
@@ -2082,7 +2468,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "叔王。侄儿谅这二贼，非是别处人马，定然是铜台岳彦珍的儿子，带领人马前\n来抢亲。"
+          "text": "叔王。侄儿谅这二贼，非是别处人马，定然是铜台岳彦珍的儿子，带领人马前"
+        },
+        {
+          "character": "朱彪",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来抢亲。"
         },
         {
           "character": "朱义",
@@ -2096,7 +2489,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "叔王说哪里话来。侄儿一定赶到铜台，将花轿夺回，才肯收兵。\n众将官，追赶！"
+          "text": "叔王说哪里话来。侄儿一定赶到铜台，将花轿夺回，才肯收兵。"
+        },
+        {
+          "character": "朱彪",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "众将官，追赶！"
         },
         {
           "character": null,
@@ -2131,7 +2531,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.6667,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 14,
@@ -2284,7 +2694,21 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "骂声刘高小畜生，\n命你抢亲去行凶。\n兴动人马了不成！"
+          "text": "骂声刘高小畜生，"
+        },
+        {
+          "character": "刘高",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "命你抢亲去行凶。"
+        },
+        {
+          "character": "刘高",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "兴动人马了不成！"
         },
         {
           "character": null,
@@ -2333,7 +2757,21 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "忽听探子一声报，\n倒叫本帅无计较。\n又恐贼子不肯饶。"
+          "text": "忽听探子一声报，"
+        },
+        {
+          "character": "岳彦珍",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "倒叫本帅无计较。"
+        },
+        {
+          "character": "岳彦珍",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "又恐贼子不肯饶。"
         },
         {
           "character": "岳彦珍",
@@ -2343,7 +2781,21 @@
           "text": "来！"
         },
         {
-          "character": "本待开关顺说好、左难右难想不到、将甲",
+          "character": "岳彦珍",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "本待开关顺说好"
+        },
+        {
+          "character": "岳彦珍",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "左难右难想不到"
+        },
+        {
+          "character": "将甲",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -2540,7 +2992,17 @@
         "singing_ratio": 0.069,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.069,
+        0.2,
+        0.725,
+        0.075,
+        0.6923,
+        5,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 15,
@@ -2596,7 +3058,21 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "恼恨刘高敢行凶，\n可怜世子一命倾。\n从此铜台不太平。"
+          "text": "恼恨刘高敢行凶，"
+        },
+        {
+          "character": "岳彦珍",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "可怜世子一命倾。"
+        },
+        {
+          "character": "岳彦珍",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "从此铜台不太平。"
         },
         {
           "character": null,
@@ -2615,7 +3091,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.5,
+        0.5,
+        0.0,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     }
   ]
 }

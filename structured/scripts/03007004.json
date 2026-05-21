@@ -342,7 +342,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "老夫、曹操。奉了圣上之命，统领雄兵，扫荡张鲁；日前夺了阳平关，且喜东\n川已得。正是："
+          "text": "老夫、曹操。奉了圣上之命，统领雄兵，扫荡张鲁；日前夺了阳平关，且喜东"
+        },
+        {
+          "character": "曹操",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "川已得。正是："
         },
         {
           "character": "曹操",
@@ -377,7 +384,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "报！薛悌告进！\n参见丞相。"
+          "text": "报！薛悌告进！"
+        },
+        {
+          "character": "薛悌",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "参见丞相。"
         },
         {
           "character": "曹操",
@@ -391,7 +405,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "丞相容禀：只因孙权攻破宛城，朱光将军阵亡；张辽将军因失宛城，又恐合肥\n有失，统兵死守。孙权带兵前来，被张辽将军一战，败往濡须口去了。"
+          "text": "丞相容禀：只因孙权攻破宛城，朱光将军阵亡；张辽将军因失宛城，又恐合肥"
+        },
+        {
+          "character": "薛悌",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "有失，统兵死守。孙权带兵前来，被张辽将军一战，败往濡须口去了。"
         },
         {
           "character": "曹操",
@@ -426,7 +447,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "老夫犹豫未决。\n啊！先生有何妙计，怎样进兵？"
+          "text": "老夫犹豫未决。"
+        },
+        {
+          "character": "曹操",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "啊！先生有何妙计，怎样进兵？"
         },
         {
           "character": "刘晔",
@@ -440,7 +468,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "先生之言，正合吾意。\n夏侯渊听令！"
+          "text": "先生之言，正合吾意。"
+        },
+        {
+          "character": "曹操",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "夏侯渊听令！"
         },
         {
           "character": "夏侯渊",
@@ -503,7 +538,35 @@
           "line_type": "西皮流水板",
           "musical_style": "西皮流水板",
           "style_family": "西皮",
-          "text": "中军宝帐把将委，\n列位将军听指挥。\n忠心报国守军规。\n要杀那东吴将片甲无归。\n灭东吴碧眼儿奏凯回归。"
+          "text": "中军宝帐把将委，"
+        },
+        {
+          "character": "曹操",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "列位将军听指挥。"
+        },
+        {
+          "character": "曹操",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "忠心报国守军规。"
+        },
+        {
+          "character": "曹操",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "要杀那东吴将片甲无归。"
+        },
+        {
+          "character": "曹操",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "灭东吴碧眼儿奏凯回归。"
         },
         {
           "character": null,
@@ -608,7 +671,17 @@
         "musical_styles": [
           "西皮流水"
         ]
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.1154,
+        0.75,
+        0.1346,
+        0.7255,
+        10,
+        0.0962,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -705,21 +778,42 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "二位将军！我等奉命镇守合肥，不想朱光失去宛城；吴兵乘势攻打合肥。逍遥\n津前一战，若非二位之勇力，我兵马焉能全胜也。"
-        },
-        {
-          "character": "李典、乐进",
-          "line_type": "同白",
-          "musical_style": null,
-          "style_family": null,
-          "text": "此乃将军虎威，末将等何能之有？只是失去宛城，朱光阵亡，我等如何去见丞\n相？"
+          "text": "二位将军！我等奉命镇守合肥，不想朱光失去宛城；吴兵乘势攻打合肥。逍遥"
         },
         {
           "character": "张辽",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "我想丞相宽洪大量，必不降罪。闻听丞相已得东川，曾命薛悌前去请教丞相收\n服西川之事。待他回来，便之分晓。"
+          "text": "津前一战，若非二位之勇力，我兵马焉能全胜也。"
+        },
+        {
+          "character": "李典、乐进",
+          "line_type": "同白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "此乃将军虎威，末将等何能之有？只是失去宛城，朱光阵亡，我等如何去见丞"
+        },
+        {
+          "character": "李典、乐进",
+          "line_type": "同白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "相？"
+        },
+        {
+          "character": "张辽",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我想丞相宽洪大量，必不降罪。闻听丞相已得东川，曾命薛悌前去请教丞相收"
+        },
+        {
+          "character": "张辽",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "服西川之事。待他回来，便之分晓。"
         },
         {
           "character": "李典、乐进",
@@ -841,7 +935,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.76,
+        0.24,
+        0.7917,
+        6,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -904,7 +1008,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 4,
@@ -964,7 +1078,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "为国勤劳，此乃老夫分内之事。列公军威严整，使敌人不敢妄越雷池，老夫好\n生钦佩。"
+          "text": "为国勤劳，此乃老夫分内之事。列公军威严整，使敌人不敢妄越雷池，老夫好"
+        },
+        {
+          "character": "曹操",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "生钦佩。"
         },
         {
           "character": "张辽、李典、乐进",
@@ -999,7 +1120,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "公等言得极是，岂不知既已得陇，又何必望蜀！老夫此来，援救合肥。今士卒\n远途跋涉，暂且安营，探听吴兵消息，再作计较。军帐摆宴，与众将军同饮！"
+          "text": "公等言得极是，岂不知既已得陇，又何必望蜀！老夫此来，援救合肥。今士卒"
+        },
+        {
+          "character": "曹操",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "远途跋涉，暂且安营，探听吴兵消息，再作计较。军帐摆宴，与众将军同饮！"
         },
         {
           "character": null,
@@ -1044,7 +1172,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.8,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 5,
@@ -1072,7 +1210,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "俺甘宁。随定主公，四路征战，屡建奇功。前者攻取宛城，众将奋勇，为国捐\n躯。那凌统在逍遥津小师桥救主有功；因此某心怀壮志，要作一惊天动地之事，\n教他见识见识。为此全身披挂，去至主公台前讨令。正是："
+          "text": "俺甘宁。随定主公，四路征战，屡建奇功。前者攻取宛城，众将奋勇，为国捐"
+        },
+        {
+          "character": "甘宁",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "躯。那凌统在逍遥津小师桥救主有功；因此某心怀壮志，要作一惊天动地之事，"
+        },
+        {
+          "character": "甘宁",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "教他见识见识。为此全身披挂，去至主公台前讨令。正是："
         },
         {
           "character": "甘宁",
@@ -1091,7 +1243,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.6,
+        0.4,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 6,
@@ -1119,17 +1281,59 @@
           "line_type": "西皮散板",
           "musical_style": "西皮散板",
           "style_family": "西皮",
-          "text": "逍遥津前摆战道，\n张辽可算一英豪。\n军回濡须重整袍。"
+          "text": "逍遥津前摆战道，"
+        },
+        {
+          "character": "孙权",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "张辽可算一英豪。"
+        },
+        {
+          "character": "孙权",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "军回濡须重整袍。"
         },
         {
           "character": "孙权",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "孤，姓孙名权，字仲谋。日前夺了宛城、直取合肥，被张辽一战，兵败濡须口；\n多亏凌统相救，为此重整船只，以待水路进兵。也曾差人回朝搬取人马，一\n去许久，未曾到来。\n内侍！伺候了！"
+          "text": "孤，姓孙名权，字仲谋。日前夺了宛城、直取合肥，被张辽一战，兵败濡须口；"
         },
         {
-          "character": "马跳桥头兵败了、凌统",
+          "character": "孙权",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "多亏凌统相救，为此重整船只，以待水路进兵。也曾差人回朝搬取人马，一"
+        },
+        {
+          "character": "孙权",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "去许久，未曾到来。"
+        },
+        {
+          "character": "孙权",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "内侍！伺候了！"
+        },
+        {
+          "character": "孙权",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "马跳桥头兵败了"
+        },
+        {
+          "character": "凌统",
           "line_type": "内白",
           "musical_style": null,
           "style_family": null,
@@ -1147,7 +1351,14 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "曹操统领大兵到，\n见了主公奏根苗。"
+          "text": "曹操统领大兵到，"
+        },
+        {
+          "character": "凌统",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "见了主公奏根苗。"
         },
         {
           "character": "凌统",
@@ -1168,7 +1379,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "千千岁！启奏主公：适才探马报道，曹操自汉中统领大兵，救护合肥。请旨定\n夺！"
+          "text": "千千岁！启奏主公：适才探马报道，曹操自汉中统领大兵，救护合肥。请旨定"
+        },
+        {
+          "character": "凌统",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "夺！"
         },
         {
           "character": "孙权",
@@ -1182,7 +1400,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "臣启主公：那曹操远路而来，兵将正在疲乏之际，我兵先挫其锐气，那曹操必\n败矣！"
+          "text": "臣启主公：那曹操远路而来，兵将正在疲乏之际，我兵先挫其锐气，那曹操必"
+        },
+        {
+          "character": "张昭",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "败矣！"
         },
         {
           "character": "孙权",
@@ -1266,7 +1491,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "主公！臣在帐外闻得凌统将军，讨下三千人马，前去破曹，现金朝中救兵未到，\n三千精兵，难以挑选。为臣愿讨一支将令，只用百名兵马，要杀曹操个片甲\n不存。"
+          "text": "主公！臣在帐外闻得凌统将军，讨下三千人马，前去破曹，现金朝中救兵未到，"
+        },
+        {
+          "character": "甘宁",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "三千精兵，难以挑选。为臣愿讨一支将令，只用百名兵马，要杀曹操个片甲"
+        },
+        {
+          "character": "甘宁",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "不存。"
         },
         {
           "character": "孙权",
@@ -1280,14 +1519,42 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "呔！甘宁休在主公台前夸口！前者在逍遥津，那张辽将小师桥拆断，阻住主公\n的归路，不是俺身带数箭之伤，保定主公，跳过河来，东吴的兵将是全军尽没。\n那时不知将军，你往哪里去了？"
+          "text": "呔！甘宁休在主公台前夸口！前者在逍遥津，那张辽将小师桥拆断，阻住主公"
+        },
+        {
+          "character": "凌统",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "的归路，不是俺身带数箭之伤，保定主公，跳过河来，东吴的兵将是全军尽没。"
+        },
+        {
+          "character": "凌统",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "那时不知将军，你往哪里去了？"
         },
         {
           "character": "甘宁",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "凌统！岂不知食君之禄，当报国恩；你不过仗着逍遥津些许的功劳，擅敢在主\n公台前夸口，请兵深入险地，倘若败与曹操之手，东吴国体，被你丧尽，真乃\n是不知用兵，一勇之夫也。"
+          "text": "凌统！岂不知食君之禄，当报国恩；你不过仗着逍遥津些许的功劳，擅敢在主"
+        },
+        {
+          "character": "甘宁",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "公台前夸口，请兵深入险地，倘若败与曹操之手，东吴国体，被你丧尽，真乃"
+        },
+        {
+          "character": "甘宁",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "是不知用兵，一勇之夫也。"
         },
         {
           "character": "凌统",
@@ -1301,24 +1568,73 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "闻言不由心头愤，\n骂一声甘宁太欺人。\n休卖弄口巧与舌能。"
+          "text": "闻言不由心头愤，"
         },
         {
-          "character": "自古军家无常胜、甘宁",
+          "character": "凌统",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "骂一声甘宁太欺人。"
+        },
+        {
+          "character": "凌统",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "休卖弄口巧与舌能。"
+        },
+        {
+          "character": "凌统",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "自古军家无常胜"
+        },
+        {
+          "character": "甘宁",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
           "text": "住了！"
         },
         {
-          "character": "自古军家无常胜、甘宁",
+          "character": "甘宁",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "自古军家无常胜"
+        },
+        {
+          "character": "甘宁",
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "小师桥救驾何足论，\n趾高气扬欺煞人。\n分个上下再请兵。"
+          "text": "小师桥救驾何足论，"
         },
         {
-          "character": "尔今一定要讨令、凌统",
+          "character": "甘宁",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "趾高气扬欺煞人。"
+        },
+        {
+          "character": "甘宁",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "分个上下再请兵。"
+        },
+        {
+          "character": "甘宁",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "尔今一定要讨令"
+        },
+        {
+          "character": "凌统",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -1343,7 +1659,14 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "二将休得来争论，\n均为孤家锦乾坤。"
+          "text": "二将休得来争论，"
+        },
+        {
+          "character": "孙权",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "均为孤家锦乾坤。"
         },
         {
           "character": "孙权",
@@ -1385,7 +1708,21 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "主公台前领将令，\n背转身来喜盈盈。\n挑选精兵踏曹营。"
+          "text": "主公台前领将令，"
+        },
+        {
+          "character": "凌统",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "背转身来喜盈盈。"
+        },
+        {
+          "character": "凌统",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "挑选精兵踏曹营。"
         },
         {
           "character": null,
@@ -1406,7 +1743,14 @@
           "line_type": "西皮散板",
           "musical_style": "西皮散板",
           "style_family": "西皮",
-          "text": "带领人马暗接应，\n他若有失速回营。"
+          "text": "带领人马暗接应，"
+        },
+        {
+          "character": "孙权",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "他若有失速回营。"
         },
         {
           "character": "徐盛",
@@ -1434,7 +1778,14 @@
           "line_type": "西皮散板",
           "musical_style": "西皮散板",
           "style_family": "西皮",
-          "text": "将军威名天下震，\n文韬武略谁不闻？"
+          "text": "将军威名天下震，"
+        },
+        {
+          "character": "孙权",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "文韬武略谁不闻？"
         },
         {
           "character": null,
@@ -1542,7 +1893,17 @@
           "西皮摇板",
           "西皮散板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.094,
+        0.3425,
+        0.6438,
+        0.0137,
+        0.3889,
+        5,
+        0.3425,
+        0.0
+      ]
     },
     {
       "scene_index": 7,
@@ -1662,14 +2023,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "好！就命张辽前去引战。张郃可带三千人马，暗暗埋伏濡须口外，等他到此，\n一齐杀出，截其归路，管教他片甲不回，不得违误！"
+          "text": "好！就命张辽前去引战。张郃可带三千人马，暗暗埋伏濡须口外，等他到此，"
+        },
+        {
+          "character": "曹操",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "一齐杀出，截其归路，管教他片甲不回，不得违误！"
         },
         {
           "character": "张辽、张郃",
           "line_type": "同白",
           "musical_style": null,
           "style_family": null,
-          "text": "得令。\n马来！"
+          "text": "得令。"
+        },
+        {
+          "character": "张辽、张郃",
+          "line_type": "同白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "马来！"
         },
         {
           "character": null,
@@ -1697,7 +2072,21 @@
           "line_type": "西皮流水板",
           "musical_style": "西皮流水板",
           "style_family": "西皮",
-          "text": "纷纷将士逞英豪。\n扫荡群雄立功劳。\n部下三军你们齐引导！"
+          "text": "纷纷将士逞英豪。"
+        },
+        {
+          "character": "曹操",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "扫荡群雄立功劳。"
+        },
+        {
+          "character": "曹操",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "部下三军你们齐引导！"
         },
         {
           "character": "曹操",
@@ -1764,7 +2153,17 @@
           "西皮散板",
           "西皮流水"
         ]
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.3,
+        0.7,
+        0.0,
+        0.6316,
+        7,
+        0.25,
+        0.0
+      ]
     },
     {
       "scene_index": 8,
@@ -1785,21 +2184,63 @@
           "line_type": "西皮散板",
           "musical_style": "西皮散板",
           "style_family": "西皮",
-          "text": "黄罗宝帐领将令，\n不由豪杰咬牙根。"
+          "text": "黄罗宝帐领将令，"
+        },
+        {
+          "character": "凌统",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "不由豪杰咬牙根。"
         },
         {
           "character": "凌统",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "嗐！可恨甘宁，在主公面前，要抢某的头功；多亏主公将他止住，命某挑选精\n兵三千，大战曹兵。\n呔！众将官！听我一令！"
+          "text": "嗐！可恨甘宁，在主公面前，要抢某的头功；多亏主公将他止住，命某挑选精"
+        },
+        {
+          "character": "凌统",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "兵三千，大战曹兵。"
+        },
+        {
+          "character": "凌统",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "呔！众将官！听我一令！"
         },
         {
           "character": "凌统",
           "line_type": "西皮流水板",
           "musical_style": "西皮流水板",
           "style_family": "西皮",
-          "text": "坐在雕鞍传将令，\n大小儿郎听分明：\n退缩斩首不容情。\n三军队队往前进！"
+          "text": "坐在雕鞍传将令，"
+        },
+        {
+          "character": "凌统",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "大小儿郎听分明："
+        },
+        {
+          "character": "凌统",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "退缩斩首不容情。"
+        },
+        {
+          "character": "凌统",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "三军队队往前进！"
         },
         {
           "character": null,
@@ -1828,7 +2269,17 @@
           "西皮散板",
           "西皮流水"
         ]
-      }
+      },
+      "scene_feature": [
+        1.0,
+        0.7,
+        0.3,
+        0.0,
+        0.0,
+        1,
+        0.7,
+        0.0
+      ]
     },
     {
       "scene_index": 9,
@@ -1850,7 +2301,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "俺、张辽。奉了丞相将令，迎敌吴兵。\n众将官！迎上前去！"
+          "text": "俺、张辽。奉了丞相将令，迎敌吴兵。"
+        },
+        {
+          "character": "张辽",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "众将官！迎上前去！"
         },
         {
           "character": null,
@@ -1906,7 +2364,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.5,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 10,
@@ -1929,7 +2397,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 11,
@@ -1952,7 +2430,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 12,
@@ -2046,7 +2534,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 13,
@@ -2072,7 +2570,21 @@
           "line_type": "西皮散板",
           "musical_style": "西皮散板",
           "style_family": "西皮",
-          "text": "战鼓咚咚连声响，\n不知谁胜哪家强？\n将身坐在黄罗帐。"
+          "text": "战鼓咚咚连声响，"
+        },
+        {
+          "character": "孙权",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "不知谁胜哪家强？"
+        },
+        {
+          "character": "孙权",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "将身坐在黄罗帐。"
         },
         {
           "character": null,
@@ -2121,14 +2633,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "臣启主公：如今凌统将军失机败阵，那曹操必然军威大振。为臣今晚只带领百\n人，去劫魏营。如若损伤一卒，情愿按军法从事。"
+          "text": "臣启主公：如今凌统将军失机败阵，那曹操必然军威大振。为臣今晚只带领百"
+        },
+        {
+          "character": "甘宁",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "人，去劫魏营。如若损伤一卒，情愿按军法从事。"
         },
         {
           "character": "孙权",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "呀！将军有此刚毅，这满营兵卒，任你挑选一百名，今晚去劫魏营。孤赐美酒\n十坛，猪羊两口，归营去饮。立功之后，再为奖赏！"
+          "text": "呀！将军有此刚毅，这满营兵卒，任你挑选一百名，今晚去劫魏营。孤赐美酒"
+        },
+        {
+          "character": "孙权",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "十坛，猪羊两口，归营去饮。立功之后，再为奖赏！"
         },
         {
           "character": "甘宁",
@@ -2156,14 +2682,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "啊，臣启主公：甘宁用百名兵卒去劫魏营，分明耻笑俺凌统，为臣今晚要单人\n独骑与曹兵决一死战。"
+          "text": "啊，臣启主公：甘宁用百名兵卒去劫魏营，分明耻笑俺凌统，为臣今晚要单人"
+        },
+        {
+          "character": "凌统",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "独骑与曹兵决一死战。"
         },
         {
           "character": "孙权",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "啊！你二人千万不可因私嫌而误国家大事；从此你二人须要和美，孤才放心。\n破曹之后，孤与你二人和解，不可各怀意见。"
+          "text": "啊！你二人千万不可因私嫌而误国家大事；从此你二人须要和美，孤才放心。"
+        },
+        {
+          "character": "孙权",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "破曹之后，孤与你二人和解，不可各怀意见。"
         },
         {
           "character": "凌统",
@@ -2198,7 +2738,14 @@
           "line_type": "西皮散板",
           "musical_style": "西皮散板",
           "style_family": "西皮",
-          "text": "此番出兵非关小，\n将士必须立功劳。"
+          "text": "此番出兵非关小，"
+        },
+        {
+          "character": "孙权",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "将士必须立功劳。"
         }
       ],
       "interactions": [
@@ -2247,7 +2794,17 @@
         "musical_styles": [
           "西皮散板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.154,
+        0.2273,
+        0.7727,
+        0.0,
+        0.4762,
+        5,
+        0.2273,
+        0.0
+      ]
     },
     {
       "scene_index": 14,
@@ -2577,7 +3134,17 @@
           "西皮快板",
           "西皮散板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.069,
+        0.1212,
+        0.8788,
+        0.0,
+        0.75,
+        3,
+        0.0606,
+        0.0
+      ]
     },
     {
       "scene_index": 15,
@@ -2673,7 +3240,17 @@
           "西皮原板",
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.333,
+        0.4,
+        0.6,
+        0.0,
+        0.5,
+        2,
+        0.4,
+        0.0
+      ]
     },
     {
       "scene_index": 16,
@@ -2726,7 +3303,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 17,
@@ -2798,7 +3385,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 18,
@@ -2961,7 +3558,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.8,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 19,
@@ -3023,7 +3630,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        1.0,
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        2,
+        1.0,
+        0.0
+      ]
     },
     {
       "scene_index": 20,
@@ -3046,7 +3663,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 21,
@@ -3069,7 +3696,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 22,
@@ -3243,7 +3880,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.091,
+        0.0833,
+        0.9167,
+        0.0,
+        0.8182,
+        5,
+        0.0833,
+        0.0
+      ]
     },
     {
       "scene_index": 23,
@@ -3327,7 +3974,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        3,
+        0.0,
+        0.0
+      ]
     }
   ]
 }

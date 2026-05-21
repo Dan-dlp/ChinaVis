@@ -233,7 +233,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -266,7 +276,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "我，熊祥。今乃我父寿诞之日，本州大小官员，必定前来拜寿。我不免请爹爹\n出来，与他老人家拜寿。\n有请爹爹。"
+          "text": "我，熊祥。今乃我父寿诞之日，本州大小官员，必定前来拜寿。我不免请爹爹"
+        },
+        {
+          "character": "熊祥",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "出来，与他老人家拜寿。"
+        },
+        {
+          "character": "熊祥",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "有请爹爹。"
         },
         {
           "character": "熊虎",
@@ -406,14 +430,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "哎呀可完事啦。\n熊福，我在家闷极啦。咱们爷儿俩，外边游玩游玩。福儿带路。"
+          "text": "哎呀可完事啦。"
+        },
+        {
+          "character": "熊祥",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "熊福，我在家闷极啦。咱们爷儿俩，外边游玩游玩。福儿带路。"
         },
         {
           "character": "熊祥",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "主仆二人出府门，\n寻找美貌女佳人。"
+          "text": "主仆二人出府门，"
+        },
+        {
+          "character": "熊祥",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "寻找美貌女佳人。"
         },
         {
           "character": null,
@@ -464,7 +502,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0952,
+        0.8095,
+        0.0952,
+        0.55,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -487,14 +535,35 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "只因内弟身染病，\n带领女儿去探亲。"
+          "text": "只因内弟身染病，"
+        },
+        {
+          "character": "张继昌",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "带领女儿去探亲。"
         },
         {
           "character": "张继昌",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "老汉张继昌。只因内弟身染病症，带领小女前去看望。幸喜内弟病休痊愈，回\n转家中。\n女儿，我们速速回去吧。"
+          "text": "老汉张继昌。只因内弟身染病症，带领小女前去看望。幸喜内弟病休痊愈，回"
+        },
+        {
+          "character": "张继昌",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "转家中。"
+        },
+        {
+          "character": "张继昌",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "女儿，我们速速回去吧。"
         },
         {
           "character": "张继昌",
@@ -613,7 +682,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.3,
+        0.3333,
+        0.6667,
+        0.0,
+        0.5714,
+        3,
+        0.3333,
+        0.0
+      ]
     },
     {
       "scene_index": 4,
@@ -682,7 +761,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "请稍待。\n启禀员外：外面有熊府管家求见。"
+          "text": "请稍待。"
+        },
+        {
+          "character": "院子",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "启禀员外：外面有熊府管家求见。"
         },
         {
           "character": "张继昌",
@@ -724,7 +810,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "我奉熊府之命，前来向小姐求婚，与我家公子结为秦晋之好。您是一定不能推\n辞啦。"
+          "text": "我奉熊府之命，前来向小姐求婚，与我家公子结为秦晋之好。您是一定不能推"
+        },
+        {
+          "character": "熊福",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "辞啦。"
         },
         {
           "character": null,
@@ -738,7 +831,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "嘿嘿嘿……熊府父子仗势欺人，人人愤恨，老汉是安善良民，岂肯与那万恶官\n吏结亲。\n家院，将他轰了出去！"
+          "text": "嘿嘿嘿……熊府父子仗势欺人，人人愤恨，老汉是安善良民，岂肯与那万恶官"
+        },
+        {
+          "character": "张继昌",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "吏结亲。"
+        },
+        {
+          "character": "张继昌",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "家院，将他轰了出去！"
         },
         {
           "character": "院子",
@@ -808,7 +915,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "这事好办。咱们造一张假字据，上写“张继昌借银三千两，限期三月归还。三\n个月不还，情愿将女儿送上熊府为妾。空口无凭，立字为证。”拿着这张假字\n据，到县衙去求苗老爷作主，苗知县是老太爷的门生，一定替您办好这件美事。"
+          "text": "这事好办。咱们造一张假字据，上写“张继昌借银三千两，限期三月归还。三"
+        },
+        {
+          "character": "熊福",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "个月不还，情愿将女儿送上熊府为妾。空口无凭，立字为证。”拿着这张假字"
+        },
+        {
+          "character": "熊福",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "据，到县衙去求苗老爷作主，苗知县是老太爷的门生，一定替您办好这件美事。"
         },
         {
           "character": "熊祥",
@@ -836,7 +957,14 @@
           "line_type": "西皮散板",
           "musical_style": "西皮散板",
           "style_family": "西皮",
-          "text": "满口扯谎摇舌剑，\n尽将假话作真言。"
+          "text": "满口扯谎摇舌剑，"
+        },
+        {
+          "character": "熊祥",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "尽将假话作真言。"
         },
         {
           "character": null,
@@ -864,7 +992,14 @@
           "line_type": "西皮散板",
           "musical_style": "西皮散板",
           "style_family": "西皮",
-          "text": "见机而行随机变，\n花言巧语胡乱谈。"
+          "text": "见机而行随机变，"
+        },
+        {
+          "character": "熊祥",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "花言巧语胡乱谈。"
         },
         {
           "character": null,
@@ -906,7 +1041,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "请稍候。\n禀老爷：熊公子求见。"
+          "text": "请稍候。"
+        },
+        {
+          "character": "门子",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "禀老爷：熊公子求见。"
         },
         {
           "character": "苗信",
@@ -962,7 +1104,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "岂有此理！这还了得！\n传捕快前来。"
+          "text": "岂有此理！这还了得！"
+        },
+        {
+          "character": "苗信",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "传捕快前来。"
         },
         {
           "character": "门子",
@@ -1078,7 +1227,17 @@
         "musical_styles": [
           "西皮散板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0816,
+        0.9184,
+        0.0,
+        0.6875,
+        7,
+        0.0816,
+        0.0
+      ]
     },
     {
       "scene_index": 5,
@@ -1187,7 +1346,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.7143,
+        0.2857,
+        0.8333,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 6,
@@ -1247,7 +1416,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "什么无有此事！\n来呀，传女禁卒。"
+          "text": "什么无有此事！"
+        },
+        {
+          "character": "苗信",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来呀，传女禁卒。"
         },
         {
           "character": null,
@@ -1366,7 +1542,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "你看？你要给扯啦哪！我在上面念，你在下边听：“立借约人张继昌，今借到\n熊府银三千两，言明三月后，连本带利一并归还。如若无银归还，情愿将女儿\n送上熊府为妾。空口无凭，立字为证。”这是假的吗？"
+          "text": "你看？你要给扯啦哪！我在上面念，你在下边听：“立借约人张继昌，今借到"
+        },
+        {
+          "character": "苗信",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "熊府银三千两，言明三月后，连本带利一并归还。如若无银归还，情愿将女儿"
+        },
+        {
+          "character": "苗信",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "送上熊府为妾。空口无凭，立字为证。”这是假的吗？"
         },
         {
           "character": "张继昌",
@@ -1380,7 +1570,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "哈哈，这么大岁数耍无赖呀。\n来呀，与我乱棍打出去！"
+          "text": "哈哈，这么大岁数耍无赖呀。"
+        },
+        {
+          "character": "苗信",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来呀，与我乱棍打出去！"
         },
         {
           "character": null,
@@ -1401,7 +1598,14 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "狗赃官行事令人恨，\n他官官相护欺良民。"
+          "text": "狗赃官行事令人恨，"
+        },
+        {
+          "character": "张继昌",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "他官官相护欺良民。"
         },
         {
           "character": "张继昌",
@@ -1415,7 +1619,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "熊祥这贼串通狗官将我女儿押入监中，将我打……下堂来。这……也罢！拚着\n我的老命不要，上告于他。我就是这个主意，我就是这个主意。"
+          "text": "熊祥这贼串通狗官将我女儿押入监中，将我打……下堂来。这……也罢！拚着"
+        },
+        {
+          "character": "张继昌",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我的老命不要，上告于他。我就是这个主意，我就是这个主意。"
         },
         {
           "character": null,
@@ -1473,7 +1684,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0938,
+        0.9062,
+        0.0,
+        0.7097,
+        5,
+        0.0625,
+        0.0
+      ]
     },
     {
       "scene_index": 7,
@@ -1611,7 +1832,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "是啦。\n伙计，好酒一壶。\n酒到，我给您斟上，您请用吧。"
+          "text": "是啦。"
+        },
+        {
+          "character": "酒保",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "伙计，好酒一壶。"
+        },
+        {
+          "character": "酒保",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "酒到，我给您斟上，您请用吧。"
         },
         {
           "character": "关羽",
@@ -1709,7 +1944,21 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "年纪迈血气衰路途难奔，\n走得我喘吁吁冷汗淋淋。\n似这样不平事哪里去论……"
+          "text": "年纪迈血气衰路途难奔，"
+        },
+        {
+          "character": "张继昌",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "走得我喘吁吁冷汗淋淋。"
+        },
+        {
+          "character": "张继昌",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "似这样不平事哪里去论……"
         },
         {
           "character": null,
@@ -1751,7 +2000,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "哎呀，小哥呀！大小衙门与他父子均有来往，我上得堂去，不容分说，将我打\n下堂来，叫我何处去告，何处去诉哇……"
+          "text": "哎呀，小哥呀！大小衙门与他父子均有来往，我上得堂去，不容分说，将我打"
+        },
+        {
+          "character": "张继昌",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "下堂来，叫我何处去告，何处去诉哇……"
         },
         {
           "character": null,
@@ -1835,14 +2091,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "起来，起来！老头儿，你家住哪里，姓甚名谁，为了何事，如此悲痛？慢慢讲\n来。"
+          "text": "起来，起来！老头儿，你家住哪里，姓甚名谁，为了何事，如此悲痛？慢慢讲"
+        },
+        {
+          "character": "关羽",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来。"
         },
         {
           "character": "张继昌",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "小老儿名叫张继昌，就是蒲州解良人氏。只因熊太守之子名叫熊祥，将我女儿\n抢去……"
+          "text": "小老儿名叫张继昌，就是蒲州解良人氏。只因熊太守之子名叫熊祥，将我女儿"
+        },
+        {
+          "character": "张继昌",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "抢去……"
         },
         {
           "character": "关羽",
@@ -1856,7 +2126,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "哎呀，关大爷呀！大小衙门与他均有来往，我上堂去，不容分说，将我打下堂\n来。"
+          "text": "哎呀，关大爷呀！大小衙门与他均有来往，我上堂去，不容分说，将我打下堂"
+        },
+        {
+          "character": "张继昌",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来。"
         },
         {
           "character": "关羽",
@@ -1870,7 +2147,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "哎呀，关大爷呀！若蒙救出我的女儿，慢说是小老儿，就是我那张氏祖先，也\n是感恩非浅。请上受我一拜。"
+          "text": "哎呀，关大爷呀！若蒙救出我的女儿，慢说是小老儿，就是我那张氏祖先，也"
+        },
+        {
+          "character": "张继昌",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "是感恩非浅。请上受我一拜。"
         },
         {
           "character": null,
@@ -1933,7 +2217,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "呔，老头儿休得啼哭。喘息定了，领俺前往。\n酒家，酒钱上账。"
+          "text": "呔，老头儿休得啼哭。喘息定了，领俺前往。"
+        },
+        {
+          "character": "关羽",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "酒家，酒钱上账。"
         },
         {
           "character": "酒保",
@@ -2052,7 +2343,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "你看——要是扯啦哪？我念你听：“立借约人张继昌，今借到熊府银子三千两，\n言明三月后，连本带利一并归还，如若无银归还，情愿将女儿送上熊府为妾。\n空口无凭，立字为证。”这还是什么假的吗？"
+          "text": "你看——要是扯啦哪？我念你听：“立借约人张继昌，今借到熊府银子三千两，"
+        },
+        {
+          "character": "苗信",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "言明三月后，连本带利一并归还，如若无银归还，情愿将女儿送上熊府为妾。"
+        },
+        {
+          "character": "苗信",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "空口无凭，立字为证。”这还是什么假的吗？"
         },
         {
           "character": "关羽",
@@ -2101,14 +2406,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "唗，真假与你什么相干。\n来，打他！"
+          "text": "唗，真假与你什么相干。"
+        },
+        {
+          "character": "苗信",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来，打他！"
         },
         {
           "character": "关羽",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "住了！你可知：路不平，要人铲；话不公，有人论。想你乃民之父母，不与百\n姓平冤，反倒助强为恶。似你这样糊涂的官儿，岂不臭名万代，骂名千载！"
+          "text": "住了！你可知：路不平，要人铲；话不公，有人论。想你乃民之父母，不与百"
+        },
+        {
+          "character": "关羽",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "姓平冤，反倒助强为恶。似你这样糊涂的官儿，岂不臭名万代，骂名千载！"
         },
         {
           "character": "苗信",
@@ -2122,7 +2441,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "这个——我问问他去。\n呔，那一大汉，你是个什么东西，敢多管闲事！"
+          "text": "这个——我问问他去。"
+        },
+        {
+          "character": "熊祥",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "呔，那一大汉，你是个什么东西，敢多管闲事！"
         },
         {
           "character": "关羽",
@@ -2178,7 +2504,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "唗，大胆狂徒，打死熊公子，哪里容得。\n来呀，将大汉与我拿下。"
+          "text": "唗，大胆狂徒，打死熊公子，哪里容得。"
+        },
+        {
+          "character": "苗信",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来呀，将大汉与我拿下。"
         },
         {
           "character": null,
@@ -2354,7 +2687,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.012,
+        0.0337,
+        0.9551,
+        0.0112,
+        0.6818,
+        6,
+        0.0337,
+        0.0
+      ]
     },
     {
       "scene_index": 8,
@@ -2551,7 +2894,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.5455,
+        2,
+        0.0,
+        0.0
+      ]
     }
   ]
 }

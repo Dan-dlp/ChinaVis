@@ -188,7 +188,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "可恨南朝杨家玉芙蓉挂印为帅，统兵前来扫灭番邦。前番一战被我擒了她上将\n多名，囚禁在此。待等擒了玉芙蓉解送我国献功便了。"
+          "text": "可恨南朝杨家玉芙蓉挂印为帅，统兵前来扫灭番邦。前番一战被我擒了她上将"
+        },
+        {
+          "character": "张天龙",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "多名，囚禁在此。待等擒了玉芙蓉解送我国献功便了。"
         },
         {
           "character": null,
@@ -244,7 +251,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "听说南蛮有救兵，\n口内不言心内明。"
+          "text": "听说南蛮有救兵，"
+        },
+        {
+          "character": "张天龙",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "口内不言心内明。"
         },
         {
           "character": null,
@@ -305,7 +319,17 @@
         "singing_ratio": 0.077,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.077,
+        0.2353,
+        0.5882,
+        0.1765,
+        0.625,
+        5,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -404,7 +428,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "我看你哪里走！\n哎吓，跑了跑了。\n黑蛋慢走，你驸马爷来也！"
+          "text": "我看你哪里走！"
+        },
+        {
+          "character": "张天龙",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "哎吓，跑了跑了。"
+        },
+        {
+          "character": "张天龙",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "黑蛋慢走，你驸马爷来也！"
         },
         {
           "character": null,
@@ -433,7 +471,17 @@
         "singing_ratio": 0.25,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.25,
+        0.1818,
+        0.8182,
+        0.0,
+        0.5,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -574,7 +622,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "可笑表兄太无能，\n待俺前去看分明。"
+          "text": "可笑表兄太无能，"
+        },
+        {
+          "character": "杨仙童",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "待俺前去看分明。"
         },
         {
           "character": null,
@@ -602,7 +657,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.1111,
+        0.8889,
+        0.0,
+        0.8235,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 4,
@@ -624,7 +689,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "兄弟三人要争功，\n不知谁雌与谁雄？"
+          "text": "兄弟三人要争功，"
+        },
+        {
+          "character": "高能",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "不知谁雌与谁雄？"
         },
         {
           "character": null,
@@ -821,7 +893,17 @@
         "singing_ratio": 0.042,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.042,
+        0.08,
+        0.92,
+        0.0,
+        0.9583,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 5,
@@ -942,7 +1024,17 @@
         "singing_ratio": 0.875,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.875,
+        0.8889,
+        0.1111,
+        0.0,
+        0.875,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 6,
@@ -965,14 +1057,49 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "两家交战同勒马，\n阵前来了一小娃。\n好似天宫小哪叱。"
+          "text": "两家交战同勒马，"
         },
         {
-          "character": "看他不是凡人样、杨仙童",
+          "character": "玉宝公主",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "站立阵前用目观，\n那旁来了一婵娟。\n聘婷容貌似天仙。"
+          "text": "阵前来了一小娃。"
+        },
+        {
+          "character": "玉宝公主",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "好似天宫小哪叱。"
+        },
+        {
+          "character": "玉宝公主",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "看他不是凡人样"
+        },
+        {
+          "character": "杨仙童",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "站立阵前用目观，"
+        },
+        {
+          "character": "杨仙童",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "那旁来了一婵娟。"
+        },
+        {
+          "character": "杨仙童",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "聘婷容貌似天仙。"
         },
         {
           "character": null,
@@ -1084,7 +1211,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "好。南朝人连交情都不懂得，怎么好呢？\n吓，附耳过来。"
+          "text": "好。南朝人连交情都不懂得，怎么好呢？"
+        },
+        {
+          "character": "玉宝公主",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "吓，附耳过来。"
         },
         {
           "character": null,
@@ -1098,7 +1232,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "且住。我下山时节，师父言道：有花就采。莫非就此成功？\n吓，你的帐房在哪里？"
+          "text": "且住。我下山时节，师父言道：有花就采。莫非就此成功？"
+        },
+        {
+          "character": "杨仙童",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "吓，你的帐房在哪里？"
         },
         {
           "character": "玉宝公主",
@@ -1281,7 +1422,17 @@
         "singing_ratio": 0.05,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.05,
+        0.1489,
+        0.8511,
+        0.0,
+        0.8478,
+        2,
+        0.0,
+        0.0
+      ]
     }
   ]
 }

@@ -111,21 +111,56 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "花色盈盈千般好，\n唐室文武贺圣朝。"
-        },
-        {
-          "character": "安禄山",
-          "line_type": "白",
-          "musical_style": null,
-          "style_family": null,
-          "text": "俺，节度使安禄山是也。适才宫中谢宴而出，行来金马门，待俺加鞭过。\n且住，我想金马门，乃是文官出入之所。我如何行走得呢？哎，想我既拜贵妃\n娘娘为母，天子宠爱，满朝文武，谁不钦敬，谅他们不敢轻慢与我也。"
+          "text": "花色盈盈千般好，"
         },
         {
           "character": "安禄山",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "勒马停蹄闯禁门，\n上尊天子压群臣。\n扬鞭闯过金马门。"
+          "text": "唐室文武贺圣朝。"
+        },
+        {
+          "character": "安禄山",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "俺，节度使安禄山是也。适才宫中谢宴而出，行来金马门，待俺加鞭过。"
+        },
+        {
+          "character": "安禄山",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "且住，我想金马门，乃是文官出入之所。我如何行走得呢？哎，想我既拜贵妃"
+        },
+        {
+          "character": "安禄山",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "娘娘为母，天子宠爱，满朝文武，谁不钦敬，谅他们不敢轻慢与我也。"
+        },
+        {
+          "character": "安禄山",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "勒马停蹄闯禁门，"
+        },
+        {
+          "character": "安禄山",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "上尊天子压群臣。"
+        },
+        {
+          "character": "安禄山",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "扬鞭闯过金马门。"
         },
         {
           "character": null,
@@ -144,7 +179,17 @@
         "singing_ratio": 1.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        1.0,
+        0.625,
+        0.375,
+        0.0,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -184,24 +229,87 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "携手相扶漫遣怀，\n散步逍遥过大街。\n谁似我好酒不贪财。"
+          "text": "携手相扶漫遣怀，"
         },
         {
-          "character": "长安多少富贵客、李白",
+          "character": "贺知章",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "圣上有道众群僚，\n万马营中爵位高。\n笔尖犹如斩将刀。\n腾起烟尘渐渐高。"
+          "text": "散步逍遥过大街。"
         },
         {
-          "character": "长安多少富贵客、李白",
+          "character": "贺知章",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "谁似我好酒不贪财。"
+        },
+        {
+          "character": "贺知章",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "长安多少富贵客"
+        },
+        {
+          "character": "李白",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "圣上有道众群僚，"
+        },
+        {
+          "character": "李白",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "万马营中爵位高。"
+        },
+        {
+          "character": "李白",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "笔尖犹如斩将刀。"
+        },
+        {
+          "character": "李白",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "腾起烟尘渐渐高。"
+        },
+        {
+          "character": "李白",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "长安多少富贵客"
+        },
+        {
+          "character": "李白",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
           "text": "老年兄你可曾看见么？"
         },
         {
-          "character": "七篇锦绣真贵宝、耳边又听得銮铃啸、贺知章",
+          "character": "李白",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "七篇锦绣真贵宝"
+        },
+        {
+          "character": "李白",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "耳边又听得銮铃啸"
+        },
+        {
+          "character": "贺知章",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -233,17 +341,45 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "是文官出入就下轿，\n不该马上逞英豪。\n一见奴才气怎消。"
+          "text": "是文官出入就下轿，"
+        },
+        {
+          "character": "李白",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "不该马上逞英豪。"
+        },
+        {
+          "character": "李白",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "一见奴才气怎消。"
         },
         {
           "character": "李白",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "哎，我道是谁，原来是他。老年兄，我想节度使乃甚等之人，他也走起金马门\n来了！你我坐在此间，看他怎样过去？"
+          "text": "哎，我道是谁，原来是他。老年兄，我想节度使乃甚等之人，他也走起金马门"
         },
         {
-          "character": "一言未尽顷刻到、贺知章",
+          "character": "李白",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来了！你我坐在此间，看他怎样过去？"
+        },
+        {
+          "character": "李白",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "一言未尽顷刻到"
+        },
+        {
+          "character": "贺知章",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -268,7 +404,35 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "不生烦恼惹烦恼，\n酒鬼无礼犯人嘲。\n轻慢天子压群僚。\n不知风色小儿曹。\n想必是学士醉醇醪。"
+          "text": "不生烦恼惹烦恼，"
+        },
+        {
+          "character": "安禄山",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "酒鬼无礼犯人嘲。"
+        },
+        {
+          "character": "安禄山",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "轻慢天子压群僚。"
+        },
+        {
+          "character": "安禄山",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "不知风色小儿曹。"
+        },
+        {
+          "character": "安禄山",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "想必是学士醉醇醪。"
         },
         {
           "character": "安禄山",
@@ -278,7 +442,28 @@
           "text": "吓，众位学士公，请来见礼。"
         },
         {
-          "character": "自夸腹内文章妙、能屈能伸真君子、假陪笑险将他告、李白",
+          "character": "安禄山",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "自夸腹内文章妙"
+        },
+        {
+          "character": "安禄山",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "能屈能伸真君子"
+        },
+        {
+          "character": "安禄山",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "假陪笑险将他告"
+        },
+        {
+          "character": "李白",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -296,21 +481,56 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "唔，大胆可恶，岂有此理。我想金马门，乃是先帝太祖所立，是我们翰林院学\n士出入的道路。你是甚等之人，也敢行走。真乃无礼。我等坐在此间，看你怎\n样过去。"
-        },
-        {
-          "character": "安禄山",
-          "line_type": "白",
-          "musical_style": null,
-          "style_family": null,
-          "text": "吓，学士公，这就是你的不是了。俺也曾南征北剿，挣下汗马功劳。况俺既拜\n贵妃娘娘为母，你竟敢慢待与我，真乃可恼。"
+          "text": "唔，大胆可恶，岂有此理。我想金马门，乃是先帝太祖所立，是我们翰林院学"
         },
         {
           "character": "李白",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "节度使，我且问你，方才你说你既拜贵妃娘娘为母。她乃一朝国母，岂容你膝\n下如此无礼。你道是南征北剿，挣下汗马功劳，你有何功劳，不过是圣上宠爱\n与你，老爷平素皆知。你可晓得我醉写吓蛮之事么？"
+          "text": "士出入的道路。你是甚等之人，也敢行走。真乃无礼。我等坐在此间，看你怎"
+        },
+        {
+          "character": "李白",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "样过去。"
+        },
+        {
+          "character": "安禄山",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "吓，学士公，这就是你的不是了。俺也曾南征北剿，挣下汗马功劳。况俺既拜"
+        },
+        {
+          "character": "安禄山",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "贵妃娘娘为母，你竟敢慢待与我，真乃可恼。"
+        },
+        {
+          "character": "李白",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "节度使，我且问你，方才你说你既拜贵妃娘娘为母。她乃一朝国母，岂容你膝"
+        },
+        {
+          "character": "李白",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "下如此无礼。你道是南征北剿，挣下汗马功劳，你有何功劳，不过是圣上宠爱"
+        },
+        {
+          "character": "李白",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "与你，老爷平素皆知。你可晓得我醉写吓蛮之事么？"
         },
         {
           "character": "安禄山",
@@ -331,17 +551,108 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "金马门怒恼了翰林院，\n酒醉辱骂安禄山。\n扰乱吾主心不安。\n那时酒醉把君参。\n高力士脱靴在金殿。\n虽然沉醉写吓蛮。\n削尔的首级挂高杆。"
+          "text": "金马门怒恼了翰林院，"
+        },
+        {
+          "character": "李白",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "酒醉辱骂安禄山。"
+        },
+        {
+          "character": "李白",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "扰乱吾主心不安。"
+        },
+        {
+          "character": "李白",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "那时酒醉把君参。"
+        },
+        {
+          "character": "李白",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "高力士脱靴在金殿。"
+        },
+        {
+          "character": "李白",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "虽然沉醉写吓蛮。"
+        },
+        {
+          "character": "李白",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "削尔的首级挂高杆。"
         },
         {
           "character": "李白",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "岂有此理。想我醉写吓蛮之时，杨国忠捧砚，高力士脱靴。圣上亲自御手调羹，\n若非念你在朝奉君，我把你这大胆的奴才，送至君前，削尔的首级。\n哎，节度使，学生酒醉失言，得罪了。"
+          "text": "岂有此理。想我醉写吓蛮之时，杨国忠捧砚，高力士脱靴。圣上亲自御手调羹，"
         },
         {
-          "character": "下国夷蛮把兵变、传旨曾将下官宣、杨国忠双手捧过砚、我也曾斗酒将诗献、若不是番邦降表献、安禄山",
+          "character": "李白",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "若非念你在朝奉君，我把你这大胆的奴才，送至君前，削尔的首级。"
+        },
+        {
+          "character": "李白",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "哎，节度使，学生酒醉失言，得罪了。"
+        },
+        {
+          "character": "李白",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "下国夷蛮把兵变"
+        },
+        {
+          "character": "李白",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "传旨曾将下官宣"
+        },
+        {
+          "character": "李白",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "杨国忠双手捧过砚"
+        },
+        {
+          "character": "李白",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我也曾斗酒将诗献"
+        },
+        {
+          "character": "李白",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "若不是番邦降表献"
+        },
+        {
+          "character": "安禄山",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -366,14 +677,56 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "哎，节度使，这就是你的不是了。你骂众位学士，李学士在此着恼，老夫与你\n宛转周旋，说了许多的好话，你反而说朝中之事，被我们文官坏尽。想昔日愧\n阳领兵，大战丘山，逼反贾同，围困在内，内无粮草，外无救兵。那时仰面朝\n天，叹曰：自己能有几乎为狗，何况与你，你可知作狗奉君无日乎。哎，真乃\n无理。"
+          "text": "哎，节度使，这就是你的不是了。你骂众位学士，李学士在此着恼，老夫与你"
+        },
+        {
+          "character": "贺知章",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "宛转周旋，说了许多的好话，你反而说朝中之事，被我们文官坏尽。想昔日愧"
+        },
+        {
+          "character": "贺知章",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "阳领兵，大战丘山，逼反贾同，围困在内，内无粮草，外无救兵。那时仰面朝"
+        },
+        {
+          "character": "贺知章",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "天，叹曰：自己能有几乎为狗，何况与你，你可知作狗奉君无日乎。哎，真乃"
+        },
+        {
+          "character": "贺知章",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "无理。"
         },
         {
           "character": "李白",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "哎，年兄不必动怒，他能读了几句诗书，犹如对牛弹琴一般。待我问他几句。\n哎，节度使，你说道朝中之事，被我文官坏尽。你有何能，你的来历，还当我\n等不知。"
+          "text": "哎，年兄不必动怒，他能读了几句诗书，犹如对牛弹琴一般。待我问他几句。"
+        },
+        {
+          "character": "李白",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "哎，节度使，你说道朝中之事，被我文官坏尽。你有何能，你的来历，还当我"
+        },
+        {
+          "character": "李白",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "等不知。"
         },
         {
           "character": "安禄山",
@@ -394,10 +747,45 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "你生来油头白粉面，\n肥嫩身体软如棉。\n谄媚邀宠不羞惭。\n赛过嫔妃一样般。"
+          "text": "你生来油头白粉面，"
         },
         {
-          "character": "蛮夷无宝将你献、虽然未曾对宫院、安禄山",
+          "character": "李白",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "肥嫩身体软如棉。"
+        },
+        {
+          "character": "李白",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "谄媚邀宠不羞惭。"
+        },
+        {
+          "character": "李白",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "赛过嫔妃一样般。"
+        },
+        {
+          "character": "李白",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "蛮夷无宝将你献"
+        },
+        {
+          "character": "李白",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "虽然未曾对宫院"
+        },
+        {
+          "character": "安禄山",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -478,7 +866,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "节度使，请息怒，常言道得好，家主犯事，尽出门下之人，学生这厢陪罪了，\n莫要与他一般见识。"
+          "text": "节度使，请息怒，常言道得好，家主犯事，尽出门下之人，学生这厢陪罪了，"
+        },
+        {
+          "character": "李白",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "莫要与他一般见识。"
         },
         {
           "character": "安禄山",
@@ -548,7 +943,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "安家小子真标标致，\n无耻无羞，甚么东西。"
+          "text": "安家小子真标标致，"
+        },
+        {
+          "character": "书童乙",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "无耻无羞，甚么东西。"
         },
         {
           "character": "书童甲",
@@ -576,10 +978,31 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "安家小子真可耻，\n把你进贡似妾姬。\n你与他同德一般齐。"
+          "text": "安家小子真可耻，"
         },
         {
-          "character": "弥子之下藏食子、李白",
+          "character": "书童甲",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "把你进贡似妾姬。"
+        },
+        {
+          "character": "书童甲",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "你与他同德一般齐。"
+        },
+        {
+          "character": "书童甲",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "弥子之下藏食子"
+        },
+        {
+          "character": "李白",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -597,7 +1020,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "非是学生夸口，慢道我李白的诗书，就是我的仆人，他也知道弥子藏食子之事。\n老年兄这一节，你可知道否？"
+          "text": "非是学生夸口，慢道我李白的诗书，就是我的仆人，他也知道弥子藏食子之事。"
+        },
+        {
+          "character": "李白",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "老年兄这一节，你可知道否？"
         },
         {
           "character": "贺知章",
@@ -639,7 +1069,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "怕什么，纵然骂出祸来，他也不过进宫去，奏知贵妃娘娘，转奏天子，不用我\n在朝奉君，贬回原郡，只是一件。"
+          "text": "怕什么，纵然骂出祸来，他也不过进宫去，奏知贵妃娘娘，转奏天子，不用我"
+        },
+        {
+          "character": "李白",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "在朝奉君，贬回原郡，只是一件。"
         },
         {
           "character": "贺知章",
@@ -765,7 +1202,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "哎，好骂吓，好骂。我如何受得了这气。哦，有了，我不免反出长安便了。\n哎，李太白吓，李太白，俺不杀你，誓不为人也！正是："
+          "text": "哎，好骂吓，好骂。我如何受得了这气。哦，有了，我不免反出长安便了。"
+        },
+        {
+          "character": "安禄山",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "哎，李太白吓，李太白，俺不杀你，誓不为人也！正是："
         },
         {
           "character": "安禄山",
@@ -858,7 +1302,17 @@
         "singing_ratio": 0.029,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.029,
+        0.2571,
+        0.7071,
+        0.0357,
+        0.4892,
+        6,
+        0.0,
+        0.0
+      ]
     }
   ]
 }

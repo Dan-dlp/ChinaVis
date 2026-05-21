@@ -184,7 +184,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "小生李迁仙。在家奉双亲之命，上京求名，功名未就，落在刘玉春家中。蒙他\n之情，留住几日，想我思念双亲，不免请出刘兄商议。\n有请仁兄。"
+          "text": "小生李迁仙。在家奉双亲之命，上京求名，功名未就，落在刘玉春家中。蒙他"
+        },
+        {
+          "character": "李迁仙",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "之情，留住几日，想我思念双亲，不免请出刘兄商议。"
+        },
+        {
+          "character": "李迁仙",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "有请仁兄。"
         },
         {
           "character": null,
@@ -286,7 +300,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.25,
+        0.2143,
+        0.6429,
+        0.1429,
+        0.6154,
+        2,
+        0.1429,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -328,7 +352,21 @@
           "line_type": "西皮慢板",
           "musical_style": "西皮慢板",
           "style_family": "西皮",
-          "text": "杜氏女在房中自思自想，\n想起了终身事好不凄凉。\n我这里将终身同配鸳鸯。"
+          "text": "杜氏女在房中自思自想，"
+        },
+        {
+          "character": "杜十娘",
+          "line_type": "西皮慢板",
+          "musical_style": "西皮慢板",
+          "style_family": "西皮",
+          "text": "想起了终身事好不凄凉。"
+        },
+        {
+          "character": "杜十娘",
+          "line_type": "西皮慢板",
+          "musical_style": "西皮慢板",
+          "style_family": "西皮",
+          "text": "我这里将终身同配鸳鸯。"
         },
         {
           "character": null,
@@ -348,7 +386,17 @@
         "musical_styles": [
           "西皮慢板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.6667,
+        0.1667,
+        0.1667,
+        0.0,
+        1,
+        0.5,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -515,10 +563,31 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "昔日昭君去和番，\n怀抱琵琶上阳关。\n一路哭到雁门关。"
+          "text": "昔日昭君去和番，"
         },
         {
-          "character": "心中不舍汉王主、刘玉春",
+          "character": "杜十娘",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "怀抱琵琶上阳关。"
+        },
+        {
+          "character": "杜十娘",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "一路哭到雁门关。"
+        },
+        {
+          "character": "杜十娘",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "心中不舍汉王主"
+        },
+        {
+          "character": "刘玉春",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -653,7 +722,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.115,
+        0.2069,
+        0.7931,
+        0.0,
+        0.8929,
+        5,
+        0.069,
+        0.0
+      ]
     },
     {
       "scene_index": 4,
@@ -752,7 +831,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 5,
@@ -797,7 +886,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "待我到房里看看。\n杜十娘、杜十娘！"
+          "text": "待我到房里看看。"
+        },
+        {
+          "character": "王八",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "杜十娘、杜十娘！"
         },
         {
           "character": null,
@@ -969,7 +1065,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.8333,
+        0.1667,
+        0.9412,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 6,
@@ -1098,7 +1204,14 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "急急忙忙往前进，\n不觉来得他家门。"
+          "text": "急急忙忙往前进，"
+        },
+        {
+          "character": "李迁仙",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "不觉来得他家门。"
         },
         {
           "character": "李迁仙",
@@ -1210,7 +1323,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "贤弟，想娼门乃是假意，你若是回去，盘费倒有，愚兄此事不能从命。\n来，送李相公出去。"
+          "text": "贤弟，想娼门乃是假意，你若是回去，盘费倒有，愚兄此事不能从命。"
+        },
+        {
+          "character": "刘玉春",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来，送李相公出去。"
         },
         {
           "character": null,
@@ -1279,7 +1399,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0645,
+        0.871,
+        0.0645,
+        0.8333,
+        4,
+        0.0645,
+        0.0
+      ]
     },
     {
       "scene_index": 7,
@@ -1321,7 +1451,21 @@
           "line_type": "西皮慢板",
           "musical_style": "西皮慢板",
           "style_family": "西皮",
-          "text": "杜氏女在房中自思自想，\n想起了终身事好不凄凉。\n我这里将终身同配鸳鸯。"
+          "text": "杜氏女在房中自思自想，"
+        },
+        {
+          "character": "杜十娘",
+          "line_type": "西皮慢板",
+          "musical_style": "西皮慢板",
+          "style_family": "西皮",
+          "text": "想起了终身事好不凄凉。"
+        },
+        {
+          "character": "杜十娘",
+          "line_type": "西皮慢板",
+          "musical_style": "西皮慢板",
+          "style_family": "西皮",
+          "text": "我这里将终身同配鸳鸯。"
         },
         {
           "character": null,
@@ -1350,7 +1494,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.6667,
+        0.1667,
+        0.1667,
+        0.0,
+        1,
+        0.5,
+        0.0
+      ]
     },
     {
       "scene_index": 8,
@@ -1571,7 +1725,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0625,
+        0.9375,
+        0.0,
+        0.8667,
+        5,
+        0.0625,
+        0.0
+      ]
     },
     {
       "scene_index": 9,
@@ -1594,7 +1758,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "来此已是。\n门上有人么？"
+          "text": "来此已是。"
+        },
+        {
+          "character": "李迁仙",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "门上有人么？"
         },
         {
           "character": null,
@@ -1678,7 +1849,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "仁兄哪里知道，杜十娘言道真心嫁我，她言有银子三百，与仁兄商量，暂借银\n子二百，等她出院奉还。"
+          "text": "仁兄哪里知道，杜十娘言道真心嫁我，她言有银子三百，与仁兄商量，暂借银"
+        },
+        {
+          "character": "李迁仙",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "子二百，等她出院奉还。"
         },
         {
           "character": "李迁仙",
@@ -1764,7 +1942,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.8125,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 10,
@@ -2002,7 +2190,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.053,
+        0.0526,
+        0.9474,
+        0.0,
+        0.9444,
+        4,
+        0.0526,
+        0.0
+      ]
     },
     {
       "scene_index": 11,
@@ -2127,7 +2325,17 @@
         "musical_styles": [
           "二黄摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.5,
+        0.4444,
+        0.5556,
+        0.0,
+        0.875,
+        3,
+        0.0,
+        0.4444
+      ]
     },
     {
       "scene_index": 12,
@@ -2195,7 +2403,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 13,
@@ -2224,7 +2442,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "我孙富。爹爹在朝，官居尚书。想我年方三九，尚未婚配。今日心中不乐，不\n免出外游玩一番。\n来。"
+          "text": "我孙富。爹爹在朝，官居尚书。想我年方三九，尚未婚配。今日心中不乐，不"
+        },
+        {
+          "character": "孙富",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "免出外游玩一番。"
+        },
+        {
+          "character": "孙富",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来。"
         },
         {
           "character": null,
@@ -2270,7 +2502,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.8333,
+        0.1667,
+        0.2,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 14,
@@ -2798,7 +3040,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        5,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 15,
@@ -3046,7 +3298,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.2,
+        0.2273,
+        0.7727,
+        0.0,
+        0.9048,
+        3,
+        0.2273,
+        0.0
+      ]
     }
   ]
 }

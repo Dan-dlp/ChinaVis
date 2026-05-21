@@ -278,7 +278,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.875,
+        0.125,
+        1.0,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -313,7 +323,14 @@
           "line_type": "西皮流水板",
           "musical_style": "西皮流水板",
           "style_family": "西皮",
-          "text": "我东吴不幸降星辰！\n伤心何处望归魂。"
+          "text": "我东吴不幸降星辰！"
+        },
+        {
+          "character": "鲁肃",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "伤心何处望归魂。"
         },
         {
           "character": null,
@@ -349,7 +366,17 @@
           "西皮摇板",
           "西皮流水板"
         ]
-      }
+      },
+      "scene_feature": [
+        1.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1,
+        1.0,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -423,7 +450,14 @@
           "line_type": "西皮散板",
           "musical_style": "西皮散板",
           "style_family": "西皮",
-          "text": "望灵堂哭得我咽喉气短，\n我定要与夫君报却仇冤！"
+          "text": "望灵堂哭得我咽喉气短，"
+        },
+        {
+          "character": "小乔",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "我定要与夫君报却仇冤！"
         },
         {
           "character": null,
@@ -472,7 +506,28 @@
           "line_type": "同白",
           "musical_style": null,
           "style_family": null,
-          "text": "有请！\n（〖奏唢呐哭皇天〗。四文官、蒋钦、周泰、丁奉、徐盛分两边上，同至台口，依次互拱手双进门，面向灵\n桌，四文官同在前站一排，蒋钦、周泰、丁奉、徐盛同在后站一排，同拜祭，分两边，四文官同里手，蒋钦、\n周泰、丁奉、徐盛同外手站大八字，二旗牌同让至最外手。）"
+          "text": "有请！"
+        },
+        {
+          "character": "二旗牌",
+          "line_type": "同白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "（〖奏唢呐哭皇天〗。四文官、蒋钦、周泰、丁奉、徐盛分两边上，同至台口，依次互拱手双进门，面向灵"
+        },
+        {
+          "character": "二旗牌",
+          "line_type": "同白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "桌，四文官同在前站一排，蒋钦、周泰、丁奉、徐盛同在后站一排，同拜祭，分两边，四文官同里手，蒋钦、"
+        },
+        {
+          "character": "二旗牌",
+          "line_type": "同白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "周泰、丁奉、徐盛同外手站大八字，二旗牌同让至最外手。）"
         },
         {
           "character": "小乔",
@@ -829,7 +884,21 @@
           "line_type": "同白",
           "musical_style": null,
           "style_family": null,
-          "text": "遵命。\n（〖一锤锣〗，〖大锣原场〗。蒋钦、周泰、丁奉、徐盛同抽心双出门，自两边分下。小乔归里，面向里坐\n右椅。〖大锣原场〗。）"
+          "text": "遵命。"
+        },
+        {
+          "character": "蒋钦、周泰、丁奉、徐盛",
+          "line_type": "同白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "（〖一锤锣〗，〖大锣原场〗。蒋钦、周泰、丁奉、徐盛同抽心双出门，自两边分下。小乔归里，面向里坐"
+        },
+        {
+          "character": "蒋钦、周泰、丁奉、徐盛",
+          "line_type": "同白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "右椅。〖大锣原场〗。）"
         },
         {
           "character": "鲁肃",
@@ -843,7 +912,35 @@
           "line_type": "内白",
           "musical_style": null,
           "style_family": null,
-          "text": "大夫请！\n（〖奏胡琴曲牌西皮哭皇天〗。鲁肃上，至台中，回身拱手引诸葛亮上。诸葛亮带着身历险境、泰然自若的\n神情上场，至九龙口处亮相。赵云随后同上，同时亮相。诸葛亮与鲁肃互拱手相让，同至台口，同进灵堂。\n诸葛亮挖大边，赵云跟至大边外手，鲁肃挖小边。诸葛亮面向灵桌。〖曲牌止〗，〖大锣双叫头〗。诸葛亮\n翻左水袖，向灵位拱手。）"
+          "text": "大夫请！"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "内白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "（〖奏胡琴曲牌西皮哭皇天〗。鲁肃上，至台中，回身拱手引诸葛亮上。诸葛亮带着身历险境、泰然自若的"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "内白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "神情上场，至九龙口处亮相。赵云随后同上，同时亮相。诸葛亮与鲁肃互拱手相让，同至台口，同进灵堂。"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "内白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "诸葛亮挖大边，赵云跟至大边外手，鲁肃挖小边。诸葛亮面向灵桌。〖曲牌止〗，〖大锣双叫头〗。诸葛亮"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "内白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "翻左水袖，向灵位拱手。）"
         },
         {
           "character": "诸葛亮",
@@ -864,7 +961,42 @@
           "line_type": "反西皮散板",
           "musical_style": "反西皮散板",
           "style_family": "西皮",
-          "text": "一见灵位泪涟涟，\n捶胸顿足向谁言！\n不料都督归了天。\n我哭！哭一声周都督！\n叫叫一声公瑾先生！\n啊！我的心痛酸！"
+          "text": "一见灵位泪涟涟，"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "反西皮散板",
+          "musical_style": "反西皮散板",
+          "style_family": "西皮",
+          "text": "捶胸顿足向谁言！"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "反西皮散板",
+          "musical_style": "反西皮散板",
+          "style_family": "西皮",
+          "text": "不料都督归了天。"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "反西皮散板",
+          "musical_style": "反西皮散板",
+          "style_family": "西皮",
+          "text": "我哭！哭一声周都督！"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "反西皮散板",
+          "musical_style": "反西皮散板",
+          "style_family": "西皮",
+          "text": "叫叫一声公瑾先生！"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "反西皮散板",
+          "musical_style": "反西皮散板",
+          "style_family": "西皮",
+          "text": "啊！我的心痛酸！"
         },
         {
           "character": "诸葛亮",
@@ -874,7 +1006,14 @@
           "text": "啊，鲁大夫。"
         },
         {
-          "character": "正欲同心破曹瞒、鲁肃",
+          "character": "诸葛亮",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "正欲同心破曹瞒"
+        },
+        {
+          "character": "鲁肃",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -899,7 +1038,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "请先生上香！\n（鲁肃将桌上的香拿起点燃，交与诸葛亮。诸葛亮接过香，插进香炉，回身至中场，面向灵桌，双腿跪拜。\n站起，将羽扇挂右手上，左转身面向台下。）"
+          "text": "请先生上香！"
+        },
+        {
+          "character": "鲁肃",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "（鲁肃将桌上的香拿起点燃，交与诸葛亮。诸葛亮接过香，插进香炉，回身至中场，面向灵桌，双腿跪拜。"
+        },
+        {
+          "character": "鲁肃",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "站起，将羽扇挂右手上，左转身面向台下。）"
         },
         {
           "character": "鲁肃",
@@ -920,14 +1073,35 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "看祭文伺候！\n（赵云将祭文从靠内取出，双手递过。〖大锣归位〗。诸葛亮接过祭文，至台口正中，展开祭文，从右至左、\n竖式句列面念。）"
+          "text": "看祭文伺候！"
         },
         {
           "character": "诸葛亮",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "“大汉建安十五年冬十二月廿三日南阳诸葛亮谨备祭文一道致祭于大都督周氏\n公瑾之灵位哀而告曰：”"
+          "text": "（赵云将祭文从靠内取出，双手递过。〖大锣归位〗。诸葛亮接过祭文，至台口正中，展开祭文，从右至左、"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "竖式句列面念。）"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "“大汉建安十五年冬十二月廿三日南阳诸葛亮谨备祭文一道致祭于大都督周氏"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "公瑾之灵位哀而告曰：”"
         },
         {
           "character": null,
@@ -1004,21 +1178,84 @@
           "line_type": "念",
           "musical_style": null,
           "style_family": null,
-          "text": "呜呼公瑾，不幸夭亡！修短故天，人岂不伤？\n君其有灵，享我蒸尝！呜呼公瑾！生死永别！\n朴守其贞，冥冥灭灭。魂如有灵，以鉴我心。\n从此天下，更无知音！呜呼痛哉！伏帷尚飨！\n（诸葛亮将祭文交与鲁肃，置于灵桌。将羽扇摘套拿好，至小边台口，面向灵桌拱手。〖冲头〗，〖双叫头〗\n。）"
+          "text": "呜呼公瑾，不幸夭亡！修短故天，人岂不伤？"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "念",
+          "musical_style": null,
+          "style_family": null,
+          "text": "君其有灵，享我蒸尝！呜呼公瑾！生死永别！"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "念",
+          "musical_style": null,
+          "style_family": null,
+          "text": "朴守其贞，冥冥灭灭。魂如有灵，以鉴我心。"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "念",
+          "musical_style": null,
+          "style_family": null,
+          "text": "从此天下，更无知音！呜呼痛哉！伏帷尚飨！"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "念",
+          "musical_style": null,
+          "style_family": null,
+          "text": "（诸葛亮将祭文交与鲁肃，置于灵桌。将羽扇摘套拿好，至小边台口，面向灵桌拱手。〖冲头〗，〖双叫头〗"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "念",
+          "musical_style": null,
+          "style_family": null,
+          "text": "。）"
         },
         {
           "character": "诸葛亮",
           "line_type": "三叫头",
           "musical_style": null,
           "style_family": null,
-          "text": "都督，贤弟！哎，都督哇！\n（诸葛亮扑向灵桌。〖大锣原场〗、〖导板头〗。诸葛亮哭，搌泪，摇头，看灵牌指灵牌，扇尖微颤，转身\n上步，左手拖髯。）"
+          "text": "都督，贤弟！哎，都督哇！"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "三叫头",
+          "musical_style": null,
+          "style_family": null,
+          "text": "（诸葛亮扑向灵桌。〖大锣原场〗、〖导板头〗。诸葛亮哭，搌泪，摇头，看灵牌指灵牌，扇尖微颤，转身"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "三叫头",
+          "musical_style": null,
+          "style_family": null,
+          "text": "上步，左手拖髯。）"
         },
         {
           "character": "诸葛亮",
           "line_type": "二黄导板",
           "musical_style": "二黄导板",
           "style_family": "二黄",
-          "text": "见灵堂不由人珠泪满面！\n（诸葛亮至小边台口翻左水袖亮，住扇平点推出。〖大锣回头〗。诸葛亮左手水袖搌泪，下水袖再反翻上去，\n垫右步看灵位，悲痛状，下水袖、抖上来，挖至大边台口转身向灵位。〖双叫头〗。）"
+          "text": "见灵堂不由人珠泪满面！"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "二黄导板",
+          "musical_style": "二黄导板",
+          "style_family": "二黄",
+          "text": "（诸葛亮至小边台口翻左水袖亮，住扇平点推出。〖大锣回头〗。诸葛亮左手水袖搌泪，下水袖再反翻上去，"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "二黄导板",
+          "musical_style": "二黄导板",
+          "style_family": "二黄",
+          "text": "垫右步看灵位，悲痛状，下水袖、抖上来，挖至大边台口转身向灵位。〖双叫头〗。）"
         },
         {
           "character": "诸葛亮",
@@ -1081,28 +1318,84 @@
           "line_type": "反二黄慢板",
           "musical_style": "反二黄慢板",
           "style_family": "二黄",
-          "text": "擅敢夺东吴郡吞并江南。\n（诸葛亮用扇尖平指左前方，右手将羽扇由扇背朝上翻成扇心朝上，随尾腔稍作点动。往台左垫上一步，右\n回身看一下灵位，摇头搌泪，转正，面向正前方。）"
+          "text": "擅敢夺东吴郡吞并江南。"
         },
         {
           "character": "诸葛亮",
           "line_type": "反二黄慢板",
           "musical_style": "反二黄慢板",
           "style_family": "二黄",
-          "text": "周都督虽年少颇具肝胆，\n（诸葛亮用羽扇稍作点动。鲁肃搌泪。诸葛亮用扇柄指自身，左手捏住右水袖，右手用扇柄往右前方偏高一\n些指出，将扇柄朝下右平划一小圈。）"
+          "text": "（诸葛亮用扇尖平指左前方，右手将羽扇由扇背朝上翻成扇心朝上，随尾腔稍作点动。往台左垫上一步，右"
         },
         {
           "character": "诸葛亮",
           "line_type": "反二黄慢板",
           "musical_style": "反二黄慢板",
           "style_family": "二黄",
-          "text": "命山人借东风在南屏成全。\n（诸葛亮方向从右变至左，同时用扇柄向左前方平指。方向回正中左手以拇指和食指诚环状，右手用扇柄指\n环。）"
+          "text": "回身看一下灵位，摇头搌泪，转正，面向正前方。）"
         },
         {
           "character": "诸葛亮",
           "line_type": "反二黄慢板",
           "musical_style": "反二黄慢板",
           "style_family": "二黄",
-          "text": "庞士元他把那连环来献，\n（诸葛亮右脚上半步，双手平托送，眼神偏高些，扇柄平右前方一指，右左前方起，用扇尖平往右边点边移\n至右前方止，眼神随扇尖看得远些。赵云上半步亮住。）"
+          "text": "周都督虽年少颇具肝胆，"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "反二黄慢板",
+          "musical_style": "反二黄慢板",
+          "style_family": "二黄",
+          "text": "（诸葛亮用羽扇稍作点动。鲁肃搌泪。诸葛亮用扇柄指自身，左手捏住右水袖，右手用扇柄往右前方偏高一"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "反二黄慢板",
+          "musical_style": "反二黄慢板",
+          "style_family": "二黄",
+          "text": "些指出，将扇柄朝下右平划一小圈。）"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "反二黄慢板",
+          "musical_style": "反二黄慢板",
+          "style_family": "二黄",
+          "text": "命山人借东风在南屏成全。"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "反二黄慢板",
+          "musical_style": "反二黄慢板",
+          "style_family": "二黄",
+          "text": "（诸葛亮方向从右变至左，同时用扇柄向左前方平指。方向回正中左手以拇指和食指诚环状，右手用扇柄指"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "反二黄慢板",
+          "musical_style": "反二黄慢板",
+          "style_family": "二黄",
+          "text": "环。）"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "反二黄慢板",
+          "musical_style": "反二黄慢板",
+          "style_family": "二黄",
+          "text": "庞士元他把那连环来献，"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "反二黄慢板",
+          "musical_style": "反二黄慢板",
+          "style_family": "二黄",
+          "text": "（诸葛亮右脚上半步，双手平托送，眼神偏高些，扇柄平右前方一指，右左前方起，用扇尖平往右边点边移"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "反二黄慢板",
+          "musical_style": "反二黄慢板",
+          "style_family": "二黄",
+          "text": "至右前方止，眼神随扇尖看得远些。赵云上半步亮住。）"
         },
         {
           "character": "诸葛亮",
@@ -1151,7 +1444,42 @@
           "line_type": "反二黄慢板",
           "musical_style": "反二黄慢板",
           "style_family": "二黄",
-          "text": "只哭得诸葛亮把肝肠痛断，我把肝肠痛断，\n公瑾！\n（诸葛亮左手托髯，左手放髯，揉胸，随唱腔节奏揉动数圈。大锣抽头。诸葛亮搌泪，鲁肃同时搌泪。诸葛\n亮、鲁肃、赵云同转向里，同向灵位鞠拜，鲁肃取灵桌上的酒斗递与诸葛亮，诸葛亮、鲁肃、赵云同面向外，\n诸葛亮将酒洒祭后还与鲁肃，鲁肃将酒斗放回桌上。诸葛亮面向灵位再鞠一躬，回身向外亮相。夺头。诸\n葛亮左手抖袖。）"
+          "text": "只哭得诸葛亮把肝肠痛断，我把肝肠痛断，"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "反二黄慢板",
+          "musical_style": "反二黄慢板",
+          "style_family": "二黄",
+          "text": "公瑾！"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "反二黄慢板",
+          "musical_style": "反二黄慢板",
+          "style_family": "二黄",
+          "text": "（诸葛亮左手托髯，左手放髯，揉胸，随唱腔节奏揉动数圈。大锣抽头。诸葛亮搌泪，鲁肃同时搌泪。诸葛"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "反二黄慢板",
+          "musical_style": "反二黄慢板",
+          "style_family": "二黄",
+          "text": "亮、鲁肃、赵云同转向里，同向灵位鞠拜，鲁肃取灵桌上的酒斗递与诸葛亮，诸葛亮、鲁肃、赵云同面向外，"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "反二黄慢板",
+          "musical_style": "反二黄慢板",
+          "style_family": "二黄",
+          "text": "诸葛亮将酒洒祭后还与鲁肃，鲁肃将酒斗放回桌上。诸葛亮面向灵位再鞠一躬，回身向外亮相。夺头。诸"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "反二黄慢板",
+          "musical_style": "反二黄慢板",
+          "style_family": "二黄",
+          "text": "葛亮左手抖袖。）"
         },
         {
           "character": "诸葛亮",
@@ -1200,7 +1528,14 @@
           "line_type": "反二黄原板",
           "musical_style": "反二黄原板",
           "style_family": "二黄",
-          "text": "公既死亮虽生无弓之箭，\n知我者是都督，怕我的是曹瞒。"
+          "text": "公既死亮虽生无弓之箭，"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "反二黄原板",
+          "musical_style": "反二黄原板",
+          "style_family": "二黄",
+          "text": "知我者是都督，怕我的是曹瞒。"
         },
         {
           "character": null,
@@ -1214,7 +1549,21 @@
           "line_type": "反二黄原板",
           "musical_style": "反二黄原板",
           "style_family": "二黄",
-          "text": "断肠人懒开流泪眼，\n生离死别、万唤千呼不能回言。\n都督！"
+          "text": "断肠人懒开流泪眼，"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "反二黄原板",
+          "musical_style": "反二黄原板",
+          "style_family": "二黄",
+          "text": "生离死别、万唤千呼不能回言。"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "反二黄原板",
+          "musical_style": "反二黄原板",
+          "style_family": "二黄",
+          "text": "都督！"
         },
         {
           "character": null,
@@ -1375,7 +1724,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "我就与他同死同绝，我、我、我就碰！\n（〖撕边一击〗。诸葛亮、赵云、鲁肃同往左前方上右步，诸葛亮同时左甩髯，赵手拦，鲁肃双摆手劝阻，\n诸葛亮、鲁肃、赵云同时跟上左步。）"
+          "text": "我就与他同死同绝，我、我、我就碰！"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "（〖撕边一击〗。诸葛亮、赵云、鲁肃同往左前方上右步，诸葛亮同时左甩髯，赵手拦，鲁肃双摆手劝阻，"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "诸葛亮、鲁肃、赵云同时跟上左步。）"
         },
         {
           "character": "鲁肃",
@@ -1410,7 +1773,42 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "我就碰！\n（〖八答仓〗。诸葛亮左甩髯，左膀后背，往左前方上右步，跟左步亮住，鲁肃、赵云与诸葛亮同时在同一\n节奏中上右步跟左步亮住。〖长撕边一击〗。诸葛亮抖髯，右回头，恋恋不舍地最后再看一眼灵位；鲁肃余\n惊未散，颤抖，右回头观看小乔的表情；小乔站在中场低头，搌泪；赵云警惕地往右前方巡视。紧接诸葛亮\n回过头来看一眼左前方的动静，同时赵云伸手示意离去；鲁肃看看诸葛亮，抬起左手，水袖一挡，右手伸拇\n指暗自赞佩之。诸葛亮依然抑制不住惋惜和悲痛的心情，放声痛哭。）"
+          "text": "我就碰！"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "（〖八答仓〗。诸葛亮左甩髯，左膀后背，往左前方上右步，跟左步亮住，鲁肃、赵云与诸葛亮同时在同一"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "节奏中上右步跟左步亮住。〖长撕边一击〗。诸葛亮抖髯，右回头，恋恋不舍地最后再看一眼灵位；鲁肃余"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "惊未散，颤抖，右回头观看小乔的表情；小乔站在中场低头，搌泪；赵云警惕地往右前方巡视。紧接诸葛亮"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "回过头来看一眼左前方的动静，同时赵云伸手示意离去；鲁肃看看诸葛亮，抬起左手，水袖一挡，右手伸拇"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "指暗自赞佩之。诸葛亮依然抑制不住惋惜和悲痛的心情，放声痛哭。）"
         },
         {
           "character": "诸葛亮",
@@ -1424,7 +1822,14 @@
           "line_type": "哭",
           "musical_style": null,
           "style_family": null,
-          "text": "都督哇！\n（〖大锣原场〗。诸葛亮边搌泪边左转身下，鲁肃、赵云同随后并排下。蒋钦、周泰、丁奉、徐盛自两边分"
+          "text": "都督哇！"
+        },
+        {
+          "character": "诸葛亮",
+          "line_type": "哭",
+          "musical_style": null,
+          "style_family": null,
+          "text": "（〖大锣原场〗。诸葛亮边搌泪边左转身下，鲁肃、赵云同随后并排下。蒋钦、周泰、丁奉、徐盛自两边分"
         }
       ],
       "interactions": [
@@ -1533,7 +1938,17 @@
           "西皮",
           "西皮散板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.228,
+        0.3597,
+        0.5612,
+        0.0791,
+        0.2971,
+        8,
+        0.0576,
+        0.2374
+      ]
     }
   ]
 }

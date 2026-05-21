@@ -467,14 +467,14 @@
           "text": "仗地富将勇兵强。"
         },
         {
-          "character": null,
+          "character": "琉球王",
           "line_type": "念",
           "musical_style": null,
           "style_family": null,
           "text": "独霸琉球孤为尊，邻近小邦皆称臣。各国推孤为首领，要夺大明锦乾坤。"
         },
         {
-          "character": null,
+          "character": "琉球王",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -562,14 +562,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "只因戈会，今春并未贡献金银珠宝，就命大元帅同定萨波左、萨波右，带领精\n兵十万，前去催讨，他若迟延，先夺他的福州，然后发兵，扫灭他邦。"
+          "text": "只因戈会，今春并未贡献金银珠宝，就命大元帅同定萨波左、萨波右，带领精"
+        },
+        {
+          "character": "琉球王",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "兵十万，前去催讨，他若迟延，先夺他的福州，然后发兵，扫灭他邦。"
         },
         {
           "character": "萨波达",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "遵命。\n呔，兵丁们！"
+          "text": "遵命。"
+        },
+        {
+          "character": "萨波达",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "呔，兵丁们！"
         },
         {
           "character": null,
@@ -647,7 +661,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.9167,
+        0.0833,
+        0.6364,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -680,7 +704,35 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "本镇戈会，大明隆庆驾前为臣，官拜福州总镇，可恨琉球国，久有窥伺中原之\n意，欺我兵微将寡，故而自到任以来，连年与他贡献珠宝金银，才得保守边界。\n这且不言，只因营中军饷，上宪三月未发，也曾命申、张二将，前去催饷，\n未见到来。\n站堂军伺候了。"
+          "text": "本镇戈会，大明隆庆驾前为臣，官拜福州总镇，可恨琉球国，久有窥伺中原之"
+        },
+        {
+          "character": "戈会",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "意，欺我兵微将寡，故而自到任以来，连年与他贡献珠宝金银，才得保守边界。"
+        },
+        {
+          "character": "戈会",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "这且不言，只因营中军饷，上宪三月未发，也曾命申、张二将，前去催饷，"
+        },
+        {
+          "character": "戈会",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "未见到来。"
+        },
+        {
+          "character": "戈会",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "站堂军伺候了。"
         },
         {
           "character": null,
@@ -848,7 +900,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "住了，我国大王有命，若是无有贡献，叫你三日之内，献出城池，如若不然，\n某家杀进城来，你命难保。"
+          "text": "住了，我国大王有命，若是无有贡献，叫你三日之内，献出城池，如若不然，"
+        },
+        {
+          "character": "萨波达",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "某家杀进城来，你命难保。"
         },
         {
           "character": "文将甲",
@@ -869,7 +928,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "住了，谅你一化外番奴，竟敢在此耀武扬威。\n张将军，你我将他拿下了。"
+          "text": "住了，谅你一化外番奴，竟敢在此耀武扬威。"
+        },
+        {
+          "character": "申明",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "张将军，你我将他拿下了。"
         },
         {
           "character": "戈会",
@@ -925,7 +991,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "是是。\n儿啊，你去将军饷拨银三万，送到大元帅营中，快去。"
+          "text": "是是。"
+        },
+        {
+          "character": "戈会",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "儿啊，你去将军饷拨银三万，送到大元帅营中，快去。"
         },
         {
           "character": "申明",
@@ -939,14 +1012,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "哎，什么公款私款，本帅的性命要紧。\n大元帅，我已然吩咐了，放手罢。"
+          "text": "哎，什么公款私款，本帅的性命要紧。"
+        },
+        {
+          "character": "戈会",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "大元帅，我已然吩咐了，放手罢。"
         },
         {
           "character": "萨波达",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "饶你一条老命，急速将银两送来，本帅回营等候。\n二位将军，我们走哇！"
+          "text": "饶你一条老命，急速将银两送来，本帅回营等候。"
+        },
+        {
+          "character": "萨波达",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "二位将军，我们走哇！"
         },
         {
           "character": null,
@@ -1092,7 +1179,17 @@
         "singing_ratio": 0.053,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.053,
+        0.0408,
+        0.9184,
+        0.0408,
+        0.7708,
+        7,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -1115,7 +1212,21 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "独霸为尊自逞雄，\n偏邦小国皆服从。\n联盟兴师夺江洪。"
+          "text": "独霸为尊自逞雄，"
+        },
+        {
+          "character": "琉球王",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "偏邦小国皆服从。"
+        },
+        {
+          "character": "琉球王",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "联盟兴师夺江洪。"
         },
         {
           "character": null,
@@ -1129,7 +1240,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "明朗将士虽勇猛，\n主帅无能不成功。"
+          "text": "明朗将士虽勇猛，"
+        },
+        {
+          "character": "萨波达",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "主帅无能不成功。"
         },
         {
           "character": "萨波达",
@@ -1178,14 +1296,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "这有何难。大王可晓谕同盟者，各邦发兵，攻打福州，若是戈会打了胜仗，大\n王从中讲和，若是戈会打了败仗，必然弃官而逃，福州岂不垂手而得。"
+          "text": "这有何难。大王可晓谕同盟者，各邦发兵，攻打福州，若是戈会打了胜仗，大"
+        },
+        {
+          "character": "萨波达",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "王从中讲和，若是戈会打了败仗，必然弃官而逃，福州岂不垂手而得。"
         },
         {
           "character": "琉球王",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "真乃好计。\n萨波左过来。"
+          "text": "真乃好计。"
+        },
+        {
+          "character": "琉球王",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "萨波左过来。"
         },
         {
           "character": "萨波左",
@@ -1243,7 +1375,17 @@
         "singing_ratio": 0.167,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.167,
+        0.2778,
+        0.7222,
+        0.0,
+        0.6471,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 4,
@@ -1265,7 +1407,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "且住，可恨戈会，克扣军饷，提用公款，奉献外邦，分明有卖国求荣之心，我\n不免修书一封，禀明他的行为。\n来，浓墨伺候。"
+          "text": "且住，可恨戈会，克扣军饷，提用公款，奉献外邦，分明有卖国求荣之心，我"
+        },
+        {
+          "character": "申明",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "不免修书一封，禀明他的行为。"
+        },
+        {
+          "character": "申明",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来，浓墨伺候。"
         },
         {
           "character": null,
@@ -1335,7 +1491,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.5,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 5,
@@ -1379,7 +1545,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "老夫杨波，大明隆庆驾前为臣，官拜兵部侍邵之职，只因圣上体弱多病，朝政\n落在国母之手。李良老贼。暗有谋夺政权之心，多亏定国王徐老千岁在朝，因\n此李良不敢胡为。正是："
+          "text": "老夫杨波，大明隆庆驾前为臣，官拜兵部侍邵之职，只因圣上体弱多病，朝政"
+        },
+        {
+          "character": "杨波",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "落在国母之手。李良老贼。暗有谋夺政权之心，多亏定国王徐老千岁在朝，因"
+        },
+        {
+          "character": "杨波",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "此李良不敢胡为。正是："
         },
         {
           "character": "杨波",
@@ -1435,7 +1615,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "少站。\n启禀家爷，福州副将，差人求见。"
+          "text": "少站。"
+        },
+        {
+          "character": "院子",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "启禀家爷，福州副将，差人求见。"
         },
         {
           "character": "杨波",
@@ -1456,7 +1643,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "是。\n与大人叩头。"
+          "text": "是。"
+        },
+        {
+          "character": "旗牌",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "与大人叩头。"
         },
         {
           "character": "杨波",
@@ -1505,14 +1699,70 @@
           "line_type": "西皮原板",
           "musical_style": "西皮原板",
           "style_family": "西皮",
-          "text": "专呈兵部亲拆看，\n麾将叩禀钧座前。\n私通琉球谋中原。\n军饷每两扣三钱。\n望求大人上本参。\n抵挡蛮夷守边关。\n老夫定然奏龙颜。"
+          "text": "专呈兵部亲拆看，"
+        },
+        {
+          "character": "杨波",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "麾将叩禀钧座前。"
+        },
+        {
+          "character": "杨波",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "私通琉球谋中原。"
+        },
+        {
+          "character": "杨波",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "军饷每两扣三钱。"
+        },
+        {
+          "character": "杨波",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "望求大人上本参。"
+        },
+        {
+          "character": "杨波",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "抵挡蛮夷守边关。"
+        },
+        {
+          "character": "杨波",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "老夫定然奏龙颜。"
         },
         {
           "character": "杨波",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "哎呀且住，想戈会兵有虚额，克扣军饷，并提用公款，贡献外邦，分明有卖国\n求荣之心，若非申副将告发，此贼定是国家后患，待老夫去至朝房，与六部大\n臣商议，启奏圣上便了。"
+          "text": "哎呀且住，想戈会兵有虚额，克扣军饷，并提用公款，贡献外邦，分明有卖国"
+        },
+        {
+          "character": "杨波",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "求荣之心，若非申副将告发，此贼定是国家后患，待老夫去至朝房，与六部大"
+        },
+        {
+          "character": "杨波",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "臣商议，启奏圣上便了。"
         },
         {
           "character": "杨波",
@@ -1588,7 +1838,17 @@
         "musical_styles": [
           "西皮原板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.2857,
+        0.6286,
+        0.0857,
+        0.3529,
+        3,
+        0.2571,
+        0.0
+      ]
     },
     {
       "scene_index": 6,
@@ -1616,7 +1876,14 @@
           "line_type": "同唱",
           "musical_style": null,
           "style_family": null,
-          "text": "圣驾龙体常有恙，\n数日未会临朝堂。"
+          "text": "圣驾龙体常有恙，"
+        },
+        {
+          "character": "沐杰、周炳、魏贤、陈奇、花士英、汤忠、叶洪",
+          "line_type": "同唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "数日未会临朝堂。"
         },
         {
           "character": null,
@@ -1630,7 +1897,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "戈会竟敢生妄想，\n私通琉球谋家邦。"
+          "text": "戈会竟敢生妄想，"
+        },
+        {
+          "character": "杨波",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "私通琉球谋家邦。"
         },
         {
           "character": "沐杰、周炳、魏贤、陈奇、花士英、汤忠、叶洪",
@@ -1686,21 +1960,42 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "我想戈总镇，为人正直，军令甚严。将士等不能自由，因此怨惧，故而诬告。\n也未可知。"
+          "text": "我想戈总镇，为人正直，军令甚严。将士等不能自由，因此怨惧，故而诬告。"
+        },
+        {
+          "character": "叶洪",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "也未可知。"
         },
         {
           "character": "汤忠",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "哎，想那戈会，并非军伍出身，怎知军中纪律，如今克扣军饷，倘若众心不服，\n一旦兵变，岂不是地面上百姓受害。"
+          "text": "哎，想那戈会，并非军伍出身，怎知军中纪律，如今克扣军饷，倘若众心不服，"
+        },
+        {
+          "character": "汤忠",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "一旦兵变，岂不是地面上百姓受害。"
         },
         {
           "character": "杨波",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "我想此事，必须奏明圣上，派人前去，一来查办戈会，二来剿灭琉球国，岂不\n去了内外大患。"
+          "text": "我想此事，必须奏明圣上，派人前去，一来查办戈会，二来剿灭琉球国，岂不"
+        },
+        {
+          "character": "杨波",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "去了内外大患。"
         },
         {
           "character": "汤忠",
@@ -1735,7 +2030,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "兵额虚名蒙君上，\n克扣军饷犯法章。"
+          "text": "兵额虚名蒙君上，"
+        },
+        {
+          "character": "杨波",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "克扣军饷犯法章。"
         },
         {
           "character": "沐杰",
@@ -1829,7 +2131,17 @@
         "singing_ratio": 0.316,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.316,
+        0.3846,
+        0.6154,
+        0.0,
+        0.68,
+        6,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 7,
@@ -1889,7 +2201,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "众位将军，元帅奉旨征剿琉球国，你我齐到辕门。\n军士们，辕门去者。"
+          "text": "众位将军，元帅奉旨征剿琉球国，你我齐到辕门。"
+        },
+        {
+          "character": "赵铮",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "军士们，辕门去者。"
         },
         {
           "character": null,
@@ -1924,7 +2243,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "本帅李泰，大明隆庆驾前为臣，官拜兵部尚书，可恨琉球国，常有窥探中原之\n心。总兵戈会，不能振作。朝中风闻，兵有虚额，克扣粮饷，故命本帅一来清\n查，二来征服琉球，以显天朝国威。\n众将。"
+          "text": "本帅李泰，大明隆庆驾前为臣，官拜兵部尚书，可恨琉球国，常有窥探中原之"
+        },
+        {
+          "character": "李泰",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "心。总兵戈会，不能振作。朝中风闻，兵有虚额，克扣粮饷，故命本帅一来清"
+        },
+        {
+          "character": "李泰",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "查，二来征服琉球，以显天朝国威。"
+        },
+        {
+          "character": "李泰",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "众将。"
         },
         {
           "character": "赵铮、韩平、林凯、纪环",
@@ -2002,7 +2342,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.9412,
+        0.0588,
+        0.625,
+        6,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 8,
@@ -2030,7 +2380,21 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "麾下虽有千员将，\n哪有个个上战场。\n臣下谁不哄君王。"
+          "text": "麾下虽有千员将，"
+        },
+        {
+          "character": "戈会",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "哪有个个上战场。"
+        },
+        {
+          "character": "戈会",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "臣下谁不哄君王。"
         },
         {
           "character": null,
@@ -2065,7 +2429,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "此事何必惊慌，想如今作官，哪一个不爱钱，等他到来，预备一份厚礼，运动\n运动他，管保就没有事了。"
+          "text": "此事何必惊慌，想如今作官，哪一个不爱钱，等他到来，预备一份厚礼，运动"
+        },
+        {
+          "character": "戈会",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "运动他，管保就没有事了。"
         },
         {
           "character": null,
@@ -2149,10 +2520,45 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "公行贿赂好大胆，\n老夫岂能把赃贪。\n兵丁将士听我言。\n有受屈者快伸寃。"
+          "text": "公行贿赂好大胆，"
         },
         {
-          "character": "击鼓升堂把名点、本帅奉旨来查办、申明",
+          "character": "李泰",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "老夫岂能把赃贪。"
+        },
+        {
+          "character": "李泰",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "兵丁将士听我言。"
+        },
+        {
+          "character": "李泰",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "有受屈者快伸寃。"
+        },
+        {
+          "character": "李泰",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "击鼓升堂把名点"
+        },
+        {
+          "character": "李泰",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "本帅奉旨来查办"
+        },
+        {
+          "character": "申明",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
@@ -2170,7 +2576,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "虚额扣饷有证见，\n你枉作朝中一品官。"
+          "text": "虚额扣饷有证见，"
+        },
+        {
+          "character": "李泰",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "你枉作朝中一品官。"
         },
         {
           "character": "戈会",
@@ -2184,14 +2597,35 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "你比我官职高有限，\n何必如此把脸翻。"
+          "text": "你比我官职高有限，"
+        },
+        {
+          "character": "戈会",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "何必如此把脸翻。"
         },
         {
           "character": "李泰",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "我与你无仇也无怨，\n本帅爱忠恨的是奸。\n本帅赏罚自有权。"
+          "text": "我与你无仇也无怨，"
+        },
+        {
+          "character": "李泰",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "本帅爱忠恨的是奸。"
+        },
+        {
+          "character": "李泰",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "本帅赏罚自有权。"
         },
         {
           "character": null,
@@ -2272,7 +2706,17 @@
         "singing_ratio": 0.25,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.25,
+        0.5588,
+        0.4412,
+        0.0,
+        0.5455,
+        6,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 9,
@@ -2486,7 +2930,17 @@
         "singing_ratio": 0.125,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.125,
+        0.1667,
+        0.7778,
+        0.0556,
+        0.8824,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 10,
@@ -2602,7 +3056,17 @@
         "singing_ratio": 0.167,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.167,
+        0.1667,
+        0.8333,
+        0.0,
+        0.8,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 11,
@@ -2663,7 +3127,17 @@
         "singing_ratio": 1.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        1.0,
+        0.5,
+        0.25,
+        0.25,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 12,
@@ -2918,7 +3392,17 @@
         "singing_ratio": 0.19,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.19,
+        0.1905,
+        0.7143,
+        0.0952,
+        0.9,
+        10,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 13,
@@ -3620,7 +4104,17 @@
         "singing_ratio": 0.306,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.306,
+        0.3797,
+        0.6076,
+        0.0127,
+        0.7564,
+        5,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 14,
@@ -3872,7 +4366,17 @@
         "musical_styles": [
           "西皮导板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.353,
+        0.48,
+        0.52,
+        0.0,
+        0.625,
+        3,
+        0.04,
+        0.0
+      ]
     },
     {
       "scene_index": 15,
@@ -4099,7 +4603,17 @@
         "singing_ratio": 0.235,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.235,
+        0.3,
+        0.7,
+        0.0,
+        0.8421,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 16,
@@ -4408,7 +4922,17 @@
         "singing_ratio": 0.346,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.346,
+        0.4,
+        0.6,
+        0.0,
+        0.8621,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 17,
@@ -5247,7 +5771,17 @@
         "singing_ratio": 0.078,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.078,
+        0.1538,
+        0.8365,
+        0.0096,
+        0.8447,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 18,
@@ -5718,7 +6252,17 @@
           "西皮二六板",
           "西皮流水"
         ]
-      }
+      },
+      "scene_feature": [
+        0.174,
+        0.2264,
+        0.7547,
+        0.0189,
+        0.8269,
+        3,
+        0.0566,
+        0.0
+      ]
     },
     {
       "scene_index": 19,
@@ -5804,7 +6348,17 @@
         "singing_ratio": 0.25,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.25,
+        0.4,
+        0.6,
+        0.0,
+        0.75,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 20,
@@ -6803,7 +7357,17 @@
           "西皮摇板",
           "高拨子"
         ]
-      }
+      },
+      "scene_feature": [
+        0.191,
+        0.2667,
+        0.7333,
+        0.0,
+        0.8077,
+        7,
+        0.0095,
+        0.0571
+      ]
     },
     {
       "scene_index": 21,
@@ -6954,7 +7518,17 @@
         "singing_ratio": 0.091,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.091,
+        0.0909,
+        0.9091,
+        0.0,
+        0.9,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 22,
@@ -7068,7 +7642,17 @@
         "singing_ratio": 0.375,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.375,
+        0.4,
+        0.6,
+        0.0,
+        0.7778,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 23,
@@ -7667,7 +8251,17 @@
         "singing_ratio": 0.118,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.118,
+        0.2203,
+        0.7458,
+        0.0339,
+        0.8621,
+        8,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 24,
@@ -7987,7 +8581,17 @@
         "singing_ratio": 0.217,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.217,
+        0.2692,
+        0.7308,
+        0.0,
+        0.88,
+        6,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 25,
@@ -8145,7 +8749,17 @@
         "singing_ratio": 0.125,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.125,
+        0.2,
+        0.8,
+        0.0,
+        0.5556,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 26,
@@ -9633,7 +10247,17 @@
         "musical_styles": [
           "二黄"
         ]
-      }
+      },
+      "scene_feature": [
+        0.231,
+        0.3103,
+        0.6839,
+        0.0057,
+        0.8035,
+        9,
+        0.0,
+        0.0057
+      ]
     },
     {
       "scene_index": 27,
@@ -9870,7 +10494,17 @@
         "singing_ratio": 0.333,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.333,
+        0.4,
+        0.6,
+        0.0,
+        0.7368,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 28,
@@ -10119,7 +10753,17 @@
         "singing_ratio": 0.19,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.19,
+        0.2,
+        0.8,
+        0.0,
+        0.75,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 29,
@@ -10393,7 +11037,17 @@
         "singing_ratio": 0.045,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.045,
+        0.08,
+        0.92,
+        0.0,
+        0.8333,
+        5,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 30,
@@ -10509,7 +11163,17 @@
         "singing_ratio": 0.167,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.167,
+        0.1429,
+        0.8571,
+        0.0,
+        0.8333,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 31,
@@ -12129,7 +12793,17 @@
         "musical_styles": [
           "西皮散板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.194,
+        0.2406,
+        0.7594,
+        0.0,
+        0.8871,
+        7,
+        0.1337,
+        0.0
+      ]
     },
     {
       "scene_index": 32,
@@ -12478,7 +13152,17 @@
         "musical_styles": [
           "西皮散板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.265,
+        0.3056,
+        0.6944,
+        0.0,
+        0.9143,
+        4,
+        0.3056,
+        0.0
+      ]
     },
     {
       "scene_index": 33,
@@ -12818,7 +13502,17 @@
         "musical_styles": [
           "二黄摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.185,
+        0.2258,
+        0.7742,
+        0.0,
+        0.8333,
+        7,
+        0.0,
+        0.2258
+      ]
     },
     {
       "scene_index": 34,
@@ -12890,7 +13584,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 35,
@@ -13279,7 +13983,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.925,
+        0.075,
+        0.8974,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 36,
@@ -13615,7 +14329,17 @@
         "singing_ratio": 0.059,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.059,
+        0.0571,
+        0.9143,
+        0.0286,
+        0.9412,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 37,
@@ -15525,7 +16249,17 @@
           "西皮原板",
           "西皮快板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.332,
+        0.3807,
+        0.5963,
+        0.0229,
+        0.7972,
+        10,
+        0.1101,
+        0.2706
+      ]
     }
   ]
 }

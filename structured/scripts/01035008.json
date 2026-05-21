@@ -280,7 +280,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.077,
+        0.0769,
+        0.6154,
+        0.3077,
+        1.0,
+        5,
+        0.0769,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -305,7 +315,21 @@
           "line_type": "西皮慢板",
           "musical_style": "西皮慢板",
           "style_family": "西皮",
-          "text": "好景色艳阳天花林开放，\n蓬莱岛众仙子齐集山岗。\n寿诞日叩金母长寿无疆。"
+          "text": "好景色艳阳天花林开放，"
+        },
+        {
+          "character": "麻姑",
+          "line_type": "西皮慢板",
+          "musical_style": "西皮慢板",
+          "style_family": "西皮",
+          "text": "蓬莱岛众仙子齐集山岗。"
+        },
+        {
+          "character": "麻姑",
+          "line_type": "西皮慢板",
+          "musical_style": "西皮慢板",
+          "style_family": "西皮",
+          "text": "寿诞日叩金母长寿无疆。"
         },
         {
           "character": "麻姑",
@@ -319,7 +343,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "我乃麻姑仙子是也。只因三月三日，金母寿诞之期，故而离座出得洞府，连日\n采取百样花草，酿成美酒，也是与金母上寿。远远望见，众仙子来也。"
+          "text": "我乃麻姑仙子是也。只因三月三日，金母寿诞之期，故而离座出得洞府，连日"
+        },
+        {
+          "character": "麻姑",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "采取百样花草，酿成美酒，也是与金母上寿。远远望见，众仙子来也。"
         },
         {
           "character": null,
@@ -470,7 +501,17 @@
           "西皮慢板",
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.167,
+        0.2632,
+        0.5789,
+        0.1579,
+        0.6111,
+        3,
+        0.2632,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -491,14 +532,28 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "洞府领了众仙命，\n兜率宫中走一程。"
+          "text": "洞府领了众仙命，"
+        },
+        {
+          "character": "李铁拐",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "兜率宫中走一程。"
         },
         {
           "character": "李铁拐",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "我，李铁拐。只因金母寿诞之期，众仙命我去到兜率宫，请老君写副寿词，也\n好前去祝寿。正是："
+          "text": "我，李铁拐。只因金母寿诞之期，众仙命我去到兜率宫，请老君写副寿词，也"
+        },
+        {
+          "character": "李铁拐",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "好前去祝寿。正是："
         },
         {
           "character": "李铁拐",
@@ -526,7 +581,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        1.0,
+        0.4,
+        0.4,
+        0.2,
+        0.0,
+        1,
+        0.4,
+        0.0
+      ]
     },
     {
       "scene_index": 4,
@@ -547,21 +612,56 @@
           "line_type": "西皮慢板",
           "musical_style": "西皮慢板",
           "style_family": "西皮",
-          "text": "隐身儿行过了流水溪涧。\n转眼间观河边灵芝一片。"
+          "text": "隐身儿行过了流水溪涧。"
+        },
+        {
+          "character": "麻姑",
+          "line_type": "西皮慢板",
+          "musical_style": "西皮慢板",
+          "style_family": "西皮",
+          "text": "转眼间观河边灵芝一片。"
         },
         {
           "character": "麻姑",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "我乃麻姑仙子是也。只因金母寿诞之期，柏酿寿酒，现今百花俱全，缺少灵芝\n仙草，因此来至绛珠河畔，采取灵芝。呵呀妙吓，看此处异样灵芝，甚是鲜妍，\n不免采取便了。"
+          "text": "我乃麻姑仙子是也。只因金母寿诞之期，柏酿寿酒，现今百花俱全，缺少灵芝"
+        },
+        {
+          "character": "麻姑",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "仙草，因此来至绛珠河畔，采取灵芝。呵呀妙吓，看此处异样灵芝，甚是鲜妍，"
+        },
+        {
+          "character": "麻姑",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "不免采取便了。"
         },
         {
           "character": "麻姑",
           "line_type": "西皮原板",
           "musical_style": "西皮原板",
           "style_family": "西皮",
-          "text": "观一派天连水水又连天，\n尘世上怎比得天上华严。\n急忙忙我这里去拿花镰。"
+          "text": "观一派天连水水又连天，"
+        },
+        {
+          "character": "麻姑",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "尘世上怎比得天上华严。"
+        },
+        {
+          "character": "麻姑",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "急忙忙我这里去拿花镰。"
         },
         {
           "character": null,
@@ -655,7 +755,17 @@
           "西皮慢板",
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.833,
+        0.7143,
+        0.2857,
+        0.0,
+        0.0,
+        1,
+        0.7143,
+        0.0
+      ]
     },
     {
       "scene_index": 5,
@@ -711,14 +821,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "今乃瑶池金母寿诞之期，也曾请李大仙往老君那里，写了寿词，以作寿礼，你\n我就此同往瑶池庆贺便了。"
+          "text": "今乃瑶池金母寿诞之期，也曾请李大仙往老君那里，写了寿词，以作寿礼，你"
+        },
+        {
+          "character": "吕洞宾",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我就此同往瑶池庆贺便了。"
         },
         {
           "character": "吕洞宾",
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "众仙齐庆瑶池界，\n海屋添寿祝圣诞。"
+          "text": "众仙齐庆瑶池界，"
+        },
+        {
+          "character": "吕洞宾",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "海屋添寿祝圣诞。"
         },
         {
           "character": null,
@@ -750,7 +874,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.25,
+        0.4286,
+        0.5714,
+        0.0,
+        0.3333,
+        2,
+        0.4286,
+        0.0
+      ]
     },
     {
       "scene_index": 6,
@@ -786,7 +920,21 @@
           "line_type": "二黄原板",
           "musical_style": "二黄原板",
           "style_family": "二黄",
-          "text": "喜孜孜移莲步用目观望，\n看瑶池好华艳胜似天堂。\n因此上设寿宴齐集非常。"
+          "text": "喜孜孜移莲步用目观望，"
+        },
+        {
+          "character": "金母",
+          "line_type": "二黄原板",
+          "musical_style": "二黄原板",
+          "style_family": "二黄",
+          "text": "看瑶池好华艳胜似天堂。"
+        },
+        {
+          "character": "金母",
+          "line_type": "二黄原板",
+          "musical_style": "二黄原板",
+          "style_family": "二黄",
+          "text": "因此上设寿宴齐集非常。"
         },
         {
           "character": null,
@@ -807,7 +955,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "吾乃瑶池金母是也。上帝见我广軿九寿，常度众生，时命诸仙，齐赴蟠桃。为\n此准备筵席，候众仙降临。\n侍女们伺候了。"
+          "text": "吾乃瑶池金母是也。上帝见我广軿九寿，常度众生，时命诸仙，齐赴蟠桃。为"
+        },
+        {
+          "character": "金母",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "此准备筵席，候众仙降临。"
+        },
+        {
+          "character": "金母",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "侍女们伺候了。"
         },
         {
           "character": null,
@@ -954,7 +1116,21 @@
           "line_type": "同白",
           "musical_style": null,
           "style_family": null,
-          "text": "金母请！\n（摆席。〖吹打〗，〖牌子〗。金母、吕洞宾、汉钟离、张果老、韩湘子、李铁拐、何仙姑、蓝采和、曹国\n舅同吃酒毕。麻姑上。）"
+          "text": "金母请！"
+        },
+        {
+          "character": "吕洞宾、汉钟离、张果老、韩湘子、李铁拐、何仙姑、蓝采和、曹国舅",
+          "line_type": "同白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "（摆席。〖吹打〗，〖牌子〗。金母、吕洞宾、汉钟离、张果老、韩湘子、李铁拐、何仙姑、蓝采和、曹国"
+        },
+        {
+          "character": "吕洞宾、汉钟离、张果老、韩湘子、李铁拐、何仙姑、蓝采和、曹国舅",
+          "line_type": "同白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "舅同吃酒毕。麻姑上。）"
         },
         {
           "character": "麻姑",
@@ -1038,7 +1214,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "那是理当奉敬。今日众仙驾临，乃是瑶池之幸也，现今园内蟠桃已熟，各敬一\n枚，以为结缘之品。\n侍女们，将蟠桃各敬一枚。"
+          "text": "那是理当奉敬。今日众仙驾临，乃是瑶池之幸也，现今园内蟠桃已熟，各敬一"
+        },
+        {
+          "character": "金母",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "枚，以为结缘之品。"
+        },
+        {
+          "character": "金母",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "侍女们，将蟠桃各敬一枚。"
         },
         {
           "character": null,
@@ -1066,10 +1256,45 @@
           "line_type": "西皮二六板",
           "musical_style": "西皮二六板",
           "style_family": "西皮",
-          "text": "瑶池奉了金母命，\n众仙台前把酒斟。\n但愿众仙庆长生。\n哪有凡夫俗子亦能到此行？"
+          "text": "瑶池奉了金母命，"
         },
         {
-          "character": "执壶轮流来恭敬、仙家之酒仙家饮、金母",
+          "character": "麻姑",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "众仙台前把酒斟。"
+        },
+        {
+          "character": "麻姑",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "但愿众仙庆长生。"
+        },
+        {
+          "character": "麻姑",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "哪有凡夫俗子亦能到此行？"
+        },
+        {
+          "character": "麻姑",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "执壶轮流来恭敬"
+        },
+        {
+          "character": "麻姑",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "仙家之酒仙家饮"
+        },
+        {
+          "character": "金母",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -1339,7 +1564,17 @@
           "西皮二六",
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.056,
+        0.1852,
+        0.6667,
+        0.1481,
+        0.6226,
+        7,
+        0.1296,
+        0.0556
+      ]
     }
   ]
 }

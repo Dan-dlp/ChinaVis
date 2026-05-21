@@ -578,7 +578,17 @@
         "singing_ratio": 0.125,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.125,
+        0.16,
+        0.8,
+        0.04,
+        0.7143,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -596,7 +606,7 @@
           "text": "（罗卜上，益利随上。）"
         },
         {
-          "character": null,
+          "character": "罗卜",
           "line_type": "念",
           "musical_style": null,
           "style_family": null,
@@ -699,7 +709,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.8333,
+        0.1667,
+        1.0,
+        2,
+        0.0,
+        0.0
+      ]
     }
   ]
 }

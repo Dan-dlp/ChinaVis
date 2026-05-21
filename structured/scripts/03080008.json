@@ -141,7 +141,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "某、汉寿亭侯关。昨闻大哥现在河北袁绍军中，是我挂印封金，去往曹营走辞。\n可恨奸曹，将免见牌高挂辕门，不容某相见。某特修书一封，不免遣人送至\n曹营，就此保定二位皇嫂，闯出许昌便了。\n来！"
+          "text": "某、汉寿亭侯关。昨闻大哥现在河北袁绍军中，是我挂印封金，去往曹营走辞。"
+        },
+        {
+          "character": "关羽",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "可恨奸曹，将免见牌高挂辕门，不容某相见。某特修书一封，不免遣人送至"
+        },
+        {
+          "character": "关羽",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "曹营，就此保定二位皇嫂，闯出许昌便了。"
+        },
+        {
+          "character": "关羽",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来！"
         },
         {
           "character": "马童甲",
@@ -232,7 +253,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "小弟两次去见曹操，无奈他高挂免见牌，不容我见。是弟封金挂印，修书一封，\n送往曹营，意欲不辞而别，特请二嫂登车。"
+          "text": "小弟两次去见曹操，无奈他高挂免见牌，不容我见。是弟封金挂印，修书一封，"
+        },
+        {
+          "character": "关羽",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "送往曹营，意欲不辞而别，特请二嫂登车。"
         },
         {
           "character": "甘夫人、糜夫人",
@@ -320,7 +348,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0455,
+        0.9091,
+        0.0455,
+        0.7143,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -484,7 +522,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "哼！谅尔也不敢。\n小校，催车！"
+          "text": "哼！谅尔也不敢。"
+        },
+        {
+          "character": "关羽",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "小校，催车！"
         },
         {
           "character": "四马童",
@@ -551,7 +596,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.9545,
+        0.0455,
+        0.9048,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -634,7 +689,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "启丞相：今有关将军保定二位夫人，怒气不息，闯出城去，小人等拦挡不住，\n特来禀报丞相。"
+          "text": "启丞相：今有关将军保定二位夫人，怒气不息，闯出城去，小人等拦挡不住，"
+        },
+        {
+          "character": "守城官",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "特来禀报丞相。"
         },
         {
           "character": "曹操",
@@ -669,14 +731,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "啊丞相，看关羽趾高气扬，性情狂妄，不辞丞相，竟自修书前来，真乃胆大狂\n妄！丞相何不将他赶回杀之？"
+          "text": "啊丞相，看关羽趾高气扬，性情狂妄，不辞丞相，竟自修书前来，真乃胆大狂"
+        },
+        {
+          "character": "程昱",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "妄！丞相何不将他赶回杀之？"
         },
         {
           "character": "曹操",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "那关羽英雄出众，仗义轻财，不忘故主，吾甚敬之爱之。\n张辽听令！"
+          "text": "那关羽英雄出众，仗义轻财，不忘故主，吾甚敬之爱之。"
+        },
+        {
+          "character": "曹操",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "张辽听令！"
         },
         {
           "character": "张辽",
@@ -690,7 +766,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "命你速速赶去，见了关羽，叫他少待一时，老夫还要亲自送他一程，以表旧日\n之情。快去快去！"
+          "text": "命你速速赶去，见了关羽，叫他少待一时，老夫还要亲自送他一程，以表旧日"
+        },
+        {
+          "character": "曹操",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "之情。快去快去！"
         },
         {
           "character": "张辽",
@@ -753,14 +836,49 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "适才间众军校报连番，\n许昌城走了关美髯。\n见了关羽说根源。\n（四红龙套、乐进、于禁。夏侯惇、许褚、曹仁、曹洪、徐晃、曹操同下。)"
+          "text": "适才间众军校报连番，"
         },
         {
-          "character": "人来带马速追赶、程昱",
+          "character": "曹操",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "许昌城走了关美髯。"
+        },
+        {
+          "character": "曹操",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "见了关羽说根源。"
+        },
+        {
+          "character": "曹操",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "（四红龙套、乐进、于禁。夏侯惇、许褚、曹仁、曹洪、徐晃、曹操同下。)"
+        },
+        {
+          "character": "曹操",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "人来带马速追赶"
+        },
+        {
+          "character": "程昱",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "关羽如此的不辞而别，丞相还要与他送行；我有意在酒内暗下毒药，将关羽害\n死，以除后患。你意如何？"
+          "text": "关羽如此的不辞而别，丞相还要与他送行；我有意在酒内暗下毒药，将关羽害"
+        },
+        {
+          "character": "程昱",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "死，以除后患。你意如何？"
         },
         {
           "character": "郭嘉",
@@ -849,7 +967,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.045,
+        0.1875,
+        0.8125,
+        0.0,
+        0.6452,
+        7,
+        0.1562,
+        0.0
+      ]
     },
     {
       "scene_index": 4,
@@ -892,7 +1020,28 @@
           "line_type": "西皮原板",
           "musical_style": "西皮原板",
           "style_family": "西皮",
-          "text": "挂印信、封黄金、来去明白、冠冕堂皇。\n暗用那牢笼计打动我关云长。\n我看他到如今枉费心肠。\n青龙刀赤兔马保定皇娘。"
+          "text": "挂印信、封黄金、来去明白、冠冕堂皇。"
+        },
+        {
+          "character": "关羽",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "暗用那牢笼计打动我关云长。"
+        },
+        {
+          "character": "关羽",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "我看他到如今枉费心肠。"
+        },
+        {
+          "character": "关羽",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "青龙刀赤兔马保定皇娘。"
         },
         {
           "character": "关羽",
@@ -906,10 +1055,45 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "且住！远远望见后面曹兵赶来。\n小校！"
+          "text": "且住！远远望见后面曹兵赶来。"
         },
         {
-          "character": "曹孟德他待我恩深义广、他爱我是一个英雄能将、此一番到河北去寻兄长、叫人来你与爷催车仗、四马童",
+          "character": "关羽",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "小校！"
+        },
+        {
+          "character": "关羽",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "曹孟德他待我恩深义广"
+        },
+        {
+          "character": "关羽",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "他爱我是一个英雄能将"
+        },
+        {
+          "character": "关羽",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "此一番到河北去寻兄长"
+        },
+        {
+          "character": "关羽",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "叫人来你与爷催车仗"
+        },
+        {
+          "character": "四马童",
           "line_type": "同白",
           "musical_style": null,
           "style_family": null,
@@ -969,10 +1153,31 @@
           "line_type": "西皮散板",
           "musical_style": "西皮散板",
           "style_family": "西皮",
-          "text": "张辽把话对我讲，\n倒叫关某暗思量。\n等候曹军作商量。"
+          "text": "张辽把话对我讲，"
         },
         {
-          "character": "叫人来快把长桥上、张辽",
+          "character": "关羽",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "倒叫关某暗思量。"
+        },
+        {
+          "character": "关羽",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "等候曹军作商量。"
+        },
+        {
+          "character": "关羽",
+          "line_type": "西皮散板",
+          "musical_style": "西皮散板",
+          "style_family": "西皮",
+          "text": "叫人来快把长桥上"
+        },
+        {
+          "character": "张辽",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -997,7 +1202,42 @@
           "line_type": "西皮快板",
           "musical_style": "西皮快板",
           "style_family": "西皮",
-          "text": "不料关羽竟脱逃。\n义气凌云贯九霄。\n赠他的上马金、下马银、美女、战马和锦袍。\n他不忘桃园故旧交。\n可算得世间一英豪。\n见一人勒马立长桥。"
+          "text": "不料关羽竟脱逃。"
+        },
+        {
+          "character": "曹操",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "义气凌云贯九霄。"
+        },
+        {
+          "character": "曹操",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "赠他的上马金、下马银、美女、战马和锦袍。"
+        },
+        {
+          "character": "曹操",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "他不忘桃园故旧交。"
+        },
+        {
+          "character": "曹操",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "可算得世间一英豪。"
+        },
+        {
+          "character": "曹操",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "见一人勒马立长桥。"
         },
         {
           "character": "曹操",
@@ -1007,32 +1247,263 @@
           "text": "将军，你为何去心忒急？"
         },
         {
-          "character": "我念他英雄盖世武艺好、在许昌我与他相交好、都只为刘备投了贼袁绍、不远千里把兄找、人来与爷前引道、关羽",
+          "character": "曹操",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "丞相容禀：某本解良一武夫，自幼投侍刘皇叔，桃园结义，誓同生死，皇天后\n土，共鉴此衷。前在下邳，曾约三事，均蒙丞相恩准。昨日闻得故主刘玄德现\n在河北袁绍军中，是某一闻此言，寸心如割，追念前盟，恨不得插翅飞去。有\n道是：大丈夫义不负心，忠不顾死。新恩虽厚，旧义难忘。倘有未尽之恩，容\n俟异日图报。昨日封金挂印，缴还丞相，还望丞相无忘昔日之言为幸也！"
+          "text": "我念他英雄盖世武艺好"
         },
         {
-          "character": "我念他英雄盖世武艺好、在许昌我与他相交好、都只为刘备投了贼袁绍、不远千里把兄找、人来与爷前引道、关羽",
+          "character": "曹操",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "在许昌我与他相交好"
+        },
+        {
+          "character": "曹操",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "都只为刘备投了贼袁绍"
+        },
+        {
+          "character": "曹操",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "不远千里把兄找"
+        },
+        {
+          "character": "曹操",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "人来与爷前引道"
+        },
+        {
+          "character": "关羽",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "丞相容禀：某本解良一武夫，自幼投侍刘皇叔，桃园结义，誓同生死，皇天后"
+        },
+        {
+          "character": "关羽",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "土，共鉴此衷。前在下邳，曾约三事，均蒙丞相恩准。昨日闻得故主刘玄德现"
+        },
+        {
+          "character": "关羽",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "在河北袁绍军中，是某一闻此言，寸心如割，追念前盟，恨不得插翅飞去。有"
+        },
+        {
+          "character": "关羽",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "道是：大丈夫义不负心，忠不顾死。新恩虽厚，旧义难忘。倘有未尽之恩，容"
+        },
+        {
+          "character": "关羽",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "俟异日图报。昨日封金挂印，缴还丞相，还望丞相无忘昔日之言为幸也！"
+        },
+        {
+          "character": "关羽",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我念他英雄盖世武艺好"
+        },
+        {
+          "character": "关羽",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "在许昌我与他相交好"
+        },
+        {
+          "character": "关羽",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "都只为刘备投了贼袁绍"
+        },
+        {
+          "character": "关羽",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "不远千里把兄找"
+        },
+        {
+          "character": "关羽",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "人来与爷前引道"
+        },
+        {
+          "character": "关羽",
           "line_type": "西皮二六板",
           "musical_style": "西皮二六板",
           "style_family": "西皮",
-          "text": "勒马提刀把话讲，\n尊一声丞相听端详：\n盟丞相带我见君王。\n蒙丞相赐我锦袍、战马、美女、琼浆。\n某也曾诛文丑斩却颜良。\n桃园恩情时时挂在心肠。\n知恩报德不敢忘。"
+          "text": "勒马提刀把话讲，"
         },
         {
-          "character": "自从下邳来归降、官封我汉寿亭侯皇恩浩荡、白马坡前无能将、非是我关某忒狂妄、望丞相开恩将某放、曹操",
+          "character": "关羽",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "尊一声丞相听端详："
+        },
+        {
+          "character": "关羽",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "盟丞相带我见君王。"
+        },
+        {
+          "character": "关羽",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "蒙丞相赐我锦袍、战马、美女、琼浆。"
+        },
+        {
+          "character": "关羽",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "某也曾诛文丑斩却颜良。"
+        },
+        {
+          "character": "关羽",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "桃园恩情时时挂在心肠。"
+        },
+        {
+          "character": "关羽",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "知恩报德不敢忘。"
+        },
+        {
+          "character": "关羽",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "自从下邳来归降"
+        },
+        {
+          "character": "关羽",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "官封我汉寿亭侯皇恩浩荡"
+        },
+        {
+          "character": "关羽",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "白马坡前无能将"
+        },
+        {
+          "character": "关羽",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "非是我关某忒狂妄"
+        },
+        {
+          "character": "关羽",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "望丞相开恩将某放"
+        },
+        {
+          "character": "曹操",
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "听罢言来心欢畅，\n忠义英雄世无双。"
+          "text": "听罢言来心欢畅，"
         },
         {
-          "character": "自从下邳来归降、官封我汉寿亭侯皇恩浩荡、白马坡前无能将、非是我关某忒狂妄、望丞相开恩将某放、曹操",
+          "character": "曹操",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "忠义英雄世无双。"
+        },
+        {
+          "character": "曹操",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "自从下邳来归降"
+        },
+        {
+          "character": "曹操",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "官封我汉寿亭侯皇恩浩荡"
+        },
+        {
+          "character": "曹操",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "白马坡前无能将"
+        },
+        {
+          "character": "曹操",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "非是我关某忒狂妄"
+        },
+        {
+          "character": "曹操",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "望丞相开恩将某放"
+        },
+        {
+          "character": "曹操",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "老夫欲与将军朝夕相聚，共扶汉室；不料将军去心已定，老夫亦不敢强留。现\n备黄金千两，与将军以作路途之费。\n来！"
+          "text": "老夫欲与将军朝夕相聚，共扶汉室；不料将军去心已定，老夫亦不敢强留。现"
+        },
+        {
+          "character": "曹操",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "备黄金千两，与将军以作路途之费。"
+        },
+        {
+          "character": "曹操",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来！"
         },
         {
           "character": "四红龙套",
@@ -1081,7 +1552,21 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "人言将军义气高，\n千秋万古美名标。\n轻财仗义大英豪。"
+          "text": "人言将军义气高，"
+        },
+        {
+          "character": "曹操",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "千秋万古美名标。"
+        },
+        {
+          "character": "曹操",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "轻财仗义大英豪。"
         },
         {
           "character": "曹操",
@@ -1091,7 +1576,14 @@
           "text": "看酒！"
         },
         {
-          "character": "千两黄金他不要、四红龙套",
+          "character": "曹操",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "千两黄金他不要"
+        },
+        {
+          "character": "四红龙套",
           "line_type": "同白",
           "musical_style": null,
           "style_family": null,
@@ -1102,7 +1594,14 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "人来看过一斗酒，\n双手送与二君侯。"
+          "text": "人来看过一斗酒，"
+        },
+        {
+          "character": "曹操",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "双手送与二君侯。"
         },
         {
           "character": "关羽",
@@ -1137,7 +1636,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "且住！某在曹营，屡建奇功，全仗某这把青龙刀，丞相恩赐美酒，不免祭了俺\n的刀吧！"
+          "text": "且住！某在曹营，屡建奇功，全仗某这把青龙刀，丞相恩赐美酒，不免祭了俺"
+        },
+        {
+          "character": "关羽",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "的刀吧！"
         },
         {
           "character": null,
@@ -1158,24 +1664,94 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "青龙刀头火光冒，\n不由关某怒冲霄。\n要害某家赴阴曹。\n谅尔难逃青龙刀！"
+          "text": "青龙刀头火光冒，"
         },
         {
-          "character": "曹操不该生计巧、任你奸来任你巧、曹操",
+          "character": "关羽",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "不由关某怒冲霄。"
+        },
+        {
+          "character": "关羽",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "要害某家赴阴曹。"
+        },
+        {
+          "character": "关羽",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "谅尔难逃青龙刀！"
+        },
+        {
+          "character": "关羽",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "曹操不该生计巧"
+        },
+        {
+          "character": "关羽",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "任你奸来任你巧"
+        },
+        {
+          "character": "曹操",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
           "text": "哎呀！"
         },
         {
-          "character": "曹操不该生计巧、任你奸来任你巧、曹操",
+          "character": "曹操",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "曹操不该生计巧"
+        },
+        {
+          "character": "曹操",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "任你奸来任你巧"
+        },
+        {
+          "character": "曹操",
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "何人设此牢笼套？\n回营查明定不饶！"
+          "text": "何人设此牢笼套？"
         },
         {
-          "character": "曹操不该生计巧、任你奸来任你巧、曹操",
+          "character": "曹操",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "回营查明定不饶！"
+        },
+        {
+          "character": "曹操",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "曹操不该生计巧"
+        },
+        {
+          "character": "曹操",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "任你奸来任你巧"
+        },
+        {
+          "character": "曹操",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -1193,7 +1769,35 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "丞相待某恩谊好，\n黄金不受赐锦袍。\n曹营中将士杀气高。\n又有那许褚和张辽。\n恐怕中了计笼牢。"
+          "text": "丞相待某恩谊好，"
+        },
+        {
+          "character": "关羽",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "黄金不受赐锦袍。"
+        },
+        {
+          "character": "关羽",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "曹营中将士杀气高。"
+        },
+        {
+          "character": "关羽",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "又有那许褚和张辽。"
+        },
+        {
+          "character": "关羽",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "恐怕中了计笼牢。"
         },
         {
           "character": null,
@@ -1214,7 +1818,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "曹丞相，某在营中，多有厚待，上马献金，下马献银，三日一小宴，五日一大\n宴，赤兔马，大红袍，足见多情。异日相逢，定当厚报，关某去也！"
+          "text": "曹丞相，某在营中，多有厚待，上马献金，下马献银，三日一小宴，五日一大"
+        },
+        {
+          "character": "关羽",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "宴，赤兔马，大红袍，足见多情。异日相逢，定当厚报，关某去也！"
         },
         {
           "character": null,
@@ -1228,14 +1839,28 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "一见关羽他去了，\n好叫老夫心内焦。"
+          "text": "一见关羽他去了，"
+        },
+        {
+          "character": "曹操",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "好叫老夫心内焦。"
         },
         {
           "character": "曹操",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "关羽已去，老夫少却一员战将，真真可惜。\n来，带马回营！"
+          "text": "关羽已去，老夫少却一员战将，真真可惜。"
+        },
+        {
+          "character": "曹操",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来，带马回营！"
         },
         {
           "character": "四红龙套",
@@ -1318,7 +1943,17 @@
           "西皮摇板",
           "西皮散板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.269,
+        0.513,
+        0.487,
+        0.0,
+        0.2018,
+        5,
+        0.513,
+        0.0
+      ]
     }
   ]
 }

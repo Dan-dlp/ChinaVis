@@ -109,7 +109,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "某温侯吕布。为因前部先锋华雄，被云长斩首，相父大怒，命俺统领人马，挡\n住虎牢关。相父大兵随后接应，共灭烽烟。正是："
+          "text": "某温侯吕布。为因前部先锋华雄，被云长斩首，相父大怒，命俺统领人马，挡"
+        },
+        {
+          "character": "吕布",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "住虎牢关。相父大兵随后接应，共灭烽烟。正是："
         },
         {
           "character": "吕布",
@@ -142,7 +149,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.6,
+        0.4,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -178,21 +195,56 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "夜静更深意阑珊，\n满天星斗露生寒。\n一声孤雁好凄然。"
-        },
-        {
-          "character": "刘备",
-          "line_type": "白",
-          "musical_style": null,
-          "style_family": null,
-          "text": "某刘备。剿灭黄巾有功，特授平原县令。可恨董卓专权，因此同公孙将军前来\n讨贼，苍天呵苍天，可念炎汉纪统，早灭乱贼，肃清朝野，万民乐业，某之愿\n也。"
+          "text": "夜静更深意阑珊，"
         },
         {
           "character": "刘备",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "汉室华夷渐倾颓使人感叹，\n怎能够诛叛臣国泰民安。"
+          "text": "满天星斗露生寒。"
+        },
+        {
+          "character": "刘备",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "一声孤雁好凄然。"
+        },
+        {
+          "character": "刘备",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "某刘备。剿灭黄巾有功，特授平原县令。可恨董卓专权，因此同公孙将军前来"
+        },
+        {
+          "character": "刘备",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "讨贼，苍天呵苍天，可念炎汉纪统，早灭乱贼，肃清朝野，万民乐业，某之愿"
+        },
+        {
+          "character": "刘备",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "也。"
+        },
+        {
+          "character": "刘备",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "汉室华夷渐倾颓使人感叹，"
+        },
+        {
+          "character": "刘备",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "怎能够诛叛臣国泰民安。"
         },
         {
           "character": null,
@@ -206,7 +258,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "听大哥在月下长吁短叹，\n想必是为董卓扰乱江山。"
+          "text": "听大哥在月下长吁短叹，"
+        },
+        {
+          "character": "关羽",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "想必是为董卓扰乱江山。"
         },
         {
           "character": "关羽",
@@ -234,7 +293,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "咳，二弟有所不知，只因三弟与袁术打赌，明日生擒吕布，倘若败下阵来，如\n何是好？"
+          "text": "咳，二弟有所不知，只因三弟与袁术打赌，明日生擒吕布，倘若败下阵来，如"
+        },
+        {
+          "character": "刘备",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "何是好？"
         },
         {
           "character": "关羽",
@@ -292,7 +358,17 @@
         "singing_ratio": 0.333,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.333,
+        0.45,
+        0.55,
+        0.0,
+        0.3684,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -323,7 +399,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "可笑袁术与俺打赌，明日生擒吕布。咳，你看咱的丈八矛在那里瞪眉弄眼，待\n俺磨洗磨洗。枪呵枪，你明日见了吕布，这么一枪，将那厮挑下马来，咱封你\n枪中王！"
+          "text": "可笑袁术与俺打赌，明日生擒吕布。咳，你看咱的丈八矛在那里瞪眉弄眼，待"
+        },
+        {
+          "character": "张飞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "俺磨洗磨洗。枪呵枪，你明日见了吕布，这么一枪，将那厮挑下马来，咱封你"
+        },
+        {
+          "character": "张飞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "枪中王！"
         },
         {
           "character": null,
@@ -400,7 +490,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "天呵，你是怎的不明，鸡，你是怎的不叫？呵，是了，想是吕布死期未到，待\n我再打个盹儿。"
+          "text": "天呵，你是怎的不明，鸡，你是怎的不叫？呵，是了，想是吕布死期未到，待"
+        },
+        {
+          "character": "张飞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我再打个盹儿。"
         },
         {
           "character": "刘备",
@@ -557,7 +654,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.875,
+        0.125,
+        0.6957,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 4,
@@ -680,7 +787,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "也罢，你我三人，一马上，三马上，一马下，三马下。扣定连环，大战吕布便\n了。"
+          "text": "也罢，你我三人，一马上，三马上，一马下，三马下。扣定连环，大战吕布便"
+        },
+        {
+          "character": "关羽",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "了。"
         },
         {
           "character": "刘备、张飞",
@@ -883,14 +997,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "吕布我的儿，你问你老子名姓，咱姓张名飞，字翼德，自破黄巾以来，众诸侯\n闻名皆怕，吕布我的儿，你是怕不怕？"
+          "text": "吕布我的儿，你问你老子名姓，咱姓张名飞，字翼德，自破黄巾以来，众诸侯"
+        },
+        {
+          "character": "张飞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "闻名皆怕，吕布我的儿，你是怕不怕？"
         },
         {
           "character": "张飞",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "张翼德威名谁不晓，\n今日擒你献功劳。"
+          "text": "张翼德威名谁不晓，"
+        },
+        {
+          "character": "张飞",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "今日擒你献功劳。"
         },
         {
           "character": null,
@@ -932,7 +1060,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "吕布我的儿，你下得马来，有九牛二虎之力，咱老子下得马来，有七象八骆驼\n之力。"
+          "text": "吕布我的儿，你下得马来，有九牛二虎之力，咱老子下得马来，有七象八骆驼"
+        },
+        {
+          "character": "张飞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "之力。"
         },
         {
           "character": "吕布",
@@ -960,7 +1095,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "呵，大哥二哥，有所不知，他本姓吕，投与丁建阳，杀了丁建阳，投与董卓，\n俺弟兄灭了董卓，归了桃园，岂不是四姓！"
+          "text": "呵，大哥二哥，有所不知，他本姓吕，投与丁建阳，杀了丁建阳，投与董卓，"
+        },
+        {
+          "character": "张飞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "俺弟兄灭了董卓，归了桃园，岂不是四姓！"
         },
         {
           "character": "吕布",
@@ -974,7 +1116,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "一言怒发三千丈，\n胆大匹夫把我伤。"
+          "text": "一言怒发三千丈，"
+        },
+        {
+          "character": "吕布",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "胆大匹夫把我伤。"
         },
         {
           "character": "关羽",
@@ -988,7 +1137,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "泗水关斩了华雄将，\n无名小辈敢逞强。"
+          "text": "泗水关斩了华雄将，"
+        },
+        {
+          "character": "关羽",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "无名小辈敢逞强。"
         },
         {
           "character": "刘备",
@@ -1002,7 +1158,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "董卓残暴把君抗，\n重整汉室诛奸党。"
+          "text": "董卓残暴把君抗，"
+        },
+        {
+          "character": "刘备",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "重整汉室诛奸党。"
         },
         {
           "character": "张飞",
@@ -1016,7 +1179,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "四姓家奴休妄想，\n免得臭名万载扬。"
+          "text": "四姓家奴休妄想，"
+        },
+        {
+          "character": "张飞",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "免得臭名万载扬。"
         },
         {
           "character": "吕布",
@@ -1030,10 +1200,38 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "出兵会过多少将，\n三马连环怎能挡？"
+          "text": "出兵会过多少将，"
         },
         {
-          "character": "出此一枪走了罢、关羽、张飞、刘备",
+          "character": "吕布",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "三马连环怎能挡？"
+        },
+        {
+          "character": "吕布",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "出此一枪走了罢"
+        },
+        {
+          "character": "吕布",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "关羽"
+        },
+        {
+          "character": "吕布",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "张飞"
+        },
+        {
+          "character": "刘备",
           "line_type": "同唱",
           "musical_style": null,
           "style_family": null,
@@ -1095,7 +1293,17 @@
         "singing_ratio": 0.019,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.019,
+        0.2222,
+        0.7778,
+        0.0,
+        0.6901,
+        6,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 5,
@@ -1116,7 +1324,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "俺公孙瓒。今有桃园大战吕布，唯恐有失，带领本部三千人马，前去助战。\n众将，杀上前去。"
+          "text": "俺公孙瓒。今有桃园大战吕布，唯恐有失，带领本部三千人马，前去助战。"
+        },
+        {
+          "character": "公孙瓒",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "众将，杀上前去。"
         },
         {
           "character": null,
@@ -1135,7 +1350,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 6,
@@ -1160,7 +1385,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "俺李肃。奉太师之命，大战桃园，杀上前去。\n（四上手、四文堂、公孙瓒同上，同杀，李肃败下，众人同打下。打钻盘，李肃败下。吕布引刘备、关羽、\n张飞同上，同杀，吕布败进关，张飞挑吕布紫金冠。公孙瓒上。）"
+          "text": "俺李肃。奉太师之命，大战桃园，杀上前去。"
+        },
+        {
+          "character": "李肃",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "（四上手、四文堂、公孙瓒同上，同杀，李肃败下，众人同打下。打钻盘，李肃败下。吕布引刘备、关羽、"
+        },
+        {
+          "character": "李肃",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "张飞同上，同杀，吕布败进关，张飞挑吕布紫金冠。公孙瓒上。）"
         },
         {
           "character": "张飞",
@@ -1232,7 +1471,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.7143,
+        4,
+        0.0,
+        0.0
+      ]
     }
   ]
 }

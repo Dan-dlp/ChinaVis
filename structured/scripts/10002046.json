@@ -76,14 +76,28 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "出门只见红日下，\n玉兔明亮甚潇洒。"
+          "text": "出门只见红日下，"
+        },
+        {
+          "character": "宋江",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "玉兔明亮甚潇洒。"
         },
         {
           "character": "宋江",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "卑人宋公明。自从那日离了乌龙院，与惜姣吵闹，永不到她处，这且不言。今\n日诸位贤弟，邀我衙前议论，不知为了何事？不免衙前走走。"
+          "text": "卑人宋公明。自从那日离了乌龙院，与惜姣吵闹，永不到她处，这且不言。今"
+        },
+        {
+          "character": "宋江",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "日诸位贤弟，邀我衙前议论，不知为了何事？不免衙前走走。"
         },
         {
           "character": "宋江",
@@ -104,7 +118,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        1.0,
+        0.6,
+        0.4,
+        0.0,
+        0.0,
+        1,
+        0.6,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -135,7 +159,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "老身妈儿娘。只因女儿惜姣，性情不好。这几日也不见宋大爷到乌龙院中走走。\n我不免到大街之上，找寻找寻便了。"
+          "text": "老身妈儿娘。只因女儿惜姣，性情不好。这几日也不见宋大爷到乌龙院中走走。"
+        },
+        {
+          "character": "阎婆",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我不免到大街之上，找寻找寻便了。"
         },
         {
           "character": "阎婆",
@@ -163,7 +194,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "哎呀呀，这倒巧得很。偏偏遇见着了。\n啊，宋大爷，请回，请回。"
+          "text": "哎呀呀，这倒巧得很。偏偏遇见着了。"
+        },
+        {
+          "character": "阎婆",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "啊，宋大爷，请回，请回。"
         },
         {
           "character": "宋江",
@@ -289,7 +327,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "你不要走哇，待我叫她下楼。\n吓，儿啊！"
+          "text": "你不要走哇，待我叫她下楼。"
+        },
+        {
+          "character": "阎婆",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "吓，儿啊！"
         },
         {
           "character": "阎惜姣",
@@ -338,14 +383,28 @@
           "line_type": "内白",
           "musical_style": null,
           "style_family": null,
-          "text": "母亲问他这几日为何不到乌龙院走走？快将他罚跪庭前。等女儿梳洗一毕，再\n来发放。"
+          "text": "母亲问他这几日为何不到乌龙院走走？快将他罚跪庭前。等女儿梳洗一毕，再"
+        },
+        {
+          "character": "阎惜姣",
+          "line_type": "内白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来发放。"
         },
         {
           "character": "阎婆",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "哦，是了。\n啊，宋大爷，我的女儿将你怪了下来。"
+          "text": "哦，是了。"
+        },
+        {
+          "character": "阎婆",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "啊，宋大爷，我的女儿将你怪了下来。"
         },
         {
           "character": "宋江",
@@ -373,7 +432,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "她是想你。我来看看她梳洗完了没有。\n啊，女儿，梳洗完了没有？"
+          "text": "她是想你。我来看看她梳洗完了没有。"
+        },
+        {
+          "character": "阎婆",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "啊，女儿，梳洗完了没有？"
         },
         {
           "character": "阎惜姣",
@@ -478,7 +544,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "哦呦，说两句话，也就完了，这样推推撞撞。你不去，我叫我的女儿来。\n啊，儿呀，你去与宋大爷说上几句。"
+          "text": "哦呦，说两句话，也就完了，这样推推撞撞。你不去，我叫我的女儿来。"
+        },
+        {
+          "character": "阎婆",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "啊，儿呀，你去与宋大爷说上几句。"
         },
         {
           "character": null,
@@ -499,7 +572,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "他二人俱是一样的脾气。我再叫宋大爷去。\n啊，宋大爷，若要好，大让小。她小你大，说两句好话，也就完了。"
+          "text": "他二人俱是一样的脾气。我再叫宋大爷去。"
+        },
+        {
+          "character": "阎婆",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "啊，宋大爷，若要好，大让小。她小你大，说两句好话，也就完了。"
         },
         {
           "character": "宋江",
@@ -534,7 +614,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "不去拉倒！你一推，她一撞，把我推个三长两短，看你们怎样得了！\n啊，儿啊，想我母女二人，吃的是宋大爷的，穿的是宋大爷的，你若不去，叫\n我怎么样呢？来来来！"
+          "text": "不去拉倒！你一推，她一撞，把我推个三长两短，看你们怎样得了！"
+        },
+        {
+          "character": "阎婆",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "啊，儿啊，想我母女二人，吃的是宋大爷的，穿的是宋大爷的，你若不去，叫"
+        },
+        {
+          "character": "阎婆",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我怎么样呢？来来来！"
         },
         {
           "character": null,
@@ -569,7 +663,14 @@
           "line_type": "二黄平板",
           "musical_style": "二黄平板",
           "style_family": "二黄",
-          "text": "今日里好比七月七，\n牛郎、织女会佳期。"
+          "text": "今日里好比七月七，"
+        },
+        {
+          "character": "阎婆",
+          "line_type": "二黄平板",
+          "musical_style": "二黄平板",
+          "style_family": "二黄",
+          "text": "牛郎、织女会佳期。"
         },
         {
           "character": null,
@@ -646,7 +747,14 @@
           "line_type": "二黄平板",
           "musical_style": "二黄平板",
           "style_family": "二黄",
-          "text": "听谯楼打罢了初更时分，\n忽然想起狗贱人。"
+          "text": "听谯楼打罢了初更时分，"
+        },
+        {
+          "character": "宋江",
+          "line_type": "二黄平板",
+          "musical_style": "二黄平板",
+          "style_family": "二黄",
+          "text": "忽然想起狗贱人。"
         },
         {
           "character": "宋江",
@@ -681,7 +789,14 @@
           "line_type": "二黄平板",
           "musical_style": "二黄平板",
           "style_family": "二黄",
-          "text": "听谯楼打罢了二更时分，\n那一旁坐定了有情之人。"
+          "text": "听谯楼打罢了二更时分，"
+        },
+        {
+          "character": "阎惜姣",
+          "line_type": "二黄平板",
+          "musical_style": "二黄平板",
+          "style_family": "二黄",
+          "text": "那一旁坐定了有情之人。"
         },
         {
           "character": "阎惜姣",
@@ -716,7 +831,14 @@
           "line_type": "二黄平板",
           "musical_style": "二黄平板",
           "style_family": "二黄",
-          "text": "三更三点月正明，\n越思越想越愁人。"
+          "text": "三更三点月正明，"
+        },
+        {
+          "character": "宋江",
+          "line_type": "二黄平板",
+          "musical_style": "二黄平板",
+          "style_family": "二黄",
+          "text": "越思越想越愁人。"
         },
         {
           "character": null,
@@ -758,7 +880,14 @@
           "line_type": "二黄平板",
           "musical_style": "二黄平板",
           "style_family": "二黄",
-          "text": "听谯楼打罢了四更时分，\n惜姣起下杀人心。"
+          "text": "听谯楼打罢了四更时分，"
+        },
+        {
+          "character": "阎惜姣",
+          "line_type": "二黄平板",
+          "musical_style": "二黄平板",
+          "style_family": "二黄",
+          "text": "惜姣起下杀人心。"
         },
         {
           "character": null,
@@ -849,7 +978,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "这是一锭金子，待我收下。还有书信一封，待我看来：\n“上写梁山晁盖拜……”\n啊呦，慢着！闻听人说，宋江私通梁山。宋江啊，宋江，无有此事便罢；若有\n此事，这就是你的对头到了！"
+          "text": "这是一锭金子，待我收下。还有书信一封，待我看来："
+        },
+        {
+          "character": "阎惜姣",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "“上写梁山晁盖拜……”"
+        },
+        {
+          "character": "阎惜姣",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "啊呦，慢着！闻听人说，宋江私通梁山。宋江啊，宋江，无有此事便罢；若有"
+        },
+        {
+          "character": "阎惜姣",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "此事，这就是你的对头到了！"
         },
         {
           "character": null,
@@ -863,7 +1013,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "走啊！啊呦且住！适才我从乌龙院走后，失落黄金、书信。这黄金事小，信若\n被人拾去，我的性命难保！"
+          "text": "走啊！啊呦且住！适才我从乌龙院走后，失落黄金、书信。这黄金事小，信若"
+        },
+        {
+          "character": "宋江",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "被人拾去，我的性命难保！"
         },
         {
           "character": null,
@@ -1206,7 +1363,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "被他把我问住了。我说出口来，还怕他不成？\n“任凭改嫁张文远”！"
+          "text": "被他把我问住了。我说出口来，还怕他不成？"
+        },
+        {
+          "character": "阎惜姣",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "“任凭改嫁张文远”！"
         },
         {
           "character": "宋江",
@@ -1552,7 +1716,14 @@
           "text": "哼哼！"
         },
         {
-          "character": "劝你把还我书和信、阎惜姣",
+          "character": "阎惜姣",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "劝你把还我书和信"
+        },
+        {
+          "character": "阎惜姣",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -1598,7 +1769,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "待我叫妈儿娘来。\n妈儿娘快来！"
+          "text": "待我叫妈儿娘来。"
+        },
+        {
+          "character": "宋江",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "妈儿娘快来！"
         },
         {
           "character": null,
@@ -1768,7 +1946,17 @@
           "二黄平板",
           "二黄摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.031,
+        0.1005,
+        0.8945,
+        0.005,
+        0.7071,
+        3,
+        0.0,
+        0.0955
+      ]
     }
   ]
 }

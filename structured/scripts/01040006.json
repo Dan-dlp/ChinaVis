@@ -117,7 +117,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "俺，薛应龙。自进唐营并无半点之功。今日芦花河摆下无名大阵，不免单人独\n马前去破阵，岂不是好！不如盗了老马，出营去罢。"
+          "text": "俺，薛应龙。自进唐营并无半点之功。今日芦花河摆下无名大阵，不免单人独"
+        },
+        {
+          "character": "薛应龙",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "马前去破阵，岂不是好！不如盗了老马，出营去罢。"
         },
         {
           "character": null,
@@ -282,7 +289,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.9333,
+        0.0667,
+        0.8571,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -363,7 +380,21 @@
           "line_type": "西皮快板",
           "musical_style": "西皮快板",
           "style_family": "西皮",
-          "text": "一见姣儿伤了命，\n不由为娘痛在心。\n哪个叫你去出兵？"
+          "text": "一见姣儿伤了命，"
+        },
+        {
+          "character": "樊梨花",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "不由为娘痛在心。"
+        },
+        {
+          "character": "樊梨花",
+          "line_type": "西皮快板",
+          "musical_style": "西皮快板",
+          "style_family": "西皮",
+          "text": "哪个叫你去出兵？"
         },
         {
           "character": null,
@@ -377,7 +408,14 @@
           "line_type": "西皮原板",
           "musical_style": "西皮原板",
           "style_family": "西皮",
-          "text": "在深山领了师父命，\n回到大营说分明。"
+          "text": "在深山领了师父命，"
+        },
+        {
+          "character": "薛丁山",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "回到大营说分明。"
         },
         {
           "character": "樊梨花",
@@ -468,7 +506,21 @@
           "line_type": "西皮流水板",
           "musical_style": "西皮流水板",
           "style_family": "西皮",
-          "text": "把话说与夫人听：\n休叫应龙去出兵。\n难道你心疼不疼？"
+          "text": "把话说与夫人听："
+        },
+        {
+          "character": "薛丁山",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "休叫应龙去出兵。"
+        },
+        {
+          "character": "薛丁山",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "难道你心疼不疼？"
         },
         {
           "character": null,
@@ -496,10 +548,45 @@
           "line_type": "西皮流水板",
           "musical_style": "西皮流水板",
           "style_family": "西皮",
-          "text": "元帅有所不知情，\n妻子言来你是听：\n不知他私自去出兵。\n难道我不痛在心！"
+          "text": "元帅有所不知情，"
         },
         {
-          "character": "我在营中传将令、如今姣儿伤了命、薛丁山",
+          "character": "樊梨花",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "妻子言来你是听："
+        },
+        {
+          "character": "樊梨花",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "不知他私自去出兵。"
+        },
+        {
+          "character": "樊梨花",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "难道我不痛在心！"
+        },
+        {
+          "character": "樊梨花",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "我在营中传将令"
+        },
+        {
+          "character": "樊梨花",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "如今姣儿伤了命"
+        },
+        {
+          "character": "薛丁山",
           "line_type": "哭",
           "musical_style": null,
           "style_family": null,
@@ -517,10 +604,45 @@
           "line_type": "西皮流水板",
           "musical_style": "西皮流水板",
           "style_family": "西皮",
-          "text": "大夫人也有麒麟子，\n二夫人也有后代根。\n你把应龙当亲生。\n有意绝我后代根。"
+          "text": "大夫人也有麒麟子，"
         },
         {
-          "character": "唯有夫人没了后、今日夫人心不愿、樊梨花",
+          "character": "薛丁山",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "二夫人也有后代根。"
+        },
+        {
+          "character": "薛丁山",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "你把应龙当亲生。"
+        },
+        {
+          "character": "薛丁山",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "有意绝我后代根。"
+        },
+        {
+          "character": "薛丁山",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "唯有夫人没了后"
+        },
+        {
+          "character": "薛丁山",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "今日夫人心不愿"
+        },
+        {
+          "character": "樊梨花",
           "line_type": "哭",
           "musical_style": null,
           "style_family": null,
@@ -538,10 +660,31 @@
           "line_type": "西皮流水板",
           "musical_style": "西皮流水板",
           "style_family": "西皮",
-          "text": "元帅有所不知情，\n妻子言来听分明：\n怕的三军心不平。"
+          "text": "元帅有所不知情，"
         },
         {
-          "character": "先禁自己后禁人、薛丁山",
+          "character": "樊梨花",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "妻子言来听分明："
+        },
+        {
+          "character": "樊梨花",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "怕的三军心不平。"
+        },
+        {
+          "character": "樊梨花",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "先禁自己后禁人"
+        },
+        {
+          "character": "薛丁山",
           "line_type": "哭",
           "musical_style": null,
           "style_family": null,
@@ -559,10 +702,31 @@
           "line_type": "西皮流水板",
           "musical_style": "西皮流水板",
           "style_family": "西皮",
-          "text": "自古道青竹蛇儿口，\n自古道黄蜂尾上针。\n自古道最毒妇人心！"
+          "text": "自古道青竹蛇儿口，"
         },
         {
-          "character": "自古道万事皆由命、樊梨花",
+          "character": "薛丁山",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "自古道黄蜂尾上针。"
+        },
+        {
+          "character": "薛丁山",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "自古道最毒妇人心！"
+        },
+        {
+          "character": "薛丁山",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "自古道万事皆由命"
+        },
+        {
+          "character": "樊梨花",
           "line_type": "哭",
           "musical_style": null,
           "style_family": null,
@@ -580,10 +744,31 @@
           "line_type": "西皮流水板",
           "musical_style": "西皮流水板",
           "style_family": "西皮",
-          "text": "元帅疑我两样心，\n对着苍天把誓明。\n死在千军万马营！"
+          "text": "元帅疑我两样心，"
         },
         {
-          "character": "梨花待子有假意、薛丁山",
+          "character": "樊梨花",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "对着苍天把誓明。"
+        },
+        {
+          "character": "樊梨花",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "死在千军万马营！"
+        },
+        {
+          "character": "樊梨花",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "梨花待子有假意"
+        },
+        {
+          "character": "薛丁山",
           "line_type": "哭",
           "musical_style": null,
           "style_family": null,
@@ -601,7 +786,14 @@
           "line_type": "西皮流水板",
           "musical_style": "西皮流水板",
           "style_family": "西皮",
-          "text": "一见夫人把誓明，\n不由本帅放了心。"
+          "text": "一见夫人把誓明，"
+        },
+        {
+          "character": "薛丁山",
+          "line_type": "西皮流水板",
+          "musical_style": "西皮流水板",
+          "style_family": "西皮",
+          "text": "不由本帅放了心。"
         },
         {
           "character": "叫人来、秦汉、窦一虎",
@@ -667,7 +859,17 @@
           "西皮快板",
           "西皮流水板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.52,
+        0.8095,
+        0.1746,
+        0.0159,
+        0.5645,
+        5,
+        0.619,
+        0.0
+      ]
     }
   ]
 }

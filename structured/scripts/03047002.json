@@ -230,7 +230,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -251,21 +261,49 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "自幼生来颇勇壮，\n学习棍棒与刀枪。"
-        },
-        {
-          "character": "椒邱诉",
-          "line_type": "白",
-          "musical_style": null,
-          "style_family": null,
-          "text": "俺、椒邱诉。乃东海人氏。自幼习就全身武艺、水旱皆能。这且不言。我有一\n好友在吴国为官，不幸身亡，不免前去吊祭，就此马上加鞭！"
+          "text": "自幼生来颇勇壮，"
         },
         {
           "character": "椒邱诉",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "友朋列在五伦上，\n亲往吴国去吊丧。\n交友之心表一场。"
+          "text": "学习棍棒与刀枪。"
+        },
+        {
+          "character": "椒邱诉",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "俺、椒邱诉。乃东海人氏。自幼习就全身武艺、水旱皆能。这且不言。我有一"
+        },
+        {
+          "character": "椒邱诉",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "好友在吴国为官，不幸身亡，不免前去吊祭，就此马上加鞭！"
+        },
+        {
+          "character": "椒邱诉",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "友朋列在五伦上，"
+        },
+        {
+          "character": "椒邱诉",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "亲往吴国去吊丧。"
+        },
+        {
+          "character": "椒邱诉",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "交友之心表一场。"
         },
         {
           "character": null,
@@ -284,7 +322,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.7143,
+        0.2857,
+        0.0,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -311,7 +359,14 @@
           "line_type": "同唱",
           "musical_style": null,
           "style_family": null,
-          "text": "淮安百姓遭魔障，\n水中出妖扰一方。"
+          "text": "淮安百姓遭魔障，"
+        },
+        {
+          "character": "四百姓",
+          "line_type": "同唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "水中出妖扰一方。"
         },
         {
           "character": "百姓甲",
@@ -339,7 +394,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "甭说旁人，前几天我妈的生日，我到市上买来鸡鸭，给她做寿，回来路过河边\n儿，忽然一阵风浪，把我的鸡鸭都冲去啦，幸亏我的手紧，攥着了鸡脖子，拿\n回家去，我妈只好啃那个鸡脖子啦！"
+          "text": "甭说旁人，前几天我妈的生日，我到市上买来鸡鸭，给她做寿，回来路过河边"
+        },
+        {
+          "character": "百姓乙",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "儿，忽然一阵风浪，把我的鸡鸭都冲去啦，幸亏我的手紧，攥着了鸡脖子，拿"
+        },
+        {
+          "character": "百姓乙",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "回家去，我妈只好啃那个鸡脖子啦！"
         },
         {
           "character": "百姓甲",
@@ -711,7 +780,17 @@
         "singing_ratio": 0.086,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.086,
+        0.1,
+        0.8,
+        0.1,
+        0.7949,
+        7,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 4,
@@ -733,14 +812,42 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "人生在世如幻影，\n争名夺利终何存。"
+          "text": "人生在世如幻影，"
+        },
+        {
+          "character": "伍员",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "争名夺利终何存。"
         },
         {
           "character": "伍员",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "老夫、伍子胥。乃楚国人氏。只因平王杀我满门，是我逃出昭关，面见吴王，\n意欲借兵伐楚；怎奈吴国朝事内乱，至今此仇未报。这且不言。今有祝大夫去\n世，不免前去祭奠一番。\n来，打道！"
+          "text": "老夫、伍子胥。乃楚国人氏。只因平王杀我满门，是我逃出昭关，面见吴王，"
+        },
+        {
+          "character": "伍员",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "意欲借兵伐楚；怎奈吴国朝事内乱，至今此仇未报。这且不言。今有祝大夫去"
+        },
+        {
+          "character": "伍员",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "世，不免前去祭奠一番。"
+        },
+        {
+          "character": "伍员",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来，打道！"
         },
         {
           "character": "四龙套",
@@ -754,7 +861,21 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "想当年在楚国官高极品，\n都只为谏君王杀我满门。\n保吴王灭姬僚驾坐龙庭。"
+          "text": "想当年在楚国官高极品，"
+        },
+        {
+          "character": "伍员",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "都只为谏君王杀我满门。"
+        },
+        {
+          "character": "伍员",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "保吴王灭姬僚驾坐龙庭。"
         },
         {
           "character": null,
@@ -783,7 +904,17 @@
         "singing_ratio": 0.667,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.667,
+        0.5,
+        0.5,
+        0.0,
+        0.2222,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 5,
@@ -797,14 +928,28 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "胸中志气高千丈，\n好似蛟龙海底藏。"
+          "text": "胸中志气高千丈，"
+        },
+        {
+          "character": "要离",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "好似蛟龙海底藏。"
         },
         {
           "character": "要离",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "卑人、要离。乃吴国人也。娶妻王氏，生得一子。是我自幼饱读诗书，只因家\n业凋零，未得前程。今有祝大夫开吊之期，我不免前去一祭便了！"
+          "text": "卑人、要离。乃吴国人也。娶妻王氏，生得一子。是我自幼饱读诗书，只因家"
+        },
+        {
+          "character": "要离",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "业凋零，未得前程。今有祝大夫开吊之期，我不免前去一祭便了！"
         },
         {
           "character": "要离",
@@ -823,7 +968,17 @@
         "singing_ratio": 1.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        1.0,
+        0.6,
+        0.4,
+        0.0,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 6,
@@ -997,7 +1152,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "世间之上如梦境，\n人生一世草一春。"
+          "text": "世间之上如梦境，"
+        },
+        {
+          "character": "伍员",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "人生一世草一春。"
         },
         {
           "character": null,
@@ -1025,7 +1187,21 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "人生在世徒扰攘，\n转眼之间梦一场。\n见灵牌不由我珠泪汪汪。"
+          "text": "人生在世徒扰攘，"
+        },
+        {
+          "character": "要离",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "转眼之间梦一场。"
+        },
+        {
+          "character": "要离",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "见灵牌不由我珠泪汪汪。"
         },
         {
           "character": null,
@@ -1134,7 +1310,17 @@
         "singing_ratio": 0.108,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.108,
+        0.2273,
+        0.7727,
+        0.0,
+        0.7619,
+        7,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 7,
@@ -1155,21 +1341,49 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "自幼生来颇勇壮，\n学习棍棒与刀枪。"
-        },
-        {
-          "character": "椒邱诉",
-          "line_type": "白",
-          "musical_style": null,
-          "style_family": null,
-          "text": "俺、椒邱诉。乃东海人氏。自幼习就全身武艺、水旱皆能。这且不言。我有一\n好友在吴国为官，不幸身亡，不免前去吊祭，就此马上加鞭！"
+          "text": "自幼生来颇勇壮，"
         },
         {
           "character": "椒邱诉",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "友朋列在五伦上，\n亲往吴国去吊丧。\n交友之心表一场。"
+          "text": "学习棍棒与刀枪。"
+        },
+        {
+          "character": "椒邱诉",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "俺、椒邱诉。乃东海人氏。自幼习就全身武艺、水旱皆能。这且不言。我有一"
+        },
+        {
+          "character": "椒邱诉",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "好友在吴国为官，不幸身亡，不免前去吊祭，就此马上加鞭！"
+        },
+        {
+          "character": "椒邱诉",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "友朋列在五伦上，"
+        },
+        {
+          "character": "椒邱诉",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "亲往吴国去吊丧。"
+        },
+        {
+          "character": "椒邱诉",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "交友之心表一场。"
         },
         {
           "character": null,
@@ -1189,7 +1403,17 @@
         "singing_ratio": 0.5,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.5,
+        0.7143,
+        0.2857,
+        0.0,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 8,
@@ -1214,7 +1438,21 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "儿的夫终日里苦读寒窗，\n磨穿了铁砚读尽文章。\n他今日为故友前去吊丧。"
+          "text": "儿的夫终日里苦读寒窗，"
+        },
+        {
+          "character": "要离妻",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "磨穿了铁砚读尽文章。"
+        },
+        {
+          "character": "要离妻",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "他今日为故友前去吊丧。"
         },
         {
           "character": null,
@@ -1228,7 +1466,21 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "在筵前与邱诉来把话讲，\n他被我当众人羞辱一场。\n一步儿来到了自己门墙。"
+          "text": "在筵前与邱诉来把话讲，"
+        },
+        {
+          "character": "要离",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "他被我当众人羞辱一场。"
+        },
+        {
+          "character": "要离",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "一步儿来到了自己门墙。"
         },
         {
           "character": "要离",
@@ -1238,14 +1490,28 @@
           "text": "开门来！"
         },
         {
-          "character": "我料他心气忿不能忍让、要离妻",
+          "character": "要离",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我料他心气忿不能忍让"
+        },
+        {
+          "character": "要离妻",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
           "text": "呀！"
         },
         {
-          "character": "我料他心气忿不能忍让、要离妻",
+          "character": "要离妻",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我料他心气忿不能忍让"
+        },
+        {
+          "character": "要离妻",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
@@ -1277,7 +1543,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "再不要提起！只因祝府吊丧，有一人名叫椒邱诉，在众人面前自夸入水与神龙\n争斗，轻慢众人，言辞不逊，被我当众羞辱一场，谅他不肯干休，今晚必来寻\n我。"
+          "text": "再不要提起！只因祝府吊丧，有一人名叫椒邱诉，在众人面前自夸入水与神龙"
+        },
+        {
+          "character": "要离",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "争斗，轻慢众人，言辞不逊，被我当众羞辱一场，谅他不肯干休，今晚必来寻"
+        },
+        {
+          "character": "要离",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "我。"
         },
         {
           "character": "要离妻",
@@ -1424,7 +1704,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "见我到此，还不躲避，此乃三罪。汝自求死，勿以我为怨。要离！你还有何话\n讲？"
+          "text": "见我到此，还不躲避，此乃三罪。汝自求死，勿以我为怨。要离！你还有何话"
+        },
+        {
+          "character": "椒邱诉",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "讲？"
         },
         {
           "character": null,
@@ -1480,7 +1767,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "夜半更深，进得我门，登堂无声，有掩袭之心，有偷盗之意，岂非暗算？此二\n不肖也。"
+          "text": "夜半更深，进得我门，登堂无声，有掩袭之心，有偷盗之意，岂非暗算？此二"
+        },
+        {
+          "character": "要离",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "不肖也。"
         },
         {
           "character": "椒邱诉",
@@ -1494,31 +1788,87 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "以剑杀我，自仗奇勇。我闻勇士者，于千军万马之中，能斩敌人之首，立万世\n不朽之功，方可算勇。你今不知羞愧，尚敢大言，夤夜暗杀，是何勇也？有此\n三不肖，尔反责我，空生天地之间，怎对日月之光？我把你这无耻的匹夫也！"
+          "text": "以剑杀我，自仗奇勇。我闻勇士者，于千军万马之中，能斩敌人之首，立万世"
+        },
+        {
+          "character": "要离",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "不朽之功，方可算勇。你今不知羞愧，尚敢大言，夤夜暗杀，是何勇也？有此"
+        },
+        {
+          "character": "要离",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "三不肖，尔反责我，空生天地之间，怎对日月之光？我把你这无耻的匹夫也！"
         },
         {
           "character": "要离",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "说话全然不思想，\n丢丑之事当平常。\n怎对辉煌日月光！"
+          "text": "说话全然不思想，"
         },
         {
-          "character": "夤夜暗杀非明亮、椒邱诉",
+          "character": "要离",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "问得豪杰无话讲，\n不该当众自夸强。"
+          "text": "丢丑之事当平常。"
         },
         {
-          "character": "夤夜暗杀非明亮、椒邱诉",
+          "character": "要离",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "怎对辉煌日月光！"
+        },
+        {
+          "character": "要离",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "夤夜暗杀非明亮"
+        },
+        {
+          "character": "椒邱诉",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "问得豪杰无话讲，"
+        },
+        {
+          "character": "椒邱诉",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "不该当众自夸强。"
+        },
+        {
+          "character": "椒邱诉",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "夤夜暗杀非明亮"
+        },
+        {
+          "character": "椒邱诉",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
           "text": "罢！"
         },
         {
-          "character": "夤夜暗杀非明亮、椒邱诉",
+          "character": "椒邱诉",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "夤夜暗杀非明亮"
+        },
+        {
+          "character": "椒邱诉",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
@@ -1543,7 +1893,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "言语说他无话讲，\n此人做事忒荒唐。"
+          "text": "言语说他无话讲，"
+        },
+        {
+          "character": "要离",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "此人做事忒荒唐。"
         },
         {
           "character": null,
@@ -1599,7 +1956,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "儿夫做事不思量，\n官府追究谁把命偿？"
+          "text": "儿夫做事不思量，"
+        },
+        {
+          "character": "要离妻",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "官府追究谁把命偿？"
         },
         {
           "character": null,
@@ -1620,7 +1984,28 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "娘子不必泪两行，\n黑夜之间莫声张。\n等到天明再商量。\n这是我多言惹祸殃。"
+          "text": "娘子不必泪两行，"
+        },
+        {
+          "character": "要离",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "黑夜之间莫声张。"
+        },
+        {
+          "character": "要离",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "等到天明再商量。"
+        },
+        {
+          "character": "要离",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "这是我多言惹祸殃。"
         },
         {
           "character": null,
@@ -1657,7 +2042,17 @@
         "singing_ratio": 0.132,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.132,
+        0.3472,
+        0.6528,
+        0.0,
+        0.493,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 9,
@@ -1765,7 +2160,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "某、公子庆忌。老王晏驾，我父接位。只因楚国平王晏驾，朝中无人，乘楚丧\n乱之中，发兵南征。某奉父王之命，往约郑、卫之兵，并力攻楚。今乃黄道吉\n日，正好起兵。\n众位将军！"
+          "text": "某、公子庆忌。老王晏驾，我父接位。只因楚国平王晏驾，朝中无人，乘楚丧"
+        },
+        {
+          "character": "庆忌",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "乱之中，发兵南征。某奉父王之命，往约郑、卫之兵，并力攻楚。今乃黄道吉"
+        },
+        {
+          "character": "庆忌",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "日，正好起兵。"
+        },
+        {
+          "character": "庆忌",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "众位将军！"
         },
         {
           "character": "四将",
@@ -1842,7 +2258,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.9412,
+        0.0588,
+        0.75,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 10,
@@ -1870,7 +2296,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "俺、能行探子是也。打探老王被姬光谋刺，不免飞马报与公子知道。就此马上\n加鞭！"
+          "text": "俺、能行探子是也。打探老王被姬光谋刺，不免飞马报与公子知道。就此马上"
+        },
+        {
+          "character": "大马童",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "加鞭！"
         },
         {
           "character": null,
@@ -1890,7 +2323,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.6667,
+        0.3333,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 11,
@@ -1985,17 +2428,52 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "点点珠泪洒胸膛。\n回头再骂贼姬光。\n再与众将说端详。"
+          "text": "点点珠泪洒胸膛。"
+        },
+        {
+          "character": "庆忌",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "回头再骂贼姬光。"
+        },
+        {
+          "character": "庆忌",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "再与众将说端详。"
         },
         {
           "character": "庆忌",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "众位将军，我有心领兵反回朝去，捉拿姬光，为先王报仇。望列位将军助我一\n臂之力！"
+          "text": "众位将军，我有心领兵反回朝去，捉拿姬光，为先王报仇。望列位将军助我一"
         },
         {
-          "character": "骂声伍员狗奸党、杀父之仇岂可忘、四将",
+          "character": "庆忌",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "臂之力！"
+        },
+        {
+          "character": "庆忌",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "骂声伍员狗奸党"
+        },
+        {
+          "character": "庆忌",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "杀父之仇岂可忘"
+        },
+        {
+          "character": "四将",
           "line_type": "同白",
           "musical_style": null,
           "style_family": null,
@@ -2055,7 +2533,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.3158,
+        0.6842,
+        0.0,
+        0.4444,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 12,
@@ -2157,7 +2645,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 13,
@@ -2378,7 +2876,17 @@
         "singing_ratio": 0.2,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.2,
+        0.25,
+        0.75,
+        0.0,
+        0.7333,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 14,
@@ -3168,7 +3676,17 @@
         "musical_styles": [
           "西皮二六"
         ]
-      }
+      },
+      "scene_feature": [
+        0.182,
+        0.2024,
+        0.7738,
+        0.0238,
+        0.8434,
+        5,
+        0.0119,
+        0.0
+      ]
     },
     {
       "scene_index": 15,
@@ -3230,7 +3748,17 @@
         "singing_ratio": 0.5,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.5,
+        0.5,
+        0.5,
+        0.0,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 16,
@@ -3742,7 +4270,17 @@
         "musical_styles": [
           "二黄摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.163,
+        0.2264,
+        0.7358,
+        0.0377,
+        0.75,
+        5,
+        0.0,
+        0.0189
+      ]
     },
     {
       "scene_index": 17,
@@ -3796,7 +4334,17 @@
         "singing_ratio": 1.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        1.0,
+        0.6667,
+        0.3333,
+        0.0,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 18,
@@ -3836,7 +4384,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 19,
@@ -4693,7 +5251,17 @@
         "singing_ratio": 0.099,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.099,
+        0.1209,
+        0.8571,
+        0.022,
+        0.8222,
+        5,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 20,
@@ -4765,7 +5333,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 21,
@@ -4837,7 +5415,17 @@
         "singing_ratio": 0.333,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.333,
+        0.3333,
+        0.6667,
+        0.0,
+        1.0,
+        2,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 22,
@@ -5510,7 +6098,17 @@
         "singing_ratio": 0.07,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.07,
+        0.1644,
+        0.7945,
+        0.0411,
+        0.7222,
+        5,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 23,
@@ -5944,7 +6542,17 @@
         "singing_ratio": 0.139,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.139,
+        0.2,
+        0.8,
+        0.0,
+        0.8462,
+        7,
+        0.0,
+        0.0
+      ]
     }
   ]
 }

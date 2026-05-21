@@ -188,7 +188,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -215,7 +225,21 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "英雄侠义世界无，\n谈笑绿林不丈夫。\n当年大闹关家堡。"
+          "text": "英雄侠义世界无，"
+        },
+        {
+          "character": "黄天霸",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "谈笑绿林不丈夫。"
+        },
+        {
+          "character": "黄天霸",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "当年大闹关家堡。"
         },
         {
           "character": "黄天霸",
@@ -236,7 +260,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "走吓！\n参见协宪。"
+          "text": "走吓！"
+        },
+        {
+          "character": "郭起凤",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "参见协宪。"
         },
         {
           "character": "黄天霸",
@@ -264,7 +295,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "哎呀，宪台吓！卑职同大人私访，行至里海坞，在玄坛庙借宿，不想凶僧看破，\n将大人拿去了！"
+          "text": "哎呀，宪台吓！卑职同大人私访，行至里海坞，在玄坛庙借宿，不想凶僧看破，"
+        },
+        {
+          "character": "郭起凤",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "将大人拿去了！"
         },
         {
           "character": "黄天霸",
@@ -292,10 +330,31 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "听他言不由我魂不附体，\n这凶僧灭满门全然不知。\n那凶僧名和姓你可得知？"
+          "text": "听他言不由我魂不附体，"
         },
         {
-          "character": "回言来对起凤又复问起、郭起凤",
+          "character": "黄天霸",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "这凶僧灭满门全然不知。"
+        },
+        {
+          "character": "黄天霸",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "那凶僧名和姓你可得知？"
+        },
+        {
+          "character": "黄天霸",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "回言来对起凤又复问起"
+        },
+        {
+          "character": "郭起凤",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -306,7 +365,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "你同大人私访，闯下此祸，不知那人姓名，即便调动官兵，是哪里去寻？若论\n小，不愿大，国法当诛。"
+          "text": "你同大人私访，闯下此祸，不知那人姓名，即便调动官兵，是哪里去寻？若论"
+        },
+        {
+          "character": "黄天霸",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "小，不愿大，国法当诛。"
         },
         {
           "character": "郭起凤",
@@ -320,7 +386,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "哎呀，苍天哪，苍天！想大人忠心为国，今遭颠险，上天若念忠良，也该护佑。\n来！"
+          "text": "哎呀，苍天哪，苍天！想大人忠心为国，今遭颠险，上天若念忠良，也该护佑。"
+        },
+        {
+          "character": "黄天霸",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来！"
         },
         {
           "character": "郭起凤",
@@ -341,7 +414,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "是，遵命。\n咳！"
+          "text": "是，遵命。"
+        },
+        {
+          "character": "郭起凤",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "咳！"
         },
         {
           "character": null,
@@ -568,7 +648,17 @@
         "singing_ratio": 0.029,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.029,
+        0.1522,
+        0.8478,
+        0.0,
+        0.7333,
+        6,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -593,14 +683,42 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "恼恨天霸贼强盗，\n镖伤天虬赴阴曹。\n顿起毒心祸自招。"
+          "text": "恼恨天霸贼强盗，"
         },
         {
-          "character": "劝你休把此仇报、郝素玉",
+          "character": "郝夫人",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "母亲休要心烦恼，\n孩儿自有计巧高。"
+          "text": "镖伤天虬赴阴曹。"
+        },
+        {
+          "character": "郝夫人",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "顿起毒心祸自招。"
+        },
+        {
+          "character": "郝夫人",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "劝你休把此仇报"
+        },
+        {
+          "character": "郝素玉",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "母亲休要心烦恼，"
+        },
+        {
+          "character": "郝素玉",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "孩儿自有计巧高。"
         },
         {
           "character": "郝文僧",
@@ -621,7 +739,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "神差鬼使赃官到，\n见了母亲说根苗。"
+          "text": "神差鬼使赃官到，"
+        },
+        {
+          "character": "郝文僧",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "见了母亲说根苗。"
         },
         {
           "character": "郝文僧",
@@ -670,14 +795,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "赃官，可叹吾内侄男武天虬为你这狗官，命丧天霸之手。指望你远遁潜逃，难\n道你也有今日吓！"
+          "text": "赃官，可叹吾内侄男武天虬为你这狗官，命丧天霸之手。指望你远遁潜逃，难"
+        },
+        {
+          "character": "郝夫人",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "道你也有今日吓！"
         },
         {
           "character": "郝夫人",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "指望不能把仇报，\n好比羊羔入虎巢。"
+          "text": "指望不能把仇报，"
+        },
+        {
+          "character": "郝夫人",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "好比羊羔入虎巢。"
         },
         {
           "character": "郝素玉",
@@ -754,7 +893,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "你老人家是老糊涂了。当初在绿林之中，也有个名头，谁人不知，哪个不晓，\n这等胆小。纵然杀了赃官，我想天霸也不是孩儿的对手。待我将他拿住，与表\n兄报仇，杀他一个斩草除根，又算什么！"
+          "text": "你老人家是老糊涂了。当初在绿林之中，也有个名头，谁人不知，哪个不晓，"
+        },
+        {
+          "character": "郝素玉",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "这等胆小。纵然杀了赃官，我想天霸也不是孩儿的对手。待我将他拿住，与表"
+        },
+        {
+          "character": "郝素玉",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "兄报仇，杀他一个斩草除根，又算什么！"
         },
         {
           "character": "郝文僧",
@@ -768,7 +921,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "咳！你们杀害朝廷大臣，恐全家不保。为父再三相劝，你们执意不听，只怕后\n悔不及。"
+          "text": "咳！你们杀害朝廷大臣，恐全家不保。为父再三相劝，你们执意不听，只怕后"
+        },
+        {
+          "character": "郝世洪",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "悔不及。"
         },
         {
           "character": "郝夫人",
@@ -782,7 +942,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "母亲不必生气。\n爹呀，我们的事，不要你老人家多管。有什么祸全有我一个人儿哪！"
+          "text": "母亲不必生气。"
+        },
+        {
+          "character": "郝素玉",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "爹呀，我们的事，不要你老人家多管。有什么祸全有我一个人儿哪！"
         },
         {
           "character": "郝世洪",
@@ -872,7 +1039,17 @@
         "singing_ratio": 0.12,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.12,
+        0.2857,
+        0.619,
+        0.0952,
+        0.561,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 4,
@@ -933,14 +1110,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "咳，列位。想当年在恶虎村镖伤天虬，也是为了大人。如今那郝世洪定要与他\n内侄报仇。咳，也罢，待俺去至他家杀死他的满门。"
+          "text": "咳，列位。想当年在恶虎村镖伤天虬，也是为了大人。如今那郝世洪定要与他"
+        },
+        {
+          "character": "黄天霸",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "内侄报仇。咳，也罢，待俺去至他家杀死他的满门。"
         },
         {
           "character": "何路通",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "且慢！想那郝世洪乃是江湖首领，当年与三泰爷甚是交好，大人若在他家，还\n则罢了；倘若大人不在他家，岂不误伤人命？恐被旁人谈论。"
+          "text": "且慢！想那郝世洪乃是江湖首领，当年与三泰爷甚是交好，大人若在他家，还"
+        },
+        {
+          "character": "何路通",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "则罢了；倘若大人不在他家，岂不误伤人命？恐被旁人谈论。"
         },
         {
           "character": "黄天霸",
@@ -954,7 +1145,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "咳，黄爷。想那郝世洪乃是前辈的老英雄，当初与黄三叔也有八拜之交。你可\n前去，假意拜望。大人若在他家，你用好言相求，他会念江湖义气，必将大人\n放出。若执意不肯，你可告辞回来，明求不成，少不得暗中偷也把大人偷回来\n了。"
+          "text": "咳，黄爷。想那郝世洪乃是前辈的老英雄，当初与黄三叔也有八拜之交。你可"
+        },
+        {
+          "character": "朱光祖",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "前去，假意拜望。大人若在他家，你用好言相求，他会念江湖义气，必将大人"
+        },
+        {
+          "character": "朱光祖",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "放出。若执意不肯，你可告辞回来，明求不成，少不得暗中偷也把大人偷回来"
+        },
+        {
+          "character": "朱光祖",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "了。"
         },
         {
           "character": "黄天霸",
@@ -1021,7 +1233,17 @@
         "singing_ratio": 0.091,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.091,
+        0.1176,
+        0.8824,
+        0.0,
+        0.625,
+        5,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 5,
@@ -1049,7 +1271,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "我奉和尚大爷之命，准备灵堂，俱已齐备。\n有请大爷！"
+          "text": "我奉和尚大爷之命，准备灵堂，俱已齐备。"
+        },
+        {
+          "character": "丑院子",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "有请大爷！"
         },
         {
           "character": null,
@@ -1063,7 +1292,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "只为内侄遭毒手，\n今日与他报冤仇。"
+          "text": "只为内侄遭毒手，"
+        },
+        {
+          "character": "郝夫人",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "今日与他报冤仇。"
         },
         {
           "character": "郝素玉",
@@ -1098,14 +1334,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "强盗吓，强盗！俺乃朝廷钦命大臣，忠心为国。今日被你们拿住，想本院一死，\n落一个忠字。尔等的性命，无非就在眼前，还多言什么！"
+          "text": "强盗吓，强盗！俺乃朝廷钦命大臣，忠心为国。今日被你们拿住，想本院一死，"
+        },
+        {
+          "character": "施世纶",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "落一个忠字。尔等的性命，无非就在眼前，还多言什么！"
         },
         {
           "character": "郝文僧",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "呔，赃官哪，狗赃官！你死在眼前，还是这等言语。\n唗，刀来！"
+          "text": "呔，赃官哪，狗赃官！你死在眼前，还是这等言语。"
+        },
+        {
+          "character": "郝文僧",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "唗，刀来！"
         },
         {
           "character": null,
@@ -1147,7 +1397,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "住了。儿还不与我下去！\n来，将施公绑下去。"
+          "text": "住了。儿还不与我下去！"
+        },
+        {
+          "character": "郝世洪",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "来，将施公绑下去。"
         },
         {
           "character": null,
@@ -1259,14 +1516,35 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "只为大人出外私访，在里海坞玄坛寺借宿，被一僧人将大人拿住，那僧人言道\n乃是叔父之子，为此事小侄前来叩求叔父，将大人放出。一来看在我父份上，\n二来不失江湖义气，三来成全小侄忠孝二字。料叔父万无推辞的了。"
+          "text": "只为大人出外私访，在里海坞玄坛寺借宿，被一僧人将大人拿住，那僧人言道"
+        },
+        {
+          "character": "黄天霸",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "乃是叔父之子，为此事小侄前来叩求叔父，将大人放出。一来看在我父份上，"
+        },
+        {
+          "character": "黄天霸",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "二来不失江湖义气，三来成全小侄忠孝二字。料叔父万无推辞的了。"
         },
         {
           "character": "郝世洪",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "黄爷，想这些事老朽一概不知。黄爷请回，待我找寻，若有大人，即刻送回公\n馆。"
+          "text": "黄爷，想这些事老朽一概不知。黄爷请回，待我找寻，若有大人，即刻送回公"
+        },
+        {
+          "character": "郝世洪",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "馆。"
         },
         {
           "character": "黄天霸",
@@ -1280,7 +1558,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "呔，天霸！想当初你父在世，本是绿林出身，你反归顺赃官，杀了多少绿林的\n英雄好汉。在恶虎村镖打武天虬，枪挑濮天雕，逼死二位仁嫂，你还有什么忠\n孝，有什么义气？你今到此，要想出庄，只怕万万不能！"
+          "text": "呔，天霸！想当初你父在世，本是绿林出身，你反归顺赃官，杀了多少绿林的"
+        },
+        {
+          "character": "郝文僧",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "英雄好汉。在恶虎村镖打武天虬，枪挑濮天雕，逼死二位仁嫂，你还有什么忠"
+        },
+        {
+          "character": "郝文僧",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "孝，有什么义气？你今到此，要想出庄，只怕万万不能！"
         },
         {
           "character": null,
@@ -1294,7 +1586,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "呔，某家弃却绿林，归顺忠良，心怀替天行道，杀的是赃官污吏，恶霸土豪。\n劝你们快快放出大人便罢，如若不然，我要杀尽你等狗男女！"
+          "text": "呔，某家弃却绿林，归顺忠良，心怀替天行道，杀的是赃官污吏，恶霸土豪。"
+        },
+        {
+          "character": "黄天霸",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "劝你们快快放出大人便罢，如若不然，我要杀尽你等狗男女！"
         },
         {
           "character": "郝文僧",
@@ -1387,7 +1686,17 @@
         "singing_ratio": 0.1,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.1,
+        0.1163,
+        0.8605,
+        0.0233,
+        0.6905,
+        8,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 6,
@@ -1488,7 +1797,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "吓，你为的是施不全来的，你怎么这么糊涂哇，既为施公，你就当先见我哥哥，\n用好言相求，才是正理，怎么着你跟我们打起来了？就是你那个能耐，还差\n远着呢，我的哥哥儿！"
+          "text": "吓，你为的是施不全来的，你怎么这么糊涂哇，既为施公，你就当先见我哥哥，"
+        },
+        {
+          "character": "郝素玉",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "用好言相求，才是正理，怎么着你跟我们打起来了？就是你那个能耐，还差"
+        },
+        {
+          "character": "郝素玉",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "远着呢，我的哥哥儿！"
         },
         {
           "character": "黄天霸",
@@ -1530,7 +1853,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "我瞧你英雄出众，相貌堂堂，天下扬名，如雷贯耳。你瞧我正在青春，你也年\n少，要不着咱俩配上一对夫妻，你愿意不愿意，我的黄老爷呀？"
+          "text": "我瞧你英雄出众，相貌堂堂，天下扬名，如雷贯耳。你瞧我正在青春，你也年"
+        },
+        {
+          "character": "郝素玉",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "少，要不着咱俩配上一对夫妻，你愿意不愿意，我的黄老爷呀？"
         },
         {
           "character": "黄天霸",
@@ -1544,7 +1874,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "怎么着，你娶过妻子了么？咳，这是怎么说。哎，要不这么着罢，我倒不在乎\n大小，是姻缘棒打不散，我情愿给你作个二房，你瞧好不好？"
+          "text": "怎么着，你娶过妻子了么？咳，这是怎么说。哎，要不这么着罢，我倒不在乎"
+        },
+        {
+          "character": "郝素玉",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "大小，是姻缘棒打不散，我情愿给你作个二房，你瞧好不好？"
         },
         {
           "character": "黄天霸",
@@ -1593,14 +1930,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "这丫头武艺高强，力大无比，我若不从，焉能救出大人？也罢，待我假意应允。\n吓，姑娘，俺要允了亲事，你怎样送出大人？"
+          "text": "这丫头武艺高强，力大无比，我若不从，焉能救出大人？也罢，待我假意应允。"
+        },
+        {
+          "character": "黄天霸",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "吓，姑娘，俺要允了亲事，你怎样送出大人？"
         },
         {
           "character": "郝素玉",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "只要你答应了，我有个主意在此，今晚三更时分，我在后花园等你，你与我先\n成了亲，然后我将大人送还与你，我可就跟了你去了。"
+          "text": "只要你答应了，我有个主意在此，今晚三更时分，我在后花园等你，你与我先"
+        },
+        {
+          "character": "郝素玉",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "成了亲，然后我将大人送还与你，我可就跟了你去了。"
         },
         {
           "character": "黄天霸",
@@ -1614,7 +1965,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "我告诉你说，我父亲不敢管我，我哥哥主不了我的事，他们答应便罢，如若不\n然，我把他们一同拿住，交给你，算我的嫁妆，好不好？"
+          "text": "我告诉你说，我父亲不敢管我，我哥哥主不了我的事，他们答应便罢，如若不"
+        },
+        {
+          "character": "郝素玉",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "然，我把他们一同拿住，交给你，算我的嫁妆，好不好？"
         },
         {
           "character": "黄天霸",
@@ -1726,14 +2084,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "我想天霸尚且被我杀得大败，那些溺旦也了不了什么大事。你们放心，今日晚\n上待我看守赃官，有什么大事，都有我一个人呢。"
+          "text": "我想天霸尚且被我杀得大败，那些溺旦也了不了什么大事。你们放心，今日晚"
+        },
+        {
+          "character": "郝素玉",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "上待我看守赃官，有什么大事，都有我一个人呢。"
         },
         {
           "character": "郝文僧",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "如此正好。\n庄丁们，就此回庄。"
+          "text": "如此正好。"
+        },
+        {
+          "character": "郝文僧",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "庄丁们，就此回庄。"
         },
         {
           "character": null,
@@ -1796,7 +2168,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.9808,
+        0.0192,
+        0.7647,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 7,
@@ -1843,7 +2225,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "小弟探明大人被郝世洪之子凶僧拿去。小弟再三相求，那郝世洪倒肯放出大人，\n他儿子不从。"
+          "text": "小弟探明大人被郝世洪之子凶僧拿去。小弟再三相求，那郝世洪倒肯放出大人，"
+        },
+        {
+          "character": "黄天霸",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "他儿子不从。"
         },
         {
           "character": "关泰、王殿臣、何路通、朱光祖、郭起凤",
@@ -1857,7 +2246,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "被俺杀他们大败，不想他有一女儿武艺高强，力大无穷。俺寡不敌众，幸亏那\n丫头当面许亲，情愿今晚三更送出大人。"
+          "text": "被俺杀他们大败，不想他有一女儿武艺高强，力大无穷。俺寡不敌众，幸亏那"
+        },
+        {
+          "character": "黄天霸",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "丫头当面许亲，情愿今晚三更送出大人。"
         },
         {
           "character": "朱光祖",
@@ -1896,7 +2292,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.75,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 8,
@@ -2009,7 +2415,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.75,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 9,
@@ -2149,7 +2565,17 @@
         "singing_ratio": 0.143,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.143,
+        0.2222,
+        0.7778,
+        0.0,
+        0.75,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 10,
@@ -2229,7 +2655,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 11,
@@ -2394,7 +2830,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.6364,
+        3,
+        0.0,
+        0.0
+      ]
     }
   ]
 }

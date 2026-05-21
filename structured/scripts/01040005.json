@@ -193,7 +193,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "老身张门殷民，老爷张济，就在杭州城内安居。只因我家老爷，进京奉君，还\n未见音信。"
+          "text": "老身张门殷民，老爷张济，就在杭州城内安居。只因我家老爷，进京奉君，还"
+        },
+        {
+          "character": "张夫人",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "未见音信。"
         },
         {
           "character": "家院、院子",
@@ -214,7 +221,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "是。\n有请二位小姐出堂。"
+          "text": "是。"
+        },
+        {
+          "character": "院子",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "有请二位小姐出堂。"
         },
         {
           "character": null,
@@ -489,7 +503,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.9062,
+        0.0938,
+        0.871,
+        9,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -518,7 +542,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "小生甘习文，我乃湖州人氏。我父下世去了，留下母子二人。我看今日天气清\n和，有意进京求名，请出母亲商议。\n孩儿有请母亲。"
+          "text": "小生甘习文，我乃湖州人氏。我父下世去了，留下母子二人。我看今日天气清"
+        },
+        {
+          "character": "甘习文",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "和，有意进京求名，请出母亲商议。"
+        },
+        {
+          "character": "甘习文",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "孩儿有请母亲。"
         },
         {
           "character": null,
@@ -602,7 +640,14 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "辞别母亲出门庭，\n一到京城求功名。"
+          "text": "辞别母亲出门庭，"
+        },
+        {
+          "character": "甘习文",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "一到京城求功名。"
         },
         {
           "character": null,
@@ -641,7 +686,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.091,
+        0.2353,
+        0.7059,
+        0.0588,
+        0.6875,
+        2,
+        0.1765,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -665,14 +720,28 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "家中奉了母亲命，\n去到京城求功名。"
+          "text": "家中奉了母亲命，"
+        },
+        {
+          "character": "蔡炳",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "去到京城求功名。"
         },
         {
           "character": "蔡炳",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "在下蔡炳，兴化人氏。在家奉了母亲之命，进京求名。不知道路，如何是好？\n那边来了一位君子，在此等候便了。"
+          "text": "在下蔡炳，兴化人氏。在家奉了母亲之命，进京求名。不知道路，如何是好？"
+        },
+        {
+          "character": "蔡炳",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "那边来了一位君子，在此等候便了。"
         },
         {
           "character": null,
@@ -686,7 +755,21 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "走过了许多的高山峻岭，\n真乃是花景地水秀山清。\n又只见一学生面前来迎。"
+          "text": "走过了许多的高山峻岭，"
+        },
+        {
+          "character": "甘习文",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "真乃是花景地水秀山清。"
+        },
+        {
+          "character": "甘习文",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "又只见一学生面前来迎。"
         },
         {
           "character": "甘习文",
@@ -696,7 +779,14 @@
           "text": "呀这一位兄台，请来见礼。"
         },
         {
-          "character": "正行走来用目观定、蔡炳",
+          "character": "甘习文",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "正行走来用目观定"
+        },
+        {
+          "character": "蔡炳",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -791,14 +881,28 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "念小弟住京城孤身伶仃，\n幸喜的与仁兄萍水相逢。"
+          "text": "念小弟住京城孤身伶仃，"
+        },
+        {
+          "character": "蔡炳",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "幸喜的与仁兄萍水相逢。"
         },
         {
           "character": "甘习文",
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "钟子期、俞伯牙本是两姓，\n咱二人比古人一般相同。"
+          "text": "钟子期、俞伯牙本是两姓，"
+        },
+        {
+          "character": "甘习文",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "咱二人比古人一般相同。"
         },
         {
           "character": "蔡炳",
@@ -985,7 +1089,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.091,
+        0.1957,
+        0.7609,
+        0.0435,
+        0.7111,
+        3,
+        0.1957,
+        0.0
+      ]
     },
     {
       "scene_index": 4,
@@ -1097,7 +1211,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 5,
@@ -1269,7 +1393,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.9333,
+        0.0667,
+        0.9286,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 6,
@@ -1308,7 +1442,14 @@
           "line_type": "西皮二六板",
           "musical_style": "西皮二六板",
           "style_family": "西皮",
-          "text": "张小莲在船头用目观看，\n在那边来了个清秀少年。"
+          "text": "张小莲在船头用目观看，"
+        },
+        {
+          "character": "张小莲",
+          "line_type": "西皮二六板",
+          "musical_style": "西皮二六板",
+          "style_family": "西皮",
+          "text": "在那边来了个清秀少年。"
         },
         {
           "character": null,
@@ -1322,28 +1463,70 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "来到大街上用目观看，\n大花船小花船真真可观。\n见一位小大姐月里天仙。"
-        },
-        {
-          "character": "行一步来在了官船边上、张小莲",
-          "line_type": "西皮原板",
-          "musical_style": "西皮原板",
-          "style_family": "西皮",
-          "text": "开言我把相公问，\n问相公你叫什么名？"
+          "text": "来到大街上用目观看，"
         },
         {
           "character": "甘习文",
-          "line_type": "西皮原板",
-          "musical_style": "西皮原板",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "湖州城里有家门，\n我的名叫甘习文。"
+          "text": "大花船小花船真真可观。"
+        },
+        {
+          "character": "甘习文",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "见一位小大姐月里天仙。"
+        },
+        {
+          "character": "甘习文",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "行一步来在了官船边上"
         },
         {
           "character": "张小莲",
           "line_type": "西皮原板",
           "musical_style": "西皮原板",
           "style_family": "西皮",
-          "text": "听说他叫甘习文，\n不由小莲喜在心。"
+          "text": "开言我把相公问，"
+        },
+        {
+          "character": "张小莲",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "问相公你叫什么名？"
+        },
+        {
+          "character": "甘习文",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "湖州城里有家门，"
+        },
+        {
+          "character": "甘习文",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "我的名叫甘习文。"
+        },
+        {
+          "character": "张小莲",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "听说他叫甘习文，"
+        },
+        {
+          "character": "张小莲",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "不由小莲喜在心。"
         },
         {
           "character": null,
@@ -1518,7 +1701,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "哎呀且住，是我游玩花船，那一女子，与我金钗一支，言道今晚三更时，后船\n相会，真乃美事也。我想此事，蔡炳知道，如何是好，让我一人前去便了。"
+          "text": "哎呀且住，是我游玩花船，那一女子，与我金钗一支，言道今晚三更时，后船"
+        },
+        {
+          "character": "甘习文",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "相会，真乃美事也。我想此事，蔡炳知道，如何是好，让我一人前去便了。"
         },
         {
           "character": "甘习文",
@@ -1595,7 +1785,17 @@
           "西皮原板",
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.2,
+        0.3611,
+        0.6111,
+        0.0278,
+        0.6286,
+        5,
+        0.3611,
+        0.0
+      ]
     },
     {
       "scene_index": 7,
@@ -1701,7 +1901,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.8333,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 8,
@@ -1755,7 +1965,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 9,
@@ -1788,7 +2008,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 10,
@@ -1811,7 +2041,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "我乃南海大士。只因甘习文与张小莲有姻缘之分，待我变化店家，在此等候与\n他。\n众云童！"
+          "text": "我乃南海大士。只因甘习文与张小莲有姻缘之分，待我变化店家，在此等候与"
+        },
+        {
+          "character": "观音",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "他。"
+        },
+        {
+          "character": "观音",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "众云童！"
         },
         {
           "character": "二童子",
@@ -1860,7 +2104,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "哎呀且住。是我走了半日，不见花船，又不知道路，如何是好？那边有一妈妈，\n上前问过，再做道理。\n呀，这一妈妈，请来见礼。"
+          "text": "哎呀且住。是我走了半日，不见花船，又不知道路，如何是好？那边有一妈妈，"
+        },
+        {
+          "character": "甘习文",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "上前问过，再做道理。"
+        },
+        {
+          "character": "甘习文",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "呀，这一妈妈，请来见礼。"
         },
         {
           "character": "观音",
@@ -2003,7 +2261,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.75,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 11,
@@ -2054,14 +2322,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "呀老爷，你我府下无有好的丫鬟侍奉小姐，我有意与大女儿买上一个丫头，不\n知老爷意下如何？"
+          "text": "呀老爷，你我府下无有好的丫鬟侍奉小姐，我有意与大女儿买上一个丫头，不"
+        },
+        {
+          "character": "张夫人",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "知老爷意下如何？"
         },
         {
           "character": "张济",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "就依夫人。\n院子，这里可有丫头，去到外边，买上一个。"
+          "text": "就依夫人。"
+        },
+        {
+          "character": "张济",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "院子，这里可有丫头，去到外边，买上一个。"
         },
         {
           "character": "院子",
@@ -2112,7 +2394,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.8,
+        0.2,
+        0.6667,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 12,
@@ -2483,7 +2775,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.025,
+        0.0244,
+        0.9512,
+        0.0244,
+        0.95,
+        3,
+        0.0244,
+        0.0
+      ]
     },
     {
       "scene_index": 13,
@@ -2996,7 +3298,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.96,
+        0.04,
+        0.9592,
+        7,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 14,
@@ -4453,7 +4765,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.013,
+        0.0247,
+        0.963,
+        0.0123,
+        0.9193,
+        8,
+        0.0185,
+        0.0
+      ]
     }
   ]
 }

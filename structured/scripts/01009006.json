@@ -234,7 +234,7 @@
           "text": "乐进 （同点绛唇） 要把狼烟扫。"
         },
         {
-          "character": null,
+          "character": "乐进",
           "line_type": "同白",
           "musical_style": null,
           "style_family": null,
@@ -308,7 +308,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "老夫，曹操，祖居沛国谯郡人也。昔日长安，意欲刺杀董卓，不料衣镜之内，\n被他看破机关，我便随机应变，佯话献剑，方免疑虑。幸得良马，逃出都城，\n令合诸侯，剿灭董卓，屡建奇功。献帝封俺，为汉丞相之职，可恨桃园弟兄，\n新野一战，杀得吾军七零八落，如今他等奔江陵去了。"
+          "text": "老夫，曹操，祖居沛国谯郡人也。昔日长安，意欲刺杀董卓，不料衣镜之内，"
+        },
+        {
+          "character": "曹操",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "被他看破机关，我便随机应变，佯话献剑，方免疑虑。幸得良马，逃出都城，"
+        },
+        {
+          "character": "曹操",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "令合诸侯，剿灭董卓，屡建奇功。献帝封俺，为汉丞相之职，可恨桃园弟兄，"
+        },
+        {
+          "character": "曹操",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "新野一战，杀得吾军七零八落，如今他等奔江陵去了。"
         },
         {
           "character": "张郃",
@@ -336,7 +357,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "如此甚好。曹洪听令：命你二人带领一哨人马，全往江陵，擒获刘备，不得违\n误。"
+          "text": "如此甚好。曹洪听令：命你二人带领一哨人马，全往江陵，擒获刘备，不得违"
+        },
+        {
+          "character": "曹操",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "误。"
         },
         {
           "character": "张郃、曹洪",
@@ -385,7 +413,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0625,
+        0.875,
+        0.0625,
+        0.6,
+        5,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -419,7 +457,14 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "谁知今日不周全。\n逃出虎穴与龙潭。"
+          "text": "谁知今日不周全。"
+        },
+        {
+          "character": "刘备",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "逃出虎穴与龙潭。"
         },
         {
           "character": "刘备",
@@ -436,7 +481,14 @@
           "text": "忧国忧民心，恨杀孤苍穹。"
         },
         {
-          "character": "忙将人马来催趱、赵云",
+          "character": "刘备",
+          "line_type": "念",
+          "musical_style": null,
+          "style_family": null,
+          "text": "忙将人马来催趱"
+        },
+        {
+          "character": "赵云",
           "line_type": "念",
           "musical_style": null,
           "style_family": null,
@@ -468,7 +520,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "想你我弟兄，自桃园以来，临阵百战百胜，今日带着这些百姓，遮拦左右，把\n一座好战场，弄得七零八落，怎的不叫俺老张发燥吓！"
+          "text": "想你我弟兄，自桃园以来，临阵百战百胜，今日带着这些百姓，遮拦左右，把"
+        },
+        {
+          "character": "张飞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "一座好战场，弄得七零八落，怎的不叫俺老张发燥吓！"
         },
         {
           "character": null,
@@ -489,7 +548,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "三将军，看那曹兵虽有泰山之威，若凭你我胯下马掌中枪，杀进曹营，也要杀\n他个片甲不回！"
+          "text": "三将军，看那曹兵虽有泰山之威，若凭你我胯下马掌中枪，杀进曹营，也要杀"
+        },
+        {
+          "character": "赵云",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "他个片甲不回！"
         },
         {
           "character": "张飞",
@@ -510,7 +576,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "好吓，四弟保护车辆前往，待等先生、二哥借兵前来，再做计较。待俺老张抖\n擞威风，杀入曹营，定要杀他个落花流水！"
+          "text": "好吓，四弟保护车辆前往，待等先生、二哥借兵前来，再做计较。待俺老张抖"
+        },
+        {
+          "character": "张飞",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "擞威风，杀入曹营，定要杀他个落花流水！"
         },
         {
           "character": "刘备",
@@ -524,10 +597,45 @@
           "line_type": "西皮原板",
           "musical_style": "西皮原板",
           "style_family": "西皮",
-          "text": "刘备马上自思叹，\n弟兄结义在桃园。\n如今方知后悔难。"
+          "text": "刘备马上自思叹，"
         },
         {
-          "character": "大破黄巾兵百万、至今未得一日闲、离了新野心惊战、赵云",
+          "character": "刘备",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "弟兄结义在桃园。"
+        },
+        {
+          "character": "刘备",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "如今方知后悔难。"
+        },
+        {
+          "character": "刘备",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "大破黄巾兵百万"
+        },
+        {
+          "character": "刘备",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "至今未得一日闲"
+        },
+        {
+          "character": "刘备",
+          "line_type": "西皮原板",
+          "musical_style": "西皮原板",
+          "style_family": "西皮",
+          "text": "离了新野心惊战"
+        },
+        {
+          "character": "赵云",
           "line_type": "西皮原板",
           "musical_style": "西皮原板",
           "style_family": "西皮",
@@ -636,7 +744,14 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "单人独骑破曹瞒！\n（张郃、徐晃、许褚、李典、曹洪、张辽、曹休、乐进同上，开打，徐晃、许褚、李典、曹洪、张辽、曹休、"
+          "text": "单人独骑破曹瞒！"
+        },
+        {
+          "character": "赵云",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "（张郃、徐晃、许褚、李典、曹洪、张辽、曹休、乐进同上，开打，徐晃、许褚、李典、曹洪、张辽、曹休、"
         }
       ],
       "interactions": [
@@ -674,7 +789,17 @@
           "西皮原板",
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.333,
+        0.4595,
+        0.4324,
+        0.1081,
+        0.4167,
+        3,
+        0.4595,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -755,7 +880,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.75,
+        0.75,
+        0.25,
+        0.0,
+        1.0,
+        3,
+        0.75,
+        0.0
+      ]
     },
     {
       "scene_index": 4,
@@ -769,7 +904,14 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "单人独骑往前奔，\n（四下手、徐晃、许褚、李典、张辽、曹休、乐进同上，围刘备。四上手引张飞同上，开打，张飞救刘备同"
+          "text": "单人独骑往前奔，"
+        },
+        {
+          "character": "刘备",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "（四下手、徐晃、许褚、李典、张辽、曹休、乐进同上，围刘备。四上手引张飞同上，开打，张飞救刘备同"
         }
       ],
       "interactions": [],
@@ -783,7 +925,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        1.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1,
+        1.0,
+        0.0
+      ]
     },
     {
       "scene_index": 5,
@@ -833,7 +985,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "二主母抱了小主而走，俺被曹洪追来，中枪落马，难以挣扎，故卧草中，马匹\n被夺去了。"
+          "text": "二主母抱了小主而走，俺被曹洪追来，中枪落马，难以挣扎，故卧草中，马匹"
+        },
+        {
+          "character": "糜芳",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "被夺去了。"
         },
         {
           "character": null,
@@ -892,7 +1051,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.2,
+        0.2222,
+        0.7778,
+        0.0,
+        0.5,
+        2,
+        0.2222,
+        0.0
+      ]
     },
     {
       "scene_index": 6,
@@ -921,7 +1090,14 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "杀出一层又一层，\n赵云的精神倍加增。"
+          "text": "杀出一层又一层，"
+        },
+        {
+          "character": "赵云",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "赵云的精神倍加增。"
         },
         {
           "character": "赵云",
@@ -956,14 +1132,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "唉，主母，臣，赵云来迟，使主母受惊，乃云之罪也，但不知二主母与小主何\n在？"
+          "text": "唉，主母，臣，赵云来迟，使主母受惊，乃云之罪也，但不知二主母与小主何"
+        },
+        {
+          "character": "赵云",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "在？"
         },
         {
           "character": "甘夫人",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "我与糜夫人，被曹兵冲出，只得弃了车辆，糜夫人抱了阿斗，不知逃往何处去\n了？我恰遇糜竺护着，步行至此吓。"
+          "text": "我与糜夫人，被曹兵冲出，只得弃了车辆，糜夫人抱了阿斗，不知逃往何处去"
+        },
+        {
+          "character": "甘夫人",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "了？我恰遇糜竺护着，步行至此吓。"
         },
         {
           "character": "赵云",
@@ -1008,7 +1198,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.167,
+        0.2727,
+        0.7273,
+        0.0,
+        0.4,
+        2,
+        0.2727,
+        0.0
+      ]
     },
     {
       "scene_index": 7,
@@ -1109,7 +1309,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "三将军休得见疑，俺赵云只因寻不见二位主母与小主，二次杀入重围，故而落\n后，何言反了？"
+          "text": "三将军休得见疑，俺赵云只因寻不见二位主母与小主，二次杀入重围，故而落"
+        },
+        {
+          "character": "赵云",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "后，何言反了？"
         },
         {
           "character": "张飞",
@@ -1209,7 +1416,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.8235,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 8,
@@ -1241,7 +1458,21 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "适才贼子放雕翎，\n身带重伤步难行。\n叫声赵云今何在？"
+          "text": "适才贼子放雕翎，"
+        },
+        {
+          "character": "糜夫人",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "身带重伤步难行。"
+        },
+        {
+          "character": "糜夫人",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "叫声赵云今何在？"
         },
         {
           "character": null,
@@ -1255,17 +1486,52 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "来了常山赵子龙。\n耳旁忽闻妇人声。"
+          "text": "来了常山赵子龙。"
         },
         {
-          "character": "独闯曹营显本领、翻鞍离蹬下能行、糜夫人",
+          "character": "赵云",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "耳旁忽闻妇人声。"
+        },
+        {
+          "character": "赵云",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "独闯曹营显本领"
+        },
+        {
+          "character": "赵云",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "翻鞍离蹬下能行"
+        },
+        {
+          "character": "糜夫人",
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
           "text": "只见赵云面前存。"
         },
         {
-          "character": "独闯曹营显本领、翻鞍离蹬下能行、糜夫人",
+          "character": "糜夫人",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "独闯曹营显本领"
+        },
+        {
+          "character": "糜夫人",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "翻鞍离蹬下能行"
+        },
+        {
+          "character": "糜夫人",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -1297,7 +1563,21 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "今日幸喜得见将军，阿斗有命，你看我今身带重伤，难以行走，可叹皇叔在外\n漂流半世，只有这点骨血，万望将军保定此子，杀出重围，我就死在阴曹，也\n是瞑目甘心的吓！"
+          "text": "今日幸喜得见将军，阿斗有命，你看我今身带重伤，难以行走，可叹皇叔在外"
+        },
+        {
+          "character": "糜夫人",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "漂流半世，只有这点骨血，万望将军保定此子，杀出重围，我就死在阴曹，也"
+        },
+        {
+          "character": "糜夫人",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "是瞑目甘心的吓！"
         },
         {
           "character": null,
@@ -1318,7 +1598,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "哎呀，将军说哪里话来，难道将军跨下不用战马，怎好交锋对垒？伏望将军保\n定此子，逃出罗网，休得两误吓！"
+          "text": "哎呀，将军说哪里话来，难道将军跨下不用战马，怎好交锋对垒？伏望将军保"
+        },
+        {
+          "character": "糜夫人",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "定此子，逃出罗网，休得两误吓！"
         },
         {
           "character": null,
@@ -1353,14 +1640,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "咳，看那赵云这等忠心秉正，如若曹兵四至，岂不是两误，这、这、这便怎么\n处？哦，有了，那旁有一枯井，不免寻个自尽了罢！"
+          "text": "咳，看那赵云这等忠心秉正，如若曹兵四至，岂不是两误，这、这、这便怎么"
+        },
+        {
+          "character": "糜夫人",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "处？哦，有了，那旁有一枯井，不免寻个自尽了罢！"
         },
         {
           "character": "糜夫人",
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "将军果然忠心耿，\n保扶此子去逃生。"
+          "text": "将军果然忠心耿，"
+        },
+        {
+          "character": "糜夫人",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "保扶此子去逃生。"
         },
         {
           "character": null,
@@ -1374,31 +1675,73 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "接过了刘门后代根。\n待臣步战退贼兵。"
+          "text": "接过了刘门后代根。"
         },
         {
-          "character": "主母快快上金镫、糜夫人",
+          "character": "赵云",
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "将军且莫再留停，\n哪里黄土不埋人？"
+          "text": "待臣步战退贼兵。"
         },
         {
-          "character": "主母快快上金镫、糜夫人",
+          "character": "赵云",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "主母快快上金镫"
+        },
+        {
+          "character": "糜夫人",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "将军且莫再留停，"
+        },
+        {
+          "character": "糜夫人",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "哪里黄土不埋人？"
+        },
+        {
+          "character": "糜夫人",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "主母快快上金镫"
+        },
+        {
+          "character": "糜夫人",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
           "text": "也罢，"
         },
         {
-          "character": "主母快快上金镫、糜夫人",
+          "character": "糜夫人",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "主母快快上金镫"
+        },
+        {
+          "character": "糜夫人",
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
           "text": "悲凄凄站至枯井上，"
         },
         {
-          "character": "主母快快上金镫、糜夫人",
+          "character": "糜夫人",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "主母快快上金镫"
+        },
+        {
+          "character": "糜夫人",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -1437,14 +1780,28 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "一见主母投古井，\n唬得赵云胆战惊。"
+          "text": "一见主母投古井，"
+        },
+        {
+          "character": "赵云",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "唬得赵云胆战惊。"
         },
         {
           "character": "赵云",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "主母投井一死，这这便怎么处，哦，呵，有了，不免将小主藏在怀中，待俺杀\n出重围，再作道理。"
+          "text": "主母投井一死，这这便怎么处，哦，呵，有了，不免将小主藏在怀中，待俺杀"
+        },
+        {
+          "character": "赵云",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "出重围，再作道理。"
         },
         {
           "character": null,
@@ -1510,7 +1867,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.294,
+        0.5111,
+        0.4889,
+        0.0,
+        0.2955,
+        2,
+        0.5111,
+        0.0
+      ]
     },
     {
       "scene_index": 9,
@@ -1532,21 +1899,42 @@
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "催命鼓来救命锣，\n三国不和动干戈。"
-        },
-        {
-          "character": "夏侯恩",
-          "line_type": "白",
-          "musical_style": null,
-          "style_family": null,
-          "text": "俺无敌大将夏侯恩，观那小小赵云，竟能在长坂坡前，杀得七进七出，无人敢\n挡，待俺前去擒他便了。"
+          "text": "催命鼓来救命锣，"
         },
         {
           "character": "夏侯恩",
           "line_type": "西皮摇板",
           "musical_style": "西皮摇板",
           "style_family": "西皮",
-          "text": "自幼生来本领高，\n抖擞威风立功劳。"
+          "text": "三国不和动干戈。"
+        },
+        {
+          "character": "夏侯恩",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "俺无敌大将夏侯恩，观那小小赵云，竟能在长坂坡前，杀得七进七出，无人敢"
+        },
+        {
+          "character": "夏侯恩",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "挡，待俺前去擒他便了。"
+        },
+        {
+          "character": "夏侯恩",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "自幼生来本领高，"
+        },
+        {
+          "character": "夏侯恩",
+          "line_type": "西皮摇板",
+          "musical_style": "西皮摇板",
+          "style_family": "西皮",
+          "text": "抖擞威风立功劳。"
         },
         {
           "character": "夏侯恩",
@@ -1567,7 +1955,28 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "吓，忽然红光闪烁，死尸背上横挡一物，待俺下马看来。哦，原来是口宝剑，\n呵呵，把上现有金嵌“青釭”二字，哦呵，是了，久闻曹操有宝剑二口，一名\n“青釭”，一名“倚天”，倚天乃是曹操自佩之剑，闻得青釭宝剑，砍铁如泥，\n待俺来试验试验。"
+          "text": "吓，忽然红光闪烁，死尸背上横挡一物，待俺下马看来。哦，原来是口宝剑，"
+        },
+        {
+          "character": "赵云",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "呵呵，把上现有金嵌“青釭”二字，哦呵，是了，久闻曹操有宝剑二口，一名"
+        },
+        {
+          "character": "赵云",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "“青釭”，一名“倚天”，倚天乃是曹操自佩之剑，闻得青釭宝剑，砍铁如泥，"
+        },
+        {
+          "character": "赵云",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "待俺来试验试验。"
         },
         {
           "character": null,
@@ -1608,7 +2017,17 @@
         "musical_styles": [
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.333,
+        0.3333,
+        0.6667,
+        0.0,
+        0.0909,
+        2,
+        0.3333,
+        0.0
+      ]
     },
     {
       "scene_index": 10,
@@ -1883,7 +2302,17 @@
           "西皮快板",
           "西皮摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.105,
+        0.125,
+        0.8333,
+        0.0417,
+        0.7391,
+        4,
+        0.125,
+        0.0
+      ]
     },
     {
       "scene_index": 11,
@@ -1970,7 +2399,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.6667,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 12,
@@ -2017,7 +2456,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.5,
+        0.5,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 13,
@@ -2269,7 +2718,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.9444,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 14,
@@ -2343,7 +2802,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.5,
+        2,
+        0.0,
+        0.0
+      ]
     }
   ]
 }

@@ -99,7 +99,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "下官刘基。昨日圣上传旨，今日驾游武庙拈香。看香烟缭绕，圣驾登殿，在此\n伺候。"
+          "text": "下官刘基。昨日圣上传旨，今日驾游武庙拈香。看香烟缭绕，圣驾登殿，在此"
+        },
+        {
+          "character": "刘基",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "伺候。"
         },
         {
           "character": null,
@@ -127,7 +134,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "寡人大明天子洪武在位。自从登基以来，风调雨顺，国泰民安，刀枪入库，马\n放南山，真乃寡人福泽无疆。昨日传旨，今日武庙拈香。"
+          "text": "寡人大明天子洪武在位。自从登基以来，风调雨顺，国泰民安，刀枪入库，马"
+        },
+        {
+          "character": "洪武帝",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "放南山，真乃寡人福泽无疆。昨日传旨，今日武庙拈香。"
         },
         {
           "character": "刘先生、刘基",
@@ -263,7 +277,17 @@
         "singing_ratio": 0.571,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.571,
+        0.4545,
+        0.4545,
+        0.0909,
+        0.7143,
+        4,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -391,52 +415,451 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "保驾的将军是刘基。\n看一看前朝古今奇。"
-        },
-        {
-          "character": "孤登基未曾游此地、刘基",
-          "line_type": "唱",
-          "musical_style": null,
-          "style_family": null,
-          "text": "金梁玉柱瓦琉璃，\n玉石栏杆摆列在丹墀。"
+          "text": "保驾的将军是刘基。"
         },
         {
           "character": "洪武帝",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "站立庙外用目觑，\n一位将军庙外立。\n身穿白甲似雪飞。\n方天画戟手中提。\n右桶狼牙箭几枝。\n马后威风八百余。\n好像哪里得胜回。\n那位将军他是谁？"
+          "text": "看一看前朝古今奇。"
         },
         {
-          "character": "头戴白盔双凤翅、跨下一骑白龙马、左手弯弓秋月样、马前威风高万丈、脸面笑容真可喜、回头便把先生问、刘基",
+          "character": "洪武帝",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "刘基拱手忙奏启，\n启奏我主圣驾知：\n赵云名儿天下知。\n杀得那曹兵无对敌。\n反说忠良把君欺。\n反将神像立丹墀。"
+          "text": "孤登基未曾游此地"
         },
         {
-          "character": "他家住常山真定地、长坂坡前救后主、皆因糜妃自跳井、宋室王爷修武庙、洪武帝",
+          "character": "刘基",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "太祖闻言心中气，\n史官错把忠良欺。\n单人独骑逞雄威。\n可叹糜妃投井死。\n还有何人保华夷？\n一阵清风往内吹。\n面如枣红五绺须。\n斩将的大刀手内提。\n他的功劳在哪里？\n这位将军他是谁？"
+          "text": "金梁玉柱瓦琉璃，"
         },
         {
-          "character": "万马营中救后主、曹兵暗放无情箭、这等臣子不入庙、孤王传旨往内请、回头又见一员将、跨下一骑红鬃马、这是哪朝安邦将、回言便把先生问、刘基",
+          "character": "刘基",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "姓王名勇字伯党，\n文武全才世间稀。\n左遮右挡护主体。\n断密涧下命归西。"
+          "text": "玉石栏杆摆列在丹墀。"
         },
         {
-          "character": "唐兵暗放无情箭、不幸李密带箭死、洪武帝",
+          "character": "洪武帝",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "听奏言来皱双眉，\n史官竟把忠良欺。\n保主尽忠命归西。\n反说忠良把主欺。\n还有何人保华夷？\n一阵清风往内吹。"
+          "text": "站立庙外用目觑，"
         },
         {
-          "character": "唐兵暗放无情箭、金牛压死娄金狗、这等臣子不入庙、孤王传旨请进庙、叫内臣与孤摆下祭奠礼、刘基",
+          "character": "洪武帝",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "一位将军庙外立。"
+        },
+        {
+          "character": "洪武帝",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "身穿白甲似雪飞。"
+        },
+        {
+          "character": "洪武帝",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "方天画戟手中提。"
+        },
+        {
+          "character": "洪武帝",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "右桶狼牙箭几枝。"
+        },
+        {
+          "character": "洪武帝",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "马后威风八百余。"
+        },
+        {
+          "character": "洪武帝",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "好像哪里得胜回。"
+        },
+        {
+          "character": "洪武帝",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "那位将军他是谁？"
+        },
+        {
+          "character": "洪武帝",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "头戴白盔双凤翅"
+        },
+        {
+          "character": "洪武帝",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "跨下一骑白龙马"
+        },
+        {
+          "character": "洪武帝",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "左手弯弓秋月样"
+        },
+        {
+          "character": "洪武帝",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "马前威风高万丈"
+        },
+        {
+          "character": "洪武帝",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "脸面笑容真可喜"
+        },
+        {
+          "character": "洪武帝",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "回头便把先生问"
+        },
+        {
+          "character": "刘基",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "刘基拱手忙奏启，"
+        },
+        {
+          "character": "刘基",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "启奏我主圣驾知："
+        },
+        {
+          "character": "刘基",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "赵云名儿天下知。"
+        },
+        {
+          "character": "刘基",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "杀得那曹兵无对敌。"
+        },
+        {
+          "character": "刘基",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "反说忠良把君欺。"
+        },
+        {
+          "character": "刘基",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "反将神像立丹墀。"
+        },
+        {
+          "character": "刘基",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "他家住常山真定地"
+        },
+        {
+          "character": "刘基",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "长坂坡前救后主"
+        },
+        {
+          "character": "刘基",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "皆因糜妃自跳井"
+        },
+        {
+          "character": "刘基",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "宋室王爷修武庙"
+        },
+        {
+          "character": "洪武帝",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "太祖闻言心中气，"
+        },
+        {
+          "character": "洪武帝",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "史官错把忠良欺。"
+        },
+        {
+          "character": "洪武帝",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "单人独骑逞雄威。"
+        },
+        {
+          "character": "洪武帝",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "可叹糜妃投井死。"
+        },
+        {
+          "character": "洪武帝",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "还有何人保华夷？"
+        },
+        {
+          "character": "洪武帝",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "一阵清风往内吹。"
+        },
+        {
+          "character": "洪武帝",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "面如枣红五绺须。"
+        },
+        {
+          "character": "洪武帝",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "斩将的大刀手内提。"
+        },
+        {
+          "character": "洪武帝",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "他的功劳在哪里？"
+        },
+        {
+          "character": "洪武帝",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "这位将军他是谁？"
+        },
+        {
+          "character": "洪武帝",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "万马营中救后主"
+        },
+        {
+          "character": "洪武帝",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "曹兵暗放无情箭"
+        },
+        {
+          "character": "洪武帝",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "这等臣子不入庙"
+        },
+        {
+          "character": "洪武帝",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "孤王传旨往内请"
+        },
+        {
+          "character": "洪武帝",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "回头又见一员将"
+        },
+        {
+          "character": "洪武帝",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "跨下一骑红鬃马"
+        },
+        {
+          "character": "洪武帝",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "这是哪朝安邦将"
+        },
+        {
+          "character": "洪武帝",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "回言便把先生问"
+        },
+        {
+          "character": "刘基",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "姓王名勇字伯党，"
+        },
+        {
+          "character": "刘基",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "文武全才世间稀。"
+        },
+        {
+          "character": "刘基",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "左遮右挡护主体。"
+        },
+        {
+          "character": "刘基",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "断密涧下命归西。"
+        },
+        {
+          "character": "刘基",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "唐兵暗放无情箭"
+        },
+        {
+          "character": "刘基",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "不幸李密带箭死"
+        },
+        {
+          "character": "洪武帝",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "听奏言来皱双眉，"
+        },
+        {
+          "character": "洪武帝",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "史官竟把忠良欺。"
+        },
+        {
+          "character": "洪武帝",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "保主尽忠命归西。"
+        },
+        {
+          "character": "洪武帝",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "反说忠良把主欺。"
+        },
+        {
+          "character": "洪武帝",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "还有何人保华夷？"
+        },
+        {
+          "character": "洪武帝",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "一阵清风往内吹。"
+        },
+        {
+          "character": "洪武帝",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "唐兵暗放无情箭"
+        },
+        {
+          "character": "洪武帝",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "金牛压死娄金狗"
+        },
+        {
+          "character": "洪武帝",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "这等臣子不入庙"
+        },
+        {
+          "character": "洪武帝",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "孤王传旨请进庙"
+        },
+        {
+          "character": "洪武帝",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "叫内臣与孤摆下祭奠礼"
+        },
+        {
+          "character": "刘基",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
@@ -566,35 +989,133 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "观前观后观仔细，\n问左问右问刘基。"
-        },
-        {
-          "character": "刘基",
-          "line_type": "唱",
-          "musical_style": null,
-          "style_family": null,
-          "text": "刘基拱手忙奏启，\n不敢隐瞒惹是非。"
+          "text": "观前观后观仔细，"
         },
         {
           "character": "洪武帝",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "回头又见一员将，\n白盔白甲五绺须。\n这一位将军他是谁？"
+          "text": "问左问右问刘基。"
         },
         {
-          "character": "回头便把先生问、刘基",
+          "character": "刘基",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "刘基拱手忙奏启，\n启奏我主听端的：\n平王驾前算第一。\n他与秦楚做过媒。"
+          "text": "刘基拱手忙奏启，"
         },
         {
-          "character": "姓伍名员字子胥、临潼会上曾斗宝、洪武帝",
+          "character": "刘基",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "听奏言来怒冲起，\n骂声伍员不忠的。\n错斩你父命归西。\n为臣反上把君欺。\n不该鞭打主的尸。"
+          "text": "不敢隐瞒惹是非。"
+        },
+        {
+          "character": "洪武帝",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "回头又见一员将，"
+        },
+        {
+          "character": "洪武帝",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "白盔白甲五绺须。"
+        },
+        {
+          "character": "洪武帝",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "这一位将军他是谁？"
+        },
+        {
+          "character": "洪武帝",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "回头便把先生问"
+        },
+        {
+          "character": "刘基",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "刘基拱手忙奏启，"
+        },
+        {
+          "character": "刘基",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "启奏我主听端的："
+        },
+        {
+          "character": "刘基",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "平王驾前算第一。"
+        },
+        {
+          "character": "刘基",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "他与秦楚做过媒。"
+        },
+        {
+          "character": "刘基",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "姓伍名员字子胥"
+        },
+        {
+          "character": "刘基",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "临潼会上曾斗宝"
+        },
+        {
+          "character": "洪武帝",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "听奏言来怒冲起，"
+        },
+        {
+          "character": "洪武帝",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "骂声伍员不忠的。"
+        },
+        {
+          "character": "洪武帝",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "错斩你父命归西。"
+        },
+        {
+          "character": "洪武帝",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "为臣反上把君欺。"
+        },
+        {
+          "character": "洪武帝",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "不该鞭打主的尸。"
         },
         {
           "character": null,
@@ -608,38 +1129,297 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "将身又到二殿里。\n身穿一件大红衣。\n这位神像他是谁？"
+          "text": "将身又到二殿里。"
         },
         {
-          "character": "回头又见一员将、回言便把先生问、刘基",
+          "character": "洪武帝",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "他是汉朝的韩信，\n暗度陈仓少人知。\n逼死霸王一管笛。"
+          "text": "身穿一件大红衣。"
         },
         {
-          "character": "九里山摆下埋伏阵、洪武帝",
+          "character": "洪武帝",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "听奏言来怒火起，\n骂一声不忠不孝贼。\n不该埋母在秦西；\n你不该乌江把主逼。\n你不该想夺主社稷。\n未央宫中命归西。\n武庙难容你这不忠贼。\n将身来在后殿里。\n身穿一件八卦衣。\n右边插面令字旗。\n威风凛凛透九霄。\n这位道长他是谁？"
+          "text": "这位神像他是谁？"
         },
         {
-          "character": "你不该受那汉王拜、你不该问路把樵夫斩、你不该杀那陈仓女、报应丧在阴人手、仔细思量难容你、喝骂一声赶出庙去、上面坐的一员将、左边儿童捧宝剑、行兵布阵如反掌、回言便把先生问、刘基",
+          "character": "洪武帝",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "姓张名良字子房，\n出在春秋战国时。\n才封他天祭地祭与神祭。"
+          "text": "回头又见一员将"
         },
         {
-          "character": "勒逼项羽乌江丧、洪武帝",
+          "character": "洪武帝",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "听说张良皱双眉，\n反复不定把君欺。\n汉王无道你就离。\n割肉熬油剥他皮。\n骂罢张良回头看……"
+          "text": "回言便把先生问"
         },
         {
-          "character": "汉王有道你就保、眼前若有张良在、刘基",
+          "character": "刘基",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "他是汉朝的韩信，"
+        },
+        {
+          "character": "刘基",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "暗度陈仓少人知。"
+        },
+        {
+          "character": "刘基",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "逼死霸王一管笛。"
+        },
+        {
+          "character": "刘基",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "九里山摆下埋伏阵"
+        },
+        {
+          "character": "洪武帝",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "听奏言来怒火起，"
+        },
+        {
+          "character": "洪武帝",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "骂一声不忠不孝贼。"
+        },
+        {
+          "character": "洪武帝",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "不该埋母在秦西；"
+        },
+        {
+          "character": "洪武帝",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "你不该乌江把主逼。"
+        },
+        {
+          "character": "洪武帝",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "你不该想夺主社稷。"
+        },
+        {
+          "character": "洪武帝",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "未央宫中命归西。"
+        },
+        {
+          "character": "洪武帝",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "武庙难容你这不忠贼。"
+        },
+        {
+          "character": "洪武帝",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "将身来在后殿里。"
+        },
+        {
+          "character": "洪武帝",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "身穿一件八卦衣。"
+        },
+        {
+          "character": "洪武帝",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "右边插面令字旗。"
+        },
+        {
+          "character": "洪武帝",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "威风凛凛透九霄。"
+        },
+        {
+          "character": "洪武帝",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "这位道长他是谁？"
+        },
+        {
+          "character": "洪武帝",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "你不该受那汉王拜"
+        },
+        {
+          "character": "洪武帝",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "你不该问路把樵夫斩"
+        },
+        {
+          "character": "洪武帝",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "你不该杀那陈仓女"
+        },
+        {
+          "character": "洪武帝",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "报应丧在阴人手"
+        },
+        {
+          "character": "洪武帝",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "仔细思量难容你"
+        },
+        {
+          "character": "洪武帝",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "喝骂一声赶出庙去"
+        },
+        {
+          "character": "洪武帝",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "上面坐的一员将"
+        },
+        {
+          "character": "洪武帝",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "左边儿童捧宝剑"
+        },
+        {
+          "character": "洪武帝",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "行兵布阵如反掌"
+        },
+        {
+          "character": "洪武帝",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "回言便把先生问"
+        },
+        {
+          "character": "刘基",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "姓张名良字子房，"
+        },
+        {
+          "character": "刘基",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "出在春秋战国时。"
+        },
+        {
+          "character": "刘基",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "才封他天祭地祭与神祭。"
+        },
+        {
+          "character": "刘基",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "勒逼项羽乌江丧"
+        },
+        {
+          "character": "洪武帝",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "听说张良皱双眉，"
+        },
+        {
+          "character": "洪武帝",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "反复不定把君欺。"
+        },
+        {
+          "character": "洪武帝",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "汉王无道你就离。"
+        },
+        {
+          "character": "洪武帝",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "割肉熬油剥他皮。"
+        },
+        {
+          "character": "洪武帝",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "骂罢张良回头看……"
+        },
+        {
+          "character": "洪武帝",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "汉王有道你就保"
+        },
+        {
+          "character": "洪武帝",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "眼前若有张良在"
+        },
+        {
+          "character": "刘基",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
@@ -664,7 +1444,21 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "万岁骂臣不妨骂，\n指骂张良臣是谁。\n一点不到有是非。"
+          "text": "万岁骂臣不妨骂，"
+        },
+        {
+          "character": "刘基",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "指骂张良臣是谁。"
+        },
+        {
+          "character": "刘基",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "一点不到有是非。"
         },
         {
           "character": null,
@@ -678,56 +1472,294 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "身上脱下紫罗衣。\n望万岁赦臣归故里。"
+          "text": "身上脱下紫罗衣。"
         },
         {
-          "character": "把武庙当做了金銮殿、洪武帝",
+          "character": "刘基",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "说什么告老归故里，\n你不言来朕心知。\n错出一言你心疑。\n同行半步也难离。\n可与孤王保华夷。"
+          "text": "望万岁赦臣归故里。"
         },
         {
-          "character": "孤不该今日到此地、先生与孤把江山定、先生去了又有谁、刘基",
+          "character": "刘基",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "老牛老马中何用，\n年迈之人枉费力。\n眼花难把兵来提。\n望万岁将臣赦了罢！"
+          "text": "把武庙当做了金銮殿"
         },
         {
-          "character": "孤不该今日到此地、先生与孤把江山定、先生去了又有谁、刘基",
+          "character": "洪武帝",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "说什么告老归故里，"
+        },
+        {
+          "character": "洪武帝",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "你不言来朕心知。"
+        },
+        {
+          "character": "洪武帝",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "错出一言你心疑。"
+        },
+        {
+          "character": "洪武帝",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "同行半步也难离。"
+        },
+        {
+          "character": "洪武帝",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "可与孤王保华夷。"
+        },
+        {
+          "character": "洪武帝",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "孤不该今日到此地"
+        },
+        {
+          "character": "洪武帝",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "先生与孤把江山定"
+        },
+        {
+          "character": "洪武帝",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "先生去了又有谁"
+        },
+        {
+          "character": "刘基",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "老牛老马中何用，"
+        },
+        {
+          "character": "刘基",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "年迈之人枉费力。"
+        },
+        {
+          "character": "刘基",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "眼花难把兵来提。"
+        },
+        {
+          "character": "刘基",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "望万岁将臣赦了罢！"
+        },
+        {
+          "character": "刘基",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "孤不该今日到此地"
+        },
+        {
+          "character": "刘基",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "先生与孤把江山定"
+        },
+        {
+          "character": "刘基",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "先生去了又有谁"
+        },
+        {
+          "character": "刘基",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
           "text": "哎呀万岁吓！"
         },
         {
-          "character": "孤不该今日到此地、先生与孤把江山定、先生去了又有谁、刘基",
+          "character": "刘基",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "孤不该今日到此地"
+        },
+        {
+          "character": "刘基",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "先生与孤把江山定"
+        },
+        {
+          "character": "刘基",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "先生去了又有谁"
+        },
+        {
+          "character": "刘基",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
           "text": "臣到深山修道去。"
         },
         {
-          "character": "耳聋了，听不见、洪武帝",
+          "character": "刘基",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "先生要去真要去，\n留你不住枉费心机。\n逢州过府把粮支。\n先生牢牢记在心里：\n那时要与孤做主意。"
+          "text": "耳聋了，听不见"
         },
         {
-          "character": "朕封你云游真人去访道、赐卿一把白玉扇、哪里一旦烟尘起、刘基",
+          "character": "洪武帝",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "先生要去真要去，"
+        },
+        {
+          "character": "洪武帝",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "留你不住枉费心机。"
+        },
+        {
+          "character": "洪武帝",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "逢州过府把粮支。"
+        },
+        {
+          "character": "洪武帝",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "先生牢牢记在心里："
+        },
+        {
+          "character": "洪武帝",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "那时要与孤做主意。"
+        },
+        {
+          "character": "洪武帝",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "朕封你云游真人去访道"
+        },
+        {
+          "character": "洪武帝",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "赐卿一把白玉扇"
+        },
+        {
+          "character": "洪武帝",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "哪里一旦烟尘起"
+        },
+        {
+          "character": "刘基",
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
           "text": "谢万岁。"
         },
         {
-          "character": "朕封你云游真人去访道、赐卿一把白玉扇、哪里一旦烟尘起、刘基",
+          "character": "刘基",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "朕封你云游真人去访道"
+        },
+        {
+          "character": "刘基",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "赐卿一把白玉扇"
+        },
+        {
+          "character": "刘基",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "哪里一旦烟尘起"
+        },
+        {
+          "character": "刘基",
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "叩头谢恩辞万岁，\n对着相府泪悲啼。\n说什么朝中挂紫衣。\n说什么训教子与媳。\n大限来时各自飞。\n朝中大事再不提。"
+          "text": "叩头谢恩辞万岁，"
+        },
+        {
+          "character": "刘基",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "对着相府泪悲啼。"
+        },
+        {
+          "character": "刘基",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "说什么朝中挂紫衣。"
+        },
+        {
+          "character": "刘基",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "说什么训教子与媳。"
+        },
+        {
+          "character": "刘基",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "大限来时各自飞。"
+        },
+        {
+          "character": "刘基",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "朝中大事再不提。"
         },
         {
           "character": null,
@@ -741,7 +1773,14 @@
           "line_type": "唱",
           "musical_style": null,
           "style_family": null,
-          "text": "自古出言要谨慎，\n今日武庙走刘基。"
+          "text": "自古出言要谨慎，"
+        },
+        {
+          "character": "洪武帝",
+          "line_type": "唱",
+          "musical_style": null,
+          "style_family": null,
+          "text": "今日武庙走刘基。"
         },
         {
           "character": "洪武帝",
@@ -796,7 +1835,17 @@
         "musical_styles": [
           "西皮导板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.848,
+        0.92,
+        0.075,
+        0.005,
+        0.2111,
+        4,
+        0.01,
+        0.0
+      ]
     }
   ]
 }

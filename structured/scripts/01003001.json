@@ -739,7 +739,17 @@
           "二黄原板",
           "二黄摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0263,
+        0.9474,
+        0.0263,
+        0.8933,
+        3,
+        0.0,
+        0.0263
+      ]
     },
     {
       "scene_index": 2,
@@ -1504,7 +1514,17 @@
           "二黄原板",
           "二黄摇板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.056,
+        0.0843,
+        0.8434,
+        0.0723,
+        0.8049,
+        5,
+        0.0,
+        0.0843
+      ]
     },
     {
       "scene_index": 3,
@@ -1544,7 +1564,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.5,
+        0.5,
+        0.0,
+        1,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 4,
@@ -1584,14 +1614,49 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "啊，太师，卑人是吃不得了。哦呵呀，原来是座洁净的书房。哎，我误听了樵\n哥之言，打上了人家的府门，好个仁义太师，不见罪于我，方是这样的款待，\n真乃是难得。"
+          "text": "啊，太师，卑人是吃不得了。哦呵呀，原来是座洁净的书房。哎，我误听了樵"
+        },
+        {
+          "character": "范仲禹",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "哥之言，打上了人家的府门，好个仁义太师，不见罪于我，方是这样的款待，"
+        },
+        {
+          "character": "范仲禹",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "真乃是难得。"
         },
         {
           "character": "范仲禹",
           "line_type": "二黄平板",
           "musical_style": "二黄平板",
           "style_family": "二黄",
-          "text": "听樵楼打罢了初更时分，\n猛然想起小娇生。\n我叫一声娇儿你来了吧，我的儿吓！\n送儿到南学念一念书文，嗳嗳，念念书文。"
+          "text": "听樵楼打罢了初更时分，"
+        },
+        {
+          "character": "范仲禹",
+          "line_type": "二黄平板",
+          "musical_style": "二黄平板",
+          "style_family": "二黄",
+          "text": "猛然想起小娇生。"
+        },
+        {
+          "character": "范仲禹",
+          "line_type": "二黄平板",
+          "musical_style": "二黄平板",
+          "style_family": "二黄",
+          "text": "我叫一声娇儿你来了吧，我的儿吓！"
+        },
+        {
+          "character": "范仲禹",
+          "line_type": "二黄平板",
+          "musical_style": "二黄平板",
+          "style_family": "二黄",
+          "text": "送儿到南学念一念书文，嗳嗳，念念书文。"
         },
         {
           "character": null,
@@ -1619,7 +1684,28 @@
           "line_type": "二黄平板",
           "musical_style": "二黄平板",
           "style_family": "二黄",
-          "text": "樵楼上打罢了二更尽，\n猛然想起结发情。\n我叫一声白氏妻来了吧，我的妻吓！\n夫妻们相逢叙叙苦情，嗳嗳，叙叙苦情。"
+          "text": "樵楼上打罢了二更尽，"
+        },
+        {
+          "character": "范仲禹",
+          "line_type": "二黄平板",
+          "musical_style": "二黄平板",
+          "style_family": "二黄",
+          "text": "猛然想起结发情。"
+        },
+        {
+          "character": "范仲禹",
+          "line_type": "二黄平板",
+          "musical_style": "二黄平板",
+          "style_family": "二黄",
+          "text": "我叫一声白氏妻来了吧，我的妻吓！"
+        },
+        {
+          "character": "范仲禹",
+          "line_type": "二黄平板",
+          "musical_style": "二黄平板",
+          "style_family": "二黄",
+          "text": "夫妻们相逢叙叙苦情，嗳嗳，叙叙苦情。"
         },
         {
           "character": null,
@@ -1640,14 +1726,42 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "啊，这书房之中，为何这样鬼哭神嚎？范仲禹，范仲禹，只怕你的性命，难逃\n今晚！"
+          "text": "啊，这书房之中，为何这样鬼哭神嚎？范仲禹，范仲禹，只怕你的性命，难逃"
+        },
+        {
+          "character": "范仲禹",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "今晚！"
         },
         {
           "character": "范仲禹",
           "line_type": "二黄平板",
           "musical_style": "二黄平板",
           "style_family": "二黄",
-          "text": "三更三点白露忙，\n怎不叫人泪两傍。\n似风筝断去了无影的线，我的妻儿吓！\n这才是无情棒打鸳鸯，嗳嗳，棒打鸳鸯。"
+          "text": "三更三点白露忙，"
+        },
+        {
+          "character": "范仲禹",
+          "line_type": "二黄平板",
+          "musical_style": "二黄平板",
+          "style_family": "二黄",
+          "text": "怎不叫人泪两傍。"
+        },
+        {
+          "character": "范仲禹",
+          "line_type": "二黄平板",
+          "musical_style": "二黄平板",
+          "style_family": "二黄",
+          "text": "似风筝断去了无影的线，我的妻儿吓！"
+        },
+        {
+          "character": "范仲禹",
+          "line_type": "二黄平板",
+          "musical_style": "二黄平板",
+          "style_family": "二黄",
+          "text": "这才是无情棒打鸳鸯，嗳嗳，棒打鸳鸯。"
         },
         {
           "character": null,
@@ -1876,7 +1990,17 @@
         "musical_styles": [
           "二黄"
         ]
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.3243,
+        0.6216,
+        0.0541,
+        0.5,
+        6,
+        0.0,
+        0.3243
+      ]
     },
     {
       "scene_index": 5,
@@ -2495,7 +2619,17 @@
           "二黄",
           "二黄平板"
         ]
-      }
+      },
+      "scene_feature": [
+        0.091,
+        0.1549,
+        0.8169,
+        0.0282,
+        0.9,
+        3,
+        0.0,
+        0.1549
+      ]
     }
   ]
 }

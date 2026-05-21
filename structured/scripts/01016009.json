@@ -573,7 +573,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.9804,
+        0.0196,
+        0.82,
+        3,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 2,
@@ -598,7 +608,14 @@
           "line_type": "白",
           "musical_style": null,
           "style_family": null,
-          "text": "启菩萨：妖魔宝贝，已被小仙打碎，但是她十分厉害，小仙道法不高，难以收\n服。"
+          "text": "启菩萨：妖魔宝贝，已被小仙打碎，但是她十分厉害，小仙道法不高，难以收"
+        },
+        {
+          "character": "土地",
+          "line_type": "白",
+          "musical_style": null,
+          "style_family": null,
+          "text": "服。"
         },
         {
           "character": "观音",
@@ -767,7 +784,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.9286,
+        7,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 3,
@@ -790,7 +817,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0,
+        0.0,
+        0.0
+      ]
     },
     {
       "scene_index": 4,
@@ -813,7 +850,17 @@
         "singing_ratio": 0.0,
         "dominant_style_family": null,
         "musical_styles": []
-      }
+      },
+      "scene_feature": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0,
+        0.0,
+        0.0
+      ]
     }
   ]
 }
