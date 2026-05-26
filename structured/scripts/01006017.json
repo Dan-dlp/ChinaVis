@@ -11,22 +11,26 @@
     {
       "name": "包拯",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "假包拯",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "施俊",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "假施俊",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "此剧大致谓包公放粮回京，途遇黑鼠精，亦变作包公模样，与之混搅。一时法堂之上，但见一包老变为两包\n老；一罪犯变为两罪犯；两皂快变为两两皂快；四青袍变为两四青袍。真假辨认不清。",
@@ -94,9 +98,7 @@
       "scene_index": 1,
       "label": "第一场",
       "characters_present": [
-        "包拯",
-        "王朝",
-        "马汉"
+        "包拯"
       ],
       "lines": [
         {

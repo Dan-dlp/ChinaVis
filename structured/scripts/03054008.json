@@ -11,37 +11,44 @@
     {
       "name": "刘备",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "曹操",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "徐庶",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "关羽",
       "role_type": "红生",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "张飞",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "徐母",
       "role_type": "老旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "司马徽",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "徐庶至许昌，往见乃母。徐母责以大义，忿而自尽。徐庶始悟，遂辞曹操守孝。徐庶去后，水镜往新野访徐\n庶，亦荐诸葛亮。刘备乃往隆中，礼聘未遇，败兴而返。",
@@ -157,20 +164,10 @@
       "scene_index": 1,
       "label": "第一场",
       "characters_present": [
-        "乐进",
-        "于禁",
         "四文堂",
-        "夏侯惇",
-        "夏侯渊",
-        "张辽",
-        "张郃",
         "徐庶",
-        "曹仁",
         "曹操",
-        "曹洪",
-        "曹用",
-        "李典",
-        "许褚"
+        "曹用"
       ],
       "lines": [
         {
@@ -616,14 +613,10 @@
       "scene_index": 2,
       "label": "第二场",
       "characters_present": [
-        "为娘在此儿怎晓",
         "二丫鬟",
-        "儿罪深重该万死",
-        "孩儿忙把娘亲叫",
         "徐庶",
         "徐母",
-        "曹用",
-        "老母发书儿来到"
+        "曹用"
       ],
       "lines": [
         {
@@ -1098,7 +1091,6 @@
       "label": "第三场",
       "characters_present": [
         "徐庶",
-        "曹用带路馆驿到",
         "程昱"
       ],
       "lines": [
@@ -1544,24 +1536,12 @@
       "scene_index": 5,
       "label": "第五场",
       "characters_present": [
-        "事不宜迟去聘请",
-        "他母修来书和信",
-        "元直临行对我论",
-        "元直刚到新野郡",
         "关羽",
         "刘备",
-        "刘备意欲相拦定",
-        "叫我亲自去聘请",
         "司马徽",
         "孙乾",
         "家将",
-        "张飞",
-        "此番母子见了面",
-        "特来与他来相会",
-        "皇叔得他相扶助",
-        "盖世奇才好人品",
-        "相送长亭心难忍",
-        "谁知刘备浅福份"
+        "张飞"
       ],
       "lines": [
         {

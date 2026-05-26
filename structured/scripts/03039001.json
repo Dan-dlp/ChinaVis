@@ -11,22 +11,26 @@
     {
       "name": "莫怀古",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "莫成",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "雪艳",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "汤勤",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     }
   ],
   "plot_summary": "明时，钱塘莫怀古，新任太常寺，还乡祭扫。遇汤勤落魄卖画，怜而收之，待如上宾，并荐与旧识严世蕃。\n先是，美姬雪艳，原系宦门女，误入勾栏，逼娼不从，备受鞭打。莫怀古见怜，赎为侧室。",
@@ -156,9 +160,6 @@
       "scene_index": 1,
       "label": "第一场",
       "characters_present": [
-        "但愿得此一去青云得路",
-        "到城厢不觉得黄昏日暮",
-        "小阳春风光好寒梅欲吐",
         "店家",
         "莫怀古",
         "莫成",
@@ -780,16 +781,11 @@
       "scene_index": 2,
       "label": "第二场",
       "characters_present": [
-        "又听得那鸨儿恶声呼唤",
         "四妓女",
-        "奴本是苏州人深闺生长",
         "嫖客乙",
         "嫖客甲",
         "店家",
-        "清白女我岂能作此勾当",
         "莫怀古",
-        "这就是奴身世当面言讲",
-        "都只为奴父母双双命丧",
         "雪艳",
         "鸨儿"
       ],

@@ -11,27 +11,32 @@
     {
       "name": "钟馗",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "杜平",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "大鬼卒",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "钟妹",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "梅香",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     }
   ],
   "plot_summary": "唐代，终南进士钟馗与同里杜平进京赴试，途中，钟馗误入鬼窟，面貌变俊为丑，因此落第，愤而自杀。钟\n馗死后，感杜平埋其尸骨之恩，乃乘夜回家，以妹嫁杜平，并率众小鬼将其妹亲自送往杜家。",
@@ -101,7 +106,6 @@
       "scene_index": 1,
       "label": "第一场",
       "characters_present": [
-        "四小鬼",
         "大鬼卒",
         "钟馗"
       ],
@@ -379,7 +383,6 @@
       "scene_index": 3,
       "label": "第三场",
       "characters_present": [
-        "四小鬼",
         "大鬼卒",
         "梅香",
         "钟妹",
@@ -1067,7 +1070,6 @@
       "scene_index": 4,
       "label": "第四场",
       "characters_present": [
-        "四小鬼",
         "大鬼卒",
         "杜平",
         "梅香",

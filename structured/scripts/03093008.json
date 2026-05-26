@@ -11,22 +11,26 @@
     {
       "name": "刘谌",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "刘禅",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "崔夫人",
       "role_type": "正旦",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "黄皓",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     }
   ],
   "plot_summary": "邓艾暗渡阴平后，直逼成都。刘禅欲迎降，刘禅子刘谌苦谏不听。刘谌痛国破家亡，遂杀妻及三子哭告于太\n庙，亦自刎死。",
@@ -193,16 +197,7 @@
       "characters_present": [
         "刘禅",
         "刘谌",
-        "可叹姜维为国来效命",
         "女巫",
-        "如今咱父子君臣背城一战战必胜",
-        "巫婆之言何足信",
-        "恨不得一足要儿的命",
-        "此事留与后世论",
-        "走向前来忙跪定",
-        "迈步且把金殿进",
-        "邓艾孤军把城困",
-        "非是儿臣抗君命",
         "黄皓"
       ],
       "lines": [
@@ -913,7 +908,6 @@
         "二王子",
         "刘谌",
         "崔夫人",
-        "未曾进宫先拔剑",
         "董敏"
       ],
       "lines": [

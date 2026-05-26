@@ -15,42 +15,50 @@
     {
       "name": "包拯",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "陈世美",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "秦香莲",
       "role_type": "正旦",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "王延龄",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "国太",
       "role_type": "老旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "皇姑",
       "role_type": "花旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "张三阳",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "韩琪",
       "role_type": "武生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "宋代， 陈世美中了状元，\n又当了驸马。原妻秦香莲带领子女入京寻夫，陈世美不认，反使家将韩琪追杀母子灭口。秦香莲哭告实情，\n韩琪自刎于三官堂。秦香莲到包拯处控告，包拯设计召来陈世美，与秦香莲对质。陈世美自以为国戚，强词\n狡辩，包拯欲铡之。太后、皇姑前来劝阻，包拯不顾，铡死陈世美。",
@@ -214,14 +222,10 @@
       "scene_index": 1,
       "label": "第一场：别家",
       "characters_present": [
-        "但愿题名金榜上",
         "冬妹",
-        "史书上古人讲",
         "秦香莲",
         "英哥",
-        "要知道堂上父母掩门望",
-        "陈世美",
-        "高堂上已到了"
+        "陈世美"
       ],
       "lines": [
         {
@@ -511,10 +515,8 @@
       "scene_index": 2,
       "label": "第二场：招赘",
       "characters_present": [
-        "低下头来暗思想",
         "太监甲",
         "老太监",
-        "跨马游街精神爽",
         "陈世美"
       ],
       "lines": [
@@ -828,11 +830,9 @@
       "scene_index": 3,
       "label": "第三场：店房",
       "characters_present": [
-        "临别曾把好言讲",
         "冬妹",
         "张三阳",
         "秦香莲",
-        "秦香莲寻亲人离了湖广",
         "英哥"
       ],
       "lines": [
@@ -1401,15 +1401,7 @@
       "label": "第四场：闯宫",
       "characters_present": [
         "冬妹",
-        "咬定牙关不相认",
-        "回头我对香莲论",
-        "因何相逢不相认",
         "张三阳",
-        "念在二老公婆份",
-        "我本当走向前",
-        "手拉儿女府门进",
-        "抛弃糟糠心何忍",
-        "本当把儿来抱定",
         "秦香莲",
         "英哥",
         "门官",

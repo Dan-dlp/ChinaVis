@@ -11,27 +11,32 @@
     {
       "name": "申包胥",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "伍员",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "楚昭王",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "秦哀公",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "樵夫",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     }
   ],
   "plot_summary": "伍员借兵伐楚，楚昭王逃奔随国。伍员掘平王墓，鞭尸三百，以报大仇。楚大夫申包胥原与伍员有“子灭楚，\n我必兴楚”之约，因往秦国借兵。秦哀公迟疑不肯。申包胥在秦庭痛哭七日七夜，感动秦伯，逐借兵复楚。",
@@ -569,9 +574,7 @@
       "label": "第二场",
       "characters_present": [
         "众人",
-        "史皇",
         "囊瓦",
-        "四下手",
         "探子",
         "武城黑",
         "沈尹戌"
@@ -1017,7 +1020,6 @@
       "label": "第四场",
       "characters_present": [
         "囊瓦",
-        "四下手",
         "四龙套"
       ],
       "lines": [
@@ -1214,7 +1216,6 @@
       "label": "第六场",
       "characters_present": [
         "四太监",
-        "回头便与君王论",
         "大太监乙",
         "大太监甲",
         "子西",
@@ -1686,7 +1687,6 @@
         "大太监甲",
         "孟太后",
         "宫女甲",
-        "我皇儿年幼小山河执掌",
         "皇姑"
       ],
       "lines": [
@@ -2500,10 +2500,7 @@
         "伍员",
         "吴王",
         "夫概",
-        "孙武",
-        "对天发下洪誓咒",
-        "恨平王无道贪色酒",
-        "我父谏奏反遭毒手"
+        "孙武"
       ],
       "lines": [
         {
@@ -2799,7 +2796,6 @@
       "scene_index": 12,
       "label": "第十二场",
       "characters_present": [
-        "只怕乱军遭不幸",
         "樵夫",
         "申包胥"
       ],
@@ -3569,7 +3565,6 @@
       "label": "第十三场",
       "characters_present": [
         "伍员",
-        "只怕乱军遭不幸",
         "樵夫",
         "申包胥"
       ],

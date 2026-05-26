@@ -11,17 +11,20 @@
     {
       "name": "刘备",
       "role_type": "生",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "关羽",
       "role_type": "红生",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "张飞",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "刘备、关羽、张飞结拜后，公议投军，邀请工匠铸造兵器。众工匠为关羽造成三停冷艳锯，忽一小蛇伏踞刀\n面，口吐鲜血，刀显红光，众人为易名青龙偃月刀，以示纪念。苏双等义士仰慕桃园弟兄，愿一同前去投军。",
@@ -306,14 +309,10 @@
       "characters_present": [
         "关羽",
         "刘备",
-        "吕常",
         "四工匠",
         "四青袍",
         "小院子",
-        "张世平",
-        "张飞",
-        "方雄",
-        "苏双"
+        "张飞"
       ],
       "lines": [
         {
@@ -1013,11 +1012,7 @@
       "scene_index": 3,
       "label": "第三场",
       "characters_present": [
-        "吕常",
-        "工匠丁",
-        "张世平",
-        "方雄",
-        "苏双"
+        "工匠丁"
       ],
       "lines": [
         {

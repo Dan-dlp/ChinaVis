@@ -13,27 +13,32 @@
     {
       "name": "薛礼",
       "role_type": "武生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "安殿宝",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "二老军",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "张志龙",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "何宗宪",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     }
   ],
   "plot_summary": "唐薛仁贵投效从军，隶张士贵部下，常被屈抑。虽叠斩寇将，屡建奇功，均为张士贵所冒，仍充火头军。张\n士贵兵次独木关，为敌将安殿宝所困，张士贵子张志龙、婿何宗宪均被擒，张士贵遣差官传令，命薛仁贵出\n战。薛仁贵部下周青等怒打差官，并将令箭折断，张士贵无奈，亲往薛帐拜求。时薛仁贵适抱病，但令周青\n等出敌，不能胜。薛仁贵在帐中闻鼓声甚急，恐不敌，因是带病上马，驰至阵前，即刺死安殿宝，众人方乘\n胜入关，救出张志龙、何宗宪。",
@@ -122,7 +127,6 @@
         "周青",
         "四龙套",
         "张士贵",
-        "我与那尉元帅无仇无怨",
         "薛礼"
       ],
       "lines": [
@@ -924,9 +928,7 @@
       "characters_present": [
         "何宗宪",
         "安殿宝",
-        "张志龙",
-        "迈步且把宝帐踏",
-        "进得帐高声骂"
+        "张志龙"
       ],
       "lines": [
         {

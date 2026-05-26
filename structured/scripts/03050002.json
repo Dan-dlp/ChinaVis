@@ -11,27 +11,32 @@
     {
       "name": "薛刚",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "徐策",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "纪鸾英",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "薛蛟",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "薛葵",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "薛刚闹花灯后，逃出都城，路遇纪德，纪德以女纪鸾英婚之。张泰闻讯，请兵往捉。薛刚夫妻逃散。纪鸾英\n于荒郊产子薛葵，遇九焰山薛强、薛霸，遂同上山聚义。先是，江淮侯徐策为续薛氏香烟，于法场之上以亲\n生之子金斗，偷换薛猛之子薛蛟，抚养成人，始以实告。薛蛟为报父仇，往九焰山送信。时薛刚至，遂合青\n龙会兵，共伐长安。",
@@ -319,8 +324,6 @@
       "label": "第一场",
       "characters_present": [
         "中军",
-        "四文官",
-        "四武将",
         "家院",
         "樊梨花",
         "薛丁山",
@@ -1243,7 +1246,6 @@
       "characters_present": [
         "大太监",
         "太子",
-        "我这里吼一声灯棚来闯",
         "薛刚",
         "薛德水"
       ],
@@ -1541,7 +1543,6 @@
       "characters_present": [
         "丑中军",
         "四校尉",
-        "四青袍",
         "张泰",
         "灯官",
         "薛刚",
@@ -2069,7 +2070,6 @@
       "characters_present": [
         "丑中军",
         "四校尉",
-        "四青袍",
         "张泰",
         "灯官",
         "薛刚",
@@ -2306,7 +2306,6 @@
       "characters_present": [
         "丑中军",
         "四校尉",
-        "四青袍",
         "张泰",
         "薛德水"
       ],
@@ -2408,7 +2407,6 @@
       "label": "第八场",
       "characters_present": [
         "四校尉",
-        "四青袍",
         "张泰",
         "校尉甲",
         "梨山老母",

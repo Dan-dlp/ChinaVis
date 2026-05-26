@@ -11,42 +11,50 @@
     {
       "name": "杨继业",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "杨延德",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "杨延平",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "宋太宗",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "赵德芳",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "杨延昭",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "杨延嗣",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "天庆王",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "潘洪私通天庆王，诓宋太宗至幽州五台山进香，全军被困。天庆王复于金沙滩设双龙会，暗伏兵马，邀宋太\n宗赴会。杨继业命大郎杨延平假扮太宗，众子随行。席间，天庆王命耶律休哥舞剑，意刺杨延平。杨延平先\n发制人，以袖箭射死天庆王。辽兵四起，大郎、二郎、三郎战死，四郎、八郎被擒，仅五郎、六郎、七郎突\n出重围。五郎杨延德愤权奸用事，毅然于五台山出家为僧。",
@@ -277,15 +285,10 @@
       "scene_index": 2,
       "label": "第二场",
       "characters_present": [
-        "向前辞过爹尊驾",
-        "君臣正在为难处",
-        "四十里沙滩摆下宴",
         "宋太宗",
-        "救得寡人回朝转",
         "杨延嗣",
         "杨延平",
         "杨继业",
-        "杨继业紧铠出宝帐",
         "赵德芳",
         "韩延寿"
       ],
@@ -2261,11 +2264,7 @@
       "label": "第八场",
       "characters_present": [
         "四龙套",
-        "柴干",
-        "潘洪",
-        "郎万",
-        "郎千",
-        "陈林"
+        "潘洪"
       ],
       "lines": [
         {

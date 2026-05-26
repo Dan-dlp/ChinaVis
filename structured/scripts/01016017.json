@@ -13,57 +13,68 @@
     {
       "name": "刘瑾",
       "role_type": "副净",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "赵廉",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "贾桂",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "宋巧姣",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "孙玉姣",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "刘彪",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "刘媒婆",
       "role_type": "彩旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "刘公道",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "傅朋",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "宋国士",
       "role_type": "外",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "伯父",
       "role_type": "末",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     }
   ],
   "plot_summary": "宋巧姣痛未婚夫傅朋，遭不白之冤，适值太后驻法门寺，冒死叩阁。太后命刘瑾缉底查究。刘瑾即着郿邬县\n令赵廉，将案中各犯，限三日内解到，亲自审讯，案遂因之平反。杀刘彪、刘公道，念刘媒婆年老，从轻发\n落，仍交县令管束。傅朋复还指挥原职，以之定谳。宋巧姣、孙玉姣二女，太后即在寺中召见，传出懿旨，\n均赐于傅朋为妻，命刘瑾主婚，为之成婚礼。",
@@ -203,8 +214,7 @@
       "label": "第一场",
       "characters_present": [
         "傅朋",
-        "宋巧姣",
-        "秋风吹动竹帘挂"
+        "宋巧姣"
       ],
       "lines": [
         {
@@ -303,36 +313,11 @@
       "scene_index": 2,
       "label": "第二场",
       "characters_present": [
-        "也怨吾一时间思想不到",
         "二衙役",
-        "你二人不放吾胆儿真小",
-        "你二人解绳索将吾放了",
-        "假作了一张状反将他告",
-        "傅公子与刘彪大街争吵",
-        "先前事儿倒还小",
         "刘公道",
         "刘媒婆",
-        "刘媒婆诓绣鞋嘴尖舌巧",
         "刘彪",
-        "割去头",
-        "劝世人作经商俱要学好",
-        "千岁爷差校尉县令提到",
-        "千岁爷限三日人犯提到",
-        "吾不该隐人头不去呈报",
-        "回头来叫一声二位年高",
-        "因此才下毒手将他害了",
-        "夹棍夹",
-        "她不该在门前迎风卖俏",
-        "孙家庄孙寡妇无有家教",
-        "孙家庄杀二命无人知晓",
-        "宋兴儿在一旁俱已知道",
-        "宋国士有一女名唤巧姣",
-        "打板子",
-        "此一去见千岁儿的人头不要",
-        "碗大疤瘌",
-        "赵廉",
-        "郿邬县在一旁真魂吓掉",
-        "郿邬县糊涂官得状准了"
+        "赵廉"
       ],
       "lines": [
         {
@@ -946,12 +931,9 @@
       "scene_index": 3,
       "label": "第三场",
       "characters_present": [
-        "一男一女同床卧",
-        "从今不把闲事管",
         "伯父",
         "傅朋",
         "刘公道",
-        "刘公道生诡计鬼神不晓",
         "刘媒婆",
         "刘彪",
         "刘瑾",
@@ -959,16 +941,9 @@
         "孙玉姣",
         "宋国士",
         "宋巧姣",
-        "小事弄成天大祸",
-        "已经不怕人唾骂",
-        "打死兴儿免后祸",
-        "臣审口供有差错",
-        "若得太尉开罪话",
         "衙役甲",
         "贾桂",
-        "赵廉",
-        "遍体排牙说不过",
-        "问官检验追问我"
+        "赵廉"
       ],
       "lines": [
         {

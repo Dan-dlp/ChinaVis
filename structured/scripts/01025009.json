@@ -13,42 +13,50 @@
     {
       "name": "马武",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "岑彭",
       "role_type": "武生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "邓禹",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "苏献",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "刘秀",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "吴汉",
       "role_type": "红净",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "姚期",
       "role_type": "黑净",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "杜茂",
       "role_type": "末",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     }
   ],
   "plot_summary": "有军事知识，然后可以将兵；若只知将兵而不知将将，决非取胜之道。观是剧事实，始见邓禹之善于将兵，\n并善于将将。而东汉光武，所以竟成帝业也。考云台将数，共计二十有八（姓氏俱详正史），无一非出入烽\n镝之中，不爱命、不惜身，备干城之选；虽然此二十八将，其忠勇则同，其材力则异，争城夺地，人各有能\n有不能，固非可一例观也。光武为兴复计，洛阳之地，在所必争。镇守者系苏献，勇冠三军，为王莽所倚重，\n光武欲取洛阳为",
@@ -156,23 +164,14 @@
       "label": "第一场",
       "characters_present": [
         "三将",
-        "不看夙日功劳好",
         "众人",
         "刘秀",
-        "同心协力将孤保",
         "吴汉",
-        "唾手可得",
         "四将",
-        "在校场王莽嫌我的容貌丑",
         "姚期",
         "岑彭",
-        "我兴刘灭莽心已久",
         "杜茂",
-        "武科场中俺为首",
-        "洛阳举子俺为首",
-        "苏献不是俺对手",
         "邓禹",
-        "阳城池",
         "马武"
       ],
       "lines": [
@@ -1629,7 +1628,6 @@
       "characters_present": [
         "刘秀",
         "四上手",
-        "大摇大摆进宝帐",
         "岑彭",
         "邓禹",
         "马武"

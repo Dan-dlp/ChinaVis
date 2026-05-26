@@ -13,37 +13,44 @@
     {
       "name": "晴雯",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "贾宝玉",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "焙茗",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "丫鬟",
       "role_type": "贴旦",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "仙女",
       "role_type": "贴旦",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "晴雯嫂嫂",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "五儿",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     }
   ],
   "plot_summary": "王夫人因傻大姐误拾绣春囊，王善保家的妒恨睛雯，乘势进谗，王夫人抄检大观园，逐出晴雯，睛雯带病负\n气抵家，病益重。贾宝玉偷往探望，睛雯与之诀别。贾宝玉于其死后，闻其封为芙蓉花神，乃写《芙蓉诔》\n祭之，以泄郁闷。",
@@ -105,11 +112,7 @@
       "label": "第一场",
       "characters_present": [
         "丫鬟",
-        "悔当初万不该以礼节",
-        "悔当初万不该嫉恶太甚",
-        "我只自问无愧怍",
-        "晴雯",
-        "清到而今"
+        "晴雯"
       ],
       "lines": [
         {
@@ -307,7 +310,6 @@
       "scene_index": 2,
       "label": "第二场",
       "characters_present": [
-        "恼恨情天何太狠",
         "焙茗",
         "贾宝玉"
       ],

@@ -11,17 +11,20 @@
     {
       "name": "刘二姐",
       "role_type": "彩旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "陈氏",
       "role_type": "老旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "女儿",
       "role_type": "小旦",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     }
   ],
   "plot_summary": "此系秦腔剧中之打诨戏，纯以诌白打趣见长，毫无剧情可取。仅不过为上巳良辰，乡村举行赛会，有刘二姐\n者，在会场上遇见同村妇女，诉述家常事，乘间插入种种科诨，以描摹村妇鄙俚猥亵之丑状而已。",
@@ -460,7 +463,6 @@
       "characters_present": [
         "刘二姐",
         "女儿",
-        "正行走来用目睁",
         "陈氏"
       ],
       "lines": [

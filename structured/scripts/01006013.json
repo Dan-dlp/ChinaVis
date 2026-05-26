@@ -13,22 +13,26 @@
     {
       "name": "孙尚香",
       "role_type": "正旦",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "吴国太",
       "role_type": "老旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "门神甲",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "门神乙",
       "role_type": "生",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     }
   ],
   "plot_summary": "此剧系《别宫祭江》之后，孙尚香鬼魂还宫，托兆吴后，自言投水之后，尸向西逆流，在芜湖关旁，已蒙上\n帝嘉我节烈，敕封为枭姬娘娘，受世人祭享。但虽受封，却无庙堂可以凭式。吴后乃许为立庙云。",
@@ -534,9 +538,7 @@
       "scene_index": 3,
       "label": "第三场",
       "characters_present": [
-        "乘夜来见我母待求方向",
         "二门神",
-        "众神将且肃静休要声嚷",
         "孙尚香",
         "门神乙",
         "门神甲"
@@ -762,13 +764,9 @@
       "scene_index": 4,
       "label": "第四场",
       "characters_present": [
-        "为荆州献儿计恨你兄长",
         "二宫女",
         "吴国太",
-        "孙尚香",
-        "尽节烈以图了后人钦仰",
-        "欲开言老年人心散神恍",
-        "阴灵魂既见娘直言话讲"
+        "孙尚香"
       ],
       "lines": [
         {

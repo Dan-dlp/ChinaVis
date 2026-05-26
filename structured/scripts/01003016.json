@@ -11,17 +11,20 @@
     {
       "name": "鼓婆",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "鼓郎",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "公子",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     }
   ],
   "plot_summary": "此剧为一狎邪公子某，途遇凤阳人夫妇，在街演唱花鼓。某见鼓婆略有姿色，遂与百般打诨，既复令至家中，\n某与同唱连相一曲，唱时随手调戏，丑态百出，盖纯乎俗语所谓打扯戏也。",
@@ -62,14 +65,7 @@
       "scene_index": 1,
       "label": "全剧",
       "characters_present": [
-        "你打锣来",
         "公子",
-        "咱也会唱歌",
-        "哪怕人儿多",
-        "戏耍的唱中呀",
-        "我把这鼓儿助",
-        "我的汉子",
-        "满脸容颜俏",
         "鼓婆",
         "鼓郎"
       ],

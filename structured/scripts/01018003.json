@@ -11,32 +11,38 @@
     {
       "name": "郭胡迪",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "阎王",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "老道",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "郭胡仪",
       "role_type": "末",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "郭妻",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "李七",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "宋岳武穆归神于风波亭，天下士民，无不为之叹息痛恨。而高宗之昏聩，秦桧之奸恶，当时尽人皆知，无待\n后世为之论定。有书生胡迪者，素性耿直，因武穆之冤抑，愤恨达于极点。每谓天地鬼神，皆有偏向，以致\n是非颠倒如此。一日酒醉，忽然牵动心事，痛骂阎罗王，不施报应。阎王命鬼卒摄其魂，欲治以狂妄侮辱之\n罪，胡迪侃侃诘辩，阎王信其刚正，反温论慰藉之，使遍观各种地狱，以证明报应之不爽，忠贞魂魄，早作\n天界之神；奸恶夫妻，已定阴司之律，彰善殚恶，自有权衡。乃召请岳公，阎王与之分庭抗礼，而锁提秦桧，\n鬼役为之怒目横眉。胡迪一一得以目见，方始悦服，阎王亦始终敬礼，增寿算一纪，送之还阳。",
@@ -130,13 +136,6 @@
       "scene_index": 1,
       "label": "第一场",
       "characters_present": [
-        "再把油灯扯在地",
-        "咬牙切齿骂秦桧",
-        "善恶报应你全不理",
-        "恨不得将你来打死",
-        "我这里急忙金殿去",
-        "油了衣服我无有换替",
-        "若问神灵是哪一位",
         "郭胡迪",
         "陈贵",
         "院子"
@@ -1012,9 +1011,6 @@
       "label": "第二场",
       "characters_present": [
         "二女施主",
-        "抓住了奸贼我就用力打",
-        "秦桧作恶罪应死",
-        "若问上面是哪一位",
         "郭胡迪",
         "陈贵"
       ],
@@ -1524,10 +1520,7 @@
       "label": "第三场",
       "characters_present": [
         "判官",
-        "张能",
         "李七",
-        "李会",
-        "站立殿前用目觑",
         "郭妻",
         "郭胡仪",
         "郭胡迪",

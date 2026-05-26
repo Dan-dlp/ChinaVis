@@ -11,17 +11,20 @@
     {
       "name": "徐母",
       "role_type": "老旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "曹操",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "程昱",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "曹操欲得徐庶，知其改名单福，在刘备处佐理军务。知非干旌所可召，因用程昱计：遣一家将，先密赚徐母\n至，令其作书招徐庶，则徐庶奉母素孝，断无不来之理。谁知徐母深明大义，初时虽被赚，既至曹操处，窥\n破奸情，坚不允招，且反将曹操指鼻痛骂，飞砚相击。曹操大怒，欲杀之。徐母大笑，毫不畏惧，盖徐母意\n本欲觅死，以坚徐庶佐刘备之心耳。讵又为程昱所劝阻，自后遂殷勤相待，卒被程昱用计套去笔迹也。",
@@ -79,8 +82,6 @@
       "label": "第一场",
       "characters_present": [
         "四曹将",
-        "字表元直徐门后",
-        "既与玄徳为好友",
         "曹操",
         "程昱"
       ],

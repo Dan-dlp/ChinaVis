@@ -11,37 +11,44 @@
     {
       "name": "尉迟恭",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "尉迟宝林",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "秦琼",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "徐懋功",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "程咬金",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "梅秀英",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "刘国桢",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "唐太宗出征，尉迟恭为先行。兵至白良关，守将刘国桢，为尉迟恭鞭伤；其子宝林，奋而出战。先是，尉迟\n恭之妻梅秀英，身怀宝林，为刘国桢霸占，时逾十馀年。宝林战败尉迟恭，归告母氏。其母始诉底细，旋自\n尽。宝林出阵，父子相认，杀死刘国桢，同见唐太宗。",
@@ -142,15 +149,11 @@
       "label": "第一场",
       "characters_present": [
         "唐太宗",
-        "回头便把咬金唤",
         "大太监",
-        "尉迟宝眷怎能免",
         "尉迟恭",
         "徐懋功",
-        "此番扫北去征战",
         "秦琼",
-        "程咬金",
-        "速到校场把人马点"
+        "程咬金"
       ],
       "lines": [
         {
@@ -1265,7 +1268,6 @@
       "label": "第二场",
       "characters_present": [
         "唐太宗",
-        "四大铠",
         "四龙套",
         "尉迟恭",
         "秦琼",
@@ -1722,11 +1724,7 @@
       "label": "第四场",
       "characters_present": [
         "刘国桢",
-        "尉迟宝林",
-        "爹爹点动兵和将",
-        "迈步且进牛皮帐",
-        "迈歩且进牛皮帐",
-        "鞭沉力猛实难挡"
+        "尉迟宝林"
       ],
       "lines": [
         {
@@ -3560,7 +3558,6 @@
       "scene_index": 12,
       "label": "第十二场",
       "characters_present": [
-        "乌油盔来乌油甲",
         "刘国桢",
         "四龙套",
         "尉迟宝林",

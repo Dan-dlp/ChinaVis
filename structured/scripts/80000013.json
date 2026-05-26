@@ -13,47 +13,56 @@
     {
       "name": "林冲",
       "role_type": "生",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "鲁智深",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "林娘子",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "高世德",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "高俅",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "陆谦",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "董超",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "薛霸",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "张勇",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "宋太尉高俅子高世德游庙时，见林冲妻张氏貌美，加以调戏。使女锦儿奔告林冲，林冲赶至，高世德逃去。\n陆谦又献计高世德，假卖宝刀给林冲，再使林冲持刀入白虎堂。高俅出，诬林冲行刺，发配沧州。陆谦又买\n通解差董超、薛霸在途中加害。林冲在大相国寺新结识的鲁智深，唯恐途中有失，暗地跟踪，至野猪林，解\n差正欲谋害林冲时，鲁救林冲脱险。林冲到了沧州，陆谦又夜烧草料场加害林冲。正巧，林冲在山神庙避雪，\n不在草料场，杀陆谦报仇后上了梁山。",
@@ -243,7 +252,6 @@
       "scene_index": 1,
       "label": "第一场",
       "characters_present": [
-        "人来带马会场上",
         "四家丁",
         "家丁甲",
         "富安",
@@ -637,7 +645,6 @@
       "scene_index": 2,
       "label": "第二场",
       "characters_present": [
-        "一路上观不尽",
         "林冲",
         "林娘子",
         "林寿",

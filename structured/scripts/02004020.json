@@ -11,37 +11,44 @@
     {
       "name": "张飞",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "张郃",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "魏延",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "诸葛亮",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "刘备",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "丑将甲",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "丑将乙",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     }
   ],
   "plot_summary": "张飞镇守巴西，张郃奉曹洪命，前往进攻，屯兵瓦口关。张飞除命雷同阵后埋伏外，亲自应战。前后夹攻，\n张郃不得已，退回岩渠山，不再出战。且当张飞骂阵时，即在高处饮酒，表示闲雅镇静，刺激张飞。张飞无\n奈，亦每日饮酒。刘备派来之探事官，见张飞每日饮酒，恐误大事，乃面报刘备。刘备大惊，令诸葛亮速派\n人相助。诸葛亮听后，不但不想派人，且反令选购美酒，由魏延押运前方。张飞见酒后，一面派雷同、魏延，\n左右埋伏，一面更令将士亦大饮特饮。张郃遥见张飞军中混乱情形，乘机前来劫寨。张飞、魏延、雷同四\n面围攻，张郃大败，狼狈逃走。",
@@ -151,12 +158,9 @@
       "scene_index": 1,
       "label": "第一场",
       "characters_present": [
-        "四红大铠",
         "四红文堂",
         "张郃",
-        "曹洪",
-        "此去只看红旗信",
-        "此番不但必定胜"
+        "曹洪"
       ],
       "lines": [
         {
@@ -581,13 +585,9 @@
       "scene_index": 3,
       "label": "第三场",
       "characters_present": [
-        "今日相逢逃休想",
         "张郃",
         "张飞",
-        "怒鞭督邮惊奸党",
         "报子",
-        "曹操见俺魂魄丧",
-        "长板坡前能挡百万将",
         "雷同"
       ],
       "lines": [
@@ -1123,7 +1123,6 @@
       "scene_index": 5,
       "label": "第五场、\n（四蓝文堂、张飞、雷同同上。）\n雷同 （白） 张郃败岩渠山去了。\n张飞 （白） 向前攻打。\n（〖锣鼓〗。内挂免战牌。）\n雷同 （白） 张郃挂了免战牌。\nhttps://scripts.xikao.com/play/02004020 2022-04-19\n中国京剧戏考 《瓦口关》 4\n张飞 （白） 呔张郃！儿夸了大口，被咱老子杀得免战牌高悬。\n众将官，暂将人马退回，少时再来攻打。\n（四蓝文堂、雷同同下。张飞三笑，下。）\n【第六场",
       "characters_present": [
-        "不该夸口写军状",
         "四红文堂",
         "张郃",
         "张飞",
@@ -1333,15 +1332,11 @@
       "scene_index": 6,
       "label": "第七场",
       "characters_present": [
-        "三军暂且回营往",
         "丑将甲",
         "二丑将",
         "小军甲",
-        "张某说来儿细想",
         "张郃",
-        "张飞",
-        "歇息前来将山抢",
-        "眉头一皱心暗想"
+        "张飞"
       ],
       "lines": [
         {
@@ -2142,9 +2137,7 @@
       "characters_present": [
         "丑将甲",
         "二丑将",
-        "假意踉跄进后帐",
         "四蓝文堂",
-        "开怀畅饮杯休放",
         "张郃",
         "张飞",
         "雷同",

@@ -11,22 +11,26 @@
     {
       "name": "张飞",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "吕布",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "刘备",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "关羽",
       "role_type": "红生",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     }
   ],
   "plot_summary": "袁术因张飞过于夸口，乃与之打赌：若吕布来攻，张飞应战。张若擒得吕布，袁术即将催粮印信付飞掌管；\n若败下阵来，即将张首级悬挂营门。及吕布前来为华雄报仇，张飞出战不胜。刘备、关羽乃一同应战，始将\n吕布击退，张飞得以不死云。",
@@ -386,10 +390,7 @@
       "scene_index": 2,
       "label": "第二场",
       "characters_present": [
-        "吕布",
-        "四上手",
-        "四将官",
-        "四白文堂"
+        "吕布"
       ],
       "lines": [
         {

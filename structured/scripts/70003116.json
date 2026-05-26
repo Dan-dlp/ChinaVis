@@ -11,22 +11,26 @@
     {
       "name": "关羽",
       "role_type": "红生",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "张飞",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "刘备",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "马童",
       "role_type": "武生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "关羽斩了蔡阳，张飞羞愧难当，亲迎关羽入城，深夜前往请罪。关羽义责张飞，并历述为了保嫂寻兄，饱受\n千辛万苦。刘备也来为张飞求情，弟兄三人和好如初。",
@@ -352,7 +356,6 @@
       "scene_index": 2,
       "label": "第二场",
       "characters_present": [
-        "不愿意归降者赏银两",
         "关羽",
         "张飞",
         "旗牌乙",
@@ -844,14 +847,10 @@
       "scene_index": 3,
       "label": "第三场",
       "characters_present": [
-        "三兄弟家住有涿郡范阳",
         "关羽",
         "刘备",
-        "孙庞斗智均都是英雄汉",
-        "小弟我家住在蒲州解良",
         "张飞",
         "旗牌",
-        "楚汉相争两国为难",
         "马童"
       ],
       "lines": [

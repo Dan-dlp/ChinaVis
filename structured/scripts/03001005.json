@@ -11,17 +11,20 @@
     {
       "name": "楚庄王",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "唐狡",
       "role_type": "武生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "襄老",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     }
   ],
   "plot_summary": "楚庄王欲图霸业，兴兵伐晋，兵临荥阳关，命襄老、唐狡攻取。襄老欲争首功，独出搦战；唐狡趁机暗袭，\n夺占荥阳，大胜晋师，直逼绛都。",
@@ -206,11 +209,9 @@
       "scene_index": 2,
       "label": "第二场",
       "characters_present": [
-        "先蔑人马平静了",
         "公子侧",
         "唐狡",
         "楚庄王",
-        "此去只须智谋巧",
         "潘尪",
         "襄老"
       ],
@@ -2020,7 +2021,6 @@
       "label": "第十场",
       "characters_present": [
         "晋成公",
-        "统领雄兵安营寨",
         "荀林父",
         "赵同",
         "赵旃",

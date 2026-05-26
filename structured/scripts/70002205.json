@@ -11,82 +11,98 @@
     {
       "name": "寇准",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": "纱帽，黑三，蓝官衣，香色彩裤，厚底靴；第二场黑高方巾，宝蓝褶子，紫色绦子；第四场纱帽，红官衣"
     },
     {
       "name": "潘洪",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": "相巾，勾白粉末脸，白满，古铜色褶子，大腰包，青彩裤，厚底靴"
     },
     {
       "name": "八贤王",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": "金大镫，黑三，绿蟒，红彩裤，厚底靴"
     },
     {
       "name": "夫人",
       "role_type": "青衣",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": "点翠头面，蓝帔，花边腰包，衬褶子，猜鞋"
     },
     {
       "name": "马牌",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": "梢子帽，蓝色箭衣，大带，青彩裤，薄底鞋"
     },
     {
       "name": "张洪",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": "元宝脸，大板巾，额子、黑扎、耳毛、蓝花箭衣、黑马褂，红彩裤，黄大带，厚底靴"
     },
     {
       "name": "驿丞",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": "元纱帽，丑三，青褶子，青彩裤，朝方"
     },
     {
       "name": "禁卒",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": "蓝毡帽头，茶衣腰包，青彩裤，布袜子，方口皂鞋"
     },
     {
       "name": "春香",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": "大头，花褶子，素裙子，彩鞋"
     },
     {
       "name": "秋香",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": "大头，花褶子，素裙子，彩鞋"
     },
     {
       "name": "院子",
       "role_type": "生",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": "黑硬罗帽，黑三，海青褶子，大带，青彩裤，厚底靴"
     },
     {
       "name": "丫鬟",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": "大头，花裤子袄，小坎肩，彩鞋，拿手绢"
     },
     {
       "name": "大太监",
       "role_type": "生",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": "大太监帽，大太监衣，红彩裤，厚底靴"
     },
     {
       "name": "潘太监",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": "大太监帽，大太监衣，青彩裤，朝方"
     },
     {
       "name": "二班头",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": "皂吏帽，布箭衣，大带，黑彩裤，薄底鞋"
     },
     {
       "name": "四青袍",
       "role_type": "杂",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": "红辣椒帽，青褶子，青彩裤，薄底鞋"
     }
   ],
   "plot_summary": "宋朝仁宗时，潘洪国丈与大将杨继业，一同镇守雁门关，抗拒辽人犯境。潘洪嫉贤妒能，私通敌国，屡次谋\n害杨家，射死杨七郎，不发救兵，致使杨继业被困两狼山，兵尽粮绝，碰死在李陵碑下。八贤王为与杨家报\n仇鸣冤，奏于宋仁宗将潘洪调京审问。无奈潘洪身为国丈，权高势大，朝中众官员，均不敢来审问。八贤王\n得知寇准虽官卑职小，身为霞峪县县令，但为人刚正，不畏权势，特奏请朝廷，连日连夜调进京来审问潘洪。\n寇准进京领命后尚未审问，后宫潘娘娘命太监送来厚礼，意欲买通寇准，保护潘洪。寇准拒而不收，并将\n礼物放到八贤王那里，随后开始对潘洪进行审问。不料，五刑用尽，潘洪始终不肯招认。为此寇准献计，与\n八贤王合作在南清宫假设阴曹地府。暗使禁卒将潘洪用酒灌醉，乘夜审问。潘洪素来迷信，信以为真，为求\n得能够还阳故将卖国求荣、陷害杨家之事全部供招。杨家冤狱，得以昭雪。",
@@ -320,14 +336,11 @@
       "label": "第二场",
       "characters_present": [
         "丫鬟",
-        "回头再与夫人论",
         "夫人",
         "寇准",
         "张洪",
-        "辞别了夫人跨金镫",
         "院子",
-        "马牌",
-        "高堂老母多孝敬"
+        "马牌"
       ],
       "lines": [
         {

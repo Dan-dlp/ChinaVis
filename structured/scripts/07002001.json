@@ -11,47 +11,56 @@
     {
       "name": "邓艾",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "钟会",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "诸葛瞻",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "诸葛尚贤",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "刘禅",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "黄皓",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "邓忠",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "张翼",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "马邈",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     }
   ],
   "plot_summary": "三国，汉主刘禅沉溺酒色，朝事日非。魏将邓艾暗渡阴平，成都告急，刘禅命诸葛瞻父子挂帅，一战而胜。\n奸宦黄皓不发粮草，三军无粮，士无斗志，诸葛父子终于忠勇战死。",
@@ -758,7 +767,6 @@
       "label": "第二场",
       "characters_present": [
         "四将",
-        "大事安排小事忍",
         "旗牌",
         "邓忠",
         "邓艾",
@@ -2176,8 +2184,6 @@
         "丘本",
         "四马夫",
         "师篡",
-        "忙整顿军纪令号",
-        "旌旗飘荡地动山摇",
         "田续",
         "邓忠",
         "邓艾"

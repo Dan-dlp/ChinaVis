@@ -13,32 +13,38 @@
     {
       "name": "张元秀",
       "role_type": "外",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "周氏",
       "role_type": "老旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "张继保",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "薛荣",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "周桂英",
       "role_type": "正旦",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "周小义",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     }
   ],
   "plot_summary": "相传有张继保者，原姓薛，襁褓时即遭兵难，父母委之于地，为开豆腐店之张元秀拾回，抚为己子，钟爱非\n常；继又送之入学，令其读书。盖张元秀本无子者，故爱护若掌上珠，胜于己出。不意至十三岁时，忽为薛\n氏生母认去，张继保掉头不顾，竟随之俱去，张元秀亦无如之何。从此老夫妇二人，思子逾分，日夕对泣，\n而老妻悲痛尤甚，致成疾病。以是生理抛荒，几将流为乞丐。数年后，忽张继保得中状元还乡，其薛氏亲生\n父母，令继保往清风亭地方，访寻二老迎归奉养，张继保勉强允从而去。时二老因得地保之报告，适亦在清\n风亭侧伺望，心中甚喜，以为必蒙优礼。孰意张继保既至，反眼若不相识，竟屏斥不认。二老复轮次哀告，\n跪求收养，张继保始赏给青钱二百，挥之使去。于是二老气愤填膺，触壁而死。张继保方欲回家，天忽阴云，\n大雨雷电，将张继保殛死，观者大快。呜呼继保岂即叔宝，何遂全无心肝若此耶？",
@@ -122,11 +128,8 @@
       "scene_index": 1,
       "label": "第一场",
       "characters_present": [
-        "今被你终日来拷打",
         "周氏",
-        "张元秀",
-        "眼前若有继保在",
-        "虽然是娇儿他带去"
+        "张元秀"
       ],
       "lines": [
         {

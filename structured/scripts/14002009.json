@@ -11,17 +11,20 @@
     {
       "name": "刘氏",
       "role_type": "老旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "目莲",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "大鬼",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "刘氏清蒂的儿子目莲僧，既已修成佛道，闻得母亲还在阴间受罪，特地前来探望。母子们会着面不免悲喜交\n集。刘氏哭诉一番，要目莲救她出去。鬼卒不许，经不得目莲使起佛法，只得任他将刘氏带走。目莲又将冤\n魂怨鬼放跑。鬼卒一想不好交差，也就溜之大吉。刘氏经过了这次磨难，这才一心向善，终究也修成了正果。",
@@ -70,14 +73,9 @@
       "scene_index": 1,
       "label": "全剧",
       "characters_present": [
-        "儿求佛尊将娘搭救",
         "刘氏",
-        "刘清蒂本是我老身的名姓",
         "大鬼",
-        "娘说道阴曹府报应无有",
         "小鬼",
-        "扁毛倒有修行意",
-        "望长官你与我盘查细问",
         "目莲"
       ],
       "lines": [

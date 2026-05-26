@@ -13,12 +13,14 @@
     {
       "name": "李显",
       "role_type": "生",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "韦后",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     }
   ],
   "plot_summary": "卢陵王被贬出京，群臣恭送。武三思奉旨监斩薛氏满门。",
@@ -78,12 +80,8 @@
       "scene_index": 1,
       "label": "第一场",
       "characters_present": [
-        "李敬犹",
         "李显",
-        "程万牛",
-        "罗章",
-        "韦后",
-        "马周"
+        "韦后"
       ],
       "lines": [
         {

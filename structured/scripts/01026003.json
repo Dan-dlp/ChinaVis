@@ -13,42 +13,50 @@
     {
       "name": "程婴",
       "role_type": "外",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "屠岸贾",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "韩厥",
       "role_type": "末",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "晋成公",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "赵武",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "荀斌",
       "role_type": "生",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "魏绛",
       "role_type": "副净",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "羊舌职",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     }
   ],
   "plot_summary": "春秋时，晋国屠岸贾指称赵氏为弑君罪魁，尽灭其族。赵氏门客程婴，与友公孙杵臼定计，舍子救孤，欲存\n赵氏一脉，为他日复仇起见。公孙杵臼赴义而死，程婴匿赵孤于孟山，忽忽十五年。值晋成公初即位，追念\n晋国功臣。其时韩厥执政，为中军元帅，将赵氏之冤诬，密言于晋成公，杀屠岸贾，亦尽灭其族。乃征求程\n婴赵孤，录以官爵，录以家财，从此报仇雪恨，大快人心。赵孤既能成立，程婴不欲负死友公孙杵臼，遂自\n刎而死。赵孤名武，谥文子，不数年间，亦为晋国中军元帅，名显诸侯。后来强盛，至战国时，有南面称赵\n王者，即其传留之子孙。",
@@ -139,7 +147,6 @@
       "label": "第一场",
       "characters_present": [
         "内侍",
-        "内侍摆驾皇宫院",
         "晋成公",
         "韩厥"
       ],
@@ -492,9 +499,6 @@
       "scene_index": 2,
       "label": "第二场",
       "characters_present": [
-        "今日里赵氏得雪恨",
-        "你舍娇儿他舍命",
-        "我等一同把宫进",
         "程婴",
         "赵武",
         "韩厥"
@@ -1314,7 +1318,6 @@
       "scene_index": 5,
       "label": "第五场",
       "characters_present": [
-        "今日里他赵家雪了怨恨",
         "屠岸贾",
         "晋成公",
         "程婴",
@@ -2057,8 +2060,6 @@
       "scene_index": 6,
       "label": "第六场",
       "characters_present": [
-        "你只道上天无报应",
-        "将身儿来至在法场下",
         "屠岸贾",
         "程婴"
       ],

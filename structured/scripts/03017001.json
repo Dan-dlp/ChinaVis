@@ -11,22 +11,26 @@
     {
       "name": "马超",
       "role_type": "武生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "曹操",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "许褚",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "曹洪",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "曹操挟天子令诸侯，马腾不服，曹操以伪旨召马腾入京受爵，中途伏甲兵刺死马腾。马腾子马超闻耗，率西\n羌兵攻中原，西凉太守韩遂往助之。曹操闻报驰书潼关守将徐晃，令坚守勿战，曹操领兵往救。马超军攻潼\n关甚急，曹操将曹洪违命出战，致败失潼关。曹操闻报驰援，适马超兵骤至，曹兵败溃，马超军扬言欲活捉\n曹操，曹操弃袍割须而逃，败至渭水渡口，马超军追至，幸许褚护曹操登舟，乃得幸免。",
@@ -1519,7 +1523,6 @@
       "scene_index": 8,
       "label": "第八场",
       "characters_present": [
-        "开言大骂贼奸党",
         "马岱",
         "马超"
       ],
@@ -1929,8 +1932,7 @@
         "四文堂",
         "徐晃",
         "报子",
-        "曹洪",
-        "马超纵是天神将"
+        "曹洪"
       ],
       "lines": [
         {

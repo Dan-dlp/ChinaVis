@@ -15,47 +15,56 @@
     {
       "name": "李广",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "李刚",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "皇上",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "马妃",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "李虎",
       "role_type": "副净",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "马兰",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "朝臣甲",
       "role_type": "外",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "朝臣乙",
       "role_type": "末",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "朝臣丙",
       "role_type": "生",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     }
   ],
   "plot_summary": "李广、李刚，兄弟二人，奉旨出征，自虹霓奏捷之后，爵封王位，钦赐御筵，命众大臣陪宴，以庆其功。有\n西宫贵妃之兄马兰，亦在席间，居常倚仗国舅之势，欺压同僚，李广素来恨之，佯为酒醉，将马兰辱骂殴打，\n经众劝散。马兰遂存报复之见，至西宫诉于贵妃，谓李广恃功而骄，谤毁宫闱，意图造反，求贵妃转奏，\n除去此人，以免后患。朝廷竟听枕边谗言，不问是非真假，猝然宣进李广，命武士缚斩之。其弟李刚，闻此\n警报，即点齐家将，围困宫门，与乃兄报仇云云。",
@@ -450,10 +459,8 @@
       "label": "第二场",
       "characters_present": [
         "内侍",
-        "是与不是上金殿",
         "李广",
         "皇上",
-        "莫不是烟尘又起反",
         "马兰",
         "马妃"
       ],

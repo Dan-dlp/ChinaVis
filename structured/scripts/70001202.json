@@ -11,22 +11,26 @@
     {
       "name": "陆炳",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "雪艳",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "汤勤",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "戚继光",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "雪艳和假莫怀古的人头被差役押进京城，交锦衣卫审问。锦衣卫指挥陆炳是莫怀古的好友，识破了汤勤的毒\n计，当堂故意将雪艳断给陪审的汤勤，并暗示雪艳在洞房中刺死汤勤。雪艳领会了陆炳的意思，果然在洞房\n中刺杀了酒醉的汤勤，自刎而死。",
@@ -105,12 +109,9 @@
       "scene_index": 1,
       "label": "第一场：陆炳勘首",
       "characters_present": [
-        "含悲泪下公堂来观望",
         "张龙",
         "戚继光",
         "汤勤",
-        "这厢不是那厢望",
-        "那边厢好似夫模样",
         "郭义",
         "门子",
         "陆炳",

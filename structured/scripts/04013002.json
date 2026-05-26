@@ -11,27 +11,32 @@
     {
       "name": "关羽",
       "role_type": "红生",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "曹操",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "张飞",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "蔡阳",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "刘备",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "在曹营受厚待的关羽，自斩颜良诛文丑得知刘备踪迹之后，决意辞曹寻兄。时曹操已测知他的意图，故意回\n避不见。于是关羽挂印封金，留柬告辞，与二位嫂嫂离了许昌。曹操闻讯，知关羽志不可夺，率众将赶去送\n行；追至灞陵桥，见关羽横刀立马于桥上，因道明来意，并赠锦袍以为纪念。关羽恐他有变，不敢下马，用\n刀尖挑锦袍披于身上，遂扬长而去。关羽一行离许昌，奔河北，一路经过了东岭、洛阳、沂水、荥阳、黄河\n渡口等五处关隘，先后斩了孔秀、孟坦、韩福、卞喜、王植、秦琪等六员曹将，脱险而出。关羽等过了黄河\n渡口，行近古城，忽闻报曹将蔡阳率军追来，要替他的外甥秦琪报仇。关羽急命马童进古城向刘备、张飞报\n信，张飞因关羽久居曹营，恐此来有诈，遂拒绝收容。时蔡阳追兵已到，关羽斩蔡阳以自明。张飞乃释疑，\n迎关入城。",
@@ -276,7 +281,6 @@
       "label": "第一场",
       "characters_present": [
         "中军",
-        "低头不语宝帐到",
         "刘备",
         "报子",
         "袁绍",

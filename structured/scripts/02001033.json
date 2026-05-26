@@ -11,42 +11,50 @@
     {
       "name": "赵朔",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "庄姬",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "程婴",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "韩厥",
       "role_type": "武生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "太后",
       "role_type": "老旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "屠岸贾",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "晋景公",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "禁子",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     }
   ],
   "plot_summary": "春秋时，晋国有佞臣屠岸贾，晋景公宠之。屠岸贾与赵氏不睦，诬赵盾以弑君之罪，将赵氏抄斩。赵朔之妻，\n公之庶妹也，怀孕走入宫中，得免。后生赵武，托门客程婴、公孙杵臼，设法保护。屠岸贾为斩草除根计，\n严索孤儿。程婴适生子，公孙杵臼请将婴儿伪作孤儿，应屠岸贾索。程婴许之。公孙杵臼乃抱程婴子藏于\n首阳山边，嘱程婴出首。屠岸贾带校尉搜山，果得公孙杵臼及孤儿，立将孤儿掷死，又命程婴举鞭击公孙杵\n臼，以试虚实，以程婴与公孙杵臼，同为赵氏家客也。程婴忍泪痛击公孙杵臼，屠岸贾乃信，杀公孙杵臼。\n后景公崩，成公立，赵武为上卿，将屠岸贾剐戮。以报昔日之仇。赵武既成立，程婴乃自杀以报公孙杵臼。\n赵武感二客义侠，立位宗庙，配享祖先。",
@@ -254,10 +262,7 @@
       "characters_present": [
         "小太监甲",
         "屠岸贾",
-        "急忙忙上金殿去把本奏",
         "晋景公",
-        "未尽孝先尽忠去见王驾",
-        "老严亲为国家命归泉下",
         "赵同",
         "赵婴齐",
         "赵括",
@@ -1143,17 +1148,10 @@
       "scene_index": 4,
       "label": "第四场",
       "characters_present": [
-        "回头我把程婴问",
         "庄姬",
-        "忍悲含泪往前进",
-        "我赵朔丧黄泉不大要紧",
-        "晋主爷坐江山不理朝政",
-        "狗奸贼在朝中专权乱政",
         "禁子",
         "程婴",
-        "赵朔",
-        "这都是狗奸贼行事狂妄",
-        "骂一声狗奸贼混乱国政"
+        "赵朔"
       ],
       "lines": [
         {
@@ -1985,9 +1983,6 @@
       "characters_present": [
         "四校尉",
         "屠岸贾",
-        "屠岸贾报私仇设下圈套",
-        "我赵家全精忠非为紧要",
-        "来至在公堂上用目观瞧",
         "皮豹",
         "赵朔"
       ],
@@ -2249,7 +2244,6 @@
       "label": "第七场",
       "characters_present": [
         "二宫娥",
-        "哭一声驸马慢慢等",
         "太后",
         "庄姬",
         "韩厥"

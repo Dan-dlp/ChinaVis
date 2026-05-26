@@ -14,32 +14,38 @@
     {
       "name": "樊梨花",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "薛丁山",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "薛应龙",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "秦汉",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "窦一虎",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "乌里赫",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "唐朝时，樊梨花挂帅征西。其子薛应龙败阵，落荒而逃。饥渴劳乏，问一白姓老者乞水。白老者延其至家，\n命女出敬茶，并为女向薛应龙求婚。薛应龙允之，当即拜堂成礼。薛应龙婚后，即辞行欲回营交令。临别时\n白女谓：“我乃芦花河龙女，与你有一时三刻姻缘，特来引你归位”等语。霎时龙女及房屋均不见。薛应龙\n回营，其母樊梨花怒欲斩之，其父薛丁山苦求得免。不意薛应龙夜袭敌营竟战死。樊梨花、薛丁山哭子之后，\n举全营兵去破敌之“金光阵”。",
@@ -185,7 +191,6 @@
       "label": "第一场",
       "characters_present": [
         "乌里赫",
-        "四下手",
         "四龙套",
         "铁板道",
         "飞钹师"
@@ -664,8 +669,6 @@
       "label": "第四场",
       "characters_present": [
         "乌里赫",
-        "四上手",
-        "四大铠",
         "四龙套",
         "樊梨花",
         "秦汉",
@@ -1173,7 +1176,6 @@
       "characters_present": [
         "四云童",
         "土地",
-        "皆因他在凡间魔难已满",
         "薛应龙",
         "龙女"
       ],

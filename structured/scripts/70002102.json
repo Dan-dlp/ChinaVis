@@ -11,12 +11,14 @@
     {
       "name": "乔玄",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": "天青色相貂，白鬓发，白满，杏黄色绸条，天青色蟒，玉带，古铜色彩裤，厚底；第七场换墨绿色绸条，戴无绒球文阳加立龙翅子，浅古铜色蟒"
     },
     {
       "name": "刘备",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": "王帽，黪三，红蟒，玉带，红彩裤，厚底；"
     },
     {
       "name": "孙权",
@@ -36,12 +38,12 @@
     {
       "name": "乔福",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown"
     },
     {
       "name": "贾化",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown"
     },
     {
       "name": "吕范",
@@ -60,18 +62,21 @@
     },
     {
       "name": "大太监",
-      "role_type": "大太监帽",
-      "gender": "unknown"
+      "role_type": null,
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "太监",
-      "role_type": "太监帽",
-      "gender": "unknown"
+      "role_type": null,
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "车夫",
-      "role_type": "毡帽",
-      "gender": "unknown"
+      "role_type": null,
+      "gender": "unknown",
+      "costume_note": null
     }
   ],
   "plot_summary": "孙权由于刘备借用荆州，屡催不还，因此，与周瑜议设“美人计”，假称将幼妹孙尚香许嫁刘备，邀请刘备\n来吴亲迎，乘机便将刘备留质，强之归还荆州。不料这个计策早被诸葛亮识破。诸葛亮派遣赵云护卫刘备入\n吴，嘱咐入吴之后，首先贿通周瑜岳丈乔玄；果然借着乔玄在孙权的母亲吴夫人面前的谏诤，吴夫人亲在甘\n露寺面相刘备，以两国和好为重，将孙尚香真地许嫁刘备。民间盛传的“周郎妙计安天下，赔了夫人又折兵”\n便是从这个故事传播下来的。",
@@ -165,12 +170,10 @@
       "scene_index": 1,
       "label": "第一场",
       "characters_present": [
-        "分明是那东吴又把计生",
         "刘备",
         "吕范",
         "船夫",
-        "赵云",
-        "转面来我对四弟论"
+        "赵云"
       ],
       "lines": [
         {
@@ -1194,23 +1197,9 @@
       "label": "第三场",
       "characters_present": [
         "乔玄",
-        "他三弟翼德威风有",
-        "他四弟子龙常山将",
-        "他有个二弟",
-        "你杀刘备不要紧",
-        "刘备本是那中山靖王的后",
         "吴国太",
         "大太监",
-        "孙权",
-        "就该出兵来争斗",
-        "当阳桥前一声吼",
-        "我扭转回身奏太后",
-        "救阿斗",
-        "既为那荆州争疆土",
-        "白马坡前诛文丑",
-        "若是领兵来争斗",
-        "长坂坡",
-        "鞭打都邮他气冲牛斗"
+        "孙权"
       ],
       "lines": [
         {

@@ -13,27 +13,32 @@
     {
       "name": "李白",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "唐明皇",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "杨国忠",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "高力士",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "使臣",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "俗传明皇时有黑蛮国遣使进表，表用蛮文缮写，语多不逊，谓中国如无人识得此表，彼即将兴师夺取唐朝天\n下。时盈廷学士，俱不能辨，明皇甚惭虑。旋由贺知章、孟浩然等，举荐李白能识。明皇乃以殊礼迎召太白，\n并赐以学士官。太白即至殿，余酲尚未醒，因前曾受过杨国忠、高力士等恶气，乃令磨墨脱靴以报，卒乃\n朗诵蛮表，译明原意，亦草就蛮诗，仍交该臣带回，嘱其弗生妄想。蛮使战兢而退。此亦可谓战胜於朝廷之\n上矣。",
@@ -170,27 +175,13 @@
       "scene_index": 2,
       "label": "第二场",
       "characters_present": [
-        "“普海国无宝献",
-        "一封草诏忙修上",
-        "不要施礼且坐下",
         "使臣",
         "内监",
-        "再若兴兵来犯界",
         "唐明皇",
-        "天朝若是无人念",
-        "天朝若是有人念",
         "孟浩然",
-        "年年进贡来朝上",
-        "我主爷洪福是天降",
-        "掀开黑蛮诗一篇",
-        "整乌纱端袍带忙上金殿",
         "李白",
-        "来来来随我上金殿",
-        "杨二卿",
         "杨国忠",
-        "番邦的使臣把表献上",
         "贺知章",
-        "高",
         "高力士"
       ],
       "lines": [

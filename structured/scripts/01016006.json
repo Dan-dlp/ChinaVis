@@ -13,82 +13,98 @@
     {
       "name": "周瑜",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "鲁肃",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "曹仁",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "陈武",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "丁奉",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "甘宁",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "蒋钦",
       "role_type": "生",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "诸葛亮",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "刘备",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "牛金",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "陈矫",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "赵云",
       "role_type": "武生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "张飞",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "关平",
       "role_type": "生",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "周仓",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "刘封",
       "role_type": "生",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     }
   ],
   "plot_summary": "后汉三国时，东吴大都督周瑜，自赤壁鏖兵之后，周瑜率领众将欲取南郡。守将曹仁勇不可当，受有曹操密\n计，杀退东吴将卒，用毒药箭射伤周瑜左肋。周瑜将计就计，佯死以诱之。曹仁命陈矫守城，尽起城中兵马\n前去劫寨，拟夺周瑜之尸，以报赤壁之恨。周瑜早遣众将各路埋伏，曹仁中计败逃。咸以为南郡城池当在周\n瑜掌握之中，及至城下看时，已经旌旗密布，赵云端坐在敌楼上。盖奉诸葛亮军师将令，已袭取多时矣！东\n吴损兵马、费钱粮、出死力、竭智谋，忽被刘备安然得之，周瑜如何不气？箭疮迸裂，昏晕多时，定欲挥兵\n攻城以消愤恨。适吴主遣使至，调周瑜之兵共攻合肥，又经鲁肃再三劝阻，方始收兵回吴。",
@@ -362,10 +378,7 @@
       "label": "第三场",
       "characters_present": [
         "丁奉",
-        "今日病势甚实重",
-        "周都督做事太好胜",
         "甘宁",
-        "若想退兵把气忍",
         "蒋钦",
         "陈武",
         "鲁肃"
@@ -727,11 +740,9 @@
       "label": "第四场",
       "characters_present": [
         "丁奉",
-        "人来带过马能行",
         "周瑜",
         "探子",
         "甘宁",
-        "纵然曹兵甚英勇",
         "蒋钦",
         "陈武",
         "鲁肃"
@@ -1196,13 +1207,9 @@
       "characters_present": [
         "丁奉",
         "二小校",
-        "到今日带大兵攻取南郡",
-        "可怜你为国家心血用尽",
         "周瑜",
-        "此时间哭得我咽喉哽哽",
         "甘宁",
         "蒋钦",
-        "虽年少用机谋人人猜定",
         "陈武",
         "鲁肃"
       ],
@@ -2167,9 +2174,7 @@
       "scene_index": 9,
       "label": "第九场",
       "characters_present": [
-        "关平",
         "刘备",
-        "周仓",
         "张飞",
         "诸葛亮",
         "赵云",

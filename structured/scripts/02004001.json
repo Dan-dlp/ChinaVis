@@ -13,47 +13,56 @@
     {
       "name": "刘备",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "乔玄",
       "role_type": "外",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "吴国太",
       "role_type": "老旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "孙权",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "孙尚香",
       "role_type": "正旦",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "苍头",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "孙乾",
       "role_type": "末",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "吕范",
       "role_type": "末",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "贾华",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     }
   ],
   "plot_summary": "鲁肃为讨荆州一事，疲于奔命，终不能达到目的。适刘备新丧甘夫人。周瑜因定计伪结姻好，将孙权之妹招\n赘刘备为婿，赚至东吴，即行拘囚，作为调换荆州之地步。于是命吕范为媒，前去说合。刘备怀疑未决，而\n诸葛亮早已胸有成竹，代为应允。遣孙乾同吕范往东吴答复。预纳聘礼，择日就亲。部署停当，唤赵云保护\n刘备，坦然渡江。临行，诸葛亮授以锦囊三个，叮嘱依次开看。及至南徐，先见乔国老。乔玄为东吴勋戚，\n知有此事，乃入见吴国太贺喜。吴国太茫然，问明情由，勃然大怒。召孙权入宫，责以不奉母命，擅将妹子\n许人，殊出情理之外。又痛骂周瑜不止。经乔玄从旁婉劝，吴国太欲亲见刘备。如果相貌品格，可以中意，\n即实行招赘，否则依周瑜之计。约至甘露寺，设筵面会。吴国太一见刘备，欣欣然有喜色。目为乘龙佳婿，\n于是弄假成真焉。",
@@ -1082,7 +1091,6 @@
       "characters_present": [
         "乔玄",
         "刘备",
-        "恨周郎设毒计要害我命",
         "苍头",
         "赵云"
       ],
@@ -1574,10 +1582,8 @@
       "label": "第四场",
       "characters_present": [
         "乔玄",
-        "倘若是将刘备来断首",
         "吴国太",
-        "孙权",
-        "要荆州你就该带兵争斗"
+        "孙权"
       ],
       "lines": [
         {

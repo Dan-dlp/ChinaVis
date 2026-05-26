@@ -11,57 +11,68 @@
     {
       "name": "曹操",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "许攸",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "袁绍",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "审配",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "田丰",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "许诸",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "张辽",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "荀攸",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "廖承",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "更夫甲",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "更夫乙",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     }
   ],
   "plot_summary": "袁绍大举伐曹，曹操用声东击西之计，在白马、延津袭斩颜良、文丑之后，即退兵官渡，诱敌深入。袁绍不\n听劝阻，亲率大军进屯官渡，又听信谗言，迫害许攸，许攸愤而投曹。曹操利用袁军无备，轻兵偷袭，烧劫\n袁军辎重，歼灭袁军主力。",
@@ -250,7 +261,6 @@
         "众将",
         "众袁将",
         "审配",
-        "小民俱已交租赋",
         "田丰",
         "袁绍",
         "许攸",
@@ -1239,28 +1249,12 @@
       "scene_index": 2,
       "label": "第二场",
       "characters_present": [
-        "一从北来一从南",
-        "一路行来亲眼见",
-        "丞相纵有千般计",
         "中军",
-        "二位将军",
-        "他如今占冀州威福自擅",
-        "低下头来暗盘算",
-        "兴修水利劝农战",
-        "吟风弄月多散懒",
-        "好谋无察少主见",
         "张辽",
-        "我料他罪满盈败灭不远",
         "曹操",
-        "欺压小民人心散",
-        "老夫占地虽然浅",
         "荀攸",
-        "虎牢关失良计董卓逃窜",
-        "袁绍若是来交战",
-        "袁绍败灭期不远",
         "许攸",
         "许褚",
-        "部下豪强有千万",
         "门官"
       ],
       "lines": [

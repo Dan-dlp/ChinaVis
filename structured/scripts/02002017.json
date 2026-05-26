@@ -11,17 +11,20 @@
     {
       "name": "王昭君",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "王龙",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "马夫",
       "role_type": "武生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "汉元帝时，匈奴时常犯边，抵御无人，乃用和番之策，将宫女嫁与单于。王昭君以绝世之姿，因不肯贿赂画\n工毛延寿，致所画王昭君之像，极为丑陋。临行时，元帝召见，始大惊讶，然已挽回乏术矣。",
@@ -75,19 +78,11 @@
       "scene_index": 1,
       "label": "全剧",
       "characters_present": [
-        "一般样的荣华",
-        "也是国母唯",
         "二小番",
-        "今日昭君舍了身",
-        "他那里",
         "兵卒",
-        "却将我红粉去和番",
         "小番甲",
-        "损害黎民",
-        "无端反贼弄朝权",
         "王昭君",
         "王龙",
-        "第三来",
         "马夫"
       ],
       "lines": [

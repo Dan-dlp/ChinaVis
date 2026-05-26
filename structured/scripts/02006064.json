@@ -11,52 +11,62 @@
     {
       "name": "郭子仪",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": "素蓝箭袖，青团龙马挂，荷叶盔，黑三髯，扎靠腿子"
     },
     {
       "name": "李白",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": "学士衣，戴学士盔，黑三髯"
     },
     {
       "name": "史思明",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": "扎白靠，披蟒白，软扎巾，戴蛾子翎尾，白粉脸，黑满髯"
     },
     {
       "name": "向导",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": "穿旧布箭袖，套卒褂，戴将巾，白四喜"
     },
     {
       "name": "织女",
       "role_type": "占旦",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "史将甲",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": "扎靠，戴扎巾盔"
     },
     {
       "name": "史将乙",
       "role_type": "副净",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": "扎靠，戴扎巾盔"
     },
     {
       "name": "史将丙",
       "role_type": "末",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": "扎靠，戴扎巾盔"
     },
     {
       "name": "史将丁",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": "扎靠，戴扎巾盔"
     },
     {
       "name": "马童",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": "箭袖卒挂将巾"
     }
   ],
   "plot_summary": "郭子仪因延误军粮，被戈书翰押解进京，按军情定罪。因李白上殿保本，蒙皇帝不咎既往，并授为衙门副将，\n带领亲军，前往河东听候差遣。起程之日，李白特备酒宴，至长亭饯行。到差之日，正安禄山造反，史思\n明进攻之时，节度使特命郭子仪率领少数精兵，夜登高冈，探看史军动静。郭子仪乃传唤向导，问史营驻扎\n地名，及进攻道路。得悉绕道路远，直道多山。路过红山口，又名天台阶。乃每年七夕织女必经之地，遇有\n造化者，当可与织女讲话。该日正为七夕，郭子仪乃独身前往。及至正心庄，果然天现红光。郭子仪乃下马\n虔心拜祷，织女从云中下降，赐郭子仪贵寿全图。并嘱忠心保国，重整大唐。先拜将，后封王，夫荣妻贵，\n福寿绵长。旋闻鼓鸣马叫，史思明正演阵场。郭子仪一一探明，翌日乃出与史思明讨战。史军大败，弃营逃\n走。",
@@ -720,11 +730,8 @@
       "scene_index": 5,
       "label": "第五场",
       "characters_present": [
-        "将在谋不在勇要随机应变",
-        "怕的是到军中不得差遣",
         "李白",
         "郭子仪",
-        "都只为逆贼辜恩造反",
         "院子"
       ],
       "lines": [

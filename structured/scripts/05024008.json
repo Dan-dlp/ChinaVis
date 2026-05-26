@@ -11,22 +11,26 @@
     {
       "name": "徐母",
       "role_type": "老旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "徐庶",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "曹操",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "程昱",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "曹操迫徐母唤回徐庶未遂，伪造书信把徐庶骗到了许昌，徐母因徐庶弃明投暗，气极自尽。徐庶从此即留在\n曹营了。",
@@ -94,18 +98,9 @@
       "scene_index": 1,
       "label": "第一场",
       "characters_present": [
-        "不是老身贤愚识",
         "丫鬟",
-        "你不肖杀死人埋名隐姓",
-        "你在外二十载杳无音信",
-        "你父亲去世早家门不幸",
         "徐庶",
         "徐母",
-        "我心中学孟母朝夕教训",
-        "是孩儿胸无才错认书信",
-        "离膝下二十载埋名隐姓",
-        "虽则是儿不才胸无学问",
-        "谁知你胸无才真假不认",
         "院子"
       ],
       "lines": [
@@ -708,14 +703,9 @@
       "scene_index": 2,
       "label": "第二场",
       "characters_present": [
-        "你我前去将他问",
-        "元直胸中不可料",
-        "可叹刘备无才调",
         "徐庶",
-        "我今将他来收了",
         "曹操",
         "程昱",
-        "若得元直忠心顺",
         "院子"
       ],
       "lines": [

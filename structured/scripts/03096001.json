@@ -11,27 +11,32 @@
     {
       "name": "赵云",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "刘备",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "张飞",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "公孙瓒",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "典韦",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "曹操攻徐州，徐州牧陶谦求助于刘备。刘备至公孙瓒处借兵，公孙瓒命赵云带兵往救。途中二人共话天下大\n势，各抒己怀。抵徐后，张飞见赵云年轻，颇轻之。赵云战败曹将典韦，张飞始拜服。",
@@ -244,7 +249,6 @@
       "label": "第二场",
       "characters_present": [
         "中军",
-        "久闻你弟兄们宽洪大量",
         "公孙瓒",
         "刘备",
         "四蓝文堂"
@@ -723,10 +727,8 @@
       "label": "第三场",
       "characters_present": [
         "中军",
-        "二人催马往前进",
         "刘备",
         "四龙套",
-        "来至在教场用目观定",
         "赵云",
         "赵云 刘备"
       ],

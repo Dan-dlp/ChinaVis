@@ -13,12 +13,14 @@
     {
       "name": "武则天",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "李显",
       "role_type": "生",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     }
   ],
   "plot_summary": "武则天听奸臣张天佐、张天佑之言，斩薛氏满门，废新君为卢陵王，赶出宫廷，垂帘听政，改为垂拱元年。",
@@ -78,13 +80,11 @@
       "label": "全剧",
       "characters_present": [
         "二太监",
-        "今日奉诏泄母恨",
         "太监",
         "张天佐",
         "张天佑",
         "李显",
         "武则天",
-        "母后吓",
         "韦后"
       ],
       "lines": [

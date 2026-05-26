@@ -11,32 +11,38 @@
     {
       "name": "周瑜",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "张飞",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "诸葛亮",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "赵云",
       "role_type": "武生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "黄忠",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "魏延",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "诸葛亮知周瑜以收川为名，意在夺取荆州，修书付糜竺，假意前往道劳。一面点动人马，四处埋伏。周瑜得\n信，请糜竺转告刘备出城犒军。不意直到南郡城下，不见刘备踪迹。赵云揭破周瑜诡计，出城杀退吴兵。黄\n忠、魏延复迎头截杀。周瑜败走，行至芦花荡，与张飞交战，被打落马下。诸葛亮因周瑜兵败，修书相劝，\n请以联合为重。周瑜读信，自知不久于人世，修本荐鲁肃接替都督职务，连呼：“既生瑜，何生亮！”吐血\n而死。",
@@ -943,12 +949,8 @@
       "scene_index": 4,
       "label": "第四场",
       "characters_present": [
-        "催马提枪南城叫",
         "八马夫",
         "周瑜",
-        "四文堂",
-        "本督大兵今已到",
-        "本督错把计用了",
         "赵云"
       ],
       "lines": [
@@ -1319,16 +1321,8 @@
       "scene_index": 8,
       "label": "第八场",
       "characters_present": [
-        "不是二哥保驾往",
-        "今日来在芦花荡",
-        "你国军师韬略广",
-        "刘结亲俱一样",
         "周瑜",
-        "孙",
-        "张飞",
-        "当年摆下临江会",
-        "披头散发一员将",
-        "看他好像小周郎"
+        "张飞"
       ],
       "lines": [
         {
@@ -1963,11 +1957,8 @@
       "scene_index": 11,
       "label": "第十一场",
       "characters_present": [
-        "一封书信忙写就",
         "下书人",
-        "周都督定下了假途灭虢",
         "张飞",
-        "有山人我这里早已算就",
         "诸葛亮",
         "赵云",
         "魏延",

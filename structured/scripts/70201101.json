@@ -13,17 +13,20 @@
     {
       "name": "赵艳容",
       "role_type": "正旦",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "赵高",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "秦王",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "秦二世胡亥，荒淫暴虐，宠任奸佞赵高，置国事于不顾。赵高有女赵艳容，美而寡。秦二世幸赵府，见之大\n悦，欲纳为后，赵高欣然允之。赵艳容以秦二世淫逸放纵，灭亡可待，执意不从。赵高利禄熏心，再四逼迫。\n有哑婢教赵艳容装疯以难之，赵艳容遂胡言乱语，指天尽地，一似真有神经病若。赵高不得已以女病疯奏\n二世，秦二世不信，迎赵艳容登殿。赵艳容指秦二世大骂。秦二世佯命斩首以惧之。赵艳容痛骂狂笑如故，\n乃放还焉。",
@@ -73,7 +76,6 @@
       "scene_index": 1,
       "label": "第一场",
       "characters_present": [
-        "倘若是有道君皇恩浩荡",
         "秦王",
         "赵艳容",
         "赵高",
@@ -1126,7 +1128,6 @@
       "characters_present": [
         "四朝臣",
         "大太监甲",
-        "我手中有兵刃定决一死战",
         "秦王",
         "赵艳容",
         "赵高"

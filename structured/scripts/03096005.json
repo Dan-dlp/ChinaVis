@@ -11,32 +11,38 @@
     {
       "name": "黄忠",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "关羽",
       "role_type": "红生",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "魏延",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "韩玄",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "刘备",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "诸葛亮",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "关羽奉命攻长沙，守将韩玄命黄忠出战。黄忠落马，关羽释之。黄忠回城后，韩玄命其次日以箭射关羽。黄\n忠感关羽不杀之义，不忍伤其性命，只射盔樱。韩玄疑黄忠有降刘备之意，欲斩之。适魏延解粮回，求赦。\n韩玄不允。魏延杀韩玄，逼黄忠同投刘备。",
@@ -148,10 +154,7 @@
       "label": "第一场",
       "characters_present": [
         "关羽",
-        "吩咐三军把马带",
-        "四绿龙套",
-        "旌旗不住空中摆",
-        "某家出世英名在"
+        "四绿龙套"
       ],
       "lines": [
         {
@@ -321,15 +324,9 @@
       "scene_index": 2,
       "label": "第二场",
       "characters_present": [
-        "你道关羽是好将",
-        "关羽生来是好将",
         "四文堂",
-        "将军去到阵头上",
-        "我今与你一支令",
         "报子",
         "文堂甲",
-        "赵国廉颇七旬上",
-        "过五关曾斩六员将",
         "韩玄",
         "魏延",
         "黄忠"
@@ -1020,19 +1017,9 @@
       "scene_index": 3,
       "label": "第三场",
       "characters_present": [
-        "三请军师诸葛亮",
         "关羽",
-        "四弟子龙不可挡",
         "四绿龙套",
-        "头戴金盔明又亮",
-        "开言有语把话讲",
-        "我弟兄曾破黄巾兵百万",
-        "某三弟翼德猛勇将",
-        "某大哥堂堂帝王相",
-        "要取长沙休妄想",
-        "过五关斩过六员将",
-        "黄忠",
-        "黄忠早把长沙让"
+        "黄忠"
       ],
       "lines": [
         {
@@ -1432,8 +1419,6 @@
       "scene_index": 4,
       "label": "第四场",
       "characters_present": [
-        "人来带过马能行",
-        "你若擒得关羽到",
         "红龙套甲",
         "韩玄",
         "黄忠"
@@ -2240,7 +2225,6 @@
       "scene_index": 7,
       "label": "第七场",
       "characters_present": [
-        "三军与爷往前进",
         "四车夫",
         "魏延"
       ],
@@ -2376,11 +2360,7 @@
       "scene_index": 8,
       "label": "第八场",
       "characters_present": [
-        "他若是执意不罢手",
         "四刀斧手",
-        "开言叫声刀斧手",
-        "箭射盔樱我报他的情谊厚",
-        "误中关羽的拖刀计",
         "魏延",
         "黄忠"
       ],
@@ -2954,12 +2934,7 @@
       "scene_index": 10,
       "label": "第十场",
       "characters_present": [
-        "他若是执意不罢手",
         "四刀斧手",
-        "开言叫声刀斧手",
-        "快将魏延来拿下",
-        "箭射盔樱我报他的情谊厚",
-        "误中关羽的拖刀计",
         "韩玄",
         "魏延",
         "黄忠"

@@ -11,22 +11,26 @@
     {
       "name": "关羽",
       "role_type": "红生",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "鲁肃",
       "role_type": "末",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "周仓",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "关平",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "刘备既得益州，东吴又欲索讨荆州，刘备许以先割三郡，关公不与。鲁肃设宴于临江亭，预设埋伏，邀关公\n赴会，以为要挟之地步。关公坦然不疑，只身而往，只有周仓带刀相随，并不预备军马。饮宴间，关公神色\n自若。鲁肃提起荆州一事，关公力争为汉家土地，不肯让人。佯醉告辞，挟鲁肃以送行。至舟傍，方始释手。\n东吴诸将，惮关公之神威，且恐伤自己主帅，俱匿不敢出，关公遂安然回荆州云。",
@@ -492,13 +496,8 @@
       "characters_present": [
         "众水手",
         "关羽",
-        "叫仓将",
         "周仓",
-        "四水手",
-        "大舟船千百只均靠岸上",
-        "将舟船依靠岸上",
-        "微风起淡云收天晴日朗",
-        "耳边厢又听得人声喧嚷"
+        "四水手"
       ],
       "lines": [
         {
@@ -855,17 +854,9 @@
       "scene_index": 5,
       "label": "第五场",
       "characters_present": [
-        "今日里饮酒在临江亭上",
         "关羽",
-        "叫人来看大杯把酒献上",
-        "吴将",
         "周仓",
-        "周泰",
-        "想当年破黄巾东除西荡",
-        "数十载动干戈未离马上",
         "甘宁",
-        "盖世功劳人人钦仰",
-        "陈武",
         "鲁肃"
       ],
       "lines": [

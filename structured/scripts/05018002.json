@@ -11,32 +11,38 @@
     {
       "name": "海瑞",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "鄢懋卿",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "秦氏",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "顾慥",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "魏应科",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "冯莲芳",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     }
   ],
   "plot_summary": "鄢懋卿闻妻被掠，问樵夫李兴当地是否有响马。李兴答称此地皆良民，惟奸臣鄢某路过，骚扰百姓。鄢懋卿\n啼笑皆非，请李兴领人前往寻觅。顾慥将秦氏抢到家中，草草成亲。后知有误，大惊求恕。秦氏见顾慥富有，\n借机诈银五万两，又为掩人耳目，遂认顾慥为义子。鄢懋卿寻妻不得，使鄢贵告至县衙，顾慥心仍未死，\n亦到县衙诬告汪宏骗财赖婚，冯三元持刀强娶。鄢贵倚势咆哮，海瑞锁之。适冯莲芳因海瑞传讯私设禁地一\n案，前来候审，见鄢贵无礼，掴以耳光。海瑞命二衙赵汴湖将众人带至城隍庙候审。时鄢富已将秦氏觅回，\n鄢懋卿见银，大喜过望，对原委亦不深究。鄢富告知鄢贵被海瑞锁拿，鄢懋卿依秦氏计，使鄢富往见海瑞，\n请薄责鄢贵，但求了事。所有供应，一概豁免。海瑞闻鄢富主仆勒索民财，逼使鄢富供出贪赃数字。然后缚\n之，使沿街自数贪污罪状。",
@@ -224,11 +230,9 @@
       "scene_index": 1,
       "label": "第一场",
       "characters_present": [
-        "众家丁",
         "四丫鬟",
         "四人役",
         "李兴",
-        "步跄踉上土堆举目观望",
         "鄢富",
         "鄢懋卿",
         "鄢贵"
@@ -1006,7 +1010,6 @@
       "characters_present": [
         "丫鬟甲",
         "众庄丁",
-        "这早晚只觉得坐立不稳",
         "院子甲",
         "顾慥",
         "魏应科"

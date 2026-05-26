@@ -11,27 +11,32 @@
     {
       "name": "唐僧",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "百花羞",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "猪悟能",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "沙悟净",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "化身",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "黄袍大仙，即黄袍郎（虎精）将唐僧卷入洞中，拟三日后由外归来，再吃唐僧之肉，暂由小妖看守。小妖等\n告知娘娘百花羞。百花羞甚为诧异。问明情由，始知亦系被黄袍郎卷来者，极为同情。遂言明系宝象国大将\n军柏宪之女，被妖卷来，强逼成婚。遂将唐僧释放，托带信父母，想法营救。并令花香洁亦写信其丈夫闻仁，\n由唐僧一同带去。黄袍郎归后，发现百花羞等将唐僧放出，必托带信其父母，想法营救。于是先发制人，\n变作美俊少年，往谒柏宪，言其女百花羞被伊救出，暂留渠家中。柏宪见黄袍郎少年英俊，且系救女恩人，\n一面令其入赘，一面带令朝见国王，封为都尉。正在庆贺欢宴时，家院报告唐僧带其女儿百花羞之信至。黄\n袍郎大窘，乃用妖法，喷水唐僧身上，使唐僧立时变成猛虎，装入槛中，听候国王命令处决。",
@@ -101,15 +106,10 @@
       "scene_index": 1,
       "label": "第一场",
       "characters_present": [
-        "今日将他来放行",
-        "你若果是真小姐",
-        "前往贵府书寄上",
         "唐僧",
         "四小妖",
-        "大唐差我往西境",
         "百花羞",
-        "花香洁",
-        "若得残躯保全命"
+        "花香洁"
       ],
       "lines": [
         {
@@ -1214,7 +1214,6 @@
       "scene_index": 4,
       "label": "第四场",
       "characters_present": [
-        "书信之上写得明",
         "化身",
         "唐僧",
         "柏宪",

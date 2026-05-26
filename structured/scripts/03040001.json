@@ -13,47 +13,56 @@
     {
       "name": "宋巧姣",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "傅朋",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "孙玉姣",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "赵廉",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "宋国士",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "刘媒婆",
       "role_type": "彩旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "刘彪",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "刘公道",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "傅母",
       "role_type": "老旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     }
   ],
   "plot_summary": "明时，世袭指挥傅朋，母氏遂赠玉镯一对，嘱其自行选配。一日，傅朋出闲游，见孙玉姣门前独坐，互相倾\n慕，因遗玉镯一只，拟定终身。孙玉姣拾镯惊喜。事为刘媒婆撞见，即往诘问。孙玉姣实告，并以绣鞋一只\n央为撮合。刘媒婆旋告其子刘彪。刘彪赚绣鞋，讹诈傅朋，为乃叔刘公道驱走。刘彪对傅朋、刘公道，从此\n怀恨在心。寅夜，刘彪复去赚孙玉姣。适孙玉姣舅父屠申夫妇在室同宿。刘彪疑为傅朋、孙玉姣苟合，举刀\n便杀；将一人头投掷刘公道后园。雇工宋兴儿发现报刘公道。刘公道大骇，为灭口计，遂将宋兴儿与人头同\n填枯井。次晨，孙母报官。县官赵廉，捕审孙玉姣。孙玉姣详供傅朋遗镯事。傅朋因被拘，屈打成招。然尸\n首下落仍无头绪。时刘公道为脫罪责，诬告宋兴儿盗物逃走。赵廉疑与该案有关，即捕宋家父女。虽然当堂\n辩白无辜，但以无钱补偿刘家财物，宋女巧姣终被收监。狱中，傅朋与二姣相见，各言往事。宋巧姣断定凶\n手必为刘彪，并允代为鸣冤。傅朋感其德，乃以另一玉镯相赠；且嘱家人代偿刘家银两。宋巧姣出狱，拜见\n傅母。傅母见镯大喜，收为儿媳。权阉刘瑾往法门寺降香。宋巧姣以探亲为名，雇伴刘媒婆。刘媒婆醉后备\n诉刘彪赚鞋经过。宋巧姣遂往法门寺控吿。刘瑾命赵廉先捕刘彪，后捉刘公道，屠家血案始明，宋子奇冤亦\n雪。孙、宋二姣，均与傅朋完配。",
@@ -336,12 +345,8 @@
       "scene_index": 1,
       "label": "第一场：赐镯",
       "characters_present": [
-        "你父为国中年丧",
         "傅朋",
-        "傅母",
-        "我儿婚事悬心上",
-        "春花秋月尽堪赏",
-        "每日只把雪花赏"
+        "傅母"
       ],
       "lines": [
         {
@@ -632,14 +637,10 @@
       "scene_index": 2,
       "label": "第二场：雇工",
       "characters_present": [
-        "今日月破诸事不利",
-        "今春买卖无毛利",
         "刘公道",
         "宋兴儿",
         "宋国士",
-        "宋巧姣",
-        "心中盘算猜仔细",
-        "朱门豪富谁周济"
+        "宋巧姣"
       ],
       "lines": [
         {

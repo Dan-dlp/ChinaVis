@@ -11,37 +11,44 @@
     {
       "name": "刘世昌",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "张别古",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "赵大",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "包拯",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "刘升",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "赵妻",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "判官",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "刘世昌外地经商，结算帐目后，携仆回家，中途遇雨，借宿于窑户赵大家中。赵大夫妻见财心动，将刘世昌\n主仆谋害，并将二人剁为肉泥，烧制成乌盆。适张别古至赵家索欠债，刘世昌鬼魂向张别古伸诉冤情，张别\n古诉于包拯处，冤乃昭雪。",
@@ -508,11 +515,9 @@
       "scene_index": 3,
       "label": "第三场",
       "characters_present": [
-        "不幸在中途被雨溉",
         "刘世昌",
         "刘升",
         "判官",
-        "到明天自当多谢拜",
         "赵大",
         "赵妻"
       ],
@@ -1557,7 +1562,6 @@
       "scene_index": 4,
       "label": "第四场",
       "characters_present": [
-        "休把我当做了妖魔论",
         "刘世昌",
         "张别古",
         "赵大"

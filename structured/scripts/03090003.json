@@ -11,27 +11,32 @@
     {
       "name": "诸葛亮",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "司马懿",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "马谡",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "曹睿",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "贾诩",
       "role_type": "末",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     }
   ],
   "plot_summary": "魏主曹睿命司马懿镇守雍、凉等处，预防诸葛亮进攻。诸葛亮心忧之，马谡献计：伪造告示，到处张贴；并\n散布流言，扬言司马懿有谋反之意。曹睿果心疑，削司马懿兵权。",
@@ -143,8 +148,7 @@
       "characters_present": [
         "司马懿",
         "曹睿",
-        "贾诩",
-        "金殿之上领孤命"
+        "贾诩"
       ],
       "lines": [
         {
@@ -1709,8 +1713,6 @@
       "label": "第七场",
       "characters_present": [
         "万起",
-        "五虎将倒有那四人丧了命",
-        "余下之辈何足论",
         "司马懿",
         "张郃",
         "张雄",

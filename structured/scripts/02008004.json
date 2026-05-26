@@ -11,57 +11,68 @@
     {
       "name": "刘高",
       "role_type": "武生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "岳文华",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "岳彦珍",
       "role_type": "正生",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "朱义",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "朱彪",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "徐大人",
       "role_type": "正生",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "徐夫人",
       "role_type": "正旦",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "徐玉环",
       "role_type": "小旦",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "徐公子",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "丫鬟",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "黑山虎",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": "注释按此剧与《刘高抢亲》之故事，完全相同，均系出于《五代残唐演义》，特内容穿插不同，彼此重点各异，故一并印存，而剧情从略"
     }
   ],
   "plot_summary": "",
@@ -192,7 +203,6 @@
       "label": "第一场",
       "characters_present": [
         "四梁卒",
-        "四梁将",
         "朱义",
         "朱彪"
       ],
@@ -327,21 +337,14 @@
       "label": "第二场",
       "characters_present": [
         "丫鬟",
-        "后堂快把夫人请",
         "四梁卒",
-        "小姐又要寻自尽",
-        "山中走兽云中雁",
         "徐公子",
         "徐大人",
         "徐夫人",
         "徐玉环",
-        "愧无美味来敬献",
         "朱义",
         "朱彪",
-        "满筵荤素数不尽",
-        "祸到临头无计救",
-        "院子",
-        "高堂哭别双亲去"
+        "院子"
       ],
       "lines": [
         {
@@ -1495,7 +1498,6 @@
       "label": "第三场",
       "characters_present": [
         "四梁卒",
-        "四梁将",
         "朱义",
         "朱彪"
       ],
@@ -2551,9 +2553,7 @@
         "将甲",
         "岳彦珍",
         "岳文华",
-        "左难右难想不到",
-        "报子",
-        "本待开关顺说好"
+        "报子"
       ],
       "lines": [
         {

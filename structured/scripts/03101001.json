@@ -11,22 +11,26 @@
     {
       "name": "关羽",
       "role_type": "红生",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "鲁肃",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "周仓",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "关平",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "鲁肃急索荆州，特命人请关羽过江赴宴，以便劫持。关羽仅携周仓单刀赴会，筵席间历述战功，鲁肃乘隙讨\n还荆州。关羽佯醉，并持刀亲执鲁肃同至江边。东吴诸将，以计不成，未敢轻动。经关平接应，关羽得安然\n返回荆州。",
@@ -538,10 +542,7 @@
       "characters_present": [
         "关羽",
         "周仓",
-        "四水手",
-        "大战船千百只江岸倚傍",
-        "微风起淡云收天晴日朗",
-        "耳边厢又听得人声喧嚷"
+        "四水手"
       ],
       "lines": [
         {
@@ -957,18 +958,10 @@
       "scene_index": 5,
       "label": "第五场",
       "characters_present": [
-        "与大夫对饮在临江亭上",
         "关羽",
-        "叫人来看大杯把酒献上",
         "周仓",
-        "周泰",
         "四水手",
-        "想当年破黄巾东除西荡",
-        "数十载动干戈未离马上",
         "甘宁",
-        "盖世功劳人钦仰",
-        "蒋钦",
-        "陈武",
         "鲁肃"
       ],
       "lines": [

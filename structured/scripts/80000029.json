@@ -11,42 +11,50 @@
     {
       "name": "伍员",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "伍尚",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "费无极",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "伍奢",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "鄢将师",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "武城黑",
       "role_type": "武净",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "家将",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "家院",
       "role_type": "外",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     }
   ],
   "plot_summary": "楚平王听信费无极谗言，囚伍奢，并命伍奢修书召其子伍尚、伍员进京，欲一并杀之。镇守樊城的伍尚、伍\n员见信后，伍员心生疑心，劝伍尚不要前往。伍尚不听，进京见父被抓，与父亲同时遇害。楚平王又命武城\n黑领兵至樊城捉拿伍员。伍员不敌，弃城逃走。",
@@ -130,15 +138,9 @@
       "characters_present": [
         "伍员",
         "伍尚",
-        "外加走“之”书后存",
         "家将",
         "家院",
-        "平王思念临潼会",
-        "昔日里有个文王君",
-        "看罢了书信喜自胜",
-        "鄢将师",
-        "长子伯邑救父命",
-        "长子须要遵父命"
+        "鄢将师"
       ],
       "lines": [
         {
@@ -1340,17 +1342,13 @@
       "scene_index": 3,
       "label": "第三场",
       "characters_present": [
-        "为父奏本反遭害",
         "二校尉",
         "伍奢",
         "伍尚",
-        "儿头上枉把乌纱戴",
         "四校尉",
         "楚平王",
-        "父子们身犯何条罪",
         "费无极",
-        "鄢将师",
-        "金顶轿反把银顶改"
+        "鄢将师"
       ],
       "lines": [
         {

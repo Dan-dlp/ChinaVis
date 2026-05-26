@@ -11,17 +11,20 @@
     {
       "name": "窦太真",
       "role_type": "老旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "李渊",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "李世民",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "窦后思念李世民，日久，抑郁成病，死于望儿楼上。李渊命长子李建成、三子李元吉背窦后尸下楼，均未背\n动。适李世民回朝，背尸下楼。",
@@ -471,24 +474,14 @@
       "scene_index": 3,
       "label": "第三场",
       "characters_present": [
-        "世民儿奉圣旨兵将带定",
-        "内侍与孤传旨诏",
-        "到后来那昏王丧了性命",
-        "到如今妾妃我心中不定",
-        "只恨那洛阳贼打来战本",
-        "哭一声母后将儿抛了",
         "大太监",
-        "想起了陈后主不理朝政",
-        "有建成与元吉不能孝顺",
         "李世",
         "李世民",
         "李元吉",
         "李建成",
         "李淳风",
         "李渊",
-        "杨广贼贪酒色为君不正",
         "窦太真",
-        "若是那世民儿把朝回转",
         "袁天罡"
       ],
       "lines": [

@@ -13,57 +13,68 @@
     {
       "name": "马超",
       "role_type": "武生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "庞德",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "马岱",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "赵月",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "韦康",
       "role_type": "末",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "梁宽",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "赵衢",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "夏侯渊",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "姜叙",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "姜母",
       "role_type": "老旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "姜妻",
       "role_type": "正旦",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     }
   ],
   "plot_summary": "按《三国演义》，马超自渭南兵败入羌，结好羌兵，攻打陇西诸郡，声势甚盛。冀州坚守不下，刺史韦康，\n遣人求救于夏侯渊。夏侯渊未奉曹操示谕，不敢擅动。韦康计穷力尽，商议投降。参军杨阜哭谏不从，遂开\n城迎超。马超以事急请降，决非真心，斩韦康以徇，反重用杨阜。杨阜荐梁宽、赵衢为军官，暗结心腹以图\n马超。乃请假葬妻，乘间至历城姜叙处借兵。姜叙命统兵校尉尹奉、赵昂屯于祁山，以成犄角。马超探得此\n事，令马岱、庞德尽起军马，杀奔历城。姜叙与杨阜出城迎战，尹奉与赵昂率祁山之众，两下夹攻，又有夏\n侯渊领大队军马杀来。马超大败，奔回冀州。忽然乱箭射下，梁宽、赵衢立在城上大骂。将马超妻杨氏，并\n幼子三人，至亲十余口，同时杀死，掷下尸首。马超气愤填胸，几乎落马。后面敌军蜂拥而至，如狂风骤雨\n一般。马超无心恋战，逃窜不遑。路经历城，天有四鼓，昏黑不辨。守门者误认为姜叙回兵，开门迎接。马\n超骤马杀入，尽洗城中百姓，而姜叙、尹奉、赵昂家属遂亦遭屠戮。",
@@ -2394,10 +2405,7 @@
       "scene_index": 13,
       "label": "第十三场",
       "characters_present": [
-        "在西凉人见我谁敢不怕",
         "姜叙",
-        "将人头拴至在马鞍桥下",
-        "我拔出剑来要你妻命",
         "探子",
         "梁宽",
         "赵衢",

@@ -11,22 +11,26 @@
     {
       "name": "薛丁山",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "柳迎春",
       "role_type": "老旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "程咬金",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "薛金莲",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     }
   ],
   "plot_summary": "薛仁贵保驾西征，被困锁阳关。其子薛丁山，前于汾河湾射雁时，被父误伤，为王敖老祖救去，学得全身武\n艺，今已长成，又值父难，遂奉师命下山揭榜，挂帅征西。",
@@ -114,9 +118,6 @@
       "scene_index": 1,
       "label": "第一场",
       "characters_present": [
-        "为师我命猛虎将你救定",
-        "到西番救父命与贼会阵",
-        "汾河湾你射雁把母养奉",
         "王敖",
         "童儿甲",
         "薛丁山"
@@ -710,13 +711,7 @@
       "scene_index": 4,
       "label": "第四场",
       "characters_present": [
-        "习武修文学七载",
-        "多亏师尊将儿带",
-        "揭榜领兵身挂帅",
-        "曾记得汾河湾儿身不在",
         "柳迎春",
-        "母子们乍别离忽又七载",
-        "眼望西番身战震",
         "薛丁山",
         "薛金莲",
         "薛青"
@@ -2200,7 +2195,6 @@
       "label": "第八场",
       "characters_present": [
         "中军",
-        "四上手",
         "四龙套",
         "尉迟青山",
         "罗通",

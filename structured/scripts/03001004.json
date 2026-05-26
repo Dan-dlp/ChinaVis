@@ -11,27 +11,32 @@
     {
       "name": "楚庄王",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "唐狡",
       "role_type": "武生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "襄老",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "许姬",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "先蔑",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "楚庄王平了斗越椒叛乱，在渐台设宴庆功，命许姬敬酒。风吹灯灭，裨将唐狡暗中戏许姬；被许姬摘去盔缨，\n密告楚庄王。楚庄王急命众将，一律摘去盔缨，然后张灯。唐狡心感楚庄王，心存报答。晋国伐楚，唐狡\n请为前锋，被襄老斥责不用。楚庄王阵前落马，危急之中，唐狡奋勇来救，杀退晋兵，得胜受封。",
@@ -1211,13 +1216,9 @@
       "scene_index": 3,
       "label": "第三场",
       "characters_present": [
-        "从此一言宽怀放",
         "大太监",
         "楚庄王",
-        "自悔不该设杯畅",
-        "若是问罪市曹上",
-        "许姬",
-        "霎时天变狂风降"
+        "许姬"
       ],
       "lines": [
         {
@@ -1510,7 +1511,6 @@
         "潘尪",
         "熊负羁",
         "申无畏",
-        "苏从",
         "襄老"
       ],
       "lines": [
@@ -1910,13 +1910,9 @@
       "scene_index": 7,
       "label": "第七场",
       "characters_present": [
-        "交锋岂可论大小",
         "唐狡",
         "四大铠",
-        "小小裨将胡乱道",
-        "年老出令语颠倒",
-        "襄老",
-        "食君粮饷当恩报"
+        "襄老"
       ],
       "lines": [
         {

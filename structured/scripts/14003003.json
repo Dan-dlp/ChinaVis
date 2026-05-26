@@ -11,52 +11,62 @@
     {
       "name": "诸葛亮",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "马谡",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "司马懿",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "王平",
       "role_type": "生",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "赵云",
       "role_type": "生",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "马岱",
       "role_type": "生",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "张郃",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "司马昭",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "老军甲",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "老军乙",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     }
   ],
   "plot_summary": "诸葛亮因为司马懿兵出祁山，料到他定会要夺取街亭。街亭乃是蜀国咽喉之地，必须派一员能将前去驻守。\n参将马谡请令愿去，诸葛亮就再三关照他要十分谨慎，扎营必须要靠山近水，又命王平随伴同去，要他到后\n随即画一地势图形送来。马谡到了街亭，不遵诸葛亮的命令，不听王平的劝谏，竟将营扎在山上，果然被司\n马懿的手下张郃杀得大败。街亭失守，马谡、王平只逃得性命出来。司马懿乘胜一直攻到西城。幸而诸葛亮\n早得了王平的报告和图形，晓得街亭必会失守，连忙差人去调回赵云。但是探子接连报告司马懿的兵已近逼\n西城。这时西城只剩些老弱的兵士在守着，诸葛亮急得什么似的。后来想想只有冒险行一条空城计。索性将\n四门大开，命老军在城外打扫街道，说是好迎接司马懿进城；自己带了琴童两个坐在城楼上抚琴，装做很安\n闲的样子。司马懿一到看了这种情形，生怕城内有了埋伏，竟不敢冒险进城，反命退兵四十里。这时赵云的\n救兵已到西城，总算脱险。于是诸葛亮升帐，将王平责打四十军棍，马谡违令斩首示众。诸葛亮自己因为用\n人不慎也有过失，就请后主将他的官爵武乡侯贬掉，以示忏悔。",
@@ -189,9 +199,7 @@
       "label": "第一场",
       "characters_present": [
         "四侍卫",
-        "此一番领兵去镇守",
         "王平",
-        "管带三军要宽厚",
         "诸葛亮",
         "赵云",
         "马岱",
@@ -2322,19 +2330,11 @@
       "label": "第十二场",
       "characters_present": [
         "二老军",
-        "你我在渭南会一阵",
-        "先帝爷下南阳御驾三请",
-        "勒住丝缰把话论",
         "司马懿",
-        "周文王访姜尚周室大振",
-        "哪一个大胆把城进",
         "四魏兵",
-        "官封到武乡侯执掌帅印",
-        "左右琴童人两个",
         "老军乙",
         "老军甲",
-        "诸葛亮",
-        "闲无事在敌楼我亮一亮琴音"
+        "诸葛亮"
       ],
       "lines": [
         {

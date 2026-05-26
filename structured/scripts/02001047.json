@@ -11,27 +11,32 @@
     {
       "name": "海潮",
       "role_type": "外",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "毛蕡",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "王翦",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "清风",
       "role_type": "童",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "明月",
       "role_type": "童",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     }
   ],
   "plot_summary": "此剧系出列国，秦始皇遣王翦并吞六国之时，从妖道毛蕡助王翦攻齐起，其大概为孙膑侄为毛蕡所败，孙膑\n亲自出阵杀退毛蕡，不意被毛蕡败回作法，设下五雷阵，将孙膑魂摄入，将殛死之。幸孙膑道数高，真元不\n动，卒破毛蕡阵，用鬼谷师所遗太极图击死毛蕡云。",
@@ -215,18 +220,10 @@
       "scene_index": 2,
       "label": "第二场",
       "characters_present": [
-        "你若是破孙膑早早回转",
-        "兵行至燕国中身临大难",
-        "叩求我遣能人将他扶助",
-        "小孙燕本是那青龙一转",
         "明月",
         "明月童儿",
-        "此一去带法宝将他扶助",
         "毛蕡",
-        "海潮",
-        "清风",
-        "观罢了信香烟进洞打坐",
-        "那孙膑不该把天台山下"
+        "海潮"
       ],
       "lines": [
         {

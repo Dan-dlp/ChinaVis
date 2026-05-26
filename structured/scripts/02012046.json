@@ -13,32 +13,38 @@
     {
       "name": "何玉凤",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "安骥",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "纪多文",
       "role_type": "武生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "安学海",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "邓九公",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "佟夫人",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     }
   ],
   "plot_summary": "安骥应试得中探花，举家欢幸。旋又被派为山东学政，正拟上任，忽闻纪多文勾结关外番王，为其父报仇，\n业已攻近关口。何玉凤得知，遂请安骥代为呈请皇帝、派令带兵迎剿，以报父仇。皇帝允准后，何玉凤乃求\n邓九公一同前往。又海马周三等改邪归正，投效官军，迭奏功勋，累升至川陝五路总兵官，奉命迎战纪多文，\n均未成功。何玉凤到后，遂将纪多文生擒。何玉凤之杀父冤仇，终得报复云。",
@@ -168,8 +174,6 @@
       "label": "第一场",
       "characters_present": [
         "中军",
-        "四下手",
-        "四大铠",
         "四王子",
         "纪多文"
       ],
@@ -1157,9 +1161,7 @@
       "scene_index": 4,
       "label": "第四场",
       "characters_present": [
-        "四小番",
         "四王子",
-        "四番将",
         "安学海",
         "纪多文"
       ],
@@ -1576,11 +1578,8 @@
       "label": "第六场",
       "characters_present": [
         "佟夫人",
-        "地苦天寒儿忍耐",
         "安学海",
-        "安骥",
-        "报效三年并五载",
-        "此番去到边疆外"
+        "安骥"
       ],
       "lines": [
         {

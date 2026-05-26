@@ -11,42 +11,50 @@
     {
       "name": "秦琼",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "杨林",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "王周",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "程咬金",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "史大奈",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "徐勣",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "单雄信",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "尤俊达",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "隋末，山东绿林英雄程咬金、尤俊达等劫夺皇杠，被靠山王杨林擒获，发交历城监禁。历城捕快秦琼与程咬\n金等为结拜弟兄，乃设计劫牢反狱，将他们救出来。程咬金等遂赴瓦岗寨聚义。杨林得悉，命部将王周（原\n名罗周）赴历城，提解秦琼到登州审讯。程咬金等闻讯，亦派史大奈暗地防护，相机解救。秦琼起解途中，\n宿于三家店，因受刑感叹，道出罗成，王周才知道他和自己有亲戚关系。适史大奈也赶到此处，三人乃计议\n约合瓦岗寨的弟兄们，于八月十五齐集登州起事，救出秦琼。史大奈带信回山，程咬金等遂化装混入登州。\n在八月十五那天，杨林提出秦琼，命他在校场演武，拟在演武之后，当众击毙，以便扬名立威。这时瓦岗寨\n的英雄们，已埋伏在校场附近，一齐杀出，打败杨林，救出秦琼，同返山寨。",
@@ -675,7 +683,6 @@
       "label": "第三场",
       "characters_present": [
         "樊虎",
-        "此事教人难意料",
         "秦妻",
         "秦母"
       ],
@@ -982,11 +989,9 @@
       "scene_index": 4,
       "label": "第四场",
       "characters_present": [
-        "不想灾祸从天降",
         "秦妻",
         "秦母",
-        "秦琼",
-        "老娘亲休将儿盼望"
+        "秦琼"
       ],
       "lines": [
         {
@@ -1411,17 +1416,13 @@
       "scene_index": 6,
       "label": "第六场",
       "characters_present": [
-        "不想灾祸从天降",
         "史大奈",
         "店家",
         "樊虎",
         "王周",
-        "眼看日落西山后",
         "秦妻",
         "秦母",
         "秦琼",
-        "老娘亲休将儿盼望",
-        "走向前来将他问",
         "连明"
       ],
       "lines": [

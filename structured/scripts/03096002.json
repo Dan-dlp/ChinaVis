@@ -11,22 +11,26 @@
     {
       "name": "诸葛亮",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "孙权",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "鲁肃",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "周瑜",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "曹操得荆、襄后，乘势下江东，攻孙权。东吴文官主降，武将主战，孙权不能决。鲁肃到江夏请来诸葛亮。\n诸葛亮以说词驳倒张昭等文官，并列举敌我形势，劝孙权抗曹。孙权意决，乃联合刘备，共拒曹兵。",
@@ -372,9 +376,7 @@
       "scene_index": 2,
       "label": "第二场",
       "characters_present": [
-        "周瑜",
-        "四大铠",
-        "四龙套"
+        "周瑜"
       ],
       "lines": [
         {
@@ -461,17 +463,12 @@
       "characters_present": [
         "严畯",
         "乐无虚谎",
-        "因此当阳败了阵",
         "张昭",
-        "旷野荒郊哭声震",
         "步骘",
-        "自古兵家无常胜",
-        "自比管",
         "薛综",
         "虞翻",
         "诸葛亮",
         "陆绩",
-        "难民倒有数十万",
         "鲁肃"
       ],
       "lines": [
@@ -1351,8 +1348,6 @@
       "label": "第四场",
       "characters_present": [
         "周瑜",
-        "四大铠",
-        "四龙套",
         "孙权",
         "鲁肃"
       ],

@@ -11,22 +11,26 @@
     {
       "name": "梅花娘",
       "role_type": "花旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "朱母",
       "role_type": "老旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "朱小姐",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "梅公子",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "按剧中事迹，乃一朱氏女，本名门闺秀，姿首幽娴，忽为强梁花光讹诈，欲强配成婚。母女二人，伶仃孤苦，\n无计可施。忽夜间一女盗自屋上跳入，说明来由，将彼母女救出，寄至伊兄家中安顿。己则代其遣嫁，交\n拜成婚，至夜间将花灌醉，设法逃出。卒能将朱氏母女保全他往，未被奸占，是亦旧时说部中，一段好关目\n也。",
@@ -209,8 +213,7 @@
         "朱院",
         "梁上君",
         "梅花娘",
-        "花院",
-        "迈动金莲摆几摆"
+        "花院"
       ],
       "lines": [
         {
@@ -884,7 +887,6 @@
       "scene_index": 3,
       "label": "第三场",
       "characters_present": [
-        "一霎时浑身软眉头锁紧",
         "众人",
         "四下手",
         "梅花娘",

@@ -13,47 +13,56 @@
     {
       "name": "关羽",
       "role_type": "红生",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "曹操",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "诸葛亮",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "刘备",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "张飞",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "赵云",
       "role_type": "武生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "关平",
       "role_type": "武生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "周仓",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "曹仁",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "赤壁之战，大破曹兵。曹操率领十八骑败走华容，与关羽相遇，曹操苦苦哀求，并以往日恩惠打动关羽。关\n羽竟然释放曹操。回营交令，为诸葛亮、张飞所责，方悔自己的错误行为。刘备讲情，命关羽攻取襄阳，将\n功赎罪。",
@@ -742,7 +751,6 @@
       "label": "第二场",
       "characters_present": [
         "五曹将",
-        "张辽",
         "曹操",
         "赵云"
       ],

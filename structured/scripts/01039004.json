@@ -13,37 +13,44 @@
     {
       "name": "佘太君",
       "role_type": "老旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "宋仁宗",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "杨排风",
       "role_type": "占旦",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "包拯",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "岳士奎",
       "role_type": "末",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "呼天保",
       "role_type": "付",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "恩孟",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     }
   ],
   "plot_summary": "《太君辞朝》为宋朝杨家将事实。按剧情所载，系出仁宗时代，黄花国造反。时杨家三代，俱已丧亡，只余\n太君、穆桂英、杨排风诸老妇，及曾孙杨藩一人而已。朝廷仍命杨家出征。佘太君既平定黄花回朝，自念全\n家三代，均为国亡身，人口凋零已极，设日后再有战征，命吾家出征，万一杨藩有伤，恐一脉宗嗣，从此断\n绝，因修下辞表，上朝告老。宋仁宗初时不准，续念其合家除小孙杨藩外，余俱年老，确系真情，遂许之。\n次日，即率同文武，至长亭饯送。",
@@ -135,7 +142,6 @@
       "label": "第一场",
       "characters_present": [
         "佘太君",
-        "排风",
         "杨排风"
       ],
       "lines": [
@@ -339,32 +345,13 @@
       "scene_index": 2,
       "label": "第二场",
       "characters_present": [
-        "万岁爷今准了臣妾本表",
-        "三郎儿马踏死如泥酱透",
-        "五郎儿看破了红尘之路",
         "佘太君",
-        "佘氏女在金殿忙忙跪了",
-        "六郎儿英雄将下场无有",
         "包拯",
-        "只有那小杨藩年纪幼小",
-        "可恨那潘洪贼心怀绝后",
         "呼天保",
         "大太监甲",
-        "大郎儿替宋主忠心尽了",
         "宋仁宗",
-        "宋天子待杨家恩比天厚",
         "岳士奎",
-        "左千思右万想无计意论",
-        "恩孟",
-        "我夫君居住了池州山后",
-        "我杨家英雄将俱皆伤了",
-        "望太后还需要三思主意",
-        "杨排风她今年七十多了",
-        "穆桂英生的来年纪老了",
-        "老太君今日里告职归里",
-        "臣妾的迈年人无有用了",
-        "萧天佐领番兵与主争斗",
-        "这两边文武臣俱把泪含"
+        "恩孟"
       ],
       "lines": [
         {
@@ -1479,15 +1466,11 @@
         "佘太君",
         "包拯",
         "呼天保",
-        "四小军",
         "宋仁宗",
         "岳士奎",
         "恩孟",
-        "来",
-        "来在长亭下车轮",
         "杨藩",
-        "穆桂英",
-        "难舍汴京花美景"
+        "穆桂英"
       ],
       "lines": [
         {

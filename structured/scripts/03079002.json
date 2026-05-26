@@ -11,62 +11,74 @@
     {
       "name": "苏武",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "胡阿云",
       "role_type": "青衣",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "卫律",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "李陵",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "傅介子",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "彭殷",
       "role_type": "武生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "刘彻",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "公孙敖",
       "role_type": "武生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "单于",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "壶衍鞮",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "胡克丹",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "巴达赫",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "汉武帝时，匈奴侵扰，汉武帝使苏武往议和。单于劝苏武降，苏武不从，被逐北海岸牧羊，十有余载，受尽\n艰辛，终不屈降。单于无奈，又以大都尉胡克丹之女胡阿云嫁苏武，亦无所动。后汉武帝发兵攻匈奴，单于\n兵败，遣苏武归汉。因不允胡阿云与苏武同行，胡阿云遂自杀。",
@@ -526,7 +538,6 @@
       "scene_index": 2,
       "label": "第二场",
       "characters_present": [
-        "四下手",
         "四番兵",
         "彭殷",
         "报子",
@@ -2032,7 +2043,6 @@
         "四小番",
         "小番甲",
         "常惠",
-        "心中言语安排好",
         "苏武"
       ],
       "lines": [

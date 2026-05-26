@@ -11,72 +11,86 @@
     {
       "name": "胜英",
       "role_type": "武老生",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": "大白满，戴杏黄鸭尾巾，杏黄英雄衣，彩裤方靴，杏黄花褶子；又白鸭尾巾、白英雄衣、白花褶子亦可"
     },
     {
       "name": "韩秀",
       "role_type": "武小生",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": "软扎巾，蛾子翎尾，箭袖，开氅，花褶子，彩裤，方靴"
     },
     {
       "name": "秦尤",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": "绿大三块花脸，两边红眉子正中粉红元，光大嘴，红耳毛，绿缎软扎巾，红垂鬓，绿英雄衣，彩裤，绿花褶子，粉红火雁"
     },
     {
       "name": "李刚",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": "紫花脸，紫鸭尾巾，紫严袖，紫花褶，苍满髯"
     },
     {
       "name": "张大川",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "黄三泰",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": "粉红三块花脸，粉红罗帽，粉红英雄衣，粉红花褶子，黄蛮带"
     },
     {
       "name": "贺照雄",
       "role_type": "武生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "武万年",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": "黑紫脸，黑罗帽，黑耳毛，黑英雄衣，黑花褶"
     },
     {
       "name": "濮大勇",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": "黄花脸，黄罗帽，英雄衣，花褶，红耳毛"
     },
     {
       "name": "杨香武",
       "role_type": "武丑",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": "青蚂蚁巾，青衣裤"
     },
     {
       "name": "崔通",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": "紫脸，紫罗帽，紫英雄衣，紫花褶，黑耳毛"
     },
     {
       "name": "展士雄",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": "蓝脸，蓝罗帽，蓝箭袖，蓝花褶，红耳毛垂鬓"
     },
     {
       "name": "张氏",
       "role_type": "武旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "刘氏",
       "role_type": "武旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     }
   ],
   "plot_summary": "绿林豪侠韩秀，自号桃花郎，招集江湖亡命，占据莲花湖，独霸一方。其部下头目，在酒肆中，与胜家寨老\n英雄胜英部下，一言不合，拔刀猛斗。胜英部下受伤，回见胜英，诉明情由，恳求报复。胜英素重韩秀名，\n久欲罗致门下，以资臂助。适韩秀下帖相招，请胜英一较优劣。胜英允其请，即率部下渡湖，直抵韩秀处。\n韩秀置酒款待，胜英力赞韩秀英勇盖世，劝其归附，以免自相残杀。韩秀请校艺以定从违，胜英许之。乃胜\n英部下俱为韩秀所败，时胜英年虽老，尚精神矍铄，至是遂投袂而起，下席亲与韩秀角，卒仆韩秀于地。韩\n秀遂降服，且拜胜英为师云。",
@@ -297,10 +311,8 @@
       "scene_index": 1,
       "label": "第一场",
       "characters_present": [
-        "刘氏",
         "展士雄",
         "崔通",
-        "张氏",
         "秦尤",
         "院子"
       ],
@@ -1788,7 +1800,6 @@
       "characters_present": [
         "喽啰",
         "四下手",
-        "四英雄",
         "展士雄",
         "崔通",
         "秦尤",

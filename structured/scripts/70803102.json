@@ -11,32 +11,38 @@
     {
       "name": "张定边",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "华云龙",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "陈友谅",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "胡兰",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "刘伯温",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "徐达",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "北汉王陈友谅与吴王张士诚结为姻好，约分兵夹攻金陵朱元璋，陈友谅遣大将胡兰往姑苏迎亲，为刘伯温设\n伏擒获张士诚之子张仁，劝降胡兰，另命大将华云龙冒充张仁赴陈友谅处诈亲。北汉元帅张定边识破乔妆，\n向陈友谅苦劝不听，反被罢职。陈友谅引兵袭金陵，在玉山中伏，全军尽没，华云龙反戈追击，幸张定边假\n扮渔翁，在九江口驾舟接应，陈友谅方得脱险。",
@@ -753,12 +759,10 @@
       "scene_index": 2,
       "label": "第二场",
       "characters_present": [
-        "三日之后去北汉",
         "军士甲",
         "刘伯温",
         "华云龙",
         "四军士",
-        "常遇春",
         "张仁",
         "徐达",
         "朱元璋",

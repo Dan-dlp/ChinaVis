@@ -11,72 +11,86 @@
     {
       "name": "关羽",
       "role_type": "红生",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "马童",
       "role_type": "武生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "廖化",
       "role_type": "生",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "胡华",
       "role_type": "生",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "孔秀",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "韩福",
       "role_type": "生",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "孟坦",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "卞喜",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "普净",
       "role_type": "生",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "王植",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "胡班",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "秦琪",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "孙夫人",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "糜夫人",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     }
   ],
   "plot_summary": "关羽一行，离开许昌，一路经过东岭、洛阳、沂水、荥阳、黄河渡口等五处关隘，先后斩了孔秀、孟坦、韩\n福、卞喜、王植、秦琪六员曹将。",
@@ -364,9 +378,7 @@
       "characters_present": [
         "喽兵",
         "廖化",
-        "杜远",
-        "甘夫人",
-        "糜夫人"
+        "杜远"
       ],
       "lines": [
         {
@@ -571,8 +583,6 @@
       "characters_present": [
         "关羽",
         "廖化",
-        "甘夫人",
-        "糜夫人",
         "马童"
       ],
       "lines": [
@@ -1285,7 +1295,6 @@
       "label": "第六场",
       "characters_present": [
         "关羽",
-        "勒住丝缰用目望",
         "孔秀"
       ],
       "lines": [

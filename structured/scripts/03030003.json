@@ -11,37 +11,44 @@
     {
       "name": "萧太后",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "杨延辉",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "青莲公主",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "碧莲公主",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "佘太君",
       "role_type": "老旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "孟金榜",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "蔡秀英",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     }
   ],
   "plot_summary": "萧太后知令箭被杨延顺带过宋营，欲将青莲公主斩首，铁莲、碧莲二公主上前求情，方准戴罪立功。青莲、\n碧莲同至宋营搦战，企图伺机将杨延顺擒回。佘太君知青莲、碧莲公主皆为子媳之辈，遂命蔡秀英、孟金榜\n迎敌，并嘱其不准伤害青莲、碧莲。双方交兵，二公主中绊马索均被擒。",
@@ -200,12 +207,10 @@
       "scene_index": 1,
       "label": "第一场",
       "characters_present": [
-        "任他是汉武侯能摆八阵",
         "四番兵",
         "张猛",
         "报子",
         "耶律休哥",
-        "论英武凭谋略胜似韩信",
         "谢苗",
         "韩昌"
       ],
@@ -685,7 +690,6 @@
       "label": "第二场",
       "characters_present": [
         "大太监",
-        "春风未到芙蓉帐",
         "杨延辉",
         "碧莲公主"
       ],
@@ -1107,17 +1111,11 @@
       "scene_index": 3,
       "label": "第三场",
       "characters_present": [
-        "你父沙滩把命丧",
-        "哀告母后龙恩放",
         "四番兵",
         "四番将",
-        "太后宣我把殿上",
         "报子",
-        "曾把甜言蜜语讲",
         "碧莲",
         "碧莲公主",
-        "自古一令传千将",
-        "舌似青锋难言讲",
         "萧太后",
         "铁莲公主",
         "青莲公主",

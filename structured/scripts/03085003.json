@@ -11,42 +11,50 @@
     {
       "name": "关羽",
       "role_type": "红生",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "张飞",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "刘备",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "诸葛亮",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "刘琦",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "曹操",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "许褚",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "张辽",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "赵云突围，交阿斗于刘备，刘备掷地以慰赵云。时曹操领兵追至，幸得关羽搬来刘琦之兵抵御，终得脱险。",
@@ -744,11 +752,8 @@
       "scene_index": 2,
       "label": "第二场",
       "characters_present": [
-        "乐进",
-        "夏侯惇",
         "夏侯渊",
         "张辽",
-        "张郃",
         "曹仁",
         "曹操",
         "李典",
@@ -1382,13 +1387,7 @@
       "label": "第三场",
       "characters_present": [
         "刘备",
-        "到此地真所谓行险侥幸",
-        "在安喜鞭督邮弃了印信",
-        "失徐州投河北袁绍不信",
-        "好容易得新野稍微安顿",
         "张飞",
-        "收吕布却反被吕布兼并",
-        "是这般爱将意德匹尧舜",
         "甘夫人",
         "简雍",
         "糜竺",

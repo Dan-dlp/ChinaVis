@@ -11,27 +11,32 @@
     {
       "name": "薛刚",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "薛丁山",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "樊梨花",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "程咬金",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "薛德水",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     }
   ],
   "plot_summary": "薛丁山平西回朝，因三子薛刚性情暴烈，命随次子薛猛同镇阳河，不使入都。樊梨花思子，遂于薛丁山寿期\n召回。程咬金受九锡，薛刚往贺，闻奸相张天佑强占民女，大怒，因与程咬金孙程飞虎等寻打张天佑。张天\n佑为报仇，密约张天佐，为群雄撞见，亦被痛殴。唐王闻奏，欲斩薛刚，经程咬金谏阻，始赦。元宵节，薛\n刚酒醉，大闹花灯，打死皇太子。幸得卧龙山纪鸾英相助，得出都城，并与纪鸾英婚配。薛氏全家被斩，葬\n铁丘坟。薛刚闻讯痛极，前往祭扫，聚兵卧龙山。",
@@ -425,7 +430,6 @@
         "薛刚",
         "薛德水",
         "薛猛",
-        "要叫我不吃酒怎能忍受",
         "马氏"
       ],
       "lines": [
@@ -1461,10 +1465,8 @@
       "scene_index": 3,
       "label": "第三场",
       "characters_present": [
-        "四文官",
         "四武官",
         "家院",
-        "将身忙把寿堂上",
         "张天佐",
         "张天佑",
         "樊梨花",

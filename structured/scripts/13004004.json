@@ -11,17 +11,20 @@
     {
       "name": "孙悟空",
       "role_type": "武生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "李天王",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "老君",
       "role_type": "外",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     }
   ],
   "plot_summary": "孙悟空搅乱蟠桃会，玉帝怒，遣李天王率十万神兵往擒孙悟空，孙悟空被擒。",
@@ -109,23 +112,14 @@
       "scene_index": 1,
       "label": "全剧",
       "characters_present": [
-        "丧门星",
         "二郎神",
         "刘天君",
-        "吊客星",
         "哪吒",
-        "四上手",
-        "四下手",
-        "四大铠",
-        "四文堂",
         "孙悟空",
         "巨灵神",
-        "月孛星",
         "李天王",
         "温天君",
-        "罗睺星",
         "老君",
-        "计都星",
         "赵天君",
         "马天君"
       ],

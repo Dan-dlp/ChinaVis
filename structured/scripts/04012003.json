@@ -11,27 +11,32 @@
     {
       "name": "杨排风",
       "role_type": "武旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "孟良",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "焦赞",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "杨延昭",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "佘太君",
       "role_type": "老旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     }
   ],
   "plot_summary": "杨排风是天波府中一个烧火的小丫鬟，她有一身本领，但始终未得到机会显露身手。当杨宗保被辽邦韩昌掳\n去，杨延昭派孟良到天波府搬兵求救的时候，杨排风应声而出，愿去大战韩昌。孟良很轻视她，二人动手比\n武，结果杨排风打败了孟良，二人同到三关去见杨延昭。焦赞见孟良搬来了杨排风，不知底细，心中同样不\n服；比试之后，才肯低头服输。杨延昭遂出兵，杨排风打败了韩昌，终将杨宗保救回。",
@@ -206,10 +211,7 @@
       "scene_index": 2,
       "label": "第二场",
       "characters_present": [
-        "为救少爷把阵上",
-        "何人前来把令讨",
         "佘太君",
-        "听得二爷来调将",
         "孟良",
         "杨排风",
         "杨洪"

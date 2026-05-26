@@ -11,52 +11,62 @@
     {
       "name": "姚期",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "刘秀",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "马武",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "郭妃",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "姚刚",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "姚能",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "郭荣",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "姚母",
       "role_type": "老旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "岑彭",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "杜茂",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "刘秀在位时，姚期镇守草桥关。刘秀命马武等替回姚期，谓是思念功臣。姚府门前竖有皇封碑文：文官下轿，\n武将离鞍。独国丈郭荣不遵。姚期之子姚刚出而辩理。郭荣倚权仗势，抖弄威风。姚刚大怒，顺手用太湖\n石将郭荣砸死。姚期闻讯，绑全家上殿请罪。值刘秀酒醉，郭妃为报父仇，私传圣旨，限时处斩姚氏满门。\n幸值马武因牛邈攻打草桥回朝搬兵，闯宫保奏，威逼刘秀发下赦旨，姚期父子始得戴罪出征。",
@@ -215,7 +225,6 @@
         "大太监",
         "岑彭",
         "杜茂",
-        "这才是食君禄哪得安静",
         "郭荣",
         "马武"
       ],
@@ -732,8 +741,6 @@
       "label": "第三场",
       "characters_present": [
         "中军",
-        "四大铠",
-        "四文堂",
         "姚期"
       ],
       "lines": [
@@ -1241,8 +1248,7 @@
         "姚刚",
         "姚期",
         "姚母",
-        "姚能",
-        "我一门食君禄当把忠尽"
+        "姚能"
       ],
       "lines": [
         {
@@ -1590,7 +1596,6 @@
         "姚能",
         "岑彭",
         "杜茂",
-        "长亭饯别拱拱手",
         "马武"
       ],
       "lines": [
@@ -1901,9 +1906,6 @@
         "刘秀",
         "大太监",
         "姚期",
-        "孤王我起白水兴兵振奋",
-        "干戈宁靖民安定",
-        "忙转过万花厅太和殿上",
         "郭妃"
       ],
       "lines": [
@@ -2437,8 +2439,6 @@
       "scene_index": 9,
       "label": "第九场",
       "characters_present": [
-        "四下手",
-        "四番将",
         "报子",
         "牛邈",
         "袁起豹"

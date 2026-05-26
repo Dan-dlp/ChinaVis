@@ -14,27 +14,32 @@
     {
       "name": "寇准",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "潘洪",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "赵德芳",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "马牌子",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "夫人",
       "role_type": "正旦",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     }
   ],
   "plot_summary": "杨继业碰碑后，杨延昭进京告御状。金牌宣召寇准刻日进京，审问潘、杨二家之事。寇准本一县令，抵京后，\n潘妃贿以金帛。寇准直告八贤王，八贤王嘱以暂领贿金，留作证据。审问时潘洪欺寇准官卑职小，傲不为\n礼。寇准请过圣旨，潘洪始下跪。然口供一昧狡赖。",
@@ -121,7 +126,6 @@
       "scene_index": 1,
       "label": "第一场",
       "characters_present": [
-        "但愿老爷早到京",
         "四青袍",
         "夫人",
         "家院",
@@ -568,18 +572,10 @@
       "scene_index": 2,
       "label": "第二场",
       "characters_present": [
-        "东华门乃是文官走",
-        "倘若是太夫人来问你",
-        "回家去与老爷送上一信",
         "太监",
         "宋王",
         "家院",
         "寇准",
-        "撩袍端带御街进",
-        "是是是来明白了",
-        "有寇准也打从东华门进",
-        "有志何在官大小",
-        "若是夫人来问你",
         "赵德芳",
         "马牌子",
         "驿丞官"

@@ -13,27 +13,32 @@
     {
       "name": "孙悟空",
       "role_type": "武生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "娥叉女",
       "role_type": "花旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "牛马王",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "假牛马王",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "员外",
       "role_type": "末",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     }
   ],
   "plot_summary": "按《西游记》载，唐僧师徒四人，奉唐王命，往西天竺国拜佛求经。一路之上，备经许多魔难。行至火焰山，\n烟焰冲天，不能渡越，探得有一芭蕉洞，中有芭蕉扇一柄，可以煽熄火焰。洞主娥叉女，乃牛马王之姘妇。\n孙悟空本亦相识，遂往借扇。惟孙悟空当年，曾将牛马王之红孩儿打败，因有宿怨，是以牛马王虽不在洞\n中，娥叉女亦不允。及至用强，则娥叉女用计，借一假扇与孙悟空。孙悟空不察，竟大吃其苦，反烧得焦头\n烂额。乃再往白云洞，找寻牛马王，当面商借。讵牛马王更不允，与之力战，又不能战胜。孙悟空乃假变牛\n马王形状，到白云洞赚得真扇，不意半路中，亦为牛马王假变猪八戒形状而赚去。中间情节，颇甚发噱。幸\n赖托塔天王用神力相助，方始到手。盖纯为神怪小说中之戏剧也。",
@@ -150,12 +155,9 @@
       "scene_index": 1,
       "label": "第一场",
       "characters_present": [
-        "一路上过些奇峰怪岭",
         "员外",
         "唐僧",
         "孙悟空",
-        "沙僧",
-        "猪八戒",
         "院子"
       ],
       "lines": [
@@ -2352,7 +2354,6 @@
       "scene_index": 12,
       "label": "第十二场",
       "characters_present": [
-        "我若不念结拜义",
         "牛马王",
         "玉面仙姑"
       ],
@@ -2462,8 +2463,7 @@
         "假牛马王",
         "大女妖甲",
         "娥叉女",
-        "小妖",
-        "正行走来用目看"
+        "小妖"
       ],
       "lines": [
         {

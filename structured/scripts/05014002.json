@@ -11,17 +11,20 @@
     {
       "name": "刘备",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "孙权",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "赵云",
       "role_type": "武生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "刘备至东吴招亲，在山上见顽石，暗中卜祝：重回荆州，剑劈石为两半。孙权见之，亦砍石自占。刘备见吴\n驾舟妇女，讥孙权不善驰马，孙权跃马示威，刘备亦乘马与较，二人互斗，刘备不敌，赵云赶至，败孙权而\n救刘备，劝刘备以后无事不可出宫。",
@@ -481,7 +484,6 @@
       "scene_index": 3,
       "label": "第三场",
       "characters_present": [
-        "众将",
         "刘备",
         "四下手",
         "孙权",

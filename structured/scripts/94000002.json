@@ -11,142 +11,170 @@
     {
       "name": "海瑞",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": "挂黑三"
     },
     {
       "name": "何以尚",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": "挂黑三"
     },
     {
       "name": "海夫人",
       "role_type": "正旦",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "徐阶",
       "role_type": "老末",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": "挂白三"
     },
     {
       "name": "嘉靖",
       "role_type": "老外",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": "挂苍满"
     },
     {
       "name": "王金",
       "role_type": "小丑",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "申世恩",
       "role_type": "小丑",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "高守中",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "顾造",
       "role_type": "小丑",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "冯保",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "黄锦",
       "role_type": "小丑",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "梁材",
       "role_type": "大面",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": "挂黑满"
     },
     {
       "name": "李春芳",
       "role_type": "小丑",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": "挂白吊搭"
     },
     {
       "name": "高拱",
       "role_type": "大面",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": "挂苍满"
     },
     {
       "name": "张居正",
       "role_type": "生",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": "挂黑"
     },
     {
       "name": "杨博",
       "role_type": "生",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": "挂苍三"
     },
     {
       "name": "赵贞吉",
       "role_type": "生",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": "挂白三"
     },
     {
       "name": "王大任",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "高仪",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "海安",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "长吉",
       "role_type": "小丑",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "提牢主事",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": "挂黑满"
     },
     {
       "name": "老狱吏",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": "挂白四喜"
     },
     {
       "name": "老院公",
       "role_type": "生",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": "挂白满"
     },
     {
       "name": "院子",
       "role_type": "生",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": "挂黑三"
     },
     {
       "name": "施象清",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": "挂白三"
     },
     {
       "name": "倪树庆",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "施任氏",
       "role_type": "老旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     }
   ],
   "plot_summary": "明嘉靖皇帝昏庸残暴，不理朝政，一味修道炼丹，追求长生不老。户部主事海瑞，进谒首辅徐阶，指望他能\n进谏。谁知徐阶明哲保身，不愿管。海瑞决定自己上疏，并买好棺木一具，以死进谏。嘉靖大怒，囚禁海瑞，\n拟处斩。嘉靖因误服丹药暴卒，太子即位，海瑞得赦。",
@@ -472,11 +500,9 @@
       "label": "第一场：求仙荒政",
       "characters_present": [
         "众人",
-        "内侍传徐阁老进宫参见",
         "冯保",
         "嘉靖",
         "徐阶",
-        "我只得扯起了顺风旗儿一面",
         "王金",
         "申世恩",
         "黄锦"

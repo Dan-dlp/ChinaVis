@@ -11,27 +11,32 @@
     {
       "name": "林冲",
       "role_type": "武生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "鲁智深",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "张氏",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "高俅",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "高世德",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     }
   ],
   "plot_summary": "鲁智深醉闹五台山后，投身东京相国寺。禁军教头林冲，送妻张氏赴东岳庙焚香。林冲闲步入寺，值鲁智深\n使棒，遂相结识。太尉高俅之子高世德，携仆调戏张氏。林冲闻讯返庙，怒逐高世德去。高世德告其父。高\n俅令人假卖宝刀于林冲，骗入白虎堂，诬其行刺。林冲果中计，因被论罪，发配沧州，陆谦再买通解差董超、\n薛霸途中加害。鲁智深闻讯，跟踪暗护，至野猪林，救林冲，并督董超、薛霸善护林冲至沧州。",
@@ -216,8 +221,7 @@
       "characters_present": [
         "四小和尚",
         "智清",
-        "菜头僧",
-        "闲情逃出是非苦"
+        "菜头僧"
       ],
       "lines": [
         {

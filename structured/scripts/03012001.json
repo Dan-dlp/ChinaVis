@@ -11,12 +11,14 @@
     {
       "name": "窦太真",
       "role_type": "老旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "李渊",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "唐高祖李渊派次子李世民出征，多年未回。窦后思子，梦寐不安；特建望儿楼一座，不时登楼眺望。",
@@ -70,11 +72,6 @@
       "scene_index": 1,
       "label": "第一场",
       "characters_present": [
-        "内侍臣掌红灯望儿楼内",
-        "叫声世民回来吧",
-        "多亏了秦叔宝将贼杀退",
-        "实指望转家园平安度岁",
-        "恨只恨小杨广与孤作对",
         "李渊",
         "窦太真"
       ],

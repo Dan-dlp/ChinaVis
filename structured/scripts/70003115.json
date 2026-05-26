@@ -13,37 +13,44 @@
     {
       "name": "关羽",
       "role_type": "红生",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "马童",
       "role_type": "武生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "张飞",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "蔡阳",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "樵夫",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "甘夫人",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "糜夫人",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     }
   ],
   "plot_summary": "关羽一行，过了黄河渡口，来到古城。马童探知古城由张飞据守，关羽闻讯心喜，期待弟兄即刻相会。不料\n张飞怀疑关羽降曹，拒不开城。时曹将蔡阳从后赶来，形势危急。张飞乃助三通战鼓，命斩蔡阳，以验关羽\n是否降曹。关羽力斩蔡阳，张飞之疑得释。",
@@ -325,10 +332,6 @@
       "characters_present": [
         "关羽",
         "樵夫",
-        "每日砍柴在南山",
-        "甘夫人",
-        "糜夫人",
-        "过黄河斩秦琪路遇文远",
         "马童"
       ],
       "lines": [
@@ -1539,14 +1542,8 @@
       "scene_index": 7,
       "label": "第七场",
       "characters_present": [
-        "上马金下马银美酒红袍",
-        "了得马去把头斫",
-        "今日里在古城我们弟兄会了",
         "关羽",
-        "官封到汉寿亭侯我的爵禄不小",
         "张飞",
-        "曹孟德虽待我恩高义好",
-        "罢罢罢忍耐了",
         "蔡阳",
         "马童"
       ],

@@ -11,27 +11,32 @@
     {
       "name": "薛平贵",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "代战公主",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "马达",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "江海",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "莫老将军",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     }
   ],
   "plot_summary": "薛平贵在西凉十八年，既赘为驸马，后又嗣业为西凉国主，显荣已极，惟思家恋旧之心，来尝一日忘。日者\n正思念王宝钏不已，忽有一宾鸿衔书至，薛平贵见系王宝钏血书，遂急欲回国探望。然恐代战公主不允，因\n设策用酒灌醉代战，己乃盗令而出。一路偷过三关，尚安然无事。方抵国境，欲叫关而进，而代战已率众追\n至。城上守关将，尚疑神疑鬼，不敢开关。既以数事为证，乃始开纳。甫入关，而代战已兵临城下，索薛平\n贵出会话。薛平贵不得已，乃上城楼，告以心事。代战闻薛平贵有妻，且欲归去，初不允，几至决裂。继见\n薛平贵再三哀求，乃始回意，与以金翎鸽子一头，贝便传信，并要约数事而别。",
@@ -103,16 +108,8 @@
       "scene_index": 1,
       "label": "第一场",
       "characters_present": [
-        "不辞公主跨雕鞍",
         "代战公主",
-        "公主不念夫妻恩",
-        "公主若念夫妻爱",
-        "哪怕南朝兵将广",
         "大太监",
-        "宫娥女将酒忙斟上",
-        "宫娥摆驾银安殿",
-        "江山虽然孤执掌",
-        "看罢书信心思算",
         "老仙",
         "薛平贵"
       ],

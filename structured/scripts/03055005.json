@@ -11,12 +11,14 @@
     {
       "name": "呼必显",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "潘洪",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "呼必显至雁门关，先示恭顺，赚得潘洪印信，然后捕获解京。",
@@ -139,9 +141,7 @@
       "scene_index": 1,
       "label": "第一场",
       "characters_present": [
-        "呼必显",
-        "四校尉",
-        "四白龙套"
+        "呼必显"
       ],
       "lines": [
         {
@@ -226,7 +226,6 @@
       "label": "第二场",
       "characters_present": [
         "中军",
-        "四红大铠",
         "四红龙套",
         "潘洪"
       ],

@@ -14,27 +14,32 @@
     {
       "name": "寇准",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "潘洪",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "赵德芳",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "马牌",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "夫人",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     }
   ],
   "plot_summary": "杨延昭状告潘洪卖国，陷害杨家将共十大罪状。潘洪被拿至京，刘御史因受潘洪女潘妃之贿，被赵德芳用金\n锏打死，又调霞谷县令寇准升为御史，复审潘洪。潘妃又行贿，寇准告知赵德芳。赵德芳做寇准后盾，并在\n潘洪傲慢狡赖不招供时，二人定计，假设阴曹，夜审潘洪，潘洪才吐露实情，据实定罪。",
@@ -875,12 +880,9 @@
       "scene_index": 3,
       "label": "第三场",
       "characters_present": [
-        "倘若是太夫人将你来问",
-        "倘若是少夫人将你来问",
         "太监",
         "家院",
         "寇准",
-        "我命你回衙报一信",
         "赵德芳",
         "马牌",
         "驿丞"
@@ -1816,7 +1818,6 @@
       "scene_index": 4,
       "label": "第四场",
       "characters_present": [
-        "公公",
         "大太监",
         "寇准",
         "马牌"
@@ -2214,7 +2215,6 @@
       "scene_index": 5,
       "label": "第五场",
       "characters_present": [
-        "内侍",
         "太监",
         "寇准",
         "赵德芳"

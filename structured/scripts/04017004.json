@@ -13,12 +13,14 @@
     {
       "name": "杨延德",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "杨延昭",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "六郎杨延昭到北国昊天塔盗取了他父亲令公的遗骨，兼程而归。行至五台山，夜宿古庙中，遇见了在沙滩赴\n会时看破朝廷权奸用事，愤而削发出家的五郎杨延德。因阔别日久，彼此不敢贸然相认；几经盘询，始知是\n弟兄相遇。悲痛未已，北国追兵已临山下。五郎延德持杖下山，战退追兵，弟兄二人遂挥泪而别。",
@@ -67,8 +69,6 @@
       "scene_index": 1,
       "label": "全剧",
       "characters_present": [
-        "回头便把贤弟问",
-        "扫地我不伤蝼蚁命",
         "杨延德",
         "杨延昭",
         "老僧"

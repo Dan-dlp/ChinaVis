@@ -11,37 +11,44 @@
     {
       "name": "杨延昭",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "杨继业",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "老军",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "八贤王",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "杨宗保",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "佘太君",
       "role_type": "老旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "柴氏",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     }
   ],
   "plot_summary": "杨延昭命孟良再往辽邦洪羊洞盗取杨继业骸骨，焦赞知而暗随至洞；孟良误以为敌将，用斧劈死。既而疑声\n音不类，细察为焦赞，哀悔不已，以遗骨付老兵程宣赍回，自刎洞前。杨延昭闻耗惊悼呕血，病势益重，与\n八贤王及母妻诀别而死。",
@@ -112,12 +119,8 @@
       "scene_index": 1,
       "label": "第一场",
       "characters_present": [
-        "叫鬼卒急忙忙大营来进",
         "孟良",
         "家院",
-        "我这里下位去身难转动",
-        "我这里将他的阴魂唤醒",
-        "曾记得在两狼父把命送",
         "杨延昭",
         "杨继业"
       ],
@@ -883,19 +886,11 @@
       "scene_index": 3,
       "label": "第九场",
       "characters_present": [
-        "为此事终日里忧成疾病",
-        "二次里命孟良番营来进",
         "佘太君",
         "八贤王",
-        "我与你一无仇来二无有怨恨",
-        "我与你好亲眷无有仇恨",
-        "我前番命孟良骸骨搬请",
         "杨宗保",
         "杨延昭",
-        "柴氏",
-        "猛然间睁开了昏花眼",
-        "真骸骨移在那洪羊洞",
-        "老军报他二人在洪羊洞丧命"
+        "柴氏"
       ],
       "lines": [
         {

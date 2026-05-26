@@ -14,87 +14,104 @@
     {
       "name": "花木兰",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "贺廷玉",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "花弧",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "花母",
       "role_type": "老旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "突厥王",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "军师",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "花木蕙",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "投军人甲",
       "role_type": "武生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "投军人乙",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "投军人丙",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "投军人丁",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "卖马人",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "卖枪人",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "钦差",
       "role_type": "副净",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "赵通",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "探子",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "中军",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "北魏时，北方突厥入侵中原，贺廷玉奉旨征兵。陕西花弧年老多病，子年尚幼，其女花木兰女扮男装，投军\n从征，并解救过元帅贺廷玉之危，多次立功。征战十二年凯旋，辞官归家。贺廷玉奉旨到她家，花木兰女装\n出见，才知其是女子。",
@@ -268,9 +285,6 @@
       "scene_index": 1,
       "label": "第一场",
       "characters_present": [
-        "么将",
-        "呼将",
-        "哈将",
         "突厥王",
         "莫将"
       ],
@@ -811,7 +825,6 @@
       "scene_index": 3,
       "label": "第三场",
       "characters_present": [
-        "熙攘攘争相告突厥犯境",
         "花木兰",
         "花木蕙",
         "花母"

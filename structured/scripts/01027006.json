@@ -11,72 +11,86 @@
     {
       "name": "孙策",
       "role_type": "武生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "于吉",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "孙母",
       "role_type": "老旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "许贡",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "门客甲",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "门客乙",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "门客丙",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "病人甲",
       "role_type": "外",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "病人乙",
       "role_type": "末",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "病人丙",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "病人丁",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "老妇",
       "role_type": "老旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "少妇",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "大乔",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     }
   ],
   "plot_summary": "孙策自霸占江东，兵精粮足，声威大振。吴郡太守许贡，身虽附孙策，而心实忌之。暗遣使者上书于曹操，\n求其召孙策还京，以防后患。书已发出，使者被防江将士所获，机密尽泄。许贡遂被杀。一日孙策与诸将会\n猎，单骑逐鹿。转过一树林，突出三人，挺枪直刺。自言为许贡家客，替主报仇，且射孙策中面门，孙策拔\n箭还射，毙其一，尚有二人，死战不退。正在危急之时，程普引诸将救援，始将二人杀死。孙策伤势极重，\n请医治疗，须静养百日，方可无虞。未满百日之期，河北袁绍遣陈震前来通问，孙策于城楼上设宴款待。忽\n城下有一道人经过，手下将士及众百姓俱伏道迎候。孙策目为妖妄，遂命擒拿。询以来历，云系姓于名吉，\n往来吴会，善施府水治病。当世呼为神仙。孙策欲斩之，文武各官竭力谏阻，孙策暂将于吉监禁，张昭等数\n十人，连名作状乞保。孙策卒不听。吕范言于孙策，令于吉祈雨赎罪。孙策亲自下令，若午时无雨，即行焚\n死。至时果大雨倾盆，沟浍皆满。适值吴会亢旱，得此甘霖，欢声雷动。官民等扶起于吉，罗拜于水中，不\n顾衣服。不料更触孙策怒，叱武士立斩。于吉死后，屡屡现形缠扰。孙策母为之禳解，设醮于玉清观，命孙\n策前往拈香。而于吉又见。命将此观放火烧毁。俟孙策回府，依然兴妖作怪。乃宿于城外军营中。孙策母传\n命召回，陡见孙策形容憔悴，不胜凄惶。孙策引镜自照，于吉立在镜中。孙策拍镜大呼，箭疮迸裂，昏倒于\n地。自知不起，嘱文武各官，辅佐其弟孙权，继承某业云。",
@@ -1146,19 +1160,15 @@
       "scene_index": 5,
       "label": "第五场",
       "characters_present": [
-        "一道灵符忙焚尽",
         "三病人",
         "于吉",
         "四病人",
         "少妇",
-        "急急忙忙往前奔",
-        "我这里用符水将他们调理",
         "病人丁",
         "病人丙",
         "病人乙",
         "病人甲",
-        "老妇",
-        "肚痛还须来顺气"
+        "老妇"
       ],
       "lines": [
         {
@@ -1694,7 +1704,6 @@
       "label": "第六场",
       "characters_present": [
         "于吉",
-        "信步儿来在了江楼观看",
         "四龙套",
         "孙策",
         "张昭",
@@ -2555,8 +2564,6 @@
       "characters_present": [
         "朱治",
         "程普",
-        "陈武",
-        "韩当",
         "黄盖"
       ],
       "lines": [

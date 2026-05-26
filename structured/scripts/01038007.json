@@ -11,37 +11,44 @@
     {
       "name": "姚氏",
       "role_type": "老旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "李氏",
       "role_type": "正旦",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "王氏",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "裴氏",
       "role_type": "丑旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "钱正",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "保林",
       "role_type": "童",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "速报使",
       "role_type": "生",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     }
   ],
   "plot_summary": "按剧中事实，称系江苏扬州府兴化县周家堡，钱姓之实事。洵如是则雷击五不孝，报应昭彰，诚足以警觉世\n之大不孝者。剧称兴化县周家堡，有钱姓兄弟三房，长名钱正，次名钱选，三名钱坤，各已成室，分炊而居。\n上有老母姚氏，三人轮流奉养。岂知三房六人之中只有第三媳妇李氏，能知孝养，其余三子两媳，皆为大\n逆不道之畜类，其平日之辱骂缺养，不可尽述。至某岁年终，是日大除夕，适逢大房供食之日，姚氏因腹中\n饥饿，遂走至大房。讵料大媳归，方以朽烂东西饲姑，而钱正适返，立将其母赶出。姚氏哭哭啼啼，行至二\n房叩门，而二房钱选与媳妇王氏，又以闭门羹相饷，拒而不纳。惟有三媳妇李氏，知姑必未得食。俟其夫钱\n坤出至赌场时，乃四出找寻，得遇于道旁，迨引至家中，方令用饭。而钱坤忽归，一见大怒，迁恨其妻，一\n脚失足，将妻踢死，姚氏见状，亦只得投跳牛坑自尽。霎时间天大雷雨，立将三子两媳雷击路旁，姚李婆媳\n复活。",
@@ -383,14 +390,10 @@
       "characters_present": [
         "保林",
         "姚氏",
-        "将碗摔在尘埃地",
-        "手挽贤妻后堂进",
         "王氏",
         "裴氏",
-        "走上前来抬头看",
         "钱正",
-        "钱选",
-        "高举皮拳将你打"
+        "钱选"
       ],
       "lines": [
         {
@@ -1625,10 +1628,8 @@
       "scene_index": 5,
       "label": "第五场",
       "characters_present": [
-        "再若说上三两名",
         "姚氏",
         "李氏",
-        "老鬼请出门外站",
         "钱坤"
       ],
       "lines": [

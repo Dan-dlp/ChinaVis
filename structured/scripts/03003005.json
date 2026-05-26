@@ -13,32 +13,38 @@
     {
       "name": "高旺",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "高来",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "张兰英",
       "role_type": "老旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "杨八妹",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "张保",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "达婆",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     }
   ],
   "plot_summary": "北宋时，杨府将官高旺擅使黑风法术，被贬雅志府为民。后军中需将，经杨八姐来召高旺回朝。行经牧虎关，\n关将张保夫妇施用黑风帕阻其过关。高旺击败张保；阵前见张妻貌美，加以戏谑。张母上关略阵，始识高\n旺为失散多年之丈夫，遂迎接进关。高旺问知阵前戏谑之人为自己儿媳，倍感羞愧。",
@@ -100,16 +106,7 @@
       "scene_index": 1,
       "label": "第一场",
       "characters_present": [
-        "你爱愚兄黑风好",
-        "到后来听信谗言本",
-        "天堂六州贼做反",
-        "头一阵会见了王怀女",
-        "好黑风",
-        "宋王一见龙心喜",
-        "曾记得你国为上我国为下",
         "杨八妹",
-        "第二阵遇着杨贤妹",
-        "花枪好",
         "贤妹",
         "高旺",
         "高来"
@@ -1584,11 +1581,8 @@
       "scene_index": 2,
       "label": "第二场",
       "characters_present": [
-        "不要儿看儿要看",
-        "哪里来的太平表",
         "张保",
         "杨八妹",
-        "松林内她本是杨贤妹",
         "高旺"
       ],
       "lines": [
@@ -2146,16 +2140,8 @@
       "scene_index": 4,
       "label": "第四场",
       "characters_present": [
-        "写大字",
-        "头上青丝打成了髻",
         "张保",
-        "抬头看",
-        "杏黄旗",
-        "看了一个真",
-        "说着说着我的心头火",
-        "身穿一件达婆袄",
         "达婆",
-        "雪白宫粉擦满了面",
         "高旺"
       ],
       "lines": [

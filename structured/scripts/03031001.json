@@ -11,17 +11,20 @@
     {
       "name": "马忠",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "马赛花",
       "role_type": "花旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "朱元龙",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "朱元龙微时，与马忠兄妹同佣工于马员外家。一日，员外为祝寿诞，命马忠扫地挂画，布置寿堂。马忠不识\n字，求助于朱元龙。适妹马赛花前来，见朱元龙气宇非凡，具帝王相，乃托兄为媒，委以终身，并讨封赐。\n马忠出私蓄，即送二人出走。",
@@ -67,7 +70,6 @@
       "scene_index": 1,
       "label": "全剧",
       "characters_present": [
-        "两个和尚抱头睡",
         "朱元龙",
         "马忠",
         "马赛花"

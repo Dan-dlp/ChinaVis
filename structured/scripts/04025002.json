@@ -13,27 +13,32 @@
     {
       "name": "赵云",
       "role_type": "武生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "刘备",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "张飞",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "公孙瓒",
       "role_type": "末",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "典韦",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "曹操围攻徐州，徐州太守陶谦（字恭祖）派人求救于北海太守孔融。适平原令刘备在座，孔融遂约刘备同往\n解围。刘备因自己兵力不足，不敢轻动，乃往北平太守公孙瓒处借得赵云和三千士卒。刘备、赵云两人，平\n日早已互相仰慕，途中由于谈论当代英雄，各自道出心事，遂订交，并合力解除徐州之围。",
@@ -602,10 +607,8 @@
       "label": "第三场",
       "characters_present": [
         "中军",
-        "二人催马向前进",
         "刘备",
         "四军士",
-        "来至在校军场用目观定",
         "赵云"
       ],
       "lines": [

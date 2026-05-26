@@ -13,47 +13,56 @@
     {
       "name": "潘金莲",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "假潘金莲",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "武大",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "假武大",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "包拯",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "驴夫",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "天师",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "县令",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "蛇精",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     }
   ],
   "plot_summary": "五花洞有修炼千年之老妖，神通广大。一系蜈蚣、一系蝎子、一系壁虎、一系虾蟇、一系毒蛇。忽发奇想，\n蝎子与壁虎，幻一人形，溷迹于尘世间，以为游戏。有民人武大，暨妻潘金莲，由清河县至阳谷县，寻访乃\n弟武松。途中相遇，二妖遂变化其夫妻形状，面貌身体、衣服语言，无不毕肖。四人对观之下，谁真谁假，\n竟难辨别，互扭至县官处控告，真与假口供，一一吻合，县官不能判断。包公巡查到此，提取审问，正要用\n照妖镜验看，适值天师张杰进谒。知其来历，即命法官会拿。",
@@ -1181,15 +1190,11 @@
       "characters_present": [
         "假武大",
         "假潘金莲",
-        "到而今真假难凭信",
         "县令",
         "四皂役",
-        "夫妻二人把巧计生",
-        "年遭荒旱难度命",
         "报子",
         "武大",
-        "潘金莲",
-        "行至中途古庙进"
+        "潘金莲"
       ],
       "lines": [
         {

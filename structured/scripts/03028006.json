@@ -11,42 +11,50 @@
     {
       "name": "岳飞",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "大丞相",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "金兀术",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "牛皋",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "宋徽宗",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "宋钦宗",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "太后",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "宋太祖",
       "role_type": "红生",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     }
   ],
   "plot_summary": "金兀术南犯，掳去徽、钦二帝。岳飞奉诏北伐，大破“八卦阵”。金兀术不敌，许放二圣回宋。徽、钦二帝\n以无颜复见百姓，自缢。岳飞哀痛之余，要搬请皇灵，命金主身穿重孝，写具降表出城迎接。金主假允，为\n岳飞看破，暗作准备。及献表，金兀术举剑刺岳飞，被牛皋所败。岳飞搬皇灵南归。",
@@ -917,8 +925,6 @@
       "characters_present": [
         "哈迷蚩",
         "四番将",
-        "四红龙套",
-        "四绿龙套",
         "大丞相",
         "木罕",
         "金兀术"

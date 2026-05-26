@@ -11,27 +11,32 @@
     {
       "name": "康氏",
       "role_type": "老旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "张义",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "张宣",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "包拯",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "王氏",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     }
   ],
   "plot_summary": "张宣中进士，官祥符县令，修书接母眷。书误投其妻王氏家。王氏与婆、叔素不和睦，时住娘家。接书后，\n即赴任所，并谓婆叔已亡。张宣弟张义，在家钓鱼奉母。一日，钓一金龟，狂喜而归。途闻乃嫂截书事，忿\n极，因辞母奔往祥符辩理。及见张宣，张宣又奉命巡查。王氏为图金龟，与丫鬟合谋，药酒毒张义死。张宣\n母康氏，等子不归，亲赴祥符。闻张义已死，伤痛几绝。深夜，得张义魂托梦，遂投告包公。包公处王氏剐\n刑，丫鬟剖心；张宣削职为民，康氏赠银五百两，以度残年。",
@@ -722,19 +727,11 @@
       "scene_index": 3,
       "label": "第三场",
       "characters_present": [
-        "今日被擒遭天谴",
         "众人",
-        "低头不敢见父面",
-        "只因酒醉心迷乱",
         "敖广",
         "电母",
         "虬明",
-        "雨师",
-        "雷公",
-        "风伯",
-        "鲤元帅",
-        "龙宫法度谁不晓",
-        "龟将军"
+        "鲤元帅"
       ],
       "lines": [
         {
@@ -1074,11 +1071,8 @@
       "scene_index": 4,
       "label": "第四场",
       "characters_present": [
-        "一路美景无心赏",
         "店家",
-        "张宣",
-        "若得名标金榜上",
-        "虽然富贵人所望"
+        "张宣"
       ],
       "lines": [
         {
@@ -1691,7 +1685,6 @@
       "label": "第七场",
       "characters_present": [
         "众渔人",
-        "打得鱼儿回家转",
         "渔人甲"
       ],
       "lines": [

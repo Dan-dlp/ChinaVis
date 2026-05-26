@@ -15,62 +15,74 @@
     {
       "name": "关羽",
       "role_type": "红生",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "胡华",
       "role_type": "外",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "孔秀",
       "role_type": "副净",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "孟坦",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "韩福",
       "role_type": "末",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "卞喜",
       "role_type": "末",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "王植",
       "role_type": "外",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "胡班",
       "role_type": "副净",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "秦琪",
       "role_type": "武生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "杜远",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "甘夫人",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "糜夫人",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     }
   ],
   "plot_summary": "关公自下邳失守后，暂依曹操，曾与曹操订约，若得玄德消息，必须辞去。关公探知玄德在袁绍处，挂印封\n金，至相府拜辞，数次不得见面，留书作别。保护二嫂车辆，迳出许都，往河北寻兄。曹操亲至城外送行，\n赠金赐袍，以留后日纪念。关公立马桥上，小作勾留，使车辆先行。及追寻时，已被黄巾余党杜远，劫入山\n中。幸杜远之同伴廖化，问明来历，截杀杜远，送下山来。当晚投宿在胡华家中。胡华有子胡班，在荣阳太\n守王植部下，知关公必由此经过，托带家书，关公慨诺之。前至东岭关，守将孔秀，不容过关。关公斩之。\n至洛阳，太守韩福，同牙将孟坦，引人马阻路。关公与战，均斩之。至沂水关，守将卞喜，埋伏刀斧手于镇\n国寺中，诱关公至彼处，欲行图害。寺僧普净，与关公同乡，上前问讯，叙故旧之情，手举所佩戒刀，以目\n视关公。关公会意，喝问卞喜。卞喜即取飞锤掷关公。关公用青龙刀隔开，追斩之。至荣阳，太守王植，预\n为设计。迎关公入城，安置馆驿中，命从事胡班，领兵围住。待三更时分，一齐放火。胡班久闻公名，未识\n公面，于窗隙中潜窥之。一见关公之神威，不觉失声赞叹。关公唤入问之，始知即是胡班，遂面交其父家书。\n胡班因此泄漏机密，关公知会二嫂，急速起程。王植闻信，尽起人马追赶，关公回身与战，亦斩之。至滑\n州，求渡船于太守刘延。刘延不敢应付，婉言以辞之。关公不与计较。而秦琪已列阵于黄河渡口，不准关公\n渡，且欲以兵力胁关公。关公怒斩之。败兵方始整顿船只，送公渡河。关公所历关隘五处，共斩将六员。曹\n操待关公甚厚，关公并不愿沿途杀人，辜负其美意，奈诸将执而不化，自取灭亡，亦何咎于公焉。",
@@ -309,9 +321,7 @@
       "label": "第三场",
       "characters_present": [
         "廖化",
-        "杜远",
-        "甘夫人",
-        "糜夫人"
+        "杜远"
       ],
       "lines": [
         {
@@ -543,8 +553,6 @@
       "characters_present": [
         "关羽",
         "廖化",
-        "甘夫人",
-        "糜夫人",
         "马童"
       ],
       "lines": [

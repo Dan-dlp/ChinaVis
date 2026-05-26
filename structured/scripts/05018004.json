@@ -11,37 +11,44 @@
     {
       "name": "海瑞",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "鄢懋卿",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "戚继光",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "徐海",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "冯莲芳",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "秦氏",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "顾慥",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     }
   ],
   "plot_summary": "戚继光调升镇海将军，奉命来浙江剿寇，与夫人分道，水陆并进。淳安县百姓闻海瑞被劫，以为系鄢懋卿搬\n运金银财宝过境，引得海寇来此，乃鸣锣聚众向鄢懋卿问罪。鄢懋卿夫妻慌忙逃走，沿途舍弃金银殆尽。冯\n莲芳、宗礼与戚继光相遇，彼此误为遇寇，战未数合，问明原委，方知有误，并悉冯、戚原系通家之好。戚\n继光闻李兴力大无穷，欲留用帐下，暂使人押往淳安县收监。冯莲芳归与顾慥、汪宏、冯三元相见，告以汪\n彩霞被劫。冯三元、汪宏闻讯大为悲痛，共商营救之计。冯莲芳往戚营投效，顾慥得悉，亦赶往宁波。徐海\n劝海瑞归降，海瑞以大义相责，徐海为所动，遂释海瑞。徐海路遇鄢懋卿夫妻，遂将秦氏抢走，使备银来赎。\n鄢懋卿路遇海瑞，以秦氏被劫告，海瑞许为设法营救。",
@@ -235,12 +242,9 @@
         "刘铤",
         "周氏",
         "四丫鬟",
-        "岂知道养孩儿和你一样",
-        "我偏要显奇才立功受赏",
         "戚勇",
         "戚忠",
-        "戚继光",
-        "老亲娘乘船去并无兵将"
+        "戚继光"
       ],
       "lines": [
         {
@@ -1416,10 +1420,7 @@
       "label": "第三场",
       "characters_present": [
         "三老乡民",
-        "瞎子",
-        "秃子",
-        "赵毛保",
-        "驼子"
+        "赵毛保"
       ],
       "lines": [
         {

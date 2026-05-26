@@ -11,37 +11,44 @@
     {
       "name": "关羽",
       "role_type": "红生",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "周仓",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "孙乾",
       "role_type": "生",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "郭常",
       "role_type": "生",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "郭少常",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "裴元绍",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "夏侯惇",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "关羽保护甘、糜二夫人过关斩将，往汝南寻兄。某夕宿老人郭常家。郭子勾结绿林裴元绍往劫赤兔马。正厮\n杀中，卧牛山英雄周仓慕关羽威名，前来搭救。杀死裴元绍。关羽释放郭子，收下周仓。",
@@ -293,19 +300,11 @@
       "characters_present": [
         "乐进",
         "关羽",
-        "千里寻兄心似箭",
         "夏侯惇",
         "孙乾",
         "小校",
         "张辽",
-        "杀韩福刺孟坦洛阳关前",
-        "李典",
-        "沂水关杀卞喜怒发冲冠",
-        "甘夫人",
-        "糜夫人",
-        "诛孔秀斩王植非我本愿",
-        "过黄河遇秦琪刀劈两段",
-        "镇国寺蒙普净将我指点"
+        "李典"
       ],
       "lines": [
         {
@@ -1035,8 +1034,6 @@
       "label": "第三场",
       "characters_present": [
         "关羽",
-        "甘夫人",
-        "糜夫人",
         "郭常",
         "郭常妻"
       ],

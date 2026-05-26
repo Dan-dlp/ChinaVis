@@ -11,27 +11,32 @@
     {
       "name": "关羽",
       "role_type": "红生",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "张飞",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "蔡阳",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "甘夫人",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "糜夫人",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     }
   ],
   "plot_summary": "关羽过关斩将行近古城，遣马童探得张飞下落，急而往见。张飞疑关羽负义，关羽含泪剖白。张飞若有所动，\n忽见蔡阳率兵追至，迎嫂而闭城。关羽无奈，力斩蔡阳，张飞始悟，亲迎关羽入城，并前往请罪。关羽义\n责张飞，二皇嫂出面跪劝，弟兄和好如初。",
@@ -312,11 +317,8 @@
       "label": "第三场",
       "characters_present": [
         "关羽",
-        "千里单骑寻兄长",
-        "晓行夜宿阳关上",
         "甘夫人",
         "糜夫人",
-        "过五关斩了六员将",
         "马夫"
       ],
       "lines": [
@@ -1199,16 +1201,9 @@
       "scene_index": 7,
       "label": "第七场",
       "characters_present": [
-        "今闻得大兄长投奔袁绍",
         "关羽",
-        "失下邳为保护二位皇嫂",
-        "官封我汉寿亭侯爵禄非小",
         "张飞",
-        "念桃园三结义同把汉保",
-        "想当年在徐州弟兄们失散了",
-        "曹孟德他待我礼义甚好",
         "蔡阳",
-        "过五关斩六将直奔黄河道",
         "马夫"
       ],
       "lines": [
@@ -1852,7 +1847,6 @@
       "scene_index": 8,
       "label": "第八场",
       "characters_present": [
-        "你这等不念情义之人",
         "张飞",
         "旗牌",
         "甘夫人",
@@ -2075,7 +2069,6 @@
       "characters_present": [
         "关羽",
         "张飞",
-        "耳边厢又听得人喧马吼",
         "马夫"
       ],
       "lines": [

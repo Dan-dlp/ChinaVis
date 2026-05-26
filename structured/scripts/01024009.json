@@ -13,47 +13,56 @@
     {
       "name": "诸葛亮",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "司马懿",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "张郃",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "姜维",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "魏延",
       "role_type": "副净",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "关兴",
       "role_type": "武生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "马岱",
       "role_type": "末",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "乐琳",
       "role_type": "副净",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "张虎",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     }
   ],
   "plot_summary": "蜀汉诸葛武侯伐魏，五出祁山。魏主曹睿，委任司马懿，倾兵抵御。司马懿令张郃为先锋，与武侯决胜负。\n武侯营中乏粮，其时陇上麦熟，欲割麦以资军用，为司马懿所识破，防备周密。武侯运用遁甲法，唤姜维、\n魏延、马岱，与武侯同样装束，军士俱披发仗剑，分四路而出，魏兵追赶不及。司马懿不知是人是鬼，惊疑\n不定，奔入上邽城，闭门不出。所有麦田，已为蜀兵割尽，运往卤城打晒。司马懿与副都督郭淮，分兵攻击，\n复遭大败。调雍凉人马，暗袭剑阁，被武侯侦知，半路截杀，几至全军覆没。武侯正在筹思进行之策，忽\n接李严告急书，言东吴与魏联合，有兴兵入寇消息，武侯因此退回西川。司马懿命张郃追之，亲自引兵，随\n后接应。武侯已预定计划，暗嘱魏延、关兴引张郃至木门道，塞断归路，万弩齐发，将张郃射死。",
@@ -480,13 +489,8 @@
         "司马懿",
         "张虎",
         "张郃",
-        "得胜之时莫追赶",
         "探子",
-        "王平威风凛",
-        "老将军年迈八十整",
-        "西蜀兵将多英俊",
-        "马岱",
-        "魏延上阵屡得胜"
+        "马岱"
       ],
       "lines": [
         {
@@ -977,15 +981,8 @@
       "label": "第三场",
       "characters_present": [
         "乐琳",
-        "他摆下九宫八卦阵",
-        "倘若阵中有伤损",
         "司马懿",
-        "四八卦旗",
-        "四飞虎旗",
-        "四龙旗",
-        "大着胆儿去打阵",
         "张虎",
-        "我算他十中有八九",
         "老军",
         "诸葛亮"
       ],
@@ -2275,15 +2272,9 @@
       "scene_index": 5,
       "label": "第五场",
       "characters_present": [
-        "一阵杀得他无投奔",
         "关兴",
-        "周郎心中怀不忿",
         "四龙套",
-        "天文地理胸中运",
         "姜维",
-        "巴坵气死周公瑾",
-        "我也曾在东吴逞舌论",
-        "此番兴兵必不定",
         "诸葛亮",
         "马岱",
         "魏延"

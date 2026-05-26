@@ -11,27 +11,32 @@
     {
       "name": "张绣",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "曹操",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "邹氏",
       "role_type": "花旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "典韦",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "胡车",
       "role_type": "武丑",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     }
   ],
   "plot_summary": "汉时，曹操既诛灭李傕、郭汜后，李、郭馀党张济之侄张绣，屯兵宛城，结连刘表，欲兴兵犯阙夺驾。曹操\n闻报，亲统大军十五万往讨，沿途下令，不准践踏青苗。不意自乘之马，因见斑鸠，绝衔惊驰，反致自犯军\n令。遂斩所乘马首，并割己发一绺以号令。会张绣与曹操战，大败，即从参谋贾诩言，暂降曹操焉。曹操统\n兵入宛城，忽思女色，遂由其侄曹安民，胁取张济之妻张绣之婶至府。邹氏本淫荡者，即荐枕席，继且随至\n营中。张绣闻之，怒曹操无礼，乃用贾诩之计，先以己兵私屯中营。旋又命部将胡车儿，乔装混入典韦营。\n先盗典韦双戟，然后乃乘夜巡放火，起袭曹操。时曹操方与邹氏在帐中温存，事出不意。而典韦虽饶勇，因\n双戟已失，卒中箭死。曹操幸得众将护送小路逸去，而邹氏则被张绣刺于马前云。",
@@ -236,7 +241,6 @@
         "乐进",
         "于禁",
         "典韦",
-        "再不想传将令是吾先犯",
         "夏侯惇",
         "曹仁",
         "曹操",
@@ -891,7 +895,6 @@
       "scene_index": 2,
       "label": "第二场",
       "characters_present": [
-        "张先",
         "张绣",
         "贾诩",
         "雷绪"
@@ -1309,7 +1312,6 @@
       "scene_index": 8,
       "label": "第八场",
       "characters_present": [
-        "张先",
         "张绣",
         "贾诩",
         "雷绪"

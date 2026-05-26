@@ -13,37 +13,44 @@
     {
       "name": "张飞",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "张郃",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "魏延",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "范疆",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "张达",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "诸葛亮",
       "role_type": "生",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "刘备",
       "role_type": "生",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     }
   ],
   "plot_summary": "诸葛亮命张飞攻取瓦口关，刘备恐张飞饮酒误事，令张飞戒酒，并遣范疆、张达，随军监视。张飞连败张郃，\n张郃坚守关隘不出。张飞遣士卒辱骂，并终日饮酒，诱敌出关，张郃仍不出战。范疆、张达见张飞终日饮\n酒，遣人密报诸葛亮与刘备。诸葛亮知张飞用计，乃遣魏延送美酒至张飞营，助其用计。张飞又故命军士假\n作怒己之状，并命范疆、张达，诈投张郃，诱其来袭。张郃果中计，失守瓦口关。",
@@ -856,7 +863,6 @@
       "scene_index": 2,
       "label": "第二场",
       "characters_present": [
-        "今日相逢逃休想",
         "众人",
         "张郃",
         "张飞",
@@ -3102,7 +3108,6 @@
       "scene_index": 8,
       "label": "第八场",
       "characters_present": [
-        "今日相逢逃休想",
         "众人",
         "众兵",
         "兵甲",

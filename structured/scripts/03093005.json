@@ -11,27 +11,32 @@
     {
       "name": "汉献帝",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "曹操",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "穆顺",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "伏后",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "华歆",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     }
   ],
   "plot_summary": "汉献帝惧曹操权势，欲除之，密诏诸侯，剪灭曹操，遣内侍穆顺带诏出宫。曹操知，从穆顺发髻内搜出密诏，\n杀穆顺、伏后及伏完全家，又进宫以药酒毒杀二皇子。",
@@ -1394,19 +1399,10 @@
       "scene_index": 4,
       "label": "第四场",
       "characters_present": [
-        "一封血诏忙修好",
-        "上写谕示众卿晓",
         "伏后",
-        "众卿领兵速来到",
-        "含悲忍泪把指咬",
-        "将皇诏藏至在发髻内",
-        "将皇诏藏至在靴筒内",
-        "左难右难难坏了我",
         "曹妃",
         "汉献帝",
-        "穆顺",
-        "血诏交与梓童手",
-        "辞别万岁出宫廷"
+        "穆顺"
       ],
       "lines": [
         {

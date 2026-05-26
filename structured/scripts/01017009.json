@@ -14,32 +14,38 @@
     {
       "name": "张任",
       "role_type": "武生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "诸葛亮",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "张飞",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "赵云",
       "role_type": "武生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "黄忠",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "魏延",
       "role_type": "副净",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     }
   ],
   "plot_summary": "后汉三国时，刘备与副军师庞统一同收川。庞统被川将张任射死在落凤坡前，刘备又调诸葛亮前来。诸葛亮\n与张飞分兵两路入川，会于雒城。诸葛亮知张任智勇双全，为川中名将；因此定计先捉张任，然后取雒城。\n城东有桥，名曰金雁桥。两岸都是芦苇蒹葭。命黄忠、魏延埋伏于左右；又命张飞伏在城东小路，就彼处截\n杀之；诸葛亮自引一队“不整不齐”军，以之诱敌。张任追过桥来，黄忠、魏延两路伏兵齐起。急欲回军，\n而赵云早依诸葛亮之令将桥拆断，勒兵于桥北，遥为之势。张任望山僻而走，正撞着张飞，被其擒获。解至\n帐中，诸葛亮劝之降，不从，厉声大骂。命斩之，以全其名。",
@@ -841,7 +847,6 @@
       "characters_present": [
         "张任",
         "张飞",
-        "我本西蜀有名将",
         "诸葛亮"
       ],
       "lines": [

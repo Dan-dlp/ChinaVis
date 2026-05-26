@@ -11,17 +11,20 @@
     {
       "name": "林黛玉",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "贾宝玉",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "薛宝钗",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     }
   ],
   "plot_summary": "林黛玉病卧潇湘馆，薛宝钗、贾宝玉先后前往探视。林黛玉对景伤情，感发成词，俟二人去后，卧枕沉思，\n更不禁伤怀身世，欷歔泪下。",
@@ -70,8 +73,6 @@
       "scene_index": 1,
       "label": "全剧",
       "characters_present": [
-        "今日参明日术已惹人厌",
-        "我自知飘零人福薄命短",
         "林黛玉",
         "薛宝钗",
         "贾宝玉"

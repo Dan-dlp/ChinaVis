@@ -11,22 +11,26 @@
     {
       "name": "王莽",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "刘秀",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "马武",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "岑彭",
       "role_type": "武生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "王莽篡汉后，为揽人才，设立武科场。马武、岑彭比武，不分上下。王莽喜爱岑彭相貌，点为状元。马武不\n服，在宫门题诗反去。",
@@ -652,7 +656,6 @@
       "characters_present": [
         "严光",
         "冯异",
-        "欲将男儿身手显",
         "王霸",
         "邓禹"
       ],
@@ -854,14 +857,10 @@
       "label": "第三场",
       "characters_present": [
         "严光",
-        "何日方能酬素志",
         "冯异",
         "刘秀",
-        "此番科场应进取",
         "王霸",
-        "苍天若有扶汉意",
         "邓禹",
-        "际会风云宜努力",
         "院子"
       ],
       "lines": [
@@ -1685,7 +1684,6 @@
       "label": "第七场",
       "characters_present": [
         "四上手",
-        "四文堂",
         "巨毋霸",
         "王林",
         "苏献",

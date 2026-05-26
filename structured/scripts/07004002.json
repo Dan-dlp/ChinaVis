@@ -11,17 +11,20 @@
     {
       "name": "项籍",
       "role_type": "武生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "虞姬",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "虞子期",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "秦始皇驾崩，群雄并起，项梁、项籍起兵于关中，立楚怀王。项籍于会稽收桓楚、英布、于英三将，路遇虞\n姬，互相爱慕，遂成夫妇。后项梁战死，项籍帅其军，奉怀王命与刘邦分道进兵关中。",
@@ -235,7 +238,6 @@
       "characters_present": [
         "司马欣",
         "周熊",
-        "四下手",
         "四文堂",
         "孙胜",
         "李由",
@@ -702,8 +704,6 @@
       "label": "第三场",
       "characters_present": [
         "四黑龙套",
-        "某家领众逞威勇",
-        "策划奇谋当用众",
         "范增",
         "项籍"
       ],
@@ -2181,7 +2181,6 @@
         "于英",
         "桓楚",
         "英布",
-        "谈兵机演武略非夸海口",
         "项籍"
       ],
       "lines": [

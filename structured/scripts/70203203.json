@@ -11,42 +11,50 @@
     {
       "name": "李亚仙",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "郑元和",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "郑儋",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "乐道德",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "鸨儿",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "来兴",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "银筝",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "崔佑甫",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "唐代常州刺史郑儋，有子名元和，赴京科考，路经曲江池，正值长安妓女李亚仙游春，一见钟情，两心相悦，\n以致迷恋挥霍，不惜杀骏马为李亚仙医病，卖童仆以偿鸨儿。后郑元和金尽被逐，流落街头，沦为乞丐。\n鸨儿迁居避郑元和，李亚仙设计赎身，寻找郑元和。郑元和在行乞中，遇父郑儋，郑儋怒郑元和堕落无行，\n用棍将其打死。在老仆买棺时，为李亚仙所遇，寻踪见尸痛哭。郑元和苏活，李亚仙扶掖归家，勉励攻读，\n甚至以刺目激劝，因得高中状元，面父认亲，结成美满姻缘。",
@@ -169,10 +177,7 @@
       "scene_index": 1,
       "label": "第一场",
       "characters_present": [
-        "万言策上邀皇宠",
         "乐道德",
-        "千里长途今始动",
-        "文章献与皇家用",
         "旗牌",
         "郑儋",
         "郑元和",
@@ -690,8 +695,7 @@
         "李亚仙",
         "来兴",
         "郑元和",
-        "银筝",
-        "马行半途抬头看"
+        "银筝"
       ],
       "lines": [
         {
@@ -2886,7 +2890,6 @@
       "characters_present": [
         "乐道德",
         "李亚仙",
-        "欲前却又生腼腆",
         "郑元和",
         "鸨儿"
       ],

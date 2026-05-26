@@ -11,42 +11,50 @@
     {
       "name": "麻姑",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "金母",
       "role_type": "老旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "李铁拐",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "吕洞宾",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "百花仙子",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "牡丹仙子",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "芍药仙子",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "海棠仙子",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     }
   ],
   "plot_summary": "全剧大致谓某月某日，西池王母圣诞，一年一度蟠桃大会上，中八洞神仙无不齐临祝寿。百花、牡丹、芍药、\n海棠四仙子，往邀麻姑同赴瑶池祝寿。麻姑仙子因正在采取群花欲做百花酿，以备称觞上寿，故令四仙子\n先行，自己则一路寻采。寻至绛珠河畔觅得灵芝始归，预备酿成上献。既而李铁拐奉众仙之命，专往兜率宫\n李老君处乞题寿词，以便进祝。既而王母出场，即是蟠桃大会，瑶池开宴日矣。一班仙姑道长，换次进觞，\n次为麻姑献酒，王母命麻姑向众仙歌舞行酒，既又命玉女向园中摘取蟠桃，各赐一枚，尽欢而散。其祝寿行\n酒时之一段歌舞，颇悠扬可听，真有众仙同日咏霓裳之致。",
@@ -771,14 +779,8 @@
       "scene_index": 5,
       "label": "第五场",
       "characters_present": [
-        "何仙姑",
         "吕洞宾",
-        "张果老",
-        "曹国舅",
-        "李铁拐",
-        "汉钟离",
-        "蓝采和",
-        "韩湘子"
+        "李铁拐"
       ],
       "lines": [
         {
@@ -890,21 +892,13 @@
       "scene_index": 6,
       "label": "第六场",
       "characters_present": [
-        "仙家之酒仙家饮",
-        "何仙姑",
         "吕洞宾",
-        "张果老",
-        "执壶轮流来恭敬",
-        "曹国舅",
         "李铁拐",
-        "汉钟离",
         "海棠仙子",
         "牡丹仙子",
         "百花仙子",
         "芍药仙子",
-        "蓝采和",
         "金母",
-        "韩湘子",
         "麻姑"
       ],
       "lines": [

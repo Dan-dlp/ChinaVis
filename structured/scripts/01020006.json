@@ -13,27 +13,32 @@
     {
       "name": "穆桂英",
       "role_type": "武旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "杨宗保",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "孟良",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "焦赞",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "丫鬟",
       "role_type": "丑旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     }
   ],
   "plot_summary": "考说传，称萧天佐摆设七十二座天门阵，宋营中幸有一钟道士帮助六郎杨延昭调度破阵，并向太行山五台山\n等处，调取金头马氏及杨五郎等，来营助战。杨五郎素知穆家寨后有降龙木二支，必须取得一支，作为斧柄，\n方能取胜。故必有此木，方肯下山。孟良乃前去盗木，先遇穆桂英在山下打猎，穆桂英射中一雁，为孟良\n所拾，孟良不肯还，遂起战争。孟良败回，带同杨宗保再往，交战数十合，杨宗保为穆桂英所赏识，遂被计\n擒。既而穆桂英即与杨宗保订婚，乃放杨宗保回，并约情愿输诚投顺云云。不意杨六郎怒其违犯军纪，竟欲\n斩杨宗保以徇，事遂中阻。孟良乃二次探山，放火盗木而去。",
@@ -490,9 +495,7 @@
       "label": "第三场",
       "characters_present": [
         "丫鬟",
-        "今日里随同奴齐下山岭",
         "众人",
-        "勒住了丝缰来观定",
         "穆桂英"
       ],
       "lines": [
@@ -1336,13 +1339,10 @@
       "scene_index": 7,
       "label": "第七场",
       "characters_present": [
-        "劝你献出了降龙木",
         "孟良",
         "杨宗保",
-        "杨宗保名儿就是我",
         "焦赞",
-        "穆桂英",
-        "龙木事儿全在我"
+        "穆桂英"
       ],
       "lines": [
         {

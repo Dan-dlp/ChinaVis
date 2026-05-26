@@ -13,32 +13,38 @@
     {
       "name": "关羽",
       "role_type": "红生",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "刘备",
       "role_type": "生",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "张飞",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "曹操",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "袁绍",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "吕布",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "曹操矫诏，召集十八路诸侯公推袁绍为盟主，共伐董卓。兵至汜水关，董将华雄数败孙坚，莫敢与战。关羽\n讨令，袁绍轻之。曹操敬酒以助威，关不饮出战，立斩华雄归，杯酒尚温。吕布讨战，连败诸侯人马。刘、\n关、张合战吕于虎牢关，卒获大胜。",
@@ -339,24 +345,11 @@
       "label": "第二场",
       "characters_present": [
         "中军",
-        "乔瑁",
-        "刘岱",
         "四龙套",
-        "孔伷",
-        "孔融",
         "孙坚",
-        "张扬",
-        "张超",
-        "张邈",
         "报子",
-        "王匡",
         "袁术",
-        "袁绍",
-        "袁遗",
-        "陶谦",
-        "韩馥",
-        "马腾",
-        "鲍信"
+        "袁绍"
       ],
       "lines": [
         {
@@ -909,24 +902,11 @@
       "scene_index": 7,
       "label": "第七场",
       "characters_present": [
-        "乔瑁",
         "公孙瓒",
-        "刘岱",
-        "孔伷",
-        "孔融",
         "孙坚",
-        "张扬",
-        "张超",
-        "张邈",
         "曹操",
-        "王匡",
         "袁术",
-        "袁绍",
-        "袁遗",
-        "陶谦",
-        "韩馥",
-        "马腾",
-        "鲍信"
+        "袁绍"
       ],
       "lines": [
         {
@@ -2305,7 +2285,6 @@
       "scene_index": 11,
       "label": "第十一场",
       "characters_present": [
-        "催马来在水场上",
         "关羽",
         "华雄"
       ],

@@ -14,22 +14,26 @@
     {
       "name": "杨继业",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "杨延昭",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "苏隐士",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "韩延寿",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "宋辽失和，使杨继业征之。杨继业兵困两狼山，遣子七郎求救于元帅潘洪。潘洪不发一兵，且杀七郎以报私\n仇。杨继业久困无援，夜梦七郎冤魂，醒后大疑。使子六郎突围出，己则单身杀至苏武庙，气力不加，见李\n陵碑，大骂一场，竟撞碑死。",
@@ -92,8 +96,7 @@
       "label": "第一场",
       "characters_present": [
         "杨延昭",
-        "杨继业",
-        "辞别爹爹足踏蹬"
+        "杨继业"
       ],
       "lines": [
         {
@@ -663,20 +666,9 @@
       "scene_index": 4,
       "label": "第四场",
       "characters_present": [
-        "又谁知中了那奸贼笼套",
-        "只落得杨延昭随营征剿",
         "四老军",
-        "多亏了杨延昭一马来到",
-        "恨北国萧营中打来战表",
-        "我的大郎儿替宋王把忠尽了",
         "探子",
-        "有老夫二次里又闯贼道",
-        "杨三郎被马踏尸首不晓",
-        "杨五郎在五台学禅修道",
-        "杨继业",
-        "贼潘洪在金殿帅印挂了",
-        "金沙滩双龙会一阵败了",
-        "魍魉臣与潘洪又生计巧"
+        "杨继业"
       ],
       "lines": [
         {
@@ -1073,7 +1065,6 @@
       "scene_index": 5,
       "label": "第五场",
       "characters_present": [
-        "他道我后来遭大难",
         "杨继业",
         "苏隐士"
       ],

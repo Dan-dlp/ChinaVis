@@ -11,17 +11,20 @@
     {
       "name": "张飞",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "刘封",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "廖化",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "蜀汉张飞，镇守阆中。忽见廖化匆遽前来，报告荆州失陷，至上鄘告急，刘封不肯发兵，关公已为吕蒙所害。\n张飞恨刘封甚，欲往杀之，乃移兵上鄘，诳取刘封手中剑、印，甘言蜜语，愿助以弑父袭位。复为划策，\n将一大铜鼓装载，混进成都。刘封受其愚弄，张飞隧掷大铜鼓于山下，刘封因此毙命焉。",
@@ -71,13 +74,9 @@
       "scene_index": 1,
       "label": "第一场",
       "characters_present": [
-        "二哥为何归天界",
-        "你手抚胸膛想一想",
-        "俺二哥麦城被兵困",
         "廖化",
         "张飞",
-        "探子",
-        "越思越想心头恨"
+        "探子"
       ],
       "lines": [
         {

@@ -11,32 +11,38 @@
     {
       "name": "包拯",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "李后",
       "role_type": "老旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "宋仁宗",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "王延龄",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "陈琳",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "郭槐",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     }
   ],
   "plot_summary": "包拯放粮回朝，请宋仁宗观灯，故以雷殛张继保灯戏演出。宋仁宗以为谤己，欲将包拯问斩。老太监陈琳备\n述当年狸猫换太子事，宋仁宗始悟，赦包拯，斩郭槐，亲迎李后还朝，李后命包拯行罚。包拯打宋仁宗龙袍\n以代。",
@@ -118,7 +124,6 @@
         "包拯",
         "大太监",
         "宋仁宗",
-        "撩袍端带我就上龙廷",
         "王延龄"
       ],
       "lines": [
@@ -497,7 +502,6 @@
       "characters_present": [
         "包拯",
         "宋仁宗",
-        "有本就该当殿奏",
         "灯官",
         "王延龄"
       ],
@@ -818,18 +822,10 @@
       "scene_index": 3,
       "label": "第三场",
       "characters_present": [
-        "万岁要将为臣斩",
-        "二十年也未曾将我宣定",
         "包拯",
-        "千言万语你不信",
-        "口口声声龙国太",
         "大太监",
-        "天齐庙",
         "宋仁宗",
-        "放心大胆我把龙廷进",
         "王延龄",
-        "臣审问",
-        "迈步且把金殿进",
         "郭槐",
         "陈琳"
       ],
@@ -1700,28 +1696,13 @@
       "scene_index": 4,
       "label": "第四场",
       "characters_present": [
-        "三宫六院我管定",
-        "不是陈琳记得准",
-        "为娘生儿险些丧了命",
-        "也不知何人来救定",
         "包拯",
-        "包拯那里怎肯信",
-        "多亏了满朝文武来保本",
         "大太监",
         "太医",
-        "奸妃又把二计定",
         "宋仁宗",
-        "我今赐你尚方剑",
-        "放粮回朝小包拯",
         "李后",
-        "爱卿回朝奏一本",
         "王延龄",
         "皇后",
-        "老王闻奏怒气生",
-        "老王驾前奏一本",
-        "若是皇儿行不正",
-        "越说越恼心头恨",
-        "金色狸猫皮尾来剥定",
         "陈琳"
       ],
       "lines": [

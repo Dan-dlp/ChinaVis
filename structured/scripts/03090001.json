@@ -11,22 +11,26 @@
     {
       "name": "诸葛亮",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "刘禅",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "邓芝",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "孙权",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "刘备新丧，曹丕乘机以五路兵马侵蜀。诸葛亮设计退敌，并遣邓芝为使赴东吴修和。孙权设油鼎以待邓芝，\n邓芝见权后，以利害说之，孙权深服，遣使同邓芝去蜀修好。",
@@ -739,8 +743,6 @@
       "scene_index": 3,
       "label": "第三场",
       "characters_present": [
-        "二小军",
-        "四青袍",
         "差官"
       ],
       "lines": [
@@ -1327,8 +1329,6 @@
       "scene_index": 6,
       "label": "第六场",
       "characters_present": [
-        "四下手",
-        "四文堂",
         "陆逊"
       ],
       "lines": [

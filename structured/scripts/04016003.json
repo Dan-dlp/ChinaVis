@@ -11,17 +11,20 @@
     {
       "name": "关羽",
       "role_type": "红生",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "鲁肃",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "周仓",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "三国时东吴水军都督鲁肃向西蜀讨取荆州，邀请坐镇荆州的蜀大将关羽过江饮宴，设下伏兵，企图在席上迫\n使关羽就范。关羽看穿鲁肃的用意，泰然携其青龙偃月刀，仅带着周仓及随从数人，到东吴赴会。席间，关\n羽历述自己生平的武功，并拒绝了鲁肃的要求。东吴诸将欲当场动武，关羽一手执剑，一手抓住鲁肃，向江\n边且行且走，东吴诸将又被周仓用刀架住，关羽、周仓等终于上了原船。关羽事先布置的伏军，也赶来接应。\n鲁肃终于无可奈何地回去。",
@@ -100,14 +103,10 @@
       "scene_index": 1,
       "label": "第一场",
       "characters_present": [
-        "伊籍",
         "关平",
         "关羽",
         "周仓",
         "四兵士",
-        "王甫",
-        "赵累",
-        "马良",
         "黄文"
       ],
       "lines": [
@@ -882,12 +881,8 @@
       "label": "第三场",
       "characters_present": [
         "二船夫",
-        "伊籍",
         "关羽",
-        "周仓",
-        "王甫",
-        "赵累",
-        "马良"
+        "周仓"
       ],
       "lines": [
         {

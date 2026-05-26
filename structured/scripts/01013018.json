@@ -11,22 +11,26 @@
     {
       "name": "刘高手",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "老黄",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "女客",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "男客",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "昆剧《寻亲记》中有《请医》一出。系一客店主人名老王者，因其店中，有同来之男女二客。其男客忽然抱\n病不起。老王素知村中有医生名刘高手者，因即前往延请，为之诊治。全剧自请刘始，至诊毕送刘出为止，\n中间徒以插科打诨，形容三家村中之庸医为主，无甚曲折情节。",
@@ -78,8 +82,7 @@
       "characters_present": [
         "刘高手",
         "女客",
-        "老黄",
-        "脉息浑沉"
+        "老黄"
       ],
       "lines": [
         {

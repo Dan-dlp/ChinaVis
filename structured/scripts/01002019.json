@@ -13,22 +13,26 @@
     {
       "name": "金玉奴",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "莫稽",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "金松",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "二杆",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     }
   ],
   "plot_summary": "临安有丐头金大，平日节衣缩食，薄积家私；所生一女，名玉奴，才貌出众，爱如珍璧，拟招赘读书种子，\n以光门楣。适有秀才莫稽，贫寒落魄，金遂婿之。莫入赘后，衣食无虑，专心攻读，不数年一举成名，职授\n无为军同户。",
@@ -89,7 +93,6 @@
         "二杆",
         "众人",
         "天喜星",
-        "我这里走上前爹爹万福",
         "莫稽",
         "金松",
         "金玉奴"
@@ -1631,7 +1634,6 @@
       "scene_index": 3,
       "label": "第三场",
       "characters_present": [
-        "本不是李亚仙教你本领",
         "莫稽",
         "金松",
         "金玉奴"

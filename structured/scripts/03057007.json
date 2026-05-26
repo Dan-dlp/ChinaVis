@@ -11,17 +11,20 @@
     {
       "name": "晴雯",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "贾宝玉",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "麝月",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     }
   ],
   "plot_summary": "贾宝玉衣贾母所赠之“孔雀裘”赴宴，不慎被火星燎损，惧贾母责罪，归告晴雯，晴雯带病为之补缀，连夜\n而成。",
@@ -595,8 +598,6 @@
       "scene_index": 2,
       "label": "第二场",
       "characters_present": [
-        "松柏长春随人转",
-        "福寿堂好似大罗殿",
         "贾宝玉",
         "贾母",
         "鸳鸯"
@@ -968,14 +969,7 @@
       "scene_index": 3,
       "label": "第三场",
       "characters_present": [
-        "倘若闲人来看见",
-        "可怜我十五载春愁秋怨",
-        "恼风姨忒无情把人蹂躏",
-        "我今补裘你莫管",
         "晴雯",
-        "柔声软语低声劝",
-        "猛然见旧衣襟血花点点",
-        "眼生花心如醉身立不稳",
         "贾宝玉",
         "麝月"
       ],

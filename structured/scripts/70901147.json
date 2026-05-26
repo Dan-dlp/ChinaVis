@@ -11,27 +11,32 @@
     {
       "name": "方孝孺",
       "role_type": "外",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "朱棣",
       "role_type": "末",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "陈瑛",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "齐泰",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "黄子澄",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "燕王朱棣篡位后，尽戮贤臣，残害忠良。为草写诏书，宣令方孝孺上殿。方孝孺秉忠义之节，拒不草诏。燕\n王大怒，命武士将其敲牙割舌。方孝孺痛斥昏王无道，直至遭鱼鳞细剐而死。",
@@ -113,9 +118,7 @@
         "方孝孺",
         "朱棣",
         "校尉",
-        "陈瑛",
-        "黄子澄",
-        "齐泰"
+        "陈瑛"
       ],
       "lines": [
         {

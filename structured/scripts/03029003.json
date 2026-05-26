@@ -11,17 +11,20 @@
     {
       "name": "张继贤",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "贾桂娟",
       "role_type": "花旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "贾氏",
       "role_type": "老旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     }
   ],
   "plot_summary": "张继贤赴试遇虎，为壮士曾清所救，遂结金兰。曾清妹桂娟，色艳过人，恶霸万权强欲为婚。曾清扮女替妹，\n并嘱母贾氏许妹与张继贤。及提亲，张继贤不允。贾氏命桂娟夜晚送灯，张继贤见之惊喜，遂拜天地。",
@@ -67,20 +70,9 @@
       "scene_index": 1,
       "label": "全剧",
       "characters_present": [
-        "今朝好比七月七",
-        "坐在一旁不开言",
-        "大姐请来拜天地",
-        "将身坐在琴房内",
-        "小娘子请坐容客便",
-        "屈膝跪求施恻隐",
         "张继贤",
-        "打你板子问你罪",
-        "桂花枝挂住了金凤钗",
-        "自古高山出骏马",
-        "莫不是母亲生巧计",
         "贾桂娟",
-        "贾氏",
-        "进琴房将银灯放在桌案"
+        "贾氏"
       ],
       "lines": [
         {

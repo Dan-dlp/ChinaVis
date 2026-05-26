@@ -11,22 +11,26 @@
     {
       "name": "张良",
       "role_type": "生",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "苍海公",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "黄石公",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "秦始皇",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "秦始皇统一天下后，横征暴敛，严刑酷法，焚书坑儒，民不聊生。韩国少年张良屡思报仇，苦无助手。一日，\n识勇士苍海公，遂趁秦始皇巡游，行刺于博浪沙。不意误中副车，苍海公被擒。张良为避搜拿，窃投故友\n项伯家。有黄石公老人者，观张良抱负不凡，因试耐性于圯桥——三落其履，张良三进之。复嘱五日后黎明\n桥头相会。张良虽届时赶至，然二次均为老人先到。至第三次，张良三更即来等候，老人始授书三卷，曰：\n“读此可为王者师”。张良读其书，卒佐刘邦鼎定天下。",
@@ -1255,16 +1259,8 @@
       "scene_index": 5,
       "label": "第五场",
       "characters_present": [
-        "但愿得博浪沙除了强暴",
-        "但愿某此一去大功成了",
-        "倘若是我此去事机不妙",
-        "只恨我是书生身微力小",
         "张良",
-        "我要把好乾坤重新构造",
-        "眼见你此一去凶多吉少",
-        "秦始皇灭六国冤仇非小",
-        "苍海公",
-        "要知道我此去凶多吉少"
+        "苍海公"
       ],
       "lines": [
         {
@@ -2403,7 +2399,6 @@
       "scene_index": 11,
       "label": "第十一场",
       "characters_present": [
-        "在泥中忙取履曲膝下拜",
         "张良",
         "黄石公"
       ],

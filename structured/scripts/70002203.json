@@ -11,62 +11,74 @@
     {
       "name": "刘彦昌",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": "纱帽，黑三，蓝帔，衬褶子，香色彩裤，厚底靴；打堂时穿宝蓝褶子，绦子，高方巾"
     },
     {
       "name": "王桂英",
       "role_type": "青衣",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": "大头，点翠花儿，蓝帔，花裙，彩鞋"
     },
     {
       "name": "沉香",
       "role_type": "娃娃生",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": "孩儿发，小褶子，绦子，青彩裤，带穗洒鞋"
     },
     {
       "name": "秋儿",
       "role_type": "娃娃生",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": "孩儿发，小褶子，绦子，青彩裤，带穗洒鞋"
     },
     {
       "name": "秦灿",
       "role_type": "架子花脸",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": "相貂，黪满，鬓发，黑蟒，玉带，厚底靴"
     },
     {
       "name": "秦官保",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": "武生巾，绿褶子，青彩裤，白袜，黑鞋，扇子"
     },
     {
       "name": "魏虎",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": "矮方巾，丑三，褶子，大坎肩，绦子，方口皂鞋"
     },
     {
       "name": "书童",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": "孩儿发，茶衣，腰巾，青彩裤，白袜，黑鞋"
     },
     {
       "name": "小院子",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": "青罗帽，青褶子，大带，青彩裤，白袜，黑鞋"
     },
     {
       "name": "学生甲",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": "孩儿发，茶衣，腰巾，青彩裤，白袜，黑鞋"
     },
     {
       "name": "学生乙",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": "孩儿发，大袖，腰巾，青彩裤，白袜，黑鞋"
     },
     {
       "name": "八牢子",
       "role_type": "武行",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": "秦椒帽，竹布茨菇叶，箭衣，卒坎，大带，青彩裤，薄底靴，鸭嘴棍"
     }
   ],
   "plot_summary": "沉香与弟秋儿在南学读书，失手打死秦官保，归告父亲刘彦昌。兄弟争认行凶，刘彦昌与妻王桂英共同责问：\n先是王桂英袒护亲子秋儿，被刘彦昌责备；后王桂英怜沉香无母，乃舍秋儿抵罪，放走沉香。",
@@ -150,7 +162,6 @@
       "label": "第一场",
       "characters_present": [
         "书童",
-        "二学生",
         "小院子",
         "沉香",
         "秋儿",

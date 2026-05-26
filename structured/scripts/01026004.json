@@ -11,67 +11,80 @@
     {
       "name": "包拯",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "白桂娥",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "范仲禹",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "翟绅",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "翟缙",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "僧人",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "李保",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "李妻",
       "role_type": "彩旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "邻居甲",
       "role_type": "外",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "邻居乙",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "邻居丙",
       "role_type": "末",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "地保",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "白斌",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "范仲禹妻白氏，情急自尽。奸相葛登云，命家院寄柩在菩提寺内。山西客翟绅，往京城收账，半路换骑驴子。\n李保夫妇，谋财害命。翟绅、白氏，借尸还魂，阴差阳错，互投躯壳。包公下朝，黑驴冲道。包公卧游仙\n枕，至阴曹地府，勘察情由。用照妖镜，转换男女两魂。各归自身。葛登云、李保，均治以应得之罪。遂成\n定谳。",
@@ -1939,7 +1952,6 @@
         "地保",
         "白斌",
         "翟绅",
-        "走向前来将他呼唤",
         "邻居乙",
         "邻居甲"
       ],
@@ -2319,11 +2331,9 @@
       "label": "第十一场",
       "characters_present": [
         "众人",
-        "又见贤妻一旁站",
         "白桂娥",
         "翟绅",
         "翟缙",
-        "自从你赶考把京进",
         "范仲禹"
       ],
       "lines": [

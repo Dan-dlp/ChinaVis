@@ -11,27 +11,32 @@
     {
       "name": "关羽",
       "role_type": "红生",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "曹操",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "孙乾",
       "role_type": "生",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "刘劈",
       "role_type": "生",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "龚都",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "汝南刘辟、龚都联合袁绍声讨曹操，曹洪屡战不胜。关羽一为寻兄下落，二为报曹操厚待，请令出战。夜获\n奸细，相见乃是孙乾。孙乾告知刘备下落，劝关羽辞曹。孙乾归，刘辟、龚都欲俟关羽到河北后，与之共灭\n曹操，遂假意兵败，关羽得入汝南。",
@@ -716,7 +721,6 @@
         "刘辟",
         "孙乾",
         "报子",
-        "袁刚",
         "龚都"
       ],
       "lines": [

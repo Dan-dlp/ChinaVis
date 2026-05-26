@@ -11,97 +11,116 @@
     {
       "name": "宋士杰",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "万氏",
       "role_type": "彩旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "杨素贞",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "毛朋",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "顾读",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "田伦",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "杨春",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "杨青",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "刘题",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "姚廷美",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "姚廷春",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "姚母",
       "role_type": "老旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "小二",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "丁旦",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "师爷",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "黄大顺",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "酒保",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "刘二混",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "保童",
       "role_type": "娃娃生",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     }
   ],
   "plot_summary": "明嘉靖时，海瑞荐进士毛朋、田伦、顾读、刘提等出京为官。毛朋授河南八府巡按；田伦为江西巡按；顾读\n为河南汝光道、带管信阳州事；刘提为河南上蔡县令。出京时，四人同至双塔寺神前盟誓，誓为清官。时河\n南上蔡县姚廷春之妻田氏，谋夺家产，害死夫弟姚廷美，又串通姚廷美妻兄杨青，将其妹杨素贞卖与布商杨\n春为妻。杨素贞拒嫁。杨春怜其遭遇，撕毁身契，与之结为仁义兄妹，并愿代其鸣冤。适毛朋私访至此代写\n拆状。杨春、杨素贞奔信阳州告状，中途失散。杨素贞为无赖损所困，被宋士杰救回，认为义女，同往州衙\n上告。田氏得悉，求弟田伦，行贿顾读，顾读徇情，押禁杨素贞。宋士杰当堂辩理竟被杖责，乃复至毛朋处\n控告。田伦、顾读、刘提被免职。杨素贞沉冤得雪。",
@@ -1438,7 +1457,6 @@
       "scene_index": 4,
       "label": "第四场",
       "characters_present": [
-        "你兄长太愚蠢礼义不晓",
         "姚廷春",
         "姚廷美",
         "小二",
@@ -1804,7 +1822,6 @@
       "label": "第五场",
       "characters_present": [
         "姚母",
-        "带你去把公堂进",
         "杨素贞",
         "田氏"
       ],

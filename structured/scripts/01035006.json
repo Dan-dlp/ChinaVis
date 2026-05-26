@@ -11,47 +11,56 @@
     {
       "name": "沈云英",
       "role_type": "武旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "沈至绪",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "李氏",
       "role_type": "贴旦",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "张献忠",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "反将甲",
       "role_type": "副净",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "反将乙",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "小丫鬟",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "姬尚勇",
       "role_type": "武生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "老太婆",
       "role_type": "老旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     }
   ],
   "plot_summary": "前明流寇张献忠，生性狠毒。所过城邑，无论降与不降，均以屠戮为快。被其害者，竟至惨无人理。鸡犬且\n不宁，而况于民众乎。陕西道州守备沈公至绪，领命守城。张献忠猝然杀至，沈公聚集家将，开城击贼，竟\n然获胜。张献忠乃暗设陷马坑，诱沈公至该处，一时不及觉悟，当场战死。沈公女云英，家传武艺，骁勇非\n常，一闻恶耗，急欲报仇。邀请合城官员，会议战守之事。殊不知官员虽有，无一人敢担任者。沈云英忿极，\n将父辈之同僚，一齐喝散。命家将捧了守备之令旗令箭，传唤众百姓。而众百姓竟激于义愤，推沈云英为\n临时元帅，调度一切事宜。武生姬尚勇，与众人同心合力，先告奋勇。愿随麾下，擒斩其盗魁数人。而沈公\n至绪之尸者，亦在战场上认出，抢回城中。发丧开吊。张献忠率领残卒败逃，遂不敢觊觎道州矣。",
@@ -787,24 +796,12 @@
       "scene_index": 4,
       "label": "第四场",
       "characters_present": [
-        "上阵若还遭不幸",
-        "不由人泪流如泉涌",
-        "丢下儿虽然年纪幼",
-        "假若还坐待贼人将城陷",
-        "再败了娘儿们一同饮药酒",
-        "净坐下等贼来杀斩",
-        "只要人人能勇敢",
         "四民妇",
-        "四百姓",
-        "大家在后同呐喊",
         "姬尚勇",
         "小丫鬟",
         "小家将",
         "州同",
         "州官",
-        "想起你父好伤恸",
-        "我的父六十已高寿",
-        "我要与百姓作领袖",
         "李氏",
         "民妇己",
         "民妇庚",
@@ -814,10 +811,7 @@
         "百姓丁",
         "百姓丙",
         "百姓乙",
-        "百姓甲",
-        "莫说流贼是强寇",
-        "论刀法料也无敌手",
-        "贼本是乌合人心散"
+        "百姓甲"
       ],
       "lines": [
         {

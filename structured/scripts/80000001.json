@@ -13,52 +13,62 @@
     {
       "name": "杨延辉",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "铁镜公主",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "萧太后",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "杨延昭",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "杨宗保",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "佘太君",
       "role_type": "老旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "杨八姐",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "杨九妹",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "大国舅",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "二国舅",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     }
   ],
   "plot_summary": "杨延辉被擒后，改姓名，与铁镜公主成婚。辽邦萧天佐摆天门阵，佘太君亲征。杨延辉思母，为铁镜公主看\n破，以实告之；铁镜公主计盗令箭，助其出关，私回宋营，母子兄弟相会。杨延辉复回辽邦，被萧后得知，\n欲斩，铁镜公主代为求免。",
@@ -153,32 +163,7 @@
       "scene_index": 1,
       "label": "第一场：坐宫",
       "characters_present": [
-        "二次里走向前重把礼见",
-        "公主对天盟誓愿",
-        "千里姻缘一线穿",
-        "原来是杨家将把名姓改换",
-        "因何故终日里愁眉不展",
-        "思老母不由我肝肠痛断",
-        "我三哥被马踏尸骨泥烂",
-        "我大哥替宋王长枪命染",
-        "我好比南来雁失群飞散",
-        "我好比笼中鸟有翅难展",
-        "我弟兄八员将",
-        "我有心回宋营见母一面",
-        "我有心回营去见母一面",
-        "我本当与驸马消遣游玩",
-        "我本当吐实言求她婉转",
-        "我的父老令公官高爵显",
-        "我若探母不回转",
-        "我若是走漏了他的消息半点",
-        "我被擒改名姓方脱此难",
-        "我这里走向前再把礼见",
-        "早晚间休怪我言语怠慢",
         "杨延辉",
-        "杨延辉有一日愁眉开展",
-        "萧天佐摆天门两国交战",
-        "萧天佐摆天门在两下会战",
-        "都只为宋王爷五台山还愿",
         "铁镜公主"
       ],
       "lines": [
@@ -1699,15 +1684,7 @@
       "scene_index": 2,
       "label": "第二场：盗令",
       "characters_present": [
-        "低下头来心暗转",
-        "别人要令理当斩",
-        "叫番儿摆驾银安殿",
-        "忙把姣儿掐一把",
-        "我今赐你金鈚箭",
-        "桌案现有金鈚箭",
-        "老王爷设下了双龙会宴",
         "萧太后",
-        "论律就该推出斩",
         "铁镜公主"
       ],
       "lines": [
@@ -2244,7 +2221,6 @@
       "label": "第四场：过关",
       "characters_present": [
         "二国舅",
-        "勒住丝缰用目看",
         "大国舅",
         "杨延辉"
       ],

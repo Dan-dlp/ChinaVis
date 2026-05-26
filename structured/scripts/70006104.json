@@ -11,37 +11,44 @@
     {
       "name": "黄忠",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "严颜",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "夏侯渊",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "诸葛亮",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "夏侯尚",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "张郃",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "刘备",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "张郃兵败惧罪，又攻打葭萌关。老将黄忠、严颜向诸葛亮讨令拒敌，合力杀退张郃；又乘胜攻占曹军屯粮之\n天荡山，杀死夏侯德。黄忠另引一军攻打曹军重镇定军山，定军山守将夏侯渊出战，各不相下；夏侯渊擒去\n牙将陈式，黄忠又擒住夏侯渊之侄夏侯尚，黄忠故意于走马换将之时，箭射夏侯尚，激怒夏侯渊来追，引至\n荒郊，用拖刀计斩夏侯渊。",
@@ -139,13 +146,9 @@
       "label": "第一场",
       "characters_present": [
         "严颜",
-        "二位老将齐上马",
         "四军士",
-        "老虽老头上发",
-        "虎头金枪耍一耍",
         "诸葛亮",
         "赵云",
-        "赵国廉颇威名大",
         "黄忠"
       ],
       "lines": [
@@ -1600,8 +1603,6 @@
       "scene_index": 6,
       "label": "第九场",
       "characters_present": [
-        "催马来在阵头上",
-        "虽然年迈精神爽",
         "韩浩",
         "黄忠"
       ],
@@ -2497,8 +2498,6 @@
       "scene_index": 10,
       "label": "第十六场",
       "characters_present": [
-        "中原大将就是我",
-        "劝尔马前归降我",
         "夏侯渊",
         "报子",
         "黄忠"
@@ -2736,7 +2735,6 @@
       "label": "第十七场",
       "characters_present": [
         "报子",
-        "魏营打罢得胜的鼓",
         "黄忠"
       ],
       "lines": [
@@ -2874,7 +2872,6 @@
         "上手甲",
         "报子",
         "旗牌",
-        "魏营打罢得胜的鼓",
         "黄忠"
       ],
       "lines": [

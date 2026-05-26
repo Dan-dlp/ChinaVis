@@ -13,32 +13,38 @@
     {
       "name": "朱买臣",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "崔氏",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "徐大嫂",
       "role_type": "彩旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "张三",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "寇恂",
       "role_type": "外",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "僧人",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     }
   ],
   "plot_summary": "汉武帝时，有吴人朱买臣，家贫好学，不治产业，入山采樵，卖薪以自给，担薪上市，且行且读。妻引以为\n羞，下堂求去，朱买臣笑曰：我年五十，当富贵，今已四十余矣，受苦日久，姑为忍耐，待富贵后，以图报\n答，妻恚怒曰：执此几卷破烂书本，朝夕念诵，饥不能换食，寒不能换衣，行将填于沟壑耳，何能富贵，我\n实不堪久尝饥寒之况昧，乞即离异，听我另寻门径，我从此可以超生。朱买臣心中犹豫，不忍下笔，逼之至\n在，始写休书交付。妻欣然出门，嫁一泥水匠。朱买臣得同邑严助举荐，武帝召见，说《春秋》，言《楚辞》，\n武帝甚为器重，不数年间，拜会稽太守（汉之太守职掌兵权生杀自专与今之督军相仿佛）。属下官员，\n迎接新太守上任。饬夫役辟除道路。泥水匠亦在其内。妻则荷锸相从，奔走不遑，汗流浃背。朱买臣车过，\n妻上前俯伏，乞赐收录。朱买臣命从者，提水一桶，泼与地上，语之曰：若能再使此水，仍归桶中，涓滴不\n还者，我可以听从汝言。妻明知覆水难收，嗟叹而退。朱买臣命以后车，与其后夫，一同载入衙署，舍置园\n中，饮食周备居一月，妻自缢死。朱买臣给后夫以钱，使葬之。",
@@ -781,10 +787,8 @@
       "scene_index": 3,
       "label": "第三场",
       "characters_present": [
-        "一纸休书我就忙写完",
         "崔氏",
         "徐大嫂",
-        "我的妻并无有七出之犯",
         "朱买臣"
       ],
       "lines": [

@@ -11,32 +11,38 @@
     {
       "name": "花云",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "孙夫人",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "陈友谅",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "朱文逊",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "花安",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "郜夫人",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     }
   ],
   "plot_summary": "花云辅朱元璋侄朱文逊驻守太平城。北汉王陈友谅来攻，花云奋勇抗御。不幸采石矶被陈部陈友杰偷袭，太\n平城因遭围困。花云突围，朱文逊眷恋家眷，贻误戎机，君臣被执。朱文逊屈降，反被陈友谅杀掉；花云志\n坚，陈友谅敬之，屡劝不降，乃缚高杆，扣弦威胁。花云挣脱绑索，力杀多人，终因箭创颇重，乃自刎死。",
@@ -389,8 +395,6 @@
       "scene_index": 2,
       "label": "第二场",
       "characters_present": [
-        "古至今多少人不惜性命",
-        "四大铠",
         "四龙套",
         "孙夫人",
         "花云",
@@ -1056,9 +1060,7 @@
       "scene_index": 4,
       "label": "第四场",
       "characters_present": [
-        "劝你早把城池让",
         "四军士",
-        "无知贼子敢犯上",
         "花云",
         "陈友杰"
       ],
@@ -1707,7 +1709,6 @@
         "朱文逊",
         "花云",
         "花安",
-        "花安与爷带坐骥",
         "郜夫人"
       ],
       "lines": [

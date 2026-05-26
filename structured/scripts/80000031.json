@@ -11,22 +11,26 @@
     {
       "name": "伍员",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "东皋公",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "皇甫讷",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "米南适",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "伍员行至昭关。这时楚平王已命人画影图形，四处缉拿。伍员被隐士东皋公请至家中，七日七夜，一筹莫展，\n须发尽白。东皋公与好友皇甫讷设计，救伍员混出昭关。",
@@ -84,10 +88,8 @@
       "scene_index": 1,
       "label": "第一场",
       "characters_present": [
-        "万物静观皆自得",
         "东皋公",
         "伍员",
-        "我的父谏奏反把命送",
         "童儿"
       ],
       "lines": [

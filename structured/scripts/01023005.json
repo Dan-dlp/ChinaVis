@@ -13,27 +13,32 @@
     {
       "name": "贺天保",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "黄天霸",
       "role_type": "武生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "余六",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "余七",
       "role_type": "副净",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "施世纶",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "有巨盗余六、余七，霸占浮山，民遭荼毒。施公出京，经过淮安，欲图洗除。奈浮山险阻。不易进攻。且又\n不熟山中路经。黄天霸等拟商量探山之计，谁知贺天保、卢志义师徒二人，先后私自前往探山。卢志义先被\n杀，贺天保虽骁勇，足以力敌群盗。然终以黑夜荒山，卒被余六用飞抓杀死。黄天霸在公馆得一梦兆，正惊\n疑间，忽管宁来报，方知二人果已丧于浮山矣。管宁亦往私探，而幸得生归者。黄天霸等于是乃进见施公，\n商议破山之策。",
@@ -141,22 +146,13 @@
       "scene_index": 1,
       "label": "第一场",
       "characters_present": [
-        "一路上贪官污吏也不少",
-        "东昌府拿了朗如豹",
-        "今日来在淮安道",
-        "关泰",
         "卢志义",
-        "受害黎民把状告",
-        "将身且坐二堂道",
-        "抢劫行人命难保",
-        "掠抢民间女多娇",
         "施世纶",
         "李堃",
         "秦盛",
         "管宁",
         "纪全",
         "贺天保",
-        "都只为浮山出了二贼盗",
         "金大力",
         "黄天霸"
       ],
@@ -1820,7 +1816,6 @@
       "scene_index": 14,
       "label": "第十四场",
       "characters_present": [
-        "关泰",
         "李堃",
         "秦盛",
         "管宁",

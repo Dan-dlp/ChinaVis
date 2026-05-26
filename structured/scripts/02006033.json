@@ -11,17 +11,20 @@
     {
       "name": "闻仁",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "爰爰道人",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "黄袍大仙",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "爰爰道人及黄袍大仙在安乐镇一带为非作恶，乡民不得已，特为建庙祭祀。庙才建起，正要祭祀摆筵之日，\n闻仁赶到。劝乡民勿信妖言，并告爰爰道人：“吾在此挺立，若能兴风作雪，吾即信你。否则便系妖言惑众”\n。结果毫无灵应，遂将爰爰道人赶走，将庙改为乡会所。爰爰道人责备黄袍大仙，何以不显灵应。黄袍大\n仙曰：“闻仁系正人君子，文曲星下凡，吾等邪不胜正，安能不退避耶！”",
@@ -313,8 +316,6 @@
       "characters_present": [
         "乡民甲",
         "众乡民",
-        "愚民若被狂言煽",
-        "料尔皈依难比佛",
         "爰爰道人",
         "闻仁"
       ],

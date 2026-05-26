@@ -11,27 +11,32 @@
     {
       "name": "关羽",
       "role_type": "红生",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "文丑",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "刘备",
       "role_type": "生",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "袁绍",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "曹操",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "颜良阵亡，袁绍遣文丑与刘备攻曹，势不可挡。曹操用言激怒关羽。关羽刀劈文丑，但仍未能与刘备相遇。",
@@ -172,8 +177,7 @@
         "四文堂",
         "报子",
         "文丑",
-        "袁绍",
-        "迈步且把宝帐进"
+        "袁绍"
       ],
       "lines": [
         {
@@ -775,17 +779,12 @@
       "scene_index": 4,
       "label": "第四场",
       "characters_present": [
-        "乐进",
         "关羽",
-        "夏侯惇",
         "张辽",
-        "徐晃",
         "报子",
         "曹仁",
         "曹操",
-        "曹洪",
-        "李典",
-        "许褚"
+        "曹洪"
       ],
       "lines": [
         {

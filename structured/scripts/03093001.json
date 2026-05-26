@@ -11,52 +11,62 @@
     {
       "name": "曹操",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "刘备",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "汉献帝",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "董承",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "关羽",
       "role_type": "红生",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "张飞",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "车胄",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "王子服",
       "role_type": "末",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "种辑",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "吴硕",
       "role_type": "生",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     }
   ],
   "plot_summary": "曹操请汉献帝许田射猎，曹操用汉献帝金鈚箭射中糜鹿，众官兵以为汉献帝射中，趋前称贺。曹操掩至帝前\n昂然受贺。关羽、张飞等欲杀之，刘备劝止。汉献帝怀恨，回宫暗书血诏，藏于玉带内，交付国舅董承，董\n承纠合王子服、吴硕等共议除曹之计。",
@@ -916,7 +926,6 @@
       "label": "第二场",
       "characters_present": [
         "刘备",
-        "刘备今日把君见",
         "吴硕",
         "大太监",
         "曹操",
@@ -1699,9 +1708,7 @@
       "label": "第三场",
       "characters_present": [
         "四文堂",
-        "将身且坐宝帐上",
         "曹操",
-        "程昱",
         "郭嘉"
       ],
       "lines": [
@@ -2265,9 +2272,7 @@
       "characters_present": [
         "二旗牌",
         "八英雄",
-        "八龙旗",
         "刘备",
-        "曹八将",
         "曹操",
         "汉献帝"
       ],

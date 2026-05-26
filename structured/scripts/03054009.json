@@ -11,27 +11,32 @@
     {
       "name": "诸葛亮",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "刘备",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "关羽",
       "role_type": "红生",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "张飞",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "诸葛均",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "严冬腊月，刘备再访诸葛亮，不遇而返。上元后，三顾茅庐，诸葛亮始见，历举天下形势，并教刘备即取荆、\n益二州以立业。刘备敬服，恳其出山辅佐。",
@@ -118,9 +123,7 @@
       "label": "第一场",
       "characters_present": [
         "刘备",
-        "张飞",
-        "霎时稠云满天上",
-        "鹅毛大雪从天降"
+        "张飞"
       ],
       "lines": [
         {
@@ -306,18 +309,10 @@
       "scene_index": 2,
       "label": "第二场",
       "characters_present": [
-        "入关驰骋推雄辩",
-        "兴周灭纣功劳占",
         "刘备",
-        "勒住丝缰用目看",
         "孟公威",
-        "孟津誓师威风显",
-        "晚年姜尚离渭水",
-        "甩镫离鞍下走战",
         "石广元",
-        "酒保",
-        "隐居在此图清净",
-        "高祖斩蛇曾兴汉"
+        "酒保"
       ],
       "lines": [
         {
@@ -1238,32 +1233,12 @@
       "scene_index": 3,
       "label": "第三场",
       "characters_present": [
-        "万勿推却实为幸",
-        "下得马来把话讲",
-        "不顾风寒茅庐访",
-        "久闻先生韬略广",
-        "他日沐浴备来请",
-        "伏乞先生施仁义",
         "关羽",
         "刘备",
-        "刘备忧思肝胆重",
-        "勒住丝缰用目望",
         "小童",
         "张飞",
-        "想来先生也知晓",
-        "掀帘且把房门进",
-        "早出茅庐为辅佐",
-        "未遇空回遥观望",
-        "求借笔砚我使用",
-        "汉左将军豫州牧",
-        "目今四野干戈动",
-        "空回心魂皆不定",
-        "窃思备乃汉支脉",
         "童儿",
-        "荷蒙皇恩封极品",
         "诸葛均",
-        "走向前来礼恭敬",
-        "辞别先生把马上",
         "黄承彦"
       ],
       "lines": [
@@ -2661,8 +2636,6 @@
       "scene_index": 4,
       "label": "第四场",
       "characters_present": [
-        "一心无二去相聘",
-        "上元过了数日整",
         "关羽",
         "刘备",
         "张飞"

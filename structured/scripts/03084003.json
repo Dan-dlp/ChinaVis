@@ -11,27 +11,32 @@
     {
       "name": "刘仁瞻",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "赵匡胤",
       "role_type": "红生",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "高怀亮",
       "role_type": "武生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "徐金花",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "花迎春",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     }
   ],
   "plot_summary": "南唐总制刘仁瞻，坐镇寿州。一日，刘仁瞻与妻徐金花、爱妾花迎春赏菊，部将何延锡来报军情，见花迎春\n风流貌美，约于三更在后花园幽会。时周将赵匡胤犯界，刘仁瞻开城迎战，中箭败回。三更将至，花迎春因\n服侍刘仁瞻恐失约，甚为焦急。刘仁瞻令花迎春回房写奏章求救，花迎春得此机会，遂与何延锡苟合。徐金\n花前往催取奏章，何延锡、花迎春无法躲避，跪求饶命。徐金花晓以大义，将二人宽免。赵匡胤至城下劝刘\n仁瞻归降，花迎春亦苦苦相劝，刘仁瞻不允，周兵遂将寿州围困。",
@@ -142,11 +147,8 @@
       "characters_present": [
         "何延锡",
         "刘仁瞻",
-        "太平盛世军民爱",
         "徐金花",
-        "忠勇可夸刚强在",
         "旗牌",
-        "膝下有子无挂碍",
         "花迎春"
       ],
       "lines": [
@@ -738,7 +740,6 @@
       "characters_present": [
         "八上手",
         "四大铠",
-        "四龙套",
         "李重进",
         "赵匡胤",
         "高怀亮"
@@ -1530,7 +1531,6 @@
         "何延锡",
         "刘仁瞻",
         "四大铠",
-        "四文堂",
         "张万",
         "报子",
         "高怀亮"
@@ -1992,7 +1992,6 @@
       "scene_index": 8,
       "label": "第八场",
       "characters_present": [
-        "会过战将似他少",
         "何延锡",
         "刘仁瞻",
         "张万"
@@ -2126,14 +2125,8 @@
       "label": "第九场",
       "characters_present": [
         "刘仁瞻",
-        "南唐大业恐变动",
         "徐金花",
-        "怎奈周兵如潮涌",
-        "桃花飞马疆场纵",
-        "花迎春",
-        "请兵救援事为重",
-        "遥望城头灯悬挂",
-        "顿觉心清目又醒"
+        "花迎春"
       ],
       "lines": [
         {

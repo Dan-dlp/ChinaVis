@@ -11,37 +11,44 @@
     {
       "name": "王宝钏",
       "role_type": "正旦",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "薛平贵",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "游人甲",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "游人乙",
       "role_type": "末",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "游人丙",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "游人丁",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "月老",
       "role_type": "老旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     }
   ],
   "plot_summary": "王允之女王宝钏，父母颇钟爱。定于二月二日高结彩楼，抛球招婿。先期，王宝钏夜梦斗大红星入怀。明日\n在花园见一花子，名薛平贵。卧处有红光罩身，心异其人，料其必贵。因唤至济给银米，并许以终身。告知\n彩楼抛球事，嘱其届时到来接球。及期，一般翩翩公子，走马王孙，无不前望接球。希望天赐美妻。不意果\n中一花郎薛平贵，众遂失望而散。",
@@ -126,14 +133,8 @@
       "scene_index": 1,
       "label": "第一场",
       "characters_present": [
-        "两耳垂肩贵相品",
         "丫鬟",
-        "丫鬟你远看",
-        "夜梦红星是有准",
-        "家住本国长安地",
-        "彩楼之事对他论",
         "王宝钏",
-        "若问小生名和姓",
         "薛平贵"
       ],
       "lines": [
@@ -908,7 +909,6 @@
         "游人乙",
         "游人甲",
         "薛平贵",
-        "迈步且把花园进",
         "门官"
       ],
       "lines": [

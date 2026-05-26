@@ -11,17 +11,20 @@
     {
       "name": "王中",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "王魁",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "张千",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     }
   ],
   "plot_summary": "王魁与妓女敫桂英情笃义深，互盟誓愿。王魁入京高榜得中，入赘宰相之家，回书休弃敫桂英。老仆王中，\n见他忘恩负义，痛加斥责，脱下丝带，愤愤而去。",
@@ -79,22 +82,11 @@
       "scene_index": 1,
       "label": "全剧",
       "characters_present": [
-        "三百两纹银将行装置办",
-        "今日高中登金榜",
-        "你就说我家相公日夜盼望将她等",
-        "你就说状元起居要我照应",
-        "倘若是夫人将我问",
-        "奉上纹银三百两",
-        "小哥",
         "小院子",
         "张千",
-        "早些住店晚些登程",
-        "流水年华莫虚晃",
         "王中",
         "王魁",
-        "自悔缠绵花柳巷",
-        "门官",
-        "饥餐渴饮要洁净"
+        "门官"
       ],
       "lines": [
         {

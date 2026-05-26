@@ -11,27 +11,32 @@
     {
       "name": "薛平贵",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "代战公主",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "高嗣继",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "魏虎",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "王允",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "唐王晏驾，王允篡位，欲杀薛平贵。薛平贵逃走，王允遣高嗣继追之。薛平贵放出代战公主所贻之金铃鸽为\n号，代战公主赶至救援，高嗣继投降，引薛平贵反攻长安。",
@@ -100,9 +105,7 @@
       "label": "第一场",
       "characters_present": [
         "代战公主",
-        "四红龙套",
-        "江海",
-        "马达"
+        "四红龙套"
       ],
       "lines": [
         {
@@ -532,8 +535,6 @@
       "label": "第四场",
       "characters_present": [
         "代战公主",
-        "江海",
-        "马达",
         "高嗣继"
       ],
       "lines": [
@@ -1007,8 +1008,6 @@
       "scene_index": 6,
       "label": "第六场",
       "characters_present": [
-        "哪怕那代战女兴兵到",
-        "怕的是代战女兴兵到",
         "王允",
         "魏虎"
       ],

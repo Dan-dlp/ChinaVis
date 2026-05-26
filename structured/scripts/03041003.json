@@ -11,17 +11,20 @@
     {
       "name": "班超",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "鄯善王",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "匈奴王",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "汉朝，班超出使鄯善国，驻玉门关。匈奴威胁鄯善叛汉，并于深夜刺班超。为班超识破，计斩匈奴王，鄯善\n仍附汉朝。",
@@ -106,8 +109,6 @@
       "label": "第一场",
       "characters_present": [
         "任尚",
-        "四上手",
-        "四龙套",
         "李义",
         "班超",
         "郭熙",

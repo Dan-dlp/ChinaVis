@@ -15,112 +15,134 @@
     {
       "name": "妙善",
       "role_type": "贴旦",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "妙庄王",
       "role_type": "生",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "达摩",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "林表",
       "role_type": "外",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "王正",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "何信",
       "role_type": "付",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "任仲",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "妙金",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "妙银",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "金枝",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "山神",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "土地",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "土地奶奶",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "师父",
       "role_type": "生",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "小道童",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "净水佛",
       "role_type": "生",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "香花佛",
       "role_type": "末",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "阿耨佛",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "伽沙佛",
       "role_type": "外",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "韦陀",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "人曹官",
       "role_type": "付",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "佛祖",
       "role_type": "生",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     }
   ],
   "plot_summary": "妙庄王三公主妙善生有佛性，自幼斋心诵佛，后因妙庄王欲为招婿，因舍公主之尊严，抛别宫闱，入山修炼。\n自是激怒妙庄王，致有罚令浇花，又赐七尺红绫绞杀，并火烧白雀寺等种惨酷行为，卒赖佛性不灭，历尽\n艰苦，终成正果云。",
@@ -377,9 +399,7 @@
       "scene_index": 1,
       "label": "第一场",
       "characters_present": [
-        "但愿产生麒麟子",
         "妙庄王",
-        "岁岁外邦来进贡",
         "王后"
       ],
       "lines": [
@@ -1078,11 +1098,9 @@
       "scene_index": 4,
       "label": "第四场",
       "characters_present": [
-        "君妃年将半百岁",
         "天妃圣母",
         "太监",
         "妙庄王",
-        "惟愿天赐麒麟子",
         "林表",
         "王后"
       ],
@@ -1415,9 +1433,6 @@
       "scene_index": 6,
       "label": "第六场",
       "characters_present": [
-        "何苦吃此黄斋饭",
-        "你妹看破其中意",
-        "倒不如悔却斋心戒",
         "妙善",
         "妙金",
         "妙银",

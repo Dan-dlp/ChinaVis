@@ -13,42 +13,50 @@
     {
       "name": "九尾仙姬",
       "role_type": "武旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "王法师",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "吕洞宾",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "关羽",
       "role_type": "红生",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "周仓",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "关平",
       "role_type": "武生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "周从纶",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "书童",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     }
   ],
   "plot_summary": "此种神怪杂剧，大都十九子虚，无从考索，即或偶有所本，而纯乎述信之谭，且属在孔子四不语之例。则亦\n何庸搜神志怪，以重世人疑心生暗鬼之愚。至其大概，即从昆剧《请师斩妖》出翻成，略谓青石山有风魔洞，\n洞中有千年之九尾妖狐，化身为美妇人，在周家作法施妖，蛊媚其少年主人名德龙者，致此主人终日捉空\n喃喃，似病疯癇一般。其家习闻道十能捉妖怪，遂延请王法师到家蘸禳，讵如绝无效验，反致愈益猖獗。卒\n赖吕纯阳至，为之召请天将，召得关公及周仓等（昆剧中系二郎神杨戬），方用神兵降伏擒斩而毕，盖仍以\n迷信收场也。",
@@ -181,8 +189,7 @@
       "label": "第二场",
       "characters_present": [
         "九尾仙姬",
-        "四女妖",
-        "四小妖"
+        "四女妖"
       ],
       "lines": [
         {
@@ -507,14 +514,8 @@
       "characters_present": [
         "九尾仙姬",
         "二院子",
-        "吾夫贸易未回转",
         "周从纶",
-        "四女妖",
-        "四小妖",
-        "四青袍",
-        "奴夫张姓名文成",
-        "家往本城洛阳郡",
-        "家有婆婆心肠狠"
+        "四女妖"
       ],
       "lines": [
         {

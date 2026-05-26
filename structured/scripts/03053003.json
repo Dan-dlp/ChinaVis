@@ -11,17 +11,20 @@
     {
       "name": "包拯",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "李后",
       "role_type": "老旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "地方",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     }
   ],
   "plot_summary": "包拯往陈州放粮，路过天齐庙，有盲丐妇吿状，备言当年刘妃、郭槐以狸猫换太子事。包拯始知盲妇为李后，\n遂允回朝辩冤。",
@@ -77,8 +80,7 @@
       "label": "第一场",
       "characters_present": [
         "包拯",
-        "王朝",
-        "马汉"
+        "王朝"
       ],
       "lines": [
         {
@@ -472,27 +474,10 @@
       "scene_index": 4,
       "label": "第四场",
       "characters_present": [
-        "万岁不准臣的本",
-        "万岁准了为臣本",
-        "且在此处暂住轿",
-        "二十年来住寒窑",
-        "二次撩袍忙跪倒",
-        "你若是断不明我的冤仇恨",
-        "你若是断明我的冤仇恨",
         "包拯",
-        "包相回朝本奏到",
         "地方",
-        "忙跪倒",
-        "忽听小哥一声唤",
-        "我若是袖手观佯装不晓",
-        "拿住刘妃把仇报",
         "李后",
-        "王朝",
-        "走上前",
-        "这是我冤屈事对你来表",
-        "马汉",
-        "马汉忙开道",
-        "黄绫诗帕是我的无价宝"
+        "王朝"
       ],
       "lines": [
         {

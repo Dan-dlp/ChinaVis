@@ -11,22 +11,26 @@
     {
       "name": "薛平贵",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "苏龙",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "魏虎",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "代战公主",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     }
   ],
   "plot_summary": "薛平贵别妻王宝钏，回营误卯。元帅魏虎因受岳父王允嘱托，借故欲斩薛平贵。经苏龙劝阻，乃捆打四十。\n薛平贵至西凉与代战公主交战，获胜回营；魏虎复借庆功为由，用酒将薛平贵灌醉，缚于红鬃马上，驱至西\n凉，为敌所获。西凉王反以其女代战许之；西凉王死，薛平贵得代战公主之助，继位银安殿。",
@@ -112,7 +116,6 @@
       "label": "第一场",
       "characters_present": [
         "中军",
-        "四铠将",
         "四龙套",
         "苏龙",
         "薛平贵",
@@ -1379,10 +1382,8 @@
         "代战公主",
         "代金",
         "代银",
-        "江海",
         "薛平贵",
-        "西凉王",
-        "马达"
+        "西凉王"
       ],
       "lines": [
         {

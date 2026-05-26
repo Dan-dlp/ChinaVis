@@ -13,92 +13,110 @@
     {
       "name": "刘备",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "诸葛亮",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "徐庶",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "曹操",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "关羽",
       "role_type": "红生",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "张飞",
       "role_type": "副净",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "赵云",
       "role_type": "武生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "文聘",
       "role_type": "武净",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "孙乾",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "简雍",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "糜竺",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "糜芳",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "糜夫人",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "甘夫人",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "刘琮",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "魏延",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "蔡瑁",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "张允",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "曹操因为刘备得到诸葛亮用为军师，非常畏忌，知道对于自己必定不利，所以特命徐庶来招降。哪知徐庶深\n恨曹操赚他脱离刘备，一方又很感刘备待遇之恩；所以身虽在曹誓不为曹操设一谋，定一策。此次前来招降，\n反代刘备谋划逃走之法；既然会见诸葛亮，告知曹操声势浩大，不可抵敌，只有避让方妥。于是先叫关公\n到江夏刘琦处借兵，再叫张飞、赵云保护百姓和刘备的家眷逃避。及至到了荆州，刘琮听信了蔡瑁的谗言，\n不让刘备进城。这时魏延在荆州，有心归降刘备，所以私自开放城门，反被文聘打败，逃到长沙韩玄处。徐\n庶回见曹操，告知刘备不肯投诚，现已逃去。曹操一听大怒，当时率领大兵追赶。",
@@ -745,19 +763,11 @@
       "scene_index": 3,
       "label": "第三场",
       "characters_present": [
-        "上写曹操顿首拜",
-        "东吴孙权",
-        "丹心一点重扶汉",
         "关羽",
-        "刘二家合一快",
         "刘备",
         "孙乾",
-        "孤王看书你休怪",
         "张飞",
         "徐庶",
-        "曹",
-        "汉业至今四百零",
-        "看罢书信忙揣怀",
         "简雍",
         "诸葛亮",
         "赵云",

@@ -11,17 +11,20 @@
     {
       "name": "关羽",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "周仓",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "鲁肃",
       "role_type": "末",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     }
   ],
   "plot_summary": "故事写刘备向孙权借驻荆州，历久未还。鲁肃设宴，邀请荆州守将关羽。关羽仅带周仓一人，持单刀赴会。\n鲁肃在筵前，索取荆州。关羽斥责鲁肃不应埋设伏兵，反而将鲁肃执住，鲁肃只得作罢。关羽遂鼓帆而去。",
@@ -224,7 +227,6 @@
         "关羽",
         "周仓",
         "旗牌",
-        "没早晚不分个明夜",
         "鲁肃"
       ],
       "lines": [

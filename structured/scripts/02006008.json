@@ -11,42 +11,50 @@
     {
       "name": "李世民",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "徐勣",
       "role_type": "外",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "尉迟恭",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "秦琼",
       "role_type": "末",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "程咬金",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "王氏",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "罗春",
       "role_type": "占",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "罗成",
       "role_type": "生",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": "戴头面"
     }
   ],
   "plot_summary": "罗成被李建成、李元吉陷害，单身出战苏定方，深陷淤泥河中，乱箭身亡。秦王李世民平定高丽后，令徐勣、\n秦琼、尉迟恭及程咬金等同来吊丧，并将苏定方首级，献于灵前，痛苦追悼而去。",
@@ -340,21 +348,14 @@
       "label": "第二场",
       "characters_present": [
         "二内侍",
-        "冤遇奸王把你害",
-        "卿家开国功勋大",
-        "只因误被奸王害",
-        "可怜你是英雄汉",
         "士卒",
         "尉迟恭",
         "徐勣",
-        "恨杀奸王来害你",
-        "悲伤折我擎天柱",
         "李世民",
         "秦琼",
         "程咬金",
         "罗成",
-        "罗春",
-        "自从识荆来结义"
+        "罗春"
       ],
       "lines": [
         {

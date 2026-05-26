@@ -11,42 +11,50 @@
     {
       "name": "关羽",
       "role_type": "红生",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "关定",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "关平",
       "role_type": "武生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "关宁",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "马童",
       "role_type": "武生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "张飞",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "刘备",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "曹操",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "桃园弟兄古城团聚，大宴三军，操练人马。一日，关羽游猎，夜宿关定庄，关定仰慕关羽仁义，命子关平认\n关羽为父，追随左右。时曹操因桃园弟兄在古城招兵买马，率兵进袭。古城城小人孤，刘备率众弃城而走。",
@@ -230,7 +238,6 @@
       "label": "第一场",
       "characters_present": [
         "乐进",
-        "亲统大兵将他征",
         "夏侯惇",
         "张辽",
         "徐晃",
@@ -239,9 +246,7 @@
         "曹操",
         "曹洪",
         "李典",
-        "程昱",
-        "许褚",
-        "郭嘉"
+        "许褚"
       ],
       "lines": [
         {
@@ -659,8 +664,6 @@
         "四蓝龙套",
         "孙乾",
         "张飞",
-        "步行如飞世无双",
-        "登山越岭如平路",
         "糜芳"
       ],
       "lines": [
@@ -2329,7 +2332,6 @@
       "label": "第十一场",
       "characters_present": [
         "丑院子",
-        "关云长若能够收下此将",
         "关宁",
         "关定",
         "关平",

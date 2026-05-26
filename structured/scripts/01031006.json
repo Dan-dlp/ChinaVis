@@ -13,47 +13,56 @@
     {
       "name": "孙悟空",
       "role_type": "武生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "母龙",
       "role_type": "武旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "小龙",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "老龙",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "杨氏",
       "role_type": "贴旦",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "丫鬟",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "金钱子",
       "role_type": "副净",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "达摩",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "县官",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "莲花塘赤发虬龙，挈带众水族，往九华山天仙圣母处祝寿，嘱小龙看守洞府。小龙以龙父不在，身无拘束，\n意欲到热闹场中，一扩眼界，于是变一道童，入涿州城化缘。与富民金钱子之妻姘识，匿居房中。金钱子自\n外归来，为所瞥见。小龙忽有含酸之意，用邪法制死金钱子。玉帝恶其残忍，命雷电击之。小龙逃回莲花塘，\n求救于龙父、龙母。而龙父、龙母反溺爱其子，以为小龙受亏。遽尔兴波作浪，淹毙人民无算。玉帝大怒，\n急勅众神将，扫荡孽龙，龙父、龙母，竟敢公然拒敌。玉帝又调齐天大圣孙悟空为后援，而莲花塘众水族，\n全数成擒焉。",
@@ -280,9 +289,7 @@
       "characters_present": [
         "丫鬟",
         "小龙",
-        "来在了花园门用目观看",
-        "杨氏",
-        "都只为庙残破欲修宫殿"
+        "杨氏"
       ],
       "lines": [
         {

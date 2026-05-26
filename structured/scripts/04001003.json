@@ -11,22 +11,26 @@
     {
       "name": "高宠",
       "role_type": "武生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "牛皋",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "兀术",
       "role_type": "武净",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "岳飞",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "金兀术将康王（后来的宋高宗）围困在牛头山。宋军统帅岳飞派牛皋到金营下战书。兀术对牛皋不予礼遇，\n并加以威吓；牛皋毫无畏惧，言辞抗议，兀术不得已待以上宾之礼。两军会阵之日，岳飞败于兀术。在山头\n看守宋军大纛的猛将高宠，见状情急；一马冲下山坡，解了岳飞之围，并奋勇地冲入敌营。兀术急命部下以\n铁滑车自山头滑下，阻击高宠；高宠奋不顾身，连续枪挑滑车多辆，鼓勇冲上，终以力尽战死。岳飞、牛皋\n闻讯，悲愤交加，率兵力战，抢回了高宠的尸体。",
@@ -343,11 +347,8 @@
       "scene_index": 2,
       "label": "第二场",
       "characters_present": [
-        "三日之后来交战",
-        "修罢书信把牛皋唤",
         "四宋兵",
         "岳飞",
-        "此番见了兀术面",
         "牛皋"
       ],
       "lines": [
@@ -682,7 +683,6 @@
         "土须虎",
         "土须龙",
         "报子",
-        "来在番营用目看",
         "牛皋",
         "金光德照",
         "金光普照",

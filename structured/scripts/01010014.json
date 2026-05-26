@@ -11,17 +11,20 @@
     {
       "name": "差役",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "魏虎",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "王氏",
       "role_type": "花旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     }
   ],
   "plot_summary": "一差一犯，押解发配远行。其罪犯名魏虎，与《算粮登殿》中之魏虎同名，未能考其是一是二。行经中途歇\n息，途旁有一妇人设一小摊，售卖饽饽馒头，犯人正饥火中烧，遂将大嚼，继而因索钱钞，彼此调笑打诨，\n差役亦同与取乐，令妇人唱歌数折而散。",
@@ -758,7 +761,6 @@
       "scene_index": 2,
       "label": "第二场",
       "characters_present": [
-        "一年四季下大雨",
         "差役",
         "王氏",
         "魏虎"

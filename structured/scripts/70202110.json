@@ -11,37 +11,44 @@
     {
       "name": "张氏",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "王恢",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "公孙瓒",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "丫鬟",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "李信",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "孙氏",
       "role_type": "丑旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "刘氏",
       "role_type": "老旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     }
   ],
   "plot_summary": "剧本假托汉末公孙瓒和刘虞互争权位，发动了内战，河北人民惨受征戎、流离的痛苦。壮士王恢新婚不满数\n月，被强征入伍，阵前中箭而死。妻子张氏，终日在家伫盼，不觉积思成梦。梦见王恢解甲归来，张氏又是\n欢忻，又是哀怨。倏忽间战鼓惊天，乱兵杂沓，尽都是一些血肉骷髅，吓得张氏蓦地惊醒，才知都是梦境。",
@@ -381,10 +388,8 @@
       "scene_index": 2,
       "label": "第二场",
       "characters_present": [
-        "四校尉",
         "孙氏",
         "李信",
-        "来",
         "杨威"
       ],
       "lines": [
@@ -914,12 +919,8 @@
       "characters_present": [
         "刘氏",
         "孙氏",
-        "实指望你成人勉供菽水",
-        "我已是年八旬余生无几",
         "李信",
-        "眼睁睁只好是忍心抛弃",
-        "赵克奴",
-        "那时节家贫穷少柴缺米"
+        "赵克奴"
       ],
       "lines": [
         {
@@ -1284,12 +1285,10 @@
       "characters_present": [
         "丫鬟",
         "众人",
-        "但愿得我家军战无不利",
         "刘氏",
         "四父老",
         "孙氏",
         "张氏",
-        "念家中要不断时通双鲤",
         "曹子",
         "曹襄",
         "李信",

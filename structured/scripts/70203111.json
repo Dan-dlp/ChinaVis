@@ -15,52 +15,62 @@
     {
       "name": "金玉奴",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "莫稽",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "金松",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "林润",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "二杆",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "三杆",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "报录人",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "林夫人",
       "role_type": "老旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "甄一臣",
       "role_type": "生",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "丫鬟",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     }
   ],
   "plot_summary": "书生莫稽，落魄行乞。值严冬风雪，饥寒交迫，倒卧于乞丐头领金松门首。金松外出未归，其女金玉奴倚门\n盼父，见莫稽倒卧雪中，心甚不忍，将之唤进门内，以豆汁与彼暖腹充饥。金玉奴见莫稽仪表不凡，甚为爱\n慕，待父归家后，得父允许，与莫稽结为夫妇。大比之年，莫稽入都赴试，得中进士，出任江西德化县正堂。\n一旦荣显，即憎金玉奴出身微贱，乘赴任行舟江中，推金玉奴落水，并将金松逐去。金玉奴为江西巡按林\n润所救。林润问明原委，收为义女，并差人将金松寻回。德化县本为林润所辖，林润乃伪称欲以己女妻莫稽。\n莫稽因得攀上司，喜出望外，欣然进入洞房，不想痛遭棒打。金玉奴当众斥责莫稽薄情负义。林润激怒，\n将莫稽冠戴摘去，令其回衙听参。金玉奴仍留林润处侍奉老父。",
@@ -210,10 +220,7 @@
       "label": "第一场：风雪访松",
       "characters_present": [
         "三杆",
-        "二杆",
-        "小杆丙",
-        "小杆乙",
-        "小杆甲"
+        "二杆"
       ],
       "lines": [
         {
@@ -456,12 +463,9 @@
       "scene_index": 2,
       "label": "第二场：救稽结亲",
       "characters_present": [
-        "也是我命不绝天赐糜粥",
-        "做丐头众弟兄举我为首",
         "全玉",
         "全玉奴",
         "莫稽",
-        "走向前施一礼多谢搭救",
         "金松",
         "金玉奴"
       ],
@@ -3205,12 +3209,9 @@
       "scene_index": 5,
       "label": "第五场：两报推江",
       "characters_present": [
-        "也是我命不绝天赐糜粥",
-        "做丐头众弟兄举我为首",
         "全玉",
         "全玉奴",
         "莫稽",
-        "走向前施一礼多谢搭救",
         "金松",
         "金玉奴"
       ],

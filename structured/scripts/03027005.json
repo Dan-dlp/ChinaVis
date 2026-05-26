@@ -11,12 +11,14 @@
     {
       "name": "诸葛亮",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "王朗",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "三国时，蜀诸葛亮兵出祁山，与魏曹真、郭淮、王朗战于渭水之西，王朗自恃口才约诸葛亮阵前答话，企说\n降之。不意反被诸葛亮历数其罪，严词责斥。王朗愧愤无地，坠马而亡。",
@@ -80,7 +82,6 @@
       "label": "第一场",
       "characters_present": [
         "关兴",
-        "张苞",
         "旗牌",
         "诸葛亮",
         "马岱",
@@ -835,10 +836,7 @@
       "label": "第四场",
       "characters_present": [
         "关兴",
-        "助桀为虐篡了汉鼎",
-        "匡扶汉室你全不论",
         "王朗",
-        "竟敢在马前胡乱论",
         "诸葛亮"
       ],
       "lines": [

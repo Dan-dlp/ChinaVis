@@ -13,52 +13,62 @@
     {
       "name": "费德恭",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "黄天霸",
       "role_type": "武生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "张桂兰",
       "role_type": "武旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "褚彪",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "米龙",
       "role_type": "副净",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "豆虎",
       "role_type": "副净",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "张氏",
       "role_type": "老旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "老道",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "家院",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "张妈",
       "role_type": "彩旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     }
   ],
   "plot_summary": "《施公案》载：淮安招贤镇剧盗费德恭，系飞天豹之门徒，武艺高强，恃有宝剑一口，削铁如泥；药箭二十\n四枝，百发百中，中无不死，并善使连环棍，附近绿林，无不拜服。因此霸占水龙窝，终日以抢家劫舍为事，\n尤最贪色。时逢八蜡庙庙会之期，费德恭与米龙、豆虎同往游玩，见某氏女名兰英者，姿首绝佳，遂强抢\n回寨，迫其服从。兰英不允，即用乱棒打死。先是，费德恭已因强欲于武举梁大刚女议婚未成，遂将其全家\n二十四口，杀死泄恨，故已犯有大刚一案。施公早令黄天霸等在外侦探。至此，适为黄天霸等所目睹，遂向\n庙祝老道士处，探得大略，知梁大刚一案亦即此人所犯。黄天霸等乃急归报知施公，于是有褚彪定策，令黄\n妻张桂兰扮作民女，也往八蜡庙进香，故予抢去，以便届时内应。张桂兰既至彼，先设计将其宝剑、药箭二\n物藏去，乃与贺人杰一同下手杀出，而褚彪、黄天霸等亦早埋伏在外，至是里应外合，方克将费德恭擒获正\n法云。",
@@ -227,8 +237,6 @@
       "label": "第一场",
       "characters_present": [
         "家院",
-        "米龙",
-        "豆虎",
         "费德恭"
       ],
       "lines": [
@@ -1163,7 +1171,6 @@
       "label": "第四场",
       "characters_present": [
         "众人",
-        "列位英雄",
         "张家院",
         "施世纶",
         "朱光祖",
@@ -1552,13 +1559,11 @@
       "label": "第五场",
       "characters_present": [
         "众人",
-        "关泰",
         "张兰英",
         "张桂兰",
         "朱光祖",
         "褚彪",
         "贺仁杰",
-        "贺公子听令",
         "金大力",
         "黄天霸"
       ],
@@ -1785,13 +1790,11 @@
       "label": "第六场",
       "characters_present": [
         "众人",
-        "关泰",
         "张兰英",
         "张桂兰",
         "朱光祖",
         "褚彪",
         "贺仁杰",
-        "贺公子听令",
         "金大力",
         "黄天霸"
       ],
@@ -1993,7 +1996,6 @@
       "scene_index": 7,
       "label": "第七场",
       "characters_present": [
-        "人来与我乱棍打",
         "家院",
         "张兰英",
         "费德恭"

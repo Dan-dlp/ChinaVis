@@ -11,17 +11,20 @@
     {
       "name": "徐母",
       "role_type": "老旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "曹操",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "程昱",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "徐庶辅佐刘备，连败曹兵；曹操乃将其母劫至许昌，劝其命子弃刘归曹，徐母不允，骂之且欲用砚击曹操。\n程昱献计，礼待徐母，诓其笔迹，欲假造徐母书以诱致徐庶。",
@@ -82,8 +85,6 @@
       "label": "第一场",
       "characters_present": [
         "四大铠",
-        "如今落在刘备手",
-        "字表元直徐门后",
         "曹操",
         "程昱"
       ],
@@ -423,8 +424,7 @@
       "characters_present": [
         "家将",
         "徐母",
-        "村民",
-        "用手开门来观望"
+        "村民"
       ],
       "lines": [
         {
@@ -848,7 +848,6 @@
         "四将",
         "家将",
         "徐母",
-        "我与那曹丞相无有来往",
         "曹操"
       ],
       "lines": [
@@ -1086,18 +1085,10 @@
       "scene_index": 5,
       "label": "第五场",
       "characters_present": [
-        "人来看过文房宝",
-        "你不是那曹嵩同胞养",
-        "名在朝中为首相",
         "四将",
         "徐母",
-        "忽听前堂赦旨到",
-        "无故差人我家往",
         "曹操",
-        "程昱",
-        "老夫情把美言讲",
-        "若是我儿归你掌",
-        "许田打围欺主上"
+        "程昱"
       ],
       "lines": [
         {

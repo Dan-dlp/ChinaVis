@@ -13,22 +13,26 @@
     {
       "name": "楚庄王",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "斗越椒",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "公子茷",
       "role_type": "武生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "斗贲凰",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "楚庄王为报父仇，令斗越椒为帅伐郑，并以其弟公子茷为副。斗越椒以公子茷性情高傲，恐有不便。楚庄王\n乃赐斗越椒兵符剑印，不遵令者，军法从事。惟斗、茷向有宿怨，公子茷又想早立功勋，未经禀报，私自先\n行发兵。致被困于米注山，自缢身死。楚庄王闻信后，既恸胞弟之身死，又怪斗氏之不救，大加叱责。斗越\n椒不服，致君臣争吵。无法收场。最后斗越椒始听蒍贾之劝，将剑印解下，自请处分，楚庄王亦不咎既往，\n令其退朝，不令再预问国事。",
@@ -117,7 +121,6 @@
       "label": "第一场",
       "characters_present": [
         "乐伯",
-        "众卿",
         "公子茷",
         "斗越椒",
         "楚庄王",
@@ -1508,9 +1511,7 @@
       "characters_present": [
         "公子坚",
         "公子茷",
-        "四上手",
-        "弃枪抛戈下了马",
-        "越椒与我有仇恨"
+        "四上手"
       ],
       "lines": [
         {

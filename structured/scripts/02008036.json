@@ -11,32 +11,38 @@
     {
       "name": "刘金定",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "赵匡胤",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "秦不及",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "高俊保",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "刘母",
       "role_type": "老旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "丫鬟",
       "role_type": "贴旦",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     }
   ],
   "plot_summary": "高俊保保宋乾德皇帝，即宋太祖，下南唐游玩，被李颢王围困。适高俊保又得卸甲风寒病，不能应战。高俊\n保之妻刘金定，因高俊保外出，久无音信，正焚香祈祷时，香烟直起，神风忽起。刘金定乃算定高俊保得病。\n于是披甲上马，前往营救。及至南唐，卒将围兵击退，救出乾德皇帝，夫妇团圆云。",
@@ -1019,17 +1025,10 @@
       "scene_index": 5,
       "label": "第五场",
       "characters_present": [
-        "三国中汉刘备十分义气",
         "刘金定",
         "四御林军",
-        "城楼上取黄袍龙目落泪",
-        "孔圣贤哭颜渊未闻好学",
-        "御林军齐下城楼径",
-        "诸葛亮哭周瑜一派假意",
         "赵匡胤",
-        "陶三春带众将人马无敌",
-        "马童",
-        "齐景公哭钟后国运衰厄"
+        "马童"
       ],
       "lines": [
         {
@@ -1817,7 +1816,6 @@
       "characters_present": [
         "内侍",
         "刘金定",
-        "将身儿站立在丹墀来等",
         "赵匡胤"
       ],
       "lines": [
@@ -2126,20 +2124,8 @@
       "label": "第七场",
       "characters_present": [
         "二内侍",
-        "人说道妇人家心肠忒狠",
         "刘金定",
-        "刘金定若还有假意",
-        "双膝跪在尘埃地",
-        "咬定牙根把床来下",
-        "在头上解下香罗帕",
-        "我也曾焚信香望你救应",
-        "我好似酒醉方才醒",
-        "是是是来明白了",
-        "没奈何上前把礼见",
-        "猛然睁开昏花眼",
-        "这旁不见那旁见",
-        "高俊保",
-        "高俊保待小姐有假意"
+        "高俊保"
       ],
       "lines": [
         {

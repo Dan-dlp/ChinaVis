@@ -11,42 +11,50 @@
     {
       "name": "徐庶",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "刘备",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "曹操",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "程昱",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "徐母",
       "role_type": "老旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "张飞",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "赵云",
       "role_type": "武生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "诸葛亮",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "徐母被禁，程昱时有馈送，赚得回帖，遂仿徐母笔迹，致书诓徐庶。徐庶得书，即辞刘备往许昌。刘备兄弟\n依依送别，徐庶感甚，乃荐卧龙、凤雏，并至隆中亲见诸葛亮，备述举荐始末。",
@@ -161,18 +169,14 @@
       "scene_index": 1,
       "label": "第一场",
       "characters_present": [
-        "不是先生险丧命",
         "丫鬟乙",
         "丫鬟甲",
         "二丫鬟",
         "二院子",
-        "人来与我忙通报",
-        "四文堂",
         "徐母",
         "旗牌",
         "曹用",
-        "程昱",
-        "老身只望命丧了"
+        "程昱"
       ],
       "lines": [
         {
@@ -1954,33 +1958,11 @@
       "scene_index": 6,
       "label": "第六场",
       "characters_present": [
-        "上跪天",
-        "下跪地",
-        "二人通今又博古",
-        "今日跪在先生面",
-        "今日长亭把酒敬",
-        "但愿此去多安静",
-        "倘若先生回营转",
-        "先生到了曹营地",
         "刘备",
-        "卧龙先生孤去访",
-        "只要老母见一面",
-        "君臣一同站山漥",
-        "复姓诸葛单名亮",
         "孙乾",
-        "将军恭敬我谢定",
-        "年纪不过二十多大",
         "张飞",
         "徐庶",
-        "日后必要成大业",
-        "此去不过数十里",
-        "此番见了伯母面",
-        "翻鞍离镫把马下",
-        "若得一人安天下",
-        "请上马来足踏镫",
-        "赵云",
-        "还有一人庞凤雏",
-        "长亭无有别的敬"
+        "赵云"
       ],
       "lines": [
         {

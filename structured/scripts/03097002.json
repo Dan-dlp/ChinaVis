@@ -11,37 +11,44 @@
     {
       "name": "伍员",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "伍尚",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "费无极",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "伍奢",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "鄢将师",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "武城黑",
       "role_type": "武净",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "家将",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "楚平王听信费无极谗言，囚伍奢，并命其修书召子伍尚、伍员进京，一并杀之。时伍尚、伍员镇守樊城，见\n书后，伍员心疑，劝伍尚勿受命。伍尚不听，至京见父，被执，与父同时遇害。楚平王又命武城黑带兵至樊\n城，捉拿伍员，伍员不敌，弃城逃。",
@@ -128,23 +135,10 @@
       "characters_present": [
         "伍员",
         "伍尚",
-        "兄长饮干杯中酒",
-        "外加走字多劳顿",
         "家将",
-        "小弟愿把樊城镇",
-        "平王思念临潼会",
-        "怕的是失足落陷阱",
-        "文王被囚天注定",
-        "文王被囚遭陷阱",
-        "登山涉水多劳顿",
-        "看罢书信心喜甚",
-        "若是爹娘修书信",
-        "这都是前辈古人等",
         "鄢将",
         "鄢将师",
-        "长子必须遵父命",
-        "院子",
-        "非是小弟不从命"
+        "院子"
       ],
       "lines": [
         {
@@ -1340,16 +1334,11 @@
       "scene_index": 3,
       "label": "第三场",
       "characters_present": [
-        "为父谏奏反遭害",
         "二校尉",
         "伍奢",
         "伍尚",
-        "儿头上枉把乌纱戴",
         "四校尉",
-        "弟兄镇守樊城界",
-        "恨不得一脚将尔踹",
         "楚平王",
-        "父子们犯了何条罪",
         "费无极",
         "鄢将师"
       ],
@@ -2088,7 +2077,6 @@
       "characters_present": [
         "伍员",
         "家将",
-        "忍悲含泪叫家将",
         "武城黑"
       ],
       "lines": [

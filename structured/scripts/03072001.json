@@ -11,27 +11,32 @@
     {
       "name": "张恩",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "王韶之",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "檀道济",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "程义",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "徐羡之",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "南朝宋文帝时，北魏入侵，史官王韶之、将军檀道济与权相徐羡之政见不和；檀道济出征，其妻生女，因无\n子，命女佣抱女入灯棚，窃换他人子。适王韶之仆人张恩抱王韶之儿玩耍，竟被檀家女佣骗换而去。张恩失\n儿，回府请罪，王妻放张恩逃走，中途遇酒友陶二潜，代之为永安驿丞；适王韶之遭徐羡之诬陷，发配至驿。\n徐羡之更遣校尉追至，令驿丞杀王韶之，张恩乃替王韶之死。王韶之逃，沿途纠集军粮，至檀道济军中，\n檀道济军得粮，大败北魏，奏凯回朝；徐羡之获罪，王韶之、檀道济各认子女归宗。",
@@ -479,8 +484,7 @@
         "檀道济",
         "王韶之",
         "谢弘微",
-        "谢晦",
-        "阳奉阴违心辣狠"
+        "谢晦"
       ],
       "lines": [
         {
@@ -911,7 +915,6 @@
       "scene_index": 3,
       "label": "第三场",
       "characters_present": [
-        "倘然寸步退向后",
         "傅亮",
         "刘义隆",
         "大太监",

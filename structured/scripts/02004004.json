@@ -11,17 +11,20 @@
     {
       "name": "张飞",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "严颜",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "徐大汗",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     }
   ],
   "plot_summary": "张飞攻打西川，守将严颜，骁勇善战，不能取胜。最后用诸葛亮之计，先令另一人假装张飞，与严颜交战，\n然后自己抄袭后路，始得将严颜生擒。张飞亲为严颜解绑，并跪在地下，求严颜归降。严颜激于义气，遂归\n降汉营。",
@@ -98,7 +101,6 @@
       "scene_index": 1,
       "label": "第一场",
       "characters_present": [
-        "三军的",
         "八卒",
         "张飞"
       ],
@@ -189,12 +191,7 @@
       "label": "第二场",
       "characters_present": [
         "严颜",
-        "人道张飞是好将",
-        "众将官",
         "兵卒",
-        "向前来把严颜叫",
-        "将而比作笼中鸟",
-        "巴州城内访一访",
         "张飞"
       ],
       "lines": [
@@ -1154,13 +1151,10 @@
       "scene_index": 4,
       "label": "第四场",
       "characters_present": [
-        "三军的",
         "二老军",
         "兵卒",
-        "唔",
         "张飞",
-        "徐大汗",
-        "没奈何拨草把路觅"
+        "徐大汗"
       ],
       "lines": [
         {
@@ -2277,8 +2271,6 @@
       "characters_present": [
         "严颜",
         "兵卒",
-        "屈膝跪在尘埃地",
-        "张翼德低头暗思想",
         "张飞"
       ],
       "lines": [

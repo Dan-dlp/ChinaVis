@@ -11,27 +11,32 @@
     {
       "name": "无双",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "王仙客",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "古押衙",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "塞鸿",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "刘震",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "五代唐昭宗时，襄阳儒生王仙客，与表妹刘无双两小无猜，订白首约。朱温篡唐，李存勖讨之，无双父母为\n众将所杀，无双被李中使强迫成婚。义士古押衙假旨解去无双，王仙客夫妻乃得远奔天涯。",
@@ -334,8 +339,7 @@
         "完姻娅",
         "无双",
         "王仙客",
-        "采苹",
-        "鲜奇葩防人掐"
+        "采苹"
       ],
       "lines": [
         {
@@ -1004,11 +1008,9 @@
       "characters_present": [
         "刘夫人",
         "刘震",
-        "叫弟妹你扶我病床安养",
         "无双",
         "王仙客",
-        "王刘氏",
-        "要相逢除非是梦中相望"
+        "王刘氏"
       ],
       "lines": [
         {
@@ -1611,7 +1613,6 @@
         "刘震",
         "塞鸿",
         "无双",
-        "清晨起只觉得口干舌炽",
         "王仙客",
         "王妈",
         "采苹",

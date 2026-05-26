@@ -11,27 +11,32 @@
     {
       "name": "包拯",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "吴氏",
       "role_type": "老旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "范锦",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "穆伦",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "穆忠宝",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "一黑驴三扣开封府，包公知其必有奇案，命衙役跟随黑驴来到荒郊，发现女尸一具。从此寻踪觅迹，细察范\n仲虞一家冤情。",
@@ -122,11 +127,9 @@
         "吴氏",
         "土地",
         "土地婆",
-        "奉公差谁敢辞",
         "王朝",
         "穆伦",
         "范锦",
-        "路途上受灾殃",
         "马汉"
       ],
       "lines": [

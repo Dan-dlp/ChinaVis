@@ -11,22 +11,26 @@
     {
       "name": "关羽",
       "role_type": "红生",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "鲁肃",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "周仓",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "关平",
       "role_type": "武生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "鲁肃设宴，以邀请关羽过江赴席为名，暗伏刀兵，欲加胁迫。关羽明知其中有诈，并不畏怯，仅携周仓一人，\n单刀赴会。筵间，鲁肃果然婉言索取荆州，关羽佯称酒醉，一手持刀，一手挟鲁肃退席。东吴伏兵不敢轻\n动，关羽安然扬帆回到荆州防地。",
@@ -104,17 +108,10 @@
       "scene_index": 1,
       "label": "第一场",
       "characters_present": [
-        "他准备着天罗与地网",
-        "伊藉",
         "关平",
         "关羽",
         "周仓",
-        "哪里有倾杯葡萄酿",
         "旗牌",
-        "既相请我当亲身往",
-        "王甫",
-        "玳筵前摆列的英雄将",
-        "赵累",
         "马良",
         "黄文"
       ],

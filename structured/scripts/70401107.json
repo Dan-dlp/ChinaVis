@@ -11,22 +11,26 @@
     {
       "name": "郑恩",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "赵匡胤",
       "role_type": "红生",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "柴荣",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "高怀德",
       "role_type": "武生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "五代后周世宗柴荣即位后，各邦俱来纳贡，独南唐不纳。南唐三太子李豹，自恃武勇，亲至汴梁摆下百日擂\n台，以窥后周实力。李豹设擂，连胜九十九日，且出狂言，藐视周室无人；结果，为赵匡胤妹丈高怀德所败，\n始保全后周威信。赵匡胤与郑恩在柴荣前，力保高怀德可任大将。柴荣因与高怀德有杀父仇，必欲斩之。\n郑恩见状不平，以高怀德有打擂功，力争不可斩，柴荣不准；郑恩一怒，大闹龙棚，意欲动武，柴荣无奈，\n始赦之，并封为万里侯。",
@@ -84,13 +88,10 @@
       "scene_index": 1,
       "label": "全剧",
       "characters_present": [
-        "万岁平心想一想",
         "大太监",
-        "我父名叫高鹞子",
         "柴荣",
         "赵匡胤",
         "郑恩",
-        "霸王不听范增讲",
         "高怀德"
       ],
       "lines": [

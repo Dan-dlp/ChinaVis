@@ -14,42 +14,50 @@
     {
       "name": "黄忠",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "刘备",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "关兴",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "张苞",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "潘璋",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "崔玉",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "史纪",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "马忠",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "蜀、吴自荆州起变，关公、张飞相继殉国后，蜀势渐衰。刘备痛关、张二弟，均为东吴所害，日夕抱恨，誓\n必报复，以慰死者。于是于章武元年七月丙寅日，亲率倾国之师七十五万，命黄忠为前锋，大举伐吴。是剧，\n即《三国志》第八十一回“雪弟恨先主兴兵”及八十二回中“征吴赏六军”之事实也。前军初入吴境，屡\n获战胜，兵势颇盛。一日，关兴、张苞出阵，又生擒吴将谭雄而回，刘备欲籍此激励将士，因特张盛筵，赏\n功庆贺。席间盛夸关兴、张苞二侄之勇。言次，因奖誉过当，不免顾此失彼，有“胜似蜀营诸老将”之语，\n致令黄忠误会，以为刘备轻己老迈无用，心殊不服。盛怒之下，遂不终席而出，不待刘备令，竟自单刀匹马，\n闯入吴营，拟生擒潘璋回营，以显己之老。迨刘备得报，知黄忠虽勇奋，然终众寡难敌，因急令关兴、张\n苞二人，前往接应，冀免疏失。讵意关兴、张苞甫追抵阵前，而黄忠已被困受伤亦。先是黄忠入吴营，颇得\n手，斩其二裨将，既而潘璋、马忠出阵。黄忠本意在擒潘璋，遂奋力直前，不意为潘璋计陷，误入伏中，遂\n被围困，且受箭伤甚剧。幸关兴、张苞至，得救生还。然究以年老创重不支，当夜即卒于军中。",
@@ -115,16 +123,9 @@
       "scene_index": 1,
       "label": "第一场",
       "characters_present": [
-        "关兴",
         "刘备",
-        "张苞",
         "报子",
-        "理当分功把赏论",
-        "荆襄",
-        "适才间营外来对阵",
-        "阆中遭不幸",
-        "黄忠",
-        "黄汉升且把大营进"
+        "黄忠"
       ],
       "lines": [
         {
@@ -981,7 +982,6 @@
       "scene_index": 5,
       "label": "第五场",
       "characters_present": [
-        "催马提刀把仗打",
         "崔玉",
         "潘璋",
         "黄忠"

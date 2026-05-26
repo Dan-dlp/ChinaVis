@@ -11,42 +11,50 @@
     {
       "name": "尉迟恭",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "秦琼",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "王云",
       "role_type": "副净",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "李建成",
       "role_type": "杂",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "李元吉",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "李渊",
       "role_type": "外",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "徐茂功",
       "role_type": "末",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "皮可能",
       "role_type": "副净",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     }
   ],
   "plot_summary": "唐秦王李世民，欲进兵洛阳，拿王世充。适遇端午佳节，停兵一日，秦王乃与徐茂公入御果园游玩。单雄信\n正在洛阳城上望见之，乃戎装出城。徐茂公情急，大呼求救。时尉迟恭赤身在涧内洗马，即策马往救。秦王\n大喜，奏闻高祖，论功行赏。殷王李建成与齐王李元吉谗之，谓为虚构。秦王乃奏请试演之。时值腊月寒天，\n尉迟恭以李靖所赠丹药服之，身如火焚，汗如雨下，仍赤身洗马于涧内。高祖命秦王与徐茂公游园，又令\n李建成与李元吉传命王云，扮单雄信追杀秦王。正在危急之时，尉迟恭赶至，将王云打死。并将李建成、李\n元吉击毙鞭下。",
@@ -900,7 +908,6 @@
       "label": "第六场",
       "characters_present": [
         "尉迟恭",
-        "徐茂公",
         "徐茂功",
         "李世民",
         "李元吉",
@@ -1397,14 +1404,8 @@
       "scene_index": 7,
       "label": "第七场",
       "characters_present": [
-        "到今日要效三跳涧",
         "尉迟恭",
-        "彼时将某推出斩",
-        "撵鞭解带投唐主",
-        "白月姣",
-        "转投山后刘武主",
-        "降马打死宋金玉",
-        "黑月奴"
+        "白月姣"
       ],
       "lines": [
         {
@@ -1760,23 +1761,14 @@
       "scene_index": 8,
       "label": "第八场",
       "characters_present": [
-        "三次举棒将你打",
-        "上前揪住皮囊袋",
-        "二次举棒将你打",
         "四手下",
         "尉迟恭",
-        "开言便把黑贼问",
-        "徐茂公",
         "徐茂功",
-        "想起李靖先生语",
-        "手使钢鞭将你打",
-        "手执钢鞭将你打",
         "李世民",
         "李元吉",
         "李建成",
         "李渊",
         "殷",
-        "狼牙棒不住往下打",
         "王云",
         "秦琼",
         "齐二王"

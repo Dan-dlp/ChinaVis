@@ -11,32 +11,38 @@
     {
       "name": "韩信",
       "role_type": "武生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "刘邦",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "项羽",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "张良",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "范增",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "萧何",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "项羽破秦后，自立西楚霸王，封刘邦于关中。时韩信为项羽执戟郎，屡谏不纳，思他往。适刘邦军师张良来\n说，韩信乃持张良角书，暗渡陈仓归汉。初，刘邦以韩信为“淮阴饿夫”见轻，仅授仓官。韩信失意出走，\n萧何星夜追回，始献角书。刘邦乃沐浴斋戒，筑台拜将。汉将殷盖不服，即被斩首，从此汉军大振，卒定天\n下。",
@@ -1462,13 +1468,7 @@
       "scene_index": 5,
       "label": "第五场",
       "characters_present": [
-        "今投刘邦我国患",
-        "季布",
-        "寡人助你三分胆",
-        "彭越",
-        "英布",
         "范增",
-        "钟离昧",
         "项羽"
       ],
       "lines": [
@@ -1751,13 +1751,9 @@
       "scene_index": 6,
       "label": "第六场",
       "characters_present": [
-        "回首只见白云杳",
-        "斩樵即为将身保",
         "樵夫",
-        "此去身荣封招讨",
         "辛奇",
-        "韩信",
-        "马蹄踏破黄芽草"
+        "韩信"
       ],
       "lines": [
         {

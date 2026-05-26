@@ -13,42 +13,50 @@
     {
       "name": "窦娥",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "蔡母",
       "role_type": "老旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "张驴儿",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "张母",
       "role_type": "丑旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "禁婆",
       "role_type": "丑旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "县官",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "蔡昌宗",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "窦天章",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "秀才蔡昌宗上京赶考，佣妇张氏的儿子张驴儿随同前去，张驴儿想图谋蔡昌宗的妻子窦娥，半路把蔡昌宗推\n入淮河，回家假说蔡昌宗落水而死。蔡母悲痛成病，想吃羊肚汤，张驴儿又在汤内暗放毒药来谋害蔡母。不\n想误被张驴儿母亲吃下，当即身亡。张驴儿趁机讹诈，要强占窦娥。告到官府，县官用严刑逼供；窦娥不忍\n婆婆受苦，挺身含冤屈供，被判斩刑。行刑正值六月，忽然天降大雪，县官惊惧异常。窦娥之父窦天章，身\n为八府巡按，来楚州一带巡查，因遇乡民替窦娥喊冤，随将张驴儿抓来，问明了此案。但当他赶去搭救窦娥\n时，却已来不及了！",
@@ -334,7 +342,6 @@
       "label": "第二场",
       "characters_present": [
         "张母",
-        "愿今科乡榜上功名有分",
         "窦娥",
         "蔡昌宗",
         "蔡母"
@@ -1076,7 +1083,6 @@
       "scene_index": 4,
       "label": "第四场",
       "characters_present": [
-        "但愿此去名有份",
         "张驴儿",
         "蔡昌宗"
       ],
@@ -2085,11 +2091,8 @@
       "scene_index": 6,
       "label": "第六场",
       "characters_present": [
-        "叫媳妇搀为婆床榻来上",
-        "实指望我的儿题名榜上",
         "张母",
         "张驴儿",
-        "撇下了我婆媳无有仰仗",
         "窦娥",
         "蔡母"
       ],

@@ -11,22 +11,26 @@
     {
       "name": "刘秀",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "姚期",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "姚刚",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "郭荣",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "东汉刘秀时，姚期之子姚刚打死太师郭荣。姚期绑子上殿。刘秀念姚家父子颇具功勋，只将姚刚发配。姚期\n欲辞官，亦经慰留。",
@@ -500,7 +504,6 @@
       "characters_present": [
         "姚刚",
         "家院",
-        "老夫上殿奏一本",
         "郭荣",
         "郭荣当"
       ],
@@ -1136,25 +1139,11 @@
       "scene_index": 7,
       "label": "第七场",
       "characters_present": [
-        "不如写下辞王表",
-        "为王的不久就把旨来降",
-        "他女儿在西宫陪王伴驾",
-        "儿奉旨游御街拦住叫骂",
         "刘秀",
-        "午门辞父泪汪汪",
-        "去到河北改情性",
-        "在朝为官有什么好",
         "大太监",
         "姚刚",
         "姚期",
-        "孤江山多亏卿东征西挡",
-        "手拉娇儿下龙庭",
-        "撩袍端带上龙庭",
-        "明知道郭荣贼势力浩大",
-        "那时节老奸贼一旁搭话",
-        "郭妃",
-        "都只为小爱卿情性倔强",
-        "非是臣在金殿告职还乡"
+        "郭妃"
       ],
       "lines": [
         {

@@ -11,37 +11,44 @@
     {
       "name": "诸葛亮",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "刘备",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "张飞",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "关羽",
       "role_type": "红生",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "书童",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "崔州平",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "诸葛均",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "求贤若渴的刘备，一而再、再而三地，冒着满天风雪，不顾跋涉之苦，三次到卧龙岗去请诸葛亮出山，共图\n大业。原想终身隐居的诸葛亮，为刘备的至诚所感动，终于出山。",
@@ -390,18 +397,11 @@
       "scene_index": 2,
       "label": "第二场",
       "characters_present": [
-        "一枕黄粱黑甜乡",
-        "世人黑白分",
         "关羽",
         "农夫",
         "刘备",
-        "南阳有隐居",
         "张飞",
-        "樵夫",
-        "苍天如圆盖",
-        "荣者自安安",
-        "陆地如棋局",
-        "高卧睡不足"
+        "樵夫"
       ],
       "lines": [
         {
@@ -1078,20 +1078,11 @@
       "scene_index": 3,
       "label": "第三场",
       "characters_present": [
-        "一来是今日来得太莽撞",
         "书僮",
-        "二来是德薄缘浅难遇贤良",
-        "令师回来说端详",
-        "先生姓名我久仰",
         "关羽",
         "刘备",
-        "前面高峰如壁挡",
-        "坐在雕鞍抬头望",
         "崔州平",
-        "异日诚心再拜望",
-        "张飞",
-        "怪不得诸葛隐此岗",
-        "替我拜上多拜上"
+        "张飞"
       ],
       "lines": [
         {
@@ -2075,12 +2066,9 @@
       "scene_index": 5,
       "label": "第五场",
       "characters_present": [
-        "二次再把卧龙访",
         "关羽",
         "刘备",
-        "四布彤云如雾重",
-        "张飞",
-        "非是愚兄心向往"
+        "张飞"
       ],
       "lines": [
         {
@@ -2315,7 +2303,6 @@
         "刘备",
         "孟公威",
         "张飞",
-        "清晨瑞雪飘素燕",
         "石广元",
         "酒保"
       ],

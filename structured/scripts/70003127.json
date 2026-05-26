@@ -11,42 +11,50 @@
     {
       "name": "关羽",
       "role_type": "红生",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "关平",
       "role_type": "武生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "周仓",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "廖化",
       "role_type": "生",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "孙权",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "吕蒙",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "陆逊",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "徐晃",
       "role_type": "生",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     }
   ],
   "plot_summary": "曹、孙联合，夹击关羽。孙权挂吕蒙为帅。吕蒙诈病，陆逊代为都督。关羽轻之，尽撤荆州之兵，攻打樊城。\n吕蒙乘虚袭取荆州，糜芳、傅士仁降吴，献出公安、南郡。吕蒙约曹将徐晃夹攻。关羽大败，退守麦城。\n廖化去上庸搬兵，刘封、孟达与关羽有隙，拒不发兵。关羽率兵雪夜突围，落入陷马坑。王甫自刎，周仓坠\n城而死。",
@@ -1830,11 +1838,9 @@
       "scene_index": 10,
       "label": "第十场",
       "characters_present": [
-        "傅士仁",
         "吕守",
         "吕蒙",
         "四火牌",
-        "糜芳",
         "马良"
       ],
       "lines": [
@@ -2192,7 +2198,6 @@
       "scene_index": 12,
       "label": "第十二场",
       "characters_present": [
-        "伊籍",
         "关平",
         "关羽",
         "周仓",
@@ -2323,8 +2328,7 @@
       "label": "第十三场",
       "characters_present": [
         "关羽",
-        "徐晃",
-        "督催大军紧追赶"
+        "徐晃"
       ],
       "lines": [
         {
@@ -2576,7 +2580,6 @@
       "scene_index": 14,
       "label": "第十四场",
       "characters_present": [
-        "伊籍",
         "关平",
         "关羽",
         "周仓",

@@ -11,32 +11,38 @@
     {
       "name": "双阳公主",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "狄青",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "波罗",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "呼兰",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "兆寿",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "杨宗保",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "宋将狄青，奉命征讨上乘、印唐二国；途中误入鄯善国，与双阳公主婚配，一同去印唐盗回珍珠烈火旗和日\n月骕骦马。归途中，狄青私自返回南朝。不料奸臣丁谓进谗，诬旗、马是假，宋王将狄青发配岭南。公主思\n念狄青，带兵去救；路上听说狄青折返延安，迎击进犯的上乘、印唐，于是赶至延安。夫妻合好，共破敌兵。",
@@ -1025,18 +1031,12 @@
       "scene_index": 3,
       "label": "第三场：长亭",
       "characters_present": [
-        "为救驸马岭南进",
         "乐集璞",
-        "你执政",
-        "凡事需要多谨慎",
         "双阳公主",
-        "只为驸马身遭困",
         "哈什",
         "四将",
-        "此行归期不可定",
         "沙都",
-        "波罗",
-        "鄯善国"
+        "波罗"
       ],
       "lines": [
         {
@@ -1348,8 +1348,7 @@
       "label": "第四场：求援",
       "characters_present": [
         "季青",
-        "张仁",
-        "李义"
+        "张仁"
       ],
       "lines": [
         {

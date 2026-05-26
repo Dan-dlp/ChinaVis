@@ -13,37 +13,44 @@
     {
       "name": "黄三泰",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "杨香武",
       "role_type": "武丑",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "王伯燕",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "邹应龙",
       "role_type": "副净",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "英雄甲",
       "role_type": "武生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "英雄乙",
       "role_type": "副净",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "英雄丙",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     }
   ],
   "plot_summary": "前清康熙帝在金沙滩射猎，为猛虎所窘，身旁侍卫，不及护救，几乎束手无策，幸有黄三泰，用飞镖毙虎，\n因此脱险。帝嘉其忠勇。钦赐黄马褂一件，以奖励之。帝有九龙玉杯，素所钟爱，珍藏于大内。忽然不翼而\n飞，杳如黄鹤。帝知为飞贼所盗，谕令三泰访查。极耳目心思之能事，无从探其究竟，又不敢空手复命，以\n触帝之怒，心极焦急，乃假生辰，大开筵会，庆贺黄马褂。预发柬贴，招致各路绿林英雄赴宴，令计全盛称\n毙虎之勇敢，赏赐之光荣，激怒众人，以探口风。果有杨香武心中不服，起座大言，谓予曾略献手段，盗取\n皇家九龙杯，区区黄马褂，何足夸张。黄三泰闻杯有着落，下跪求取。无如杨香武盗出后，偶不留神，途中\n早经失去。神偷王伯燕曾在金翅大鹏邹应龙处见过，将情节告知。黄三泰虑邹应龙刚愎性成，且目空一世，\n必然不易索取，乃立定计划，俟邹应龙诞日，使杨香武、王伯燕二人，备礼往贺，乘间盗回。邹应龙绝不经\n心，款待宾客，于酣饮之时，二人潜入卧房，用断魂香迷闷邹应龙之妾，裸掷于堂中，席间非常惊乱，二人\n纵身逃逸，邹应龙急令部下追逐，而黄三泰已率众来援，邹应龙不能敌，遂折回焉。",
@@ -108,12 +115,10 @@
       "scene_index": 1,
       "label": "第一场",
       "characters_present": [
-        "一家满门全遭害",
         "四英雄",
         "杨香武",
         "王伯燕",
         "计全",
-        "都只为在金殿夸下海口",
         "黄三泰"
       ],
       "lines": [

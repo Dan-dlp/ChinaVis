@@ -11,57 +11,68 @@
     {
       "name": "陈妙常",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "潘必正",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "老观主",
       "role_type": "老旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "艄翁",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "香火道",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "进安",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "二娃子",
       "role_type": "娃娃生",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "妙真",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "妙云",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "妙空",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "妙清",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     }
   ],
   "plot_summary": "青年书生潘必正，在临安应试未中，羞归故里，路过金陵时，因女贞观观主是他的姑母，便投到观中寄居读\n书并认识了陈妙常——一个聪明、热情而又喜欢音律诗文的年轻道姑。潘必正、陈妙常二人情趣相近，常常\n在一起抚琴谈诗，由互相了解而发生爱情。起初陈妙常受了礼教和戒律的束缚，还有些拘谨矜持，不敢明白\n表示对潘必正的爱慕；后来由于在诗词中暴露了自己的心情，被潘必正发觉，才公开地和潘必正相爱，并以\n玉簪作为定情之物。潘必正的姑母发觉了潘必正、陈妙常正在热恋，按照她的看法，这不但要败坏清规而且\n也会“断送”侄儿和女徒的前程。所以她就强迫潘必正离开金陵再去临安，并且不许潘必正和陈妙常最后话\n别，亲身送他到江边。潘必正乘船去后，陈妙常也逃出女贞观赶到江边。她急于雇船，偏偏又遇着一个善良\n而又风趣的老艄翁。老艄翁看透她的心情，和她开了一阵玩笑之后，终于帮助她赶上了潘必正。在老艄翁向\n这一对青年男女挥手告别并为他们未来的美满生活表示祝贺时，潘必正和陈妙常并肩立在船头，愉快地驰向\n临安去了。",
@@ -142,7 +153,6 @@
       "scene_index": 1,
       "label": "第一场：投观",
       "characters_present": [
-        "我有心借此地重温书卷",
         "潘必正",
         "老观主",
         "进安",
@@ -805,13 +815,7 @@
       "scene_index": 2,
       "label": "第二场：琴挑",
       "characters_present": [
-        "入空门再不问人间离恨",
-        "只怕霜凝与露冷",
-        "叹长宵兮孤冷",
-        "念寡阴兮少阳",
         "潘必正",
-        "玉润冰清怕谁来评论",
-        "说什么出家人终朝孤冷",
         "陈妙常"
       ],
       "lines": [
@@ -2237,14 +2241,8 @@
       "scene_index": 4,
       "label": "第四场：偷诗",
       "characters_present": [
-        "入空门再不问人间离恨",
-        "只怕霜凝与露冷",
-        "叹长宵兮孤冷",
-        "念寡阴兮少阳",
         "潘必正",
-        "玉润冰清怕谁来评论",
         "老观主",
-        "说什么出家人终朝孤冷",
         "进安",
         "陈妙常"
       ],

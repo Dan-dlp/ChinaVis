@@ -11,27 +11,32 @@
     {
       "name": "李白",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "安禄山",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "贺知章",
       "role_type": "末",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "书童甲",
       "role_type": "付",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "书童乙",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     }
   ],
   "plot_summary": "李白与贺知章同游金马门，遇杨贵妃义儿安禄山，招摇过门，李白乃佯醉加以痛骂，安禄山避道而行。",
@@ -195,26 +200,11 @@
       "scene_index": 2,
       "label": "第二场",
       "characters_present": [
-        "一言未尽顷刻到",
-        "七篇锦绣真贵宝",
-        "下国夷蛮把兵变",
         "书童乙",
         "书童甲",
-        "传旨曾将下官宣",
-        "假陪笑险将他告",
         "安禄山",
-        "弥子之下藏食子",
-        "我也曾斗酒将诗献",
         "李白",
-        "杨国忠双手捧过砚",
-        "耳边又听得銮铃啸",
-        "能屈能伸真君子",
-        "自夸腹内文章妙",
-        "若不是番邦降表献",
-        "虽然未曾对宫院",
-        "蛮夷无宝将你献",
-        "贺知章",
-        "长安多少富贵客"
+        "贺知章"
       ],
       "lines": [
         {

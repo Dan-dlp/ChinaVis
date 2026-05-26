@@ -13,37 +13,44 @@
     {
       "name": "斗越椒",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": "紫蟒苍满紫金冠雉翎"
     },
     {
       "name": "蒍贾",
       "role_type": "外",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": "相貂白满白蟒"
     },
     {
       "name": "斗贲凰",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": "黑脸软扎中内黑靠"
     },
     {
       "name": "蒍夫人",
       "role_type": "老旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "蒍子",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "蒍家将",
       "role_type": "副净",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "斗家将",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     }
   ],
   "plot_summary": "斗越椒自被楚庄王夺去剑印，削官为民后，心怀不平，乘楚庄王亲自出征陆浑之际，邀蒍贾赴宴，并逼蒍贾\n将剑印交出。蒍贾不从，乃将蒍贾杀死，派兵至蒍贾家中搜回剑印。",
@@ -293,11 +300,7 @@
       "scene_index": 2,
       "label": "第二场",
       "characters_present": [
-        "你过府赴宴席倘有伤损",
-        "在金殿解印信皇王之命",
-        "想为父为国家一死何恨",
         "斗家将",
-        "斗越椒为的是金殿解印",
         "蒍夫人",
         "蒍子",
         "蒍家将",
@@ -1101,15 +1104,10 @@
       "scene_index": 3,
       "label": "第三场",
       "characters_present": [
-        "你比费尤二奸党",
         "四龙套",
-        "好好将印来献上",
-        "我父子三代功浩荡",
         "斗家将",
-        "斗家本是忠良将",
         "斗贲凰",
         "斗越椒",
-        "昏王金殿把旨降",
         "蒍家将",
         "蒍贾"
       ],

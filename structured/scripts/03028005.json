@@ -11,17 +11,20 @@
     {
       "name": "汤怀",
       "role_type": "武生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "岳飞",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "金兀术",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "状元张久成，奉命赴金邦探望徽、钦二帝。岳飞麾下大将汤怀领命护送，沿途杀金邦二平章。及见金兀术，\n许言放行，绑走状元，逼令汤怀投降。汤怀寡不敌众，连劈二平章，最后自刎。",
@@ -274,12 +277,10 @@
       "scene_index": 2,
       "label": "第二场",
       "characters_present": [
-        "不让我把状元保",
         "中军",
         "岳飞",
         "张久成",
-        "汤怀",
-        "生而何欢死而何足道"
+        "汤怀"
       ],
       "lines": [
         {
@@ -1113,13 +1114,8 @@
       "label": "第四场",
       "characters_present": [
         "中军",
-        "倘若是小弟丧了命",
         "岳飞",
-        "弟兄们结拜在汤阴",
         "张久成",
-        "此一番保状元把五国城进",
-        "此一番保状元无有伤损",
-        "此一番小弟我若是丧命",
         "汤怀"
       ],
       "lines": [

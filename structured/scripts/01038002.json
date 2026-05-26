@@ -11,77 +11,92 @@
     {
       "name": "周瑜",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "诸葛亮",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "鲁肃",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "曹洪",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "曹仁",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "黄盖",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "张飞",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "关平",
       "role_type": "生",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "刘封",
       "role_type": "生",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "牛金",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "陈矫",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "曹纯",
       "role_type": "生",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "刘备",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "孙乾",
       "role_type": "生",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "赵云",
       "role_type": "武生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "考南郡一役，在三国战争系统上，颇居重要地位：前为赤壁鏖兵之结束，后为孙、刘荆州张本之起原；在\n《三国演义》中，即五十一回“曹仁大战东吴兵，孔明一气周公瑾”之事实，而其来龙去脉，则当自周瑜、鲁\n肃，同到油江口刘备营中谢礼，因于筵席上谈起取南郡之事为始——则小生一角之唱、白、做工吃重处方为\n到界。此头、二本取南郡，即是从周瑜到油江做起。初意瑜欲突起将刘备杀死，继见刘兵严备，不敢造次。\n席间瑜先说破刘备，莫非有取南郡之意；而刘备早秉承诸葛亮之嘱咐，用言反激，卒遂议定让东吴先取，如\n取不成，再由刘取之约，并呼诸葛亮、鲁肃为证。鲁肃于是大费踌躇，不敢决，因更引起周瑜慨然坚决之反\n允。此一剧中，当以此场为精华。盖周瑜之骄傲自负，鲁肃之老实胆小，刘备之假诚实，诸葛亮之有意煽动\n反激——其做工、说白，皆极可观也；善听戏者，当于此场最注意之。以后，周瑜即率兵命蒋钦迳往攻取。\n蒋钦既败回，周瑜因甘宁之言，先取彝陵，遂有甘宁被困彝陵之一段。逮周瑜亲自往救，始将彝陵攻下，当\n即远攻南郡。中途适遇曹仁兵，混战一场。曹营以彝陵失却，势颇危险，乃忆及曹操锦囊，急拆视之，遂依\n计而行：城上虚插旌旗，侨作欲遁之状，以赚周瑜。周瑜果鲁莽中计，迨一马冲入，而毒箭中矣。此为曹军\n于失城前之小胜。此二本即至此告终。以后第三本，为周瑜以假死挂孝，还赚曹仁；曹军亦大败，而南郡及\n荆州、襄阳二郡，乃安然落于刘备手矣。",
@@ -332,12 +347,8 @@
       "scene_index": 1,
       "label": "第一场",
       "characters_present": [
-        "他有来意难解定",
         "刘备",
-        "大江之中烧曹兵",
         "孙乾",
-        "孙刘结合灭奸佞",
-        "归盛国贼享安宁",
         "诸葛亮",
         "赵云"
       ],
@@ -832,12 +843,10 @@
       "label": "第二场",
       "characters_present": [
         "丁奉",
-        "但愿同心破曹瞒",
         "吕蒙",
         "周瑜",
         "徐盛",
         "甘宁",
-        "细想玄德实可恨",
         "鲁肃"
       ],
       "lines": [
@@ -1215,23 +1224,15 @@
       "scene_index": 4,
       "label": "第四场",
       "characters_present": [
-        "一同帐后暗理料",
         "丁奉",
-        "关平",
-        "凡事必须直言道",
         "刘备",
-        "刘封",
-        "前者已欲取刘表",
         "周瑜",
-        "屯兵江口须安好",
         "张飞",
         "徐盛",
-        "收取南郡所必要",
         "甘宁",
         "诸葛亮",
         "赵云",
-        "鲁肃",
-        "黄盖"
+        "鲁肃"
       ],
       "lines": [
         {
@@ -2417,17 +2418,12 @@
       "label": "第五场",
       "characters_present": [
         "丁奉",
-        "三军扎营再定计巧",
-        "只恐此番去征讨",
         "周泰",
         "周瑜",
-        "孔明行事真奸巧",
         "徐盛",
         "甘宁",
         "蒋钦",
-        "须当三思定计较",
-        "鲁肃",
-        "黄盖"
+        "鲁肃"
       ],
       "lines": [
         {

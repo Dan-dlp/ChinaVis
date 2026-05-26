@@ -11,17 +11,20 @@
     {
       "name": "诸葛亮",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "司马懿",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "苟安",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     }
   ],
   "plot_summary": "诸葛亮四出祁山，骂死王朗，气死曹真，正节节胜利之时，后主忽中司马懿用苟安散布流言之计，调诸葛亮\n回朝。蒋琬、杨仪谏阻无效。诸葛亮接旨后，即发令转回成都。又虑司马懿尾追，乃一面撤兵，一面又增添\n炉灶，使司马懿生疑。始得安然退兵，未受损失。",
@@ -641,7 +644,6 @@
       "label": "第五场",
       "characters_present": [
         "乐琳",
-        "你叫他来我营屈膝跪拜",
         "关兴",
         "四大铠",
         "四牢子",
@@ -2110,13 +2112,7 @@
       "scene_index": 9,
       "label": "第九场",
       "characters_present": [
-        "主休听流言计召回原郡",
-        "今欲要为天子负恩太甚",
         "刘禅",
-        "召回都削兵权自必安分",
-        "孤待那诸葛亮父子之论",
-        "平南蛮征孟获坐立未稳",
-        "恐折了擎天柱无人扶正",
         "蒋琬",
         "费祎"
       ],

@@ -13,27 +13,32 @@
     {
       "name": "赵云",
       "role_type": "武生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "刘备",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "张飞",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "糜夫人",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "曹操",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "刘备自新野撤走，在长坂坡被曹操夤夜率兵追及，所部及家眷失散；赵云舍死忘生，单枪匹马冲入曹营，屡\n涉险境，终于万马军中救出简雍、糜竺、甘夫人及刘备幼子阿斗。",
@@ -1140,9 +1145,7 @@
       "characters_present": [
         "众曹将",
         "刘备",
-        "如今还来把路挡",
         "张飞",
-        "忠义二字全不想",
         "文聘"
       ],
       "lines": [
@@ -1495,7 +1498,6 @@
       "scene_index": 7,
       "label": "第七场",
       "characters_present": [
-        "催马向北来探询",
         "简雍",
         "赵云"
       ],

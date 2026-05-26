@@ -11,22 +11,26 @@
     {
       "name": "徐策",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "薛蛟",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "书童",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "家院",
       "role_type": "生",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     }
   ],
   "plot_summary": "徐策在法场上救回薛蛟，改名徐宗，抚养成人。一日，薛蛟偶与书童在府门游戏，将一对千斤重的石狮高举\n在手。这时，徐策朝罢归来，见状知薛蛟的本领已经能报家仇，遂将薛蛟带进祠堂，悬起薛氏三代图像，道\n破薛家的不幸遭遇，薛蛟闻言誓欲报仇雪恨，徐策立即修书，命他去往韩山邀薛刚发兵报仇。",
@@ -79,9 +83,7 @@
       "label": "第一场",
       "characters_present": [
         "书童",
-        "叫书童忙带路府门外往",
         "家院",
-        "张泰贼是你的对头到",
         "徐策",
         "薛蛟"
       ],

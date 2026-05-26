@@ -11,37 +11,44 @@
     {
       "name": "张松",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "刘备",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "关羽",
       "role_type": "红生",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "张飞",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "赵云",
       "role_type": "武生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "诸葛亮",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "庞统",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "张松赴许都说曹被逐后，路过荆州。诸葛亮闻知，急遣赵云、关羽迎请张松，更使刘备厚加礼遇。张松感而\n献西川地图于刘备。",
@@ -632,8 +639,6 @@
       "scene_index": 2,
       "label": "第二场",
       "characters_present": [
-        "七进七出威风凛",
-        "勒住丝缰用目望",
         "四马童",
         "张松",
         "赵云"
@@ -859,13 +864,8 @@
       "scene_index": 3,
       "label": "第三场",
       "characters_present": [
-        "丹凤眼",
         "关羽",
-        "张松",
-        "斩六将",
-        "果算是当世英雄将",
-        "蚕眉长",
-        "过五关"
+        "张松"
       ],
       "lines": [
         {
@@ -1154,12 +1154,10 @@
       "label": "第五场",
       "characters_present": [
         "刘备",
-        "喝退曹兵百万将",
         "庞统",
         "张松",
         "张飞",
         "旗牌甲",
-        "烧退曹兵有百万",
         "诸葛亮"
       ],
       "lines": [
@@ -1614,19 +1612,13 @@
       "scene_index": 6,
       "label": "第六场",
       "characters_present": [
-        "他三弟张翼德豹头环眼",
         "关羽",
         "刘备",
-        "刘皇叔可算得英雄汉",
-        "左有那卧龙公神机妙算",
         "庞统",
         "张松",
         "张飞",
-        "有常山赵子龙能征惯战",
-        "来在长亭下马站",
         "诸葛亮",
-        "赵云",
-        "辞别列公上马行"
+        "赵云"
       ],
       "lines": [
         {

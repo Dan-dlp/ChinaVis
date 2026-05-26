@@ -11,42 +11,50 @@
     {
       "name": "伍云昭",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "韩擒虎",
       "role_type": "末",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "宇文成都",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "伍夫人",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "朱粲",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "伍保",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "尚师徒",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "麻叔谋",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "按炀帝既杀伍建章及全家三百余口，以伍建章之子伍云昭远镇南阳、勇冠三军，留之必为后患，遂命韩擒虎\n率兵前往征讨。伍云昭闻讯，愤极而叛。两军相遇，隋兵大挫，折丧大将十余员。韩擒虎亲自会阵，亦不敌。\n惟韩擒虎与伍建章有故旧之谊，故暗嘱伍云昭暂行退兵，以避后路宇文成都之师。盖韩擒虎知伍云昭现虽\n获胜，然终非宇文成都之敌，后必败衄也。伍云昭不听，既而宇文成都至，伍云昭果大败，几被擒。幸赖朱\n粲伪饰周仓，用计哄退隋兵，方得弃城他往，保全性命也。惟《说唐》中朱粲系吓退尚师徒，剧中作为吓退\n宇文成都，是有小异。盖编剧者之剪裁借用也。",
@@ -332,13 +340,7 @@
       "characters_present": [
         "下手",
         "伍云昭",
-        "伍保",
-        "太宰夫人俱斩了",
-        "忍泪含悲叫伍保",
-        "扭项回头把三军叫",
-        "本帅与父把仇报",
-        "相爷金殿去守孝",
-        "韩擒虎统领人马到"
+        "伍保"
       ],
       "lines": [
         {
@@ -684,27 +686,8 @@
       "scene_index": 4,
       "label": "第四场",
       "characters_present": [
-        "亲年迈",
-        "今日把你放走了",
         "伍云昭",
-        "可怜我四将俱斩首",
-        "叹先王文帝驾晏了",
-        "合朝公卿把他保",
-        "大千岁即位礼正道",
-        "大小三军齐开道",
         "尚师徒",
-        "尚师徒跨下呼雷豹",
-        "左先行骑的是呼雷豹",
-        "忍泪含悲把伯父叫",
-        "我父忠心把国保",
-        "手扶着垛口往下瞧",
-        "打蛇不死反仇报",
-        "新主既发旨一道",
-        "新主降下旨一道",
-        "此事把我心悔恼",
-        "老伯父放我一条路",
-        "自古道为臣尽忠子尽孝",
-        "遭强暴",
         "韩擒虎",
         "麻叔谋"
       ],
@@ -1387,8 +1370,7 @@
       "characters_present": [
         "伍云昭",
         "伍保",
-        "伍夫人",
-        "父母冤仇难以报"
+        "伍夫人"
       ],
       "lines": [
         {
@@ -1565,8 +1547,7 @@
       "label": "第九场",
       "characters_present": [
         "伍云昭",
-        "宇文成都",
-        "既知某家领兵到"
+        "宇文成都"
       ],
       "lines": [
         {
@@ -1692,8 +1673,7 @@
       "label": "第十场",
       "characters_present": [
         "伍云昭",
-        "伍夫人",
-        "望夫人快行方便道"
+        "伍夫人"
       ],
       "lines": [
         {

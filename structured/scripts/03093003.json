@@ -11,17 +11,20 @@
     {
       "name": "周瑜",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "张飞",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "诸葛亮",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "周瑜以假途灭虢之计，暗取荆州，被诸葛亮识破。诸葛亮遣赵云、黄忠、魏延、张飞等各路截杀，周瑜惨败。\n周瑜盛怒之下，呕血而死。",
@@ -961,12 +964,9 @@
       "scene_index": 4,
       "label": "第四场",
       "characters_present": [
-        "勒住丝缰把话表",
         "周瑜",
         "四白龙套",
         "四龙套",
-        "本督今日大兵到",
-        "本督把计错用了",
         "赵云"
       ],
       "lines": [
@@ -1287,21 +1287,9 @@
       "scene_index": 6,
       "label": "第六场",
       "characters_present": [
-        "不顾生死往前闯",
-        "人马来在南城下",
-        "你国军师韬略广",
-        "公安埋伏黄老将",
-        "刘和好除奸党",
-        "勒住马头把话讲",
         "周瑜",
         "四马夫",
-        "孙",
-        "张翼德埋伏在芦花荡",
-        "张飞",
-        "我二人在南城打一仗",
-        "披头散发一员将",
-        "耳边厢又听得銮铃响",
-        "霸王刚强乌江丧"
+        "张飞"
       ],
       "lines": [
         {
@@ -2262,7 +2250,6 @@
       "label": "第九场",
       "characters_present": [
         "丁奉",
-        "为臣我尽不得忠来顾不得孝",
         "周瑜",
         "孙瑜",
         "徐盛",

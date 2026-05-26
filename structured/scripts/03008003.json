@@ -11,17 +11,20 @@
     {
       "name": "双阳公主",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "狄青",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "杨宗保",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "鄯善国双阳公主欲将狄青接回执政，发兵进攻延安。杨宗保不敌，飞本告急；并请派狄青来援。是时狄青因\n取回假旗马，被庞藉进谗发配云南。狄青中途逃归，宋王怪罪，正由包拯保救。边报到来，宋王命狄青出征。\n狄太后借机要挟将庞藉处罪，宋王势不得已照行。狄青至延安，与双阳公主相见，适上乘、印唐二国来攻；\n遂合力击退，同归宋朝。",
@@ -228,9 +231,7 @@
       "scene_index": 1,
       "label": "第一场",
       "characters_present": [
-        "—路之上求保障",
         "乐集璞",
-        "到今日有言也难讲",
         "双阳公主",
         "哈什",
         "沙都",

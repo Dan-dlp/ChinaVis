@@ -11,57 +11,68 @@
     {
       "name": "曹操",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "刘备",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "汉献帝",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "董承",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "吕布",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "关羽",
       "role_type": "红生",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "张飞",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "车胄",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "王子服",
       "role_type": "末",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "种辑",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "吴硕",
       "role_type": "生",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     }
   ],
   "plot_summary": "曹操会合刘备、关羽、张飞合攻吕布，围下邳，决水淹之。吕布又待部属不仁，侯成盗其赤兔马降曹，宋宪、\n魏续内应献城，吕布被擒，陈宫、张辽、貂蝉亦皆被获。曹操斩陈宫、吕布，劝张辽归降。曹操同刘备进\n京面圣，汉献帝查族谱，认刘备为皇叔。汉献帝许田行围，曹操射中母鹿，百官以为帝射中，齐声拜颂；曹\n操俨然受贺。汉献帝不平，回宫暗草衣带诏付国舅董承，纠合诸侯，共同除曹，董承乃与马腾、刘备、王子\n服等七人共立义状。刘备自立义状后，恐曹操疑忌，故在园种菜以示并无远志；曹操宴刘备述志，并畅论天\n下英雄，独以英雄许刘备，刘备惊而失箸，借雷声故作胆怯，曹操被瞒过。后刘备自请讨袁术，计离许都。\n曹操暗致书于徐州守将车胄，命图刘备。车胄与陈登计议，欲于刘备回城时杀之。陈登暗告关羽，关羽乃背\n刘备，乘夜假作张辽人马，赚车胄出城将其杀死；刘备重领徐州。董承受衣带诏后，忧国致病；太医吉平知\n其心事，亦愿除之，拟乘曹操患头风时下毒药以进。",
@@ -865,7 +876,6 @@
         "内侍",
         "吕布",
         "貂婵",
-        "迈步且把宫门进",
         "陈宫"
       ],
       "lines": [
@@ -1443,7 +1453,6 @@
       "scene_index": 4,
       "label": "第四场",
       "characters_present": [
-        "三将",
         "侯成",
         "内侍",
         "吕布",

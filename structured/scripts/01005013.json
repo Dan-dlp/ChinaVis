@@ -13,32 +13,38 @@
     {
       "name": "王氏",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "小妾",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "李相公",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "老街坊",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "小街坊",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "书童",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     }
   ],
   "plot_summary": "此剧形容妻妾争风丑态，演时诙谐杂出，颇足另人捧腹。某士人家有一妻一妾，出外时妾每为妻所欺。一日\n某作客归，先入妾房卧宿，不意为妻所知，蹑至房外窃听。妾正在彼所说被大娘打骂苦情，妻遂大骂，打门\n冲进。从此二人吵闹不休，某亦无法止住，惊动另局到来排解，同她们并半均分，妻、妾各住半月。二人虽\n听从邻居之言，惟仍争夺上半月。邻居又想出双摇会之法，点色大者得上半，小者得下半。遂如法而行，卒\n为二娘所得。",
@@ -98,7 +104,6 @@
       "characters_present": [
         "书童",
         "小妾",
-        "手执家法将你打",
         "李相公",
         "王氏"
       ],

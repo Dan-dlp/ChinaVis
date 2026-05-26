@@ -11,37 +11,44 @@
     {
       "name": "贾宝玉",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": "黑蓬头，金箍，紫金冠，丹青花褶，项围红斗篷，执尘尾"
     },
     {
       "name": "贾政",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": "员外巾，石青帔，黪三"
     },
     {
       "name": "茫茫大士",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": "道人装，白蓬头，白满，绿开氅，执尘尾"
     },
     {
       "name": "渺渺真人",
       "role_type": "外",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": "僧人装，昆卢帽，虬髯，红褶子，执尘尾"
     },
     {
       "name": "稍水甲",
       "role_type": "付",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "稍水乙",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "下书人",
       "role_type": "杂",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     }
   ],
   "plot_summary": "贾宝玉考中第七名举人，场后即随茫茫大士、渺渺真人出家。为尽父子之情，特至江岸拜辞贾政。时贾政自\n金陵乘舟北归，于途中得家书，知贾宝玉中举，场后走失。方闷卧船舱，仿佛见贾宝玉随一僧一道至，惊醒\n时去犹未远。众欲追之，贾政知其从仙人游，止勿追。",
@@ -114,11 +121,7 @@
       "scene_index": 1,
       "label": "第一场",
       "characters_present": [
-        "一朝悟道脱凡景",
-        "十八年来抛岁月",
-        "大观园里锦绣地",
         "渺渺真人",
-        "父母生我恩义重",
         "茫茫大士",
         "贾宝玉"
       ],
@@ -363,8 +366,6 @@
       "characters_present": [
         "下书人",
         "二稍水",
-        "叫稍公你与我摇橹泊棹",
-        "实指望养姣儿终身有靠",
         "茫茫大士",
         "贾宝玉",
         "贾政",
@@ -1069,11 +1070,8 @@
       "characters_present": [
         "下书人",
         "二院子",
-        "今得经魁名成就",
         "茫茫大士",
-        "貌如冠玉原不俗",
-        "贾政",
-        "都只为太君心爱重"
+        "贾政"
       ],
       "lines": [
         {

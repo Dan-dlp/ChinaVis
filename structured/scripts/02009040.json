@@ -11,17 +11,20 @@
     {
       "name": "郑玉娥",
       "role_type": "武旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "林冲",
       "role_type": "生",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "关胜",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "郑玉娥占守红桃山，自立为尊。林冲奉宋江命，前往夺取，被郑玉娥打败。及关胜运粮前来，迎战郑玉娥，\n亦未能得胜。最后宋江又派花荣助阵，林冲、关胜、花荣三人一齐上阵，始得将郑玉娥生擒，押回梁山。",
@@ -195,8 +198,7 @@
       "label": "第二场",
       "characters_present": [
         "余龙",
-        "喽啰们",
-        "四青旗"
+        "喽啰们"
       ],
       "lines": [
         {
@@ -568,7 +570,6 @@
       "scene_index": 6,
       "label": "第六场",
       "characters_present": [
-        "众好汉",
         "关胜",
         "四红旗"
       ],
@@ -874,7 +875,6 @@
       "label": "第九场",
       "characters_present": [
         "四喽兵",
-        "残秋日后飘落叶",
         "花荣"
       ],
       "lines": [

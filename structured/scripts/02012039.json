@@ -13,22 +13,26 @@
     {
       "name": "何玉凤",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "安骥",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "白脸狼",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "黄傻狗",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     }
   ],
   "plot_summary": "淮安县安学海因为得罪于总漕镇，总漕镇就参奏他一本，说他侵吞公款，押在牢中；必定要六千两银子，赔\n偿清楚，才可无事。有一个多年的义仆华忠，连夜奔到京中，报告公子安骥；将家产变卖了三千金先行送去。\n其余的一半，再向亲友借贷。安骥就和华忠动身。不料走到半途，华忠得病，不能行走，暂且住在悦来店\n中养病，安骥只得和驴夫先走。这时十三妹因为母亲有病，想下山来取些银钱，替母亲治病；恰巧听见安公\n子的两个驴夫，商议谋害安公子的话，她就跑到悦来店去，探访这公子，是如何的人。一见安公子是个文弱\n书生，先用言语来打动他，安公子不知道她的用意，终被两个驴夫骗往黑风岗。",
@@ -1538,12 +1542,9 @@
       "scene_index": 7,
       "label": "第七场",
       "characters_present": [
-        "倘若上司催银项",
         "华忠",
-        "只恐老爷朝夕望",
         "安骥",
         "店家",
-        "思前想后心难放",
         "白脸狼",
         "黄傻狗"
       ],

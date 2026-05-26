@@ -13,87 +13,104 @@
     {
       "name": "刘备",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "关羽",
       "role_type": "生",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "张飞",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "苗信",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "浪儿",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "熊祥",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "熊虎",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "张继昌",
       "role_type": "末",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "张鸾姣",
       "role_type": "贴旦",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "游人甲",
       "role_type": "末",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "游人乙",
       "role_type": "生",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "游人丙",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "游人丁",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "张妻",
       "role_type": "贴旦",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "方雄",
       "role_type": "外",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "于申",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "酒保",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     }
   ],
   "plot_summary": "关羽因蒲州恶霸熊虎父子勾结县令，强占士人张继昌之女鸾姣，心怀不平，在公堂杀死熊虎及县令，逃走。\n追兵追之，观音点化清泉，关羽洗面，变为红脸脱险，逃至涿郡，遇张飞卖肉，比武各不相下，又遇刘备，\n志趣相投，三人在桃园结拜。",
@@ -259,8 +276,6 @@
       "scene_index": 1,
       "label": "第一场",
       "characters_present": [
-        "四青袍",
-        "来",
         "苗信"
       ],
       "lines": [
@@ -346,7 +361,6 @@
       "label": "第二场",
       "characters_present": [
         "三文官",
-        "四武将",
         "文官甲"
       ],
       "lines": [
@@ -428,8 +442,6 @@
       "scene_index": 3,
       "label": "第三场",
       "characters_present": [
-        "四文官",
-        "四武将",
         "浪儿",
         "熊祥",
         "熊虎",

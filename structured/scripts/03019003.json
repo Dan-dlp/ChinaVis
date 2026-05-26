@@ -11,57 +11,68 @@
     {
       "name": "金莲公主",
       "role_type": "刀马旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "银娥公主",
       "role_type": "刀马旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "焦玉",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "孟强",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "葫芦妈妈",
       "role_type": "彩旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "呼延守用",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "萧赛红",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "呼延庆",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "郑熊",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "高奎",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "莫胡里",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "北宋时，呼延守用及其妻萧赛红奉旨征西，首攻金猛关。西凉国向鱼皮国求援，鱼皮国派金莲、银娥二公主\n援救金猛关。出战时，两公主见宋营孟强、焦玉二将少年英勇，擒回营中，欲结婚姻。二将先则不允，后经\n劝说始从。两公主协助宋兵，杀金猛关守将莫胡里，献城归宋。",
@@ -1348,7 +1359,6 @@
       "scene_index": 6,
       "label": "第六场",
       "characters_present": [
-        "免战牌挂在城楼上",
         "探子",
         "莫胡里",
         "葫芦妈妈",
@@ -1719,10 +1729,7 @@
       "label": "第七场",
       "characters_present": [
         "焦玉",
-        "胯下一骑追风马",
-        "金莲催马忙问话",
-        "金莲公主",
-        "非是少爷夸大话"
+        "金莲公主"
       ],
       "lines": [
         {

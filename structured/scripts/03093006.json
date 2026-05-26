@@ -11,37 +11,44 @@
     {
       "name": "张飞",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "张郃",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "魏延",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "范疆",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "张达",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "诸葛亮",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "刘备",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "曹操命曹洪镇守汉中，曹洪遣张郃分镇瓦口关。时张飞守巴西，张郃请令攻取。诸葛亮闻讯，命张飞攻取瓦\n口关，刘备恐张飞饮酒误事，令戒酒，并遣范疆、张达随军监视。张飞连败张郃，张郃坚守关隘不出。张飞\n遣士卒辱骂，并终日饮酒，诱敌出关，张郃仍不出战。范疆、张达见张飞终日饮酒，遣人密报诸葛亮、刘备。\n诸葛亮知张飞用计，乃遣魏延送美酒至张飞营，助张飞用计。张飞又命军士假作怒己之状，并命范疆、张\n达诈投张郃，诱其来袭。张郃果中计，失守瓦口关。",
@@ -211,7 +218,6 @@
       "label": "第一场",
       "characters_present": [
         "四下手",
-        "四文堂",
         "夏侯渊",
         "张郃",
         "曹洪"
@@ -1037,12 +1043,8 @@
       "scene_index": 4,
       "label": "第四场",
       "characters_present": [
-        "今日督兵立军状",
-        "任他纵有千员将",
-        "但愿成功回营帐",
         "张郃",
-        "曹洪",
-        "疆场若是损兵将"
+        "曹洪"
       ],
       "lines": [
         {
@@ -1403,15 +1405,11 @@
       "scene_index": 5,
       "label": "第五场",
       "characters_present": [
-        "全仗英雄随机变",
         "刘备",
-        "哪怕张郃英雄将",
         "四上手",
         "四龙套",
         "张达",
         "张飞",
-        "曹兵势重多强干",
-        "范疆",
         "诸葛亮"
       ],
       "lines": [
@@ -2057,16 +2055,12 @@
       "scene_index": 6,
       "label": "第六场",
       "characters_present": [
-        "今日你我分上下",
-        "今日遇某尔该丧",
         "四上手",
         "四下手",
-        "四文堂",
         "四龙套",
         "张达",
         "张郃",
-        "张飞",
-        "范疆"
+        "张飞"
       ],
       "lines": [
         {

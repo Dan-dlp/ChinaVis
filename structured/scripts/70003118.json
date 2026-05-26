@@ -11,32 +11,38 @@
     {
       "name": "关羽",
       "role_type": "红生",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "张飞",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "刘备",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "诸葛亮",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "曹操",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "夏侯惇",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "刘备三顾茅庐，请出诸葛亮，占据新野，操练兵马，军势大振。曹操命夏侯惇前来攻打。诸葛亮分遣关羽、\n赵云等迎击，惟张飞不听调遣。曹兵至，诸葛亮火烧博望坡，大败曹兵。关羽讲情，张飞幸免惩处。",
@@ -879,8 +885,6 @@
         "四龙套",
         "张飞",
         "报子",
-        "文韬武略智谋广",
-        "暂居新野屯兵将",
         "诸葛亮"
       ],
       "lines": [
@@ -1330,19 +1334,11 @@
       "scene_index": 4,
       "label": "第四场",
       "characters_present": [
-        "你我不遵他令将",
         "关平",
         "关羽",
-        "军师年幼剑印掌",
         "刘备",
         "刘封",
-        "孙乾",
         "张飞",
-        "我军个个年高长",
-        "简雍",
-        "糜竺",
-        "糜芳",
-        "老张遵令去打仗",
         "诸葛亮",
         "赵云"
       ],

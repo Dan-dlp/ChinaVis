@@ -13,97 +13,116 @@
     {
       "name": "袁崇焕",
       "role_type": "生",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "皇太极",
       "role_type": "副净",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "博尔济吉特氏",
       "role_type": "武旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "崇祯",
       "role_type": "生",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "陈圆圆",
       "role_type": "花旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "纪信",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "满桂",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "左辅",
       "role_type": "副净",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "何可刚",
       "role_type": "末",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "朱海",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "祖大寿",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "袁母",
       "role_type": "老旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "袁妻",
       "role_type": "正旦",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "黄门官",
       "role_type": "外",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "老鸨",
       "role_type": "彩旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "家人",
       "role_type": "外",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "番将",
       "role_type": "副净",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "周奎",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "福临儿",
       "role_type": "娃娃生",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     }
   ],
   "plot_summary": "明天启帝听信魏忠贤之谗言，削袁崇焕职，撤去督师之权，命尚日监纪信巡抚关外。满洲主皇太极，探听属\n实，欣喜非常，谓袁崇焕既去，可以毫无忌惮矣。乃同次妃博尔济吉特氏，亲率精兵猛将，直抵山海关。满\n洲进兵之路，宁远城适当其冲，纪信接着探报，惊惶失措，传齐大小将佐，开军事会议。祖大寿素性忠勇，\n请及早定计，与之决战，而纪信无计可定，惟守一逃避主义，开城混杀，纪信已为满兵所擒矣；幸祖大寿一\n阵未溃，尚不至十分决裂。天启帝驾崩，崇祯帝登极，忠贤恶贯满盈，已被族诛；所有奸党，尽行屠戮。仍\n起用袁崇焕督师，镇守山海关，抵御满洲。平台召见，授以特权，并尚方宝剑，无论亲王贵戚，皆得先斩后\n奏。袁崇焕任事之后，加意整饬，军容陡然威武，宁远城又见一番新气象。满洲主皇太极，逞其智勇，再来\n犯边；依旧损折兵将，不能越雷池一步。公卿士庶，皆庆得人；崇祯帝亦深信之。初不料于无意之中，结怨\n于国丈周奎也。周奎尝识一妓女陈圆圆，倾国倾城之貌，举世无双，正为固宠希荣计，不惜重金，在鸨母手\n中，购得此株摇钱树，进献于崇祯帝。崇祯帝一见陈圆圆，如此美艳，欣然领受；召其奏技，亦一准惬意。\n正在清歌妙舞之时，兵部呈进加紧奏疏一件，随即拆看，系袁崇焕奏明关外情形，预备边防诸事；中有“去\n谗远色”语。崇祯帝悚然动容，命内侍取银三百两，赐给陈圆圆，送还国丈府，反恨周奎蛊惑君上，严饬训\n谕；周奎因此怀恨焉。",
@@ -242,12 +261,9 @@
       "scene_index": 1,
       "label": "第一场",
       "characters_present": [
-        "博尔济吉特氏（唱） 听一言来喜在心",
-        "就此拔队向前进",
         "榜式达海",
         "皇太极",
-        "福临儿",
-        "重要边防通贿赂"
+        "福临儿"
       ],
       "lines": [
         {
@@ -1358,8 +1374,6 @@
       "label": "第五场",
       "characters_present": [
         "内侍",
-        "天到夕阳苦日短",
-        "奴侍奉高堂代你职",
         "袁妻",
         "袁崇焕",
         "袁母"
@@ -1758,23 +1772,10 @@
       "scene_index": 6,
       "label": "第六场",
       "characters_present": [
-        "乞求陛下尚方剑",
-        "人怕满兵如狼虎",
-        "他们坐镇都年久",
-        "他屡寇边把能逞",
         "刘鸿训",
-        "只要犯了你军律",
         "周延儒",
-        "命你督师边关口",
-        "将剑交与贤卿手",
         "崇祯",
-        "想当年宁远孤城数千卒",
-        "撩袍端带向前进",
-        "朕今赐你尚方剑",
-        "臣已定下备边计",
         "袁崇焕",
-        "贤卿军略朕知晓",
-        "随机应变把兵领",
         "黄门官"
       ],
       "lines": [
@@ -2329,7 +2330,6 @@
       "scene_index": 7,
       "label": "第一场",
       "characters_present": [
-        "今日是北里卖笑路旁草",
         "老鸨",
         "陈圆圆"
       ],

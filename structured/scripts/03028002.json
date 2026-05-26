@@ -11,17 +11,20 @@
     {
       "name": "杨再兴",
       "role_type": "武生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "兀术",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "岳飞",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "岳飞破“五方阵”后，兀术举兵南侵。岳飞战将杨再兴奉命大战于小商河，连斩四番将。兀术不敌，埋兵小\n商河桥头，杨再兴被乱箭射死。岳云挺战，兀术败退朱仙镇。",
@@ -103,10 +106,7 @@
       "label": "第一场",
       "characters_present": [
         "兀术",
-        "雪里花东",
-        "雪里花北",
-        "雪里花南",
-        "雪里花西"
+        "雪里花南"
       ],
       "lines": [
         {
@@ -1056,24 +1056,11 @@
       "scene_index": 6,
       "label": "第六场",
       "characters_present": [
-        "严成方",
         "众人",
-        "何元庆",
-        "兀术统兵来侵犯",
-        "夜梦令祖神威显",
-        "大料阴魂去不远",
-        "小商河桥中乱箭",
         "岳云",
         "岳飞",
-        "忆昔当年潭州战",
-        "快快赐某一令箭",
-        "愚兄被困遭贼陷",
         "报子",
-        "次晨运用撒手锏",
-        "牛皋",
-        "狄雷",
-        "王佐设摆金兰宴",
-        "较量枪法互钦羡"
+        "牛皋"
       ],
       "lines": [
         {

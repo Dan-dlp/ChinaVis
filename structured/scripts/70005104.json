@@ -11,17 +11,20 @@
     {
       "name": "张良",
       "role_type": "武生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "苍海公",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "秦始皇",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "秦时，张良蓄谋反秦，遣友苍海公刺杀秦始皇未遂，海公慷慨就义。",
@@ -89,12 +92,8 @@
       "scene_index": 1,
       "label": "第一场",
       "characters_present": [
-        "你心中休得要自寻烦恼",
         "张良",
-        "我若是昧良心忍辱不报",
-        "苍海公",
-        "要知道我此去凶多吉少",
-        "还望你施妙计将仇来报"
+        "苍海公"
       ],
       "lines": [
         {
@@ -805,7 +804,6 @@
       "characters_present": [
         "众人",
         "太监",
-        "有爪牙和心腹护卫孤家",
         "秦始皇"
       ],
       "lines": [

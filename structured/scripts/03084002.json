@@ -11,22 +11,26 @@
     {
       "name": "徐金花",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "刘仁瞻",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "花迎春",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "赵匡胤",
       "role_type": "红生",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     }
   ],
   "plot_summary": "赵匡胤攻寿春，守将刘仁瞻出战不胜，中箭而归；其妻徐金花日夜巡城，引兵坚守。刘妾花迎春与参将何延\n锡私通，为徐金花撞见，花迎春苦苦哀求，徐金花乃放之。花迎春继与何延锡密约，私献城池，刘仁瞻遂为\n周将所擒。徐金花乃负子闯入周营。刘仁瞻终不屈以死报国。赵匡胤嘉其忠，仍命徐金花守寿春。",
@@ -275,7 +279,6 @@
       "label": "第一场",
       "characters_present": [
         "四大铠",
-        "四文堂",
         "文堂甲",
         "李重进",
         "赵匡胤",
@@ -627,8 +630,7 @@
         "刘仁瞻",
         "徐金花",
         "花迎春",
-        "院子",
-        "面对落叶西风紧"
+        "院子"
       ],
       "lines": [
         {
@@ -1979,7 +1981,6 @@
         "何延锡",
         "刘仁瞻",
         "四大铠",
-        "四文堂",
         "张万",
         "报子",
         "高怀亮"
@@ -2421,8 +2422,6 @@
       "scene_index": 7,
       "label": "第七场",
       "characters_present": [
-        "分队观机变",
-        "四龙套",
         "李重进"
       ],
       "lines": [
@@ -2614,9 +2613,7 @@
         "何延锡",
         "刘仁瞻",
         "四大铠",
-        "四文堂",
-        "张万",
-        "马革裹尸有何怨"
+        "张万"
       ],
       "lines": [
         {

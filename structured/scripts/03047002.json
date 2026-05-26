@@ -11,12 +11,14 @@
     {
       "name": "要离",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "庆忌",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "列国时，吴王姬僚为姬光所刺，其子庆忌逃往艾城，屯军纳士，结连邻邦，伺机报仇。伍员荐勇士要离，姬\n光遂定苦肉计——断要离右臂，戮要离妻子，并遣要离假投庆忌。庆忌果信之。要离乘机刺庆忌，复自刎死。",
@@ -1419,8 +1421,6 @@
       "scene_index": 8,
       "label": "第八场",
       "characters_present": [
-        "夤夜暗杀非明亮",
-        "我料他心气忿不能忍让",
         "椒邱诉",
         "要离",
         "要离妻"
@@ -2341,9 +2341,7 @@
       "characters_present": [
         "四将",
         "大马童",
-        "庆忌",
-        "杀父之仇岂可忘",
-        "骂声伍员狗奸党"
+        "庆忌"
       ],
       "lines": [
         {

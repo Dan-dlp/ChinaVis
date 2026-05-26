@@ -11,22 +11,26 @@
     {
       "name": "张飞",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "吕布",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "刘备",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "关羽",
       "role_type": "红生",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     }
   ],
   "plot_summary": "张飞与袁术打赌，表示一定要生擒吕布。刘备怕张飞有失，漏夜与关羽相商助战之策。次日，张飞、吕布交\n战，张飞果败。刘备、关羽遂与张飞结成三马连环，同战吕布。吕布不敌，被挑下紫金冠，败入虎牢关内。",
@@ -671,7 +675,6 @@
       "label": "第四场",
       "characters_present": [
         "关羽",
-        "出此一枪走了罢",
         "刘备",
         "吕布",
         "张飞"

@@ -11,27 +11,32 @@
     {
       "name": "司马师",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "张捷",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "曹芳",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "皇后",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "贾玉",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "三国时，魏大都督司马师专权，其主曹芳甚惧。时西蜀姜维兵围潼关，守将告急。朝臣贾玉献计，命司马师\n带领五千人马往援：若司马师杀姜维，去一外患；如姜维灭司马师，除一内奸。司马师抗旨不遵，并在金殿\n斩贾玉。张皇后复献计，密修血诏，命太师张捷颁兵除司马师。事败露，司马师于午门斩张捷，复进宫绞杀\n张后。",
@@ -647,17 +652,10 @@
       "scene_index": 2,
       "label": "第二场",
       "characters_present": [
-        "一封血诏忙修定",
-        "司马师在朝行奸佞",
         "大太监",
-        "将血诏藏至在朝靴内",
-        "将血诏藏至在袍袖以内",
         "张捷",
-        "急忙且把宫廷进",
         "曹芳",
-        "望众卿早发人和马",
-        "皇后",
-        "银牙一咬中指破"
+        "皇后"
       ],
       "lines": [
         {
@@ -2177,15 +2175,11 @@
       "scene_index": 4,
       "label": "第四场",
       "characters_present": [
-        "不跪万岁来跪你",
         "司马师",
         "四校尉",
         "大太监",
-        "恨不得一足踏死你",
         "曹芳",
-        "桩桩件件你妇人计",
-        "皇后",
-        "走向前来忙跪定"
+        "皇后"
       ],
       "lines": [
         {

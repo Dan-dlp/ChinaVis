@@ -11,87 +11,104 @@
     {
       "name": "薛湘灵",
       "role_type": "正旦",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "薛夫人",
       "role_type": "老旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "赵守贞",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "卢胜筹",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "薛良",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "程俊",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "胡杰",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "卢天麟",
       "role_type": "娃娃生",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "周大器",
       "role_type": "娃娃生",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "碧玉",
       "role_type": "丑旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "梅香",
       "role_type": "丑旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "胡婆",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "赵禄寒",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "卢仁",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "卢义",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "老傧相",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "少傧相",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     }
   ],
   "plot_summary": "登州富户薛姥的女儿薛湘灵出嫁，嫁前按当地习俗给了她一个锁麟囊，取“早生贵子”之意，内中装了不少\n珠宝。婚期中途遇雨，在春秋亭暂避；恰巧又来了一乘花轿，轿中的赵守贞是贫士赵禄寒的女儿，由于感到\n身世凄凉，不禁悲啼。薛湘灵教老仆问明情由，颇表同情，慨然以锁麟囊相赠，赵守贞感遇知己，遂留空囊\n而璧还珠宝，雨止各去。六年后登州大水，薛湘灵和家人失散，漂流到莱州，遇见旧仆胡婆，引她到当地官\n员卢胜筹家，适卢家正为儿子卢天麟雇保姆，薛湘灵得入府中，伴卢天麟玩耍，百感交集。卢天麟把球抛进\n一座小楼，逼薛湘灵去拾，薛湘灵上楼看见当年的锁麟囊，不觉感泣。卢夫人原来就是赵守贞，见状加以盘\n问，才知薛湘灵就是当年赠囊之人，改容敬礼，结为姊妹，并帮助她一家团聚。",
@@ -683,16 +700,13 @@
       "scene_index": 2,
       "label": "第二场",
       "characters_present": [
-        "为一个锁麟囊东颠西跑",
-        "是何人将囊来买到",
         "梅香",
         "王青",
         "胡婆",
         "薛夫人",
         "薛湘灵",
         "薛良",
-        "薛顺",
-        "非是我心情多骄傲"
+        "薛顺"
       ],
       "lines": [
         {

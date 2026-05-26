@@ -11,17 +11,20 @@
     {
       "name": "孙膑",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "园丁",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "庞涓",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "孙膑被庞涓陷害，刖足毁容后，庞涓仍想得到孙膑所知之三部天书，故假意殷勤，留孙膑在其家中，由园丁\n服侍，一面养病，一面抄写天书。园丁知庞涓之用心，天书抄完，即将孙膑杀死。又念孙膑系忠良之士，不\n忍其落此下场。暗中示意孙膑，应谋良策，孙膑遂装疯逃脱云。",
@@ -75,19 +78,12 @@
       "scene_index": 1,
       "label": "全剧",
       "characters_present": [
-        "与他有什么相交",
         "二将",
         "二将官",
-        "因此上设下了刖足计",
         "园丁",
         "园丁官",
-        "孙老爷恁不见他心生奸狡",
-        "孙老爷细思量",
         "孙膑",
-        "庞涓",
-        "所为何来",
-        "损容颜",
-        "每日里凌逼小人"
+        "庞涓"
       ],
       "lines": [
         {

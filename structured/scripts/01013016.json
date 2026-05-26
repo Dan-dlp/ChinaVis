@@ -13,52 +13,62 @@
     {
       "name": "秦琼",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "程咬金",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "单雄信",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "徐勣",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "罗成",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "魏徵",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "杨林",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "来忽尔",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "店主人",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "家院",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     }
   ],
   "plot_summary": "随末时，群雄并起，各据一方，如《贾家楼》结拜一剧诸人中，半皆唐代凌烟阁功臣，彼时均未得志，尚多\n作绿林豪客。程咬金（正史中称程知节），曾投尤俊达门下。尤俊达本富豪，广结天下英雄，甚相投契。程\n咬金感情既深，无以为报，一日带领尤之庄丁多人，在长驿岭射猎，适有解饷官，压饷银十万两，程咬金颇\n羡之，拟劫银献，即领众庄丁，蜂拥而上，竟将银两劫去，是时官兵无多，纷纷逃窜，内有胆大者，询及贼\n伙姓名，程咬金即告以“俊达、咬金，我二人，系此处山主，你等敢再胡言，定行结果你等性命。”众皆鼠\n窜，入城报官。值靠山王杨林，闻之，大怒，即令捕头秦琼缉捕。秦琼与诸绿林均相善，明知系程咬金所为，\n故意延缓，屡屡逾限，终未破案。后程咬金自行投首被获，而徐绩、魏徵辈，设计救之，竟保无恙。",
@@ -1553,12 +1563,7 @@
       "scene_index": 7,
       "label": "第七场",
       "characters_present": [
-        "四上手",
-        "四龙套",
-        "大胆且把宝帐进",
-        "尤俊达",
         "探子",
-        "是是是来明白了",
         "杨林",
         "秦琼",
         "程咬金"
@@ -2001,11 +2006,7 @@
       "characters_present": [
         "众人",
         "公役甲",
-        "徐勣",
-        "王伯党",
-        "童环",
-        "薛云登",
-        "金甲"
+        "徐勣"
       ],
       "lines": [
         {
@@ -2162,8 +2163,6 @@
       "label": "第十场",
       "characters_present": [
         "唐壁",
-        "四大铠",
-        "四龙套",
         "来忽尔"
       ],
       "lines": [

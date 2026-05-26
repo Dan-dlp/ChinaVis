@@ -11,27 +11,32 @@
     {
       "name": "岳云",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "岳银屏",
       "role_type": "小旦",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "岳母",
       "role_type": "老旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "李氏",
       "role_type": "正旦",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "牛皋",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "《精忠说岳》第四十回，所载“杀番兵岳云保家属”，即此剧也。而时岳飞长子岳云，年甫十二，膂力过人，\n生喜使枪弄棍。虽年未成童，常怀远大志，欲奔往父处，随营助战，以为国家出力，奈家中均秘不令其知\n父消息，只得闷守家园。曾因郊游经雨，避入张睢阳庙，力倦假寐拜台上，于梦中得雷将军传授锤法，因是\n专使一对八十二斤重之银锤，询将门将子也。时兀术用军师计，密遣番将薛礼花豹及张兆奴二人，率兵抄赴\n汤阴，偷捕岳飞家属，拟以此胁降岳飞，盖知岳飞天性素纯孝故也。孰意薛礼花豹、张兆奴二将，尽死于岳\n云双锤之下，加以刘都帅闻讯，急派兵援助，以是番兵数千，均被俘杀尽净，不曾逃得一个。",
@@ -127,19 +132,12 @@
       "scene_index": 1,
       "label": "第一场",
       "characters_present": [
-        "两军阵遇敌将岂可惜命",
-        "争功劳一时间怎到极品",
-        "儿须要守寒窗苦颜闵",
         "岳云",
         "岳安",
         "岳母",
         "岳银屏",
-        "把为娘金玉言全然不听",
-        "望母亲容孩儿习举公瑾",
         "李氏",
-        "父为帅掌雄兵威风凛凛",
-        "牛皋",
-        "遇交锋渴来时常将血饮"
+        "牛皋"
       ],
       "lines": [
         {
@@ -1538,14 +1536,12 @@
       "scene_index": 3,
       "label": "第三场",
       "characters_present": [
-        "两军阵交锋时虎羊争斗",
         "众家将",
         "岳云",
         "岳安",
         "岳母",
         "岳银屏",
-        "李氏",
-        "金兵到儿岂肯惧怕逃走"
+        "李氏"
       ],
       "lines": [
         {

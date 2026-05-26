@@ -13,62 +13,74 @@
     {
       "name": "杨继业",
       "role_type": "外",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "杨延德",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "杨延平",
       "role_type": "末",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "赵匡义",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "赵德芳",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "杨延昭",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "杨延嗣",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "萧天庆",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "韩延寿",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "公主",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "耶律休哥",
       "role_type": "外",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "长老",
       "role_type": "末",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     }
   ],
   "plot_summary": "《双龙会》故事出旧小说《杨家将》、《金枪传》中，为北赵匡义时事，即“八虎闯幽州”是也。《四郎探\n母》中，所称“十五年前沙滩赴会”，即指此事。大旨谓辽邦萧天庆与潘洪串通，骗诱宋帝到幽州被困，又\n设双龙会，伪约宋帝赴宴议款，盖效项王鸿门宴，欲图当筵杀死宋主也。一面亦效《取荥阳》中纪信替主故\n事，令杨大郎延平假扮宋帝代主而往，其余自二郎以次至八郎，均保护同往，此即所谓“八虎闯幽州”。既\n至会，大郎见势不佳，因拼一死，用先发制人之计，以弩射死辽主萧天庆，遂闹成一场恶战。虽能杀出重围，\n使辽兵败退，然大郎、二郎均战死，三郎踏死马蹄下，四郎、八郎均被擒，所剩生还者，只五、六、七郎\n三人而已。宋兵元气从此大伤，而杨家将忠心保主之名，则亦从此永久传于世。",
@@ -213,8 +225,6 @@
       "scene_index": 1,
       "label": "第一场",
       "characters_present": [
-        "四小军",
-        "小军",
         "杨继业"
       ],
       "lines": [
@@ -304,16 +314,9 @@
       "scene_index": 2,
       "label": "第二场",
       "characters_present": [
-        "向前辞过爹爹驾",
-        "君臣正在为难处",
-        "哪一个孩儿像宋王",
-        "四十里沙滩摆下宴",
-        "救得寡人回朝转",
         "杨延嗣",
         "杨延平",
         "杨继业",
-        "杨继业紧铠出宝帐",
-        "爹爹吓",
         "赵匡义",
         "赵延平",
         "赵德芳",
@@ -2066,8 +2069,7 @@
       "label": "第七场",
       "characters_present": [
         "杨延嗣",
-        "杨延德",
-        "杨延昭"
+        "杨延德"
       ],
       "lines": [
         {
@@ -2202,12 +2204,8 @@
       "label": "第九场",
       "characters_present": [
         "杨继业",
-        "柴干",
         "潘仁美",
-        "赵匡义",
-        "郎万",
-        "郎千",
-        "陈林"
+        "赵匡义"
       ],
       "lines": [
         {

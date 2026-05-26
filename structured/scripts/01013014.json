@@ -11,42 +11,50 @@
     {
       "name": "金钱豹",
       "role_type": "武生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "孙悟空",
       "role_type": "武生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "涂保",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "唐三藏",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "邓姑娘",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "丫鬟",
       "role_type": "武旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "书生",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "邓洪",
       "role_type": "末",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     }
   ],
   "plot_summary": "《金钱豹》一剧，系选取唐三藏师徒四众，往西天取经，沿路降妖伏怪之事，凑补而成。其大概为某村庄富\n户邓洪，于清明节，携眷上坟扫墓，其女颇有姿色，不意被附近山中妖怪金钱豹所见，强命手下黄狼精名涂\n保者，前往邓洪处说亲。邓洪虽不应，然涂保强将礼物委下，约期而去，邓洪知系妖怪，无可如何，正当万\n分忧闷之际，忽唐三藏等师徒到来投宿，行者闻知情由，即一力应承，代为驱除。当命猪八戒变作邓女，行\n者自己变作丫鬟，袖兵伏床内以待。待夜深，金钱豹至，出其不意，突出拿捉。金钱豹见势不佳，当即返身\n遁。行者等追出厮战，金钱豹败归，既而率众小妖以妖法环斗，行者反为其所败。卒乃赖天兵之力，将金钱\n豹擒获而去。",
@@ -878,11 +886,9 @@
       "characters_present": [
         "丑小姐",
         "丫鬟",
-        "叫员外且把心放了",
         "唐三藏",
         "孙悟空",
         "家院",
-        "沙僧",
         "猪八戒",
         "邓小姐",
         "邓洪"

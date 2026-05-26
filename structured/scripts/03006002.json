@@ -11,27 +11,32 @@
     {
       "name": "吕布",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "刘备",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "纪灵",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "张飞",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "关羽",
       "role_type": "红生",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     }
   ],
   "plot_summary": "袁术派部将纪灵攻夺小沛。袁术恐吕布援助刘备，馈吕布粮米。吕布深恐袁术得势，威胁徐州，乃约请刘备、\n纪灵到营置酒解和。席间，吕布施展本领，于百步外箭射画戟。纪灵慑于吕布威势，罢战而去。",
@@ -656,17 +661,12 @@
       "scene_index": 3,
       "label": "第三场",
       "characters_present": [
-        "三弟休把吕布恨",
         "关羽",
         "刘备",
-        "吕布书来解愁闷",
         "四青袍",
-        "大哥且将心放定",
-        "大小将士随营阵",
         "张飞",
         "报子",
         "旗牌",
-        "此去好比鸿门宴",
         "青袍甲"
       ],
       "lines": [
@@ -1515,13 +1515,10 @@
       "label": "第四场",
       "characters_present": [
         "中军",
-        "他兵多我将少难以敌对",
         "关羽",
         "刘备",
         "吕布",
-        "回营去调人马临阵对垒",
         "张飞",
-        "纪将军量宽宏沉吟一醉",
         "纪灵",
         "陈兰",
         "雷簿"

@@ -13,32 +13,38 @@
     {
       "name": "樊梨花",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "薛金莲",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "柳迎春",
       "role_type": "老旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "中军甲",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "中军乙",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "女官",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     }
   ],
   "plot_summary": "樊梨花挂帅西征，适值唐王和薛仁贵被敌包围，樊梨花的婆母柳迎春奉旨搬兵，同时，其小姑薛金莲亦押粮\n赶到，薛金莲怪樊梨花不立即驰救，同她吵闹。樊梨花竭力忍让，终因薛金莲相欺太甚，争斗起来。柳迎春\n劝解，薛金莲不听，樊梨花就把发兵的命令负气收回。薛金莲无可奈何，只得低头请罪；姑嫂言归于好，同\n往救驾。",
@@ -802,10 +808,7 @@
       "characters_present": [
         "中军乙",
         "中军甲",
-        "只得上前问一遍",
         "四军士",
-        "忍着怒气将她劝",
-        "本当与她把脸变",
         "樊梨花",
         "薛金莲"
       ],

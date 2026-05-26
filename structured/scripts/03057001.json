@@ -11,32 +11,38 @@
     {
       "name": "贾宝玉",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "林黛玉",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "薛宝钗",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "贾元春",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "贾政",
       "role_type": "生",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "贾母",
       "role_type": "老旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     }
   ],
   "plot_summary": "薛宝钗病，贾宝玉往探，得识金玉。林黛玉亦来，饭后始归。贾元春选入凤藻宫，恩准归省。贾府特建大观\n园。园成，贾政命贾宝玉题对，贾宝玉大显才华。贵妃归省，叙乐新园，众姐弟赋诗欢宴。",
@@ -1401,13 +1407,9 @@
       "scene_index": 3,
       "label": "第三场",
       "characters_present": [
-        "些许的食物原易办",
         "仆妇",
         "坠儿",
-        "奉劝二爷休要嚷",
-        "定儿",
         "晴雯",
-        "李奶奶虽然行无状",
         "李嬷嬷",
         "林黛玉",
         "茜雪",

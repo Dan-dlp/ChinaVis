@@ -11,52 +11,62 @@
     {
       "name": "信陵君",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "魏王",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "如姬",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "朱亥",
       "role_type": "武丑",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "魏太妃",
       "role_type": "老旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "侯生",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "晋鄙",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "赵王",
       "role_type": "武生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "平原夫人",
       "role_type": "武旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "秦王",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "秦王命王龁领兵围邯郸。赵求救于魏。魏王惧秦威，乃令晋鄙停兵邺下。又派人劝赵降秦。信陵君劝魏王援\n赵，魏王不听。信陵君欲率门客三千人往救。侯生不送，信陵君疑之，返回请教。侯生言魏国百姓均愿援赵，\n可再请求魏王发兵。信陵君与母太妃跪求魏王，魏王仍坚拒之。侯生乃谓信陵君可请如姬窃取兵符。太妃\n与信陵君依计求于如姬。如姬慨然应允，乃乘魏王酒醉，窃得虎符，借烧夜香为名，将虎符藏于香炉之内，\n来至后花园中。朱亥在树上等候，正欲接符，魏王酒醒寻至，不许烧香，如姬遂将香炉掷出花园墙外。朱亥\n得兵符，交与信陵君。信陵君遂与朱亥领兵夺邺下。魏王得知虎符被盗，乃将太妃、如姬打入冷宫，即派卫\n庆乘快马赶至邺下，告知晋鄙。信陵君持符先至，晋鄙心疑，不欲交出兵权，遂被朱亥用铁锤击死。信陵君\n率大兵救赵，待卫庆赶至，事已无及。魏军败秦，邯郸围解。",
@@ -313,14 +323,9 @@
       "label": "第一场",
       "characters_present": [
         "中军",
-        "司马梗",
-        "王翦",
-        "王贲",
         "王龁",
         "秦王",
-        "胡伤",
-        "蒙骜",
-        "郑安平"
+        "胡伤"
       ],
       "lines": [
         {
@@ -1049,7 +1054,6 @@
       "label": "第四场",
       "characters_present": [
         "四赵兵",
-        "已往魏邦求救应",
         "平原君",
         "廉颇",
         "虞卿",
@@ -1617,7 +1621,6 @@
       "scene_index": 7,
       "label": "第七场",
       "characters_present": [
-        "你与孤决国策且回金殿",
         "侯生",
         "信陵君",
         "八御林军",
@@ -1625,10 +1628,7 @@
         "如姬",
         "晋鄙",
         "虞卿",
-        "西秦凶狠心无厌",
-        "身在大梁心远盼",
         "辛垣衍",
-        "须贾",
         "魏王"
       ],
       "lines": [

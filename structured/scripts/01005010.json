@@ -14,52 +14,62 @@
     {
       "name": "王有道",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "孟月华",
       "role_type": "正旦",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "柳生春",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "王淑英",
       "role_type": "正旦",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "孟德禄",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "孟明时",
       "role_type": "外",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "孟夫人",
       "role_type": "老旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "申嵩",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "进士甲",
       "role_type": "末",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "进士乙",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "按此剧出处，本诸《今古奇观》。明时有王有道者，浙江金华举子也。岁甲辰，当大比之年，因晋京赴礼部\n试。家中止有一妻一妹。妹名淑英，尚未许字。妻孟氏名月华，颇贞静有淑德。会值清明，孟氏母家遣仆来\n迎月华归，偕同扫墓。孟月华以归宁后仅遗弱妹一人在家守户，故踌躇不愿去。既以孟庄踞家甚近，计当日\n可归，遂姑往焉。及还家，已将薄暮。逡巡抵中途，忽又遇骤雨。见路旁一御碑亭，遂入避雨。不意同时复\n有一士子柳生春，亦入亭避雨。孟氏见之，局促不自安。私念彼此孤身，万一个儿郎稍涉轻薄，将奈之何。\n孰意柳生春举止厚重，谨默羞涩若处子，绝无丝毫苟且。孟氏心乃慰。待雨经宿，至天明，柳生春先行，孟\n月华始行返。既抵家，遂述诸小姑。既而有道归，王淑英竟诉之兄，且讽语诬蔑之。有道闻之，赫然怒，以\n为大辱，遂立缮休书，以计给之归。孟氏既抵母家，始知此行为大归。父母悉状，亦不免小诟詈之。孟氏百\n喙难辨，惟有含冤忍辱而已。后榜发，王有道及柳生春均获售。王有道且以南元及第。于是同年生循例谒座\n主。王有道适与柳生春同班。语次，座师诘柳生春生平有何积德。盖以柳生春作初无惊人处，惟其卷三弃之\n而仍三杂其中，故异而取之。柳生春遂以御碑亭避雨告，曰自意仅此一事耳。座师乃颔首称善。王有道闻语，\n方知孟氏之被屈，而自悔前举之过于孟浪也。既归，遂亲往谢罪，重迎孟氏还家，夫妻和好如初。而即以\n妹子淑英，许嫁柳生春为妻焉。",
@@ -193,7 +203,6 @@
       "label": "第一场",
       "characters_present": [
         "二堂役",
-        "来",
         "申嵩"
       ],
       "lines": [
@@ -310,14 +319,10 @@
       "scene_index": 2,
       "label": "第二场",
       "characters_present": [
-        "今喜得我哥哥才如锦绣",
-        "但愿得入科场百事利顺",
-        "你在家必须要小心谨慎",
         "孟德禄",
         "孟月华",
         "王有道",
-        "王淑英",
-        "用手儿推推门关得甚紧"
+        "王淑英"
       ],
       "lines": [
         {
@@ -1047,11 +1052,7 @@
         "孟夫人",
         "孟德禄",
         "孟明时",
-        "孟月华",
-        "少多言进门来各自安静",
-        "我二老无子嗣终身怨恨",
-        "我和你归家去同女欢庆",
-        "我当初言和语全然不信"
+        "孟月华"
       ],
       "lines": [
         {

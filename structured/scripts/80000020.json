@@ -13,57 +13,68 @@
     {
       "name": "赵云",
       "role_type": "武生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "曹操",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "刘备",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "甘夫人",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "糜夫人",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "简雍",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "糜芳",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "文聘",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "夏侯恩",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "徐庶",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "张飞",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "赵子龙于百万军中单骑救阿斗，此事村夫牧竖，无不皆知。按刘备自烧屯新野之后，弃樊城，阻襄阳，所如\n辄左，一路率引军民，流离败走，穷促万分。关羽、诸葛亮，已先后遣往夏口，乞救于刘琦未返，刘备等往\n投江陵暂驻，中途经过当阳县，驻扎景山之下。忽曹操大兵，漫山遍野追至，夤夜厮杀，刘备众大败，及天\n明检点随从，只余百余骑，刘备之家口，及赵云、简雍、二糜等将，均不知下落，其余百姓，亦均散殆尽。\n此时赵云在乱军中，因于阿斗及甘、糜二夫人等失散，遂单骑冲突，四处找寻主眷，沓无下落，及往回三数\n次，遇见简雍被创卧地，始略知失踪处所。赵云先救雍出，令回，己则再往军中及百姓中搜访，先得救甘夫\n人于难民队，同时又救出糜竺，乃亲自护送至长坂坡，令糜竺保甘嫂先行，复折身再回，觅糜嫂及阿斗。途\n中刺落夏侯恩，收获青釭宝剑，至七次冲入重围，方得百姓之指引，得见糜夫人抱阿斗坐于坍墙枯井之旁，\n在彼啼哭，盖夫人已身被数创，不能行走矣。赵云既叩见，极力请夫人上马，欲保护而出。夫人深知大义，\n惟以阿斗为托，己则愿以一死报主，且免赵云累，赵云再三安慰催行，并力任无妨，夫人再三不可，亦促赵\n云速行。继见赵云坚待不去，恐迟且复遇寇，乃跳身入井，以速赵云之行。赵云大惊，尚踌躇思设法救，则\n远闻人马声已渐至，乃不得已推墙掩井，解甲藏阿斗于胸前，忽忽上马，厮杀夺围欲出。然此时曹操大兵已\n全集，群集矢于赵云一身，赵云在核心，东斩西杀，虽不败辱，而屡濒于厄，其险真不堪设想。幸曹操爱勇\n将，赖徐庶乘间说曹操，以生擒勿伤一语，传令全军，始得完肤而返。至于陷坑复出，上有金龙护罩，则是\n演义中传会之说矣。其末段收束，即俗语所谓“张飞喝断灞陵桥”是也。",
@@ -577,12 +588,7 @@
       "label": "第二场",
       "characters_present": [
         "刘备",
-        "四弟你把家眷保",
         "张飞",
-        "徐元直打马",
-        "指望治乱多嘉庆",
-        "桃园弟兄秉忠正",
-        "眼看至此珠泪滚",
         "简雍",
         "赵云"
       ],
@@ -1022,12 +1028,10 @@
       "scene_index": 3,
       "label": "第三场",
       "characters_present": [
-        "“忠义”二字全不想",
         "乐进",
         "众将",
         "刘备",
         "夏侯惇",
-        "大骂文聘你无话讲",
         "张飞",
         "文聘",
         "曹洪",
@@ -1991,7 +1995,6 @@
       "scene_index": 8,
       "label": "第八场",
       "characters_present": [
-        "土坡之下来藏定",
         "甘夫人",
         "糜竺",
         "赵云"

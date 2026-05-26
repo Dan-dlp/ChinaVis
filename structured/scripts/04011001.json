@@ -13,22 +13,26 @@
     {
       "name": "赵女",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "赵高",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "秦二世",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "哑丫鬟",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     }
   ],
   "plot_summary": "“宇宙锋”是秦二世胡亥赐给大臣匡洪的一把宝剑。匡洪之子匡扶娶了权臣赵高的女儿。其后，赵高因匡家\n并不趋附他的权势，怀恨在心，设计命人盗取宇宙锋行刺胡亥、并嫁祸于匡洪；匡氏因此全家系狱。只有匡\n扶在赵女的帮助下得以逃亡。此后，赵女回到父家居住。某日，胡亥夜访赵府，窥见赵女貌美，欲纳为妃，\n命赵高次日送女入宫。赵女矢志不从，在哑丫鬟指点下，碎衣毁容，假作疯癫。次日，到了金殿，嬉笑怒骂，\n临难不惧，胡亥见状，以为真疯，赵女遂得幸免。",
@@ -82,7 +86,6 @@
       "scene_index": 1,
       "label": "第一场",
       "characters_present": [
-        "倘若是有道君皇恩浩荡",
         "秦二世",
         "赵女",
         "赵高",
@@ -1098,10 +1101,8 @@
       "scene_index": 2,
       "label": "第二场",
       "characters_present": [
-        "只气得牙关儿咬破舌尖",
         "四朝臣",
         "大太监",
-        "我手中有兵刃决一死战",
         "秦二世",
         "赵女",
         "赵高"

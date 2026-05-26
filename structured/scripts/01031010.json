@@ -11,47 +11,56 @@
     {
       "name": "程咬金",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "唐王",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "秦英",
       "role_type": "武生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "房玄龄",
       "role_type": "外",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "詹龙",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "朝臣丙",
       "role_type": "末",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "朝臣丁",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "罗章",
       "role_type": "武生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "童乙",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "鲁国公程咬金，唐之元勋也。热心任事，不避艰难，出入戎马之中，往往化险为夷，太宗尝称为福将，甚敬\n礼之。驸马秦怀玉，领兵平蛮，程咬金亦从征焉。初次交兵，大获全胜，迨深入重地，被蛮邦四面兜围，百\n计不得出，战又不利。秦怀玉无可如何，遣将突围求救。屡盼不到。秦怀玉焦急万状，程咬金愿亲自一行，\n遂冒险偷出敌垒，飞驰至京，朝见太宗，陈奏被围之故，请速发救兵。太宗以元戎实难其选，一班开国功臣，\n均已凋谢，后生小子，鲜有经济才，不能胜任，因此迟疑未定。程咬金言之再三，太宗终属踌躇。程咬金\n忿极，欲以身报国，撞死阶前。太宗急止之，立即准奏，问诸大臣何人可掌帅印？詹龙以弟詹虎对，程咬金\n即面斥之，请太宗亲临校场选择。盖程咬金属意秦怀玉之子秦英，智勇俱备，为后起之俊杰。太宗命与詹虎\n比武，先试力，秦英强而詹虎弱，后试刀枪，詹虎又不能支持，数合之中，詹虎为秦英所刺，遂至性命不保，\n而元戎于是乎选定矣。秦英乃统率三军，继续启行，尽歼敌虏，凯歌回朝。",
@@ -376,18 +385,13 @@
       "characters_present": [
         "三朝臣",
         "内侍",
-        "千言万语他不允",
         "唐王",
         "四朝臣",
         "房玄龄",
-        "有驸马困至在沙漠边境",
         "朝臣丁",
         "朝臣丙",
-        "此时间但自是发兵要紧",
-        "秦怀玉并不是别人之后",
         "程咬金",
-        "詹龙",
-        "说什么此时间无人挂印"
+        "詹龙"
       ],
       "lines": [
         {
@@ -1809,19 +1813,15 @@
       "scene_index": 7,
       "label": "第七场",
       "characters_present": [
-        "下凤辇且把校场进",
-        "今日里把状元钦点定",
         "内侍",
         "唐王",
         "四童",
-        "满朝中銮驾多齐整",
         "秦英",
         "程咬金",
         "童乙",
         "罗章",
         "詹虎",
-        "詹龙",
-        "都只为秦驸马遭围困"
+        "詹龙"
       ],
       "lines": [
         {

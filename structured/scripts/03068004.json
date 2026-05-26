@@ -11,37 +11,44 @@
     {
       "name": "王莽",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "邳彤",
       "role_type": "生",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "刘秀",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "邓禹",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "姚期",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "马武",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "岑彭",
       "role_type": "武生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "巨毋霸死后，王莽遣邳彤拒刘秀。不意邳彤降刘秀。王莽情急，遂携玉玺隐藏白蟒台。",
@@ -766,8 +773,6 @@
       "scene_index": 8,
       "label": "第八场",
       "characters_present": [
-        "低下头来暗思忖",
-        "心腹良将俱丧尽",
         "王洪",
         "王莽",
         "臧洪"
@@ -1098,9 +1103,6 @@
       "scene_index": 9,
       "label": "第九场",
       "characters_present": [
-        "万修",
-        "四文朝官",
-        "四武朝官",
         "臧洪",
         "邳彤"
       ],
@@ -1183,9 +1185,6 @@
       "scene_index": 10,
       "label": "第十场",
       "characters_present": [
-        "万修",
-        "四文朝官",
-        "四武朝官",
         "王洪",
         "王莽",
         "邳彤"
@@ -1409,7 +1408,6 @@
       "label": "第十一场",
       "characters_present": [
         "刘秀",
-        "吴汉",
         "四龙套",
         "姚期",
         "岑彭",
@@ -1660,7 +1658,6 @@
       "scene_index": 12,
       "label": "第十二场",
       "characters_present": [
-        "万修",
         "报子",
         "邳彤"
       ],
@@ -1725,9 +1722,7 @@
       "scene_index": 13,
       "label": "第十三场",
       "characters_present": [
-        "你我从前有言定",
         "刘秀",
-        "吴汉",
         "姚期",
         "岑彭",
         "邓禹",
@@ -2235,8 +2230,7 @@
       "characters_present": [
         "大太监",
         "王洪",
-        "王莽",
-        "看来江山不能保"
+        "王莽"
       ],
       "lines": [
         {

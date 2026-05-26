@@ -11,32 +11,38 @@
     {
       "name": "郭胡迪",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "秦广辉",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "陈贵",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "郭胡仪",
       "role_type": "末",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "郭妻",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "李七",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "南宋，书生郭胡迪闻得岳飞被秦桧杀害，愤懑不平，去阴府质骂阎王，后在十八曾地狱中，看到秦桧鬼魂受\n刑，愤懑方解。",
@@ -118,14 +124,7 @@
       "scene_index": 1,
       "label": "第一场",
       "characters_present": [
-        "再把油灯扯在地",
-        "咬牙切齿骂秦桧",
-        "善恶报应你全不理",
         "家院",
-        "恨不得将你来打死",
-        "我这里急速金殿去",
-        "油了衣服我无有换替",
-        "若问神灵是哪一位",
         "郭胡迪",
         "陈贵"
       ],
@@ -1000,9 +999,6 @@
       "label": "第二场",
       "characters_present": [
         "二妇人",
-        "抓住了奸贼我就用力打",
-        "秦桧作恶罪应死",
-        "若问上面是哪一位",
         "郭胡迪",
         "陈贵"
       ],
@@ -1498,12 +1494,9 @@
       "label": "第三场",
       "characters_present": [
         "判官",
-        "张能",
         "李七",
-        "李会",
         "汪小乙",
         "秦广辉",
-        "站立殿前用目觑",
         "郭妻",
         "郭胡仪",
         "郭胡迪"

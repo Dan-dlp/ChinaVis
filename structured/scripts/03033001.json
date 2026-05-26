@@ -11,27 +11,32 @@
     {
       "name": "马武",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "岑彭",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "邓禹",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "刘秀",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "苏献",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "刘秀白水村起义后，直逼洛阳，时守将苏献智勇兼备，殊非他城易取。刘帅邓禹乃行苦肉计。刘将马武、岑\n彭原为王莽武科有隙，时又相互争功。邓禹料岑彭必败，反令岑彭出兵取洛阳，命马武备酒接风。马武不服，\n忿然归帐。岑彭果中苏献诱兵之计，败归。马武乘隙置酒辱岑彭，并恶言犯邓禹，要重回太行山落草。邓\n禹乘势重责马武，并遂之。马武忿归太行，路经洛阳，忽计诈降苏献以诳洛城。苏献信之。时汉将吴汉、姚\n期、杜茂、岑彭等已奉命埋伏城下。开城之际，一拥而入，苏献终于被擒。",
@@ -386,21 +391,12 @@
       "scene_index": 2,
       "label": "第二场",
       "characters_present": [
-        "不念素日功劳有",
-        "以貌压众岂能长久",
-        "兴汉灭莽心已久",
         "刘秀",
         "吴汉",
-        "哪个若得苏献首",
         "四站堂军",
         "姚期",
         "岑彭",
-        "岑彭进前听令道",
-        "文韬武略胸中有",
         "杜茂",
-        "洛阳举子俺为首",
-        "王莽贼见俺的面貌丑",
-        "考场夺魁俺为首",
         "邓禹",
         "马武"
       ],
@@ -2085,8 +2081,6 @@
       "scene_index": 4,
       "label": "第四场",
       "characters_present": [
-        "王琪",
-        "苏强",
         "苏霸"
       ],
       "lines": [

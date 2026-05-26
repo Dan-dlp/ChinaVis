@@ -11,62 +11,74 @@
     {
       "name": "诸葛亮",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": "八卦巾、羽毛扇、白孝条（正中绣团寿字）、黑三、银灰团鹤氅、黑彩裤、厚底"
     },
     {
       "name": "鲁肃",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": "忠纱帽、白孝条、黑三、黑官衣，玉带、黑彩裤、厚底"
     },
     {
       "name": "小乔",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": "大头包白绸、白褶子、白裙、白彩鞋"
     },
     {
       "name": "赵云",
       "role_type": "武生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": "夫子盔、白靠、红彩裤、厚底"
     },
     {
       "name": "蒋钦",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": "扎巾盔、大靠、黑彩裤、厚底"
     },
     {
       "name": "周泰",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": "扎巾盔、大靠、黑彩裤、厚底"
     },
     {
       "name": "丁奉",
       "role_type": "生",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": "扎巾盔、大靠、黑彩裤、厚底"
     },
     {
       "name": "徐盛",
       "role_type": "生",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": "扎巾盔、大靠、黑彩裤、厚底"
     },
     {
       "name": "旗牌",
       "role_type": "杂",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": "素大板巾、素箭衣、大带、素马褂、厚底"
     },
     {
       "name": "二丫鬟",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": "素袄裤、素坎肩、白腰巾、彩鞋"
     },
     {
       "name": "四文官",
       "role_type": "杂",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": "忠纱帽、黑参三、白三、白满、黑彩裤、厚底"
     },
     {
       "name": "四兵士",
       "role_type": "杂",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": "豹衣裤"
     }
   ],
   "plot_summary": "周瑜死后，东吴将士对诸葛亮深为怨恨。大祭之日，诸葛亮为了吴、蜀联盟，共同破曹，不避斧钺，亲自过\n江祭奠，朗读祭文，声泪俱下，周妻小乔为之所感动，未忍加害。",
@@ -144,10 +156,7 @@
       "scene_index": 1,
       "label": "第一场",
       "characters_present": [
-        "丁奉",
-        "周泰",
         "四兵士",
-        "徐盛",
         "蒋钦"
       ],
       "lines": [
@@ -382,15 +391,10 @@
       "scene_index": 3,
       "label": "第三场",
       "characters_present": [
-        "丁奉",
         "二丫鬟",
         "二旗牌",
-        "周泰",
-        "四文官",
         "小乔",
-        "徐盛",
         "旗牌",
-        "正欲同心破曹瞒",
         "蒋钦",
         "诸葛亮",
         "鲁肃"

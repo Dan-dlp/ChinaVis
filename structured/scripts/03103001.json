@@ -11,42 +11,50 @@
     {
       "name": "蒯彻",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "刘长",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "栾布",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "李左车",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "刘章",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "吕后",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "张苍",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "陈平",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "汉刘邦死，吕后篡位，大封诸吕。刘氏元臣欲兴刘灭吕。时刘邦庶子刘长镇守淮南，蒯彻、栾布、李左车往\n说复汉，并谓刘长实为赵妃所生，吕后抚养。刘长不信，蒯彻等请其查对刘氏宗卷，以辨真伪。刘长遂命田\n子春进京，盗取宗卷。吕后闻讯即命张苍取来宗卷，当殿焚毁。田子春向陈平逼索宗卷，陈平无法，又向张\n苍索要。幸张苍子张秀玉，因父病时代管宗卷，曾以假换真，暗藏府中，宗卷始得保全。田子春携卷回淮南，\n刘长查阅属实，乃起兵进京，与宗亲刘章及元臣周勃、王陵、陈平、张苍等里应外合，灭吕复汉。吕后势\n败，自焚于未央宫中。",
@@ -450,7 +458,6 @@
       "scene_index": 2,
       "label": "第二场",
       "characters_present": [
-        "也是我吕氏得天命",
         "刘章",
         "刘长",
         "吕产",
@@ -463,16 +470,8 @@
         "吕无礼",
         "吕无耻",
         "吕无钱",
-        "吕王爷有女好貌像",
         "吕禄",
-        "女官甲",
-        "女有貌",
-        "摆銮驾登未央满心欢畅",
-        "此情此德永难忘",
-        "爷便是",
-        "男有才",
-        "聪明知书善孝养",
-        "自三皇和五帝商汤以降"
+        "女官甲"
       ],
       "lines": [
         {

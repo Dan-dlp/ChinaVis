@@ -11,12 +11,14 @@
     {
       "name": "佘赛花",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "杨继业",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "杨继业与佘赛花交战，败于佘赛花，逃至七星庙内。佘赛花赶至，二人相互爱慕，结为夫妇。",
@@ -78,11 +80,7 @@
       "characters_present": [
         "佘赛花",
         "四女兵",
-        "四文堂",
-        "女马童",
-        "心中恼恨杨家将",
-        "扣定玲珑锦战甲",
-        "父王帐中令传下"
+        "女马童"
       ],
       "lines": [
         {
@@ -256,12 +254,8 @@
       "label": "第二场",
       "characters_present": [
         "佘赛花",
-        "四上手",
         "四女兵",
-        "四文堂",
-        "将身且坐营盘下",
         "报子",
-        "提枪拍马往前闯",
         "杨继业"
       ],
       "lines": [

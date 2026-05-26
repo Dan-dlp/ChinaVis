@@ -11,17 +11,20 @@
     {
       "name": "马援",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "马虹",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "牛邈",
       "role_type": "武净",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     }
   ],
   "plot_summary": "马援父子镇守昆阳。刘秀来攻。马援子马虹降。马援知欲斩。马武等劫去马虹。马援急追，为耿弇等所败，\n亦降刘秀。王莽又命牛邈摆设“飞叉阵”，马援父子破之。",
@@ -166,8 +169,6 @@
       "label": "第一场",
       "characters_present": [
         "中军",
-        "回头我对马虹讲",
-        "我命马虹探贼党",
         "马夫人",
         "马援",
         "马虹"
@@ -676,9 +677,6 @@
       "scene_index": 2,
       "label": "第二场",
       "characters_present": [
-        "你今不在二堂上",
-        "你若在此把情讲",
-        "迈步且把大堂上",
         "马夫人",
         "马援",
         "马虹"
@@ -1002,9 +1000,7 @@
       "scene_index": 3,
       "label": "第三场",
       "characters_present": [
-        "耿弇",
-        "耿虎",
-        "耿龙"
+        "耿弇"
       ],
       "lines": [
         {
@@ -1830,9 +1826,7 @@
       "scene_index": 9,
       "label": "第九场",
       "characters_present": [
-        "耿弇",
-        "耿虎",
-        "耿龙"
+        "耿弇"
       ],
       "lines": [
         {
@@ -2215,8 +2209,6 @@
         "报子",
         "杜茂",
         "耿弇",
-        "耿虎",
-        "耿龙",
         "邓禹",
         "马援",
         "马武",
@@ -2771,8 +2763,6 @@
         "杜茂",
         "牛邈",
         "耿弇",
-        "耿虎",
-        "耿龙",
         "马援",
         "马武",
         "马虹"

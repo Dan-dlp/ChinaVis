@@ -11,32 +11,38 @@
     {
       "name": "大奶奶",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "二奶奶",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "李相公",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "邻居甲",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "邻居乙",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "书童",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     }
   ],
   "plot_summary": "李相公娶妻二人，因争风吃醋，日夜吵闹，四邻不安。一日，李相公自外归，二妻又因争房大吵。于是邻人\n献策：以摇骰解决房次。但摇骰后，房次并未解决，纠纷依然存在。",
@@ -1128,8 +1134,6 @@
         "二奶奶",
         "大奶奶",
         "李相公",
-        "街坊家闹哇吵吵",
-        "那一呀哈哈啊哈哈",
         "邻居乙",
         "邻居甲"
       ],

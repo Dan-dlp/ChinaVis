@@ -11,22 +11,26 @@
     {
       "name": "伍员",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "东皋公",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "皇甫讷",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "米南适",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "伍员与申包胥别后，行至昭关。时楚平王已命人画影图形，各处严拿。伍员遇隐士东皋公，邀往家中，七日\n七夜，须发尽白。经东皋公与好友皇甫讷设计，救伍员出关。",
@@ -87,11 +91,8 @@
       "scene_index": 1,
       "label": "第一场",
       "characters_present": [
-        "万物静观皆自得",
         "东皋公",
         "伍员",
-        "心猿意马终何用",
-        "我的父谏奏把命送",
         "童儿"
       ],
       "lines": [
@@ -710,10 +711,7 @@
       "characters_present": [
         "东皋公",
         "伍员",
-        "冤仇未报容颜变",
-        "未曾开门先拔剑",
-        "童儿",
-        "过得昭关无凶险"
+        "童儿"
       ],
       "lines": [
         {

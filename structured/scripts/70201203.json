@@ -11,42 +11,50 @@
     {
       "name": "西施",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "范蠡",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "文种",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "夫差",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "勾践",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "伯嚭",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "伍员",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "旋波",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     }
   ],
   "plot_summary": "吴王夫差灭越，越王勾践用范蠡之计，在苎萝村访得美女西施，献于夫差。夫差被惑，伍员谏阻不成反被杀。\n夫差沉迷酒色，国事日益败坏，终被越所灭。范蠡功成身退，弃官隐居，与西施同泛五湖。",
@@ -232,10 +240,8 @@
         "伯嚭",
         "勾践",
         "夫差",
-        "孤每日石室中看马饲养",
         "彭同",
-        "王孙骆",
-        "都只为动刀兵无能相抗"
+        "王孙骆"
       ],
       "lines": [
         {
@@ -608,12 +614,6 @@
       "scene_index": 2,
       "label": "第二场：浣纱",
       "characters_present": [
-        "只为着守清寒柴门近水",
-        "怕只怕损玉容青春易去",
-        "我去吴邦无挂碍",
-        "我有心替主爷报仇雪恨",
-        "我越国与吴邦久有仇恨",
-        "苎萝村中来生长",
         "范蠡",
         "西施"
       ],
@@ -2287,7 +2287,6 @@
         "内侍",
         "太监",
         "夫差",
-        "快将娘娘送进宫去",
         "范蠡",
         "西施"
       ],

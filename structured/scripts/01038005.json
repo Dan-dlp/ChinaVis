@@ -13,22 +13,26 @@
     {
       "name": "黄桂香",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "马氏",
       "role_type": "彩旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "侯七",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "黄天路",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "黄员外出外讨账，后母马氏与油瓶侯七，朋比为奸，欲将黄桂香虐害，故意令其操作粗重，入磨房褪麦。且\n令侯七掩入磨房调戏。",
@@ -613,11 +617,6 @@
       "label": "第二场",
       "characters_present": [
         "侯七",
-        "十二把金镶玉匙孩儿我未见",
-        "孩儿有过将儿打",
-        "恶一恶砸了你佛前磬",
-        "手执家法将你打",
-        "有了玉匙还罢了",
         "马氏",
         "黄桂香"
       ],

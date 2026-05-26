@@ -11,22 +11,26 @@
     {
       "name": "关羽",
       "role_type": "红生",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "庞德",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "周仓",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "于禁",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "樊城被关羽围困，破在且夕。曹操遣于禁、庞德驰援。庞德预制木榇，誓与关羽决战。于禁嫉功，将七军移\n屯罾口川，关羽乘襄水上涨，放水淹没七军，生擒庞德、于禁。关羽割去于禁两耳，放归，以辱曹操。庞德\n不降，被斩，关羽甚惜之。",
@@ -843,13 +847,9 @@
       "label": "第五场",
       "characters_present": [
         "关平",
-        "关某若使一条计",
         "关羽",
         "周仓",
-        "周仓归营去",
         "四蜀兵",
-        "大破黄巾兵百万",
-        "思来想去心烦乱",
         "报子"
       ],
       "lines": [

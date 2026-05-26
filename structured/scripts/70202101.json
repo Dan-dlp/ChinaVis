@@ -13,22 +13,26 @@
     {
       "name": "红拂",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "李靖",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "虬髯公",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "李世民",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "剧本叙述隋炀帝杨广出游扬州，留越公杨素留守。三原布衣李靖有天下之志，往见杨素，相府歌姬张凌华，\n即红拂，窥见李靖英俊，十分心折，乘夜盗了杨素令箭，乔装投奔李靖，两人结为夫妇，一同远走。路遇虬\n髯客张仲坚，彼此相投订交。虬髯亦有志平定中原，但知太原李世民雄才大略，于是约定一同访谒，再定行\n止。见了李世民之后，虬髯客自叹不及，李靖则决心辅佐李氏，虬髯客乃将家资赠与李靖夫妻，飘然而去。",
@@ -639,7 +643,6 @@
       "scene_index": 2,
       "label": "第二场",
       "characters_present": [
-        "天下纷纷何日定",
         "徐洪客",
         "虬髯公"
       ],
@@ -1073,12 +1076,9 @@
         "典吏",
         "军士乙",
         "军士甲",
-        "四海人心有趋向",
-        "如今天下方扰攘",
         "守门官",
         "李靖",
         "杨素",
-        "根本重地须保障",
         "红拂",
         "院子"
       ],

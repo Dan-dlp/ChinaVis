@@ -14,52 +14,62 @@
     {
       "name": "黄天霸",
       "role_type": "武生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "濮天雕",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "武天虬",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "李堃",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "王栋",
       "role_type": "副净",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "王梁",
       "role_type": "武丑",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "丁三把",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "濮妻",
       "role_type": "彩旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "武妻",
       "role_type": "武旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "施世纶",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "黄天霸与濮天雕、武天虬均为《施公案》小说中著名好汉江湖四霸天中人物，三人又系结拜兄弟。故虽黄天\n霸已投效施公，两方各行其志，而平素交情仍厚。日者，施公自江都卸任奉诏进京，路经濮、武所踞之恶虎\n村，为所侦悉。二人欲为九黄、七珠、莲花院十二盗寇报仇，遂出，将施公劫入庄中，缚置马圈，拟至三更，\n将施公剖腹挖心。而黄天霸与王栋、王梁，知施公晋京，恶虎村为必由之路，故早虑及此着，恐施公被害，\n因即赶往探访。既抵村外，适遇神弹子李堃保送镖车过庄，为濮、武二人所困，遂出与解围。事毕，黄天\n霸藉拜寿（是日适濮天雕诞日）及见嫂为名，欲入庄一叙，以探施公消息。孰意二人言语蹊跷，故意辞却，\n不欲黄天霸入庄。黄天霸因是益滋疑窦，愈知施公之被险。迨既入庄，瞥见施公之骡轿，真情更露。黄天霸\n遂即告别，至客店与李堃及二王说知。约与会合同救施公，己则重又入庄，先窃听得二人商酌害施之语，二\n人见黄天霸突然复回，均甚惊惶。不得已勉强设饮款叙。既而言谈之间愈说愈接近，一语不合，濮、武即先\n起而用武，时适李堃等亦越墙而进，于是放火烧庄，同将施公救出。而濮、武二人一则中镖而死，一则中弹\n而亡，均遭诛灭。惟黄天霸心不欲将二人杀害，所以至此者，亦出万不得已也。",
@@ -189,7 +199,6 @@
         "众英雄",
         "施世纶",
         "武天虬",
-        "武妻",
         "濮天雕",
         "濮妻",
         "院子",
@@ -958,7 +967,6 @@
       "label": "第五场",
       "characters_present": [
         "丁三把",
-        "人来看过刀一把",
         "施世纶",
         "李堃",
         "武天虬",

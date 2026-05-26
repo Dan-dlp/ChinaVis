@@ -11,17 +11,20 @@
     {
       "name": "董卓",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "丁原",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "吕布",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "董卓入长安，欲废少帝而立陈留王，大臣丁原斥之。董卓以丁原有义子吕布，未敢动，乃命李肃暗送厚礼往\n说。吕布得厚礼，喜甚，遂杀死丁原，投向董卓。",
@@ -157,13 +160,11 @@
       "label": "第一场",
       "characters_present": [
         "丁原",
-        "今日若再失检点",
         "卢植",
         "彭柏",
         "李儒",
         "李肃",
         "王允",
-        "腰中拔出龙泉剑",
         "董卓"
       ],
       "lines": [
@@ -1163,10 +1164,7 @@
       "scene_index": 2,
       "label": "第二场",
       "characters_present": [
-        "今夜就把大帐进",
         "吕布",
-        "如此推诚来相爱",
-        "择主而事休等待",
         "李肃",
         "校尉"
       ],

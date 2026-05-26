@@ -11,42 +11,50 @@
     {
       "name": "柳氏",
       "role_type": "小旦",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": "搭包头，穿衫背心系绦"
     },
     {
       "name": "陈慥",
       "role_type": "生",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": "戴巾，穿道袍、袖扇"
     },
     {
       "name": "苏轼",
       "role_type": "外",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": "戴巾，穿行衣"
     },
     {
       "name": "苏苍头",
       "role_type": "杂",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": "戴毡帽，穿道袍"
     },
     {
       "name": "二衙役",
       "role_type": "杂",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": "戴皂隶帽，穿青布箭袖，系皂隶带"
     },
     {
       "name": "知县",
       "role_type": "杂",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": "戴纱帽，穿圆领束带"
     },
     {
       "name": "土地",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": "氅"
     },
     {
       "name": "土地奶奶",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     }
   ],
   "plot_summary": "季常惧内，千古传为美谈。季常，宋陈慥字也。妻柳氏，美而妒。陈慥严惮之，虽在闺房静好时，亦有戒心。\n会夏日柳晨妆，陈慥亲为挥扇，柳氏以箑制佳，疑为娈童所赠，裂箑怒詈。陈慥力解说，柳氏始释然。会\n苏东坡折柬招陈慥，柳氏虑席间有妓，不听往。陈慥力白其无，勉许之，而伺以臧获。归报座有琴操，柳氏\n大妒。陈慥归，欲笞之，陈慥崩角乞恕，柳氏罚跪池畔。苏东坡来为缓颊。柳氏怒，逐苏东坡，而殴陈季常。\n陈慥羞愤昏睡。梦中讼柳氏，县尹佑陈慥，而夫人袒柳氏，罚陈慥并及其夫。县尹无何，挟陈慥往塑社公，\n适社神亦惧内，同病相怜，拟惩妒妇，为陈季常、县尹吐气。事为社母闻，遂各饷以熊掌佳味。陈慥大哭\n而醒。呀然曰：“惧内之事，神且不免，何况生人！今而后，吾有以解嘲矣。”",
@@ -153,7 +161,6 @@
       "scene_index": 1,
       "label": "第一场：梳妆",
       "characters_present": [
-        "你杨花心性浑无定",
         "柳氏",
         "苏苍头",
         "陈慥"
@@ -5400,7 +5407,6 @@
       "label": "第四场：三怕",
       "characters_present": [
         "佛印",
-        "你杨花心性浑无定",
         "柳氏",
         "琴操",
         "苏苍头",

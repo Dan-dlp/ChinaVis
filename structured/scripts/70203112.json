@@ -11,42 +11,50 @@
     {
       "name": "卓文君",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "司马相如",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "卓王孙",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "红箫",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "竹影",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "程郑",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "杨得意",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "王吉",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "汉武帝时，四川临邛富豪卓王孙之女卓文君，曾许配窦太后的内亲，未聘夫死。卓文君平素喜读司马相如诗\n文。一日，卓王孙宴请司马相如，席间司马相如弹奏“凤求凰”一曲，卓文君闻之更为倾慕。司马相如亦爱\n卓文君，遂假酒醉夜宿于卓氏花园，二人相见，面订白首之盟。司马相如托县令王吉求婚，卓王孙嫌贫不允，\n卓文君遂私奔司马相如，同赴成都。卓王孙唆使成都郡守再三逼迫，二人回转临邛开设酒店，卓文君亲自\n当垆卖酒。卓王孙更认为极大耻辱，唆使门客搅闹，复亲往寻衅。及至酒店，始知司马相如封官，顿易容色，\n立即备礼认亲，但为卓文君夫妇所拒。",
@@ -620,7 +628,6 @@
       "scene_index": 2,
       "label": "第二场：应邀",
       "characters_present": [
-        "叫竹影将笔砚安排了",
         "司马相如",
         "杨得意",
         "竹影"
@@ -1193,14 +1200,9 @@
       "scene_index": 3,
       "label": "第三场：闺怨",
       "characters_present": [
-        "倘若是女子把命丧",
         "卓文君",
         "卓王孙",
-        "哭一声亲娘把命丧",
-        "好一似更残漏尽天明亮",
         "家院",
-        "幸喜得未嫁到窦府往",
-        "强把那鸦凤配成双",
         "红箫"
       ],
       "lines": [

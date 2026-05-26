@@ -15,32 +15,38 @@
     {
       "name": "莫成",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "莫怀古",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "严嵩",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "汤勤",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "雪艳",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "戚继光",
       "role_type": "末",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     }
   ],
   "plot_summary": "明嘉朝，奸相严嵩当国，视人命如草芥。一有睚眦之怨，不至之死地，不快于心。同年（科举时代同榜中式\n之称呼）友莫怀古，家藏一玉杯，名曰一捧雪，诚为稀世之珍，连城之价。严嵩向之索取，莫怀古惧其势焰，\n不敢不献，又不肯竟献。再四踌躇。请巧匠制一赝者，仿佛与一捧雪杯无二，上献严嵩，由此而升任太常\n寺正卿。有汤勤者，向操装潢书画之业，绰号汤裱背，为莫怀古门客，屡挑其爱妾雪艳，不能如愿。适值莫\n怀古酒醉后，漏泄伪造之言，入于汤勤之耳，即告之严嵩，欲陷莫怀古于死，乘机谋取雪艳。严嵩命校尉至\n莫府搜杯，其仆莫成，先藏杯逃匿。倾箱倒柜，逼索不得。莫怀古恐再受其威逼，挈眷潜逃。严嵩遣人追缉，\n在蓟州获住，就近解交总兵戚继光收管。戚继光与莫怀古系属至交，思欲设法保全。而严嵩之行文已到，\n着即随地正法。无可为计，莫成之面貌，与莫怀古相似，愿代主人受刑。莫怀古连夜动身避至清江。戚继光\n遂斩莫成以覆命焉。",
@@ -1843,13 +1849,10 @@
       "scene_index": 8,
       "label": "第八场",
       "characters_present": [
-        "待等五更天明亮",
-        "悲切切且把二堂进",
         "戚继光",
         "旗牌",
         "莫怀古",
         "莫成",
-        "走向前来忙跪定",
         "雪艳"
       ],
       "lines": [

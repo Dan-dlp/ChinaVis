@@ -11,12 +11,14 @@
     {
       "name": "马超",
       "role_type": "武生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "张飞",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "马超奉张鲁之命，攻打刘备所辖的葭萌关。马超是个勇悍绝伦的武将；诸葛亮用激将法派张飞去抵敌。张飞、\n马超二人在葭萌关前力战，日以继夜，不分胜负。在敌楼上观战的刘备，见马超武艺超群，顿生爱将之念。\n想到“二虎相争，必有一伤”，乃下城解围。马超表面上虽不理睬，但实已衷心赞佩刘备，怀着归顺之心\n了。",
@@ -1814,7 +1816,6 @@
       "scene_index": 8,
       "label": "第八场",
       "characters_present": [
-        "三军与爷齐呐喊",
         "众兵士",
         "八兵士",
         "刘备",

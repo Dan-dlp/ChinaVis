@@ -11,32 +11,38 @@
     {
       "name": "花云",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "花孙氏",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "陈友谅",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "朱文逊",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "花安",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "花夫人",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     }
   ],
   "plot_summary": "花云辅佐朱元璋之侄朱文逊驻守太平；北汉陈友谅进袭，花云奋勇抵御，但因采石矶守将乏人，被陈部陈友\n杰暗袭，夺得矶头。太平城破，花云拟突围，朱文逊贪恋家眷，贻误时机，与花云同遭擒获。陈友谅劝降，\n朱文逊屈膝被杀，花云坚决不降，陈友谅命缚于高竿，以箭加以威胁。花云挣断绑绳，力杀多人，终因中箭\n伤重，自刎而死。",
@@ -374,7 +380,6 @@
       "label": "第二场",
       "characters_present": [
         "四龙套",
-        "撩铠甲且把二堂进",
         "花云",
         "花夫人",
         "花孙氏"
@@ -693,7 +698,6 @@
       "scene_index": 3,
       "label": "第三场",
       "characters_present": [
-        "我主爷洪福齐天大",
         "花云",
         "陈友杰"
       ],
@@ -1350,14 +1354,8 @@
       "scene_index": 8,
       "label": "第十二场",
       "characters_present": [
-        "你若不念夫妻义",
-        "你若念在夫妻义",
-        "使个眼色快逃走",
-        "明明认得孙氏女",
-        "舍死忘生将他认",
         "花云",
-        "花孙氏",
-        "认得他是奴夫样"
+        "花孙氏"
       ],
       "lines": [
         {
@@ -1602,19 +1600,9 @@
       "scene_index": 9,
       "label": "第十三场",
       "characters_present": [
-        "一个站来一个跪",
-        "下得位来把话讲",
-        "先前怎样对你讲",
         "张定边",
-        "忙将人头打进帐",
-        "既是兴兵来打仗",
         "朱文逊",
-        "私自设计把采石抢",
-        "纵然将你我头割下",
         "花云",
-        "进得帐去双膝跪",
-        "进得帐把贼骂",
-        "那贼焉有容人的量",
         "陈友杰",
         "陈友谅"
       ],
@@ -2388,9 +2376,6 @@
       "scene_index": 10,
       "label": "第十四场",
       "characters_present": [
-        "你若今日把孤投",
-        "你若真心把孤降",
-        "老爷归顺不能够",
         "花云",
         "陈友谅"
       ],

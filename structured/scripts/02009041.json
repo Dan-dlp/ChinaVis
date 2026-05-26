@@ -11,32 +11,38 @@
     {
       "name": "白天章",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "白月娥",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "燕青",
       "role_type": "武生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "李逵",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "时迁",
       "role_type": "武丑",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "院子",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     }
   ],
   "plot_summary": "白天章之父告老还乡，路过梁山，被李逵打死。白天章及其妹白月娥为报父仇，占据百花庄，操演人马并摆\n下擂台，招揽各地英雄豪杰。宋江闻知为除后患计，乃派燕青、石秀、张顺、施恩、郑天寿等往打擂台。李\n逵因宋江未曾委派，乃私自前往。及至百花庄藉打擂为名，一拥而上，将白天章及其妹白月娥生擒。",
@@ -173,11 +179,7 @@
       "scene_index": 1,
       "label": "第一场",
       "characters_present": [
-        "张顺",
-        "施恩",
-        "燕青",
-        "石秀",
-        "郑天寿"
+        "燕青"
       ],
       "lines": [
         {
@@ -328,8 +330,6 @@
         "众人",
         "众家将",
         "大家将",
-        "来",
-        "树林层层遮山面",
         "白天章",
         "院子"
       ],
@@ -924,24 +924,9 @@
       "scene_index": 3,
       "label": "第三场",
       "characters_present": [
-        "一个受尽风流相",
-        "一个恋名园桃杏芳",
-        "一个映日寻芳",
-        "一个杏花蕊上吸清风",
-        "一个绿杨枝上儿",
-        "一个要寻周庄梦",
-        "一个迎风竹径",
-        "丫鬟们",
-        "举手赛卞庄",
-        "休笑俺闺中女无志量",
         "四丫鬟",
-        "打一个兔儿望月精神爽",
-        "桃花烂漫游客醉",
         "燕青",
-        "白月娥",
-        "见十几个粉蝶儿巧妆",
-        "进步匆忙",
-        "进步效刘邦"
+        "白月娥"
       ],
       "lines": [
         {
@@ -2152,11 +2137,7 @@
       "scene_index": 6,
       "label": "第六场",
       "characters_present": [
-        "张顺",
-        "施恩",
-        "燕青",
-        "石秀",
-        "郑天寿"
+        "燕青"
       ],
       "lines": [
         {
@@ -2447,7 +2428,6 @@
       "label": "第九场",
       "characters_present": [
         "众人",
-        "来",
         "白天章",
         "院子"
       ],

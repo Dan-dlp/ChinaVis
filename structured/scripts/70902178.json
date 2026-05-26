@@ -11,12 +11,14 @@
     {
       "name": "费贞娥",
       "role_type": "四旦",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "李过",
       "role_type": "大面",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     }
   ],
   "plot_summary": "宫女费贞娥，欲为君报仇，假冒公主，伺机行刺李自成。不想李自成将她赐予一只虎李过成亲。洞房之夜，\n费贞娥假献殷勤，将李过灌醉刺死，然后自刎。",
@@ -69,8 +71,6 @@
       "scene_index": 1,
       "label": "全剧",
       "characters_present": [
-        "宫女乙",
-        "宫女甲",
         "李过",
         "费贞娥"
       ],

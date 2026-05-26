@@ -13,22 +13,26 @@
     {
       "name": "伍员",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "东皋公",
       "role_type": "外",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "皇甫讷",
       "role_type": "末",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "米南适",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "春秋，伍员逃到昭关，因关前已画图缉拿，过关不去。躲在隐士东皋公家，一连七天，又急又愁，须发皆白。\n东皋公有友人皇甫讷，与伍子胥相貌，乃遮柬相召，嘱与伍员互易衣服。皇甫讷先至关，果被关吏拿住，\n大声剖白，关吏不信。正扰攘间，伍员已混出昭关。东皋公乃见关吏，说明被捕者并非伍员，的系至友皇甫\n讷，关吏释之。后伍员破楚归，齐金帛投东皋公家，但见荒烟蔓草，败瓦颓墙，东皋公已去矣。施恩不望报，\n东皋公亦人杰矣。",
@@ -87,10 +91,8 @@
       "scene_index": 1,
       "label": "第一场",
       "characters_present": [
-        "万物静观皆自得",
         "东皋公",
         "伍员",
-        "心猿意马终何用",
         "童儿"
       ],
       "lines": [
@@ -758,10 +760,7 @@
       "characters_present": [
         "东皋公",
         "伍员",
-        "冤仇未报容颜变",
-        "双手开门拔宝剑",
-        "童儿",
-        "顶天立地男儿汉"
+        "童儿"
       ],
       "lines": [
         {

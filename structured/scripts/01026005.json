@@ -11,47 +11,56 @@
     {
       "name": "胭脂",
       "role_type": "贴旦",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "王氏",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "鄂秋隼",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "宿介",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "施县令",
       "role_type": "末",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "吴巡按",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "毛大",
       "role_type": "副净",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "牛父",
       "role_type": "外",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "牛母",
       "role_type": "老旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     }
   ],
   "plot_summary": "山东长清县女子牛胭脂，慕鄂秋隼，欲嫁之，托邻妇王氏代达其意。王氏旧与儒生宿介姘识，是晚宿介来，\n王氏与之床头私语取笑，言及此事。宿介心动，潜往寻胭脂，冒鄂秋隼名求欢。胭脂不肯苛合，宿介强脱其\n绣鞋去。事为无赖毛大于暗中侦悉，并拾得其绣鞋。毛大亦来胭脂家行奸，误入牛父居室。牛父惊觉呼贼，\n为毛大所杀，仓惶中，毛大复将绣鞋遗于地上。县令施某到场勘案，拘鄂秋隼，据绣鞋追问。从王氏口中讯\n出宿介一节，复拘宿介来，严刑逼供，宿介屈招杀人，定为死罪。幸巡按吴綍纶过长清，察知宿介冤，调案\n复审。又从王氏口中讯出毛大平日无赖情形，乃假城隍显灵，诓出毛大杀人实情，遂释宿介，以毛大论抵。\n并当堂断胭脂归嫁鄂秋隼。",
@@ -661,8 +670,7 @@
       "label": "第三场",
       "characters_present": [
         "王氏",
-        "胭脂",
-        "这几日身困倦不思茶饭"
+        "胭脂"
       ],
       "lines": [
         {
@@ -1824,8 +1832,6 @@
         "二差役",
         "差役甲",
         "施县令",
-        "晚生低头回家转",
-        "望乞父母开恩典",
         "牛母",
         "王氏",
         "胭脂",

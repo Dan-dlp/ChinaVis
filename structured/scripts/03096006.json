@@ -11,27 +11,32 @@
     {
       "name": "周瑜",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "刘备",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "赵云",
       "role_type": "武生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "诸葛亮",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "张飞",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "周瑜欲讨荆州，请刘备过江饮宴，于黄鹤楼四围，密布伏兵，如刘备不还荆州，不准下楼。刘备与赵云临行\n时，诸葛亮曾给赵云竹节一枝，并嘱危急时始可开视。刘备等知已中计，即将诸葛亮所赠之竹节劈开，得周\n瑜令箭一枝，君臣遂持令下楼，安然脱险。",
@@ -103,19 +108,9 @@
       "scene_index": 1,
       "label": "第一场",
       "characters_present": [
-        "主公但把宽心放",
-        "出入曹营无人档",
         "刘备",
         "刘封",
-        "刘结仇山海样",
-        "孙",
-        "孤王若在东吴丧",
-        "将军且自好执掌",
         "张飞",
-        "忆昔当年临江上",
-        "手摸胸膛想一想",
-        "此一番大胆东吴闯",
-        "用言激动常山将",
         "诸葛亮",
         "赵云"
       ],

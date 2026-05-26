@@ -11,12 +11,14 @@
     {
       "name": "诸葛亮",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "王朗",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "三国末，魏、蜀会兵于祁山。阵前，魏司徒王郎欲说降蜀丞相诸葛亮，不料反遭诸葛亮一阵痛骂，坠马而死。",
@@ -80,7 +82,6 @@
       "characters_present": [
         "关兴",
         "叩见丞相",
-        "张苞",
         "旗牌",
         "诸葛亮",
         "马岱",
@@ -809,10 +810,7 @@
       "scene_index": 4,
       "label": "第四场",
       "characters_present": [
-        "今敢在马前胡乱论",
         "关兴",
-        "助桀为虐纂了汉鼎",
-        "匡扶汉世你全不论",
         "王朗",
         "诸葛亮"
       ],

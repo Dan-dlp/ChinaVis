@@ -11,17 +11,20 @@
     {
       "name": "诸葛亮",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "姜维",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "刘禅",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "诸葛亮攻取天水关，魏国守将马遵不敢出战，高悬免战牌。遵部将姜维请令出城迎战，击败蜀将赵云。诸葛\n亮深爱姜维之才，乃命魏延假扮姜维至关前，扬言已降蜀军。马遵于黑夜中不辨真假，果中计，大骂姜维。\n俟姜维至，闭门不纳。姜维进退无路，而降蜀。",
@@ -117,10 +120,7 @@
       "label": "第一场",
       "characters_present": [
         "刘禅",
-        "叫老臣保我主社稷重整",
         "大太监",
-        "待等到明早朝文武议论",
-        "臣上本并非为别事议论",
         "诸葛亮"
       ],
       "lines": [
@@ -443,7 +443,6 @@
       "scene_index": 2,
       "label": "第二场",
       "characters_present": [
-        "主临朝大小事和他们议论",
         "关兴",
         "刘禅",
         "张苞",
@@ -1616,12 +1615,9 @@
       "scene_index": 5,
       "label": "第五场",
       "characters_present": [
-        "二马连环把姜维战",
-        "假扮姜维关前战",
         "关兴",
         "张苞",
         "红文堂甲",
-        "若遇姜维莫交战",
         "诸葛亮",
         "赵云",
         "马岱",
@@ -2275,13 +2271,9 @@
       "scene_index": 7,
       "label": "第七场",
       "characters_present": [
-        "一出祁山收此将",
         "关兴",
         "姜维",
         "张苞",
-        "怕只怕五丈原秋风降",
-        "我不爱将军韬略广",
-        "望丞相开大恩将某放",
         "诸葛亮",
         "马岱",
         "魏延"

@@ -11,27 +11,32 @@
     {
       "name": "贾宝玉",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "黄莺儿",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "白玉钏",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "袭人",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "薛宝钗",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     }
   ],
   "plot_summary": "贾宝玉卧病，思食莲叶羹，王夫人令白玉钏、黄莺儿往送。贾宝玉知黄莺儿手巧，烦结梅花络。薛宝钗适至，\n言以不如结络以盛玉，贾宝玉称妙不已。",
@@ -90,11 +95,6 @@
       "scene_index": 1,
       "label": "第一场",
       "characters_present": [
-        "他因见夫人睡午窗人静",
-        "因此我姐才投井",
-        "宝二爷倘若非薄幸",
-        "当时非但不搭救",
-        "曾记得金钏姐无端落井",
         "白玉钏",
         "黄莺儿"
       ],

@@ -14,22 +14,26 @@
     {
       "name": "普胡子",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "鲍大嫂",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "苟阴阳",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "朱元璋",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "朱元璋流浪的时候，一日在油匠普胡子门前睡卧。普胡子很赏识他，并把女儿许他作妻子。举行婚礼时，普\n胡子无钱约请喜娘和傧相，他便去产婆鲍大嫂和阴阳生苟大哥帮忙，但两人都在言谈中表示要酬劳。婚礼后，\n却被普胡子一番巧辩，原许的一两七钱银子给了一两漆。结果弄得苟阴阳空手而去。",
@@ -82,7 +86,6 @@
       "scene_index": 1,
       "label": "第一场",
       "characters_present": [
-        "回头便把御亲叫",
         "普胡子",
         "朱元璋",
         "苟阴阳",

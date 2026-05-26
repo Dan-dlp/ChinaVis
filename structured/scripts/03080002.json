@@ -11,27 +11,32 @@
     {
       "name": "关羽",
       "role_type": "红生",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "张飞",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "刘备",
       "role_type": "生",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "陈登",
       "role_type": "生",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "车胄",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "刘备助徐州太守车胄破袁术后，曹操暗致书于车胄，命图刘备。车胄与陈登计议，欲于刘备放粮回城时，伏\n兵杀之。陈暗书告关羽。关羽、张飞乃背刘备，乘夜假作张辽、许褚人马，赚车胄出城杀之。刘备因投身袁\n绍。",
@@ -814,16 +819,10 @@
       "scene_index": 2,
       "label": "第二场",
       "characters_present": [
-        "关某帐中讨将令",
         "关羽",
-        "到如今曹操掌国政",
         "四上手",
         "四马童",
-        "带马西门把粮放",
         "张飞",
-        "曹孟德兵聚陈留郡",
-        "某心中只把曹贼恨",
-        "辞别二哥出宝帐",
         "陈登"
       ],
       "lines": [
@@ -1722,7 +1721,6 @@
         "关羽",
         "四下手",
         "四大刀手",
-        "安排打虎牢笼套",
         "张飞",
         "车胄"
       ],

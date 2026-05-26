@@ -11,17 +11,20 @@
     {
       "name": "武姜",
       "role_type": "老旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "共叔段",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "魏氏",
       "role_type": "正旦",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     }
   ],
   "plot_summary": "武姜自幽居城颍，终日悲啼，哀怜少子甚切。共叔段夫妻死后，以己之怙恶不悛，及母之溺爱，皆寤生阴谋\n故纵所致。故冤魂不散，于夜半托梦武姜，聊一相见，以慰老母舔犊之情，并恺切劝解，谓不久当与寤生有\n重聚之望。",
@@ -182,12 +185,9 @@
       "scene_index": 2,
       "label": "第二场",
       "characters_present": [
-        "为报恩来世里重亲慈范",
         "二宫女",
         "共叔段",
-        "怎能够同聚首襟怀坦坦",
         "武姜",
-        "连累了我母后无依无伴",
         "魏氏"
       ],
       "lines": [

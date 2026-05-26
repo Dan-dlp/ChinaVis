@@ -11,22 +11,26 @@
     {
       "name": "曹操",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "孙权",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "张辽",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "甘宁",
       "role_type": "武生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "曹操领兵扫灭张鲁，占领东川，正拟进兵汉中。适孙权攻下宛城，杀曹将朱光，继续进攻合肥。被张辽击败，\n不得已退守濡须口，曹操为镇定江南计，乃亲率大军，前往救援。孙权听张昭之计，令凌统应战，又被张\n辽击败。最后甘宁只带一百人马，夜袭曹营，始将曹兵击退。",
@@ -1023,22 +1027,13 @@
       "scene_index": 3,
       "label": "第三场",
       "characters_present": [
-        "你我英雄人曾见",
-        "内侍",
-        "军家胜败休乱讲",
         "凌统",
-        "凌统近前听孤令",
         "孙权",
-        "带领人马暗接应",
         "张昭",
         "徐盛",
-        "患难之中得此往",
-        "曹操势大兵将勇",
         "甘宁",
         "程普",
-        "董袭",
-        "走进前来把话讲",
-        "非是甘宁夸口献"
+        "董袭"
       ],
       "lines": [
         {
@@ -1767,11 +1762,9 @@
       "scene_index": 4,
       "label": "第四场",
       "characters_present": [
-        "三千人马你带领",
         "张辽",
         "报子",
-        "曹操",
-        "等那凌统兵马近"
+        "曹操"
       ],
       "lines": [
         {
@@ -2128,12 +2121,8 @@
       "label": "第六场",
       "characters_present": [
         "众人",
-        "冲马来将通名号",
         "凌统",
-        "叫声来将把名报",
-        "堂堂一表非凡貌",
-        "张辽",
-        "泼胆擎天谁不晓"
+        "张辽"
       ],
       "lines": [
         {
@@ -2664,9 +2653,7 @@
       "scene_index": 8,
       "label": "第八场",
       "characters_present": [
-        "三军摆酒且同饮",
         "四上手",
-        "暂摆擒王破敌阵",
         "甘宁"
       ],
       "lines": [

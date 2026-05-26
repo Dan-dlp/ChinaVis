@@ -11,37 +11,44 @@
     {
       "name": "徐达",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "完颜龙",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "花母",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "康茂才",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "郭广卿",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "侯伯清",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "完颜老王",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     }
   ],
   "plot_summary": "元末，徐州王完颜龙横行不法。一日行围，践踏青苗，村长郭广卿阻之，欲问斩。州官徐达说情，始被罚入\n狱。民妇金氏，偶拾遗箭，竟被完颜龙断臂；周氏在府门前哺乳，亦被挖去左目；侯伯清质家藏串龙珠营救\n好友郭广卿，因完颜龙贪珠，竟将郭伯清与朝奉康茂才拷打，送交徐州坐罪。其时，诸人激忿，齐向徐州鸣\n冤状告。州官徐达查明是非，不忍加罪。虽经王府总管完颜骆驼催逼，亦宁愿摘去印信，不愿屈判黎民。徐\n达免职，激起民忿。群情激怒，奋起杀死新任州官，拥戴徐达，力擒完颜龙，光复徐州。",
@@ -588,7 +595,6 @@
       "scene_index": 3,
       "label": "第三场",
       "characters_present": [
-        "为乘阳春行时令",
         "四青袍",
         "徐达"
       ],
@@ -783,12 +789,8 @@
       "characters_present": [
         "侯伯清",
         "六百姓",
-        "各宜图强精神振",
         "四百姓",
-        "度过小桥阡陌道",
-        "待等他日风雷动",
         "徐达",
-        "男勤耕女勤织各务其正",
         "百姓己",
         "百姓庚",
         "百姓戊",
@@ -1424,7 +1426,6 @@
         "完颜骆驼",
         "完颜龙",
         "徐达",
-        "说不尽满怀心头闷",
         "郭广卿"
       ],
       "lines": [

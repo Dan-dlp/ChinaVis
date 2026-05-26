@@ -13,27 +13,32 @@
     {
       "name": "包拯",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "秦香莲",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "陈士美",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "皇姑",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "国太",
       "role_type": "老旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     }
   ],
   "plot_summary": "“铁面无私”的包拯，接受了秦香莲对她丈夫陈士美的控诉——“杀妻灭嗣”，在公堂上，教秦香莲与陈士\n美当对质。陈士美倚仗驸马身份，强词狡辩，包拯秉公处断，不顾皇姑、国太的阻挠，铡死了陈士美。",
@@ -106,22 +111,10 @@
       "scene_index": 1,
       "label": "第一场",
       "characters_present": [
-        "一无证来二无见",
-        "上写着秦香莲三十二岁",
-        "到如今她母子前来寻你",
         "包拯",
-        "天下举子来求官",
         "太监",
-        "头一名进士陈士美",
-        "我劝你认香莲是正理",
-        "抛妻子",
-        "提起了招赘事你神色不定",
-        "曾记得端午日朝贺天子",
         "王朝",
-        "甲子年间开科选",
         "秦香莲",
-        "藐皇上",
-        "跨马三日游宫院",
         "陈士美",
         "马汉"
       ],
@@ -1734,13 +1727,11 @@
       "scene_index": 2,
       "label": "第二场",
       "characters_present": [
-        "下首不跪上首站",
         "包拯",
         "太监",
         "王朝",
         "皇姑",
-        "秦香莲",
-        "走上前来忙跪定"
+        "秦香莲"
       ],
       "lines": [
         {
@@ -2361,11 +2352,8 @@
       "scene_index": 3,
       "label": "第三场",
       "characters_present": [
-        "何人告下冤枉状",
         "包拯",
-        "哀家讲情你不听",
         "国太",
-        "我这里大堂来坐定",
         "王朝",
         "皇姑",
         "秦香莲",

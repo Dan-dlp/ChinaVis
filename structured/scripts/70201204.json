@@ -11,57 +11,68 @@
     {
       "name": "穆桂英",
       "role_type": "青衣",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "佘太君",
       "role_type": "老旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "杨宗保",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": "老生（或小生）"
     },
     {
       "name": "杨金花",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "杨文广",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "杨洪",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "宋王",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "寇准",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "王强",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "王伦",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "门官",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     }
   ],
   "plot_summary": "佘太君不满宋王宠信奸佞，辞朝返回河东故里。二十年后，西夏番王造反。佘太君忧国心重，差杨文广、杨\n金花进京打探。二人到京，时值朝中比武选将。杨文广乘机下场，刀劈王伦。宋王得知他是杨家后代，赦免\n其罪，赐印命其母穆桂英挂帅出征。穆桂英年过半百，念及国家危亡，顿然振奋，更铠甲，点众将，率领大\n军出征。",
@@ -208,13 +219,10 @@
       "label": "第一场",
       "characters_present": [
         "二旗牌",
-        "今日不用杨家将",
-        "只要是万岁真诚颁诏往",
         "大太监",
         "宋王",
         "家院",
         "寇准",
-        "汗马功劳他人享",
         "王伦",
         "王强"
       ],
@@ -1253,12 +1261,10 @@
       "scene_index": 2,
       "label": "第二场",
       "characters_present": [
-        "他二人同把汴梁进",
         "佘太君",
         "杨宗保",
         "杨文广",
         "杨金花",
-        "汴京中有奸佞是非混沌",
         "穆桂英"
       ],
       "lines": [

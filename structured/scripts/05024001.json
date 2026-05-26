@@ -11,22 +11,26 @@
     {
       "name": "刘备",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "张飞",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "督邮",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "关羽",
       "role_type": "红生",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     }
   ],
   "plot_summary": "刘备任职安喜县县尉，甚得民心。适有督邮来县视察，勒索贿赂，因刘备不肯逢迎，乃诬刘备贪赃枉法。张\n飞怒将督邮缚于树上鞭打，刘备加以劝阻。认为不必与督邮之流计较短长，乃与关羽、张飞弃官而去。",
@@ -1522,7 +1526,6 @@
       "scene_index": 8,
       "label": "第八场",
       "characters_present": [
-        "下得马来仔细问",
         "刘备",
         "张飞",
         "校尉甲",
@@ -1827,7 +1830,6 @@
       "scene_index": 9,
       "label": "第九场",
       "characters_present": [
-        "你那里要金银倚权枉法",
         "关羽",
         "刘备",
         "四校尉",

@@ -11,42 +11,50 @@
     {
       "name": "萧太后",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "佘太君",
       "role_type": "老旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "杨延辉",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "杨延顺",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "杨延昭",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "碧莲公主",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "青莲公主",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "韩昌",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "萧太后将杨延辉等绑至城楼行刑，佘太君闻讯，亦将碧莲、青莲二公主绑至城下。杨延辉、杨延顺分别于城\n上、城下求情，均无结果。杨延昭赶来，欲攻打城池，萧天佐见宋营兵山将海，始将萧太后劝回，宣布停刑。",
@@ -239,9 +247,6 @@
       "scene_index": 1,
       "label": "第一场",
       "characters_present": [
-        "四上手",
-        "四大铠",
-        "四文堂",
         "四番兵",
         "报子",
         "杨延昭",
@@ -662,9 +667,6 @@
       "scene_index": 2,
       "label": "第二场",
       "characters_present": [
-        "四上手",
-        "四大铠",
-        "四文堂",
         "杨延昭",
         "耶律休哥",
         "韩昌"
@@ -770,9 +772,6 @@
       "scene_index": 3,
       "label": "第三场",
       "characters_present": [
-        "四上手",
-        "四大铠",
-        "四文堂",
         "四番兵",
         "杨延昭",
         "耶律休哥",
@@ -942,9 +941,7 @@
       "scene_index": 4,
       "label": "第四场",
       "characters_present": [
-        "但愿两国停征战",
         "孟金榜",
-        "母后年迈不能见",
         "碧莲公主"
       ],
       "lines": [
@@ -1360,12 +1357,9 @@
       "scene_index": 6,
       "label": "第六场",
       "characters_present": [
-        "四郎一死无妨碍",
         "宗瑞",
         "宗祥",
-        "所生二子接后代",
-        "杨延辉",
-        "隐姓埋名十二载"
+        "杨延辉"
       ],
       "lines": [
         {
@@ -1609,16 +1603,13 @@
       "scene_index": 7,
       "label": "第七场",
       "characters_present": [
-        "两国息兵不争战",
         "佘太君",
         "四女兵",
         "孟金榜",
-        "延辉好比失群雁",
         "报子",
         "杨延顺",
         "碧莲",
         "碧莲公主",
-        "蔡秀英",
         "青莲公主"
       ],
       "lines": [

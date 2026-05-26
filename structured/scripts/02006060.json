@@ -11,27 +11,32 @@
     {
       "name": "代战王",
       "role_type": "外",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "唐王",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "卜荷",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "李子忠",
       "role_type": "末",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "使臣",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     }
   ],
   "plot_summary": "西凉代战国王，因中原连年荒旱，思乘机叛乱，夺取江山，特派人进来战表。唐王阅后，不得已派兵往讨云。",
@@ -484,25 +489,11 @@
       "scene_index": 3,
       "label": "第三场",
       "characters_present": [
-        "上写着小臣三顿首",
-        "今日打来一战表",
-        "代战王他今起反意",
         "众太监",
-        "你今领下王旨意",
         "使臣",
-        "倘若你国得了胜",
-        "再到兵部传王旨",
-        "只因两国分上下",
         "唐王",
-        "四门挂起招军榜",
-        "回去报与他国主",
         "太监甲",
-        "平贼有功回朝转",
-        "开言便把李卿叫",
-        "李子忠",
-        "爱卿快传王旨意",
-        "看罢表章心害怕",
-        "若是我国得了胜"
+        "李子忠"
       ],
       "lines": [
         {

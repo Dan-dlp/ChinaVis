@@ -11,17 +11,20 @@
     {
       "name": "尉迟恭",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "徐茂公",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "黑氏",
       "role_type": "老旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     }
   ],
   "plot_summary": "尉迟恭因代薛仁贵解围，怒打李道宗，被贬归田。高丽国大将铁里金牙造反，指名索尉迟恭应战。徐茂公奉\n旨颁请，尉迟恭装疯，不愿出山。徐茂公乃令军士假意罗唣，诱尉迟恭出。尉迟恭不得已，始从征。",
@@ -205,15 +208,8 @@
       "scene_index": 2,
       "label": "第二场",
       "characters_present": [
-        "实指望举拳头将他打丧",
         "尉迟恭",
         "徐茂公",
-        "我也曾御果园救过圣驾",
-        "挣下了国公位无福受享",
-        "望军师回朝去把本奏上",
-        "自己耕自己食自己安享",
-        "若不亏徐军师把本奏上",
-        "闷来时邀邻翁山溪闲荡",
         "黑氏"
       ],
       "lines": [
@@ -1195,13 +1191,9 @@
       "scene_index": 4,
       "label": "第四场",
       "characters_present": [
-        "为国家拼性命沙场来往",
-        "君有命为臣的怎敢违抗",
         "四龙套",
         "尉迟恭",
         "徐茂公",
-        "要平定高丽国易如反掌",
-        "高丽国他那里兴兵犯上",
         "黑氏"
       ],
       "lines": [

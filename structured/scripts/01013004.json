@@ -13,27 +13,32 @@
     {
       "name": "刘备",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "赵云",
       "role_type": "武生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "张飞",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "公孙瓒",
       "role_type": "末",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "典韦",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "据戏中情节，为曹操攻夺徐州，徐州陶谦乞援于刘备，刘备既欲往救，然又自知寡不敌众，因向公孙瓒处借\n兵，并求借赵云一用。盖刘备于磐河之役，一见子龙，久已倾倒赏识，故此次竟指名往借。公孙瓒乃允令同\n往，并拨与马步三千。刘备既归，张飞见之不服，屡屡出言轻慢，幸刘备一再道歉，劝赵云勿介介于心。适\n曹操令典韦索战，张飞大败，赵云不忍坐视，乃出与典韦对阵，一战即将典韦杀败，张飞始自知不及，自后\n遂佩服赵云不置云。",
@@ -179,7 +184,6 @@
         "公孙瓒",
         "刘备",
         "探子",
-        "来",
         "赵云"
       ],
       "lines": [

@@ -14,17 +14,20 @@
     {
       "name": "萧恩",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "萧桂英",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "大教师",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     }
   ],
   "plot_summary": "宋，梁山泊宋江投顺后，阮小七不愿招安，仍以捕鱼为业。所生一女，许于花荣之子，以庆顶珠为定物。阮\n氏父女二人，一叶扁舟，烟蓑雨笠，悠然自适。有土豪丁某，向阮小七需索陋规，阮小七不与。丁某遣教师\n率家丁往捕阮小七。阮小七举手一挥，众皆倾跌，负创而回。丁某嘱县官逮阮小七，责以四十六板，阮小七\n出而大愤，率女儿杀至丁府，残其全家而逃隐焉。",
@@ -77,12 +80,8 @@
       "scene_index": 1,
       "label": "第一场",
       "characters_present": [
-        "桂英儿掌舟舵父把网撒",
-        "知心人儿说的是知心话",
         "萧恩",
-        "萧桂英",
-        "蟒袍玉带不愿挂",
-        "青山绿水难描画"
+        "萧桂英"
       ],
       "lines": [
         {

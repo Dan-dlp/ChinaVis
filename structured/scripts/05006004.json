@@ -11,12 +11,14 @@
     {
       "name": "庆忌",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "伍员",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "吴王姬僚被刺，姬光夺其王位。姬僚之子庆忌逃往艾城，屯军纳士，结连邻邦，伺机报仇。",
@@ -500,8 +502,7 @@
         "中军",
         "属庸",
         "庆忌",
-        "盖余",
-        "那姬光他不念同宗的恩厚"
+        "盖余"
       ],
       "lines": [
         {

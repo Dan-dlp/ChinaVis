@@ -11,37 +11,44 @@
     {
       "name": "济公",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "华云龙",
       "role_type": "武生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "云飞",
       "role_type": "武丑",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "韩秀",
       "role_type": "武丑",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "王通",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "雷鸣",
       "role_type": "武净",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "陈亮",
       "role_type": "武生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "济公派王通、雷明、陈亮捉拿华云龙，虽擒得四大名盗。但华云龙脱逃，王通、雷明、陈亮三人亦均被华云\n龙的毒镖所伤。济公将四名大盗押于灵隐寺内后，只好先给王通等三人医治镖伤。华云龙逃走，念其四位寨\n主被擒，心有不甘。乃邀请其师叔华清风前来帮助，想去救四位寨主，并刺杀济公。无如济公早已知晓。乃\n派人四方准备，华云龙所预定之火烧灵隐寺亦因菩萨暗中保佑，并未得逞。彼此大战后，华云龙又得脱逃云。",
@@ -224,12 +231,8 @@
       "scene_index": 1,
       "label": "第一场",
       "characters_present": [
-        "孙太立",
-        "李殿元",
         "杨明",
-        "济公",
-        "熊黑虎",
-        "郎天寿"
+        "济公"
       ],
       "lines": [
         {
@@ -403,24 +406,15 @@
       "scene_index": 2,
       "label": "第二场",
       "characters_present": [
-        "一封书信忙修上",
-        "书信如侄亲身往",
         "云飞",
         "侯三",
         "刘元彪",
-        "刘应龙",
         "华云龙",
-        "只恨济颠行狂妄",
         "安道士",
-        "小侄霸占凤凰岭上",
         "张振邦",
         "徐天义",
-        "擒去宾朋心难放",
         "法元僧",
-        "王通镖下把命丧",
-        "虎落平阳难回首",
-        "韩秀",
-        "马行狭路难退后"
+        "韩秀"
       ],
       "lines": [
         {
@@ -1007,8 +1001,7 @@
         "济公",
         "王通",
         "苗庆",
-        "陈亮",
-        "雷明"
+        "陈亮"
       ],
       "lines": [
         {
@@ -1432,7 +1425,6 @@
       "characters_present": [
         "四大天王",
         "四大金刚",
-        "有吾神在莲台佛旨宣诏",
         "观音"
       ],
       "lines": [
@@ -1599,11 +1591,7 @@
         "丑老道",
         "八小老道",
         "华清风",
-        "只为凶僧行强暴",
-        "徒弟们",
-        "我今要把冤仇报",
-        "法元僧",
-        "皈依佛门行无道"
+        "法元僧"
       ],
       "lines": [
         {

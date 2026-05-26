@@ -11,27 +11,32 @@
     {
       "name": "杨仙童",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "高能",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "卫小申",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "毗卢大仙",
       "role_type": "外",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "玉芙蓉",
       "role_type": "正旦",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     }
   ],
   "plot_summary": "宋杨家将玉芙蓉征西，路过花马天齐庙，产生一子，落地即死。经毗卢大仙救活，带往山上，取名仙童，传\n授兵法。后玉芙蓉又与番邦交战，被困于双沙河。毗卢大仙乃令杨仙童下山急救，母子相会。行至途中，适\n与前往救援其母之高能与卫小申相会。言谈之后，得知系表亲兄弟，遂一同至玉芙蓉处报到听命。玉芙蓉乃\n令卫小申为先锋，杨仙童及高能在后接应。",
@@ -108,13 +113,9 @@
       "scene_index": 1,
       "label": "第一场",
       "characters_present": [
-        "倘若是在阵前不能取胜",
-        "我赐你防身宝临阵使用",
         "护法",
         "杨仙童",
-        "此去把番邦来扫尽",
-        "毗卢大仙",
-        "谒帝神将"
+        "毗卢大仙"
       ],
       "lines": [
         {
@@ -1538,15 +1539,10 @@
       "scene_index": 6,
       "label": "第六场",
       "characters_present": [
-        "七宝山中仙人救",
-        "产生婴孩儿落地死",
         "兵卒",
         "卫小申",
-        "师父命我把山下",
         "杨仙童",
         "玉芙蓉",
-        "那年母亲征西去",
-        "那贼全仗邪道术",
         "高能"
       ],
       "lines": [

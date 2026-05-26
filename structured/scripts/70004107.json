@@ -11,22 +11,26 @@
     {
       "name": "韩信",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": "头戴金踏镫，口戴黑三，身穿红蟒，足穿黑靴"
     },
     {
       "name": "吕后",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "萧何",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "刘邦",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "刘邦即位后，命陈豨出征。陈豨求计韩信，韩信劝同反，并作内应。陈豨反后，刘邦亲往征讨，并捉住下书\n人，搜得韩信反书，降旨委吕后处之。吕后与萧何定计，诓韩信入未央宫，斩之。",
@@ -138,7 +142,6 @@
       "scene_index": 1,
       "label": "第一场",
       "characters_present": [
-        "内侍",
         "刘邦",
         "夏侯婴",
         "大太监",
@@ -787,10 +790,8 @@
       "scene_index": 3,
       "label": "第三场",
       "characters_present": [
-        "上写三字“斩韩信”",
         "刘邦",
-        "吕后",
-        "江山定我得以参与国政"
+        "吕后"
       ],
       "lines": [
         {

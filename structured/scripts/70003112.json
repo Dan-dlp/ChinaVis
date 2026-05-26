@@ -11,12 +11,14 @@
     {
       "name": "关羽",
       "role_type": "红生",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "曹操",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "关羽从汝南归来，决意辞曹寻兄，曹操有意回避不见。关羽不得已，乃挂印封金，保护甘、糜二夫人上路。\n曹操知关羽去志不可夺，率众将送行，至灞陵桥，见关羽横刀立于桥上，赠以锦袍。关羽恐其有诈，以刀挑\n袍，扬长而去。",
@@ -152,7 +154,6 @@
       "label": "第一场",
       "characters_present": [
         "中军",
-        "低头不语宝帐进",
         "刘备",
         "报子",
         "袁绍",

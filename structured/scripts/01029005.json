@@ -13,82 +13,98 @@
     {
       "name": "邹应龙",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "蔡庆",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "窦氏",
       "role_type": "彩旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "彭朋",
       "role_type": "末",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "蔡金花",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "李桂莲",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "徐盛",
       "role_type": "武生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "万君兆",
       "role_type": "武生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "李佩",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "杨香武",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "高通海",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "刘德泰",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "英雄甲",
       "role_type": "外",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "英雄乙",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "英雄丙",
       "role_type": "生",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "英雄丁",
       "role_type": "末",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     }
   ],
   "plot_summary": "大盗邹应龙，绰号大鹏金翅鸟，霸占普球山，哨聚喽啰数千，打家劫舍。且与官场暗通声气，得以安居巢窟。\n惟彭公素恶此辈，饬属下认真缉拿，正以国法。钦授河南巡抚，将次到任。普球山正河南该管之地。邹应\n龙恐为彭公所访闻，要于半路夜入公馆内，盗去御赐金牌一块。彭公之护卫张耀宗，央求岳父母铁幡杆蔡庆、\n金头蜈蚣窦氏，邀旧友数人如杨香武、万君兆等，以及公馆中众护卫，围攻普球山，邹应龙率领头目喽啰\n尽力抵御。杨香武施展飞檐走壁之能，暗至后山石洞，盗回金牌，复助众人厮杀，邹应龙乃成擒焉。",
@@ -336,11 +352,9 @@
       "label": "第二场",
       "characters_present": [
         "二院子",
-        "刘德泰",
         "四英雄",
         "彭朋",
-        "徐盛",
-        "高通海"
+        "徐盛"
       ],
       "lines": [
         {
@@ -783,11 +797,9 @@
       "scene_index": 5,
       "label": "第五场",
       "characters_present": [
-        "刘德泰",
         "四英雄",
         "彭朋",
-        "徐盛",
-        "高通海"
+        "徐盛"
       ],
       "lines": [
         {
@@ -985,10 +997,8 @@
       "label": "第六场",
       "characters_present": [
         "万君兆",
-        "刘德泰",
         "张岳宗",
-        "李佩",
-        "高通海"
+        "李佩"
       ],
       "lines": [
         {
@@ -1261,7 +1271,6 @@
       "label": "第七场",
       "characters_present": [
         "万君兆",
-        "刘德泰",
         "张岳宗",
         "李佩",
         "李桂莲",
@@ -1269,8 +1278,7 @@
         "窦氏",
         "蔡庆",
         "蔡金花",
-        "院子",
-        "高通海"
+        "院子"
       ],
       "lines": [
         {

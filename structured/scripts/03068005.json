@@ -11,42 +11,50 @@
     {
       "name": "王莽",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "姚期",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "马武",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "杜茂",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "岑彭",
       "role_type": "武生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "邳彤",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "邓禹",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "刘秀",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "王莽势衰，命邳彤坚守郧阳关，自建白蟒台隐避。台成之日，又杀工匠以灭其口。邳彤败，降刘秀。经一工\n匠出首，王莽终被擒，绑至云台观斩之。",
@@ -1337,19 +1345,9 @@
       "scene_index": 7,
       "label": "第七场",
       "characters_present": [
-        "为臣理当把忠尽",
-        "为臣须要把忠尽",
-        "交锋对垒休见怪",
-        "你本是堂堂英雄将",
         "刘秀",
-        "双膝跪在尘埃地",
         "姚期",
         "岑彭",
-        "怒气不息把帐进",
-        "我主有道真爱将",
-        "是好汉一人对一个",
-        "看来莽主国运尽",
-        "眼望郊外来拜定",
         "邓禹",
         "邳彤",
         "马武"
@@ -2161,12 +2159,8 @@
       "scene_index": 10,
       "label": "第十场",
       "characters_present": [
-        "你就该学范蠡五湖息影",
-        "坐观成败不接应",
         "岑彭",
         "王莽",
-        "田舍郎孤待你十分恩重",
-        "眼前若有苏献在",
         "邓禹",
         "邳彤"
       ],

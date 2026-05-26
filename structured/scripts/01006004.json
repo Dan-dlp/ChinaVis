@@ -14,37 +14,44 @@
     {
       "name": "马义",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "米进途",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "马女",
       "role_type": "正旦",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "马妻",
       "role_type": "老旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "侯花嘴",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "知县",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "陶氏",
       "role_type": "花旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     }
   ],
   "plot_summary": "相传宋时书生米进途，赴京应试。中途忽梦其兄血面模糊，显身呼冤，至晓，心中骨突，急呼老仆马义出，\n与之商略，不意马义亦梦此，二人甚为骇异，遂急束装归。及抵家，兄果已死，心固疑其有冤，然无从侦悉，\n只得暂家居，拟得间侦察。实则其嫂与邻近侯花嘴私通，厌米大如眼中钉，故与侯花嘴同谋毒毙，今见米\n进途归，恐日久败露，二人遂更定计，将侯妻杀死，移尸于米氏门外，而匿其头。侯花嘴即赴县诬告米进途\n谋毙长嫂，以陷之。县令不察，遽捕米进途拷问成罪，下于狱。马义得信，急赴县呼冤，县令甚恶之，因绐\n马义，谓如觅得人头至，即释汝主，否则无救。马义信之，然向何处去得人头？筹思无计，而救主情切，不\n得已遂袖刃还家，逼死己女，割取其头以往救主人。愚愤之情，实堪敬怜。讵取头投案，而令反坐实其主之\n罪。马义至此，始知受令之愚，且欲图救主，反以累主，何以对主人及己女，情急几不欲生，遂冒死晋京，\n奔文天祥处控告（或作闻太师）。历试铜铡钉板等刑，毫无惧色，文天祥得其冤，遂亲赴勘验。惟马义跋涉\n晋京，已历多时，米进途部复已准，屈指文天祥即驰抵该邑，恐已在刑期之后。幸天佑善人，至行刑之隔日，\n夜暗倍长，打更者竟打至九更，方始天明，而文太师乃得于刑前赶到，遂卒将是案彻底平反。",
@@ -339,8 +346,6 @@
       "label": "第二场",
       "characters_present": [
         "侯花嘴",
-        "兄长吓",
-        "哭一声兄长遭不幸",
         "米进途",
         "陶氏",
         "马义"
@@ -1902,7 +1907,6 @@
       "scene_index": 7,
       "label": "第七场",
       "characters_present": [
-        "悲切切进草堂随机应变",
         "马义",
         "马女",
         "马妻"

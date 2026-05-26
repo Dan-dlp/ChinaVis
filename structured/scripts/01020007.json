@@ -13,52 +13,62 @@
     {
       "name": "薛仁贵",
       "role_type": "武生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "尉迟恭",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "李世民",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "徐勣",
       "role_type": "末",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "程咬金",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "张士贵",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "尉迟宝林",
       "role_type": "副净",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "尉迟宝庆",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "张志龙",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "何宗宪",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     }
   ],
   "plot_summary": "薛仁贵自三次投军，投入张士贵部下以来，屡立大功，惟久被张士贵所冒，屈居火头军，既而唐太宗被困凤\n凰山，丧去大将数十员，又赖薛仁贵出救，鞭打盖苏文，方得解围。唐太宗望见白袍小将，料是应梦贤臣，\n定欲查出。尉迟元帅乃以犒军为名，暗向张士贵先锋营中物色，讵知为酒所误，仍被张士贵瞒过，将薛仁贵\n等九人，藏在离营三里山神庙中。尉迟恭元帅酒既醒，自知误事，乃微服夜行，向各营头暗中探听，方被侦\n悉，遂径向山神庙中寻访，甫至山神庙外，正值薛仁贵在月下对天叹怨，历历追诉，自述其功。尉迟恭元帅\n见应梦贤臣已遇，喜出望外，不禁冒昧掩上，骤将薛仁贵拦腰抱住，讵意薛仁贵久为张士贵所愚，谓尉迟恭\n元帅久奉密旨，欲拿捉应梦之人薛仁贵云云，至是回头一望，见果是黑脸元帅将己抱住，不觉狂惊，遂拼命\n力挣将尉迟恭推倒在地，慌慌张张脱身而去。迨尉迟恭爬起，四处找寻，薛仁贵已避逸他处矣。直至独木关\n枪挑安殿宝方再出现。",
@@ -313,7 +323,6 @@
       "scene_index": 2,
       "label": "第二场",
       "characters_present": [
-        "劝你快把降表上",
         "李世民",
         "盖苏文"
       ],
@@ -2225,7 +2234,6 @@
       "scene_index": 9,
       "label": "第九场",
       "characters_present": [
-        "何宗宪",
         "张士贵",
         "张志龙",
         "探子"
@@ -2333,10 +2341,8 @@
       "label": "第十场",
       "characters_present": [
         "中军",
-        "周青",
         "张士贵",
-        "探子",
-        "火头军"
+        "探子"
       ],
       "lines": [
         {

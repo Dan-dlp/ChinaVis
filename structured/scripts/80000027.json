@@ -11,52 +11,62 @@
     {
       "name": "诸葛亮",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "刘备",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "张飞",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "关羽",
       "role_type": "红生",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "书童",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "崔州平",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "诸葛均",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "黄承彦",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "孟公威",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "石广元",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "刘备屯居新野县，经徐庶举荐，与关羽、张飞三顾茅庐，请诸葛亮出山，共图大业。诸葛亮被刘备感动，出\n山襄助。",
@@ -485,20 +495,14 @@
       "scene_index": 2,
       "label": "第二场",
       "characters_present": [
-        "一则是今日来得太鲁莽",
-        "世人黑白分",
         "书童",
         "二农夫",
         "关羽",
         "农夫乙",
         "农夫甲",
         "刘备",
-        "南阳有隐居",
         "崔州平",
-        "张飞",
-        "改日诚心再拜访",
-        "苍天如圆盖",
-        "荣者自安安"
+        "张飞"
       ],
       "lines": [
         {
@@ -1692,7 +1696,6 @@
         "刘备",
         "孟公威",
         "张飞",
-        "清晨冒雪隆中往",
         "石广元",
         "酒保"
       ],

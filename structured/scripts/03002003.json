@@ -11,27 +11,32 @@
     {
       "name": "赵旺",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "荷珠",
       "role_type": "花旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "刘志偕",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "刘金凤",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "赵旭",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "刘志偕之女刘金凤许配赵旭为妻。赵家中落，刘志偕因此悔弃婚约。刘金凤不满乃父所为，暗遣丫环荷珠花\n园赠金；荷珠冒称刘金凤与赵旭相见。事被刘志偕闻知，逼女投水，并将荷珠逐出。后赵旭得中回来，荷珠\n仍冒名投见，遂作状元夫人。这时刘志偕家遭回禄，与家人赵旺流落街头。赵旺途遇赵旭，被赵旭收留；拜\n见夫人时，荷珠央嘱赵旺勿泄真情。而刘金凤投水未死，这时亦随公婆来见；赵旭遂娶刘金凤，与荷珠一同\n居住。",
@@ -580,7 +585,6 @@
       "scene_index": 2,
       "label": "第二场",
       "characters_present": [
-        "凤冠霞帔我穿戴",
         "荷珠",
         "赵旭",
         "赵旺"
@@ -1756,7 +1760,6 @@
       "scene_index": 3,
       "label": "第三场",
       "characters_present": [
-        "凤冠霞帔我穿戴",
         "刘志偕",
         "荷珠",
         "赵旭",

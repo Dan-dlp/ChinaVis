@@ -11,37 +11,44 @@
     {
       "name": "穆桂英",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "白氏",
       "role_type": "占旦",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "杨宗保",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "孟良",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "焦赞",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "白天佐",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "丑中军",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     }
   ],
   "plot_summary": "萧邦元帅白天佐部下副将鲁雄，据报宋营派兵来攻，金鼓齐鸣，即向白天佐报告。适白天佐酒醉未醒，中军\n不敢传禀。鲁雄不得已，私自闯进元帅内房将白天佐唤醒。但白天佐仍在醉中，以为系其夫人呼唤。经鲁雄\n说明情由，白天佐不肯深信，因据其夫人报告，曾亲自带兵巡营，一切平静也。乃令中军唤请夫人再行问讯，\n始知其夫人业已出城与宋兵交战，并被生擒。原来其夫人出城交战，系爱杨宗保，而故意被擒者。但宋朝\n元帅为穆桂英，杨宗保只是一先行官。穆桂英问明情由，下令将其斩首。虽经杨宗保一再恳求，穆桂英终不\n允。惟最后由焦赞监斩，绑赴法场时，白天佐亲自带兵前来搭救。终将其夫人救出，并将焦赞俘去云。",
@@ -142,7 +149,6 @@
         "丫头",
         "兵丁甲",
         "四兵丁",
-        "国乱不与主报效",
         "报子",
         "白天佐",
         "鲁雄"
@@ -1084,21 +1090,11 @@
       "scene_index": 2,
       "label": "第二场",
       "characters_present": [
-        "令传出叫一声孟",
-        "你救她我杀你头献军帐",
-        "停刀马不杀你想求罗帐",
-        "先行官传我令聚将鼓响",
-        "在帐前求元帅恩施海量",
-        "天朝军要挡他兵多将广",
         "孟良",
-        "想活命该有句乞恩话讲",
         "杨宗保",
-        "焦二将",
         "焦赞",
         "白氏",
-        "穆桂英",
-        "细看你料不能胜过吕望",
-        "虽则是番邦女情高义广"
+        "穆桂英"
       ],
       "lines": [
         {

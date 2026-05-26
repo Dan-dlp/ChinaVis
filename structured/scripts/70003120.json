@@ -11,32 +11,38 @@
     {
       "name": "关羽",
       "role_type": "红生",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "周瑜",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "刘备",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "鲁肃",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "诸葛亮",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "旗牌",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     }
   ],
   "plot_summary": "诸葛亮既至江东，助周瑜起兵拒曹。刘备因无消息，特遣糜竺前往，以犒军为名，暗中探听诸葛亮消息。不\n意周瑜反乘机诱请刘备过江宴叙，暗伏刀斧手于两厢，拟以掷杯为号，出擒刘备。孰意刘备虽惠然肯来，却\n有关羽戎装紧随，不离一步。周瑜方传杯，忽瞥见关羽按剑而立，怒容满面，凛凛不可犯。时周瑜尚未识关\n羽也。问之刘备，始知即过五关、斩颜良、诛文丑之关云长。周瑜乃大惊，汗流浃背，遂不敢实行，刘备始\n得安然而返。先是诸葛亮在外，得知刘备为周瑜骗过江东，大骇，急往都督府探视，见两厢虽伏刀斧手，然\n有关羽在，必无妨也，遂出。先至刘备来船中伺候，及刘备返舟，诸葛亮告知其意，刘备回忆前宴，始惊诧\n不定。",
@@ -118,7 +124,6 @@
       "characters_present": [
         "关羽",
         "刘备",
-        "周郎请孤河梁到",
         "糜竺",
         "船夫"
       ],
@@ -787,10 +792,8 @@
         "刘备",
         "周瑜",
         "四红龙套",
-        "将身且进宝帐口",
         "旗牌",
         "诸葛亮",
-        "蹑足隐身来观瞧",
         "鲁肃"
       ],
       "lines": [

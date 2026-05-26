@@ -11,17 +11,20 @@
     {
       "name": "黄帝",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "蚩尤",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "元后",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     }
   ],
   "plot_summary": "蚩尤背反黄帝，大战于涿鹿之野，势甚猛，黄帝军不敌。帝妃元后献造战车之策，两军对敌时，并请来雾神，\n战车在浓雾中摧毁蚩尤军营，黄帝军大胜。",
@@ -118,12 +121,8 @@
       "label": "第一场",
       "characters_present": [
         "大挠",
-        "昨夜晚观天象彗星入境",
-        "有歧伯和雷公灵柩厘定",
         "歧伯",
         "祝融",
-        "蚩尤氏他把那兵戈整顿",
-        "金殿上点人马亲自出战",
         "雷公",
         "黄帝"
       ],
@@ -836,9 +835,7 @@
       "scene_index": 4,
       "label": "第四场",
       "characters_present": [
-        "孤劝你弃甲兵早早归顺",
         "山都",
-        "我的计划早已定",
         "烈侯",
         "蚩尤",
         "马甲",
@@ -1234,7 +1231,6 @@
       "characters_present": [
         "元后",
         "太监",
-        "扶孤家这江山亏你力量",
         "歧伯",
         "雷公",
         "黄帝"

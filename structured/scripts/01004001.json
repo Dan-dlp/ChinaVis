@@ -13,82 +13,98 @@
     {
       "name": "汉献帝",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "曹操",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "伏后",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "曹妃",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "穆顺",
       "role_type": "生",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "二皇子",
       "role_type": "娃娃生",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "伏完",
       "role_type": "生",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "华歆",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "司马懿",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "贾诩",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "郄虑",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "王粲",
       "role_type": "生",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "曹植",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "文聘",
       "role_type": "生",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "夏侯渊",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "张辽",
       "role_type": "生",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     }
   ],
   "plot_summary": "汉末建安中，曹操专权跋扈，宫中宿卫兵侍，莫非曹氏党，有议操者，辄遭诛戮。汉献帝徒拥虚位，不胜其\n愤。一日，曹操带剑上殿白事，帝言悉凭魏公处裁。曹操闻言大怒，曰：“陛下出此言，外人闻之，只道我\n欺君也。”帝曰：“君若能相辅，则幸甚，不而，幸垂恩相舍。”曹操怒目视帝，悻悻而出。因益衔恨，渐\n露篡夺之机。伏皇后因曹操杀董承并及其女董贵妃事，益自危欋。因密修书，与父屯骑校尉伏完，言曹操残\n横威逼，早晚必行篡夺之事，令伏完密召诸侯共图之，当命宦官穆顺密送此书。后事泄，穆顺被杀，伏完全\n家被戮，夷三族。曹操遂逼汉献帝废后，假为策诏，使郄虑持节后收皇后玺绶，又命华歆勒兵入宫收伏后。\n华歆牵伏后出，时帝在外殿，后被发徒跣行泣过帝前曰：“不能复相活耶。”帝泣曰：“我亦不知命在合适。”\n相抱大哭。华歆促之离，引往曹操前，遂被弑，并酖杀其二皇子，此建安十九年十一月事也。《逍遥津》\n即演此段故事。",
@@ -285,8 +301,7 @@
       "label": "第一场",
       "characters_present": [
         "二旗牌",
-        "张辽",
-        "旗牌"
+        "张辽"
       ],
       "lines": [
         {
@@ -1463,20 +1478,10 @@
       "scene_index": 4,
       "label": "第四场",
       "characters_present": [
-        "一封血诏忙写好",
         "伏后",
-        "众卿领兵速来到",
-        "含悲忍泪把指尖咬",
-        "将血诏藏至在朝靴统",
-        "将血诏藏至在袍袖里",
-        "将血诏藏至在龙帽内",
-        "左难右难难为了吾",
         "曹妃",
-        "朝中出了奸曹操",
         "汉献帝",
-        "穆顺",
-        "血诏交与梓童手",
-        "辞别万岁出宫门"
+        "穆顺"
       ],
       "lines": [
         {

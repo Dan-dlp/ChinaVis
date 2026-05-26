@@ -13,32 +13,38 @@
     {
       "name": "诸葛亮",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "刘备",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "鲁肃",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "曹操",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "张昭",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "黄盖",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "曹操占据荆州、襄阳之后，当阳一战，刘备兵败夏口。鲁肃过江求见，探问曹军虚实及刘备去向。诸葛亮答\n以将往苍梧投奔太守吴臣。鲁肃乃邀诸葛亮一同过江，与孙权共商破曹之计，刘备假意不允。诸葛亮自请与\n鲁肃同行，刘备方许前往。东吴谋士张昭、步骘、蒋综、陆绩等探知消息，欲难倒诸葛亮，以便降曹。及与\n诸葛亮相见，掀起一场舌辩，诸葛亮侃侃而谈，驳得诸人哑口无言，含羞带愧。黄盖见状，责张昭等徒逞舌\n辩，并请诸葛亮往见孙权，陈述和战利害。",
@@ -530,9 +536,6 @@
       "characters_present": [
         "众人",
         "刘备",
-        "吾东吴文共武兵精粮有",
-        "待等到冬至后大功成就",
-        "曹孟德兵扎在三江夏口",
         "糜芳",
         "诸葛亮",
         "鲁肃"
@@ -1354,12 +1357,10 @@
       "scene_index": 3,
       "label": "第三场",
       "characters_present": [
-        "大丈夫失防备何足为碍",
         "张昭",
         "步骘",
         "蒋综",
         "诸葛亮",
-        "谁教你劝主降低头下拜",
         "陆绩",
         "鲁肃"
       ],

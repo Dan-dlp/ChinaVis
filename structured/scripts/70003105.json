@@ -11,32 +11,38 @@
     {
       "name": "关羽",
       "role_type": "红生",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "张飞",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "刘备",
       "role_type": "生",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "郑康成",
       "role_type": "生",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "陈登",
       "role_type": "生",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "车胄",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "董卓已除，吕布被斩。曹操封为丞相，疑忌桃园弟兄，命刘备助车胄镇守徐州，但暗中致书车胄，命图刘备。\n车胄与陈登计议，欲于刘备放粮回城之时，乱箭射死。陈登秉性正直，泄密于关羽。关羽乃与张飞乘夜赚\n车胄出城，将其杀死。刘备占领徐州。",
@@ -139,7 +145,6 @@
         "上手",
         "中军",
         "刘备",
-        "四将",
         "将甲",
         "张飞",
         "旗牌",
@@ -1525,7 +1530,6 @@
       "scene_index": 4,
       "label": "第四场",
       "characters_present": [
-        "人马驻扎在吊桥",
         "关羽",
         "刘备",
         "张飞",

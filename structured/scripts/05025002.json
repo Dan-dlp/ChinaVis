@@ -11,17 +11,20 @@
     {
       "name": "孙悟空",
       "role_type": "武生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "唐僧",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "玉龙太子",
       "role_type": "武生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "孙悟空打死拦路毛贼，为唐僧所责备，一气而至龙宫，经龙王相劝，始回心转意。唐僧见孙悟空复返，将观\n音所送金箍，为之戴上。自此，孙悟空不敢任性。一日，师徒两人行至鹰愁涧。涧内玉龙因吞噬唐僧之坐骑，\n为孙悟空战败，化为马，同往西天取经。",
@@ -77,15 +80,9 @@
       "label": "第一场",
       "characters_present": [
         "东海龙王",
-        "俺悟空将他等来作榜样",
-        "功也成名也就急忙抽身往",
         "四水卒",
         "孙悟空",
-        "此一番保师父西天取经往",
-        "水卒甲",
-        "辞别了龙君我就急忙出海藏",
-        "韩国的张良能涵养",
-        "黄石公将天书付与他执掌"
+        "水卒甲"
       ],
       "lines": [
         {
@@ -868,7 +865,6 @@
       "characters_present": [
         "唐僧",
         "孙悟空",
-        "我这里化婆婆与他相见",
         "观音"
       ],
       "lines": [

@@ -15,17 +15,20 @@
     {
       "name": "张茂深",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "李桂莲",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "店家",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     }
   ],
   "plot_summary": "山西代州商人张茂深，将往四川经商。与妻李桂莲，饮赏中秋。醉后即在月下交欢，以是秽犯月宫。未几张\n茂深出门，李桂莲即得暴疾，失魂三月，盖为鬼府所勾摄也。张茂深抵四川，一日信步至阴阳界口，见妻在\n河边担水甚苦，大疑。回店间问诸逆旅主人，主人告以此妇名李桂莲，已嫁鬼役，即居河畔。张茂深念知果\n妻，哀痛欲绝，因再往寻之。叩门入，夫妻相遇，悲愕万状。正抱持痛哭，忽鬼役归，见之大怒。李桂莲讳\n之为兄，并以他语给之，鬼役始释然，并置酒款待。席间，鬼役言有公事将往代州，张茂深乃托道之归。",
@@ -482,8 +485,6 @@
       "scene_index": 2,
       "label": "第二场",
       "characters_present": [
-        "一步儿来至在大街上",
-        "将身来在大街前",
         "店家",
         "张茂深",
         "李桂莲"

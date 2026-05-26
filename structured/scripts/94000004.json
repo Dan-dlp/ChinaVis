@@ -11,52 +11,62 @@
     {
       "name": "祝英台",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "梁山伯",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "人心",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "四九",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "祝公远",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "祝高氏",
       "role_type": "老旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "老师",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "媒婆",
       "role_type": "彩旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "赵天锡",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "钱公望",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     }
   ],
   "plot_summary": "祝英台女扮男装与梁山伯同学会稽，祝英台心许于梁山伯，梁山伯却不知祝英台为女子。及祝英台父祝公远\n催女回家定亲，梁山伯、祝英台话别，祝英台邀梁山伯来己家。及梁山伯至，祝公远已将祝英台许婚于同邑\n马文才。梁山伯归家后忧郁而死。祝英台婚期，于途中哭祭梁墓，墓骤裂，祝英台奔入，死后梁、祝化蝶双\n飞。",
@@ -161,18 +171,9 @@
       "label": "第一场：别家",
       "characters_present": [
         "人心",
-        "休说女儿读书无用场",
-        "再思量",
-        "孩儿要学古人样",
-        "昔日有个缇萦女",
-        "父的话仔细想",
-        "班昭为兄把书上",
-        "真能效巾帼英雄好榜样",
         "祝公远",
         "祝英台",
-        "祝高氏",
-        "老爹爹不准女儿杭州往",
-        "自古道：“女子无才便是德”"
+        "祝高氏"
       ],
       "lines": [
         {
@@ -1005,16 +1006,11 @@
       "scene_index": 2,
       "label": "第二场：结拜",
       "characters_present": [
-        "一心寻访名师教",
         "人心",
         "四九",
-        "巧机关且莫露了",
         "梁山伯",
-        "看此处风景甚妙",
         "祝英台",
-        "绿荫深处闻啼鸟",
-        "行人",
-        "装扮一如书生貌"
+        "行人"
       ],
       "lines": [
         {

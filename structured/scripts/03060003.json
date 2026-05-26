@@ -11,22 +11,26 @@
     {
       "name": "赵匡胤",
       "role_type": "红生",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "郑子明",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "柴荣",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "董达",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "赵匡胤与柴荣结拜，同往关西贩伞。遇董家桥有董家五虎称霸，强收行人税，便起厮打。时郑子明卖油，见\n状助之，杀死五虎全家。",
@@ -443,9 +447,6 @@
         "四丫鬟",
         "董喜",
         "董妻",
-        "董寿",
-        "董禄",
-        "董福",
         "董美英",
         "董达",
         "院子"
@@ -1153,9 +1154,6 @@
       "characters_present": [
         "柴荣",
         "董喜",
-        "董寿",
-        "董禄",
-        "董福",
         "董达",
         "赵匡胤",
         "院子"
@@ -1588,9 +1586,6 @@
       "characters_present": [
         "柴荣",
         "董喜",
-        "董寿",
-        "董禄",
-        "董福",
         "董达",
         "赵匡胤",
         "院子"
@@ -1785,7 +1780,6 @@
       "label": "第六场",
       "characters_present": [
         "四丫鬟",
-        "心怀恨奴兄长为人不正",
         "董美英"
       ],
       "lines": [
@@ -2208,9 +2202,6 @@
       "characters_present": [
         "柴荣",
         "董喜",
-        "董寿",
-        "董禄",
-        "董福",
         "董美英",
         "董达",
         "赵匡胤",

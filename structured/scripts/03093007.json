@@ -11,42 +11,50 @@
     {
       "name": "赵云",
       "role_type": "武生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "王平",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "曹操",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "黄忠",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "徐晃",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "刘备",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "诸葛亮",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "张郃",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "曹操遣徐晃、王平守汉水抵御蜀军，徐晃欲背水扎营，王平苦劝不听。兵败，徐晃反责王平。王平愤而投刘\n备，刘备用为向导使，杀败曹军。",
@@ -1005,8 +1013,6 @@
       "scene_index": 5,
       "label": "第五场",
       "characters_present": [
-        "含恨忍痛将己问",
-        "四下手",
         "四文堂",
         "徐晃",
         "王平"
@@ -2112,11 +2118,9 @@
       "scene_index": 9,
       "label": "第九场",
       "characters_present": [
-        "今日叫你难回转",
         "刘备",
         "刘封",
         "曹操",
-        "试看孤威天兵现",
         "赵云"
       ],
       "lines": [

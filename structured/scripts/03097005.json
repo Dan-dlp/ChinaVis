@@ -11,17 +11,20 @@
     {
       "name": "伍员",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "渔丈人",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "浣纱女",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     }
   ],
   "plot_summary": "伍员逃出昭关，为大江所阻，幸遇渔丈人渡之过江。过江后，嘱渔丈人勿泄。渔丈人为消伍员疑而投江。伍\n员渡江后，途中饥饿。适遇浣纱女子，向之乞食。浣纱女以食济伍员。行时，嘱浣纱女勿泄。浣纱女为明己\n志，亦投江死。",
@@ -548,21 +551,8 @@
       "scene_index": 2,
       "label": "第二场",
       "characters_present": [
-        "一路行来腹饥饿",
-        "一饭未足充饥饿",
         "伍员",
-        "伍子胥就是我",
-        "只剩下伍员人一个",
-        "娘行若肯周济我",
-        "家住监利在楚国",
-        "幸遇东皋公周全我",
-        "恨平王无道贪酒色",
-        "想是壮士呼唤我",
-        "我的父谏奏反得祸",
-        "浣纱女",
-        "行至在江边不能过",
-        "请君饱餐免饥饿",
-        "阳关路上是非多"
+        "浣纱女"
       ],
       "lines": [
         {

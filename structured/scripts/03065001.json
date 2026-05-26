@@ -11,12 +11,14 @@
     {
       "name": "马腾",
       "role_type": "生",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "韩遂",
       "role_type": "生",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     }
   ],
   "plot_summary": "李傕、郭汜犯长安，掌朝政；西凉太守马腾、并州刺史韩遂引兵勤王，杀奔长安。李傕、郭汜闭关不战，并\n斩与马腾、韩遂约为内应之马宇等三家，号令辕门。马腾、韩遂军粮尽，援粮又被劫于陈仓，因拔寨回军。\n李傕、郭汜令张济、樊稠追杀，西凉军大败回境。",
@@ -97,7 +99,6 @@
         "众人",
         "庞德",
         "报子",
-        "此际心中怀惆怅",
         "韩遂",
         "马腾",
         "马超"
@@ -489,8 +490,6 @@
       "scene_index": 2,
       "label": "第二场",
       "characters_present": [
-        "四军士",
-        "四大铠",
         "张济",
         "樊稠"
       ],
@@ -631,8 +630,6 @@
       "scene_index": 3,
       "label": "第三场",
       "characters_present": [
-        "四军士",
-        "四大铠",
         "四西凉兵",
         "张济",
         "樊稠",

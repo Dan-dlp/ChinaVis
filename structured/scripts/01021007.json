@@ -14,42 +14,50 @@
     {
       "name": "赵匡胤",
       "role_type": "红生",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "赵普",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "张千",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "赵夫人",
       "role_type": "正旦",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "曹彬",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "石守信",
       "role_type": "副净",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "王全斌",
       "role_type": "外",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "潘仁美",
       "role_type": "末",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     }
   ],
   "plot_summary": "宋太祖赵匡胤，自陈桥兵变，黄袍加身，开创一统之基业，天生令主，其历精开治之心，实有加人一等者，\n盖于受禅后，天下未曾大定。隅据群雄，尚有数处。太祖实不敢高拱深宫，以逸乐宴安为事。凡臣下有所奏\n陈，必咨取访问，不厌其烦。赵普为太祖所信任，位冠百僚之上，尝言以半部《论语》，佐太祖平治天下，\n无论军情政事，均与计议。太祖往往易服出行，至赵普私第接治。是夜风雪甚大，赵普以为可以无事矣，仍\n取《论语》，在书房细心检读，咀嚼其中趣味。突闻叩门声，命人探视，而太祖已翩然入内。相与酌酒围炉，\n极尽君臣之乐，遂定出兵之计纲，分遣将校，征讨诸乱焉。",
@@ -135,13 +143,9 @@
       "scene_index": 1,
       "label": "第一场",
       "characters_present": [
-        "不免到书房中",
-        "去检阅史书。来",
         "叫张千",
         "张千",
-        "看今夜",
-        "赵普",
-        "风雪漫天"
+        "赵普"
       ],
       "lines": [
         {
@@ -308,34 +312,14 @@
       "scene_index": 2,
       "label": "第二场",
       "characters_present": [
-        "三军莫把黎民掠抢",
-        "丞相现在书房上",
-        "今夜晚特把你丞相来访",
-        "你若是要听讲",
-        "依臣见取西川后去上党",
-        "倘若是破刘银得了两广",
-        "各路若把王师抗",
-        "国事明朝同众臣论",
-        "圣道如天不可量",
-        "孤好比周文王卿比姜尚",
-        "定江山扶社稷要选能将",
         "张千",
-        "得胜归来定封卿相",
-        "日战要将阵图讲",
         "曹彬",
-        "步战弓箭护大帐",
         "潘仁美",
         "王全斌",
         "石守信",
-        "老皇兄在筵前来斟佳酿",
-        "自古道用兵须有胆量",
-        "行霸道去仁义万民失望",
         "赵匡胤",
         "赵夫人",
-        "赵普",
-        "这一班酒色徒不难扫荡",
-        "酒过了三巡甚是欢畅",
-        "青衣便服出宫闲望"
+        "赵普"
       ],
       "lines": [
         {

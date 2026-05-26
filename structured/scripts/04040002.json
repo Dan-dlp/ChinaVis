@@ -11,27 +11,32 @@
     {
       "name": "陈伯愚",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "陈大官",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "安人",
       "role_type": "老旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "张公道",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "朱参",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     }
   ],
   "plot_summary": "陈大官自幼父母双亡，依赖叔父陈伯愚抚养长大，因误入歧途，与叔父分家后，沦为乞丐。一年，干旱成灾，\n陈伯愚放粮赈济灾民，陈大官也来领粮，陈伯愚恨他不知上进，将他痛打。陈安人闻声赶来劝阻，并暗助\n银钱，命陈大官走去。陈大官痛悔之下，在清明节到坟地哭祭父母，时陈伯愚夫妇也来祭扫，见坟前有残余\n纸灰，方知陈大官还未忘亲，深受感动，遂将他带回家中，自此，陈大官痛改前非，发奋上进。",
@@ -94,10 +99,8 @@
       "scene_index": 1,
       "label": "第一场",
       "characters_present": [
-        "为儿女我也曾朝山拜庙",
         "六小孩",
         "张公道",
-        "怕将来老天爷无有果报",
         "陈伯愚",
         "陈志"
       ],

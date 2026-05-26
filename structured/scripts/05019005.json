@@ -11,32 +11,38 @@
     {
       "name": "海瑞",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "戚继光",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "鄢懋卿",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "秦氏",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "冯莲芳",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "徐摩云",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     }
   ],
   "plot_summary": "李兴报说海瑞押解徐海，已到辕门，戚继光当即开辕迎接。忽闻顾慥寻死，海瑞匆忙回衙查讯。冯莲芳来辕\n报功，见戚夫人形容憔悴，问知情由，对徐摩云婚事乃不便启齿。海瑞见顾慥思念冯莲芳，以至神思昏昏，\n许为二人成全。适冯莲芳来到，顾慥大喜，其病立愈。冯莲芳央海瑞为徐摩云作伐，海瑞许之，并与冯莲芳\n商妥，将张月娇许字胡宁。海瑞、冯莲芳为众筹备花烛，乘机使戚继光与徐摩云婚配。届时，冯三元与汪彩\n霞，胡宁与张月娇，把总李兴与丫鬟春秀，冯莲芳与顾慥各各交拜成亲。又诈称秦夫人为戚夫人之义女，使\n与鄢懋卿再结花烛。",
@@ -318,10 +324,7 @@
       "scene_index": 2,
       "label": "第二场",
       "characters_present": [
-        "俞大猷",
         "冯莲芳",
-        "刘显",
-        "卢镗",
         "四旗牌",
         "宗礼",
         "徐海",
@@ -329,7 +332,6 @@
         "李兴",
         "海瑞",
         "胡宁",
-        "虽然是仗口舌说降贼众",
         "衙役",
         "赍表官"
       ],
@@ -1139,10 +1141,8 @@
         "二丫鬟",
         "冯莲芳",
         "周氏",
-        "因同这鄢夫人相依为命",
         "汪彩霞",
         "秦氏",
-        "虽然是二女婿两家说允",
         "院子"
       ],
       "lines": [
@@ -1705,7 +1705,6 @@
       "characters_present": [
         "人役",
         "冯莲芳",
-        "曾记得花烛夜她把我哄",
         "海瑞",
         "门子",
         "顾慥"

@@ -11,12 +11,14 @@
     {
       "name": "王宝钏",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "薛平贵",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "王允三女王宝钏游园时见门外有一乞丐，由怜而问，知是薛平贵，并嘉许他的才智。以银和米相赠，约于二\n月二在彩楼前等候。",
@@ -61,11 +63,7 @@
       "scene_index": 1,
       "label": "第二场",
       "characters_present": [
-        "丫环带路花园进",
         "丫鬟",
-        "几处楼台如画镜",
-        "彩楼之事对他论",
-        "抛球选婿事不稳",
         "王宝钏",
         "薛平贵"
       ],

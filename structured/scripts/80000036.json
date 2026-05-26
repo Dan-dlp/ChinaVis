@@ -11,27 +11,32 @@
     {
       "name": "赵云",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "刘备",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "张飞",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "公孙瓒",
       "role_type": "末",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "典韦",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "三国时，曹操领兵攻取徐州。徐州太守陶谦请刘备助战。但刘备兵微将寡，就向公孙瓒借来大将赵云，以解\n徐州之围。在赴徐州解围的路上，刘备与赵云推心置腹地相谈，甚是投缘，互相仰慕。刘备表露爱将之意，\n赵云亦有投主之心。二人结为知己。赵云到徐州，战败曹将典韦，解了徐州之围。",
@@ -586,9 +591,7 @@
       "characters_present": [
         "中军",
         "二旗牌",
-        "你我打马往前进",
         "刘备",
-        "四龙套",
         "赵云"
       ],
       "lines": [

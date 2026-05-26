@@ -11,27 +11,32 @@
     {
       "name": "杨延辉",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "萧太后",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "孟良",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "焦赞",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "杨延昭",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "萧太后因青莲、碧莲被擒后投降宋朝，又知驸马木易乃杨继业之子杨延辉，愤欲将杨延辉及其子女斩首，萧\n天佐施计奏请将杨延辉等绑至城楼问斩，要挟佘太君放还青莲、碧莲。孟良欲私往辽营刺探军情，查明妖术\n真相。焦赞以其有意邀功，心生嫉妒，乃以假葫芦装酒，易其所佩火葫芦。孟良背假葫芦至辽营佯装韩驸马\n巡营兵士，骗过二更夫。二更夫闻有酒香，欲请孟良出酒同饮。孟良将二更夫灌醉，并乘机将张猛之宝葫芦\n盗回。辽营失宝，宋军再战耶律休哥获胜。",
@@ -557,15 +562,11 @@
       "scene_index": 2,
       "label": "第二场",
       "characters_present": [
-        "含悲忍泪金殿进",
         "宗瑞",
         "宗祥",
         "报子",
         "杨延辉",
         "萧天佐",
-        "萧天佑",
-        "萧天虎",
-        "萧天龙",
         "萧太后",
         "香姐",
         "香郎"
@@ -1555,7 +1556,6 @@
       "scene_index": 4,
       "label": "第四场",
       "characters_present": [
-        "二哥独去须谨慎",
         "孟良",
         "焦赞"
       ],

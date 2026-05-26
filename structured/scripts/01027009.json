@@ -13,77 +13,92 @@
     {
       "name": "袁崇焕",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "祖大寿",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "奴尔哈赤",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "皇太极",
       "role_type": "副净",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "多尔衮",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "四贝勒妃",
       "role_type": "武旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "王在晋",
       "role_type": "末",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "满桂",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "左辅",
       "role_type": "副净",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "何可刚",
       "role_type": "末",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "朱海",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "土地",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "家将",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "赵率教",
       "role_type": "末",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "辽婆",
       "role_type": "彩旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     }
   ],
   "plot_summary": "国家得人则兴，失人则亡，历代以来，为一定不易之常理。所以热心爱国之士，一身之一举一动，一进一退，\n不特关系天下之安危，实关系天下之兴亡也。如前明袁崇焕，生专制之期，遇庸材之主，赫赫功勋，猝遭\n戮辱。其事，其境，其心，其节，以视南宋之岳武穆，后先一辙。呜呼，武穆死而宋亡，崇焕死而明亦亡。\n设或崇焕无恙，满洲必不能逞志，又安能入关，为二百六十八年中华主乎？后人悲明之亡，痛崇焕之死，将\n崇焕之始终际遇，编为连台戏剧，使有国家者，触目警心。知热心爱国之士，可宝可贵，而不可放弃也。本\n馆觅得完全剧本，陆续登载，以供观剧之同好。第一、第二本，系《抚边筑城》、《激义破满》。依剧本之\n所述，袁崇焕在王经略麾下充参军之职。因边疆不靖，百姓流徙逃亡，建议关外筑城，为备边抚民，以工代\n账之计。王经略即委袁崇焕办理此事。袁崇焕不辞劳辛，星夜前往，一股忠勇之气，感格神明。由当方土地，\n变化樵夫模样，指点路径。毒蛇猛虎，均不敢缠扰。安抵前屯营，经营筑城事宜。满洲主奴尔哈赤，率十\n万大兵入寇。袁崇焕孤军扼守宁远（即新筑之城），命祖大寿至关内前屯求救。两处一兵不发。袁崇焕遂激\n励将士，用埋伏计，大败满洲兵于山谷内，直追至辽河，传令收兵。奴尔哈赤身受重伤，几为祖大寿所擒。\n幸四贝勒妃，引兵接应，始得退回本国。",
@@ -364,7 +379,6 @@
       "scene_index": 2,
       "label": "第二场",
       "characters_present": [
-        "不分昼夜前屯进",
         "中军",
         "何克刚",
         "何可刚",
@@ -742,9 +756,7 @@
       "scene_index": 3,
       "label": "第三场",
       "characters_present": [
-        "你若要往前屯进",
         "土地",
-        "大路须行两天整",
         "袁崇焕"
       ],
       "lines": [
@@ -1275,7 +1287,6 @@
       "scene_index": 5,
       "label": "第五场",
       "characters_present": [
-        "不分昼夜前屯进",
         "王在晋",
         "袁崇焕"
       ],
@@ -1422,11 +1433,8 @@
       "scene_index": 6,
       "label": "第六场",
       "characters_present": [
-        "倘若违了监军令",
         "家将",
-        "按队派出各兵卒",
         "袁崇焕",
-        "认定灯光将马纵",
         "赵率教"
       ],
       "lines": [
@@ -1958,13 +1966,6 @@
       "scene_index": 8,
       "label": "第八场",
       "characters_present": [
-        "一无兵",
-        "三无官长",
-        "不独是宁远城这等模样",
-        "二无城",
-        "今日里筑城池是何情状",
-        "想胡儿再难逞叛边伎俩",
-        "自从大明开土壤",
         "袁崇焕",
         "赵率教"
       ],
@@ -2149,15 +2150,11 @@
       "label": "第一场",
       "characters_present": [
         "传令官",
-        "倘若是逞己能骄敌必败",
-        "唤贤媳上帐来大家计量",
         "四贝勒妃",
         "多尔衮",
         "奴尔哈赤",
-        "有明臣袁崇焕不知退让",
         "皇太极",
         "莽古尔泰",
-        "那明邦袁崇焕机谋策应",
         "阿济格"
       ],
       "lines": [

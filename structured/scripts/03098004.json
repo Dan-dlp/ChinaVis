@@ -11,12 +11,14 @@
     {
       "name": "常遇春",
       "role_type": "武净",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "徐达",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "徐达攻打采石矶，当地守将铁木耳拒之。矶高水险，众莫能破。徐达部将常遇春潜身桅斗内，趁潮涨时跃登\n矶头，夺得太平城。",
@@ -1449,7 +1451,6 @@
       "scene_index": 5,
       "label": "第五场",
       "characters_present": [
-        "写表章功劳簿龙棚朝奏",
         "徐达"
       ],
       "lines": [

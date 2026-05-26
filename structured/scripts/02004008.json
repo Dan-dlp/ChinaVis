@@ -13,27 +13,32 @@
     {
       "name": "马超",
       "role_type": "武生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "曹操",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "许褚",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "曹洪",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "夏侯惇",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     }
   ],
   "plot_summary": "马腾镇守西凉，奉命调京。行至中途，被曹操派人杀死。长子马超闻言后，即发兵为父报仇。曹营大将徐晃、\n曹洪，相继败北。最后曹操换袍割须，始得逃脱。",
@@ -502,7 +507,6 @@
       "scene_index": 5,
       "label": "第五场",
       "characters_present": [
-        "我父身犯何条令",
         "马岱",
         "马超"
       ],

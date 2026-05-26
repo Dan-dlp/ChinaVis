@@ -11,27 +11,32 @@
     {
       "name": "李七",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "解差",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "王良",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "王天祥",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "张氏",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     }
   ],
   "plot_summary": "临清大盗李七与秀才王良同游妓院，厮打生嫌。后李七因打劫包府被逮，诬攀王良。州官王天祥疑王良非其\n同党，乃令王良乔妆衙役，使李七辨认。李七不识，乃故意辱骂，激王良变色，终于认出；并指王良有白绫\n裹腿，官当堂查验属实，王良竟被诬陷。王良被李七攀诬入狱，王良家人陈唐于起解时，以王良夫妻情笃，\n哀求李七，李七感悟，遂允向官自承攀诬，代王良开脱。",
@@ -173,14 +178,9 @@
       "scene_index": 1,
       "label": "第一场",
       "characters_present": [
-        "万般无奈且招认",
         "众役",
-        "兄弟们结拜了一十七个",
-        "咱向她要金银她无有",
-        "头门上推墙整两垛",
         "快班",
         "李七",
-        "板子打来上夹棍",
         "王天祥",
         "王良",
         "禁子",

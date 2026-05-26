@@ -11,32 +11,38 @@
     {
       "name": "萧恩",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "萧桂英",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "李俊",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "倪荣",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "丁太师",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "教师",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     }
   ],
   "plot_summary": "梁山英雄阮小七不受朝廷招安，改名萧恩，同女儿萧桂英流落到太湖边上打鱼为生。告老丁太师勾结当地知\n县吕子秋，压榨百姓，关押拒税的渔夫和农夫。萧恩父女亦欠下丁府的渔税，丁郎催讨，被李俊、倪荣斥责。\n丁太师令教师率领徒弟前去锁拿萧恩，被萧恩打退。萧恩恐招惹官府派兵征缴，与萧桂英同往丁府，恰遇\n吕子秋于丁府做客，萧恩父女将丁太师与吕子秋杀死，替穷人出气报仇。官兵骤至，围困住萧恩父女。危急\n关头，倪荣率领已发动的民众赶来，杀退官兵。",
@@ -356,18 +362,10 @@
       "scene_index": 1,
       "label": "第一场",
       "characters_present": [
-        "一年辛苦直到头",
         "众渔夫",
-        "倚势霸占村和镇",
-        "到如今打在牢监把铁链拖",
-        "只可叹穷人不与穷人合",
         "四徒弟",
         "四渔民",
-        "妻子望夫夫不见",
         "徒弟甲",
-        "悔从前主意没拿定",
-        "想起来真难过",
-        "打道来在监门口",
         "教师",
         "渔夫丁",
         "渔夫戊",
@@ -376,8 +374,7 @@
         "渔民乙",
         "渔民戊",
         "渔民甲",
-        "禁子",
-        "种田打鱼没有错"
+        "禁子"
       ],
       "lines": [
         {

@@ -11,12 +11,14 @@
     {
       "name": "杜丽娘",
       "role_type": "五旦",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "春香",
       "role_type": "贴旦",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     }
   ],
   "plot_summary": "太守杜宝之女杜丽娘，深居闺阁，偶与婢女春香，游览花园，目睹春景，感动情思。",
@@ -55,7 +57,6 @@
       "scene_index": 1,
       "label": "全剧",
       "characters_present": [
-        "啼红了杜鹃",
         "春香",
         "杜丽娘",
         "闲凝眄"

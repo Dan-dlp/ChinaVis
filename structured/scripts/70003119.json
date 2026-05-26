@@ -11,42 +11,50 @@
     {
       "name": "关羽",
       "role_type": "红生",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "张飞",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "刘备",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "诸葛亮",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "刘琦",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "曹操",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "许褚",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "张辽",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "荆州刘表亡故，其子刘琮献荆州与曹操。刘备闻知，弃新野，欲取荆州。曹兵追赶甚急，赵云长坂坡突围，\n张飞当阳桥上阻挡曹兵。刘备率众退至汉津口，时诸葛亮已派关羽从江夏搬兵迎击，挡住曹兵。",
@@ -693,7 +701,6 @@
       "label": "第二场",
       "characters_present": [
         "众将",
-        "幸喜得我首级还在项上",
         "张辽",
         "曹仁",
         "曹操",
@@ -1244,13 +1251,9 @@
         "众人",
         "众将",
         "刘备",
-        "堪可叹十余万百姓生灵",
         "张飞",
-        "此时间真可算险中侥幸",
         "甘夫人",
-        "见主公忙下马惶愧不定",
-        "赵云",
-        "这其间反叫我惶愧不定"
+        "赵云"
       ],
       "lines": [
         {
@@ -2114,9 +2117,7 @@
       "label": "第四场",
       "characters_present": [
         "众将",
-        "似簇拥转眼时小山过了",
-        "曹操",
-        "顷刻间水断流成了路道"
+        "曹操"
       ],
       "lines": [
         {
@@ -2392,10 +2393,7 @@
       "characters_present": [
         "刘备",
         "张飞",
-        "我本是新野县逃难的百姓",
-        "曹兵百万难抵挡",
-        "曹操",
-        "车滞马迟愈觉慌"
+        "曹操"
       ],
       "lines": [
         {

@@ -13,42 +13,50 @@
     {
       "name": "尉迟恭",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "尉迟宝林",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "秦琼",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "程咬金",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "徐勣",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "李世民",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "梅秀英",
       "role_type": "正旦",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "刘国珍",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "据隋唐说部，称尉迟恭微时，本住山西麻邑县，冶铁为业。以善用鞭故，曾自铸雌雄钢鞭一对。后因世乱年\n荒，寇盗四起，贫困无以谋生，乃出投军。于时结发梅氏，方怀孕未产。尉迟恭与妻分别，将双鞭镌刻己名，\n及未产儿尉迟宝林之名于上，夫妻各执一枝，以为日后圆镜之证。孰意出行未几，家中即遭寇乱，梅氏即\n被刘国珍掠去，强占为妻。梅以有孕在身，欲延尉迟一脉，故忍辱从之。至是已将二十年，尉迟恭已为佐命\n元勋，适因北寇周刚反叛，尉迟恭挂副帅往征，行军至白良关，父子乃相遇于疆场之间。变仇敌而为骨肉，\n皆二鞭之证也。于是父子团聚，仇寇伏诛，而白良关亦自不攻自下矣。惟梅氏夫人，则因身已失贞，无颜见\n夫，故自缢于后堂，以明其志云。",
@@ -154,12 +162,9 @@
       "scene_index": 1,
       "label": "第一场",
       "characters_present": [
-        "回言便把咬金唤",
-        "大战场见过千千万",
         "尉迟恭",
         "徐勣",
         "李世民",
-        "此番到了北国地",
         "秦琼",
         "程咬金"
       ],
@@ -1565,11 +1570,8 @@
       "label": "第四场",
       "characters_present": [
         "刘国珍",
-        "将身且坐宝帐上",
         "尉迟宝林",
         "尉迟恭",
-        "爹爹点动兵和将",
-        "迈步且把宝帐进",
         "龙套"
       ],
       "lines": [
@@ -2099,9 +2101,7 @@
       "characters_present": [
         "尉迟宝林",
         "尉迟恭",
-        "手使钢鞭朝下打",
         "报子",
-        "无有盔来无有甲",
         "秦琼",
         "程咬金"
       ],
@@ -3296,8 +3296,6 @@
       "characters_present": [
         "尉迟宝林",
         "尉迟恭",
-        "手使钢鞭朝下打",
-        "无有盔来无有甲",
         "秦琼"
       ],
       "lines": [

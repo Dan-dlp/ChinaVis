@@ -11,27 +11,32 @@
     {
       "name": "蒯彻",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "刘邦",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "化子甲",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "化子乙",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "萧何",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "韩信被杀，萧何谓蒯彻曾为韩信主谋，刘邦因使陆贾前往擒蒯彻。蒯彻佯疯，见刘邦，立而不跪，并责其信\n谗言，诛杀忠良。刘邦大怒，命左右设油鼎，欲杀蒯彻。蒯彻为韩信辩冤，刘邦无言可对，撤去油鼎，责萧\n何奏本荒唐，钦封蒯彻为侯。",
@@ -199,7 +204,6 @@
       "characters_present": [
         "化子乙",
         "化子甲",
-        "挣来江山旁人坐",
         "蒯彻",
         "陆贾"
       ],
@@ -1095,25 +1099,11 @@
       "scene_index": 3,
       "label": "第三场",
       "characters_present": [
-        "一旦间听谗言韩侯命丧",
-        "三齐王威权大兵多将广",
-        "两旁边俱都是开国良将",
-        "仗众卿灭项羽烟尘扫荡",
         "刘邦",
-        "去掉了枷合锁油鼎来闯",
         "四值殿",
         "大太监",
-        "天下的有心人纷纷言讲",
-        "怒冲冲且把金殿上",
-        "挽卿手同见过萧何丞相",
-        "樊哙",
-        "此一番替韩信辩明冤枉",
-        "王陵",
-        "站立在殿角下用目视望",
-        "老萧何居然是左班丞相",
         "萧何",
         "蒯彻",
-        "那王陵是孝子谁不钦仰",
         "陆贾",
         "陈平"
       ],

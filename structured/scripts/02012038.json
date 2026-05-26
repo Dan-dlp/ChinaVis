@@ -13,17 +13,20 @@
     {
       "name": "安学海",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "华忠",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "佟夫人",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     }
   ],
   "plot_summary": "淮阳县知县安学海，因不肯行贿，致被总漕借口黄河决口，罚款六千两，否则立即拿问。安学海乃令家人华\n忠送信其子安骥，变卖在京财产。华忠行至中途，遇其妹丈褚一官，始知其妹已死，褚一官又赘入邓九公家\n为婿。褚一官并借与路费，继续赶路。",
@@ -74,14 +77,10 @@
       "scene_index": 1,
       "label": "第一场",
       "characters_present": [
-        "一路之上须谨慎",
         "丫鬟",
-        "但愿早来事安稳",
         "佟夫人",
-        "到如今无别法听天由命",
         "华忠",
-        "安学海",
-        "黄河涨奏老爷公款侵用"
+        "安学海"
       ],
       "lines": [
         {

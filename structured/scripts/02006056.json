@@ -11,32 +11,38 @@
     {
       "name": "李白",
       "role_type": "正生",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "杨国忠",
       "role_type": "副净",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "高力士",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "贺知章",
       "role_type": "外",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "孟浩然",
       "role_type": "末",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "唐明皇",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "唐明皇欲考天下英才，由杨国忠与高力士主考。贺知章推荐李白参加考试，杨国忠、高力士二人不但不肯取\n中，反藉故赶出贡院。适白海国使臣送来番文表章，满朝文武无人能解。贺知章谓李白能读，唐明皇乃宣李\n白上殿。李白谓须杨国忠磨墨、高力士脱靴，唐明皇均一一应允。李白除读解番表外，并回复番邦进贡安分，\n免惹天兵征讨云。",
@@ -129,9 +135,7 @@
       "label": "第一场",
       "characters_present": [
         "家院",
-        "我今修书无别事",
         "李白",
-        "西蜀李白才学广",
         "贺知章"
       ],
       "lines": [
@@ -1386,23 +1390,12 @@
       "scene_index": 4,
       "label": "第四场",
       "characters_present": [
-        "“白海国来把表献",
-        "你二人权且下殿往",
         "唐明皇",
-        "夜梦贤臣李白到",
-        "大唐若是有人念",
-        "大喝一声高内监",
-        "天朝若是无人念",
         "太监甲",
         "孟浩然",
-        "忙将蛮诗念一遍",
-        "忽听得宣李白忙上金殿",
         "李白",
         "杨国忠",
-        "番邦臣子把表献",
-        "被他们扯文章赶出贡院",
         "贺知章",
-        "赐卿平身且坐下",
         "马天申",
         "高力士"
       ],

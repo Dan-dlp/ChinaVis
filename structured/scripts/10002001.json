@@ -11,27 +11,32 @@
     {
       "name": "曹富",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "曹玉莲",
       "role_type": "青衣",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "掌柜甲",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "掌柜乙",
       "role_type": "生",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "赶驴",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     }
   ],
   "plot_summary": "明朝熹宗时太监魏忠贤奸恶非常，权势很大，党羽极多，他常想纂夺君位。只有吏部堂曹正邦，却是忠直之\n臣，不肯附合魏忠贤。但是知道魏忠贤必要害他，所以就告老回乡。魏忠贤知道他要回去，就在路中埋伏许\n多刺客，要将他刺死。等到曹正邦走到官庄铺，果然遭害，夫人也投井而死。只剩女儿曹玉莲被老仆曹富救\n出，要送她到大同，投奔夫家。路中千辛万苦，困难万分，走到广华山，天又降下大雪，二人身上衣服单薄，\n饥寒交迫。曹富看见小姐受不了这种痛苦，将自己的外衣脱下，送与她穿，自己因此冻死。王母娘娘因他\n忠义可嘉，就叫八仙来接引升天，封为南天门都土地。曹玉莲正在悲痛无法之时，幸而夫家得到了消息，派\n人前来接了回去。",
@@ -125,9 +130,6 @@
       "label": "第一场",
       "characters_present": [
         "伙计",
-        "将身儿坐至在土台之上",
-        "忠良反被奸贼害",
-        "拿住了奸贼用刀斫",
         "掌柜乙",
         "掌柜甲",
         "曹富",
@@ -1930,13 +1932,11 @@
       "label": "第四场",
       "characters_present": [
         "三家将",
-        "偕仆同奔大同县",
         "四家将",
         "家将丁",
         "家将丙",
         "家将乙",
         "家将甲",
-        "我父吏部天官位",
         "曹富",
         "曹玉莲"
       ],

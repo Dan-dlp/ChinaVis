@@ -11,37 +11,44 @@
     {
       "name": "张飞",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "刘备",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "张苞",
       "role_type": "副净",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "张夫人",
       "role_type": "正旦",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "关兴",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "刘封",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "诸葛亮",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "刘备闻关羽命丧玉泉山，悲痛难忍。当即宣召诸葛亮进帐，商议出兵，为关公复仇。诸葛亮谓现在出兵不利，\n应待至明春。刘备乃令廖化往告张飞，张飞闻信后，随即赶往西川。一面催刘备出兵报仇，一面令范疆、\n张达，赶做白袍白甲，并谓诸葛亮若不出兵，渠即单独出马。适范疆、张达二人尚未将白袍做妥，乃大发雷\n霆，拟将范疆、张达二人斩首。经范疆、张达二人哀求，始各重打百鞭，限七日造成，否则定斩不饶。范疆、\n张达二人认为七日，决不能完成。与其届时被斩，不如将张飞杀死，向东吴报功。乃乘张飞熟睡之际，将\n张飞杀死，携带首级奔往东吴。张苞得知其父死后，遂向刘备报告。适关兴亦赶至。刘备在万分悲痛之下，\n决定令吴班挂帅，御驾亲征云。",
@@ -120,18 +127,11 @@
       "scene_index": 1,
       "label": "第一场",
       "characters_present": [
-        "为孤冲锋打头阵",
-        "二弟丧命刘封斩",
         "刘备",
         "刘封",
-        "叫人来带过乌骓马",
-        "哪有闲话对你讲",
         "四龙套",
-        "少年英雄丧了命",
         "张飞",
-        "忍住心头咬一口",
-        "诸葛亮",
-        "诸葛先生曾阻本"
+        "诸葛亮"
       ],
       "lines": [
         {
@@ -1306,14 +1306,11 @@
       "scene_index": 3,
       "label": "第三场",
       "characters_present": [
-        "叫三军掌灯把帐进",
-        "叫人来看过了皇封御酒",
         "四青袍",
         "张夫人",
         "张苞",
         "张达",
         "张飞",
-        "母子们将尸首忙搭下",
         "范疆"
       ],
       "lines": [

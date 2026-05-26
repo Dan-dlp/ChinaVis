@@ -11,42 +11,50 @@
     {
       "name": "李元霸",
       "role_type": "武生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": "黑脸金眉，雷公嘴，公子头，黑线穗子，黑龙箭袖，杏黄花褶子"
     },
     {
       "name": "杨广",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "李渊",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "宇文成都",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "窦氏",
       "role_type": "老旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "李世民",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "李建成",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "李元吉",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     }
   ],
   "plot_summary": "隋炀帝听宇文化及之言，令李渊在三月内兴建晋阳宫，否则全家问斩。李世民正焦灼无计时，袁天罡乃荐李\n淳风会同建筑，邀请鲁班诸神及搬运鬼工，未及一月即行完工。隋炀帝到后，本拟嘉奖李渊，宇文化及又从\n中陷害，隋炀帝遂下令将李渊斩首。李世民闻信后，随即击龙鼓申冤。隋炀帝见其年幼胆大，且所言各节，\n均甚有理。不但赦免李渊，反认李世民为义子，封为秦王。其大哥及三弟、四弟亦均封王，可谓因祸得福云。",
@@ -991,8 +999,7 @@
       "label": "第三场",
       "characters_present": [
         "李元霸",
-        "紫阳真人",
-        "趁风且把花园进"
+        "紫阳真人"
       ],
       "lines": [
         {
@@ -1299,10 +1306,8 @@
       "scene_index": 4,
       "label": "第四场",
       "characters_present": [
-        "倘若奸臣来知晓",
         "四功曹",
         "大太监",
-        "恨只恨宇文化及暗行奸巧",
         "李世民",
         "李元吉",
         "李元霸",
@@ -1311,7 +1316,6 @@
         "李渊",
         "窦氏",
         "袁天罡",
-        "这都是奸贼行计巧",
         "院子"
       ],
       "lines": [

@@ -11,27 +11,32 @@
     {
       "name": "太史慈",
       "role_type": "武生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "孙策",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "刘繇",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "张勇",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "周瑜",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "孙策与刘繇对峙。孙策以十三骑赴神亭岭窥探。刘繇惧不敢出击。部将太史慈奋勇迎敌，与孙策酣战，不分\n胜负。",
@@ -280,9 +285,7 @@
       "scene_index": 3,
       "label": "第三场",
       "characters_present": [
-        "三将官",
         "刘繇",
-        "四龙套",
         "太史慈",
         "张勇",
         "张英",
@@ -880,11 +883,7 @@
         "周泰",
         "太史慈",
         "孙策",
-        "张勇",
-        "程普",
-        "远望贼营旌旗绕",
-        "韩当",
-        "黄盖"
+        "张勇"
       ],
       "lines": [
         {
@@ -1290,10 +1289,7 @@
       "label": "第六场",
       "characters_present": [
         "周泰",
-        "张勇",
-        "程普",
-        "韩当",
-        "黄盖"
+        "张勇"
       ],
       "lines": [
         {
@@ -1438,11 +1434,8 @@
       "scene_index": 8,
       "label": "第八场",
       "characters_present": [
-        "三将官",
-        "下得马来上山道",
         "刘繇",
         "周瑜",
-        "四龙套",
         "张英"
       ],
       "lines": [

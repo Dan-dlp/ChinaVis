@@ -13,17 +13,20 @@
     {
       "name": "李广",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "杨太贞",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "李刚",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "周懿王宠信石妃，不理朝政，正宫杨后进谏，反被加以谋弑罪名，绑出处斩。适奉命侯李广巡边回来，三次\n上殿，冒死请赦；周懿王不准，并设油鼎拒谏。李广遂与弟李文率部劫夺法场，并换刀杀妻，保护杨后逃出\n庆阳。李文被追兵箭射身死，幸李广途遇三弟李刚，乃同往万家山避祸。",
@@ -617,9 +620,7 @@
       "characters_present": [
         "石彦虎",
         "石彦龙",
-        "石美容",
-        "里应外合周必丧",
-        "顺水推舟心自想"
+        "石美容"
       ],
       "lines": [
         {
@@ -930,7 +931,6 @@
       "characters_present": [
         "熊猛",
         "石美容",
-        "羞答答下车轮有话难讲",
         "许万昌"
       ],
       "lines": [
@@ -2339,8 +2339,6 @@
       "scene_index": 9,
       "label": "第九场",
       "characters_present": [
-        "你手摸胸膛想一想",
-        "内侍臣摆驾西宫进",
         "周懿王",
         "杨大太监",
         "杨太贞",

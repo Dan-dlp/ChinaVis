@@ -11,12 +11,14 @@
     {
       "name": "文种",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "勾践",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "越王勾践灭吴后，范蠡引退，并致书文种，劝其亦辞官他去。文种不听，并劝勾践封赏灭吴功臣，被勾践当\n殿指责。文种托病不朝。勾践探文种之病，以剑遗府内，意令其自裁，文种遂自刎死。",
@@ -446,7 +448,6 @@
       "scene_index": 2,
       "label": "第二场",
       "characters_present": [
-        "今日执意离朝走",
         "勾践",
         "文种",
         "曳庸",

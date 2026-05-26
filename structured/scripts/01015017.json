@@ -11,47 +11,56 @@
     {
       "name": "李渊",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "杨广",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "秦琼",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "李母",
       "role_type": "老旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "韩擒虎",
       "role_type": "外",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "魏福通",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "窦氏",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "伙计",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "囚犯",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     }
   ],
   "plot_summary": "陏文帝次子晋王杨广，欲倾陷太子杨勇，以图自立；结纳朝中诸大老，引为奥援；不惜赀财，广行贿赂。独\n唐公李渊，摈而不受。及文帝废杨勇立杨广，李渊复为上疏，辩明杨勇之无罪。杨广衔恨刺骨。适李渊告归\n太原，杨广与宇文述等聚集家将，假扮强盗，恐人认识，均以黑煤涂面，要于临潼山而截杀之。李渊及家属\n经过，果为所困。正在岌岌可危之时，倏有一壮士，提金装锏，坐黄膘马，冲围而入，击毙假强盗无数，而\n杨广亦左肩受伤。李渊及家属皆保全性命。盖壮士即秦琼，字叔宝，山东济南府历城县人，后为唐开国元勋，\n其时当本府捕快都头，奉上官差遣，押解军犯至平阳驿潞州。行至临潼山，在山岗上伍相国祠休息。秦琼\n闻喊杀之声，向下观望，疑是官员被响马行劫，故此代抱不平，上前救护。捉获一人，细问情节，始知太子\n与唐公不睦。有此举动，秦琼虑祸及身，加鞭飞马而逸。李渊得脱此厄，万分感激，赶紧追问姓名。因相隔\n甚远，只一“琼”字，风送入耳中，遂错听为琼五。命人在承福寺，盖造报恩殿，塑琼五像，以志不忘云。",
@@ -153,9 +162,6 @@
       "scene_index": 1,
       "label": "第一场",
       "characters_present": [
-        "叫家将",
-        "叫家将与吾快带马",
-        "战江南十一载威风凛凛",
         "报子",
         "李母",
         "李渊",
@@ -1025,8 +1031,6 @@
       "scene_index": 4,
       "label": "第四场",
       "characters_present": [
-        "人来",
-        "家将",
         "报子",
         "杨广",
         "韩擒虎",
@@ -1248,12 +1252,7 @@
       "scene_index": 5,
       "label": "第五场",
       "characters_present": [
-        "伯父也有妻和小",
-        "伯父若念同朝义",
-        "八月十五母寿期",
         "李渊",
-        "眉来眼去将妻戏",
-        "竹篱内瞧见侄儿妻",
         "韩擒虎",
         "龙套"
       ],
@@ -1846,7 +1845,6 @@
       "label": "第七场",
       "characters_present": [
         "伙计",
-        "小伙计",
         "秦琼"
       ],
       "lines": [
@@ -2134,7 +2132,6 @@
       "scene_index": 8,
       "label": "第八场",
       "characters_present": [
-        "人来",
         "杨广",
         "龙套"
       ],
@@ -2225,7 +2222,6 @@
       "label": "第九场",
       "characters_present": [
         "伙计",
-        "小伙计",
         "秦琼"
       ],
       "lines": [

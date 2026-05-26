@@ -15,37 +15,44 @@
     {
       "name": "周处",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "王浚",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "刘才",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "范老二",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "张百川",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "张利",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "田大娘",
       "role_type": "老旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     }
   ],
   "plot_summary": "晋代宜兴人周处，膂力过人，性情粗豪，酗酒之后，每多暴行，百姓患之，与当时为害地方的孽蛟、猛虎，\n并称“三害”。太守王浚初到任，知周处尚有可为，乃乔装寻访，与周处相遇于途中。王浚伪装不识，以蛟、\n虎为衬，痛数其罪。周处闻言震惊，痛悔前非。乃奋不顾身，射虎斩蛟，为民除害。",
@@ -124,14 +131,10 @@
       "scene_index": 1,
       "label": "第一场",
       "characters_present": [
-        "一时之怒我把这窑来打",
         "二伙计",
-        "你与我装聋来作哑",
-        "你把那当官来看大",
         "刘才",
         "周处",
         "张利",
-        "某是私取尔不怕",
         "范老二"
       ],
       "lines": [

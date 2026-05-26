@@ -13,32 +13,38 @@
     {
       "name": "韩廷凤",
       "role_type": "外",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "吴惠泉",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "江氏",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "金氏",
       "role_type": "老旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "媒婆",
       "role_type": "丑旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "韩遇运",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "双州太守韩廷凤，因无子嗣，另娶江氏。新娘过门，啼泣甚哀，韩廷凤问起情由，始知江氏因夫贫病交加，\n不得已卖身救夫。韩廷凤怜之，赠银送其返家，夫妻又得团聚。江氏夫妇得知太守求子心切，为了报答，卖\n了一个孩童送给太守。韩廷凤问起孩童父母情况，并验得孩子左脚上有一颗硃砂痣，才认出就是十三年前，\n因金兵作乱，走失的儿子韩遇运。父子又得重逢。",
@@ -112,11 +118,8 @@
       "label": "第一场",
       "characters_present": [
         "丫鬟",
-        "大老爷开大恩将奴释放",
-        "奴丈夫病沉疴久卧床上",
         "媒婆",
         "家院",
-        "我岂肯贪富贵痴心妄想",
         "江氏",
         "韩廷凤"
       ],
@@ -1020,11 +1023,8 @@
       "label": "第三场",
       "characters_present": [
         "丫鬟",
-        "大老爷开大恩将奴释放",
-        "奴丈夫病沉疴久卧床上",
         "媒婆",
         "家院",
-        "我岂肯贪富贵痴心妄想",
         "江氏",
         "韩廷凤"
       ],
@@ -1577,8 +1577,6 @@
       "scene_index": 4,
       "label": "第四场",
       "characters_present": [
-        "且等到羽毛干鹏程万里",
-        "读诗书千万卷难当柴米",
         "金氏",
         "韩遇运"
       ],

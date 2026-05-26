@@ -11,22 +11,26 @@
     {
       "name": "刘备",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "诸葛亮",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "徐庶",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "曹操",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "刘备迁新野百姓于樊城，曹操欲举兵讨之；但为争取民心，先命徐庶说降。徐庶见刘备，尽陈曹操诡计，且\n与诸葛亮密议后事。刘备命关羽急往江夏，向刘琦求兵，自携百姓渡江逃难。及至刘琮处，因蔡瑁进谗，闭\n门不纳。刘备路过刘表坟墓，哭诉心事后，投奔江陵。",
@@ -679,20 +683,11 @@
       "scene_index": 3,
       "label": "第三场",
       "characters_present": [
-        "上写曹操顿首拜",
-        "东吴孙权争地界",
-        "丹心一点重扶汉",
         "关羽",
-        "刘两家合一块",
         "刘备",
         "孙乾",
-        "孤王看书你休怪",
-        "安居未稳曹兵到",
         "张飞",
         "徐庶",
-        "曹",
-        "汉业至今四百零",
-        "看罢书信疑难解",
         "简雍",
         "诸葛亮",
         "赵云",

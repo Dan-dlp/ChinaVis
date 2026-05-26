@@ -11,27 +11,32 @@
     {
       "name": "詹重阳",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "杨延昭",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "柴郡主",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "詹免",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "詹尤吉",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "杨延昭自在九龙峪战败，独坐营中，闷闷不乐。适王夫人进帐，谓河东老将詹尤吉之女名重阳，言与元帅曾\n定姻缘，特来认夫。并谓詹重阳武艺超群，若能收下，可保宋王回朝。杨延昭谓如此当可收下，但须再问柴\n郡主一次。不意杨延昭至柴郡主处，柴郡主则坚决不允。杨延昭不得已乃径往詹营佯为招亲，将詹老将刺死。\n詹重阳大怒，直杀进宋营，如入无人之境，且至八千岁赵德芳住所。赵德芳不得已，乃免杨延昭职，改拜\n詹重阳为帅。萧天佐派鞠化龙前来讨战，詹重阳亲自出战，枪杀洒纳金、洒纳银，并将鞠化龙击退云。",
@@ -161,12 +166,9 @@
       "scene_index": 1,
       "label": "第一场",
       "characters_present": [
-        "元帅若是收女将",
         "小军",
         "杨延昭",
-        "枪挑刘英太子丧",
-        "王夫人",
-        "若要本帅收女将"
+        "王夫人"
       ],
       "lines": [
         {
@@ -534,13 +536,8 @@
       "scene_index": 2,
       "label": "第二场",
       "characters_present": [
-        "丁山收她进唐寨",
         "小军",
-        "昔日有个樊老将",
-        "本帅来到宝帐口",
-        "本帅若是收女将",
         "杨延昭",
-        "枪挑刘英太子丧",
         "柴郡主",
         "詹免",
         "詹尤吉"
@@ -1666,8 +1663,6 @@
       "scene_index": 5,
       "label": "第五场",
       "characters_present": [
-        "一把宝剑丢在地",
-        "一把宝剑项上刎",
         "四小军",
         "报子",
         "杨延昭",
@@ -2677,9 +2672,6 @@
       "scene_index": 8,
       "label": "第八场",
       "characters_present": [
-        "劝儿收兵早散队",
-        "四上手",
-        "四大铠",
         "探子",
         "杨延昭",
         "詹重阳",

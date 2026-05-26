@@ -11,27 +11,32 @@
     {
       "name": "苏三",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "王金龙",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "刘秉义",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "潘必正",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "崇公道",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     }
   ],
   "plot_summary": "苏三被解至太原，山西巡按适为王金龙。王金龙查阅案卷，见有苏三谋死亲夫一案，遂偕同藩司潘必正、臬\n司刘秉义共同审理。公堂上，苏三在供词中详述前情，王金龙心情激动，不能自持，乃称病委托潘必正、刘\n秉义审理。随后审明了案情，平反冤狱。王金龙、苏三破镜重圆，终成姻眷。",
@@ -100,15 +105,11 @@
       "scene_index": 1,
       "label": "全剧",
       "characters_present": [
-        "两旁的刽子手",
         "刘秉义",
-        "南楼北楼公子造",
         "崇公道",
         "潘必正",
-        "猛然间睁开了昏花眼",
         "王金龙",
         "苏三",
-        "苏三此去好有一比",
         "门子",
         "龙套"
       ],

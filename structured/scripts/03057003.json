@@ -11,12 +11,14 @@
     {
       "name": "林黛玉",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "贾宝玉",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "薛宝钗夜访贾宝玉，林黛玉旋至，扣环，丫鬟拒之。林黛玉疑贾宝玉薄己，次日荷锄至园中，见落花，愈伤\n身世，乃赋诗葬花。贾宝玉至，表明心迹，言归于好。",
@@ -70,9 +72,7 @@
       "scene_index": 1,
       "label": "第一场",
       "characters_present": [
-        "含情迤逦穿花障",
         "晴雯",
-        "落花无主春骀宕",
         "薛宝钗",
         "贾宝玉"
       ],

@@ -11,22 +11,26 @@
     {
       "name": "荀灌娘",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "荀崧",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "荀常",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "周访",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "荀灌娘，晋荀崧女。幼有奇节。荀崧为襄阳城太守，被杜曾所围。荀灌娘十三，率勇士数十突围夜出，往求\n救兵。及会战，杜曾死兵散。荀灌娘与荆州周抚结百年之好。",
@@ -310,7 +314,6 @@
         "四番将",
         "旗牌",
         "杜曾",
-        "杜曾勇猛如虎豹",
         "老将",
         "荀崧"
       ],
@@ -700,7 +703,6 @@
       "scene_index": 4,
       "label": "第四场",
       "characters_present": [
-        "从今须要改形样",
         "旗牌",
         "荀常",
         "荀灌娘"
@@ -1452,11 +1454,8 @@
       "scene_index": 5,
       "label": "第五场",
       "characters_present": [
-        "不知厉害要前往",
-        "又悲又恨话难讲",
         "四上手",
         "报子",
-        "眼望苍天悲声放",
         "荀崧",
         "荀常",
         "荀灌娘"

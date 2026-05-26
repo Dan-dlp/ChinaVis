@@ -14,12 +14,14 @@
     {
       "name": "俞伯牙",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "钟元圃",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "俞伯牙与钟子期别后，次年中秋往访，途遇钟子期父钟元圃，方知钟子期已死。俞伯牙至墓前哭祭，摔碎瑶\n琴，以报知音。",
@@ -392,7 +394,6 @@
       "scene_index": 3,
       "label": "第三场",
       "characters_present": [
-        "他的父即我父向前拜倒",
         "俞伯牙",
         "樵夫",
         "渔夫",

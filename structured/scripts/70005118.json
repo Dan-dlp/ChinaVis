@@ -11,37 +11,44 @@
     {
       "name": "陈炳顺",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "炳顺妻",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "沈氏",
       "role_type": "正旦",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "张氏",
       "role_type": "彩旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "陈炳义",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "炳义妻",
       "role_type": "花旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "丫鬟",
       "role_type": "花旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     }
   ],
   "plot_summary": "张氏虐待前房遗子陈炳顺和媳妇，并逼陈炳顺休妻；而亲生子陈炳义却纵妻苛待母亲。张氏病重，被休媳妇\n为做亲肉汤羹，食之立愈；适陈炳顺也高中归来，张氏乃悔不识贤良。",
@@ -144,7 +151,6 @@
       "label": "第一场",
       "characters_present": [
         "丫鬟",
-        "他一对小夫妻吾甚喜爱",
         "张氏",
         "沈氏",
         "炳义妻",
@@ -715,9 +721,7 @@
       "label": "第二场",
       "characters_present": [
         "炳顺妻",
-        "虽然老娘待你太狠",
-        "陈炳顺",
-        "高堂老母你孝顺"
+        "陈炳顺"
       ],
       "lines": [
         {
@@ -857,12 +861,8 @@
       "scene_index": 3,
       "label": "第三场",
       "characters_present": [
-        "一封休书忙写好",
         "丫鬟",
-        "今日将贤妻休弃了",
-        "倘若是违母命即为不孝",
         "张氏",
-        "无奈何且把牙咬",
         "陈炳顺"
       ],
       "lines": [

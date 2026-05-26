@@ -11,22 +11,26 @@
     {
       "name": "唐明皇",
       "role_type": "冠生",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "杨贵妃",
       "role_type": "五旦",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "高力士",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "永新",
       "role_type": "贴旦",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     }
   ],
   "plot_summary": "唐明皇宠爱杨贵妃后，冷淡了梅妃。一夕，偶召梅妃，重叙旧情。杨贵妃赶至，唐明皇托词有恙，需要静养。\n但被杨贵妃发觉了翠钿、凤舄，揭穿真相，于是惹下了爱情风波。唐明皇无奈，只得自认错误，好言慰之。",
@@ -85,7 +89,6 @@
       "scene_index": 1,
       "label": "全剧",
       "characters_present": [
-        "偶尔违和厌烦恼",
         "唐明皇",
         "太监",
         "宫娥",

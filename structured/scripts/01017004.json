@@ -13,72 +13,86 @@
     {
       "name": "刘备",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "蔡瑁",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "赵云",
       "role_type": "武生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "司马徽",
       "role_type": "末",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "伊籍",
       "role_type": "末",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "徐庶",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "蒯越",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "刘琦",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "刘琮",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "金旋",
       "role_type": "红净",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "刘度",
       "role_type": "副净",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "韩玄",
       "role_type": "末",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "赵范",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "二兵丁",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     }
   ],
   "plot_summary": "刘备依于荆州刘表处，寄居新野县。刘表后妻蔡氏暨妻弟蔡瑁，均嫉之，屡进谗言，意欲害刘备。一日，刘\n表大宴各郡官牧，因自己疾作，不克应酬，央刘备代做主人翁。蔡瑁乘此时机，暗伏甲士五百，拟于宴间杀\n之。刘备与赵云同来，赵云不离左右。众人惧其勇，不敢下手。蔡瑁命文聘、王威二人，将赵云调离，意谓\n可以逞志矣。不料伊籍有二心于刘备，尽情泄露。刘备推脱更衣，至后园跨马逃逸。得悉西、南、北三路俱\n有蔡氏兄弟把守，急出东门。而蔡瑁亲自领军追逐。前有檀溪阻隔，刘备所乘之马，名曰的卢。蒯越善相马，\n识得此马属千里名驹，终必妨主，不能骑乘，曾为刘表言之，刘备亦习闻此言。自信死生有定数，不族介\n怀。际此急迫之时，加鞭而祝曰：“的卢的卢，今日妨吾。”此马忽然涌身而起，一跃三丈，飞过对岸。刘\n备因此脱难。及赵云寻踪而至，将蔡瑁战败，蔡瑁退入城中。刘备过溪后，逦迤而行。遇水镜先生司马徽，\n邀入庄中，款留一宵。黎明时，赵云带领人马来迎，同回新野。",
@@ -629,16 +643,12 @@
       "scene_index": 3,
       "label": "第三场",
       "characters_present": [
-        "今天下刀兵起百姓遭困",
         "伊籍",
         "刘备",
         "刘度",
         "刘琦",
         "刘琮",
-        "劝列公今日里须要畅饮",
-        "惟有我荆襄地四十余郡",
         "文聘",
-        "王威",
         "赵云",
         "赵范",
         "金旋",
@@ -1842,25 +1852,9 @@
       "scene_index": 10,
       "label": "第十场",
       "characters_present": [
-        "他随我数年间颇能效命",
-        "倘能够得良佐兵权执掌",
         "刘备",
         "司马徽",
-        "周文王开国基全凭姜尚",
-        "小童",
-        "并不必到深山幽谷去问",
-        "想当年汉高皇把基业开创",
-        "我虽然才学浅无有大用",
-        "文孙乾和简雍",
-        "望求先生来指引",
-        "泥途中有蟠龙向天奔",
-        "深山岩谷备曾访尽",
-        "童儿与我把路引",
-        "童谣言八九年衰了运气",
-        "简雍辈书生一样",
-        "糜子仲",
-        "适才弹琴声音高大",
-        "那孙乾"
+        "小童"
       ],
       "lines": [
         {

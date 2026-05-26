@@ -14,32 +14,38 @@
     {
       "name": "高旺",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "杨八妹",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "高来",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "张保",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "鞑婆",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "张兰英",
       "role_type": "老旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     }
   ],
   "plot_summary": "宋，杨氏父子，为潘仁美所害。有部将高旺，愤权臣骄横，忠良屈死，弃其妻子，出关逃隐。后天堂六国叛\n宋，使佘太君率兵征之。太君使杨八妹乔扮男装，颁取高旺回国，以资臂助。高旺情不可却，允之。行至牧\n虎关，守关者即高旺之妻子，高旺不知也。高旺叫关，其子张保出见，不许过关。高旺辱骂，张保出与敌，\n败回关上。易其媳出战，使黑风帕困高旺，而高旺之黑风帕，更高三尺。一切法术，均为高旺破。高旺见女\n将袅袅婷婷，忽发狂态，以游词戏弄之，媳抱惭而回。旺抵关下，见城上一白发婆娑者，直呼己名。异而询\n之，始知即老妻也。高旺妻开关迎旺及八妹入，数年阔别，一旦聚首，悲喜交集。即唤子媳来见，高旺见媳\n大惭，高旺妻笑而解之。",
@@ -106,19 +112,9 @@
       "scene_index": 1,
       "label": "第一场",
       "characters_present": [
-        "你国为上我国为下",
-        "你爱愚兄黑风好",
-        "天堂六州贼反进",
-        "头一阵会见了黄花女",
-        "好黑风",
-        "宋王爷把开了从头看",
-        "我国的狼主宣战表",
         "杨八妹",
-        "第二阵会见了杨贤妹",
-        "花枪好",
         "高旺",
-        "高来",
-        "黄花女金殿挂帅印"
+        "高来"
       ],
       "lines": [
         {
@@ -1614,10 +1610,8 @@
       "scene_index": 2,
       "label": "第二场",
       "characters_present": [
-        "哪里有什么太平表",
         "张保",
         "杨八妹",
-        "松林内本是那杨贤妹",
         "高旺"
       ],
       "lines": [
@@ -2173,13 +2167,7 @@
       "scene_index": 4,
       "label": "第四场",
       "characters_present": [
-        "头上的青丝打成了结",
         "张保",
-        "扬州的香粉擦满的面",
-        "抬头看看了一个真",
-        "新黄旗上写大字",
-        "缩只缩只心头火",
-        "身穿一件鞑婆袄",
         "鞑婆",
         "高旺"
       ],

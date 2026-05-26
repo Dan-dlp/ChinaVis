@@ -14,57 +14,68 @@
     {
       "name": "燕青",
       "role_type": "武生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "任原",
       "role_type": "副净",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "宋江",
       "role_type": "末",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "吴用",
       "role_type": "末",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "林冲",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "花荣",
       "role_type": "武生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "李逵",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "秦明",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "王英",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "王宏",
       "role_type": "外",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "徒弟",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     }
   ],
   "plot_summary": "山西太原任原，绰号擎天柱（《缀白裘》称任金刚，脚本中称为赛金刚），在山东泰安州天齐庙内，摆设擂\n台。已将期满，迄无敌手。至是宋江、吴用探知彼期满之后，即将来平梁山，乃命燕小乙前去打擂。并命李\n逵、花荣、林冲、秦明、王英、戴宗、时迁及一班女将，潜行混入州城，暗中帮助接应。既而任原果被燕青\n打死。官军闻讯，四出追捕，亦被梁山众英雄战败，并射死其主将王宏而回。",
@@ -196,7 +207,6 @@
       "scene_index": 1,
       "label": "第一场",
       "characters_present": [
-        "下山去好一似黑煞神",
         "众上手",
         "众人",
         "吴用",
@@ -205,14 +215,11 @@
         "扈三娘",
         "李逵",
         "林冲",
-        "此番去往神州府",
         "燕青",
         "王英",
         "秦明",
         "花荣",
-        "若得成功回山转",
-        "顾大嫂",
-        "饶你有官兵千百万"
+        "顾大嫂"
       ],
       "lines": [
         {

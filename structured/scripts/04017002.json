@@ -13,42 +13,50 @@
     {
       "name": "寇准",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "寇夫人",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "赵德芳",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "潘洪",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "马牌",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "驿丞",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "班头",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "校尉",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "宋将杨继业，忠勇抗敌，因被主帅潘洪陷害，致粮尽援绝，碰死于李陵碑。其子杨延昭，进京告下御状。此\n案初由刘御史审问，因受潘妃（潘洪之女）贿赂，被八王赵德芳勘破，用金锏打死。宋王又调寇准进京复审。\n寇准时为县令，闻金牌急调，甚为疑惧，终宵不能成寐。陛见时，擢升为御史。潘妃又往行贿，寇准坚辞\n不受，并告之赵德芳。开审时潘洪甚为傲慢，且供词狡赖，坚不吐实。寇准乃佯言开脱其罪，另与赵德芳密\n议，设酒劝醉潘洪，假设阴曹，夤夜提审，诱以甘言，潘始实供，案情遂大白。",
@@ -200,9 +208,7 @@
         "四衙役",
         "寇准",
         "寇夫人",
-        "左右",
         "校尉",
-        "此一番老爷把京进",
         "院子",
         "马牌"
       ],
@@ -731,13 +737,9 @@
       "scene_index": 3,
       "label": "第三场",
       "characters_present": [
-        "他笑我寇准官职小",
-        "倘若是太夫人将你来问",
-        "倘若是少夫人将你来问",
         "太监",
         "宋王",
         "寇准",
-        "有才不在官大小",
         "赵德芳",
         "院子",
         "马牌",

@@ -13,37 +13,44 @@
     {
       "name": "刘备",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "太监",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "诸葛亮",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "刘永",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "刘理",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "赵云",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "马谡",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "刘备伐吴，中陆逊火攻之计，兵败白帝城，一病不起。乃派人调诸葛亮前来，托孤于诸葛亮，便死。",
@@ -102,17 +109,10 @@
       "scene_index": 1,
       "label": "全剧",
       "characters_present": [
-        "为此事不由孤我的珠泪滚滚",
         "刘备",
-        "刘永",
-        "刘理",
         "太监",
-        "烧得孤在火焰下四处奔命",
-        "烧得孤连营寨七百里整",
         "诸葛亮",
         "赵云",
-        "长坂坡曾救过阿斗小命",
-        "陆逊儿用诡计令人可恨",
         "马谡"
       ],
       "lines": [

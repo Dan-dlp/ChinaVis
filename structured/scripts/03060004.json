@@ -11,12 +11,14 @@
     {
       "name": "赵匡胤",
       "role_type": "红生",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "柴荣",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "柴荣见郭威，官封王位，便接赵匡胤同保郭威。弟兄花亭饮宴，池中鱼妖作怪，赵匡胤箭射之。郭威夜梦红\n脸大汉箭伤左眼。及见赵匡胤，正应梦兆，即欲斩之。经柴荣讨赦，赵匡胤戴罪往刺里刘化王。",
@@ -442,11 +444,7 @@
       "scene_index": 3,
       "label": "第三场",
       "characters_present": [
-        "劝贤弟从今后情性要改",
-        "弟兄们今相会好有一比",
-        "柴大哥比刘备仁义四海",
         "柴荣",
-        "董家桥打五虎各自分界",
         "赵匡胤",
         "院子"
       ],

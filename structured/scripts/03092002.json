@@ -11,17 +11,20 @@
     {
       "name": "钟无盐",
       "role_type": "刀马旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "吴起",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "齐宣王",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     }
   ],
   "plot_summary": "战国时，魏灵公欲加害齐宣王，因设湘江大会。吴起献计，与齐王较射。齐后钟无盐随齐宣王赴会，射死魏\n灵公，战败吴起，保齐宣王出险。",
@@ -642,11 +645,8 @@
       "scene_index": 4,
       "label": "第四场",
       "characters_present": [
-        "原来是小吴起巧计来献",
         "大太监",
         "晏婴",
-        "祝告神圣俱在上",
-        "迈步且把金殿上",
         "钟无盐",
         "齐宣王"
       ],
@@ -1495,7 +1495,6 @@
       "characters_present": [
         "众人",
         "吴起",
-        "在你国成亲有三载",
         "姬颜",
         "孙操",
         "报子",
@@ -2459,15 +2458,10 @@
       "scene_index": 7,
       "label": "第七场",
       "characters_present": [
-        "丫头若是起歹意",
         "众人",
         "关素真",
         "吴起",
-        "将台坐定齐天子",
-        "开弓先射齐天子",
         "田能",
-        "转面嘱咐姬千岁",
-        "金枪扎在尘埃地",
         "钟无盐",
         "齐宣王"
       ],

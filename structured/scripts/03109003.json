@@ -11,32 +11,38 @@
     {
       "name": "刘备",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "孙尚香",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "赵云",
       "role_type": "武生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "诸葛亮",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "周瑜",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "孙权",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "刘备入赘东吴后，每日歌舞宴乐，不思荆州，随去的赵云遵诸葛亮锦囊妙计，诈称曹操发兵攻荆州，刘备非\n常焦急，在取得了孙夫人支持后，借口到江边祭祖，携孙夫人偷回荆州。周瑜闻迅，几次派吴将追赶，均被\n孙夫人叱退；后周瑜亲自追赶，刘备为诸葛亮事先所派将领接应，安全地回到了荆州。",
@@ -477,7 +483,6 @@
         "关羽",
         "四文堂",
         "张飞",
-        "我与东吴仇如海",
         "诸葛亮"
       ],
       "lines": [
@@ -910,9 +915,6 @@
         "刘备",
         "孙尚香",
         "旗牌",
-        "祖父先人皆祭享",
-        "终朝不安深思量",
-        "要回荆襄恐阻挡",
         "赵云"
       ],
       "lines": [
@@ -1481,7 +1483,6 @@
       "scene_index": 4,
       "label": "第四场",
       "characters_present": [
-        "儿今随夫荆州去",
         "吴国太",
         "孙尚香"
       ],

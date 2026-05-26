@@ -11,32 +11,38 @@
     {
       "name": "关羽",
       "role_type": "红生",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "曹操",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "张辽",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "程昱",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "糜夫人",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "甘夫人",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     }
   ],
   "plot_summary": "关羽奉甘、糜二夫人进曹营，曹操厚待之，赐予锦袍。筵前，见关羽内穿锦袍，外罩旧袍，问其何故。关羽\n告以：旧袍乃兄长所赐，不敢得新而忘旧。曹操又赠以赤兔马，关羽大礼相谢。曹操怪而问之，关羽答以蒙\n赐良骥，得知兄长下落，一日可见。曹操乃知关羽去心甚坚，难以动摇。",
@@ -107,15 +113,8 @@
       "scene_index": 1,
       "label": "第一场",
       "characters_present": [
-        "乐进",
-        "夏侯惇",
         "张辽",
-        "徐晃",
-        "曹仁",
-        "曹操",
-        "曹洪",
-        "李典",
-        "许褚"
+        "曹操"
       ],
       "lines": [
         {
@@ -654,18 +653,10 @@
       "scene_index": 4,
       "label": "第四场",
       "characters_present": [
-        "乐进",
         "关羽",
-        "夏侯惇",
-        "将身且坐宝帐上",
         "张辽",
-        "徐晃",
-        "曹仁",
         "曹操",
-        "曹洪",
-        "李典",
-        "程昱",
-        "许褚"
+        "程昱"
       ],
       "lines": [
         {
@@ -901,7 +892,6 @@
       "characters_present": [
         "关羽",
         "四文堂",
-        "将身来在宝帐等",
         "曹操",
         "程昱",
         "马童"

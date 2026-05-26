@@ -13,32 +13,38 @@
     {
       "name": "谢琼仙",
       "role_type": "生",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "傅人龙",
       "role_type": "武生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "酒保",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "差官甲",
       "role_type": "副净",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "差官乙",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "方氏",
       "role_type": "彩旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     }
   ],
   "plot_summary": "剧中事实，会有谢琼仙者，缙绅门第，君子小人之途，颇知辨别。至京师探亲，在旅馆中识一侠士傅人龙，\n深相结纳，时常聚首，杯酒言欢。一日独自闲游，入酒楼小饮，不觉酩酊。兴阑返寓，经过端礼门，醉眼模\n糊，见有物矗立道旁，阻住去路。细审之，则一石碑。读其文字，始知为党人碑。是小人之作为，籍以倾陷\n君子者。不禁怒发冲冠，拳足交加，碑乃倒地而断矣。看守之军卒，阻止不及。谢琼仙遂捉将官里去。蔡京\n命锁解枢密院童贯处，使之罗织罪名。童贯与蔡京实表里为奸者也。傅人龙因数日不见谢琼仙，疑惑不定，\n往酒楼解闷。与堂倌闲谈，提及醉汉打碑之事，问其姓名，以不知对；但云年少书生，在此独酌，身无钱钞，\n解一玉珮暂抵。傅人龙命取来一看，认出谢琼仙之物，乃大惊；急往枢密院，探听消息。适值相府差官，\n手捧令箭，来提犯人。傅人龙虚与周旋，两相契合；邀入妓馆中，用酒灌醉，盗得令箭。竟将谢琼仙诳出，\n一同逃逸。演至此遂闭幕焉。",
@@ -481,11 +487,7 @@
       "scene_index": 2,
       "label": "第二场",
       "characters_present": [
-        "任凭是龙潭虎穴阱",
         "傅人龙",
-        "左思右想心不定",
-        "此番到帅府将他问",
-        "玉珮是他的传家品",
         "酒保",
         "龙套"
       ],
@@ -1265,12 +1267,10 @@
       "scene_index": 3,
       "label": "第三场",
       "characters_present": [
-        "乔装改扮军官样",
         "二差官",
         "傅人龙",
         "差官乙",
-        "差官甲",
-        "迈开大步朝前跑"
+        "差官甲"
       ],
       "lines": [
         {
@@ -1693,7 +1693,6 @@
         "差官乙",
         "差官甲",
         "方氏",
-        "杀身大祸怎逃过",
         "禁卒",
         "谢琼仙"
       ],

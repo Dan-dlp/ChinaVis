@@ -11,37 +11,44 @@
     {
       "name": "周瑜",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "鲁肃",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "曹仁",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "诸葛亮",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "刘备",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "赵云",
       "role_type": "武生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "张飞",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "孙、刘联军，赤壁破曹以后，周瑜因用兵失算，虽耗费大量军马钱粮，方始获胜；但南郡、荆、襄等城池，\n却为诸葛亮用计取去。",
@@ -464,11 +471,7 @@
       "scene_index": 1,
       "label": "第一场",
       "characters_present": [
-        "一同去到营门等",
-        "你我兵微难战胜",
         "刘备",
-        "周郎来意难断定",
-        "大江之中用火胜",
         "孙乾",
         "诸葛亮",
         "赵云"
@@ -962,18 +965,10 @@
       "label": "第二场",
       "characters_present": [
         "丁奉",
-        "借此除害保国本",
         "吕蒙",
-        "吩咐兵将向前进",
         "周瑜",
         "徐盛",
         "甘宁",
-        "用计说他不归顺",
-        "细想玄德悔又恨",
-        "自古两雄不相并",
-        "舌战群儒发妙论",
-        "草船借箭妙得紧",
-        "这些事儿巧计定",
         "鲁肃"
       ],
       "lines": [
@@ -1535,20 +1530,15 @@
       "scene_index": 4,
       "label": "第四场",
       "characters_present": [
-        "一同后帐暗计较",
         "丁奉",
-        "东吴耗费已非小",
-        "事前必须直言告",
         "关羽",
         "刘备",
         "刘封",
         "吕蒙",
         "周瑜",
         "四文堂",
-        "屯兵江口安排好",
         "张飞",
         "徐盛",
-        "收取南郡所必要",
         "甘宁",
         "诸葛亮",
         "赵云",
@@ -2978,16 +2968,10 @@
       "label": "第五场",
       "characters_present": [
         "丁奉",
-        "三军扎营再计较",
-        "不杀玄德事还小",
-        "况且孔明多计巧",
-        "只怕都督入圈套",
         "周瑜",
         "四大铠",
         "四龙套",
-        "如今许他去征讨",
         "徐盛",
-        "未必甘心不争闹",
         "蒋钦",
         "鲁肃"
       ],

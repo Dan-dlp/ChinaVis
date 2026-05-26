@@ -11,27 +11,32 @@
     {
       "name": "关羽",
       "role_type": "红生",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "鲁肃",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "周仓",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "关平",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "孙权",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "孙权因刘备久借荆州不还，命诸葛瑾前往索取，刘备佯允以长沙、零陵、桂阳三郡抵还，命去荆州关羽处商\n割。关羽不与。鲁肃设宴诓请关羽过江，关羽明知有诈，只携周仓一人，单刀赴会；席间历述战功，威势凛\n然。鲁肃讨索荆州，关羽佯醉，一手持剑，一手执鲁肃，驾一叶小舟，安然返回荆州。",
@@ -1194,17 +1199,12 @@
       "scene_index": 4,
       "label": "第四场",
       "characters_present": [
-        "不看军师诸葛亮",
-        "傅士仁",
         "关平",
         "关羽",
         "廖化",
         "报子",
-        "王甫",
-        "糜芳",
         "诸葛瑾",
         "赵累",
-        "这荆州原本是关某执掌",
         "马良"
       ],
       "lines": [
@@ -1999,13 +1999,10 @@
       "scene_index": 6,
       "label": "第六场",
       "characters_present": [
-        "傅士仁",
         "关平",
         "关羽",
         "周仓",
         "廖化",
-        "王甫",
-        "糜芳",
         "赵累",
         "马良",
         "黄文"

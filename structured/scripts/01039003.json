@@ -11,67 +11,80 @@
     {
       "name": "周瑜",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "鲁肃",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "诸葛亮",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "曹仁",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "陈矫",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "刘备",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "赵云",
       "role_type": "武生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "张飞",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "关平",
       "role_type": "生",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "刘封",
       "role_type": "生",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "牛金",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "曹洪",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "曹纯",
       "role_type": "生",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     }
   ],
   "plot_summary": "此三、四本，则自诸葛亮暗中发兵，授计张飞、赵云，往伏南郡城外，乘机袭取起；一面即接演周瑜被伤养\n息，曹兵屡屡骂阵，吴军诸将皆有退志，周瑜奋起出马，假装气激而死，用计诱令劫营，吴兵四面伏出，夹\n攻曹兵，杀得曹仁大败而回等一大段。吴军颇称得手，岂知此时，早被张飞、赵云，一个夺得南郡城，一个\n擒得陈大夫；而刘备、诸葛亮等，亦相继安然进了南郡城池矣。非但如此，且马上用陈矫手中兵符印信，往\n调荆、襄二郡夏侯尚、夏侯惇等，出兵来救南郡。夏侯尚、夏侯惇二人，果被诱出；荆州、襄阳，遂亦为张\n飞、关公所袭得而镇守（脚本中诸葛亮发令时，用关平不用关公，并非错误；盖由于伶界中敬尊关公之心理，\n不敢用其名以被人调遣之故）。及至周瑜军乘势临城，欲一鼓夺取，则遥望城头上，巍然直立者，早已变\n为常山赵子龙矣。此一气真是气得可怜；虽大骂诸葛村夫，也是无用。四本演至此为止。",
@@ -285,7 +298,6 @@
       "scene_index": 1,
       "label": "第一场",
       "characters_present": [
-        "四上手",
         "四龙套",
         "张飞"
       ],
@@ -397,16 +409,8 @@
       "scene_index": 2,
       "label": "第二场",
       "characters_present": [
-        "五千人马你带定",
-        "但愿荆襄归吾掌",
         "刘备",
-        "周瑜此番兴兵往",
-        "周郎带兵南郡往",
-        "已命翼德南郡往",
-        "张二奸党",
-        "恼恨蔡",
         "诸葛亮",
-        "谅周郎难取荆襄城",
         "赵云"
       ],
       "lines": [
@@ -839,10 +843,8 @@
         "吕蒙",
         "周泰",
         "周瑜",
-        "徐盛",
         "甘宁",
         "程普",
-        "蒋钦",
         "鲁肃"
       ],
       "lines": [
@@ -1278,7 +1280,6 @@
       "scene_index": 5,
       "label": "第五场",
       "characters_present": [
-        "四上手",
         "四龙套",
         "赵云"
       ],
@@ -1392,9 +1393,7 @@
       "characters_present": [
         "吕蒙",
         "周泰",
-        "惟有一事在我心",
         "报子",
-        "毒箭之伤固然重",
         "甘宁",
         "程普",
         "鲁肃"
@@ -2322,8 +2321,6 @@
       "scene_index": 8,
       "label": "第八场",
       "characters_present": [
-        "周瑜中箭病必狠",
-        "四下手",
         "四龙套",
         "曹仁",
         "陈矫"
@@ -2462,7 +2459,6 @@
       "characters_present": [
         "周泰",
         "周瑜",
-        "四下手",
         "四龙套",
         "曹仁"
       ],

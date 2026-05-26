@@ -11,17 +11,20 @@
     {
       "name": "胡松亭",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "魏不饱",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "丑院子",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     }
   ],
   "plot_summary": "魏不饱染鸦片烟疾，死后去见好友胡松亭，接其往生。",
@@ -204,19 +207,6 @@
       "scene_index": 2,
       "label": "第二场",
       "characters_present": [
-        "今日里遵玉旨将你来看",
-        "你",
-        "你今到此有何公干",
-        "你休要想不开脱离此难",
-        "你自顾吃大烟自觉好看",
-        "到阴司不治罪仍住烟馆",
-        "劝大哥休害怕切莫惊战",
-        "南北斗注上册早已定限",
-        "及早地随小弟天宫回转",
-        "叫鬼卒快引我把故友相见",
-        "好朋友把此事将人解劝",
-        "懵懂人他必然以此为怨",
-        "曾记得那时节同往烟馆",
         "胡松亭",
         "魏不饱"
       ],

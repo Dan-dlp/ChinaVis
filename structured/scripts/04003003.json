@@ -13,37 +13,44 @@
     {
       "name": "黄忠",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "严颜",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "夏侯渊",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "诸葛亮",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "夏侯尚",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "张郃",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "刘备",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "蜀老将黄忠，当曹操攻打西蜀重镇葭萌关时，发挥老当益壮的精神，向诸葛亮讨令拒敌，打退了敌将张郃，\n乘胜攻占了曹军屯粮的天荡山，又再接再厉地用计斩了曹军大将夏侯渊，夺取了曹军大本营所在的定军山。",
@@ -178,7 +185,6 @@
       "label": "第一场",
       "characters_present": [
         "严颜",
-        "二位老将齐上马",
         "众人",
         "张著",
         "诸葛亮",
@@ -2044,8 +2050,6 @@
       "scene_index": 9,
       "label": "第九场",
       "characters_present": [
-        "催马来在阵头上",
-        "虽然年迈精神爽",
         "韩浩",
         "黄忠"
       ],
@@ -2189,7 +2193,6 @@
       "label": "第十场",
       "characters_present": [
         "严颜",
-        "催马来在山坡上",
         "夏侯德"
       ],
       "lines": [

@@ -11,22 +11,26 @@
     {
       "name": "陈宫",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "曹操",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "吕伯奢",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "店家",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     }
   ],
   "plot_summary": "曹操谋刺董卓未成逃走，董卓下信捕拿，曹操逃至中牟县为关吏所获。县令陈宫敬曹操忠直，私行释放，弃\n官同逃，路遇曹操父执吕伯奢加以款待，曹操心疑，杀死吕伯奢及其全家。陈宫怨曹操不仁，乘夜弃曹操而\n去。",
@@ -88,14 +92,8 @@
       "scene_index": 1,
       "label": "第五场：行路",
       "characters_present": [
-        "七品的郎官成何样",
-        "中牟县入罗网",
         "吕伯奢",
-        "孟德抬头四下望",
-        "孟德若非你释放",
         "曹操",
-        "羊入虎口无处往",
-        "若不是公台将我放",
         "陈宫",
         "院子"
       ],

@@ -13,37 +13,44 @@
     {
       "name": "诸葛亮",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "司马懿",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "司马师",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "司马昭",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "赵云",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "老军甲",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "老军乙",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     }
   ],
   "plot_summary": "三国时，马谡死读兵书中“置之死地而后生”一语，不听诸葛亮之言，扎营山头，被司马懿率兵围困，水泄\n不通，遂失街亭。司马懿复带四十万雄兵直抵西城，时诸葛亮守城，兵微将寡，欲战不能，欲走不可。作空\n城之计，大开四门，自领二童，坐城楼，酌酒扶琴，谈笑自若。司马懿一见，惊疑不已。细听琴声，安闲怡\n静，始终不乱，恐是诱敌之计，不敢进城，竟退兵四十余里。诸葛亮乃得乘机调赵云等来西城，而自回汉中。",
@@ -842,26 +849,14 @@
       "scene_index": 4,
       "label": "第四场",
       "characters_present": [
-        "一来是马谡无谋少学问",
         "二老军",
         "众人",
-        "你休要胡思乱想心不定",
-        "你的计策休瞒我",
         "司马懿",
         "司马昭",
-        "左右琴童人两个",
-        "左右琴童来捧酒",
-        "我也曾命人去打听",
-        "我本当传将令杀进城",
-        "旌旗招展空翻影",
-        "有人若把西城进",
         "老军乙",
         "老军甲",
         "诸葛亮",
-        "诸葛亮在城楼把驾等",
-        "赵云",
-        "进得城来无别敬",
-        "连得我三城多侥幸"
+        "赵云"
       ],
       "lines": [
         {
@@ -1723,7 +1718,6 @@
       "scene_index": 5,
       "label": "第五场",
       "characters_present": [
-        "司马师",
         "司马懿",
         "司马昭",
         "报子",

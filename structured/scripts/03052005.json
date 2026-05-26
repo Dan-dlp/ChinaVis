@@ -11,22 +11,26 @@
     {
       "name": "银鱼仙姑",
       "role_type": "武旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "二郎神",
       "role_type": "武生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "海瑞",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "周仓",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "鱼精兴风作浪，海瑞运粮受阻，祷于金顶山玄天大帝。玄天大帝命周仓、二郎神降妖护粮，鱼精被擒。",
@@ -110,10 +114,7 @@
       "label": "第一场",
       "characters_present": [
         "二期牌",
-        "四红大铠",
-        "四红文堂",
-        "海瑞",
-        "门子"
+        "海瑞"
       ],
       "lines": [
         {
@@ -302,8 +303,7 @@
       "label": "第二场",
       "characters_present": [
         "海瑞",
-        "老道",
-        "耳边厢又听得有人喧嚷"
+        "老道"
       ],
       "lines": [
         {
@@ -681,14 +681,11 @@
       "label": "第三场",
       "characters_present": [
         "二郎神",
-        "八神将",
         "关平",
         "周仓",
         "海瑞",
         "玄天大帝",
-        "老道",
-        "蛇将",
-        "龟将"
+        "老道"
       ],
       "lines": [
         {
@@ -1071,12 +1068,8 @@
       "scene_index": 4,
       "label": "第四场",
       "characters_present": [
-        "癞团精",
-        "虾米精",
-        "螺蛎精",
         "银鱼仙姑",
-        "银鱼大仙",
-        "黑鱼精"
+        "银鱼大仙"
       ],
       "lines": [
         {
@@ -1201,9 +1194,7 @@
       "scene_index": 5,
       "label": "第五场",
       "characters_present": [
-        "周仓",
-        "四黑大铠",
-        "四黑文堂"
+        "周仓"
       ],
       "lines": [
         {
@@ -1326,9 +1317,7 @@
       "scene_index": 6,
       "label": "第六场",
       "characters_present": [
-        "周仓",
-        "四黑大铠",
-        "四黑文堂"
+        "周仓"
       ],
       "lines": [
         {
@@ -1445,9 +1434,7 @@
       "label": "第七场",
       "characters_present": [
         "二郎神",
-        "八神将",
         "关平",
-        "四云童",
         "黄毛童"
       ],
       "lines": [
@@ -1637,8 +1624,6 @@
       "label": "第九场",
       "characters_present": [
         "二郎神",
-        "八神将",
-        "四云童",
         "黄毛童"
       ],
       "lines": [

@@ -13,17 +13,20 @@
     {
       "name": "小姐",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "公子",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "丫鬟",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     }
   ],
   "plot_summary": "此剧系从昆剧《花园赠塔》剧翻演而出。本系《珍珠塔》弹词中事实，惟亦稍有不同处。全剧颇极简略，并\n无曲折。仅倩丫鬟彩屏，往请公子到园，当面赠以明珠一颗，并嘱努力试事，冀得高掇巍科而已。",
@@ -66,10 +69,7 @@
       "characters_present": [
         "丫鬟",
         "公子",
-        "她本是千金女必真不假",
-        "小姐",
-        "我这里正行走用目观看",
-        "适才间与表妹一同讲话"
+        "小姐"
       ],
       "lines": [
         {

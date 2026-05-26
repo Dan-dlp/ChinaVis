@@ -14,37 +14,44 @@
     {
       "name": "关羽",
       "role_type": "红生",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "曹操",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "刘备",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "诸葛亮",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "刘封",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "刘禅",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "许靖",
       "role_type": "末",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     }
   ],
   "plot_summary": "此剧自《三国演义》七十二回中，曹操兵退斜谷一役始，至七十六回关公败走麦城止。中间略去水淹七军、\n降于禁、擒庞德一段。全剧共包括“五界山刘、曹会阵”、“曹操败斜谷、弃汉中”、“玄德进位汉中王”、\n“魏遣满宠至吴游说，离间孙刘”、“诸葛瑾过江，为孙权向关公求婚不成被辱”、“关公受命出师攻襄\n阳”、“夺傅士仁、糜芳先锋职，令留守公安南郡”、“关公夜梦大猪咬伤左足”、“关公一鼓下襄阳，围\n曹仁于樊城”、”命王甫沿江筑烽火台”、“吴命吕蒙规取荆州”、“关公左臂中弩箭（演义做右臂，非是），\n华佗刮骨疗毒”、“吕蒙装病，陆逊代吕蒙守陆口”、“吕蒙兵白衣渡江，拆烽火台，偷袭荆州”、\n“傅士仁、糜芳以二郡降吴”、“徐功明大战沔水，解樊城围”、“关公引军退向荆州，中途兵变，三百余骑\n入麦城”、“廖化夺围奔上庸乞救，不遂”、“诸葛瑾来劝降”、“关公父子夜半走麦城，奔临沮，途中遇\n害”及“周仓、王甫、赵累三人同殉难”等情节。",
@@ -1240,13 +1247,11 @@
       "label": "第三场",
       "characters_present": [
         "乐进",
-        "侵吞疆土理不顺",
         "刘备",
         "刘封",
         "夏侯惇",
         "张郃",
         "徐晃",
-        "心怀叛逆该何罪",
         "曹仁",
         "曹操",
         "曹洪",
@@ -1669,7 +1674,6 @@
         "孟达",
         "张飞",
         "李严",
-        "法正",
         "许靖",
         "诸葛亮",
         "费诗",

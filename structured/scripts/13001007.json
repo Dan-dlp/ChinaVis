@@ -11,22 +11,26 @@
     {
       "name": "庄周",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "张从",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "老路人",
       "role_type": "外",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "少路人",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     }
   ],
   "plot_summary": "有青年名张从者，囊金行路，过善宝庄，遇着两个强盗，抢去行囊，戕其生命。惟有金钱一枚，难于均分，\n二人遂起争执，忽闻有行人嗽声，始骇然舍钱而去。钱入死者口中衔住。二行人一老一少，行近见此金钱，\n欲即取出，奈此骷髅衔的甚紧，取之不易，乃执斧凿敲而求之。恰值庄周路过此处，问悉情由，劝其勿敲。\n二人则要求庄周赏给金钱一枚，以为“不敲”之代价。庄周只得化一金钱予之，岂料二人得步进步，婪索不\n已。庄生知不可理喻，只得唤来猛虎，吓走二人，又施法术，救起张从，张从不知救命之恩，反诬赖庄周盗\n了他的行囊包囊，拖住南华县起诉追贼。",
@@ -87,7 +91,6 @@
       "scene_index": 1,
       "label": "全剧",
       "characters_present": [
-        "三扇君子四体摆",
         "二强盗",
         "少路人",
         "庄周",

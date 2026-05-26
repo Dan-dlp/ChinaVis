@@ -11,22 +11,26 @@
     {
       "name": "沙僧",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "孙悟空",
       "role_type": "武生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "唐僧",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "猪八戒",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "玉帝侍卫卷帘大将，因在蟠桃会上打破玻璃盏，谪降流沙河。曾奉南海观音法谕：日后唐僧往西天取经，应\n皈依佛法，以赎前愆。唐三藏率徒至流沙河，水宽难渡。卷帘大将与猪八戒、孙悟空屡斗不胜，潜匿水底，\n使唐三藏等无法渡河。孙悟空往见观音菩萨，差遣天将收服，并赐法名沙悟净，保护唐三藏西行。",
@@ -247,7 +251,6 @@
       "characters_present": [
         "唐僧",
         "孙悟空",
-        "心猿牢锁绳休解",
         "沙僧",
         "猪八戒"
       ],
@@ -841,11 +844,8 @@
       "scene_index": 4,
       "label": "第四场",
       "characters_present": [
-        "他的膂利千斤大",
         "八水卒",
-        "只因吴刚来伐下",
         "小妖",
-        "此番定将他拿下",
         "沙僧",
         "猪八戒"
       ],
@@ -1594,20 +1594,9 @@
       "scene_index": 8,
       "label": "第八场",
       "characters_present": [
-        "伽蓝",
-        "哪吒",
-        "唐三藏去西天路经此境",
-        "善才",
-        "四云童",
         "孙悟空",
         "木吒",
-        "灵官",
-        "玄坛",
-        "白虎",
-        "观音菩萨",
-        "金吒",
-        "青龙",
-        "龙女"
+        "观音菩萨"
       ],
       "lines": [
         {
@@ -2015,17 +2004,10 @@
       "scene_index": 10,
       "label": "第十场",
       "characters_present": [
-        "伽蓝",
-        "哪吒",
         "唐僧",
         "孙悟空",
         "木吒",
-        "沙僧",
-        "灵官",
-        "玄坛",
-        "白虎",
-        "金吒",
-        "青龙"
+        "沙僧"
       ],
       "lines": [
         {

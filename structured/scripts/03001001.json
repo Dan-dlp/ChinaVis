@@ -13,22 +13,26 @@
     {
       "name": "楚庄王",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "斗越椒",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "公子茷",
       "role_type": "武生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "斗贲凰",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "春秋时代，楚庄王兴兵伐郑，派斗越椒为帅，公子茷为副。斗越椒和公子茷素有间隙。公子茷争功先行，被\n郑将公子坚围困在米注山；斗越椒按兵不动，公子茷跳涧自杀。回师后，楚庄王怒责越椒，摘取他的司马剑\n印，交蔿贾执掌。陆国犯境，楚庄王亲自出征，命蔿贾留守，防备斗越椒叛乱。",
@@ -125,8 +129,6 @@
       "label": "第一场",
       "characters_present": [
         "乐伯",
-        "令军前去把贼镇",
-        "但愿得此去把贼扫",
         "公子茷",
         "斗越椒",
         "楚庄王",
@@ -845,7 +847,6 @@
         "公子茷",
         "四将",
         "家院",
-        "撩铠甲迈虎步把二堂进",
         "茷妻"
       ],
       "lines": [
@@ -2092,11 +2093,8 @@
         "公子坚",
         "公子茷",
         "四上手",
-        "弃枪抛戈下金镫",
         "斗贲凰",
         "斗越椒",
-        "越椒与我有仇恨",
-        "这时血气忒用尽",
         "郑兵"
       ],
       "lines": [

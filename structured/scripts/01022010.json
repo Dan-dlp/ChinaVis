@@ -13,42 +13,50 @@
     {
       "name": "马援",
       "role_type": "外",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "马洪",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "马夫人",
       "role_type": "老旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "耿弇",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "耿龙",
       "role_type": "副净",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "耿虎",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "酒保",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "番婆",
       "role_type": "武旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     }
   ],
   "plot_summary": "王莽篡汉以后，马援为之镇守昆阳。光武兵至，马援坐困孤城，命子马洪哨探敌情。马洪见汉兵势大，遂降\n于光武。回告其父，马援怒欲斩之，推出辕门。适值马武、姚期、黄霸、冯异在酒楼叙饮，闻知此事，将马\n洪劫去。马援追出城外，又遇耿弇父子在荒村打猎，上前拦阻，互相用武。马援为耿弇所败，意欲回马入城，\n而城已被邓禹袭取。邓禹劝马援归顺，且遣其子出迎之。马援欣然允从，入拜光武。忽接探报，番邦犯境，\n大将牛毛领兵杀来，已离昆阳不远。光武命马援为元帅，耿弇副之，马洪为先行官，亦起兵御敌。马援用\n火攻围烧，番邦从此不复反矣。",
@@ -156,7 +164,6 @@
       "label": "第一场",
       "characters_present": [
         "中军",
-        "人言刘秀是真龙降",
         "马夫人",
         "马援",
         "马洪"
@@ -820,9 +827,7 @@
       "scene_index": 3,
       "label": "第三场",
       "characters_present": [
-        "耿弇",
-        "耿虎",
-        "耿龙"
+        "耿弇"
       ],
       "lines": [
         {

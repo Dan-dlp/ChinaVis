@@ -14,42 +14,50 @@
     {
       "name": "花云",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "陈友谅",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "朱文信",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "孙氏",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "大夫人",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "花安",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "陈友杰",
       "role_type": "副净",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "手下",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     }
   ],
   "plot_summary": "元末天下纷争，群雄四起，各据一方。花云从朱文信据守皖之太平城，旋为江西陈友谅所困。陈兵方攻夺采\n石矶要隘。花云见敌兵势大，众寡不敌，拟暂坚守，暗出乞援，且逆料彼兵劳师远出，利在速战，若令顿兵\n坚城之下，则师久必老，待其师老气衰而击之，当可转危为安。孰意朱文信不从，定欲令其出战，以挫其锋。\n花云不得已，乃出临阵，究为所败。花云愤朱文信不从己言，知难支持，遂回家令妻自尽，以免被辱，并\n令其妾负子装疯逃出，以全其后。既将家事摒挡讫，于是乃与朱文信共出死战，卒为所擒。迨既被缚，朱文\n信询花云见陈友谅时作如何态度，花云嘱其万不可作乞怜语，“大丈夫须宁死不屈”云云。孰意朱文信犹豫\n不决，迨见陈友谅，竟伏地乞降，而花云则强立不跪。讵陈友谅见之，于花云则深爱其才，降座劝降；于朱\n文信则反讥诮数语，立加诛杀。花云见朱文信被害，益大骂不绝口，虽陈友谅再三以爵位相羁縻，而卒不为\n动。陈友谅见理劝不从，乃以威吓，令将花云缚置高竿，命乱箭射之。花云至此，乃心生一计，伪称愿降。\n陈友谅大喜，急命释缚优待，孰料花云既下竿，突然夺刀乱杀，拟侥幸夺出，别寻生路，以图再举报复。然\n卒不能如愿，至力竭，乃自刎而死，然其尸犹屹立不动，至陈友谅拜祭后始倒地焉。或谓此花云，即《梵王\n宫》中私誓订婚之花云，此即应其誓言也。",
@@ -1129,13 +1137,8 @@
       "scene_index": 10,
       "label": "第十场",
       "characters_present": [
-        "你若不念夫妻意",
-        "你若念在夫妻义",
-        "使一个眼色你快逃走",
         "孙氏",
-        "舍死忘生将他认",
-        "花云",
-        "认得他是儿夫样"
+        "花云"
       ],
       "lines": [
         {
@@ -1352,15 +1355,9 @@
       "scene_index": 11,
       "label": "第十一场",
       "characters_present": [
-        "一个站来一个跪",
         "军师",
-        "我若是不降陈友谅",
-        "我若是降了陈友谅",
-        "无奈何只得跪宝帐",
         "朱文信",
-        "纵然将你我的头割下",
         "花云",
-        "进得帐去高声骂",
         "陈友杰",
         "陈友谅"
       ],

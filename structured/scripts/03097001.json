@@ -11,22 +11,26 @@
     {
       "name": "伍奢",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "楚平王",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "费无极",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "孟嬴",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     }
   ],
   "plot_summary": "春秋时诸侯争霸，临潼斗宝，楚以伍员力举千斤逞胜。秦王因以孟嬴公主许婚楚太子建。及迎娶，楚平王听\n信谗言，父纳子妻。太傅伍奢力谏不听，反遭缧绁。时伍奢子伍尚、伍员镇守棠邑，楚平王为斩草除根，逼\n迫伍奢修书调子\n“受封”。伍奢虽知是计，但为保全“三代忠良”之名，遂发书。书至棠邑，伍员识破底细，连夜逃脱；伍\n尚进京，全家被斩。",
@@ -501,11 +505,9 @@
       "label": "第三场",
       "characters_present": [
         "伍员",
-        "伍员妻",
         "伍夫人",
         "伍奢",
         "伍尚",
-        "伍尚妻",
         "四龙套",
         "院子"
       ],
@@ -1148,15 +1150,10 @@
       "scene_index": 5,
       "label": "第五场",
       "characters_present": [
-        "但愿得好姻缘缔系红线",
         "公子虎",
-        "四大铠",
-        "四朝官",
         "四龙套",
         "孟嬴",
         "宫女甲",
-        "望云峦和雾岭羊肠曲坂",
-        "蓦想起在宫闱绮罗娇惯",
         "费无极"
       ],
       "lines": [
@@ -1387,12 +1384,8 @@
       "scene_index": 6,
       "label": "第六场",
       "characters_present": [
-        "事已至此应允了",
-        "只因爹娘亡故早",
-        "可惜她的花容貌",
         "孟嬴",
         "旗牌",
-        "秦君见我无倚靠",
         "费无极",
         "驿丞",
         "齐女"

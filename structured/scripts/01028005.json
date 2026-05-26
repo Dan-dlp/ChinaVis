@@ -11,42 +11,50 @@
     {
       "name": "李三娘",
       "role_type": "正旦",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "刘智远",
       "role_type": "正生",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "刘氏",
       "role_type": "丑旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "窦有功",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "送子观音",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "张仙",
       "role_type": "生",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "护法",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "二衙役",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     }
   ],
   "plot_summary": "刘智远（即五代时之后汉高祖）生有膂力，出身贫苦，少年时为李氏赘婿。妻名三娘，性极柔懦。夫妇二人，\n互相敬爱。依李氏为生活。自岳父母去世后，合家遂加白眼。其内嫂刘氏，尤为悍妬泼辣，外号人称一丈\n青。执掌家务，屡嫌刘智远夫妇坐食，忿不能平。适刘智远于后园石匣内，夺得妖魔守护之金盔金甲，并梅\n花点钢枪，乃往邠州投军，以图远大事业。李三娘一人在家，刘氏更无忌惮，虐待殊甚。一切奴婢应为之事，\n均以李三娘任之。每日工作之外，又欲磨面粉若干，稍有不足，鞭打立至。明知李三娘受孕，亦不肯放松\n一步。日复一日，李三娘腹中震动，在磨房内产生一子。凡初生者，必有脐带牵连，不得剪刀，用齿咬断\n（后为隐帝小说家所称咬脐郎是也）。刘氏一见，毒念顿萌，定欲绝其根株。遂于李三娘怀中，偷去小孩，抛\n弃后园池畔。幸遇邻居窦老救起，密告李三娘。亲送至邠州。其时刘智远立有军功，趋升显职。窦老将李三\n娘所遭困厄，略陈梗概。刘智远莫名感谢，厚待窦老焉。",
@@ -126,29 +134,13 @@
       "scene_index": 1,
       "label": "第一场",
       "characters_present": [
-        "一阵狂风到亭下",
-        "也能呼风并唤雨",
-        "你今晚要孩子万万不能",
-        "你当是发慈悲救苦救难",
-        "倘得荣华回故里",
         "刘智远",
         "刘氏",
-        "千不是万不是是我不是",
-        "只为花园得了盔和甲",
-        "只因上方朝玉帝",
-        "后花园看守刘高盔和甲",
-        "夫妻说到伤心处",
         "妖精",
         "张仙",
-        "我说的言和语牢牢紧记",
         "护法",
         "李三娘",
-        "自今邠州去投军",
-        "荣华富贵虽要紧",
-        "辞别我妻跨金蹬",
-        "送子观音",
-        "骂声嫂嫂你心太狠",
-        "鳖羔子要抛在花园池内"
+        "送子观音"
       ],
       "lines": [
         {
@@ -1766,11 +1758,6 @@
       "scene_index": 2,
       "label": "第二场",
       "characters_present": [
-        "产生婴儿无人救",
-        "又喜得刘贵人有了后代",
-        "婴儿的性命不能害",
-        "忍泪走向前旁去",
-        "悲悲切切往前走",
         "李三娘",
         "窦有功"
       ],

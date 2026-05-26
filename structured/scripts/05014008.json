@@ -11,17 +11,20 @@
     {
       "name": "赵云",
       "role_type": "武生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "孙尚香",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "张飞",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "孙权屡讨荆州不得，知刘备入川，乃用张昭之计，差心腹周善赴荆州，伪称母病，接孙夫人携阿斗归宁，欲\n以阿斗为质，换取荆州。孙夫人不察，登舟。赵云得知，驾舟追赶，跃上大船，夺回阿斗；张飞踵至，杀死\n周善，同保阿斗回荆州。",
@@ -149,15 +152,10 @@
       "scene_index": 2,
       "label": "第二场",
       "characters_present": [
-        "上写为娘修书信",
-        "为母得了思儿病",
-        "低下头来自思忖",
         "周善",
         "四宫女",
         "太监",
-        "孙尚香",
-        "皇叔不在荆州郡",
-        "看罢书信心难忍"
+        "孙尚香"
       ],
       "lines": [
         {
@@ -899,18 +897,10 @@
       "scene_index": 8,
       "label": "第八场",
       "characters_present": [
-        "今日过江探母病",
-        "君臣无有安身处",
         "周善",
-        "娘娘若去留太子",
         "孙尚香",
-        "将身跳在船舱外",
         "张飞",
-        "我为过江探母病",
-        "我若不看大哥面",
-        "手使长枪分心刺",
-        "赵云",
-        "那东吴定下牢笼计"
+        "赵云"
       ],
       "lines": [
         {

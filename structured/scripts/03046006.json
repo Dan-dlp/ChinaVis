@@ -11,32 +11,38 @@
     {
       "name": "安敬思",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "李克用",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "周德威",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "李嗣源",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "李存信",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "康君利",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     }
   ],
   "plot_summary": "唐末，李克用夜梦飞虎入帐，知为得将之兆，遂出射猎。遇壮士安敬思打虎，李克用大喜，试以武艺，俱各\n精通，因收为“十三太保”，易名李存孝，且付先行大印。",
@@ -118,17 +124,9 @@
       "scene_index": 1,
       "label": "第一场",
       "characters_present": [
-        "叫人来掌红灯虎帐来进",
         "周德威",
-        "唐天子掌朝纲风调雨顺",
-        "唐天子要斩孤百官保命",
         "四文堂",
-        "因此上统雄师奔赴王命",
-        "得胜回在雅观楼恩赐御筵",
-        "李克用",
-        "段文楚他笑孤坐席不正",
-        "满朝中文武臣庆贺功勋",
-        "那黄巢兴人马江山不稳"
+        "李克用"
       ],
       "lines": [
         {
@@ -908,7 +906,6 @@
       "scene_index": 4,
       "label": "第四场",
       "characters_present": [
-        "四大铠",
         "四文堂",
         "土地",
         "李克用"
@@ -1211,34 +1208,13 @@
       "scene_index": 5,
       "label": "第五场",
       "characters_present": [
-        "人来看过弓和箭",
-        "今日收了李存孝",
-        "你的家虎吃咱羊",
-        "你若真心把孤降",
-        "军师大印你执掌",
-        "十八般武艺俱学好",
-        "十月怀胎将我养",
         "周德威",
-        "四大铠",
         "四文堂",
-        "回头便对太保讲",
-        "回家来不觉黄昏后",
-        "多蒙千岁恩抚养",
-        "姐妹们闲游在山岗",
-        "姐妹抛篮作戏耍",
-        "孤有太保十二个",
         "安敬思",
         "康君利",
-        "我母自幼闺门长",
-        "打死了你虎赔你虎",
         "李克用",
         "李嗣源",
-        "李存信",
-        "李淳风",
-        "父王山头把话讲",
-        "猛虎本是孤王养",
-        "行走来在荒郊外",
-        "袁天罡"
+        "李存信"
       ],
       "lines": [
         {

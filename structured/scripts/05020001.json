@@ -11,57 +11,68 @@
     {
       "name": "李泰",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "徐延昭",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "杨波",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "李艳妃",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "李佑",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "戈红霞",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "常士雄",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "胡小香",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "徐金定",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "徐艳贞",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "戈会",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     }
   ],
   "plot_summary": "琉球王兴兵犯福州，福州总兵戈会克扣军饷，聚资白银三万两求和。朝廷遣兵部尚书李泰前往查办。戈会惧\n罪，自刎而死。李泰战败敌兵，回朝复命。李艳妃设宴为李泰庆功。国丈李良欲以己女许字李泰之子李佑，\n央大臣杨波作伐。李泰因李良为人奸佞，托词拒绝。李良怀恨，俟机相害。戈会之子戈琦扶柩还乡，其妹戈\n红霞闻老父自取其罪，恐遭邻里笑骂，乃与戈琦同往太行山投奔盟弟康宁，一同占山落草。常遇春后人常士\n雄丢失盘川，为店家所辱。适李泰之子李佑携仆王义进京，见状，为常士雄解围，赠以纹银二百两，结为金\n兰之好。胡大海后人胡小香，占山为王，招常士雄为婿。李佑行经太行山，为康宁所擒。戈琦为报父仇，正\n欲杀死李佑，忽报镖车路过，当即下山抢劫。戈红霞怜爱李佑，与乳母偕李佑主仆同逃。乳母为媒，成就二\n人良缘。李佑即以祖传香莲帕赠戈红霞为定礼。戈琦回山，见李佑逃走，引兵追之，杀死乳母，戈红霞与李\n佑主仆失散。李佑宿店得病。王义冒其名往地方官府诈财，太守曹彬使部将王通擒获王义。适常士雄夫妇路\n过，误为李佑被擒，冲入府衙，将曹彬杀死。王通本为李良一党，当即密禀李佑私通山寇，李泰纵子为非。\n李良奏知李艳妃，欲将李泰问斩。大臣沐杰、杨波请来定国王徐延昭上殿保奏，李艳妃因无赃证，暂将李泰\n发往刑部审问。胡小香与常士雄散失，入京探访，杨波邀至家中，胡小香冒名李佑，说明杀死曹彬一事。杨\n波知徐延昭有意招李佑为婿，乃将胡小香留于府中，欲以亲女许字。戈红霞入京，亦冒李佑名，误投李良家\n中。李良遣人擒之，戈红霞逾墙逃入徐延昭内宅。徐延昭误为李佑，乃以亲女徐金定许之。李良领人前来搜\n查无获，狼狈而去。隆庆帝朱载垕身死，遗诏命李艳妃垂帘听政。李良乘机夺取摄政大权，沐杰、花士英、\n汤忠不从，均被斩。徐延昭乃与杨波一同入宫奏本。李艳妃不允，徐延昭以先王御赐铜锤击李良，顿时朝堂\n大乱。",
@@ -439,8 +450,6 @@
       "label": "第一场",
       "characters_present": [
         "二番官",
-        "四番兵",
-        "四番将",
         "琉球王",
         "萨波达"
       ],
@@ -1860,7 +1869,6 @@
         "汤忠",
         "沐杰",
         "花士英",
-        "陈奇",
         "魏贤"
       ],
       "lines": [
@@ -2358,12 +2366,10 @@
       "scene_index": 8,
       "label": "第八场",
       "characters_present": [
-        "击鼓升堂把名点",
         "张宣",
         "戈会",
         "戈琦",
         "报子",
-        "本帅奉旨来查办",
         "李泰",
         "申明"
       ],

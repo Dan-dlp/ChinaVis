@@ -11,37 +11,44 @@
     {
       "name": "伍音",
       "role_type": "老生扮丑",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "县官",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "医生",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "伍父",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "伍母",
       "role_type": "老旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "伍妻",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "路人",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": "注释此剧专以模唱诸名伶擅长之腔调，为其佳处，并非专演某朝某人某事之戏。乃旧剧中之推陈出新，别创一格者，故并无"
     }
   ],
   "plot_summary": "",
@@ -122,12 +129,7 @@
         "伍母",
         "伍父",
         "伍音",
-        "你牵去了罢",
-        "同心协力把业创",
-        "提起了此马它的来头大",
-        "摆一摆手儿",
-        "路人",
-        "遭不幸困至在天堂店下"
+        "路人"
       ],
       "lines": [
         {
@@ -781,13 +783,8 @@
         "伍母",
         "伍父",
         "伍音",
-        "休把我当做了妖魔论",
         "医生",
-        "对着胸膛射一箭",
-        "岳父",
-        "我与你一无仇二无怨恨",
-        "放箭官长就是你",
-        "猛然睁开昏花眼"
+        "岳父"
       ],
       "lines": [
         {
@@ -1455,16 +1452,10 @@
       "scene_index": 3,
       "label": "第三场",
       "characters_present": [
-        "二双亲终日打来终日里骂",
-        "他每天三次我家走",
         "伍母",
         "伍音",
-        "到如今真假难凭信",
         "县官",
-        "四差役",
-        "年遭荒旱难度命",
-        "怒冲冲打从这滴水檐过",
-        "行至中途古庙进"
+        "四差役"
       ],
       "lines": [
         {

@@ -11,32 +11,38 @@
     {
       "name": "吕布",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "曹操",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "刘备",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "貂蝉",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "陈宫",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "张辽",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "曹操连结刘备，攻夺徐州；吕布因贪恋酒色，轻敌无备，被侯成盗去戟马，仓皇应战，势竭被擒。曹操于白\n门楼处理俘虏：杀害陈宫，收降张辽，吕布哀求刘备说情，刘备恐吕布助曹操不利于己，亦促曹操斩之。",
@@ -559,13 +565,8 @@
       "label": "第三场",
       "characters_present": [
         "内侍",
-        "内侍臣看过了皇封御酒",
         "吕布",
-        "将身来在宫门口",
         "张辽",
-        "恨曹操屡次里兴兵入寇",
-        "温侯学了前朝样",
-        "狗奸贼要擒某怎得能够",
         "貂婵",
         "貂蝉",
         "陈官",
@@ -1416,31 +1417,20 @@
       "scene_index": 7,
       "label": "第七场",
       "characters_present": [
-        "三国中论英雄某为上将",
         "乐进",
-        "人头搭在宝帐内",
         "关羽",
         "刘备",
-        "到如今君臣们披枷带锁",
         "吕布",
-        "喜爱貂蝉女",
         "四龙套",
-        "奏天子封你在养老宫坐",
-        "如今悔不悔",
         "如备",
-        "将身儿来至在贼营以内",
         "张辽",
         "张飞",
         "曹操",
         "曹洪",
         "李典",
-        "某好比楚霸王乌江命丧",
-        "没奈何进宝帐哀告丞相",
         "许褚",
         "貂婵",
         "貂蝉",
-        "貂蝉女是假意臣已奏过",
-        "进得帐来忙跪落",
         "陈官",
         "陈宫"
       ],

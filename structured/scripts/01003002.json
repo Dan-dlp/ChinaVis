@@ -15,67 +15,80 @@
     {
       "name": "诸葛亮",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "周瑜",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "鲁肃",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "蒋干",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "曹操",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "黄盖",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "甘宁",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "蔡中",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "蔡和",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "蔡瑁",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "张允",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "太史慈",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "阚泽",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "三国时，曹操既得荆襄，收降水军蔡瑁、张允后，军威大震，遂率水陆，乘胜大举，图下江南。时孙、刘方\n结好，刘备遣诸葛亮助吴，共御曹操，惟周瑜器量狭小，深以诸葛亮智出己上为忌。一日，忽故人蒋干渡江\n至，周瑜知其为曹操作说客也，因设计反间，先伪作蔡、张二人通款书，乃会蒋干，置酒款待，备极殷殷，\n席次绝不及孙曹事，并令太史慈监酒，以示今夕只谈风月之意。旋周瑜佯醉，引蒋干同榻，蒋干惺忪不自安，\n果盗书遁归。曹操故多疑者，得书，遂堕其计，怒杀蔡瑁、张允。周瑜既探得此信，知水军不足虑，乃与\n诸葛亮计议进攻之策，英雄所见略同，彼此各以火攻为先。周瑜见己谋，非第不能高出诸葛亮右，且每为诸\n葛亮所识破，因是益嫉诸葛亮，故令克期监造战箭十万以难之。诸葛亮奋然身任，无难色，且期以三日。周\n瑜阴喜其期促必误，惟鲁肃甚忧之，不意及期，诸葛亮果如数缴箭复令，周瑜卒无如之何。盖诸葛亮预知是\n晚必降大雾，因挟鲁肃，驾小舟数百艘，开赴江北，伪为偷袭者，以诱曹军放箭也，惟鲁肃在船时，股栗胆\n战，觳觫无人色，则已饱尝虚惊矣。旋蔡中、蔡和来降，周瑜料其诈，因亦激令黄盖用苦肉计去降曹，以备\n内应。",
@@ -207,9 +220,7 @@
         "周瑜",
         "四白龙套",
         "太史慈",
-        "将荆州献曹操是他之过",
         "甘宁",
-        "群英会上当酒饱",
         "蒋干",
         "诸葛亮",
         "鲁肃",
@@ -2159,12 +2170,10 @@
       "label": "第三场",
       "characters_present": [
         "众人",
-        "张允",
         "曹操",
         "蒋干",
         "蔡中",
-        "蔡和",
-        "蔡瑁"
+        "蔡和"
       ],
       "lines": [
         {

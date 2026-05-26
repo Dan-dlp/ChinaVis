@@ -13,27 +13,32 @@
     {
       "name": "曹福",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "曹玉莲",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "店家甲",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "店家乙",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "驴夫",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     }
   ],
   "plot_summary": "曹福保护曹玉莲逃出官庄堡后，山川跋涉，备历艰苦。行至广花山，时值隆冬，大雪纷飞。曹福解衣与曹玉\n莲御寒，因致冻死。适大同总镇蔡同善遣人来迎，曹玉莲得救，始抵大同。",
@@ -148,7 +153,6 @@
       "label": "第一场",
       "characters_present": [
         "伙计",
-        "将身儿坐至在土台之上",
         "店家乙",
         "店家甲",
         "曹玉莲",

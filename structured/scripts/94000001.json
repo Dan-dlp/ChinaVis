@@ -11,17 +11,20 @@
     {
       "name": "孙尚香",
       "role_type": "正旦",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "吴国太",
       "role_type": "老旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "孙权",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "孙尚香自荆州回到东吴以后，听说刘备伐东吴失败，死于白帝城，痛不欲生。当即进宫辞别母后吴国太，到\n江边遥祭丈夫，祭后投江而死。",
@@ -340,22 +343,9 @@
       "scene_index": 2,
       "label": "第二场",
       "characters_present": [
-        "为娘我坐在皇宫院",
-        "儿嫁那刘备娘心愿",
-        "到如今不容儿江边祭奠",
         "吴国太",
-        "哭倒了长城人称赞",
-        "回荆州未及三年满",
         "大太监",
-        "夫妻好比同林鸟",
-        "夫死不容儿祭奠",
-        "孙尚香",
-        "当年为讨荆州郡",
-        "接儿回转差周善",
-        "母后空把弥陀念",
-        "江边祭奠空祭奠",
-        "说什么祭奠空祭奠",
-        "闻皇叔白帝城丧了性命"
+        "孙尚香"
       ],
       "lines": [
         {

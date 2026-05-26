@@ -11,17 +11,20 @@
     {
       "name": "柳娘",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "韩翊",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "沙叱利",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "唐时，贫士韩翊，与名妓柳娘订为白首，后作故友节度使侯希逸幕僚。柳娘怕被人欺，住僧佛寺，为武官沙\n叱利抢去。侯将许俊，闻说夺回。沙叱利领兵追至，经侯希逸善劝，终让柳娘与韩翊偕归。",
@@ -138,9 +141,7 @@
         "李天然",
         "柳娘",
         "王八",
-        "红颜薄命多轻贱",
         "韩翊",
-        "风流骚士常接见",
         "鸨儿"
       ],
       "lines": [
@@ -1166,15 +1167,8 @@
       "scene_index": 3,
       "label": "第三场",
       "characters_present": [
-        "无情棒打鸾凤侣",
         "柳娘",
-        "海誓山盟言秘记",
-        "火中青莲就是你",
-        "虽无彩凤双飞翼",
-        "负心难逃循环理",
-        "那时休嫌我是缠头女",
-        "韩翊",
-        "高车驷马荣归故里"
+        "韩翊"
       ],
       "lines": [
         {

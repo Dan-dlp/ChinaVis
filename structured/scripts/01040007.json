@@ -13,67 +13,80 @@
     {
       "name": "陶三春",
       "role_type": "小旦",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "郑恩",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "赵匡胤",
       "role_type": "红生",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "柴荣",
       "role_type": "末",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "高怀德",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "陶龙",
       "role_type": "外",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "陶虎",
       "role_type": "付",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "贺氏",
       "role_type": "正旦",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "皇太",
       "role_type": "老旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "知县",
       "role_type": "末",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "家院",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "陶总管",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "官员甲",
       "role_type": "末",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     }
   ],
   "plot_summary": "按《飞龙传》等宋初稗官说部中，载郑恩未遇时，曾入陶氏桃园中偷瓜，与陶三春比武，为陶三春所缚（即\n《打瓜园》一戏是）。继而赵匡胤至，说明来由，反冤为亲，由赵匡胤为媒，与郑恩、陶三春订婚。至是，\n柴荣登基，郑恩已封至北平王，乃由赵匡胤奏知柴皇，下诏迎娶。惟郑恩因从前受过陶三春之辣手，故反不\n甚愿意。赵匡胤乃为之设法，请高怀德前往，假扮强徒，半途拦劫，与陶三春试试武艺，然后说明系王府所\n差前来迎接之人。所以如此者，盖欲使陶三春知此间并非无人，则以后对于丈夫，或不至过于恃强也。赵匡\n胤并教以种种礼节，及寻常应酬，新夫妇交接之道，颇极滑稽。成婚之日，亦皆由赵氏一门男女眷口，为之\n作主。既成婚，柴王又命高怀亮，当殿与陶三春比武。",
@@ -435,13 +448,9 @@
       "scene_index": 2,
       "label": "第二场",
       "characters_present": [
-        "二哥",
-        "先王爷御极成大宝",
         "四小太监",
-        "如今正朝红鸾现",
         "柴荣",
         "赵匡胤",
-        "这也是月老天差遣",
         "郑恩"
       ],
       "lines": [
@@ -1256,20 +1265,11 @@
       "characters_present": [
         "丫鬟",
         "二嫂",
-        "光闪闪一霎时双睛不闭",
-        "刮地尾能扫作一条金线",
         "四丫鬟",
         "四青袍",
         "大嫂",
         "家院",
-        "将身遁出花园儿外",
-        "展翘丹山上",
-        "有飞腾会纵跳移山唤水",
-        "生下花园同戏耍",
         "知县",
-        "胸笼韬略安排策",
-        "草香馥馥真果妙",
-        "轻移莲步苍苔上",
         "陶三春",
         "陶虎",
         "陶龙"
@@ -2240,7 +2240,6 @@
       "label": "第四场",
       "characters_present": [
         "旗牌",
-        "来",
         "高怀德"
       ],
       "lines": [
@@ -2350,7 +2349,6 @@
       "label": "第五场",
       "characters_present": [
         "旗牌",
-        "来",
         "郑恩"
       ],
       "lines": [

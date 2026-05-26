@@ -11,32 +11,38 @@
     {
       "name": "朱买臣",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "崔氏",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "徐大嫂",
       "role_type": "彩旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "张三",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "寇恂",
       "role_type": "外",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "和尚",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     }
   ],
   "plot_summary": "书生朱买臣穷途潦倒，妻崔氏不耐清贫，逼夫休她另嫁，渐沦为乞丐。数年后，朱买臣高中归乡，崔氏叩于\n马前，朱买臣命人泼水于地，以“覆水难收”讥之，崔氏羞愧，撞死马前。",
@@ -793,12 +799,9 @@
       "scene_index": 3,
       "label": "第三场",
       "characters_present": [
-        "一纸休书忙写完",
         "崔氏",
-        "崔氏女未把七出条犯",
         "徐大嫂",
-        "朱买臣",
-        "朱买臣休妻为的是吃饭"
+        "朱买臣"
       ],
       "lines": [
         {

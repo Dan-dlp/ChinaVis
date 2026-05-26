@@ -11,52 +11,62 @@
     {
       "name": "关羽",
       "role_type": "红生",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "关平",
       "role_type": "武生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "周仓",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "廖化",
       "role_type": "生",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "费诗",
       "role_type": "生",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "糜芳",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "傅士仁",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "诸葛瑾",
       "role_type": "生",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "孙权",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "曹仁",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "曹操遣满宠往东吴求和，步隲献策，孙权命诸葛瑾向关羽为世子求婚，以结纳西蜀，共同抗曹。关羽拒之，\n称虎女焉能配犬子。孙权大怒，决心与曹操联盟。刘备进位汉中王，封关羽、张飞、赵云、马超、黄忠为五\n虎上将，密嘱关羽攻取襄阳、樊城。",
@@ -694,7 +704,6 @@
         "关羽",
         "廖化",
         "报子",
-        "若不看军师诸葛亮",
         "诸葛瑾"
       ],
       "lines": [
@@ -1449,12 +1458,10 @@
       "scene_index": 4,
       "label": "第四场",
       "characters_present": [
-        "傅士仁",
         "关平",
         "关羽",
         "周仓",
         "报子",
-        "糜芳",
         "费诗"
       ],
       "lines": [
@@ -1941,10 +1948,8 @@
       "scene_index": 5,
       "label": "第五场",
       "characters_present": [
-        "傅士仁",
         "关羽",
         "周仓",
-        "糜芳",
         "费诗"
       ],
       "lines": [

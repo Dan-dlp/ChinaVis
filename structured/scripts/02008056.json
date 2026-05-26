@@ -11,32 +11,38 @@
     {
       "name": "杨延顺",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "萧太后",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "青莲公主",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "杨延昭",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "岩洞宾",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "韩昌",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "杨延昭坐镇塞北，佘太君奉令押运粮草，带领一班女将前往应援。适韩昌讨战，佘太君乃令孟金榜、蔡秀英\n出迎，韩昌大败而归。韩昌向萧太后报告军情，谓宋朝女将，极为勇猛。杨八郎闻讯后，自告奋勇，愿生擒\n宋将，太后不准。杨八郎乃求公主想法。公主于是偕其二子阿哥往谒太后，在饮酒期间，顺便盗取令箭，交\n与杨八郎，遂得出城，奔往宋营，与其母会面。惟佘太君见杨八郎后，历述其不忠不孝之罪，不允再回番邦。\n并令杨宗保，假冒杨八郎，利用其令箭，攻入雁门关。萧太后情势危急，令其二女，青莲、碧莲，同往应\n战。亦均被孟金榜、蔡秀英生擒往宋营云。",
@@ -1621,7 +1627,6 @@
       "scene_index": 4,
       "label": "第四场",
       "characters_present": [
-        "但愿得指日凯歌唱",
         "萧太后",
         "阿哥",
         "阿姐",

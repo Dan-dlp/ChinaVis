@@ -13,22 +13,26 @@
     {
       "name": "妹妹",
       "role_type": "花旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "公子",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "院子",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "丑公子",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     }
   ],
   "plot_summary": "考剧本，仅表明一男扮为女之文武小生，为一丑角之公子强行霸抢，居然亦以花轿抬入之，方欲拜堂成亲，\n忽奉母命，至东庄外家探病。因将此新人，寄入花旦妹子房中。新人故作娇痴，其妹遂效乱点鸳鸯故事，代\n兄与之拜天地，送入洞房，乔作夫妇成婚。迨至入帐，彼假新人始露真相，且身藏镔铁剑，系为报仇来者。\n其妹被胁，且亦心爱其人，遂与重拜天地，为真夫妻。天将明，其兄归，敲久，入，遂为文武生所杀。二人\n乃作计遁去。",
@@ -83,18 +87,8 @@
       "characters_present": [
         "丑公子",
         "丫鬟",
-        "五月节起了那葡萄大会",
-        "你哥哥他见我容貌好",
         "公子",
-        "回头便把将军唤",
         "妹妹",
-        "将军留下奴不死",
-        "将新人暂寄你房内",
-        "我这里藏过了镔铁宝剑",
-        "每日抢掳民间女",
-        "走上前来双膝跪",
-        "走上前来忙搀定",
-        "走上前来快搀起",
         "院子"
       ],
       "lines": [

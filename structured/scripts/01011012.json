@@ -11,47 +11,56 @@
     {
       "name": "薛仁贵",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "周文",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "周武",
       "role_type": "副净",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "毛子贞",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "胡卢大王",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "红烂漫",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "猩猩胆",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "亚李驮金",
       "role_type": "末",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "亚李驮银",
       "role_type": "副净",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     }
   ],
   "plot_summary": "薛仁贵跨海征东，兵经九连、凤凰等处（即今东三省之九连城、凤凰城是），一路得手，惟抵摩天岭险隘，\n为番将猩猩胆等所阻，屡攻不下。薛仁贵乃拜阅圣母天书，乔装小兵，亲往探山，因天书中现示“卖弓能取\n摩天岭，反得擎天柱二根”之语也。行抵山麓，适遇弓箭匠毛子贞，解送雕弓四十把上山，薛仁贵乃向毛子\n贞探得山上兵力厚薄，及上山情形，遂杀毛子贞，并取其衣帽，伪作弓匠上山。既混入，得与番营守寨总兵\n周文、周武相结纳，并拜为弟兄，随乘机说降二周，盖二周本中华人之流转于东者，故久有剿灭倭夷，振兴\n祖国之志。三人计既定，薛仁贵乃下山返营，旋即进攻，一战而克，枭其巨帅，二周内应之功，不可没也。",
@@ -175,14 +184,11 @@
       "label": "第一场",
       "characters_present": [
         "中军",
-        "卖弓能取摩天岭",
         "唐将丁",
         "唐将丙",
         "唐将乙",
         "唐将甲",
         "四唐将",
-        "天书现出踪迹影",
-        "奉旨攻打摩天岭",
         "薛仁贵"
       ],
       "lines": [
@@ -632,10 +638,7 @@
       "scene_index": 3,
       "label": "第三场",
       "characters_present": [
-        "可叹姜兄丧了命",
-        "因此本帅心怀恨",
         "毛子贞",
-        "洒开大步往前行",
         "薛仁贵"
       ],
       "lines": [
@@ -980,17 +983,12 @@
       "scene_index": 4,
       "label": "第四场",
       "characters_present": [
-        "一十二岁把兵领",
         "下手甲",
         "二下手",
-        "到明日见大王把本保",
         "周文",
         "周武",
         "四青袍",
-        "猛然睁开昏花眼",
-        "若是唐朝兴兵到",
-        "薛仁贵",
-        "见了大王把本道"
+        "薛仁贵"
       ],
       "lines": [
         {

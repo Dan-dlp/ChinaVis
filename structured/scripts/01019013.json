@@ -11,27 +11,32 @@
     {
       "name": "公孙瓒",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "赵云",
       "role_type": "武生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "袁绍",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "公孙越",
       "role_type": "末",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "吕翔",
       "role_type": "副净",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     }
   ],
   "plot_summary": "公孙瓒遣弟公孙越送书与袁绍，约会共取冀州。袁绍当面允许，公孙越辞回，袁绍命吕翔带领军卒，假称西\n凉马腾部下，要于半路而射杀之。公孙瓒因此起兵。赵云原在袁绍处，当一偏将，请令独自御敌，袁绍斥其\n言大而夸，即行逐出。赵云在磐河牧马，见公孙瓒危急，遂奋身往救，杀退绍兵，公孙瓒得救。",
@@ -119,12 +124,9 @@
       "scene_index": 1,
       "label": "第一场",
       "characters_present": [
-        "但愿得早把那韩馥灭了",
         "公孙瓒",
         "公孙越",
-        "叫贤弟将书信身旁带好",
-        "四龙套",
-        "此一番到河北见了袁绍"
+        "四龙套"
       ],
       "lines": [
         {
@@ -997,13 +999,9 @@
       "scene_index": 5,
       "label": "第五场",
       "characters_present": [
-        "你弟被他把命送",
         "公孙瓒",
         "吕翔",
-        "我命二弟把信送",
         "文丑",
-        "老爷兴兵威风勇",
-        "英雄岂在容貌上",
         "袁绍",
         "赵云",
         "颜良"

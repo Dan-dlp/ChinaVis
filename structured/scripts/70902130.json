@@ -11,22 +11,26 @@
     {
       "name": "唐明皇",
       "role_type": "冠生",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "杨贵妃",
       "role_type": "五旦",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "高力士",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "陈元礼",
       "role_type": "末",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     }
   ],
   "plot_summary": "唐明皇避兵幸蜀，行至马嵬驿，十分劳顿。护驾军士以杨国忠专权弄国，激成变乱，就杀了杨国忠，又请唐\n明皇将杨贵妃割恩正法，以谢天下。唐明皇不允，众军哗然，不得已，乃以白绫缢死了杨贵妃。",
@@ -80,10 +84,7 @@
       "scene_index": 1,
       "label": "全剧",
       "characters_present": [
-        "众军士",
         "唐明皇",
-        "奈臣妾又受波查",
-        "已痛兄遭戮",
         "杨贵妃",
         "陈元礼",
         "高力士"

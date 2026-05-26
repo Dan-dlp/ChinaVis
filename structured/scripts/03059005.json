@@ -11,27 +11,32 @@
     {
       "name": "花逢春",
       "role_type": "武生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "萧桂英",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "阮三",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "李俊",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "倪荣",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "宋江受招安后，被蔡京、童贯药酒毒害，众兄弟四散逃亡。梁山后裔花逢春，流落江湖，卖艺平王镇，值萧\n桂英杀家后，亦卖艺来此，遇李俊、倪荣、阮三，夫妻得团圆。",
@@ -1178,7 +1183,6 @@
       "label": "第三场",
       "characters_present": [
         "四百姓",
-        "杀了贼子私逃走",
         "桂英弟",
         "萧桂英",
         "阮三"

@@ -11,27 +11,32 @@
     {
       "name": "李逵",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "李母",
       "role_type": "老旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "李鬼",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "刘氏",
       "role_type": "彩旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "李达",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     }
   ],
   "plot_summary": "李逵回沂州欲搬取老母至梁山奉养。宋江放心不下，派朱贵暗中保护。时沂州府出三千贯画影图形捉拿李逵。\n李逵前往看榜，被朱贵拉至其弟朱富酒店，嘱其务须小心行事。李逵回家途中，经松林，遇李鬼冒李逵之\n名拦路行劫。李鬼被擒后，佯称家有老母，恳求李逵饶命。李逵见李鬼有孝心，乃赠银一锭，释放回家。是\n夜，李逵至李鬼家投宿，李鬼竟恩将仇报，欲害李逵未逞，终被杀。李逵回家后，见老母双目失明，生活无\n靠，对兄李达深表不满。李达贪图赏金，欲带庄主秦太公来家擒李逵归案。李逵见行为可疑，匆忙背母逃至\n沂岭。其母口渴难忍，李逵往取山泉，不料老母已被猛虎吞食。李逵大怒，深入虎穴，力杀四虎。秦太公带\n人追至，李逵早已精疲力尽，遂被擒。李云奉命押解李逵往沂州。朱贵闻讯，与梁山诸将于途中拦截，生擒\n李云，救李逵回山。",
@@ -634,13 +639,9 @@
       "scene_index": 3,
       "label": "第三场",
       "characters_present": [
-        "急忙辞别登程往",
-        "接得老娘把山岗上",
         "朱富",
         "朱贵",
-        "李逵",
-        "此一番回家去把老娘探望",
-        "辞别了贤弟我就忙把路来上"
+        "李逵"
       ],
       "lines": [
         {

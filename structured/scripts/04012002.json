@@ -11,37 +11,44 @@
     {
       "name": "张飞",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "诸葛亮",
       "role_type": "生",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "刘备",
       "role_type": "生",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "魏延",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "范疆",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "张达",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "张郃",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "张飞讨令攻取瓦口关，刘备和诸葛亮怕他酗酒误事，命他戒酒。把守瓦口关的魏将张郃战不过张飞，乃坚守\n不出。张飞使军士辱骂，并终日聚饮以示轻敌。张郃终不出战。张飞的部下将他违令饮酒的情形密报诸葛亮。\n诸葛亮测知其意，反命大将魏延押送美酒给张飞。张飞得到魏延的援军，乃定计命部下假作怨恨离心，以\n诱张郃。张郃果然中计，率兵偷袭，大败。这时刘备、诸葛亮亲率大军已到关前，乘虚占领瓦口关。",
@@ -166,13 +173,10 @@
       "scene_index": 1,
       "label": "第一场",
       "characters_present": [
-        "今日开怀来畅饮",
         "刘备",
         "四蜀军",
-        "回头再对大哥论",
         "张达",
         "张飞",
-        "范疆",
         "蜀军",
         "诸葛亮"
       ],
@@ -814,14 +818,9 @@
       "scene_index": 2,
       "label": "第二场",
       "characters_present": [
-        "今日相逢战场上",
-        "劝你早把瓦口让",
         "张郃",
         "张飞",
-        "报子",
-        "虎牢关前把名扬",
-        "长坂坡独把曹贼挡",
-        "鞭打督邮惊奸党"
+        "报子"
       ],
       "lines": [
         {
@@ -1776,12 +1775,10 @@
       "characters_present": [
         "严颜",
         "刘备",
-        "回头便对先生论",
         "旗牌",
         "蜀军",
         "诸葛亮",
-        "魏延",
-        "黄忠"
+        "魏延"
       ],
       "lines": [
         {
@@ -2307,12 +2304,9 @@
       "characters_present": [
         "二蜀军",
         "四蜀军",
-        "张爷说来儿细想",
         "张达",
         "张郃",
         "张飞",
-        "歇息再把山头抢",
-        "范疆",
         "蜀军乙",
         "蜀军甲"
       ],

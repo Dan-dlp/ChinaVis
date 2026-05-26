@@ -11,22 +11,26 @@
     {
       "name": "李大",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "王氏",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "刘秀",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "李月仙",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     }
   ],
   "plot_summary": "王莽篡汉，刘秀出走，至遇龙镇，为店家李大之妹李月仙识破，结为夫妇。",
@@ -73,19 +77,10 @@
       "scene_index": 1,
       "label": "第一场",
       "characters_present": [
-        "他本汉朝幼主驾",
-        "但愿莽贼早授首",
         "刘秀",
-        "怒气不息将你打",
         "李大",
         "李月仙",
-        "王氏",
-        "苏献带兵将孤赶",
-        "若得兴汉功成就",
-        "行走之间抬头看",
-        "遇龙镇上访一访",
-        "马武与贼去交战",
-        "高抬贵手饶恕吧"
+        "王氏"
       ],
       "lines": [
         {
@@ -1367,7 +1362,6 @@
       "scene_index": 2,
       "label": "第二场",
       "characters_present": [
-        "恶狠狠钢刀来举起",
         "李大",
         "王氏"
       ],

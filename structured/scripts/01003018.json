@@ -11,17 +11,20 @@
     {
       "name": "保儿",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "万人迷",
       "role_type": "花旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "顶先生",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "某窑子老鸨，名万人迷。因所雇鳖腿名保儿者，做事懒惰，特地唤出吩咐。不料保儿不服，反自谓有十大汗\n马功劳。因此争论打架。幸得作荐保儿之教书先生到来解劝，既而万人迷与保儿算清前帐，找给大钱二百文，\n将保儿辞歇。",
@@ -65,8 +68,6 @@
       "characters_present": [
         "万人迷",
         "保儿",
-        "含悲忍泪换衣衾",
-        "舍不得院中花花美景",
         "顶先生"
       ],
       "lines": [

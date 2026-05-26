@@ -11,32 +11,38 @@
     {
       "name": "寇准",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "潘洪",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "赵德芳",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "差役",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "马牌子",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "寇夫人",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     }
   ],
   "plot_summary": "潘洪被解至京，宋太宗命刘御史审问。刘御史受潘妃之贿，为八贤王金锏打死。宋太宗遂调霞峪县令寇准复\n审。寇准初疑惧，宋太宗封为御史。潘妃又行贿，寇准坚不受，告知八贤王，八贤王允为支持。及勘审，潘\n洪百般狡赖，拒无口供。寇准乃与八贤王定计，假设阴曹夜深。潘洪始吐真情，定案。",
@@ -206,7 +212,6 @@
       "label": "第二场",
       "characters_present": [
         "丫鬟",
-        "但愿得老爷平安面圣",
         "四衙役",
         "寇准",
         "寇夫人",
@@ -768,17 +773,11 @@
       "scene_index": 3,
       "label": "第三场",
       "characters_present": [
-        "倘若是少夫人来问你",
-        "倘若是老夫人来问你",
-        "回衙去与老爷报一信",
         "大太监",
         "宋太宗",
         "寇准",
         "小太监",
-        "撩袍端带金殿进",
         "赵德芳",
-        "这才是有才何必大小论",
-        "都笑我七品小县令",
         "院子",
         "马牌子",
         "驿丞官"

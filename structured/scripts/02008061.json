@@ -11,32 +11,38 @@
     {
       "name": "杨仙童",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "高能",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "卫小申",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "玉珍公主",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "玉宝公主",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "张天龙",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "卫小申出马与番邦人才驸马交战，大败而归。继由高能、杨仙童与二位公主玉宝、玉珍交战，二位公主并将\n杨仙童、高能二将留宿，最后又将原来之人才驸马杀死。",
@@ -1041,8 +1047,7 @@
       "label": "第六场",
       "characters_present": [
         "杨仙童",
-        "玉宝公主",
-        "看他不是凡人样"
+        "玉宝公主"
       ],
       "lines": [
         {

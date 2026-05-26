@@ -11,27 +11,32 @@
     {
       "name": "刘谌",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "刘禅",
       "role_type": "末",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "崔夫人",
       "role_type": "正旦",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "黄皓",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "二小王",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "三国末期，魏大将邓艾逼成都，北地王刘谌哭谏后主力战，不从，回府杀夫人、小王，哭祭祖庙，自刎而死。",
@@ -145,14 +150,7 @@
       "characters_present": [
         "刘禅",
         "刘谌",
-        "到不如父子君臣背城一战战必胜",
-        "天下后世看公论",
         "女巫",
-        "妖巫之言不可信",
-        "孩儿的言语不肯信",
-        "撩袍端带宫门进",
-        "若谓孩儿言不逊",
-        "贼邓艾孤军深入渡阴平",
         "门官",
         "黄皓"
       ],
@@ -979,7 +977,6 @@
         "二小王",
         "刘谌",
         "崔夫人",
-        "未曾进宫先拔剑",
         "董敏"
       ],
       "lines": [

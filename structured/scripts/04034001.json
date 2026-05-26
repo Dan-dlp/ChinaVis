@@ -13,57 +13,68 @@
     {
       "name": "董洪",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "李云",
       "role_type": "生",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "庞氏",
       "role_type": "老旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "刘应龙",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "刘福",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "刘寿",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "李瑞莲",
       "role_type": "花旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "李虎",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "小牢头",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "张荣",
       "role_type": "生",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "田戚献",
       "role_type": "生",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     }
   ],
   "plot_summary": "明嘉靖时，按院董洪巡察河南，行到广平府乔装算命相士去往邢台，查访早已失踪的前任按院下落。中途遇\n一老妇张庞氏，得知当地恶霸刘应龙诬陷其子张荣，企图霸占张妻；董洪替庞氏写状以后，立去侦察刘应龙，\n并利用算命与刘应龙见面。刘应龙把董洪强留在府里要他详细推算。当天，刘应龙赴宴归来，在路上搜获\n了庞氏的状纸。回府后，又发现状纸字体与董洪的笔迹相同，刘应龙大怒，就将董洪囚入水牢。董洪在水牢\n里，黑暗中从一具死尸身上摸到一颗印信，形状与自己印信恰好相合，才知前任按院已被刘应龙杀害。刘府\n丫鬟李瑞莲闻有人被难，很为同情。乘夜暗到水牢把董洪救出。董洪就将所获印信交付李瑞莲，命她急速逃\n去，投奔广平府送信。李瑞莲去后，董洪未及逃出，即被刘应龙截获，转送邢台县监禁起来。董洪在狱里结\n识了被害的张荣和热心肠的老狱卒李虎，并叫他以印信为凭，到广平府求援。李虎至广平，恰巧李瑞莲也赶\n到送信。知府李云得报，急到邢台县救出董洪，董洪即将刘应龙处死，并使李瑞莲拜在李虎名下为义女。",
@@ -234,8 +245,6 @@
       "scene_index": 1,
       "label": "第一场",
       "characters_present": [
-        "四军士",
-        "四刀斧手",
         "李云",
         "董洪",
         "门子",

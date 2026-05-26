@@ -11,17 +11,20 @@
     {
       "name": "猪八戒",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "孙悟空",
       "role_type": "武生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "高贤",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "高老庄有一高员外，为第三女招赘，猪八戒变成书生前往应选。高员外见其才貌双全，遂允婚。不料，猪八\n戒酒醉现出原形。高员外请僧道捉妖，反被猪八戒吓退。适唐僧师徒路过高老庄，孙悟空乃设计收服猪八戒，\n同往西天取经。",
@@ -187,13 +190,8 @@
       "scene_index": 1,
       "label": "第一场",
       "characters_present": [
-        "不必自伤宽胸襟",
-        "因此终日生烦闷",
-        "奴好比西子容貌整",
         "张忠",
-        "有祸福与吉凶推测立见",
         "李义",
-        "自古道万般皆由命",
         "高才",
         "高碧兰",
         "高香兰"

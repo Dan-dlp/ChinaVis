@@ -11,22 +11,26 @@
     {
       "name": "马三保",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "盖贤谟",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "尉迟恭",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "徐勣",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "番将盖贤谟，统领十万雄兵，镇守凤凰山。唐太宗御驾亲征，行抵凤凰山。唐太宗欲出观山景，徐勣、尉迟\n元帅力阻不得。徐勣乃请先命一将，前去探山，打听虚实，然后再保驾往游。唐太宗准奏，问何人愿往探山。\n定国公马三保告奋愿往，徐勣、尉迟恭等力劝马三保勿往。马三保弗听。及往，适遇盖贤谟，被其用绊马\n索绊倒擒住。马三保誓死不降，讵知被盖贤谟刖去四肢，抛弃山中。尉迟恭出巡，见状大悲伤，欲抬归。马\n三保不可，卒以疼痛难忍，嘱尉迟恭举枪刺心，乃卒。",
@@ -109,9 +113,6 @@
       "scene_index": 1,
       "label": "第一场",
       "characters_present": [
-        "四平章",
-        "四辽兵",
-        "四龙套",
         "盖贤谟"
       ],
       "lines": [
@@ -208,20 +209,10 @@
       "scene_index": 2,
       "label": "第二场",
       "characters_present": [
-        "三千人马安排好",
-        "三镇晋阳谁不晓",
-        "何必命人探山道",
-        "保主征东忠义好",
-        "吃王爵禄当报效",
-        "听我相劝不去好",
         "唐王",
-        "圣上也曾探山道",
         "大太监甲",
         "尉迟恭",
         "徐勣",
-        "此去只防牢笼套",
-        "此去山路实难找",
-        "纵有贼兵如蒿草",
         "马三保"
       ],
       "lines": [
@@ -1336,7 +1327,6 @@
       "scene_index": 7,
       "label": "第七场",
       "characters_present": [
-        "但愿此去得了胜",
         "唐王",
         "尉迟恭",
         "徐勣",

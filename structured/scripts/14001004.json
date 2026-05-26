@@ -11,52 +11,62 @@
     {
       "name": "马义",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "米进图",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "姚氏",
       "role_type": "花旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "侯花嘴",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "李氏",
       "role_type": "彩旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "莫利县",
       "role_type": "副丑",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "马妈妈",
       "role_type": "老旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "马月香",
       "role_type": "青衣",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "闻太师",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "米进卿",
       "role_type": "副生",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     }
   ],
   "plot_summary": "米进卿、米进图是同胞弟兄，父亲死得很早。米进卿居长，娶妻姚氏，天生淫荡。那年正逢大考，米进图带\n了老家人马义进京赶考，姚氏早与乡邻侯花嘴通奸，趁米进图不在家中，就将亲夫米进卿谋死。米进图行到\n半路，住在旅店里，忽然做了一个奇梦，梦见自己老兄，七孔流血的死了。问起老家人马义，也说得到了同\n样的一个噩梦。主仆两人心知有异，无心应试，急急的赶回家来，见了姚氏，问起米进卿，果然是死了。姚\n氏见他们主仆忽然折回，恐怕泄露机关，马上同姘夫侯花嘴商量，拿侯花嘴的老婆李氏杀了，将人头割下，\n藏在床底下，尸身换着姚氏的衣服，将她放在米家的后门口。姚氏暂时躲在侯家不出，由侯花嘴去告发，就\n说米进图想奸淫寡嫂，寡嫂不肯，才被他杀死的。莫利县去验尸，验得女尸有尸无头，正在拷问米进图的时\n候，老家人马义在堂口喊冤。知县看他是个义仆，限他三天内找到人头，可以免进图的一死。马义一时愚忠，\n赶到家中，将自己的亲生女儿杀了，拿人头献与县官。县官见是一个少女的人头，明明是假，益发将米进\n图罪坐实了。马义本想杀女救主，岂知反而加重了主人的罪，这一气直跑道闻太师那里去告状，试了铜铡，\n又滚钉板，吃着种种的苦刑。闻太师知是有冤，连夜行文到莫利县嘱暂缓刑，并且亲自再赶去。那天正是米\n进图要行刑的日期。更夫打了九更，天还不亮。上天因五鼓天明，米进图就将不救，所以只有将黑夜延长，\n好等详文赶到。后是闻太师一到，救出米进图，查明姚氏、侯花嘴的奸情罪状，办了他们铜铡及剖腹之罪。\n马义杀女舍身，忠义可敬，叫米进图拜他做义父，养老送终以报其恩。一场奇冤，就此大白。",
@@ -466,7 +476,6 @@
       "label": "第二场",
       "characters_present": [
         "侯花嘴",
-        "哭一声兄长遭不幸",
         "姚氏",
         "李氏",
         "米进图",
@@ -2051,7 +2060,6 @@
       "characters_present": [
         "二公差",
         "公差甲",
-        "四衙役",
         "米进图",
         "莫利县",
         "马义"

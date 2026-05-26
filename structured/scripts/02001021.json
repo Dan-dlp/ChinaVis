@@ -11,22 +11,26 @@
     {
       "name": "寤生",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "共叔段",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "武姜",
       "role_type": "老旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "卫氏",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     }
   ],
   "plot_summary": "列国时，郑庄公之弟共叔段，恃母武姜宠爱，谋夺君位。庄公知之，用计假言朝周，以观虚实，武姜果命共\n叔段袭城夺位；共叔段妻卫氏苦谏不从，自刎而死。",
@@ -176,21 +180,16 @@
       "scene_index": 1,
       "label": "第一场",
       "characters_present": [
-        "倒不如将弟赶往",
         "公子吕",
         "公子呂",
         "公孙阏",
         "共叔段",
-        "共城赋薄难为养",
-        "内侍",
         "大太监",
         "夷仲年",
         "寤生",
         "武姜",
-        "汝承父位多安享",
         "瑕叔盈",
         "祝畘",
-        "若嫌京邑封地广",
         "蔡足",
         "颖考叔",
         "高渠弥"
@@ -936,12 +935,9 @@
       "label": "第二场",
       "characters_present": [
         "众人",
-        "兄弟手足两相靠",
         "共叔段",
-        "劝君妄念快息了",
         "卫氏",
-        "将官",
-        "犯上作乱行无道"
+        "将官"
       ],
       "lines": [
         {
@@ -1668,13 +1664,7 @@
       "scene_index": 4,
       "label": "第四场",
       "characters_present": [
-        "书信到日",
-        "产养寤生身遭险",
-        "前来夺位了吾愿",
-        "因此上喜爱幼子段",
         "大太监",
-        "尔兄朝周去国远",
-        "提起笔来",
         "武姜"
       ],
       "lines": [
@@ -1996,16 +1986,9 @@
       "label": "第五场",
       "characters_present": [
         "公子吕",
-        "兴兵祸国多奸险",
         "军士",
-        "叫孤怎不",
         "大太监",
-        "太叔年幼见识浅",
-        "寤生",
-        "当道扎营如征战",
-        "我今不杀公叔段",
-        "我今杀了公叔段",
-        "手足相残人伦变"
+        "寤生"
       ],
       "lines": [
         {

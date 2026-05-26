@@ -13,27 +13,32 @@
     {
       "name": "王有道",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "孟月华",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "柳生春",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "王淑英",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "孟德禄",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     }
   ],
   "plot_summary": "金华士子王有道别妻孟月华及妹王淑英赴考，孟月华归宁，虑妹在家，不辞而行；归途遇雨，避于御碑亭。\n又来一秀才柳生春，立亭外，终宵未交一语，雨止而去。孟月华感其守礼，归告王淑英。王有道试毕返家，\n王淑英告之，王有道心疑，愤而休妻。中试后与同门参竭房师申嵩，申嵩因柳生春文字不佳，怪而问之，柳\n生春以碑亭避雨事告知，王有道始明真相，归即亟赴岳家，向妻请罪。孟月华责之，言归于好。王有道又将\n妹王淑英许婚柳生春。",
@@ -110,14 +115,10 @@
       "scene_index": 1,
       "label": "第二场",
       "characters_present": [
-        "但愿得这一科功名有分",
-        "你在家必须要小心谨慎",
         "孟德禄",
         "孟月华",
-        "施一礼辞贤妹又别闺阃",
         "王有道",
-        "王淑英",
-        "用手儿推推门关得甚紧"
+        "王淑英"
       ],
       "lines": [
         {
@@ -1556,8 +1557,6 @@
       "label": "第十场",
       "characters_present": [
         "举子乙",
-        "举子甲",
-        "年兄说了今方信",
         "柳生春",
         "王有道",
         "申嵩",

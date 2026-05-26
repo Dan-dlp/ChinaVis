@@ -11,22 +11,26 @@
     {
       "name": "莫怀古",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "雪艳",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "莫成",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "戚继光",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "雪艳原系宦门女，家遭兵变，误入勾栏。莫怀古见怜，赎为侧室。",
@@ -142,8 +146,6 @@
       "label": "第一场",
       "characters_present": [
         "三番臣",
-        "四番将",
-        "四番臣",
         "柯蜜",
         "番臣甲"
       ],
@@ -788,8 +790,6 @@
       "scene_index": 4,
       "label": "第四场",
       "characters_present": [
-        "四番兵",
-        "四番将",
         "戚继光",
         "柯蜜"
       ],
@@ -1663,7 +1663,6 @@
       "scene_index": 9,
       "label": "第九场",
       "characters_present": [
-        "心忐忑意彷徨实是懒见",
         "忘八",
         "莫怀古",
         "雪艳",

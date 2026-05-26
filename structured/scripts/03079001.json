@@ -11,32 +11,38 @@
     {
       "name": "卓文君",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "司马相如",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "卓王孙",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "程郑",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "杨得意",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "王吉",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "司马相如工辞赋，家贫不得志，乃至临邛访契友临邛令王吉，王吉厚遇之。临邛首富卓王孙，为结好王吉，\n宴司马相如。司马相如至卓王孙家操琴，为卓王孙新寡女卓文君所爱慕，请父允婚。卓王孙嫌司马相如贫，\n不允。卓文君私奔司马相如，在临邛开设酒肆，夫妻亲自操作，卓王孙深以为耻。后司马相如献《子虚赋》\n于君前，拜为中郞将，奉命出使外国，卓王孙见司马相如贵，乃献金相认。",
@@ -454,7 +460,6 @@
       "scene_index": 2,
       "label": "第二场",
       "characters_present": [
-        "四青袍",
         "王吉",
         "院子"
       ],
@@ -716,10 +721,7 @@
         "卓大公子",
         "卓文君",
         "卓王孙",
-        "嫁夫君若遇那轻狂恶少",
-        "家院",
-        "本应当守柏舟全贞为重",
-        "遵父命在屏后静听雅韵"
+        "家院"
       ],
       "lines": [
         {
@@ -1780,9 +1782,7 @@
       "label": "第六场",
       "characters_present": [
         "丫鬟甲",
-        "卓文君",
-        "奴也曾依声和音调相仿",
-        "趁今日宴佳客屏后偷望"
+        "卓文君"
       ],
       "lines": [
         {
@@ -3435,7 +3435,6 @@
       "label": "第九场",
       "characters_present": [
         "司马相如",
-        "四青袍",
         "家童",
         "王吉",
         "院子"
@@ -6267,10 +6266,7 @@
         "卓大公子",
         "卓文君",
         "卓王孙",
-        "嫁夫君若遇那轻狂恶少",
-        "家院",
-        "本应当守柏舟全贞为重",
-        "遵父命在屏后静听雅韵"
+        "家院"
       ],
       "lines": [
         {

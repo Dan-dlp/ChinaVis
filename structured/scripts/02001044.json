@@ -11,47 +11,56 @@
     {
       "name": "西施",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "范蠡",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "文种",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "夫差",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "勾践",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "伯嚭",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "伍员",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "旋波",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "处女",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     }
   ],
   "plot_summary": "列国时，越王勾践被吴王夫差打败，降吴国。手下臣子，只有一范蠡，常和他商议。范蠡常出外访求贤士，\n一天走到苎萝村，看见一美女，在溪边浣纱，名叫西施，就想将她献给吴王，好教吴王迷于女色，不理国政。\n当时和西施商议，西施不但貌美，且很知爱国，慨然允许。这时吴王有一臣子叫伯嚭，乃是个贪财之人。\n范蠡送财帛与他，请他设法，将西施献给吴王。吴王一见西施，甚为欢喜，便将越王放回，虽有伍子胥谏阻，\n吴王只是不听。西施既进吴宫，吴王果被迷惑，一切国政，都不去理。越王回国之后，卧薪尝胆，教养人\n民，训练军队。数年之后，乘吴王攻伐齐国，就兴兵伐吴，吴王战败，自刎而死。越王将西施迎回，赐给范\n蠡为妻。范蠡亦辞官职，和西施乘船泛游五湖。",
@@ -876,12 +885,9 @@
       "label": "第四场",
       "characters_present": [
         "三浣纱女",
-        "我去吴邦无挂碍",
         "浣纱女甲",
-        "留名万载女裙钗",
         "范蠡",
-        "西施",
-        "难得娘行多慷慨"
+        "西施"
       ],
       "lines": [
         {

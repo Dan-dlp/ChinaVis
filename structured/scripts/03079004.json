@@ -11,32 +11,38 @@
     {
       "name": "王昭君",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "毛延寿",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "刘奭",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "郑仁德",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "王朝珊",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "王龙",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     }
   ],
   "plot_summary": "汉元帝选妃，朝臣奏越州太守王朝珊之女王昭君貌美。汉元帝命画工毛延寿往绘真容。毛延寿索贿未遂，羞\n恼成怒，将王昭君仪容画为奇丑。汉元帝见像震怒，囚王昭君于永巷。一日，帝游冷宫，偶遇王昭君，方知\n受毛延寿骗，遂封王昭君为明妃，并命人杀毛延寿全家。毛延寿得讯逃走，将王昭君真容献与番王单于。单\n于遂兴兵侵汉，讨取之。汉元帝无奈，遂命王昭君和番。王昭君见番王后，要其一不得侵犯汉室；二须将己\n之真容带回汉朝；三斩毛延寿。番王允，当面将王昭君真容交王龙带回，并将毛延寿杀死。",
@@ -870,7 +876,6 @@
         "毛延寿",
         "王昭君",
         "王朝珊",
-        "画工就要越州进",
         "院子"
       ],
       "lines": [
@@ -1224,13 +1229,9 @@
       "scene_index": 4,
       "label": "第四场",
       "characters_present": [
-        "先绘就玉精神似花模样",
-        "影似人人如影笔尖妙相",
-        "快随为父书房进",
         "杂毛",
         "梅香",
         "毛延寿",
-        "爹爹暂息心头怒",
         "王昭君",
         "王朝珊",
         "院子"

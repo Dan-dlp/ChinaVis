@@ -11,32 +11,38 @@
     {
       "name": "海瑞",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "鄢懋卿",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "冯莲芳",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "戚继光",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "赵文华",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "徐摩云",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     }
   ],
   "plot_summary": "鄢懋卿因秦氏被掳，束手无策，闻赵文华来宁波祭海，前往求救。赵仆告以赵文华误入娼家，被海瑞枷示，\n鄢懋卿往县衙向海瑞求情，诈称赵文华为表兄褚德。海瑞反将赵文华加刑一月。赵仆闻讯，诈称赵文华得病，\n面见下属，随即设法营救。戚夫人从水路到宁波，未遇海盗，乃领兵扮作货船，袭击金鳌岛，与徐海之女\n徐摩云交战。戚夫人冒戚继光名，假意欲收徐摩云为妾，徐摩云恐受欺，与之交战。忽狂风大作，将戚夫人\n船只吹送孤燕岛。徐摩云忽对戚继光动心，乃改扮男装登陆，往宁波探讯戚继光之为人。女尼通惠之女罗玉\n与少年张青私通，伪装妖精作怪。冯莲芳问知情由，擒获张青、罗玉，劝通惠允二人成亲，并领二人往见戚\n继光，投军效力。徐摩云路遇冯莲芳，因故互相扭打。戚勇公毕径此，为二人劝解，邀冯莲芳回衙。徐摩云\n爱慕戚勇，闻冯莲芳在水月庵居住，决往庵中借宿，探听戚勇来历。海瑞闻戚勇贻误军机，将受斩刑，约鄢\n懋卿同往求情。鄢懋卿乘机请释褚德。海瑞许之。戚继光升堂，欲斩戚勇。海瑞、鄢懋卿、冯莲芳等求见。\n戚继光闭门不纳。",
@@ -1275,7 +1281,6 @@
       "scene_index": 3,
       "label": "第三场",
       "characters_present": [
-        "今已到宁波界海水迷漫",
         "众女兵",
         "周氏",
         "女兵甲"
@@ -1691,8 +1696,6 @@
       "label": "第五场",
       "characters_present": [
         "书吏",
-        "四班头",
-        "四青袍",
         "张月娇",
         "海瑞",
         "班头甲",

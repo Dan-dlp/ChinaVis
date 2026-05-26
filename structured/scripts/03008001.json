@@ -11,17 +11,20 @@
     {
       "name": "狄青",
       "role_type": "武生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "杨宗保",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "狄太后",
       "role_type": "老旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     }
   ],
   "plot_summary": "宋仁宗时，国丈庞文曾陷害狄太后之弟狄世荣。后狄世荣之子狄青因在御河斩蛟，授指挥职。庞文与其婿韩\n天化不服，御前比武；狄青因将韩天化杀死获罪。经包拯与狄太后设计营救免死。宋王复与庞妃定计，命狄\n青押送征衣，故使误限。经八贤王赵德芳函告边帅杨宗保，又得免罪。时西羌攻占昆仑，狄青乘风雪之夜，\n奋勇夺回，建立奇功。",
@@ -1205,7 +1208,6 @@
       "scene_index": 5,
       "label": "第五场",
       "characters_present": [
-        "小狄青跪草堂珠泪滚",
         "康氏",
         "狄青"
       ],

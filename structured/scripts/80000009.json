@@ -14,12 +14,14 @@
     {
       "name": "正德帝",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "李凤姐",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     }
   ],
   "plot_summary": "明武宗私游大同，过李龙酒店，见李龙之妹李凤姐美，乃加调戏。后实告以皇帝身份，封李凤姐为妃。",
@@ -56,13 +58,8 @@
       "scene_index": 1,
       "label": "第一场",
       "characters_present": [
-        "孤忙将木马儿一声响",
-        "将玉玺交与龙国太",
-        "将茶放置在桌案上",
-        "我哥他巡更去守夜",
         "李凤姐",
-        "正德帝",
-        "用手儿忙把银来取"
+        "正德帝"
       ],
       "lines": [
         {

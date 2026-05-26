@@ -11,37 +11,44 @@
     {
       "name": "刘世昌",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "张别古",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "赵大",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "包拯",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "刘升",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "赵妻",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "钟馗",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "南阳缎商刘世昌结账回家，行至定远县遇雨，借宿窑户赵大家。赵大见财起意，将其用酒毒死，后将其尸烧\n制乌盆。鞋工张别古向赵大索欠，得盆。刘世昌鬼魂诉冤。张别古代鸣冤。包拯雪冤，杖毙赵大。",
@@ -109,9 +116,7 @@
       "label": "第一场",
       "characters_present": [
         "刘世昌",
-        "刘升",
-        "道旁美景懒得看",
-        "霎时一阵把天变"
+        "刘升"
       ],
       "lines": [
         {
@@ -298,8 +303,6 @@
       "characters_present": [
         "刘世昌",
         "刘升",
-        "到明天自当多谢拜",
-        "行至在中途大雨盖",
         "赵大",
         "赵妻",
         "钟馗"

@@ -11,22 +11,26 @@
     {
       "name": "杨排风",
       "role_type": "武旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "孟良",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "佘太君",
       "role_type": "老旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "杨洪",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     }
   ],
   "plot_summary": "宋时，天波杨府的烧火丫鬟杨排风，降服了青龙，化为焰火棍。宋、辽交战，杨延昭之子杨宗保被辽邦韩昌\n擒去，三关二十四员上将均非韩昌对手，孟良飞马奔至天波府搬兵求救，杨排风愿去营救小本官，孟良却轻\n视之。二人比武较量，杨排风棍打孟良，孟良折服，佘太君令杨排风与孟良一同前往。",
@@ -648,11 +652,9 @@
       "scene_index": 4,
       "label": "第四场",
       "characters_present": [
-        "二爷搬兵来叫将",
         "佘大君",
         "佘太君",
         "孟良",
-        "抖一抖精神把战场上",
         "杨排风",
         "杨洪"
       ],
@@ -1246,11 +1248,9 @@
       "label": "第五场",
       "characters_present": [
         "佘太君",
-        "哪怕韩昌虎狠性",
         "孟良",
         "杨排风",
-        "杨洪",
-        "紧紧加鞭往前进"
+        "杨洪"
       ],
       "lines": [
         {

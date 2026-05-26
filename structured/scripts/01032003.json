@@ -13,17 +13,20 @@
     {
       "name": "朱光祖",
       "role_type": "武丑",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "窦尔敦",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "黄天霸",
       "role_type": "武生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": "注释前段为头、二本，即《围猎盗马》等场，系在本考第六册，载《盗御马》一段前之。第六册中之《盗御马》，即《探山》也，此紧接《探山》，为四本《连环套》，乃朱光祖盗钩、黄天霸与窦尔敦比武之两幕，至此全剧乃有结穴，始成完璧。此本精粹，名虽以比武著，实则在于盗钩，盖会面之后，只赖朱光祖从旁数语，窦尔敦遂佩服，与黄天霸和好。故以脚本中关节论，及以剧场中所显之好身手论，其有要均在朱光祖连夜偷入连环套，下药插刀、盗出虎头双钩等之一幕"
     }
   ],
   "plot_summary": "",
@@ -831,8 +834,6 @@
       "scene_index": 5,
       "label": "第五场",
       "characters_present": [
-        "四头目",
-        "四英雄",
         "朱光祖",
         "窦尔敦"
       ],

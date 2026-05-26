@@ -14,62 +14,74 @@
     {
       "name": "乔玄",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "刘备",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "孙权",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "吴国太",
       "role_type": "老旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "孙尚香",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "赵云",
       "role_type": "武生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "张飞",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "周瑜",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "鲁肃",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "乔福",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "贾化",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "吕范",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "孙权屡次向刘备索还荆州，未得结果，乃用周瑜之计，假托要将胞妹孙尚香许刘备为妻，用“美人计”将刘\n备诓过江来，藉此要挟。刘备与诸葛亮商议，诸葛亮派赵云保护刘备前去。临行时，交与赵云三个“锦囊”，\n嘱其遇到困难，随时拆看。刘备、赵云过江，拆阅第一个锦囊，是要刘备去见东吴老臣乔玄。乔玄一向赞\n成孙刘和好，合兵御曹；他去见孙权的母亲吴国太，告知许亲消息。吴国太传来孙权询问，才知底细，当下\n斥责孙权。乔玄乘机进言，请将孙尚香嫁与刘备。吴国太遂决定在甘露寺中当面相亲。届时，乔玄在旁竭力\n赞扬刘备，吴国太遂招刘备为婿。周瑜见美人计失败，遂又用声色来羁縻刘备。刘备果然乐不思归。赵云拆\n阅第二个锦囊，遂假报曹操发兵来夺荆襄，刘备情急，才决意回去；孙尚香也自愿随行。周瑜闻讯，拟派兵\n追赶，鲁肃劝阻，周瑜不听，亲自率兵急追。当追兵赶上刘备时，赵云拆阅第三个锦囊，按诸葛亮的安排，\n由孙尚香出而喝退追兵。及周瑜亲自赶到时，诸葛亮已到江边接应，预先埋伏的张飞也杀出来了。在张飞高\n喊“周郎计高安天下，赔了夫人又折兵”的声中，周瑜无地自容，黯然退兵。",
@@ -235,8 +247,7 @@
         "刘备",
         "吕范",
         "船夫",
-        "赵云",
-        "转面来再对四弟论"
+        "赵云"
       ],
       "lines": [
         {
@@ -1182,26 +1193,9 @@
       "label": "第三场",
       "characters_present": [
         "乔玄",
-        "他三弟翼德威风有",
-        "他四弟子龙常山将",
-        "你杀刘备不要紧",
-        "儿杀刘备心已久",
-        "出兵与他来争斗",
-        "刘备本是靖王后",
         "吴国太",
         "孙权",
-        "孙权脸上双眉皱",
-        "宫女",
-        "当阳桥前一声吼",
-        "我扭转回身奏太后",
-        "救阿斗",
-        "既为那荆州争疆土",
-        "理应当与文武聚议良谋",
-        "白马坡前诛文丑",
-        "若是兴兵来争斗",
-        "还有诸葛用计谋",
-        "长坂坡",
-        "鞭打督邮他气冲牛斗"
+        "宫女"
       ],
       "lines": [
         {

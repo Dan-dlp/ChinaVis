@@ -11,12 +11,14 @@
     {
       "name": "疯僧",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "秦桧",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "秦桧设计害死岳飞后，日夜惊悸不安，乃至灵隐寺斋醮，以为忏悔。寺内疯僧，与之谈话时，疯僧指桑骂槐，\n尽揭其隐，且以笤帚扫之。秦桧狼狈出寺而去。",
@@ -62,7 +64,6 @@
       "characters_present": [
         "僧人",
         "四小僧",
-        "河里洗澡睡在寺里",
         "疯僧",
         "秦桧"
       ],

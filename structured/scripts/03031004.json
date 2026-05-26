@@ -11,17 +11,20 @@
     {
       "name": "常天保",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "常妻",
       "role_type": "花旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "周子清",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "周子清邀友常天保赴京赶考。常天保素惧妻，归与请商。非但未允，反被罚跪顶砖。适周子清撞见，婉劝不\n果。周子清乃助常天保打妻，终得允考。",
@@ -70,13 +73,11 @@
       "scene_index": 1,
       "label": "全剧",
       "characters_present": [
-        "一步来在常府上",
         "丫鬟",
         "周子清",
         "常 天 保",
         "常天保",
-        "常妻",
-        "此番进京得中了"
+        "常妻"
       ],
       "lines": [
         {

@@ -11,22 +11,26 @@
     {
       "name": "赵女",
       "role_type": "正旦",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "赵高",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "秦王",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "门官",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     }
   ],
   "plot_summary": "秦二世时，赵高非常专权，因与匡洪有仇，就差人至匡府盗取秦皇前赐匡洪的宝剑，剑名宇宙锋，去刺秦二\n世。没有成功，于是陷害匡洪。匡洪的儿子逃走他乡，匡洪的管家赵忠，因为像貌很像匡子，就慨然替主一\n死。赵高的女儿寡而美，被秦二世看见，欲招她进宫，赵高当即叩头谢恩愿意进献。但是他的女儿倒是深明\n大义，见秦二世如此荒淫无道，国必不久，定不肯答应。赵高因为已答应了秦二世，如何能够反悔，非逼令\n她去不可。赵女正在无可如何的时候，忽然看见她的哑丫头在旁边做手势，教她只有装疯。赵女一想不错，\n马上指手画脚、见神见鬼的装起疯来。赵高竟被她蒙过，信以为真，次日上殿去奏明秦二世。秦二世不信，\n令她上殿当面验明。赵女仍旧作出毫无忌惮的神情胡骂乱叫。秦二世信以为真只得放她回去。",
@@ -86,9 +90,7 @@
       "scene_index": 1,
       "label": "第一场",
       "characters_present": [
-        "一声来唤",
         "丫头",
-        "我只得把官人一声唤",
         "秦王",
         "赵女",
         "赵高",
@@ -962,7 +964,6 @@
       "scene_index": 2,
       "label": "第二场",
       "characters_present": [
-        "到于今顾不得抛头露面",
         "秦王",
         "赵女",
         "赵高"

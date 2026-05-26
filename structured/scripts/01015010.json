@@ -13,22 +13,26 @@
     {
       "name": "李三春",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "田大",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "田二",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "田大妻",
       "role_type": "青衣",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     }
   ],
   "plot_summary": "田三妻李氏三春，主张分家之说，两兄不依。日夜吵闹，且迁怒于灶神，斥其不加佑护，将偶像肆行打骂。\n田三素性懦弱，惟妻言是听。两兄出于无奈，姑为之顺从其意，检点财产什物，一一配搭匀净，三股公分，\n始不闻有河东狮吼云。",
@@ -394,8 +398,6 @@
       "scene_index": 2,
       "label": "第二场",
       "characters_present": [
-        "一脚门里一脚门外",
-        "分家不如同居好",
         "李三春",
         "田二",
         "田大",

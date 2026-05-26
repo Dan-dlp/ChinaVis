@@ -15,72 +15,86 @@
     {
       "name": "单雄信",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "公主",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "李世民",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "徐勣",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "尉迟恭",
       "role_type": "副净",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "王世充",
       "role_type": "副净",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "孟海公",
       "role_type": "末",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "窦建德",
       "role_type": "外",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "朱灿",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "高谈圣",
       "role_type": "副净",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "罗成",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "程咬金",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "黑月奴",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "白月姣",
       "role_type": "贴旦",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     }
   ],
   "plot_summary": "唐太宗李世民，未即位时，封为秦王。唐之开基创业，皆李世民一人之主谋。小说中谓扫荡六十四路烟尘、\n十八路反王，无一非李世民亲身临阵，而成大一统之规模也。推其得天下之故，由于爱才重士，苟有武艺超\n群者无论闻名与见面，即殷殷向慕。若诚心归附，必宠以爵赏，升以事权，推心置腹，自始至终不渝。故大\n小将士，深感遭际之圣明，乐为之用。乱世时，草泽英雄，无地不生，无处不有，负重名者，莫如贾家楼一\n班聚义兄弟（姓名详载《说唐传》），先后均被李世民罗至麾下。南征北讨，立功于疆场者，以此为最。而\n单雄信，亦聚义中之一，与唐有杀兄之仇，心中饮恨，独不肯委身焉。其时王世充称帝于洛阳，国号郑，单\n雄信遂为郑将。王世充欲固其心，招为驸马，因此竭忠尽力，与唐为敌。至武德四年，唐兵围洛阳，各路救\n兵，一败涂地。王世充困在孤城，内无援，外无饷。单雄信明知事不可为，只愿此身与城俱碎。乃单人独骑，\n出踹唐营。横槊大呼而入，自信无生全之理，欲以一死报国，果为尉迟恭所擒获。李世民钦其勇，再三劝\n降，奈单雄信不肯事仇，虽口如悬河，分毫不能摇惑。李世民无如何，命杀之以全其节。诸将中为尉迟恭与\n单雄信并无交情，即由尉迟恭行刑。徐茂公、罗成、程咬金等，均有结拜之谊，互相把盏。单雄信面斥徐茂\n功诸人违背聚义时之盟誓，滴酒不肯入口。独程咬金以巧语花言，使之领情。单雄信遂引颈就戮，毫无瑟缩\n状态。其慷慨激昂之气，实足愧事离负义之小人。",
@@ -317,20 +331,13 @@
       "scene_index": 2,
       "label": "第二场",
       "characters_present": [
-        "一人拼命众难斗",
         "单雄信",
-        "去时走的是阳关道",
         "四卒",
         "孟海公",
-        "将首级搭出宝帐口",
-        "恨唐童绝了我单门后",
         "报子",
         "朱灿",
         "王世充",
         "窦建德",
-        "纵然战死唐营内",
-        "辞别王爷出帐口",
-        "铁壁铜墙难经久",
         "高谈圣"
       ],
       "lines": [
@@ -808,26 +815,8 @@
       "scene_index": 3,
       "label": "第三场",
       "characters_present": [
-        "一人拼命众难斗",
-        "上房内辞别了王公主",
-        "你今要把唐兵退",
         "公主",
-        "单人独马唐营去",
-        "单雄信",
-        "唐兵围困洛阳地",
-        "唐童是我冤仇对",
-        "夫妻本是同林鸟",
-        "夫有刚来妻有志",
-        "宝剑撇在尘埃地",
-        "快将宝剑交付我",
-        "急忙请至上房坐",
-        "我也曾对天盟下誓",
-        "我今前来别过你",
-        "有仇不报非君子",
-        "楂树岗前冤仇记",
-        "楂树岗前结仇恨",
-        "雄信战死唐营内",
-        "雄信战死沙场地"
+        "单雄信"
       ],
       "lines": [
         {
@@ -1454,20 +1443,14 @@
       "scene_index": 4,
       "label": "第四场",
       "characters_present": [
-        "今日定斩单雄信",
-        "只可擒来不可斩",
         "四卒",
         "尉迟恭",
-        "开言便把先生叫",
         "徐勣",
         "报子",
-        "本帅与你一支令",
         "李世民",
-        "楂树岗前结下恨",
         "白月姣",
         "程咬金",
         "罗成",
-        "脱去罗袍换铠甲",
         "黑月奴"
       ],
       "lines": [
@@ -2155,7 +2138,6 @@
       "scene_index": 5,
       "label": "第五场",
       "characters_present": [
-        "催马来在东营内",
         "单雄信",
         "罗成"
       ],
@@ -2484,23 +2466,12 @@
       "scene_index": 9,
       "label": "第九场",
       "characters_present": [
-        "你若真心来降顺",
         "单雄信",
         "四卒",
-        "声声只把唐童骂",
         "尉迟恭",
-        "小王好意来劝你",
         "徐勣",
-        "恨不得将尔用刀割",
-        "本待不把雄信斩",
         "李世民",
-        "枣阳槊一降朝下打",
-        "楂树岗前非有意",
-        "程咬金",
-        "若还再把雄信放",
-        "豪杰杀进中营内",
-        "雄信本是奇男子",
-        "雄信连胜四营将"
+        "程咬金"
       ],
       "lines": [
         {

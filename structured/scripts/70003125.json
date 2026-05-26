@@ -13,22 +13,26 @@
     {
       "name": "关羽",
       "role_type": "红生",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "庞德",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "关平",
       "role_type": "武生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "周仓",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "关羽大败曹仁。曹操挂于禁为帅，庞德为先锋，统率七军往救。庞德预制棺木，誓与关羽死战。于禁嫉庞德\n夺功，不令出战，并将七军移屯城北罾口川。关羽乘襄江水涨，放水淹之，于是大破曹兵，生擒于禁、庞德。",
@@ -838,9 +842,7 @@
         "众将",
         "关平",
         "关羽",
-        "周仓",
-        "大骂庞德尔好威风",
-        "尔好煞气"
+        "周仓"
       ],
       "lines": [
         {

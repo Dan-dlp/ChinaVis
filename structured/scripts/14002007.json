@@ -11,27 +11,32 @@
     {
       "name": "苏三",
       "role_type": "青衣",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "王金龙",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "刘大人",
       "role_type": "须生",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "周大人",
       "role_type": "须生",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "崇公道",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     }
   ],
   "plot_summary": "八府巡按王金龙，来到山西太原府洪洞县，查阅案卷。见内有苏三谋杀亲夫一案，随即升堂，请藩台、臬台\n一同陪审。一见犯妇就是自己从前所热恋的妓女玉堂春，不禁吓晕过去，只好暂时罢审。随即请医生诊过，\n精神恢复后才继续审问。不意苏三所供，都是些旧事重提。王金龙听得渐渐忘形，要想跑下位去，和苏三叙\n叙离情。被藩、臬二人识破他的隐秘，向他只管冷嘲热讽。王金龙羞惭得无地自容，只好再装旧病复发，将\n案子索性交与他们二人去审。藩、臬故意只略一盘问就退了堂，看王金龙怎样和苏三会面。王金龙到底因为\n耳目众多，暂时也不敢相认。只不过稍加安慰苏三，说是极力设法来搭救她罢了。",
@@ -360,22 +365,13 @@
       "label": "第二场",
       "characters_present": [
         "中军",
-        "他在楼下夸豪富",
-        "公子若是不娶妾",
         "刘大人",
         "医生",
         "周大人",
-        "四衙役",
-        "奴在北楼高声骂",
         "崇公道",
-        "忘八",
-        "朦胧举目来观定",
         "王金龙",
         "苏三",
-        "苏三此去好有一比",
-        "那一日金哥来报信",
-        "门子",
-        "鸨儿心太狠"
+        "门子"
       ],
       "lines": [
         {

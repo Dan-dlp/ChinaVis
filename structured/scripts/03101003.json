@@ -15,92 +15,110 @@
     {
       "name": "关羽",
       "role_type": "红生",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "关平",
       "role_type": "武生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "周仓",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "廖化",
       "role_type": "生",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "王甫",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "赵累",
       "role_type": "生",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "马良",
       "role_type": "生",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "费诗",
       "role_type": "生",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "糜芳",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "傅士仁",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "华佗",
       "role_type": "生",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "诸葛瑾",
       "role_type": "生",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "孙权",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "吕蒙",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "陆逊",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "曹仁",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "吕常",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "徐晃",
       "role_type": "生",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     }
   ],
   "plot_summary": "曹操遣使约孙权暗袭荆州，孙权命诸葛瑾往见关羽，代子联姻，事成则吴蜀合兵击魏。诸葛瑾会羽被拒，孙\n权决联魏攻荆州。孙权遣吕蒙督师，吕蒙以荆襄之间烽火台联接，不易得手，诈称病。陆逊往探后献计，并\n假代吕蒙为都督。关羽轻之，不但未加戒备，且撤荆州之兵以攻樊城。吕蒙伺机占烽火台，进而袭取荆州，\n并约徐晃合攻，关羽大败；傅士仁、糜芳又献公安、南郡；关羽势孤，乃退守麦城。廖化往上庸求救，关羽\n屡盼援军不至，遂乘夜突围。吕蒙预伏潘璋、马忠等于城北小路，关羽、关平遂中伏，遭擒。",
@@ -884,10 +902,8 @@
       "scene_index": 2,
       "label": "第二场",
       "characters_present": [
-        "不看军师诸葛亮",
         "伊籍",
         "傅士仁",
-        "关兴",
         "关平",
         "关羽",
         "周仓",
@@ -895,10 +911,8 @@
         "廖化",
         "报子",
         "王甫",
-        "糜芳",
         "诸葛瑾",
         "赵累",
-        "这荆州原本是关某执掌",
         "马良"
       ],
       "lines": [
@@ -1765,7 +1779,6 @@
         "关羽",
         "周仓",
         "报子",
-        "糜芳",
         "费诗"
       ],
       "lines": [
@@ -2306,7 +2319,6 @@
         "傅士仁",
         "关羽",
         "周仓",
-        "糜芳",
         "费诗"
       ],
       "lines": [
@@ -8693,19 +8705,15 @@
       "scene_index": 37,
       "label": "第三十七场",
       "characters_present": [
-        "不看军师诸葛亮",
         "伊籍",
         "傅士仁",
-        "关兴",
         "关平",
         "关羽",
         "周仓",
         "廖化",
         "王甫",
-        "糜芳",
         "诸葛瑾",
         "赵累",
-        "这荆州原本是关某执掌",
         "马良"
       ],
       "lines": [

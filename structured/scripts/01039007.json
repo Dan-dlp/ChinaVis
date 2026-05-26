@@ -13,32 +13,38 @@
     {
       "name": "姜尚",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "妲己",
       "role_type": "花旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "纣王",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "玉妹",
       "role_type": "占旦",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "喜妹",
       "role_type": "副旦",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "周武王",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "剧本从纣王在鹿台与妲己、玉妹、喜妹三妃，彻夜欢宴做起，至周师大会孟津，反入朝歌，被姜尚杀去三妖\n妃为止。开场演鹿台大宴，纣王听妲己之言，立命武士，将渡河涉水之一老一少，尽行斩断其腿骨，以验妲\n己有髓无髓。其残忍无道，不顾民命，亦可谓至于极点矣（此事并非戏剧与小说中之形容虚语，却的是实在，\n即《尚书》中所谓观“涉踖者，而断其胫是也）。于残杀之后，即紧接周师入攻，盈廷无人，愿出抵敌之\n一段。此用意颇严正，既而妲己亲自挂帅出战，自仗妖法，以为无敌，却不道三战三北，三妖妇均被姜尚擒\n住，尽行杀却。",
@@ -283,10 +289,7 @@
         "四武士",
         "大太监甲",
         "妲己",
-        "姬昌小子太不良",
-        "悄声胜雾拥云降",
         "玉妹",
-        "管突重围无路礙",
         "纣王"
       ],
       "lines": [
@@ -1666,8 +1669,6 @@
       "label": "第三场",
       "characters_present": [
         "喜妹",
-        "四下手",
-        "四女兵",
         "四女将",
         "妲己",
         "玉妹"

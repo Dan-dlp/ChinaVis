@@ -13,32 +13,38 @@
     {
       "name": "单雄信",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "李世民",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "徐茂公",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "罗成",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "程咬金",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "尉迟恭",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     }
   ],
   "plot_summary": "唐王李世民击灭王世充时，俘获王世充部将单雄信，劝降不从，绑出处斩。在刑场上李世民和单雄信盟友徐\n茂公、罗成、程咬金等先后向单雄信敬酒后，单雄信即慷慨就义。",
@@ -211,32 +217,13 @@
       "scene_index": 2,
       "label": "第二场",
       "characters_present": [
-        "三十六人曾结拜",
-        "今生不能够把仇解",
-        "你今饮了头斗酒",
-        "你今饮了这斗酒",
-        "你在唐营为元帅",
         "单雄信",
-        "叔宝",
-        "咬金被你拐",
         "四龙套",
         "尉迟恭",
         "徐茂公",
-        "忘恩负义投唐寨",
-        "我为你三贤府来盖",
-        "我为你东床招驸马",
-        "我兄被你箭射坏",
-        "我的哥一死威名在",
-        "曾记得打散了瓦岗寨",
         "李世民",
-        "某今饮干了三斗酒",
         "程咬金",
-        "等候二哥回营寨",
-        "罗成",
-        "贾家楼曾结拜",
-        "锦绣江山被你卖",
-        "雄信一死英名在",
-        "非是愚兄将你害"
+        "罗成"
       ],
       "lines": [
         {

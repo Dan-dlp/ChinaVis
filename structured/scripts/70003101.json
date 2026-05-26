@@ -13,32 +13,38 @@
     {
       "name": "关羽",
       "role_type": "生",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "熊虎",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "张继昌",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "张鸾姣",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "苗信",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "熊祥",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     }
   ],
   "plot_summary": "蒲州太守熊虎之子熊祥，勾结县令苗信，强占士人张继昌之女张鸾姣。关羽闻讯不平，去公堂辩理，打死恶\n霸熊祥，火焚衙署，劈监救出张鸾姣和所有犯人，逃至圣母庙。熊虎率众捕快追赶，火焚庙宇。关羽从火中\n冲出，在路旁小河净面，脸色变成丹红。时熊虎从后面追来，关羽劈死熊虎，逃奔范阳。",
@@ -159,8 +165,6 @@
       "scene_index": 1,
       "label": "第一场",
       "characters_present": [
-        "四文官",
-        "四武官",
         "苗信"
       ],
       "lines": [
@@ -249,8 +253,6 @@
       "scene_index": 2,
       "label": "第二场",
       "characters_present": [
-        "四文官",
-        "四武官",
         "熊祥",
         "熊福",
         "熊虎",

@@ -11,22 +11,26 @@
     {
       "name": "杨延德",
       "role_type": "净",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "杨延昭",
       "role_type": "武生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "老僧",
       "role_type": "末",
-      "gender": "unknown"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "萧天佐",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     }
   ],
   "plot_summary": "杨延昭与孟良盗得杨继业骨殖，正待急急赶回，后面追兵已到。杨延昭身背骨匣，孟良在后御敌，慌忙中二\n人走散。杨延昭夜宿于五台山兴国寺，巧遇在此出家的杨延德。难中相遇，悲痛万状。此时追兵已围住寺院，\n兄弟二人合力击退众兵。后杨延昭归家，杨延德仍留五台山为僧。",
@@ -75,9 +79,7 @@
         "杨延德",
         "杨延昭",
         "老僧",
-        "耸双肩手抵着牙儿定",
-        "萧天佐",
-        "靠三门倚定价壁儿听"
+        "萧天佐"
       ],
       "lines": [
         {

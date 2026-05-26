@@ -11,27 +11,32 @@
     {
       "name": "薛平贵",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "代战公主",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "莫洪",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "马达",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     },
     {
       "name": "江海",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     }
   ],
   "plot_summary": "薛平贵继位后，一日有鸿雁代王宝钏赍血书飞至。薛平贵得书，顿忆前情，乃灌醉代战公主私逃回国。代战\n公主醒而追之，连赶三关。追及，薛平贵哭诉衷曲，代战公主怜而允诺，并驻兵国境，以备接应。",
@@ -95,10 +100,8 @@
       "label": "第一场",
       "characters_present": [
         "代战公主",
-        "哪怕那南朝兵将广",
         "大太监",
         "薛平贵",
-        "虽然西凉孤执掌",
         "雁仙"
       ],
       "lines": [
@@ -1679,18 +1682,10 @@
       "label": "第五场",
       "characters_present": [
         "代战公主",
-        "低下头来心暗算",
-        "你有前妻王三姐",
         "四红龙套",
-        "坐在雕鞍用目看",
-        "快宣公主到城边",
-        "手执金弓和弹打",
-        "打开罗衫从头看",
         "江海",
         "莫洪",
         "薛平贵",
-        "远望寒窑高声唤",
-        "非是我独自离宫院",
         "马达"
       ],
       "lines": [

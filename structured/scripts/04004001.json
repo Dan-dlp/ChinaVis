@@ -11,27 +11,32 @@
     {
       "name": "苏三",
       "role_type": "旦",
-      "gender": "female"
+      "gender": "female",
+      "costume_note": null
     },
     {
       "name": "王金龙",
       "role_type": "小生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "潘必正",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "刘秉义",
       "role_type": "老生",
-      "gender": "male"
+      "gender": "male",
+      "costume_note": null
     },
     {
       "name": "崇公道",
       "role_type": "丑",
-      "gender": "male"
+      "gender": "unknown",
+      "costume_note": null
     }
   ],
   "plot_summary": "洪洞县的解差崇公道提解女犯苏三（玉堂春）赴太原复审，一路上苏三诉说自己的悲惨遭遇。她是从小被父\n母卖给妓院的，后来又被鸨儿卖给山西富商沈燕林作妾。沈妻皮氏与赵监生私通，害死沈燕林，反诬告苏三\n谋死亲夫。县官受了皮氏的贿赂，竟把她问成死罪。她却没想到调她复审的八府巡按正是曾与她誓偕白首的\n情人王金龙。复审之日，王金龙在堂上感情激动不能处持，被陪审的藩、臬二司看破，以致当时不能终审。\n随后明了案情，平反冤狱；王金龙、苏三破镜重圆，结为姻眷。",
@@ -136,7 +141,6 @@
       "label": "第一场",
       "characters_present": [
         "崇公道",
-        "无奈何我只得把礼来见",
         "狱官",
         "禁卒",
         "苏三"
